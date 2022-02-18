@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9554",]
+jsonClass = "Subhaashita"
+title = "कामं लिखतु"
+
++++
+
+<details><summary>Text</summary>
+
+कामं लिखतु संस्थानं कश्चिद् रूपं च भास्वतः।  
+अभित्तिविहतालम्बम् आलोकं विलिखेत् कथम्॥
+</details>

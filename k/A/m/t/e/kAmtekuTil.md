@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9478",]
+jsonClass = "Subhaashita"
+title = "कान्ते कुटिलमालोक्य"
+
++++
+
+<details><summary>Text</summary>
+
+कान्ते कुटिलमालोक्य कर्णकण्डूयनेन किम्।  
+कामं कथय कल्याणि किङ्करः करवाणि यत्॥
+</details>

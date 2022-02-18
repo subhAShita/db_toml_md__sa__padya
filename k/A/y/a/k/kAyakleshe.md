@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9688",]
+jsonClass = "Subhaashita"
+title = "कायक्लेशेन महता"
+
++++
+
+<details><summary>Text</summary>
+
+कायक्लेशेन महता पुरुषः प्राप्नुयात् फलम्।  
+तत् सर्वं लभते नारी सुखेन पतिपूजया॥
+</details>

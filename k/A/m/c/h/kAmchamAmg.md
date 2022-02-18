@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9360A",]
+jsonClass = "Subhaashita"
+title = "काञ्चनाङ्गि कमनीयकलापौ"
+
++++
+
+<details><summary>Text</summary>
+
+काञ्चनाङ्गि कमनीयकलापौ कञ्चुलीकवचितौ लिकुचौ ते।  
+पाणिना ननु वहामि मुहूर्तं देहि मेऽधरमणिं तव दास्यम्॥
+</details>

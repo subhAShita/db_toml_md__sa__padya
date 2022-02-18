@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9903",]
+jsonClass = "Subhaashita"
+title = "कालो हेतुम्"
+
++++
+
+<details><summary>Text</summary>
+
+कालो हेतुं विकुरुते स्वार्थस् तमनुवर्तते।  
+स्वार्थं प्राज्ञोऽभिजानाति प्राज्ञं लोकोऽनुवर्तते॥
+</details>

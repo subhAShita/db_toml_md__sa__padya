@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9919",]
+jsonClass = "Subhaashita"
+title = "काव्यप्रपञ्चचुञ्चू रचयति"
+
++++
+
+<details><summary>Text</summary>
+
+काव्यप्रपञ्चचुञ्चू रचयति काव्यं न सारविद् भवति।  
+तरवः फलानि सुवते विन्दति सारं पतङ्गसमुदायः॥
+</details>

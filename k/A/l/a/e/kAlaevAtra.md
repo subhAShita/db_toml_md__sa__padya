@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9794",]
+jsonClass = "Subhaashita"
+title = "काल एवात्र"
+
++++
+
+<details><summary>Text</summary>
+
+काल एवात्र कालेन निग्रहानुग्रहौ ददत्।  
+बुद्धिमाविश्य भूतानां धर्मार्थेषु प्रवर्तते॥
+</details>

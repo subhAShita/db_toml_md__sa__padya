@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9379",]
+jsonClass = "Subhaashita"
+title = "कातरताकेकरित"
+
++++
+
+<details><summary>Text</summary>
+
+कातरताकेकरित- स्मरलज्जारोषमसृणमधुराक्षी।  
+योक्तुं न मोक्तुमथवा वलतेऽसावर्थलब्धरतिः॥
+</details>

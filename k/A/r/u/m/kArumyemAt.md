@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9712",]
+jsonClass = "Subhaashita"
+title = "कारुण्येनात्मनो मानम्"
+
++++
+
+<details><summary>Text</summary>
+
+कारुण्येनात्मनो मानं तृष्णां च परितोषतः।  
+उत्थानेन जयेत् तन्द्रीं वितर्कं निश्चयाज्जयेत्॥
+</details>

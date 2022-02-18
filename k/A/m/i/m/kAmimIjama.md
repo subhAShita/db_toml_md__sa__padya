@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9648A",]
+jsonClass = "Subhaashita"
+title = "कामिनीजनविलोचनपाता"
+
++++
+
+<details><summary>Text</summary>
+
+कामिनीजनविलोचनपाता- नुन्मिषत्कलुषान् प्रतिगृह्णन्।  
+मन्दमन्दमुदितः प्रययौ खं भीतभीत इव शीतमयूखः॥
+</details>

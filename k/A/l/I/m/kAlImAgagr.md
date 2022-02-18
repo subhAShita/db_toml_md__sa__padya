@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9861",]
+jsonClass = "Subhaashita"
+title = "कालीनागग्रहव्यग्रे"
+
++++
+
+<details><summary>Text</summary>
+
+कालीनागग्रहव्यग्रे श्रीकृष्णे यमुनातटे।  
+झंपयाधोमुखे जाते विपरीतं जगत्त्रयम्॥
+</details>

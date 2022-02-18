@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9815",]
+jsonClass = "Subhaashita"
+title = "कालव्यालहतं वीक्ष्य"
+
++++
+
+<details><summary>Text</summary>
+
+कालव्यालहतं वीक्ष्य पतन्तं भानुमम्बरात्।  
+ओषधीशं समादाय धावतीव पितृप्रसूः॥
+</details>

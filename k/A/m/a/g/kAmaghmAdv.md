@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9595",]
+jsonClass = "Subhaashita"
+title = "कामघ्नाद् विषमदृशो"
+
++++
+
+<details><summary>Text</summary>
+
+कामघ्नाद् विषमदृशो भूत्यवलिप्ताद् भुजङ्गसङ्गरुचेः।  
+को भृङ्गीव न शुष्यति वाञ्छ न फलमीश्वरादगुणात्॥
+</details>

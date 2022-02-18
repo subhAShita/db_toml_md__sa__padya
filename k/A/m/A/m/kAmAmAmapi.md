@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9633",]
+jsonClass = "Subhaashita"
+title = "कामानामपि दातारम्"
+
++++
+
+<details><summary>Text</summary>
+
+कामानामपि दातारं कर्तारं मानसान्त्वयोः।  
+रक्षितारं न मृष्यन्ति भर्तारं परमं स्त्रियः॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9752",]
+jsonClass = "Subhaashita"
+title = "कार्यान्तरितोत्कण्ठम्"
+
++++
+
+<details><summary>Text</summary>
+
+कार्यान्तरितोत्कण्ठं दिनं मया नीतमनतिकृच्छ्रेण।  
+अविनोददीर्घयामा कथं नु रात्रिर्गमयितव्या॥
+</details>

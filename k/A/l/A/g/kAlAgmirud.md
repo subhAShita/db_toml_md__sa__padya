@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9824",]
+jsonClass = "Subhaashita"
+title = "कालाग्निरुद्र आधारे"
+
++++
+
+<details><summary>Text</summary>
+
+कालाग्निरुद्र आधारे शक्तिः कुण्डलिनी तथा।  
+आनन्दाख्या स्वधिष्ठाने शक्त्या कामाख्यया सह॥
+</details>
