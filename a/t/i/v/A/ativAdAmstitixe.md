@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_0606",]
+jsonClass = "Subhaashita"
+title = "अतिवादांस्तितिक्षेत"
+
++++
+
+<details><summary>Text</summary>
+
+अतिवादांस्तितिक्षेत नावमन्येत कंचन।  
+न चेमं देहमाश्रित्य वैरं कुर्वीत केनचित्॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_1729",]
+jsonClass = "Subhaashita"
+title = "अन्नादे भ्रूणहा"
+
++++
+
+<details><summary>Text</summary>
+
+अन्नादे भ्रूणहा मार्ष्टि पत्यौ भार्यापचारिणी।  
+गुरौ शिष्यश्च याज्यश्च स्तेनो राजनि किल्बिषम्॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_0219",]
+jsonClass = "Subhaashita"
+title = "अग्नौ प्रास्ताहुतिः"
+
++++
+
+<details><summary>Text</summary>
+
+अग्नौ प्रास्ताहुतिः सम्यग् आदित्यमुपतिष्ठते।  
+आदित्याज्जायते वृष्टिर् वृष्र्̥एरन्नं ततः प्रजाः॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_4365",]
+jsonClass = "Subhaashita"
+title = "आगच्छतानवेक्षित"
+
++++
+
+<details><summary>Text</summary>
+
+आगच्छतानवेक्षित- पृष्ठेनार्थी वराटकेनेव।  
+मुषितास्मि तेन जघनां- शुकमपि वोढुं नशक्तेन॥
+</details>

@@ -1,0 +1,13 @@
++++
+secondary_sources = [ "MSS_4084",]
+jsonClass = "Subhaashita"
+title = "अहिंसा परमो"
+
++++
+
+<details><summary>Text</summary>
+
+अहिंसा परमो यज्ञस् तथाहिंसा परं बलम्।  
+अहिंसा परमं मित्रम् अहिंसा परमं सुखम्।  
+अहिंसा परमं सत्यम् अहिंसा परमं श्रुतम्॥
+</details>

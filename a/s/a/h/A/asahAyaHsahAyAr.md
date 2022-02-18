@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_3718",]
+jsonClass = "Subhaashita"
+title = "असहायः सहायार्थी"
+
++++
+
+<details><summary>Text</summary>
+
+असहायः सहायार्थी मामनुध्यातवान् ध्रुवम्।  
+पीड्यमानः शरैस्तीक्ष्णैर् द्रोणद्रौणिकृपादिभिः॥
+</details>

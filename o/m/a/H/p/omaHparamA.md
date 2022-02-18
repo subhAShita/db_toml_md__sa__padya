@@ -1,7 +1,6 @@
 +++
 secondary_sources = [ "MSS_8227",]
 jsonClass = "Subhaashita"
-text = "ॐ नमः परमार्थैकरूपाय परमात्मने।  \nस्वेच्छावभासितासत्यभेदभिन्नाय शंभवे॥"
 title = "ॐ नमः"
 
 +++

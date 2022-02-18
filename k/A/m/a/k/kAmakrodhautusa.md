@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9589",]
+jsonClass = "Subhaashita"
+title = "कामक्रोधौ तु"
+
++++
+
+<details><summary>Text</summary>
+
+कामक्रोधौ तु संयम्य योऽर्थान् धर्मेण पश्यति।  
+प्रजास्तमनुवर्तन्ते समुद्रमिव सिन्धवः॥
+</details>

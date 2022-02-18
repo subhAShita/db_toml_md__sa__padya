@@ -1,7 +1,6 @@
 +++
 secondary_sources = [ "MSS_7455",]
 jsonClass = "Subhaashita"
-text = "एक एव सुहृद् धर्मो निधनेऽप्यनुयाति यः।  \nशरीरेण समं नाशं सर्वमन्यद् हि गच्छति॥"
 title = "एक एव"
 
 +++

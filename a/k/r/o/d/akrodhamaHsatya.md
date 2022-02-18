@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_0123",]
+jsonClass = "Subhaashita"
+title = "अक्रोधनः सत्यवादी"
+
++++
+
+<details><summary>Text</summary>
+
+अक्रोधनः सत्यवादी भूतानामविहिंसकः।  
+अनसूयः सदाचारो दीर्घमायुरवाप्नुयात्॥
+</details>

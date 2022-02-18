@@ -1,0 +1,11 @@
++++
+secondary_sources = [ "MSS_1308",]
+jsonClass = "Subhaashita"
+title = "अनागतविधानं च"
+
++++
+
+<details><summary>Text</summary>
+
+अनागतविधानं च कर्तव्यं विषये नृपैः॥ आगमश्चापि कर्तव्यस् तथा दोषो न जायते॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_0051",]
+jsonClass = "Subhaashita"
+title = "अकामान् कामयति"
+
++++
+
+<details><summary>Text</summary>
+
+अकामान् कामयति यः कामयानान् परिद्विषन्।  
+बलवन्तं च यो द्वेष्टि तमाहुर्मूढचेतसम्॥
+</details>

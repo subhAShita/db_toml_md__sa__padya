@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_7675",]
+jsonClass = "Subhaashita"
+title = "एकेनापि गुणेनाहो"
+
++++
+
+<details><summary>Text</summary>
+
+एकेनापि गुणेनाहो स्पृहणीयो नरो भवेत्।  
+कलाभृत्त्येन रुचिरश् चन्द्रो दोषाकरोऽपि सन्॥
+</details>

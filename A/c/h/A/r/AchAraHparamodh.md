@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_4426",]
+jsonClass = "Subhaashita"
+title = "आचारः परमो"
+
++++
+
+<details><summary>Text</summary>
+
+आचारः परमो धर्मः श्रुत्युक्तः स्मार्त एव च।  
+तस्मादस्मिन् सदा युक्तो नित्यं स्यादात्मवान् द्विजः॥
+</details>

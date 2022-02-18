@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_3129",]
+jsonClass = "Subhaashita"
+title = "अलभ्यं लब्धुकामस्य"
+
++++
+
+<details><summary>Text</summary>
+
+अलभ्यं लब्धुकामस्य जनस्य गतिरीदृशी।  
+अलब्धेषु मनस्तापः संचितार्थो विनश्यति॥
+</details>

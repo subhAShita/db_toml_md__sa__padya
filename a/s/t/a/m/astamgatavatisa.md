@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_3815",]
+jsonClass = "Subhaashita"
+title = "अस्तं गतवति"
+
++++
+
+<details><summary>Text</summary>
+
+अस्तं गतवति सवितरि भर्तरि मधुपं निवेश्य कोशान्ते।  
+कमलिन्योऽपि रमन्ते किमत्र चित्रं मृगाक्षीणाम्॥
+</details>

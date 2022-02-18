@@ -1,7 +1,6 @@
 +++
 secondary_sources = [ "MSS_6123",]
 jsonClass = "Subhaashita"
-text = "ID\nMSS_6123    इयता वयसा न साधितं यत् परतः किं नु करिष्यतीति ...\nMSS_6123    इयतीं सुभगावस्थां गतोऽसि यस्याः कृते स्मरातङ्क...\nName: quote, dtype: object"
 title = "ID MSS_6123"
 
 +++

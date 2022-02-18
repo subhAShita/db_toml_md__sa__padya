@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9587",]
+jsonClass = "Subhaashita"
+title = "कामक्रोधानृतद्रोहलोभमोहमदादयः"
+
++++
+
+<details><summary>Text</summary>
+
+कामक्रोधानृतद्रोहलोभमोहमदादयः।  
+नमन्ति यत्र राजेन्द्र तमेव ब्राह्मणं विदुः॥
+</details>

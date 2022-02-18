@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_1239",]
+jsonClass = "Subhaashita"
+title = "अनभ्यासेन वेदानाम्"
+
++++
+
+<details><summary>Text</summary>
+
+अनभ्यासेन वेदानाम् आचारस्य च वर्जनात्।  
+आलस्यादन्नदोषाच्च मृत्युर्विप्रान् जिघांसति॥
+</details>

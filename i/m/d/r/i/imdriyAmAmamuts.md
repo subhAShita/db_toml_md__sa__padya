@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_6046",]
+jsonClass = "Subhaashita"
+title = "इन्द्रियाणामनुत्सर्गो"
+
++++
+
+<details><summary>Text</summary>
+
+इन्द्रियाणामनुत्सर्गो मृत्युना न विशिष्यते।  
+अत्यर्थं पुनरुत्सर्गः सादयेद् दैवतान्यपि॥
+</details>

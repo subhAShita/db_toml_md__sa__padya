@@ -1,7 +1,6 @@
 +++
 secondary_sources = [ "MSS_0598",]
 jsonClass = "Subhaashita"
-text = "अतिरुपवती सीता अतिगर्वी च रावणः।  \nअतीव बलवान् रामो लङ्कायेन क्षयं गता॥"
 title = "अतिरुपवती सीता"
 
 +++

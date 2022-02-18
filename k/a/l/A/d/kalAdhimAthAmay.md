@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9008",]
+jsonClass = "Subhaashita"
+title = "कलाधिनाथानयनाय सायम्"
+
++++
+
+<details><summary>Text</summary>
+
+कलाधिनाथानयनाय सायं कुमुद्वतीप्रेषित एव भृङ्गः।  
+किमिन्दुनालिङ्ग्य सरागमङ्के कृतः कलङ्कभ्रममातनोति॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_8936",]
+jsonClass = "Subhaashita"
+title = "कर्मभूमिरियं ब्रह्मन्"
+
++++
+
+<details><summary>Text</summary>
+
+कर्मभूमिरियं ब्रह्मन् फलभूमिरसौ मता।  
+इह यत् क्रियते कर्म तत् परत्रोपभुज्यते॥
+</details>

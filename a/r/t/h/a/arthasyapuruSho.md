@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_2941",]
+jsonClass = "Subhaashita"
+title = "अर्थस्य पुरुषो"
+
++++
+
+<details><summary>Text</summary>
+
+अर्थस्य पुरुषो दासो दासस्त्वर्थो न कस्यचित्।  
+इति सत्यं महाराज बद्धोऽस्म्यर्थेन कौरवैः॥
+</details>

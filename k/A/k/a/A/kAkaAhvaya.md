@@ -1,7 +1,6 @@
 +++
 secondary_sources = [ "MSS_9290",]
 jsonClass = "Subhaashita"
-text = "काक आह्वयते काकान् याचको न तु याचकान्।  \nकाकयाचकयोर्मध्ये वरं काको न याचकः॥"
 title = "काक आह्वयते"
 
 +++

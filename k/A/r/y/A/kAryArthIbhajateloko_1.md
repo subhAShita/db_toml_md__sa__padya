@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9760",]
+jsonClass = "Subhaashita"
+title = "कार्यार्थी भजते"
+
++++
+
+<details><summary>Text</summary>
+
+कार्यार्थी भजते लोको न प्रियः पारमार्थिकः।  
+वत्सः क्षीरक्षयं दृष्ट्वा परित्यजति मातरम्॥
+</details>

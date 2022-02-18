@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_8674",]
+jsonClass = "Subhaashita"
+title = "कमले कमलोत्पत्तिः"
+
++++
+
+<details><summary>Text</summary>
+
+कमले कमलोत्पत्तिः श्रूयते न च दृश्यते।  
+बाले तव मुखाम्भोजे दृष्टमिन्दीवरद्वयम्॥
+</details>

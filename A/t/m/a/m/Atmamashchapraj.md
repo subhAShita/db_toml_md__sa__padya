@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_4566",]
+jsonClass = "Subhaashita"
+title = "आत्मनश्च प्रजायाश्च"
+
++++
+
+<details><summary>Text</summary>
+
+आत्मनश्च प्रजायाश्च दोषदर्श्युत्तमो नृपः।  
+विनियच्छति चात्मानम् आदौ भृत्यांस्ततः प्रजाः॥
+</details>

@@ -1,7 +1,6 @@
 +++
 secondary_sources = [ "MSS_8980",]
 jsonClass = "Subhaashita"
-text = "कलमं फलभारातिगुरुमूर्धतया शनैः।  \nविनामान्तिकोद्भूतं समाघ्रातुमिवोत्पलम्॥"
 title = "कलमम्"
 
 +++

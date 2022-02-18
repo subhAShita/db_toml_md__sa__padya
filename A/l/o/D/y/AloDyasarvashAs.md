@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_5360",]
+jsonClass = "Subhaashita"
+title = "आलोड्य सर्वशास्त्राणि"
+
++++
+
+<details><summary>Text</summary>
+
+आलोड्य सर्वशास्त्राणि विचार्यैवं पुनः पुनः।  
+इदमेकं सुनिष्पन्नं ध्येयो नारायणः सदा॥
+</details>

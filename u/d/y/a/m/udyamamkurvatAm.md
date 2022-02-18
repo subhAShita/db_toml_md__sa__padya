@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_6879",]
+jsonClass = "Subhaashita"
+title = "उद्यमं कुर्वताम्"
+
++++
+
+<details><summary>Text</summary>
+
+उद्यमं कुर्वतां पुंसां फलं भाग्यानुसारतः।  
+समुद्रमन्थनाल्लेभे हरिर्लक्ष्मीं हरो विषम्॥
+</details>

@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_1072",]
+jsonClass = "Subhaashita"
+title = "अधर्मदण्डनंस्वर्गकीर्तिलोकविनाशनम्"
+
++++
+
+<details><summary>Text</summary>
+
+अधर्मदण्डनंस्वर्गकीर्तिलोकविनाशनम्।  
+सम्यक्तु दण्डनं राज्ञः स्वर्गकीर्तिजयावहम्॥
+</details>

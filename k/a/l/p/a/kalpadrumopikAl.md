@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9050",]
+jsonClass = "Subhaashita"
+title = "कल्पद्रुमोऽपि काले"
+
++++
+
+<details><summary>Text</summary>
+
+कल्पद्रुमोऽपि काले न भवेद् यदि फलप्रदः।  
+को विशेषस् तदा तस्य वन्यैरन्यमहीरुहैः॥
+</details>

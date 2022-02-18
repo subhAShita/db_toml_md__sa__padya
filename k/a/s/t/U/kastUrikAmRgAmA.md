@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_9178",]
+jsonClass = "Subhaashita"
+title = "कस्तूरिकामृगाणाम्"
+
++++
+
+<details><summary>Text</summary>
+
+कस्तूरिकामृगाणाम् अण्डाद् गन्धगुणमखिलमादाय।  
+यदि पुनरहं विधिः स्यां खलजिह्वायां निवेशयिष्यामि॥
+</details>

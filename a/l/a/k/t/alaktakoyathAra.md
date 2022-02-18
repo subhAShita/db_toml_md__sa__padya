@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_3108",]
+jsonClass = "Subhaashita"
+title = "अलक्तको यथा"
+
++++
+
+<details><summary>Text</summary>
+
+अलक्तको यथा रक्तो निष्पीड्य पुरुषस् तथा।  
+अबलाभिर्बलाद् रक्तः पादमूले निपात्यते॥
+</details>

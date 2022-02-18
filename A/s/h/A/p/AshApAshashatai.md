@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_5434",]
+jsonClass = "Subhaashita"
+title = "आशापाशशतैर्बद्धा"
+
++++
+
+<details><summary>Text</summary>
+
+आशापाशशतैर्बद्धा वासनाभरवाहिनः।  
+कायात् कायमुपायान्ति वृक्षाद् वृक्षमिवाण्डजाः॥
+</details>

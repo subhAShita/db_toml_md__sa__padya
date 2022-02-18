@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_6170",]
+jsonClass = "Subhaashita"
+title = "इह दुःखम्"
+
++++
+
+<details><summary>Text</summary>
+
+इह दुःखं लयः प्रोक्तो दुःखं हर्तुं लयः क्षमः।  
+दुःखे शुभे लयो दुःखं दुःखं किं तस्य कथ्यते॥
+</details>

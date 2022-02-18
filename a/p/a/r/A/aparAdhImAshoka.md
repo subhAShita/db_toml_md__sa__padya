@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_1935",]
+jsonClass = "Subhaashita"
+title = "अपराधीनाशोकः सहते"
+
++++
+
+<details><summary>Text</summary>
+
+अपराधीनाशोकः सहते चरणाहतिं सरोजदृशाम्।  
+विलसितबकुलो वनिता- मुखवासी मद्यपात इव॥
+</details>

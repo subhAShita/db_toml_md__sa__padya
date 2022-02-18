@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_7925",]
+jsonClass = "Subhaashita"
+title = "एतावज् जन्मसाफल्यम्"
+
++++
+
+<details><summary>Text</summary>
+
+एतावज् जन्मसाफल्यं यदनायत्तवृत्तिता।  
+ये पराधीनतां यातास् ते वै जीवन्ति के मृताः॥
+</details>

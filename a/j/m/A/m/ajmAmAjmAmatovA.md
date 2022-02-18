@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_0442",]
+jsonClass = "Subhaashita"
+title = "अज्ञानाज्ज्ञानतो वापि"
+
++++
+
+<details><summary>Text</summary>
+
+अज्ञानाज्ज्ञानतो वापि यद्दुरुक्तमुदाहृतम्।  
+तत् क्षन्तव्यं युवाभ्यां मे कृत्वा प्रीतिपरं मनः॥
+</details>

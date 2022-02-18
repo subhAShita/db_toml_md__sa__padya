@@ -1,0 +1,12 @@
++++
+secondary_sources = [ "MSS_0263",]
+jsonClass = "Subhaashita"
+title = "अङ्कोल्लतैलसूकर"
+
++++
+
+<details><summary>Text</summary>
+
+अङ्कोल्लतैलसूकर- शिशुमारवसासु भावितं बीजम्।  
+सद्यो रोहति निहितं भूमौ करकाम्भसा सिक्तम्॥
+</details>
