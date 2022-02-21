@@ -4,11 +4,13 @@ jsonClass = "Subhaashita"
 title = "कस्य मरौ"
 types = ["स्वयमुत्तरम्"]
 +++
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कस्य मरौ दुरधिगमः  
 कमले कः कथय विरचितावासः ।  
 कैस् तुष्यति चामुण्डा  
 रिपवस् ते वद कुतो भ्रष्टाः ॥
-
+</details>
 
 <details><summary>Text</summary>
 
