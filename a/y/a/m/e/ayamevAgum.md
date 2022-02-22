@@ -1,6 +1,7 @@
 +++
-secondary_sources = [ "MSS_2659",]
+secondary_sources = [ "MSS_2659", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 45",]
 jsonClass = "Subhaashita"
+topics = [ "कविः",]
 title = "अयं मे"
 
 +++
