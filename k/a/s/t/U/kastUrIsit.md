@@ -1,6 +1,7 @@
 +++
-secondary_sources = [ "MSS_9189",]
+secondary_sources = [ "MSS_9189", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 73",]
 jsonClass = "Subhaashita"
+topics = [ "कीर्तिः",]
 title = "कस्तूरी सितिमानमागतवती"
 
 +++
