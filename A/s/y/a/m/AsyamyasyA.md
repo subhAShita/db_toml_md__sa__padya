@@ -1,4 +1,5 @@
 +++
+topics = [ "वैराग्यम्",]
 secondary_sources = [ "MSS_5665",]
 jsonClass = "Subhaashita"
 title = "आस्यं यस्याः"
