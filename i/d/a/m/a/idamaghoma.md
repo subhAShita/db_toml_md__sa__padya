@@ -1,6 +1,7 @@
 +++
-secondary_sources = [ "MSS_5914",]
+secondary_sources = [ "MSS_5914", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०६ भयानकरसनिर्देशः// 1",]
 jsonClass = "Subhaashita"
+rasas = [ "भयानकः",]
 title = "इदं मघोनः"
 
 +++
