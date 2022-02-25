@@ -1,23 +1,18 @@
 +++
-title = "किं"
-topics = ["अश्वः"]
+topics = [ "अश्वः",]
+jsonClass = "Subhaashita"
+title = "किं स्यन्दनैः"
+
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं स्यन्दनैः केतन-दीर्ण-मेघैः  
 किं वा गजैर्-गण्ड-विदीर्ण-दानैः ।  
 किं पत्तिभिर् वा - तुरगो यदि स्यात्  
-स एव संख्येषु जयं प्रसूयते ॥ 
+स एव संख्येषु जयं प्रसूयते ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-किं स्यन्दनैः केतन-दीर्ण-मेघैः  
-किं वा गजैर्-गण्ड-विदीर्ण-दानैः ।  
-किं पत्तिभिर् वा - तुरगो यदि स्यात्  
-स एव संख्येषु जयं प्रसूयते ॥ 
-</details>
 
 
 <details><summary>MT</summary>
@@ -29,3 +24,12 @@ That alone will bring victory in the sencounter of the hosts.
 (The age of cavalry as expressed in a lokokti recorded by a kali~Ngan prince)
 </details>
 
+
+
+<details><summary>Text</summary>
+
+किं स्यन्दनैः केतन-दीर्ण-मेघैः  
+किं वा गजैर्-गण्ड-विदीर्ण-दानैः ।  
+किं पत्तिभिर् वा - तुरगो यदि स्यात्  
+स एव संख्येषु जयं प्रसूयते ॥
+</details>
