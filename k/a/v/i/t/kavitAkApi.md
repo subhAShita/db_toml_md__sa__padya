@@ -1,0 +1,14 @@
++++
+topics = [ "कवित्वम्",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "कविता कापि"
+
++++
+
+<details><summary>Text</summary>
+
+कविता कापि गङ्गा नः प्रवहन्ती पदे पदे ।  
+नित्यावगाहनाद्यस्यां शुद्धिमेति जगत्त्रयी ॥
+</details>

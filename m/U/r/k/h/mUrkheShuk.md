@@ -1,0 +1,13 @@
++++
+topics = [ "मूर्खाः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "मूर्खेषु कुशलमानिषु"
+
++++
+
+<details><summary>Text</summary>
+
+मूर्खेषु कुशलमानिषु विजानताप्यकुशलेन भवितव्यम्।  
+विमलमपि कथितमर्थं मूर्खा मोहादपहसन्ति॥
+</details>

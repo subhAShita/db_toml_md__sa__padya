@@ -1,0 +1,14 @@
++++
+topics = [ "प्रिय-वियोगः",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "समृद्धकुसुमा वाटी"
+
++++
+
+<details><summary>Text</summary>
+
+समृद्धकुसुमा वाटी रिक्ता पुष्पकरण्डिका ।  
+निवेदयत एतस्या गृहिण्या विरहव्यथाम् ॥
+</details>

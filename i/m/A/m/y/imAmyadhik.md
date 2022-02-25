@@ -1,0 +1,13 @@
++++
+topics = [ "कृष्णः", "रतिः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "इमान्यधिकमग्नानि पदानि"
+
++++
+
+<details><summary>Text</summary>
+
+इमान्यधिकमग्नानि पदानि वहतो वधूम् ।  
+गोप्यः पश्यत कृष्णस्य भाराक्रान्तस्य कामिनः ॥
+</details>

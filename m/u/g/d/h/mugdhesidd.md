@@ -1,0 +1,21 @@
++++
+topics = [ "स्त्री-सौन्दर्यम्",]
+sources = [ "सुहासः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "मुग्धे! सिद्धमनेनेति"
+
++++
+
+<details><summary>अज्ञात-विवरणम्</summary>
+
+(लावण्यशब्दे श्लेषः)
+</details>
+
+
+
+<details><summary>Text</summary>
+
+मुग्धे! सिद्धमनेनेति मन्ये लावण्यमोष्ठयोः ।  
+पायं पायं पिपासेयं वर्धते न विनीयते ॥
+</details>

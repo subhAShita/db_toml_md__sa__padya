@@ -1,7 +1,10 @@
 +++
 secondary_sources = [ "MSS_0457",]
+topics = [ "क्रियाशीलता", "शुष्क-पाण्डित्यम्", "ग्रन्थः", "वेदाः", "ज्ञानम्",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "अज्ञेभ्यो ग्रन्थिनः"
+title = "अज्ञेभ्यो ग्रन्थिन"
 
 +++
 

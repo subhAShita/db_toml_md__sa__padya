@@ -1,0 +1,13 @@
++++
+topics = [ "शृङ्गारः", "कृष्णः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "श्याममेव परम्"
+
++++
+
+<details><summary>Text</summary>
+
+श्याममेव परं रूपं पुरी मधुपुरी वरा।  
+वयः कैशोरकं ध्येयमाद्य एव परो रसः॥
+</details>

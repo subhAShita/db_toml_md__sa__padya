@@ -1,7 +1,8 @@
 +++
-topics = [ "कालः",]
+topics = [ "कालः", "लयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 189",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "मातुलो यस्य"
 
 +++

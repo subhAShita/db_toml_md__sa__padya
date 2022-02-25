@@ -1,0 +1,14 @@
++++
+topics = [ "कामः",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "मदनाय नमस्तस्मै"
+
++++
+
+<details><summary>Text</summary>
+
+मदनाय नमस्तस्मै शरतां च शरव्यताम् ।  
+धन्विना येन नीयन्ते सुमनांसि मनांसि च ॥
+</details>

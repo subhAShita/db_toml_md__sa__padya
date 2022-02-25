@@ -1,0 +1,14 @@
++++
+topics = [ "कृष्णः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "राधधरमधुस्यन्दमिलिन्दाय"
+
++++
+
+<details><summary>Text</summary>
+
+राधधरमधुस्यन्दमिलिन्दाय मधुद्विषे।  
+कृष्णापटकुविन्दाय गोविन्दाय नमोऽस्तु ते।  
+
+</details>

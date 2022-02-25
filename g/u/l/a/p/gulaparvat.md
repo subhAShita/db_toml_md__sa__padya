@@ -1,0 +1,13 @@
++++
+topics = [ "प्रकृतिः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "गुलपर्वतमध्यस्थम्"
+
++++
+
+<details><summary>Text</summary>
+
+गुलपर्वतमध्यस्थं निम्बबीजं प्रतिष्टितम्।  
+पयोवर्षसहस्रेण निम्बः किं मधुरायते॥
+</details>

@@ -2,6 +2,8 @@
 topics = [ "गणेशः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 22",]
 jsonClass = "Subhaashita"
+sources = [ "भोजः",]
+ratings = [ "vvasuki:5",]
 title = "लक्ष्मीं तनोतु"
 
 +++

@@ -1,7 +1,8 @@
 +++
-topics = [ "नीतिः",]
+topics = [ "नीतिः", "अध्ययनम्", "बुद्धि-विकासः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 760",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "यः पठति"
 
 +++

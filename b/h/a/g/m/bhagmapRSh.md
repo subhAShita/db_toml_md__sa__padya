@@ -1,0 +1,13 @@
++++
+topics = [ "पुस्तकम्", "लेखनम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "भग्नपृष्ठकटिग्रीवम्"
+
++++
+
+<details><summary>Text</summary>
+
+भग्नपृष्ठकटिग्रीवं स्तब्धदृष्टिरधोमुखम् ।  
+कष्टेन लिखितं ग्रन्थं यत्नेन परिपालयेत् ॥
+</details>

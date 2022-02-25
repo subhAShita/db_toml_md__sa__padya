@@ -1,0 +1,13 @@
++++
+topics = [ "वृद्ध-पूजा",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "अभिवादनशीलस्य नित्यम्"
+
++++
+
+<details><summary>Text</summary>
+
+अभिवादनशीलस्य नित्यं वृद्धोपसेविनः।  
+चत्वारि सम्प्रवर्धन्ते आयुर् विद्या यशो बलम् ॥
+</details>

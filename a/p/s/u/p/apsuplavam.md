@@ -1,7 +1,8 @@
 +++
 secondary_sources = [ "MSS_2205", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 194",]
-jsonClass = "Subhaashita"
 topics = [ "कालः",]
+jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "अप्सु प्लवन्ते"
 
 +++

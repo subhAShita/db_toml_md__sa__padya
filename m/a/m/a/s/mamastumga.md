@@ -2,6 +2,7 @@
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 1",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "नमस्तुङ्गशिरश्चुम्बिचन्द्रचामरचारवे"
 
 +++

@@ -1,0 +1,13 @@
++++
+topics = [ "धर्मः", "कामः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "बलं बलवतामस्मि"
+
++++
+
+<details><summary>Text</summary>
+
+बलं बलवतामस्मि कामरागविवर्जितम्।  
+धर्माविरुद्धो भूतेषु कामोस्मि भरतर्षभ॥
+</details>

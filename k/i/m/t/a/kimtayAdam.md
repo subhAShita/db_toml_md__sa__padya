@@ -1,0 +1,14 @@
++++
+topics = [ "कविता", "सत्यम्",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "किं तया"
+
++++
+
+<details><summary>Text</summary>
+
+किं तया दन्तकण्ठोष्ठमूर्धतालुप्रसूतया ।  
+प्रौढयापि सरस्वत्या जायते हृदयान्न या ॥
+</details>

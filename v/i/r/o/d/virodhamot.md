@@ -1,0 +1,14 @@
++++
+topics = [ "वादः", "विरोधः", "नयः",]
+sources = [ "विष्णुपुराणम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "विरोधम्"
+
++++
+
+<details><summary>Text</summary>
+
+विरोधं नोत्तमैर्गच्छेन्नाधमैश्च सदा बुधः।  
+विवाहश्च विवादश्च तुल्यशीलैर्नृपेष्यते॥
+</details>

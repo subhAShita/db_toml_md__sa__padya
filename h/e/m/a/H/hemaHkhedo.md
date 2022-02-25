@@ -1,0 +1,13 @@
++++
+topics = [ "मानम्", "तोलनम्", "अपमानम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "हेम्नः खेदो"
+
++++
+
+<details><summary>Text</summary>
+
+हेम्नः खेदो न तापेन च्छेदने कर्षणेन वा ।  
+तदेव हि परं दुःखं यद्गुञ्जासमतोलनम्॥
+</details>

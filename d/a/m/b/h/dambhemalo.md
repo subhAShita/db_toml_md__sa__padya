@@ -1,0 +1,13 @@
++++
+topics = [ "दम्भः", "विनयः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "दम्भेन लोभेन"
+
++++
+
+<details><summary>Text</summary>
+
+दम्भेन लोभेन भिया ह्रिया वा प्रायो विनीतो जन एष सर्वः।  
+वैराग्यतस्त्वाहृदयं विनीतम् नरं वरं दुर्लभमेव मन्ये॥
+</details>

@@ -1,8 +1,10 @@
 +++
 secondary_sources = [ "MSS_3985", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 42",]
-jsonClass = "Subhaashita"
-topics = [ "बाला",]
+topics = [ "बाला", "शृङ्गारः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
+sources = [ "कालिदासः",]
+ratings = [ "vvasuki:5",]
 title = "अस्याः सर्गविधौ"
 
 +++

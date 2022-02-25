@@ -1,0 +1,12 @@
++++
+topics = [ "अर्चकः", "देवालयः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "अर्चकस्य प्रभावेण"
+
++++
+
+<details><summary>Text</summary>
+
+अर्चकस्य प्रभावेण शिला भवति शङ्करः
+</details>

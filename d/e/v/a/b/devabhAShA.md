@@ -1,0 +1,15 @@
++++
+topics = [ "संस्कृतम्", "कुकविः",]
+sources = [ "अरविन्द-तिवारी",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "देवभाषां वदन्"
+
++++
+
+<details><summary>Text</summary>
+
+देवभाषां वदन् कोऽयं देवत्वं याति नैव सः।  
+निर्गन्धस्तु विचित्रो वै पुष्पोद्यानस्थितो जनः।  
+
+</details>

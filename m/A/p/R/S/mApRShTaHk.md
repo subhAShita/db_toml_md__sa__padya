@@ -1,8 +1,10 @@
 +++
-topics = [ "नीतिः",]
+topics = [ "नीतिः", "प्रश्नः", "उत्तरम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 610",]
 jsonClass = "Subhaashita"
-title = "नापृष्टः"
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+title = "नापृष्टः कस्यचिद"
 
 +++
 

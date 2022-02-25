@@ -1,0 +1,14 @@
++++
+topics = [ "उच्चारणम्",]
+sources = [ "विकटनितम्बा",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "काले माषम्"
+
++++
+
+<details><summary>Text</summary>
+
+काले माषं सस्ये मासं वदति शकासं यश्च सकाशम्।  
+उष्ट्रे लुम्पति षं वा रं वा तस्मै दत्ता विकटनितम्बा॥
+</details>

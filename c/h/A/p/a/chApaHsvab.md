@@ -1,0 +1,13 @@
++++
+topics = [ "ऋजुता",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "चापः स्वभावसरलम्"
+
++++
+
+<details><summary>Text</summary>
+
+चापः स्वभावसरलं विक्षिपति शरं गुणेऽपि पतन्तम्।  
+वक्रस्य ऋजुकस्य च सम्बन्धः किं चिरं भवति॥
+</details>

@@ -1,0 +1,13 @@
++++
+topics = [ "जाति-निन्दा", "व्यक्ति-निन्दा",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "धिगस्तु योषितो"
+
++++
+
+<details><summary>Text</summary>
+
+धिगस्तु योषितो नाम शठाः स्वार्थपरास्सदा ।  
+न ब्रवीमि स्त्रियः सर्वा भरतस्यैव मातरम् ॥
+</details>

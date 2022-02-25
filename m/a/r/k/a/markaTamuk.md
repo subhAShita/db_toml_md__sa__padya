@@ -1,0 +1,13 @@
++++
+topics = [ "कुरूपम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "मर्कटमुखि मरिचस्तनि"
+
++++
+
+<details><summary>Text</summary>
+
+मर्कटमुखि मरिचस्तनि मुरजोदरि मुष्टिमेयकटिदेशे।  
+मार्जारशावनयने स्मरामि कान्ते त्वदङ्गानि॥
+</details>

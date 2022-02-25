@@ -1,6 +1,8 @@
 +++
 secondary_sources = [ "MSS_7664",]
 jsonClass = "Subhaashita"
+topics = [ "रतिः",]
+ratings = [ "vvasuki:5",]
 title = "एकेन रोमनालेन"
 
 +++
@@ -9,4 +11,12 @@ title = "एकेन रोमनालेन"
 
 एकेन रोमनालेन जातं पङ्केरुहद्वयम्।  
 ज्ञात्वाधो धनमस्यास्ति खनन्ति निशि रागिणः॥
+</details>
+
+
+
+<details><summary>अज्ञात-विवरणम्</summary>
+
+In Indic literature, various parts of the body such as the face, hands, feet, and suchlike – especially those of a voluptuous woman – are often compared to lotuses in full bloom. Moreover, there is a particular feature of the female body that was, for many centuries, considered a mark of great beauty in the Subcontinent – a vertical streak of hair on the abdomen above the navel. Known by various names, including romaavali (रोमावलि), romaraaji (रोमराजि), and romalataa (रोमलता), it was often described as something that could distract even men with the highest level of self-control,  and its first appearance was celebrated in poetry as a sign of puberty!  
+'
 </details>

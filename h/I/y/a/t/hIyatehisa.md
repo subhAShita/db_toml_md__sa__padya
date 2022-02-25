@@ -1,0 +1,16 @@
++++
+topics = [ "शृङ्गारः",]
+sources = [ "अमोघः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "हीयते हि"
+
++++
+
+<details><summary>Text</summary>
+
+हीयते हि सतां तेजस्  
+स्पृष्टं स्यात् चेदसूयया।  
+दृष्ट्वा त्वां पश्य सौधाग्रे  
+चन्द्रकान्तिरगौरिला॥
+</details>

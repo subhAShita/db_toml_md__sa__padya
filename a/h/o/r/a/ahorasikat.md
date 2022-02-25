@@ -1,0 +1,21 @@
++++
+topics = [ "कार्यमग्नता", "क्रीडा", "दूरवाणीक्रीडा",]
+sources = [ "अमोघः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "अहोऽरसिकतेयं ते"
+
++++
+
+<details><summary>अज्ञात-विवरणम्</summary>
+
+खाण्डवभेदन- Candy Crush
+</details>
+
+
+
+<details><summary>Text</summary>
+
+अहोऽरसिकतेयं ते शिलाहृदयभामिनि।  
+स्थिते प्रियकरेऽग्रेऽसि मग्ना खाण्डवभेदने॥
+</details>

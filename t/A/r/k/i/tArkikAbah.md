@@ -1,0 +1,13 @@
++++
+topics = [ "रसिकता", "तार्किकः", "वैयाकरणः", "कविः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "तार्किका बहवः"
+
++++
+
+<details><summary>Text</summary>
+
+तार्किका बहवः सन्ति शाब्दिकाश्च सहस्रशः।  
+विरलाः कवयो लोके सरलालापपेशलाः॥
+</details>

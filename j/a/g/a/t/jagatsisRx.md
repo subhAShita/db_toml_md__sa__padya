@@ -1,7 +1,8 @@
 +++
-topics = [ "शिवः",]
+topics = [ "शिवः", "ब्रह्मा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 32",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "जगत्सिसृक्षाप्रलयक्रियाविधौ"
 
 +++

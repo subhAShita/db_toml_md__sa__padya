@@ -1,0 +1,14 @@
++++
+topics = [ "बलिः", "भूत-दया",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "शूनां च"
+
++++
+
+<details><summary>Text</summary>
+
+शूनां च पतितानां च श्वपचां पापरोगिणाम् ।  
+वयसानां कृमीणां च शनकैर्निर्वपेद् भुवि ॥
+</details>

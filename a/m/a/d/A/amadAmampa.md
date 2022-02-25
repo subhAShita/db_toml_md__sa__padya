@@ -1,0 +1,13 @@
++++
+topics = [ "अन्नम्", "विद्या", "दानम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "अन्नदानं परम्"
+
++++
+
+<details><summary>Text</summary>
+
+अन्नदानं परं दानं विद्यादानमतःपरम्।  
+अन्नेन क्षणिका तृप्तिर् यावज्जीवञ्च विद्यया ॥
+</details>

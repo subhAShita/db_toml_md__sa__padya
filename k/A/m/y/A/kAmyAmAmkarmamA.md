@@ -1,6 +1,8 @@
 +++
 secondary_sources = [ "MSS_9684",]
 jsonClass = "Subhaashita"
+topics = [ "सन्न्यासः", "सात्त्विक-त्यागः", "काम्य-कर्म",]
+ratings = [ "vvasuki:5",]
 title = "काम्यानां कर्मणाम्"
 
 +++

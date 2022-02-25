@@ -1,0 +1,14 @@
++++
+topics = [ "आर्जवम्", "सन्तोषः", "तीर्थयात्रा",]
+sources = [ "वेदान्तदेशिकः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "यमो वैवस्वतो"
+
++++
+
+<details><summary>Text</summary>
+
+यमो वैवस्वतो राजा यस्तवैष हृदि स्थितः ।  
+तेन चेदविवादस्ते मा गङ्गाम् मा कुरून् गमः ॥
+</details>

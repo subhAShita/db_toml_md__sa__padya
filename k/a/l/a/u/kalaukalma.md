@@ -1,0 +1,14 @@
++++
+topics = [ "नामजपः", "सदाचारः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "कलौ कल्मषचित्तानाम्"
+
++++
+
+<details><summary>Text</summary>
+
+कलौ कल्मषचित्तानां पापद्रव्योपजीविनाम्।  
+विधि क्रिया विहीनानां गतिर्गोविन्दकीर्तनम्।  
+
+</details>

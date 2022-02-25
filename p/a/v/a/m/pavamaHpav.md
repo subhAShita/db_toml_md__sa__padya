@@ -1,0 +1,14 @@
++++
+topics = [ "रामः", "मकरः", "गङ्गा",]
+sources = [ "भगवद्गीता",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "पवनः पवतामस्मि"
+
++++
+
+<details><summary>Text</summary>
+
+पवनः पवतामस्मि रामः शस्त्रभृतामहम्।  
+झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी॥
+</details>

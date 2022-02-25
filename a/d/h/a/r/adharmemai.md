@@ -1,6 +1,9 @@
 +++
 secondary_sources = [ "MSS_1081",]
 jsonClass = "Subhaashita"
+topics = [ "अधर्मः", "कर्म-फलम्",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
 title = "अधर्मेणैधते तावत्"
 
 +++

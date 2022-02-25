@@ -1,0 +1,14 @@
++++
+topics = [ "पूजा", "कर्म",]
+sources = [ "राघवेन्द्रः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "भक्तिश्रद्धारसो गुप्तो"
+
++++
+
+<details><summary>Text</summary>
+
+भक्तिश्रद्धारसो गुप्तो जपपूजाध्वरादिषु।  
+गतेषु तेषु तन्नाशः पात्राभावे जलं यथा ॥
+</details>

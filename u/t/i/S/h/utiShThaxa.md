@@ -1,6 +1,8 @@
 +++
+topics = [ "दरिद्रः", "दारिद्र्यम्",]
 secondary_sources = [ "MSS_6528",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "उत्तिष्ठ क्षणमेकमुद्वह"
 
 +++

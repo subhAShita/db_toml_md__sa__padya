@@ -1,0 +1,13 @@
++++
+topics = [ "पाप-पुण्ये",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "अर्थाः गृहे"
+
++++
+
+<details><summary>Text</summary>
+
+अर्थाः गृहे निवर्तन्ते श्मशाने पुत्रबान्धवाः।  
+सुकृतं दुष्कृतञ्चैव गच्छन्तमनुगच्छति ॥
+</details>

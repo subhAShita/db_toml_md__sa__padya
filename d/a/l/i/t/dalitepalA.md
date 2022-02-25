@@ -1,0 +1,14 @@
++++
+topics = [ "रतिः", "जारता",]
+sources = [ "गोवर्धनाचार्य",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "दलिते पलालपुञ्जे"
+
++++
+
+<details><summary>Text</summary>
+
+दलिते पलालपुञ्जे वृषभं परिभवति गृहपतौ कुपिते।  
+निभृतनिभालितवदनौ हलिकवधूदेवरौ हसतः॥
+</details>

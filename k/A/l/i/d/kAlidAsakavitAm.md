@@ -1,7 +1,9 @@
 +++
 secondary_sources = [ "MSS_9839",]
 jsonClass = "Subhaashita"
-title = "कालिदासकविता नवम्"
+topics = [ "कामः",]
+ratings = [ "vvasuki:5",]
+title = "कालिदास कविता"
 
 +++
 

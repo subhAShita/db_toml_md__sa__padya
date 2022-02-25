@@ -1,11 +1,11 @@
 +++
 secondary_sources = [ "MSS_5038A",]
-jsonClass = "Subhaashita"
-sources = [ "जगन्नाथः",]
+sources = [ "जगन्नाथः", "जगन्नाथपण्डितः",]
 bhaava = [ "प्रौढोक्तिः", "गर्वः",]
-topics = [ "कविः",]
+topics = [ "कविः", "प्रौढोक्तिः", "प्रतिभा",]
 ratings = [ "vvasuki:5",]
-title = "आमूलाद्रत्नसानोः"
+jsonClass = "Subhaashita"
+title = "आ"
 
 +++
 

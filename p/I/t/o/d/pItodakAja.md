@@ -1,0 +1,13 @@
++++
+topics = [ "दुर्दानम्", "दानम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "पीतोदका जग्धतृणा"
+
++++
+
+<details><summary>Text</summary>
+
+पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः ।  
+अनन्दा नाम ते लोका ये स गच्छति ता ददत् ॥
+</details>

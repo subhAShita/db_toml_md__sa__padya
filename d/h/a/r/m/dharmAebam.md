@@ -1,0 +1,16 @@
++++
+topics = [ "धर्मः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "धर्माे बन्धुरबान्धवे"
+
++++
+
+<details><summary>Text</summary>
+
+धर्माे बन्धुरबान्धवे पृथुपथे  
+धर्मः सुहृन् निश्चलः  
+संसाराेरुमरुस्थले सुरतरुर्  
+नास्त्येव धर्मात् परः ।  
+
+</details>

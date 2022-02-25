@@ -1,0 +1,13 @@
++++
+topics = [ "भोजनम्", "चिकित्सा",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "पथ्ये सति"
+
++++
+
+<details><summary>Text</summary>
+
+पथ्ये सति गदार्तस्य किमौषधनिषेवणैः ।  
+पथ्येऽसति गदार्तस्य किमौषधनिषेवणैः ॥
+</details>

@@ -1,0 +1,15 @@
++++
+topics = [ "भोजनम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "न लोभान्"
+
++++
+
+<details><summary>Text</summary>
+
+न लोभान् नाप्यविज्ञानाद्        
+आहारमुपयोजयेत् ।  
+परीक्ष्य हितमश्नीयाद्   
+देहो ह्याहारसम्भवः॥
+</details>

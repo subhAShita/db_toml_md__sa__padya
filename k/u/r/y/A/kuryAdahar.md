@@ -1,0 +1,14 @@
++++
+topics = [ "पितृ-ऋणम्", "पितृ-तर्पणम्",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "कुर्यादहरहः"
+
++++
+
+<details><summary>Text</summary>
+
+कुर्यादहरहः श्राद्धमन्नाद्येनोदकेन वा ।  
+पयोमूलफलैर्वापि पितृभ्यः प्रीतिमावहन्
+</details>

@@ -1,0 +1,13 @@
++++
+topics = [ "ग्रीष्मः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "ग्रीष्मकाले दिनम्"
+
++++
+
+<details><summary>Text</summary>
+
+ग्रीष्मकाले दिनं दीर्घं शीतकाले तु शर्वरी।  
+परोपतापिनः सर्वे प्रायशो दीर्घजीविनः॥
+</details>

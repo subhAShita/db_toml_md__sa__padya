@@ -1,0 +1,21 @@
++++
+topics = [ "रतिः", "दानम्",]
+sources = [ "बलरामशुक्लः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "उत्क्रान्तश्रुतिमार्गेक्षणे,वगन्तुम्"
+
++++
+
+<details><summary>अज्ञात-विवरणम्</summary>
+
+उत्क्रान्तश्रुतिमार्गेक्षणे means both "she whose eyes are elongated and even extend beyond ears" and "she whose bent of mind is averse to Vedic injunctions
+</details>
+
+
+
+<details><summary>Text</summary>
+
+उत्क्रान्तश्रुतिमार्गेक्षणे,वगन्तुं प्रदानमहिमानम्।  
+दत्वैकचुम्बनं मे पश्य प्राप्तानि सुबहूनि॥
+</details>

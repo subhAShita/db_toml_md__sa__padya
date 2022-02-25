@@ -1,6 +1,8 @@
 +++
 secondary_sources = [ "MSS_9380",]
 jsonClass = "Subhaashita"
+topics = [ "नीतिः", "शौर्यम्", "बुद्धिः", "युद्ध-कौशलम्",]
+ratings = [ "vvasuki:5",]
 title = "कातर्यं केवला"
 
 +++

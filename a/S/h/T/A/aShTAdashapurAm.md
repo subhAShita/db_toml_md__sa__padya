@@ -1,6 +1,8 @@
 +++
 secondary_sources = [ "MSS_3587",]
 jsonClass = "Subhaashita"
+topics = [ "परोपकारः", "परपीडनम्", "पापम्", "पुण्यम्", "धर्मः",]
+ratings = [ "vvasuki:5",]
 title = "अष्टादशपुराणेषु व्यासस्य"
 
 +++

@@ -1,4 +1,6 @@
 +++
+topics = [ "धर्मः",]
+ratings = [ "vvasuki:5",]
 secondary_sources = [ "MSS_7314",]
 jsonClass = "Subhaashita"
 title = "ऊर्ध्वबाहुर् विरौम्येष"

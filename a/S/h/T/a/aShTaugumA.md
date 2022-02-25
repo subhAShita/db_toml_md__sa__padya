@@ -1,6 +1,9 @@
 +++
 secondary_sources = [ "MSS_3596",]
 jsonClass = "Subhaashita"
+topics = [ "मितभाषिता", "दानम्", "कुलम्", "दमः", "श्रुतम्", "कृतज्ञता",]
+sources = [ "महाभारते विदुरनीतिः",]
+ratings = [ "vvasuki:5",]
 title = "अष्टौ गुणाः"
 
 +++

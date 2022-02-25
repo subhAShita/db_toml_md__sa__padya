@@ -1,0 +1,16 @@
++++
+topics = [ "कामः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "काव्येन हन्यते"
+
++++
+
+<details><summary>Text</summary>
+
+काव्येन हन्यते शास्त्रं  
+काव्यं गीतेन हन्यते।  
+गीतन्तु स्त्रीविलासेन  
+स्त्रीविलासो बुभुक्षया।  
+
+</details>

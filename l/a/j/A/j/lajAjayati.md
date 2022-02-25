@@ -1,0 +1,14 @@
++++
+topics = [ "स्त्री-सौन्दर्यम्",]
+sources = [ "बलरामः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "लज्जा जयति"
+
++++
+
+<details><summary>Text</summary>
+
+लज्जा जयति सज्जायाः कज्जलासिर्यया,स्त्यधः।  
+ब्राह्मणस्य स्थितं यस्माद् ब्रह्मसूत्रमखण्डितम्\॥
+</details>

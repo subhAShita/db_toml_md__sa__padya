@@ -1,0 +1,14 @@
++++
+topics = [ "कृष्णः",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "आयुर्गतागताभ्यासः केवलम्"
+
++++
+
+<details><summary>Text</summary>
+
+आयुर्गतागताभ्यासः केवलं मारुतस्य तत् ।  
+कण्ठस्थे यमपाशेऽपि हृदिस्थो यदि नाच्युतः ॥
+</details>

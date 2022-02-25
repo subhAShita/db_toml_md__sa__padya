@@ -1,7 +1,8 @@
 +++
-topics = [ "धीरः",]
+topics = [ "धीरः", "स्थैर्यम्", "धृतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 2",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "चलन्ति गिरयः"
 
 +++

@@ -1,6 +1,9 @@
 +++
 secondary_sources = [ "MSS_2040",]
 jsonClass = "Subhaashita"
+topics = [ "प्रमाणम्", "शास्त्रम्",]
+sources = [ "इति योगवासिष्ठम् 2.18.2 श्रुत्युपेक्षौचित्यं कदाचिद्बोधयन्ती।",]
+ratings = [ "vvasuki:5",]
 title = "अपि पौरुषमादेयम्"
 
 +++

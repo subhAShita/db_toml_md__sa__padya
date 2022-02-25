@@ -1,0 +1,13 @@
++++
+topics = [ "रसिकता", "काव्यम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "मुग्धानामबुधानामरसानामथ"
+
++++
+
+<details><summary>Text</summary>
+
+मुग्धानामबुधानामरसानामथ च वीतरागाणाम्।  
+मध्ये भ्रमति हताशा मम कवितैषा चिरकुमारी॥
+</details>

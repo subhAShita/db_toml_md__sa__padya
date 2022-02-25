@@ -1,0 +1,13 @@
++++
+topics = [ "शृङ्गारः", "प्रिय-वियोगः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "स मे"
+
++++
+
+<details><summary>Text</summary>
+
+स मे समासमो मासः सा मे माससमा समा ।  
+यो यातया तया याति या यात्यायातया तया  ॥
+</details>

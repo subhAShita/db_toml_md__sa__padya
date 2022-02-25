@@ -1,0 +1,14 @@
++++
+topics = [ "भृगुः", "जपयज्ञः", "प्रणवः",]
+sources = [ "भगवद्गीता",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "महर्षीणां भृगुरहम्"
+
++++
+
+<details><summary>Text</summary>
+
+महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम्।  
+यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः॥
+</details>

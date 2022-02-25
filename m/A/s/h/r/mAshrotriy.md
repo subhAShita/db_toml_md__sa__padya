@@ -1,0 +1,14 @@
++++
+topics = [ "यजमानः",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "नाश्रोत्रियतते यज्ञे"
+
++++
+
+<details><summary>Text</summary>
+
+नाश्रोत्रियतते यज्ञे ग्रामयाजिकृते तथा ।  
+स्त्रिया क्लीबेन च हुते भुञ्जीत ब्राह्मणः क्व चित् ॥
+</details>

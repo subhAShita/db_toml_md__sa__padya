@@ -1,6 +1,7 @@
 +++
 topics = [ "सुभाषितम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०१ सुभाषितप्रशंसा// 10",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "द्राक्षाम्लानमुखी जाता"
 

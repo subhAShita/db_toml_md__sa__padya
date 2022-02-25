@@ -1,7 +1,8 @@
 +++
-topics = [ "सज्जनः",]
+topics = [ "सज्जनः", "स्वभावः", "प्रकृतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 59",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "स्वभावं न"
 
 +++

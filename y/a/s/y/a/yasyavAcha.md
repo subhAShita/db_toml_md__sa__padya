@@ -1,0 +1,14 @@
++++
+topics = [ "शङ्करः",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "यस्य वाचमिव"
+
++++
+
+<details><summary>Text</summary>
+
+यस्य वाचमिव श्रोतुं ब्रह्माप्यवयवोज्झितम् ।  
+आशिश्रिये श्रुतीस्तस्मै नमः शङ्करयोगिने ॥
+</details>

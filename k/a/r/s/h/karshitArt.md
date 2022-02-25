@@ -1,0 +1,14 @@
++++
+topics = [ "धर्मः", "अर्थः", "धर्म-तारतम्यम्",]
+sources = [ "भीमः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "कर्शितार्थो हि"
+
++++
+
+<details><summary>Text</summary>
+
+कर्शितार्थो हि यो धर्मो विप्राणामात्मनस्तथा।  
+व्यसनं नाम तद्राजन् न स धर्मः कुवर्त्म तत्॥
+</details>

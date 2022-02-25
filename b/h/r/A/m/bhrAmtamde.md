@@ -1,7 +1,8 @@
 +++
-topics = [ "तृष्णा",]
+topics = [ "तृष्णा", "लोभः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 54",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "भ्रान्तम्"
 
 +++

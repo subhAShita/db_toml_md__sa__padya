@@ -1,0 +1,13 @@
++++
+topics = [ "कृतिचौर्यम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "परसूक्तापहारेण"
+
++++
+
+<details><summary>Text</summary>
+
+परसूक्तापहारेण स्वसुभाषितवादिना ।  
+उत्कर्षः ख्याप्यते यस्याः किं तया चौरविद्यया ॥
+</details>

@@ -1,8 +1,10 @@
 +++
 secondary_sources = [ "MSS_1865", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०३ मेघान्योक्तयः// 37",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - मेघः",]
-title = "अन्योऽपि"
+jsonClass = "Subhaashita"
+topics = [ "गुणवत्त्वम्",]
+ratings = [ "vvasuki:5",]
+title = "अन्यो ऽपि"
 
 +++
 

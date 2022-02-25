@@ -1,0 +1,15 @@
++++
+topics = [ "भोजनम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "अन्नं ब्रह्मा"
+
++++
+
+<details><summary>Text</summary>
+
+अन्नं ब्रह्मा रसो विष्णुर्  
+भोक्ता देवो महेश्वरः ॥  
+एवन् ध्यात्वा तु यो भुङ्क्ते  
+सोऽन्नदोषैर् न लिप्यते
+</details>

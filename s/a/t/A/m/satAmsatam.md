@@ -1,0 +1,13 @@
++++
+topics = [ "शिवः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "सतां स"
+
++++
+
+<details><summary>Text</summary>
+
+सतां स तनुतामिष्टं धूर्जटिर्यस्य मूर्धनि ।  
+हंसः सुरसरिद्वारिविहारी प्लवते शशी ॥
+</details>

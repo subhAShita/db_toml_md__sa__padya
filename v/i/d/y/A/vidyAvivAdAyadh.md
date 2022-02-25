@@ -1,0 +1,13 @@
++++
+topics = [ "खलः", "सज्जनः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "विद्या विवादाय"
+
++++
+
+<details><summary>Text</summary>
+
+विद्या विवादाय धनं मदाय खलस्य शक्तिः परपीडनाय।  
+साधोस्तु सर्वं विपरीतमेतद् ज्ञानाय दानाय च रक्षणाय॥
+</details>

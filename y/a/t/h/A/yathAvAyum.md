@@ -1,0 +1,14 @@
++++
+topics = [ "गृहस्थः",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "यथा वायुम्"
+
++++
+
+<details><summary>Text</summary>
+
+यथा वायुं समाश्रित्य वर्तन्ते सर्वजन्तवः ।  
+तथा गृहस्थमाश्रित्य वर्तन्ते सर्व आश्रमाः॥
+</details>

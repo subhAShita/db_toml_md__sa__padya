@@ -1,7 +1,10 @@
 +++
 secondary_sources = [ "MSS_9610",]
 jsonClass = "Subhaashita"
-title = "काममा मरणात्"
+topics = [ "विवाहः", "कन्या",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+title = "काममामरणात्तिष्ठेत् गृहे"
 
 +++
 

@@ -1,6 +1,8 @@
 +++
 secondary_sources = [ "MSS_3629",]
 jsonClass = "Subhaashita"
+topics = [ "बुद्धिनाशः",]
+ratings = [ "vvasuki:5",]
 title = "असम्भवं हेममृगस्य"
 
 +++

@@ -1,0 +1,14 @@
++++
+topics = [ "वर्णः", "जातिः", "धर्मः",]
+sources = [ "मनुस्मृतिः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "लोकानां तु"
+
++++
+
+<details><summary>Text</summary>
+
+लोकानां तु विवृद्ध्यर्थं मुखबाहूरुपादतः ।  
+ब्राह्मणं क्षत्रियं वैश्यं शूद्रं च निरवर्तयत् ॥
+</details>

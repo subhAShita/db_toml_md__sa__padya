@@ -1,0 +1,21 @@
++++
+topics = [ "गणेशः",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "गजाननस्य जीयासुः"
+
++++
+
+<details><summary>अज्ञात-विवरणम्</summary>
+
+श्रुत्यन्तशब्दे श्लेषः।
+</details>
+
+
+
+<details><summary>Text</summary>
+
+गजाननस्य जीयासुः कर्णतालझलज्झलाः ।  
+श्रुत्यन्तवचनैर्यासामनुवादो विधीयते ॥
+</details>

@@ -1,7 +1,9 @@
 +++
 secondary_sources = [ "MSS_2252",]
 jsonClass = "Subhaashita"
-title = "अभयमभयं देव"
+topics = [ "शौर्यम्",]
+ratings = [ "vvasuki:5",]
+title = "अभयम् अभयम्"
 
 +++
 

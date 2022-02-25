@@ -1,0 +1,13 @@
++++
+topics = [ "शिवौ",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "पशुपतेरखिलेषु गलेषु"
+
++++
+
+<details><summary>Text</summary>
+
+पशुपतेरखिलेषु गलेषु सा युगपदर्पयितुं कुसुमस्रजम्।  
+परिणये द्विभुजा हिमशैलजा दशभुजा किमभूदपि लीलया॥
+</details>

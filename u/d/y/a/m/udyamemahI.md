@@ -1,0 +1,15 @@
++++
+topics = [ "पुरुषकारः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "उद्यमेन ही"
+
++++
+
+<details><summary>Text</summary>
+
+उद्यमेन ही सिद्ध्यन्ति   
+कार्याणि न मनोरथैः ।  
+न हि सुप्तस्य सिंहस्य  
+प्रविशन्ति  मुखे मृगाः ॥
+</details>

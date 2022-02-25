@@ -1,0 +1,14 @@
++++
+topics = [ "कृष्णः",]
+sources = [ "सुहासः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "\"निर्गुणे!\"ति गिरा"
+
++++
+
+<details><summary>Text</summary>
+
+"निर्गुणे!"ति गिरा रुद्धो मध्येमोषं यशोदया ।  
+पायात्स्मेरायमाणो वः कोऽपि गोपालबालकः ॥
+</details>

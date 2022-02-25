@@ -2,6 +2,8 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 09 प्रश्नोत्तराणि// 9",]
 types = [ "प्रश्नोत्तरम्",]
 jsonClass = "Subhaashita"
+topics = [ "चाटु", "रावणः",]
+ratings = [ "vvasuki:5",]
 title = "भवित्री रम्भोरु"
 
 +++

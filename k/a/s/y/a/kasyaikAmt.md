@@ -1,0 +1,13 @@
++++
+topics = [ "दुःखम्", "सुखम्", "जीवनम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "कस्यैकान्तं सुखम्"
+
++++
+
+<details><summary>Text</summary>
+
+कस्यैकान्तं सुखम् उपनतं दुःखम् एकान्ततो वा।  
+नीचैर् गच्छति उपरि च दशा चक्रनेमिक्रमेण॥
+</details>

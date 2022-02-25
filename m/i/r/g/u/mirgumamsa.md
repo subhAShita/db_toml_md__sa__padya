@@ -1,0 +1,17 @@
++++
+topics = [ "कृष्णः",]
+sources = [ "सुधीरः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "निर्गुणं सगुणाकारम्"
+
++++
+
+<details><summary>Text</summary>
+
+निर्गुणं सगुणाकारं  
+कृत्वा दामोदरं हरिं।  
+अनिरुद्धं यशोदा सा  
+दृष्ट्वा नन्दति नन्दति।  
+
+</details>

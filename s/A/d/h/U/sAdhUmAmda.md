@@ -1,0 +1,14 @@
++++
+topics = [ "सज्जनः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "साधूनां दर्शनम्"
+
++++
+
+<details><summary>Text</summary>
+
+साधूनां दर्शनं पुण्यं तीर्थभूता हि साधवः।  
+कालेन फलते तीर्थं सद्यः साधुसमागमः।  
+
+</details>

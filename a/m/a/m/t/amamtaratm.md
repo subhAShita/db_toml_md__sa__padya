@@ -1,6 +1,9 @@
 +++
 secondary_sources = [ "MSS_1217",]
 jsonClass = "Subhaashita"
+topics = [ "दोषः", "गुणाः", "मानम्",]
+sources = [ "कालिदासः",]
+ratings = [ "vvasuki:5",]
 title = "अनन्तरत्नप्रभवस्य यस्य"
 
 +++

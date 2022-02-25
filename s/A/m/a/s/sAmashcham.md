@@ -1,0 +1,14 @@
++++
+topics = [ "दुर्गा",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "सा नश्चण्डी"
+
++++
+
+<details><summary>Text</summary>
+
+सा नश्चण्डी रक्षतु यच्चरणाम्भोजसङ्गते महिषः ।  
+निजरुधिरपङ्क एव क्रीडारसमन्तिमं भेजे ॥
+</details>

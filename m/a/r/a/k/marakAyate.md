@@ -1,0 +1,13 @@
++++
+topics = [ "पौरोहित्यम्", "मठचालनम्",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "नरकाय ते"
+
++++
+
+<details><summary>Text</summary>
+
+नरकाय ते मतिश्चेत् पौरोहित्यं समाचर ।  
+वर्षं यावत् किमन्येन मठचिन्तां दिनत्रयम्॥
+</details>

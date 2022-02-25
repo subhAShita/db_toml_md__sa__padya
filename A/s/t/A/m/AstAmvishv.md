@@ -1,8 +1,9 @@
 +++
 secondary_sources = [ "MSS_5638", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 60",]
-jsonClass = "Subhaashita"
-topics = [ "व्यभिचारिणी",]
+topics = [ "व्यभिचारिणी", "व्रीडा", "प्रिय-वियोगः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "आस्तां विश्वसनम्"
 
 +++

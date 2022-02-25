@@ -2,6 +2,8 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 03 अपह्नुतयः// 7",]
 types = [ "अपह्नुतिः",]
 jsonClass = "Subhaashita"
+topics = [ "रतिः", "मत्कुणः",]
+ratings = [ "vvasuki:5",]
 title = "रागी भिनत्ति"
 
 +++

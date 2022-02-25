@@ -1,0 +1,14 @@
++++
+topics = [ "स्नेहः",]
+sources = [ "बलराम-शुक्लः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "त्वां समाच्छिद्य"
+
++++
+
+<details><summary>Text</summary>
+
+त्वां समाच्छिद्य विन्दामि त्रैलोक्यादपि रुन्धतः।  
+प्रेम मे न प्रिये क्लीबं प्रेमा मे पौरुषोर्जितः ॥
+</details>

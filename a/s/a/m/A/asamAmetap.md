@@ -1,7 +1,8 @@
 +++
 secondary_sources = [ "MSS_3638", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 329",]
+topics = [ "नीतिः", "सम्मानम्",]
 jsonClass = "Subhaashita"
-topics = [ "नीतिः",]
+ratings = [ "vvasuki:5",]
 title = "असम्माने तपोवृद्धिः"
 
 +++

@@ -1,0 +1,14 @@
++++
+topics = [ "गुरुः", "युक्तिः",]
+sources = [ "बुद्धः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "तापाच्छेदाच्च निकषात्"
+
++++
+
+<details><summary>Text</summary>
+
+तापाच्छेदाच्च निकषात् सुवर्णमिव पण्डिताः।  
+परीक्ष्य भिक्षवो ग्राह्यं मद्वचो न तु गौरवात्॥
+</details>

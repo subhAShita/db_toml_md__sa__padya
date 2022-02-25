@@ -2,6 +2,7 @@
 topics = [ "कुवैद्यः", "वैद्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// १९ कुवैद्यनिन्दा// 2",]
 jsonClass = "Subhaashita"
+ratings = [ "vvasuki:5",]
 title = "वैद्यराज नमस्तुभ्यम्"
 
 +++

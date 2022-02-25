@@ -1,0 +1,14 @@
++++
+topics = [ "सुखम्", "दुःखम्",]
+sources = [ "मनुः",]
+ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "सर्वं परवशम्"
+
++++
+
+<details><summary>Text</summary>
+
+सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् ।  
+एतद विद्यात्समासेन लक्षणं सुखदुःखयोः ॥
+</details>

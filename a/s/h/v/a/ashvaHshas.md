@@ -1,5 +1,8 @@
 +++
+topics = [ "असारग्राहिता", "शास्त्रम्",]
+ratings = [ "vvasuki:5",]
 secondary_sources = [ "MSS_3540",]
+sources = [ "पञ्चतन्त्रम् मित्रभेदः"]
 jsonClass = "Subhaashita"
 title = "अश्वः शस्त्रम्"
 
