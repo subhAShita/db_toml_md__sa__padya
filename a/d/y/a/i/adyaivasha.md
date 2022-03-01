@@ -1,9 +1,10 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "प्रार्थना", "देवः", "शिवः", "सर्वज्ञता",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["प्रार्थना", "देवः", "शिवः", "सर्वज्ञता"]
-ratings = ["vvasuki:5",]
+title = "अद्यैव शर्व"
+
 +++
 
 <details><summary>Text</summary>

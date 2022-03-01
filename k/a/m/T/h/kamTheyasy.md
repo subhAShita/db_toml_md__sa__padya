@@ -1,11 +1,12 @@
 +++
+topics = [ "शिवः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-topics = ["शिवः"]
-ratings = ["vvasuki:5",]
+title = "कण्ठे यस्य"
+
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-प्रस्तुतिः</summary>
 
 कण्ठे यस्य विराजते हि गरलं, शीर्षे च मन्दाकिनी,  
 वामाङ्के गिरिजाननं, कटितटे शार्दूल-चर्माम्बरम् ।  

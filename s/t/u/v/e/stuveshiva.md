@@ -1,18 +1,21 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "शिवौ", "अर्धनारीश्वरः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["शिवौ", "अर्धनारीश्वरः"]
-ratings = ["vvasuki:5",]
+title = "स्तुवे शिवौ"
+
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुवे शिवौ ययोर् एक-  
 वपुर् वासानुशीलनात् ।  
 अर्धिता क्षुत्तृषोर् बाधा  
 प्रीतिस् तु द्विगुणाभवत् ॥
 </details>
+
+
 
 <details><summary>Text</summary>
 

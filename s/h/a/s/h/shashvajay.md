@@ -1,18 +1,21 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "शिवः", "बिल्व-पत्रम्",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["शिवः", "बिल्व-पत्रम्"]
-ratings = ["vvasuki:5",]
+title = "शश्वज्जयन्ति सन्तस्ते"
+
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-प्रस्तुतिः</summary>
 
 शश्वज् जयन्ति सन्तस् ते  
 भाग्य-भाजां पुरो-गमाः ।  
 बिल्व-पत्रस्य मूल्येन  
 क्रीणन्तः कल्प-शाखिनम् ॥
 </details>
+
+
 
 <details><summary>Text</summary>
 
