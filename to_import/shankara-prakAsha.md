@@ -1,0 +1,15 @@
++++
+jsonClass = "Subhaashita"
+title = "न वर्ण्यवस्तु"
+sources = ["राजारामज-शङ्करः - मुक्तकम्"]
+topics = ["शिवः"]
+ratings = ["vvasuki:4",]
++++
+
+<details><summary>Text</summary>
+
+तथा गाढं प्रकाशस्ते  
+शम्भो द्योतयते जगत् ।
+यथा त्वमेव जातोऽसि  
+दुरालोकश्चिराय नः ॥
+</details>
