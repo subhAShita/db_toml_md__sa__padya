@@ -1,6 +1,6 @@
 +++
 topics = [ "रतिः", "दानम्",]
-sources = [ "बलरामशुक्लः",]
+sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "उत्क्रान्तश्रुतिमार्गेक्षणे,वगन्तुम्"

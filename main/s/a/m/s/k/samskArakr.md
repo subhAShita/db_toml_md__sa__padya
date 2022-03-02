@@ -1,6 +1,6 @@
 +++
 topics = [ "उच्चारणम्",]
-sources = [ "रामः - रामायणम्",]
+sources = [ "रामायणम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "संस्कारक्रमसम्पन्नाम्"

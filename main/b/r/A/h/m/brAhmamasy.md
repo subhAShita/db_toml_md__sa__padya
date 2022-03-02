@@ -1,6 +1,6 @@
 +++
 topics = [ "स्त्री-सौन्दर्यम्",]
-sources = [ "बलराम-शुक्लः",]
+sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "ब्राह्मणस्य हि"

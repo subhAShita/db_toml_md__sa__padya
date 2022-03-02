@@ -1,6 +1,7 @@
 +++
 topics = [ "अर्थावगतिः", "शुष्कपाण्डित्यम्", "भावपूर्णता", "स्वरः",]
-sources = [ "महाभाष्यम्, निरुक्तम्",]
+sources = [ "निरुक्तम्",]
+secondary_sources = [ "महाभाष्यम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "यदधीतमविज्ञातं निगदेनैव"

@@ -1,6 +1,6 @@
 +++
 topics = [ "गौः", "मधुपर्कः",]
-sources = [ "ऋग्वेद ८.१०१.१५",]
+sources = [ "ऋग्वेदः (८.१०१.१५)",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "माता रुद्राणाम्"

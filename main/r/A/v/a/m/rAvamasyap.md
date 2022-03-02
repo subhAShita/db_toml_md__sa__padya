@@ -1,6 +1,6 @@
 +++
 topics = [ "हिन्दुत्वम्", "दस्युः",]
-sources = [ "हेब्बललु-राघवेन्द्रः",]
+sources = [ "हॆब्बललु-राघवेन्द्रः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "रावणस्य परम्"

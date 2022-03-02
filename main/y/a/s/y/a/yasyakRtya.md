@@ -1,6 +1,6 @@
 +++
 topics = [ "दक्षता",]
-sources = [ "महाभारते विदुरनीतिः",]
+sources = [ "महाभारतम् (विदुरनीतिः)",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "यस्य कृत्यम्"

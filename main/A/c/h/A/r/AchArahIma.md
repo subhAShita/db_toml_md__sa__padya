@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "MSS_4435",]
 topics = [ "आचारः", "अनुष्ठानम्",]
-sources = [ "वसिष्ठस्मृतिः, देवीभागवतम्",]
+sources = [ "वसिष्ठस्मृतिः", "देवीभागवतम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "आचारहीनं न"

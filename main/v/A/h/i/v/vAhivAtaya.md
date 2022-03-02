@@ -1,6 +1,6 @@
 +++
 topics = [ "विप्रलम्ब-शृङ्गारः",]
-sources = [ "रामः - वाल्मीकि-रामायणम्",]
+sources = [ "रामायणम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "वाहि वात"

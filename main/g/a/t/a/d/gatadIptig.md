@@ -1,6 +1,6 @@
 +++
 topics = [ "सूर्यास्तम्",]
-sources = [ "मधुराविजयम्, ७.१३",]
+sources = [ "मधुराविजयम् (७.१३)",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "गतदीप्तिगभस्तिमालिनो"

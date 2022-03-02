@@ -1,6 +1,6 @@
 +++
 topics = [ "धर्मः",]
-sources = [ "महाभारत कर्णपर्व ६९.५८",]
+sources = [ "महाभारतम् (कर्णपर्व ६९.५८)",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "धारणाद् धर्ममित्याहुः"
