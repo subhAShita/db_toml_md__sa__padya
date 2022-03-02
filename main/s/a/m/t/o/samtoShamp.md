@@ -1,6 +1,6 @@
 +++
 topics = [ "सुखम्", "संयमः", "सन्तोषः", "तृप्तिः", "दुःखम्",]
-sources = [ "मनुस्मृतिः", "मनुः",]
+sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "सन्तोषं परमास्थाय"

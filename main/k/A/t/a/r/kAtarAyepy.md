@@ -1,6 +1,6 @@
 +++
 topics = [ "उत्साहः",]
-sources = [ "स्वप्न०॥६.७॥",]
+sources = [ "स्वप्नवासवदत्तः (६.७)",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "कातरा येऽप्यशक्ता"

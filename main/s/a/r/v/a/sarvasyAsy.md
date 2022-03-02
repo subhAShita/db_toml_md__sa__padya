@@ -1,6 +1,6 @@
 +++
 topics = [ "वर्णः", "जातिः", "धर्मः",]
-sources = [ "मनुस्मृतिः",]
+sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "सर्वस्यास्य तु"

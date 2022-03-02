@@ -1,6 +1,6 @@
 +++
 topics = [ "वेदाङ्गानि",]
-sources = [ " वरदभट्टः - गीर्वाणमञ्जरी",]
+sources = [ "वरदभट्टः - गीर्वाणमञ्जरी",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "शिक्षा घ्राणम्"
