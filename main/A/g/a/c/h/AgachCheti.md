@@ -1,6 +1,6 @@
 +++
 topics = [ "आतिथ्यम्",]
-sources = [ "राजरामज-शङ्करः",]
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "आगच्छेति ब्रुवतः"
