@@ -7,7 +7,7 @@ title = "अपराधी नूनमहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपराधी नूनमहं प्रसीद रम्भोरु विरम सम्रम्भात्।  
 सेव्यो जनश्च कुपितः कथं नु दासो निरपराधः॥

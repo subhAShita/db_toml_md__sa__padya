@@ -5,7 +5,7 @@ title = "एक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एव हि वन्ध्यायाः शोको भवति मानसः।  
 अप्रजास्मीति संतापो न ह्यन्यः पुत्र विद्यते॥

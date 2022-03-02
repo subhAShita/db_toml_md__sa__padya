@@ -7,7 +7,7 @@ title = "हृदि रूपम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हृदि रूपं करे चित्रं तव, त्वां च पुरो दधे।  
 पौनरुक्त्यं न दोषाय सर्वत्रेत्याह मम्मटः॥

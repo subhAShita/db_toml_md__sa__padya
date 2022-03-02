@@ -6,7 +6,7 @@ title = "या गम्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या गम्याः सत्सहायानां यासु खेदो भयं यतः।  
 तासां किं यन्न दुःखाय विपदामिव सम्पदाम्॥

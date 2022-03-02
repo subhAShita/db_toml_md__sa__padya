@@ -6,7 +6,7 @@ title = "नरनारीसमुत्पन्ना सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नरनारीसमुत्पन्ना सा स्त्री देहविवर्जिता।  
 अमुखी कुरुते शब्दं जातमात्रा विनश्यति॥

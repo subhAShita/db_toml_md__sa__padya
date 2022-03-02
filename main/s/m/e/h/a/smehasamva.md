@@ -7,7 +7,7 @@ title = "स्नेहसम्वर्धितान् बालान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नेहसम्वर्धितान् बालान् दृढं बध्नाति सुन्दरी।  
 करुणा हरिणाक्षीणां कुतः कठिनचेतसाम्॥

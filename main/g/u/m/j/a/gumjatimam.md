@@ -6,7 +6,7 @@ title = "गुञ्जति मञ्जु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुञ्जति मञ्जु मिलिन्दे मालति मा मौनमुपयासीः।  
 शिरसा वदान्यगुरवः सादरमेनं वहन्ति सुरतरवः॥

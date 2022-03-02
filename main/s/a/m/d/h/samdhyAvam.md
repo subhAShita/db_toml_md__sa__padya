@@ -6,7 +6,7 @@ title = "सन्ध्यावन्दनवेलायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्ध्यावन्दनवेलायां तडागान्ते द्विजोत्तमैः।  
 अत्र क्रियापदं गुप्तं यो जानाति स पण्डितः॥

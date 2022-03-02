@@ -6,7 +6,7 @@ title = "मनो मधुकरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनो मधुकरो मेघो मानिनी मदनो मरुत्।  
 मा मदो मर्कटो मत्स्यो मकारा दश चञ्चलाः॥

@@ -6,7 +6,7 @@ title = "चिन्तनीया हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चिन्तनीया हि विपदामादावेव प्रतिक्रियाः।  
 न कूपखननं युक्तं प्रदीप्ते वह्निना गृहे॥

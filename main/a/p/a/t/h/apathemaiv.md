@@ -5,7 +5,7 @@ title = "अपथेनैव यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपथेनैव यो योगाद् अधः सारायते स्वयम्।  
 नीचोपसर्पणवशात् स पतेद् वंशवानपि॥

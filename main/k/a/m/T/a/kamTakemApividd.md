@@ -5,7 +5,7 @@ title = "कण्टकेनापि विद्धस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्टकेनापि विद्धस्य महती वेदना भवेत्।  
 चक्रभीषणखड्गाद्यैर् मार्यमाणस्य किं पुनः॥

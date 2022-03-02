@@ -6,7 +6,7 @@ title = "नाग्निस्तृप्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाग्निस्तृप्यति काष्ठानां नापगानां महोदधिः।  
 नान्तकः सर्वभूतानां न पुंसां वामलोचनाः॥

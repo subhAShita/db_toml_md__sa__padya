@@ -6,7 +6,7 @@ title = "साध्वीव भारती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साध्वीव भारती भाति सूक्तिसद्व्रतचारिणी।  
 ग्राम्यार्थवस्तुसंस्पर्शबहिरङ्गा महाकवेः॥

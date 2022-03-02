@@ -7,7 +7,7 @@ title = "घटितमिवाञ्जनपुञ्जैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घटितमिवाञ्जनपुञ्जैः पूरितमिव मृगमदक्षोदैः।  
 ततमिव तमालतरुभिर्वृतमिव नीलांशुकैर्भुवनम्॥

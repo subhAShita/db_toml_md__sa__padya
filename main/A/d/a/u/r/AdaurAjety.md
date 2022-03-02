@@ -5,7 +5,7 @@ title = "आदौ राजेत्यधीराक्षि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ राजेत्यधीराक्षि पार्थिवः कोऽपि गीयते।  
 सनातनश्च नैवासौ राजा नापि सनातनः॥

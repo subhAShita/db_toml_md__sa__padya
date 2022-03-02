@@ -6,7 +6,7 @@ title = "मद्यपाः किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मद्यपाः किं न जल्पन्ति किं न भक्षन्ति वायसाः।  
 कवयः किं न पश्यन्ति किं न कुर्वन्ति योषितः॥

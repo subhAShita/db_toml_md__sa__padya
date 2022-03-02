@@ -5,7 +5,7 @@ title = "अतिपटलैरनुयाताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिपटलैरनुयातां सहृदयहृदयज्वरं विलुम्पन्तीम्।  
 मृगमदपरिमललहरीं समीर पामरपुरे किरसि॥

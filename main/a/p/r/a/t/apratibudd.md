@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2158", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 742",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अप्रतिबुद्धे श्रोतरि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रतिबुद्धे श्रोतरि वक्तुर्वाक्यं प्रयाति वैफल्यम्।  
 नयनविहीने भर्तरि लावण्यमिवेह खञ्जनाक्षीणाम्॥

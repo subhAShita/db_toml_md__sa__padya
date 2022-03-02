@@ -6,7 +6,7 @@ title = "स्नेहो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नेहो हि वरमघटितो न वरं सञ्जातविघटितस्नेहः।  
 हृतनयनो हि विषादी न विषादी भवति जात्यन्धः॥

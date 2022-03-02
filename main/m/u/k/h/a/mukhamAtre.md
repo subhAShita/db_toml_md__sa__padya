@@ -6,7 +6,7 @@ title = "मुखमात्रेण काव्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखमात्रेण काव्यस्य करोत्यहृदयो जनः।  
 छायामच्छामपि श्यामां राहुस्तारापतेरिव॥

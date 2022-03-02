@@ -5,7 +5,7 @@ title = "हीनजात्युद्भवा ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हीनजात्युद्भवा ये तु तेषां स्पृशति नाशयम्।  
 कदाचिदपि सत्त्वं वा स्नेहो वा चञ्चलात्मनाम्॥

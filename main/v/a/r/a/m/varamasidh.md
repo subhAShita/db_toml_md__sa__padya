@@ -6,7 +6,7 @@ title = "वरमसिधारा तरुतलवासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरमसिधारा तरुतलवासो वरमिह भिक्षा वरमुपवासः।  
 वरमपि घोरे नरके पतनं न च धनगर्वितबान्धवशरणम्॥

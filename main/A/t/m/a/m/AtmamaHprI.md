@@ -5,7 +5,7 @@ title = "आत्मनः प्रीयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनः प्रीयते नात्मा परतः स्वत एव वा।  
 लक्षयेऽलब्धकामं त्वां चिन्तया शबलं मुखम्॥

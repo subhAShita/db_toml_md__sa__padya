@@ -5,7 +5,7 @@ title = "उदरस्येदमणुत्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदरस्येदमणुत्वं सहजगुरुत्वं यदि नेदं हृदयस्य।  
 स्वार्थे कथमलसत्वं कथमनुसत्वं हितकरणे मतिरस्य॥

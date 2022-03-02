@@ -6,7 +6,7 @@ title = "भवतामहमिव बहवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवतामहमिव बहवो मम तु भवानिव भवानेव।  
 कुमुदिन्यः कति न विधोर्विधुरिव विधुरेव कुमुदिन्याः॥

@@ -6,7 +6,7 @@ title = "उपचारः कर्तव्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपचारः कर्तव्यो यावदनुत्पन्नसौहृदो भवति।  
 उत्पन्न्सौहृदानामुपचारः कैतवं भवति॥

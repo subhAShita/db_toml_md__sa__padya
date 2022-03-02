@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4141", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 48",]
-jsonClass = "Subhaashita"
 topics = [ "तृष्णा",]
+jsonClass = "Subhaashita"
 title = "अहो तृष्णावेश्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो तृष्णावेश्या सकलजनतामोहनकरी विदग्धा मुग्धानां हरति विवशानां शमधनम्।  
 विपद्दीक्षादक्षासहतरलतारैः प्रणयिनी- कटाक्षैः कूटाक्षैः कपटकुटिलैः कामकितवः॥

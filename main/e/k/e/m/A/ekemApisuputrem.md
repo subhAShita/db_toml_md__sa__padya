@@ -5,7 +5,7 @@ title = "एकेनापि सुपुत्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि सुपुत्रेण विद्यायुक्तेन साधुना।  
 आह्लादितं कुलं सर्वं यथा चन्द्रेण शर्वरी॥

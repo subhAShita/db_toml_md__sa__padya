@@ -5,7 +5,7 @@ title = "कविः सूयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविः सूयति काव्यानि हृदा दधति सज्जनाः।  
 सूते मुक्ताः पयोराशिर् वहन्ति तरुणीस्तनाः॥

@@ -6,7 +6,7 @@ title = "भिन्ने चित्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भिन्ने चित्ते कुतः प्रीतिः स्याद्वा प्रीतिः कुतः सुखम्।  
 त्वं च स्मरसि तं पुत्रं पुच्छच्छेदं स्मराम्यहम्॥

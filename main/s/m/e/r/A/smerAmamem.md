@@ -6,7 +6,7 @@ title = "स्मेराननेन हरिणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मेराननेन हरिणा सस्पृहमाकारवेदिनाकलितम्।  
 जयति पुरुषायितायाः कमलायाः कैटभीध्यानम्॥

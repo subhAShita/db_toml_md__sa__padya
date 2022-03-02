@@ -6,7 +6,7 @@ title = "यत्र देशेऽथवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र देशेऽथवा स्थाने भोगान्भुक्त्वा स्ववीर्यतः।  
 तस्मिन्विभवहीनो यो वसेत्स पुरुषाधमः॥

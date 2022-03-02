@@ -6,7 +6,7 @@ title = "निम्ब किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निम्ब किं बहुनोक्तेन निष्फलानि फलानि ते।  
 यानि सञ्जातपाकानि काका निःशेषयन्त्यमी॥

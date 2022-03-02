@@ -6,7 +6,7 @@ title = "सगुणापि हन्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सगुणापि हन्त विगुणा भवति खलास्याद्विचित्रवर्णापि।  
 आखुमुखादिव शाटी पदपरिपाटी कवेः कापि॥

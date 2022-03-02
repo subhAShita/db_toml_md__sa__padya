@@ -6,7 +6,7 @@ title = "नीतं नवनवनीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीतं नवनवनीतं कियदिति पृष्टो यशोदया कृष्णः।  
 इयदिति गुरुजनसंसदि करधृतराधापयोधरः पातु॥

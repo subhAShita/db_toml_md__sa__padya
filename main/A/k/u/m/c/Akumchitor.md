@@ -5,7 +5,7 @@ title = "आकुञ्चितोरू द्वौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकुञ्चितोरू द्वौ यत्र जानुभ्यां धरणिं गतौ।  
 दर्दुरक्रममित्याहुः स्थानकं दृढभेदने॥

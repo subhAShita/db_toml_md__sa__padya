@@ -5,7 +5,7 @@ title = "अभिनयशस्तौ हस्तौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिनयशस्तौ हस्तौ पादौ परिभूतकिसलयौ सलयौ।  
 अङ्गं रञ्जितरङ्गं नृत्तं पुंभावशालि समवृत्तम्॥

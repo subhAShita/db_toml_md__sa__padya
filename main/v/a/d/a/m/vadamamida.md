@@ -8,7 +8,7 @@ title = "वदनमिदं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वदनमिदं न सरोजं नयने नेन्दीवरे एते।  
 इह सविधे मुग्धदृशो मधुकर न मुधा परिभ्राम्य॥

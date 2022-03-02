@@ -7,7 +7,7 @@ title = "तव विरहमसहमाना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव विरहमसहमाना सा तु प्राणान्विमुक्तवती।  
 किन्तु तथाविधमङ्गं न सुलभमिति ते न मुञ्चन्ति॥

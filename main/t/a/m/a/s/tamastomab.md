@@ -7,7 +7,7 @@ title = "तमस्तोम भृशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तमस्तोम भृशं सोममण्डलोपरि राजसे।  
 धूमपानेन किं नाम धाम गम्यमतःपरम्॥

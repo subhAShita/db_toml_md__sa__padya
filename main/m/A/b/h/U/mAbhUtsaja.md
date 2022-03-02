@@ -6,7 +6,7 @@ title = "मा भूत्सज्जनयोगो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा भूत्सज्जनयोगो यदि योगो मा पुनः स्नेहः।  
 स्नेहो यदि विरहो मा यदि विरहो जीविताशा का॥

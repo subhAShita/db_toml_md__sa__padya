@@ -5,7 +5,7 @@ title = "ऋणानि त्रीण्यपाकृत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणानि त्रीण्यपाकृत्य मनो मोक्षे निवेशयेत्।  
 अनपाकृत्य मोक्षं तु सेवमानो व्रजत्यधः॥

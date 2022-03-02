@@ -5,7 +5,7 @@ title = "आशापिशाचिका माम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशापिशाचिका मां भ्रमयति परितो दशस्वपि दिशासु।  
 स्वीये पिशाचवर्गे सेवायै किं न योजयसि॥

@@ -6,7 +6,7 @@ title = "निद्रे भद्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निद्रे भद्रम् अवस्थिताऽसि कुशलं संवेदने किं तव  
 क्षेमं ते सखि निर्वृते ननु समं कान्तेन यूयं गताः ।  

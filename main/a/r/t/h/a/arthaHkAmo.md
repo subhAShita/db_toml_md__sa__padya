@@ -5,7 +5,7 @@ title = "अर्थः कामो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थः कामो धर्मो मोक्षः सर्वे भवन्ति पुरुषस्य।  
 तावद्यावत् पीडां जाठरवह्निर्न विदधाति॥

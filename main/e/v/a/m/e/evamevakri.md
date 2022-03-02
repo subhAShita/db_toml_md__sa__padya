@@ -5,7 +5,7 @@ title = "एवमेव क्रियायुक्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमेव क्रियायुक्ता सर्वसौभाग्यदायिनी।  
 यस्यैषा च भवेद् भार्या देवेन्द्रोऽसौ न मानुषः॥

@@ -6,7 +6,7 @@ title = "स्वरसेन बध्नताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वरसेन बध्नतां करमादाने कण्टकोत्करैस्तुदताम्।  
 पिशुनानां पनसानां कोशाभोगोऽप्यविश्वास्यः॥

@@ -7,7 +7,7 @@ title = "कविता नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविता नाम विधेया विधाय कविनापि झटिति मर्तव्यम् ।  
 पठ्यन्ते पाठ्यन्ते व्याख्यायन्ते मृताः कवयः ॥

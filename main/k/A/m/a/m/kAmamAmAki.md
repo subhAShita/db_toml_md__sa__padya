@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9603", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 8",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कामनाम्ना किरातेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामनाम्ना किरातेन वितता मूढचेतसाम्।  
 नार्यो नरविहंगानाम् अङ्गबन्धनवागुराः॥

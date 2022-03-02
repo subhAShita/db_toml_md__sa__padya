@@ -5,7 +5,7 @@ title = "ओमित्येतत्परं ब्रह्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ओमित्येतत्परं ब्रह्म श्रुतीनां मुखमक्षरम्।  
 प्रसीदतु सतां स्वान्तेष्व् एकं त्रिपुरुषीमयम्॥

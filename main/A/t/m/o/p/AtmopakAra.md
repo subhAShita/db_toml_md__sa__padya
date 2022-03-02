@@ -5,7 +5,7 @@ title = "आत्मोपकारचतुरा नरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मोपकारचतुरा नरा न गणयन्ति गुरुकुलक्लेशम्।  
 वेधव्यथैव कियती श्रवसो ह्यवतंसभूषणीयस्य॥

@@ -6,7 +6,7 @@ title = "यश्च निम्बम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यश्च निम्बं परशुना यश्चैनं मधुसर्पिषा।  
 यश्चैनं गन्धमाल्याद्यैः सर्वलस्य कटुरेव स॥

@@ -6,7 +6,7 @@ title = "पाटलया वनमध्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाटलया वनमध्ये कुसुमितया मोहितस्तथा भ्रमरः।  
 सैवेयमिति यथाभूत्प्रतीतिरस्यान्यपुष्पेऽपि॥

@@ -5,7 +5,7 @@ title = "उचितं बन्धनमनयोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उचितं बन्धनमनयोः कुचयुगयोः केवलं तन्वि।  
 युवजनमानसहाटक- चौरविधौ पश्यतोहरयोः॥

@@ -6,7 +6,7 @@ title = "भागीरथीनिर्झरसीकराणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भागीरथीनिर्झरसीकराणां  
 वोढा मुहुः कम्पितदेवदारुः ।  

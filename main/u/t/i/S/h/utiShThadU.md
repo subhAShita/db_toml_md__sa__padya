@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6530", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०५ विप्रलब्धा// 69",]
-jsonClass = "Subhaashita"
 topics = [ "नायिका", "विप्रलब्धा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उत्तिष्ठ दूति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तिष्ठ दूति यामो यामो यातस् तथापि नायातः।  
 यातः परमपि जीवेज् जीवितनाथो भवेत् तस्याः॥

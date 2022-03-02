@@ -5,7 +5,7 @@ title = "अन्तो नाश्चर्यजातस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तो नाश्चर्यजातस्य जततो दृश्यते क्वचित्।  
 क्षुद्राहंभावसीमाया यावतीं मुक्तिमाप्नुमः।  

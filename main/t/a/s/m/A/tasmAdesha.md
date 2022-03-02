@@ -7,7 +7,7 @@ title = "तस्माद् देशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्माद् देशं च कालं च    
 प्रयोगं शास्त्रम् एव च।  

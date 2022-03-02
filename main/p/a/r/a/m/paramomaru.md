@@ -6,7 +6,7 @@ title = "परमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परमो मरुत्सखाग्नेस्तेजोवृद्धिं तनोतु तं जेतुम्।  
 दीपं हरति तदस्य ज्ञातं प्रतिपत्तिनिर्वहणम्॥

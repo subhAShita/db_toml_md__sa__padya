@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3286", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०५ चातकः// 151",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - चातकः",]
-title = "अवश्यकारणैः"
+jsonClass = "Subhaashita"
+title = "अवश्यकारणैः प्राणान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवश्यकारणैः प्राणान् धारयत्येव चातकः।  
 प्रार्थनाभङ्गभीतोऽपि शक्रादपि न याचते॥

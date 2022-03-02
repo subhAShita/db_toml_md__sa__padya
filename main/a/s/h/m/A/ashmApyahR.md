@@ -5,7 +5,7 @@ title = "अश्माप्यहृदयो यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्माप्यहृदयो यस्य गुणसारं परीक्षते।  
 उचितैव सुवर्णस्य तस्याग्निपतने रुचिः॥

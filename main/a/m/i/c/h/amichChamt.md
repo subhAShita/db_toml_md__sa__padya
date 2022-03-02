@@ -5,7 +5,7 @@ title = "अनिच्छन्तोऽपि विनयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिच्छन्तोऽपि विनयं विद्याभ्यासेन बालकाः।  
 भेषजेनेव नैरुज्यं प्रापणीयाः प्रयत्नतः॥

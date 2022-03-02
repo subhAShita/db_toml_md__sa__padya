@@ -5,7 +5,7 @@ title = "अहीनकालं राजार्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहीनकालं राजार्थं स्वार्थं प्रियहितैः सह।  
 परार्थं देशकाले च ब्रूयाद् धर्मार्थसंहितम्॥

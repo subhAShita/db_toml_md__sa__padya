@@ -7,7 +7,7 @@ title = "पुराणबाणत्यागाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुराणबाणत्यागाय नूतनास्त्रकुतूहलात्।  
 तन्नासा भाति कामेन तूणीवाधोमुखीकृता॥

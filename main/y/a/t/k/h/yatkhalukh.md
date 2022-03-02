@@ -6,7 +6,7 @@ title = "यत्खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्खलु खलमुखहुतवहविनिहितमपि शुद्धिमेव परमेति।  
 तदनलशौचमिवांशुकमिह लोके दुर्लभं प्रेम॥

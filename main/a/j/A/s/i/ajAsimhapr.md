@@ -5,7 +5,7 @@ title = "अजा सिंहप्रसादेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजा सिंहप्रसादेन वने चरति निर्भयम्।  
 राममासाद्य लङ्कायां लेभे राज्यं विभीषणः॥

@@ -5,7 +5,7 @@ title = "उन्मुक्तमानकलहा रमध्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्मुक्तमानकलहा रमध्वं दयितान्विताः।  
 इतीव मधुरालापाः कोकिला जगदुर् जनान्॥

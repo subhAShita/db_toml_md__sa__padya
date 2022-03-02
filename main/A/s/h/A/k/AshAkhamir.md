@@ -5,7 +5,7 @@ title = "आशाखनिरगाधेयं दुष्पूरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशाखनिरगाधेयं दुष्पूरा केन पूर्यते।  
 या महद्भिरपि क्षिप्तैः पूरकैरेव खन्यते॥

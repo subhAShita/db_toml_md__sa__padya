@@ -7,7 +7,7 @@ title = "विद्वत्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्वत्तां प्राप्तुकामस्य विपश्चिद्भिः कचाकचि ।  
 नूनमावश्यको वादः न तत्र विवदामहे ॥  

@@ -5,7 +5,7 @@ title = "अध्वा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अध्वा न यदि निसङ्गपङ्कसंकुलितो भवेत्।  
 ततः कुतस्ते धौरेय धुर्यता व्यज्यतामियम्॥

@@ -6,7 +6,7 @@ title = "दन्तिदन्तसमानं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दन्तिदन्तसमानं हि निःसृतं महतां वचः।  
 कूर्मग्रीवेण नीचानां पुनरायाति याति च॥

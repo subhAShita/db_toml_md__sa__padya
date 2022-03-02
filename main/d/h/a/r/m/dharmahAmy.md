@@ -6,7 +6,7 @@ title = "धर्महान्यर्जिते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्महान्यर्जिते वित्तेऽनुभवन्ति सुखं परे।  
 स्वयं पापस्य पात्रं स्यात्सिंहो गजवधादिव॥

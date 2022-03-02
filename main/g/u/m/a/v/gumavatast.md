@@ -6,7 +6,7 @@ title = "गुणवतस्तव हार"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणवतस्तव हार न युज्यते परकलत्रकुचेषु विलुण्ठनम्।  
 स्पृशति शीतकरो जघनस्थलीमुचितमस्ति तदेव कलङ्किनः।॥

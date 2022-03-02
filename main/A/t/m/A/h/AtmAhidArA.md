@@ -5,7 +5,7 @@ title = "आत्मा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मा हि दाराः सर्वेषां दारसंग्रहवर्तिनाम्।  
 ... ... ... ... ... ...॥

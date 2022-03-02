@@ -5,7 +5,7 @@ title = "अविरलमदजलनिवहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरलमदजलनिवहं भ्रमरकुलानीकसेवितकपोलम्।  
 अभिमतफलदातारं कामेशं गणपतिं वन्दे॥

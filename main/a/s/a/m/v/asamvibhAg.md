@@ -5,7 +5,7 @@ title = "असंविभागी दुष्टात्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंविभागी दुष्टात्मा कृतघ्नो निरपत्रपः।  
 तादृङ्नराधमो लोके वर्जनीयो नराधिप॥

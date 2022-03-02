@@ -5,7 +5,7 @@ title = "कामदर्पादिशीलानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामदर्पादिशीलानाम् अविचारितकारिणाम्।  
 आयुषा सह नश्यन्ति सम्पदो मूढचेतसाम्॥

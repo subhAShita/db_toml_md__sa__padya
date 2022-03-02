@@ -5,7 +5,7 @@ title = "अनाथानां दरिद्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाथानां दरिद्राणां बालवृद्धतपस्विनाम्।  
 अन्यायपरिभूतानां सर्वेषां पार्थिवो गतिः॥

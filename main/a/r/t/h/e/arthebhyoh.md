@@ -5,7 +5,7 @@ title = "अर्थेभ्यो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थेभ्यो हि विवृत्तेभ्यः संभृतेभ्यस्ततस्ततः।  
 क्रियाः सर्वाः प्रवर्तन्ते पर्वतेभ्य इवापगाः॥

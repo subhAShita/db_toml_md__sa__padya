@@ -5,7 +5,7 @@ title = "उपकार्योपकारित्वं दूरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकार्योपकारित्वं दूरे चेत् सा हि मित्रता।  
 पुष्पवन्तौ किमासन्नौ पश्य कैरवपद्मयोः॥

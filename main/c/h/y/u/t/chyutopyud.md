@@ -6,7 +6,7 @@ title = "च्युतोऽप्युद्गच्छति पुनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 च्युतोऽप्युद्गच्छति पुनः प्रज्ञावान्न तु मूढधीः।  
 कन्दुकः पतनोत्थायी न तु कान्ताकुचद्वयी॥

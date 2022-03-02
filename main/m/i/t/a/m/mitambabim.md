@@ -7,7 +7,7 @@ title = "नितम्बबिम्बं बिम्बोष्ठी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नितम्बबिम्बं बिम्बोष्ठी चन्द्रकान्तशिलाघनम्।  
 धत्ते कन्दर्पदोःस्तम्भप्रशस्तिफलकोपमम्॥

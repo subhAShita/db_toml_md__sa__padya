@@ -5,7 +5,7 @@ title = "कामक्रोधग्राहवतीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामक्रोधग्राहवतीं पञ्चेन्द्रियजलां नदीम्।  
 कृत्वा धृतिमयीं नावं जन्मदुर्गाणि संतर॥

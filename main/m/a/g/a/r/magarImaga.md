@@ -6,7 +6,7 @@ title = "नगरी नगरस्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नगरी नगरस्येव  
 रथस्येव रथी यथा।  

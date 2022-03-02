@@ -6,7 +6,7 @@ title = "दृढतरगलकनिबन्धः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृढतरगलकनिबन्धः कूपनिपातोऽपि कलश ते धन्यः।  
 यज्जीवनदानैस्त्वं तर्षामर्षं नृणां हरसि॥

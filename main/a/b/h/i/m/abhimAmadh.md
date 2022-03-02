@@ -5,7 +5,7 @@ title = "अभिमानधनं येषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमानधनं येषां चिरं जीवन्ति ते नराः।  
 अभिमानविहीनानां किं धनेन किमायुषा॥

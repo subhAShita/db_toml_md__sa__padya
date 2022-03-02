@@ -6,7 +6,7 @@ title = "सप्तषष्टि हताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सप्तषष्टि हताः कोट्यो वानराणां तरस्विनाम्।  
 पश्चिमेनाह्नःशेषेण मेघनादेन सायकैः॥

@@ -6,7 +6,7 @@ title = "स्वकपोलेन प्रकटीकृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वकपोलेन प्रकटीकृतं प्रमत्तत्वकारणं किमपि।  
 द्विरदस्य दुर्जनस्य च मदं चकारैव दानमपि॥

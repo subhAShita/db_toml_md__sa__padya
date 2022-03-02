@@ -6,7 +6,7 @@ title = "नक्षत्रभूषणं चन्द्रो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नक्षत्रभूषणं चन्द्रो नारीणां भूषणं पतिः।  
 पृथिवीभूषणं राजा विद्या सर्वस्य भूषणम्॥

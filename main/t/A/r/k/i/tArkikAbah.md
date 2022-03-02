@@ -6,7 +6,7 @@ title = "तार्किका बहवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तार्किका बहवः सन्ति शाब्दिकाश्च सहस्रशः।  
 विरलाः कवयो लोके सरलालापपेशलाः॥

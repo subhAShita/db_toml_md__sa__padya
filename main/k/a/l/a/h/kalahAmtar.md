@@ -5,7 +5,7 @@ title = "कलहान्तरिताप्रलपनम् अतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलहान्तरिताप्रलपनम् अतः परं नायकस्य शिक्षा च।  
 संभोगाविष्करणं कुलटा संकीर्णमिति च शृङ्गारः॥

@@ -6,7 +6,7 @@ title = "निर्गुण इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्गुण इति मृत इति च द्वावेकार्थाभिधायिनौ विद्धि।  
 पश्य धनुर्गुणशून्यं निर्जीवं यदिह शंसन्ति॥

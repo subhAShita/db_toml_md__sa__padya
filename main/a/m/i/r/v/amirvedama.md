@@ -1,13 +1,13 @@
 +++
 topics = [ "पुरुषकारः", "अनालस्यम्", "अनहङ्कृतिः", "अहङ्कारः", "अनिर्वेदः", "निर्वेदः", "कार्य-साधनम्",]
 ratings = [ "vvasuki:5",]
-jsonClass = "Subhaashita"
 sources = [ "राळ्ळ्पल्लि अनन्तकृष्णशर्मणः",]
+jsonClass = "Subhaashita"
 title = "अनिर्वेदमसिद्धेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्वेदमसिद्धेषु साधितेष्वनहङ्कृतिम् ।  
 अनालस्यञ्च साद्ध्येषु कृत्येष्वनुगृहाण नः ॥

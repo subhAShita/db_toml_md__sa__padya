@@ -5,7 +5,7 @@ title = "आलस्यं हरति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलस्यं हरति प्रज्ञां धनमायुर्यशो बलम्।  
 यस्मिन्नास्ते तदालस्यं सर्वदोषाकरस्तु सः॥

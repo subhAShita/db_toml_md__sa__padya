@@ -6,7 +6,7 @@ title = "बलमार्तभयोपशान्तये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलमार्तभयोपशान्तये विदुषां सम्मतये बहुश्रुतम्।  
 वसु तस्य न केवलं विभोर्गुणवत्तापि परप्रयोजनम्॥

@@ -7,7 +7,7 @@ title = "निलयः श्रियः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निलयः श्रियः सततमेतदिति प्रथितं यदेव जलजन्म तया।  
 दिवसात्ययात्तदपि मुक्तमहो चपलाजनं प्रति न चोद्यमदः॥

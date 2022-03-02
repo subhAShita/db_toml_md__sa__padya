@@ -5,7 +5,7 @@ title = "अपार्थेतरयुक्तानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपार्थेतरयुक्तानां व्याससंग्रहशालिनाम्।  
 अपि गोपालगीतानां निवेशो निगमादिषु॥

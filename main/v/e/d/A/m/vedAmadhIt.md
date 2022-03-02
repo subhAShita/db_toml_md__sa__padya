@@ -7,7 +7,7 @@ title = "वेदानधीत्य वेदौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदानधीत्य वेदौ वा वेदं वापि यथाक्रमम्   
 अविप्लुतब्रह्मचर्यो गृहस्थाश्रममावसेत् ॥

@@ -6,7 +6,7 @@ title = "सागसेऽपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सागसेऽपि न कुप्यन्ति कृपया चोपकुर्वते।  
 बोधं स्वस्यैव नेच्छन्ति ते विश्वोद्धरणक्षमाः॥

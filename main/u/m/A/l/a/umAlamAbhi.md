@@ -6,7 +6,7 @@ title = "उन्नालनाभिपङ्केरुह इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नालनाभिपङ्केरुह इव येनावभाति शम्भुरपि।  
 जयति पुरुषायितायास्तदाननं शैलकन्यायाः॥

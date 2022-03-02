@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5324", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २८ धननिन्दा// 5",]
-jsonClass = "Subhaashita"
 topics = [ "धनम्",]
+jsonClass = "Subhaashita"
 title = "आलिङ्गिताः परैर्यान्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलिङ्गिताः परैर्यान्ति प्रस्खलन्ति समे पथि।  
 अव्यक्तानि च भाषन्ते धनिनो मद्यपा इव॥

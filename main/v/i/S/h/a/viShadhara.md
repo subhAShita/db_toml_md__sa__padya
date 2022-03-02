@@ -6,7 +6,7 @@ title = "विषधरतोऽप्यतिविषमः खल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषधरतोऽप्यतिविषमः खल इति न मृषा वदन्ति विद्वांसः।  
 यदयं नकुलद्वेषी स कुलद्वेषी पुनः पिशुनः॥

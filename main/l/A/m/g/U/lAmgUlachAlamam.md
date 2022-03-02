@@ -6,7 +6,7 @@ title = "लाङ्गूलचालनं क्ष्वेडः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लाङ्गूलचालनं क्ष्वेडः प्रतिरावो विवर्तनम्  
 दन्तदर्शनम् आरावस्ततो युद्धं प्रवर्तते ।  

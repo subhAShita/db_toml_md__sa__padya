@@ -5,7 +5,7 @@ title = "अमीषां मण्डलाभोगः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमीषां मण्डलाभोगः स्तनानामेव शोभते।  
 येषामुपेत्य सोत्कम्पा राजानोऽपि करप्रदाः॥

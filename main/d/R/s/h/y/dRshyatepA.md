@@ -7,7 +7,7 @@ title = "दृश्यते पानगोष्ठीषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृश्यते पानगोष्ठीषु कान्तावक्त्रगतं मधु।  
 स्मरं सहायमासाद्य ग्रस्तो राहुरिवेन्दुना॥

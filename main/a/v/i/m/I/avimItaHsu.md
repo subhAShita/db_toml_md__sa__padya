@@ -5,7 +5,7 @@ title = "अविनीतः सुतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविनीतः सुतो जातः कथं न दहनात्मकः।  
 विनीतस्तु सुतो जातः कथं न पुरुषोत्तमः॥

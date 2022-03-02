@@ -5,7 +5,7 @@ title = "एतद् विद्वान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतद् विद्वान् मदुदितं ज्ञानविज्ञाननैपुणम्।  
 न निन्दति न च स्तौति लोके चरति सूर्यवत्॥

@@ -5,7 +5,7 @@ title = "आस्तीकवचनं स्मृत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्तीकवचनं स्मृत्वा यः सर्पो न निवर्तते।  
 शतधा भिद्यते मूर्ध्नि शिंशवृक्षफलं यथा॥

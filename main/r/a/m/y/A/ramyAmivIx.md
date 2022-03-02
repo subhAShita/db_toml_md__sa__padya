@@ -6,7 +6,7 @@ title = "रम्याणि वीक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रम्याणि वीक्ष्य मधुरांश्च निशम्य शब्दान्   
 पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः ।  

@@ -6,7 +6,7 @@ title = "दुर्जनो दूषयत्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनो दूषयत्येव सतां गुणगणं क्षणात्।  
 मलिनीकुरुते धूमः सर्वथा विमलाम्बरम्॥

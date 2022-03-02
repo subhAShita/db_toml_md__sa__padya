@@ -5,7 +5,7 @@ title = "अन्नादष्टगुणं पिष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नादष्टगुणं पिष्टं पिष्टादष्तगुणं पयः।  
 पयसोऽष्टगुणं मांसं मांसादष्टगुणं घृतम्॥

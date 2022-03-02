@@ -5,7 +5,7 @@ title = "औषधान्यगदो विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औषधान्यगदो विद्या दैवी च विविधा स्थितिः।  
 तपसैव प्रसिध्यन्ति तपस् तेषां हि साधनम्॥

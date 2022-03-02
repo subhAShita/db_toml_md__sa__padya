@@ -5,7 +5,7 @@ title = "इह वहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह वहति बहुमहोदधि- विभूषणा मानगर्वमियमुर्वी।  
 देवस्य कमठमूर्तेर् न पृष्ठमपि निखिलमाप्नोति॥

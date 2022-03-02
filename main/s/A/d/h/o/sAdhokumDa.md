@@ -6,7 +6,7 @@ title = "साधो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधो कुण्डलघटनापरिश्रमादलमविद्धकर्णा पूः।  
 वसति दिगम्बरनगरे रजकश्चतुरोऽपि किं कुरुते॥

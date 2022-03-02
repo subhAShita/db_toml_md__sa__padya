@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7287",]
-jsonClass = "Subhaashita"
 topics = [ "जरा",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "ऊढा येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊढा येन महाधुराः सुविषमे मार्गे सदैकाकिना सोढो येन कदाचिदेव न निजे गोष्ठेऽन्यशौण्डध्वनिः।  
 आसीद् यस्तु गवां गणस्य तिलकस् तस्यैद संप्रत्यहो धिक् कष्टं धवलस्य जातजरसो गोः पण्यमुद्घोष्यते॥

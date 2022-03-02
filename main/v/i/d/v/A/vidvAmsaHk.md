@@ -6,7 +6,7 @@ title = "विद्वांसः कवयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्वांसः कवयो भट्टा गायकाः परिहालकाः।  
 इतिहासपुराणज्ञाः सभा सप्ताङ्गसंयुता॥

@@ -7,7 +7,7 @@ title = "जायते विदुषोर्वादे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जायते विदुषोर्वादे परमार्थोऽधिकस्फुटः ।  
 अन्यत्र जडयोर्वादे जडिमा केवलं तयोः ॥

@@ -7,7 +7,7 @@ title = "द्रुतसमीरचलैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्रुतसमीरचलैः क्षणलक्षितव्यवहिता विटपैरिव मञ्जरी।  
 नवतमालनिभस्य नभस्तरोरचिररोचिररोचत वारिदैः॥

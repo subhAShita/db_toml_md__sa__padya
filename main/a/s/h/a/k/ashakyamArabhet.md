@@ -5,7 +5,7 @@ title = "अशक्यं नारभेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशक्यं नारभेत् प्राज्ञो अकार्यं नैव कारयेत्।  
 यथादेशगतं धर्मं यथाकालं च जीवयेत्॥

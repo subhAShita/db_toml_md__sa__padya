@@ -5,7 +5,7 @@ title = "ऋजुना निधेहि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋजुना निधेहि चरणौ परिहर सखि निखिलनागराचारम्।  
 इह डाकिनीति पल्ली- पतिः कटाक्षेऽपि दण्डयति॥

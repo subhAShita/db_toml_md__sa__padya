@@ -5,7 +5,7 @@ title = "अरिवधदेहशरीरः सहसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरिवधदेहशरीरः सहसा रथिसूततुरगपादातः।  
 भाति सदानत्यागः स्थिरतायामवनितलतिलकः॥

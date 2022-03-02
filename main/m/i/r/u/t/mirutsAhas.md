@@ -6,7 +6,7 @@ title = "निरुत्साहस्य दीनस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निरुत्साहस्य दीनस्य शोकपर्याकुलात्मनः  
 सर्वार्थाः व्यवसीदन्ति व्यसनं चाधिगच्छति

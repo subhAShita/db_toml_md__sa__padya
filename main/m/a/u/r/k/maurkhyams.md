@@ -6,7 +6,7 @@ title = "मौर्ख्यं सर्वापदाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मौर्ख्यं सर्वापदां निष्ठा का हि नापदजानतः।  
 तस्मिन्नप्यविषण्णो यः क्व सोऽन्यत्र विपत्स्यति॥

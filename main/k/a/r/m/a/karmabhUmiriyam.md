@@ -5,7 +5,7 @@ title = "कर्मभूमिरियं ब्रह्मन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मभूमिरियं ब्रह्मन् फलभूमिरसौ मता।  
 इह यत् क्रियते कर्म तत् परत्रोपभुज्यते॥

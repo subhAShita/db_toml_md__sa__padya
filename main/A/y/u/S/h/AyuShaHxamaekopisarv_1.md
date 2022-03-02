@@ -7,7 +7,7 @@ title = "आयुषः क्षण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुषः क्षण एकोऽपि सर्वरत्नैर्न लभ्यते।  
 नीयते यद् वृथा सोऽपि प्रमादः सुमहानयम्॥

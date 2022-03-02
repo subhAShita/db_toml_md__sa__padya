@@ -6,7 +6,7 @@ title = "नानिवेद्य प्रकुर्वीत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नानिवेद्य प्रकुर्वीत भर्तुः किञ्चिदपि स्वयम्।  
 कार्यमापत्प्रतीकारादन्यत्र जगतीपतेः॥

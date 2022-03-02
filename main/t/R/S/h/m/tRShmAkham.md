@@ -6,7 +6,7 @@ title = "तृष्णाखनिरगाधेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णाखनिरगाधेयं दुष्पूरा केन पूर्यते।  
 या महद्भिरपि क्षिप्तैः पूरणैरेव खन्यते॥

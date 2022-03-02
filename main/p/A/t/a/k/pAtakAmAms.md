@@ -6,7 +6,7 @@ title = "पातकानां समस्तानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातकानां समस्तानां द्वे परे तात पातके।  
 एकं दुःसचिवो राजा द्वितीयं च तदाश्रयः॥

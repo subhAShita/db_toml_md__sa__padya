@@ -7,7 +7,7 @@ title = "गच्छन् बहिरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गच्छन् बहिरपि युगपच्चित्रमिदं पश्य याम्यन्तः।  
 

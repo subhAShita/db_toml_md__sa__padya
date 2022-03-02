@@ -6,7 +6,7 @@ title = "हंसः श्वेतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हंसः श्वेतो बकः श्वेतः को भेदो बकहंसयोः।  
 नीरक्षीरविभागे तु हंसो हंसो बको बकः॥

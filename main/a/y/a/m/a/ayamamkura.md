@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2684", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 14",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अयमङ्कुरभाव एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमङ्कुरभाव एव तावत् कुचयोः कर्षति लोकलोचनानि।  
 इतरेतरपीडनीमवस्थां गतयोः श्रीरनयोः कथं भवित्री॥

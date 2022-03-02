@@ -6,7 +6,7 @@ title = "शरदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरदि समग्रनिशाकरकरशतहततिमिरसञ्चया रजनी।  
 जलदान्तरितार्कामपि दिवसच्छायां न पूरयति॥

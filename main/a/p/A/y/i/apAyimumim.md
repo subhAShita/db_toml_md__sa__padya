@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1996", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 28",]
-jsonClass = "Subhaashita"
 topics = [ "कीर्तिः",]
+jsonClass = "Subhaashita"
 title = "अपायि मुनिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपायि मुनिना पुरा पुनरमायि मर्यादया अतारि कपिना पुरा पुनरदाहि लङ्कारिणा।  
 अमन्थि मुरवैरिणा पुनरबन्धि लङ्कारिणा क्व नाम वसुधापते तव यशोऽम्बुधिः क्वाम्बुधिः॥

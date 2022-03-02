@@ -6,7 +6,7 @@ title = "किमप्यस्ति स्वभावेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमप्यस्ति स्वभावेन सुन्दरं वाप्यसुन्दरम्।  
 यदेव रोचते यस्मै भवेत्तत्तस्य सुन्दरम्॥

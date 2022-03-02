@@ -7,7 +7,7 @@ title = "रम्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रम्यं जुगुप्सितमुदारमथापि नीचम्  
 उग्रं प्रसादि गहनं विकृतं च वस्तु ।  

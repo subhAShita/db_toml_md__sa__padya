@@ -6,7 +6,7 @@ title = "गूढमैथुनधार्ष्ट्ये च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गूढमैथुनधार्ष्ट्ये च काले चालयसङ्ग्रहम्।  
 अप्रमादमनालस्यं पञ्च शिक्षेत वायसात्॥

@@ -6,7 +6,7 @@ title = "कृतमन्दपदन्यासा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतमन्दपदन्यासा विकचश्रीश्चारुशब्दभङ्गवती।  
 कस्य न कम्पयते कञ्जरेव जीर्णस्य सत्कवेर्वाणी॥

@@ -5,7 +5,7 @@ title = "अपि वर्षशतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि वर्षशतं स्थित्वा सदा कृत्रिमरागिणी।  
 वेश्या शुकीव निःश्वासा निःसङ्गेभ्यः पलायते॥

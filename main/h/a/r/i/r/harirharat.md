@@ -6,7 +6,7 @@ title = "हरिर्हरति पापानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरिर्हरति पापानि दुष्टचित्तैरपिस्मृतः।  
 अनिच्छयाऽपि संस्पृष्टो दहत्येव हि पावकः॥

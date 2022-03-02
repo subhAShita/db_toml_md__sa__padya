@@ -6,7 +6,7 @@ title = "प्रयाणे तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रयाणे तव राजेन्द्र मुक्ता वैरिमृगीदृशाम्।  
 राजहंसगतिः पद्भ्यामाननेन शशिद्युतिः॥

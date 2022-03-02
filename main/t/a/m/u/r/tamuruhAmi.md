@@ -7,7 +7,7 @@ title = "तनुरुहाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तनुरुहाणि पुरोविजितध्वनेर्धवलपक्षविहङ्गमकूजितैः।  
 जगलुरक्षमयेव शिखण्डिनः परिभवोऽरिभवो हि सुदुःसहः॥

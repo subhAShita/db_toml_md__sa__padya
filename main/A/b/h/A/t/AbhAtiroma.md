@@ -5,7 +5,7 @@ title = "आभाति रोमराजिश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आभाति रोमराजिश् चलदलिकुलकोमला विशालाक्ष्याः।  
 नाभीविवरान्तर्गत- मदनानलधूमलेखेव॥

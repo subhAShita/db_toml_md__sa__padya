@@ -5,7 +5,7 @@ title = "अस्नाताशी मलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्नाताशी मलं भुङ्क्ते अजपी पूयभक्षणम्।  
 अहुताशी विषं भुङ्क्ते अदाता विषमश्नुते॥

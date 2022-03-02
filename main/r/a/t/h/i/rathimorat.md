@@ -6,7 +6,7 @@ title = "रथिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रथिनो रथिभिर्बाणैर्हृतप्राणा दृढासनाः।  
 कृतकार्मुकसन्धानाः सप्राणा इव मेनिरे॥

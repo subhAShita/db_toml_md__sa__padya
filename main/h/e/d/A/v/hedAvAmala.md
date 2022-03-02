@@ -6,7 +6,7 @@ title = "हे दावानल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हे दावानल शैलाग्रवासिनः साधुशाखिनः।  
 मुग्ध व्यर्थं त्वया दग्धाः प्रेरितेन प्रभञ्जनैः।॥

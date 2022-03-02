@@ -5,7 +5,7 @@ title = "कामं परमिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामं परमिति ज्ञात्वा देवोऽपि हि पुरन्दरः।  
 गौतमस्य मुनेः पत्नीम् अहल्यां चकमे पुरा॥

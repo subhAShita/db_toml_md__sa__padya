@@ -5,7 +5,7 @@ title = "एतेषां विजयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतेषां विजयं कृत्वा कार्यो भृत्यजयस् ततः।  
 कृत्वा भृत्यजयं राजा पौराञ्जनपदाञ्जयेत्॥

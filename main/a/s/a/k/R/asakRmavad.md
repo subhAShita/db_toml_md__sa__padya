@@ -5,7 +5,7 @@ title = "असकृन् न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असकृन् न वदेदाशां प्रार्थयेद् देवतां सकृत्।  
 नालायनी पञ्च पतीन् प्रापोच्चार्य पुनः पुनः॥

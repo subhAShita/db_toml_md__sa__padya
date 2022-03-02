@@ -5,7 +5,7 @@ title = "एवं द्रव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं द्रव्यं द्विपवनं सेतुबन्धमथाकरान्।  
 रक्षेत् पूर्वकृतान् राजा नवांश्चाभिप्रवर्तयेत्॥

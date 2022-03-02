@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5240", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 8",]
-jsonClass = "Subhaashita"
 topics = [ "व्यभिचारिणी",]
 rasas = [ "शृङ्गारः",]
-title = "आरोपिता शिलायामश्मेव"
+jsonClass = "Subhaashita"
+title = "आरोपिता शिलायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरोपिता शिलायाम् अश्मेव त्वं भवेति मन्त्रेण।  
 मग्नापि परिणयापदि जारमुखं वीक्ष्य हसितैव॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9871", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 16",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "काले देशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले देशे यथायुक्तं नरः कुर्वन्नुपैति काम्।  
 भुक्तवन्तावलप्स्येतां किमन्नमकरिष्यताम्॥

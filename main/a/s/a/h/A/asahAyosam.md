@@ -5,7 +5,7 @@ title = "असहायोऽसमर्थो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असहायोऽसमर्थो वा तेजस्वी किं करिष्यति।  
 अतृणे पतितो वह्निः स्वयमेवोपशाम्यते॥

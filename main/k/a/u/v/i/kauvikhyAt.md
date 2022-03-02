@@ -6,7 +6,7 @@ title = "कौ विख्यातावहेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौ विख्यातावहेः शत्रू शोकं वदति किं पदम्।  
 कोऽभीष्टोऽतिदरिद्रस्य सेव्यन्ते के च भिक्षुभिः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1687", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 21",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अन्धकारगरलं यतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धकारगरलं यतो जगन्- मोहकारि भृशमत्ति नित्यशः।  
 उज्ज्वलं जठरमोषधीपतेर् अञ्जनाभमभवत् ततः प्रिये॥

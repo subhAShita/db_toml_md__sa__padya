@@ -5,7 +5,7 @@ title = "असेवितेश्वरद्वारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असेवितेश्वरद्वारम् अदृष्टविरहव्यथम्।  
 अनुक्तक्लीबवचनं धन्यं कस्यापि जीवितम्॥

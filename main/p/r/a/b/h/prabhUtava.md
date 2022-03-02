@@ -6,7 +6,7 @@ title = "प्रभूतवयसः पुंसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रभूतवयसः पुंसो धियः पाकः प्रवर्तते।  
 जीर्णस्य चन्दनतरोरामोद उपजायते॥

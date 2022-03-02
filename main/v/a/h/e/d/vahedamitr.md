@@ -6,7 +6,7 @@ title = "वहेदमित्रं स्कन्देन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वहेदमित्रं स्कन्देन यावत्कालविपर्ययः।  
 अथैवमागते काले भिन्द्याद्घटमिवाश्मनि॥

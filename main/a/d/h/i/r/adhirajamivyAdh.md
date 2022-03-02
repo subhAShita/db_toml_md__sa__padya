@@ -5,7 +5,7 @@ title = "अधिरजनि व्याधगृहे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिरजनि व्याधगृहे सुखमननभूतमनुभूय।  
 अपशोककोकमिथुनं जीवनदानेसमुल्लसति॥

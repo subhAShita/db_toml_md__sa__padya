@@ -6,7 +6,7 @@ title = "वनेऽपि सिंहा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वनेऽपि सिंहा मृगमांसभक्षिणो बुभुक्षिता नैव तृणं चरन्ति।  
 एवं कुलीना व्यसनाभिभूता न नीचकर्माणि समाचरन्ति॥

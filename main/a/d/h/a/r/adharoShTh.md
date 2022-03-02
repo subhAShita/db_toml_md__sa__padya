@@ -5,7 +5,7 @@ title = "अधरोष्ठे च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरोष्ठे च घोणायां गण्डयोश्चिबुके तथा।  
 मुष्के नाभौ त्रिके कुक्षाव् आवर्तास्त्वतिनिन्दिताः॥

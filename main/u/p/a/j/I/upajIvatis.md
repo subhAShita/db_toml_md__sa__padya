@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7060", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 57",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपजीवति स्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपजीवति स्म सततं दधतः परिमुग्धतां वणिगिवोडुपतेः।  
 घनवीथिवीथिमवतीर्णवतो निधिरम्भसामुपचयाय कलाः॥

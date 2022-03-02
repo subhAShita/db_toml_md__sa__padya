@@ -6,7 +6,7 @@ title = "परेषां क्लेशदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परेषां क्लेशदं कुर्यान्न पैशुन्यं प्रभुप्रियम्।  
 पैशुन्येन गतौ राहोश्चन्द्रार्कौ भक्षणीयताम्॥

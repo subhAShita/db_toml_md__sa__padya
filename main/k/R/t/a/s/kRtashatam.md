@@ -6,7 +6,7 @@ title = "कृतशतमसत्सु नष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतशतमसत्सु नष्टं सुभाषितशतं च नष्टमबुधेषु।  
 वचनशतमवचनकरे बुद्धिशतमचेतने नष्टम्॥

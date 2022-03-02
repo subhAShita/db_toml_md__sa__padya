@@ -7,7 +7,7 @@ title = "परवाक्यं गृहीत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परवाक्यं गृहीत्वा तु स्वयम् उक्तं वदेत्तु यः।  
 अकल्प्यम् पच्यते घोरे नरके पितृभिः सह॥

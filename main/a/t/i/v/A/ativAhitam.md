@@ -5,7 +5,7 @@ title = "अतिवाहितमतिगहनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिवाहितमतिगहनं विनापवादेन यौवनं येन।  
 दोषनिधाने जन्मनि किं न प्राप्तं फलं तेन॥

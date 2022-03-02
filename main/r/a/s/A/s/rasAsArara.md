@@ -6,7 +6,7 @@ title = "रसा साररसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रसा साररसा सार सायताक्ष क्षतायसा।  
 सातावात तवातासा रक्षतस्त्वस्त्वतक्षर॥

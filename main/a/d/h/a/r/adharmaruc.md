@@ -5,7 +5,7 @@ title = "अधर्मरुचयो मूढास्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मरुचयो मूढास् तिर्यग्गतिपरायणाः।  
 कृच्छ्रां योनिमनुप्राप्य न सुखं विन्दते जनाः॥

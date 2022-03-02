@@ -6,7 +6,7 @@ title = "लालने बहवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लालने बहवो दोषास्ताडने बहवो गुणाः।  
 तस्मात्पुत्रं च शिष्यं च ताडयेन्न तु लालयेत्॥

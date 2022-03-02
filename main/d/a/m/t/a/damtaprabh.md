@@ -7,7 +7,7 @@ title = "दन्तप्रभापुष्पचिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दन्तप्रभापुष्पचिता पाणिपल्लवशोभिनी।  
 केशपाशालिवृन्देन सुवेषा हरिणेक्षणा॥

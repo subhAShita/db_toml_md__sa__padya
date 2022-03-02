@@ -6,7 +6,7 @@ title = "महत्यल्पेऽप्युपायज्ञः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महत्यल्पेऽप्युपायज्ञः सममेव भवेत्क्षमः।  
 समुन्मूलयितुं वृक्षांस्तृणानीव नदीरयः॥

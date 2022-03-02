@@ -6,7 +6,7 @@ title = "भक्तिर्भवे न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्तिर्भवे न विभवे व्यसनं शास्त्रे न युवतिकामास्त्रे।  
 चिन्ता यशसि न वपुषि प्रायः परिदृस्यते महताम्॥

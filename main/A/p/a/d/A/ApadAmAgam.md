@@ -5,7 +5,7 @@ title = "आपदामागमं दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदामागमं दृष्ट्वा न विषण्णो भवेद् वशी।  
 संपदं च सुविस्तीर्णां प्राप्य नोऽधृतिमान् भवेत्॥

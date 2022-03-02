@@ -6,7 +6,7 @@ title = "पात्रे त्यागी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पात्रे त्यागी गुणे रागी भोगी परिजनैः सह।  
 भावबोद्धा रणे योद्धा प्रभुः पञ्चगुणो भवेत्॥

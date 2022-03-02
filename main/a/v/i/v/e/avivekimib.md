@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3395", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 159",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अविवेकिनि भूपाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविवेकिनि भूपाले नश्यन्ति गुणिनां गुणाः।  
 प्रवासरसिके कान्ते यथा साध्व्याः स्तनोन्नतिः॥

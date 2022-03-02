@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3190", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 265",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 rasas = [ "शृङ्गारः",]
-title = "अल्पम्"
+jsonClass = "Subhaashita"
+title = "अल्पं निर्मितमाकाशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पं निर्मितमाकाशम् अनालोच्यैव वेधसा।  
 इदमेवंविधं भावि भवत्याः स्तनजृम्भनम्॥

@@ -5,7 +5,7 @@ title = "अव्यापरेषु व्यापारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्यापरेषु व्यापारं यो नरः कर्तुमिच्छति।  
 स एव निधनं याति कीलोत्पटीव वानरः॥

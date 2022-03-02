@@ -6,7 +6,7 @@ title = "यदि मत्तोऽसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि मत्तोऽसि मतङ्गज किममीभिरसारसरलतरुदलनैः।  
 हरिमनुसर खरनखरं व्यपनेष्यति ते स करटकण्डूतिम्॥

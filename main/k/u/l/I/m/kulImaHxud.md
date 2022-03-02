@@ -7,7 +7,7 @@ title = "कुलीनः क्षुद्राय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुलीनः क्षुद्राय प्रवर इति धत्ते निजसुतां  
 अनार्यान् विज्ञाश्च प्रभव इति गायन्ति शतशः।  

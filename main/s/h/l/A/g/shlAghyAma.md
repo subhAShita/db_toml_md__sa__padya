@@ -6,7 +6,7 @@ title = "श्लाघ्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्लाघ्या महतामुन्नतिरद्भुतमध्यवसितं च धीराणाम्।  
 कनकगिरिरनभिलङ्घ्यो रविरनिशमनुज्झितारम्भः॥

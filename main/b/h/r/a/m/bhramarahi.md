@@ -6,7 +6,7 @@ title = "भ्रमरहितः कीदृक्षो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रमरहितः कीदृक्षो भवतितरां विकसितः पद्मः।  
 ज्यौतिषिकः कीदृक्षः प्रायो भुवि पूज्यते लोकैः॥

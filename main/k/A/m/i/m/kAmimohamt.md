@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9653", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७४ हेमन्तवर्णनम्// ०१ हेमन्तसमयस्वभावाख्यानम्// 6",]
-jsonClass = "Subhaashita"
 topics = [ "हेमन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कामिनो हन्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिनो हन्त हेमन्तनिशि शीतज्वरातुराः।  
 जीवन्ति हरिणाक्षीणां वक्षोजाश्लेषरक्षिताः॥

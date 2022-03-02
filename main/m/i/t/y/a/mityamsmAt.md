@@ -7,7 +7,7 @@ title = "नित्यं स्नाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नित्यं स्नाता सुगन्धा च नित्यं च प्रियवादिनी।  
 अल्पभुङ्मितवक्त्री च देवता सा न मानुषी॥

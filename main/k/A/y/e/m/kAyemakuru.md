@@ -5,7 +5,7 @@ title = "कायेन कुरुते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कायेन कुरुते पापं मनसा सम्प्रधार्य च।  
 अनृतं जिह्वया चाह त्रिविधं कर्म पातकम्॥

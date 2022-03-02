@@ -1,13 +1,13 @@
 +++
 topics = [ "ज्योतिषिकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २० कुगणकनिन्दा// 1", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 24",]
-jsonClass = "Subhaashita"
 rasas = [ "हास्यम्",]
+jsonClass = "Subhaashita"
 title = "गणयति गगने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गणयति गगने गणकश्चन्द्रेण समागमं विशाखायाः।  
 विविधभुजङ्गक्रीडासक्तां गृहिणीं न जानाति॥

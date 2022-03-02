@@ -5,7 +5,7 @@ title = "कशाभिरिव हैमीभिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कशाभिरिव हैमीभिर् विद्युद्भिरभिताडितम्।  
 अन्तःस्तनितनिर्घोषं सवेदनमिवाम्बरम्॥

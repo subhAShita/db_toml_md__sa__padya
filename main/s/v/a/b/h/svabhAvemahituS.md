@@ -6,7 +6,7 @@ title = "स्वभावेन हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वभावेन हि तुष्यन्ति देवाः सत्पुरुषः पिता।  
 ज्ञातयस्त्वन्नपानेन वाक्प्रदानेन पण्डिताः॥

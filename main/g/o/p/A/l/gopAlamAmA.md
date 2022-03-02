@@ -7,7 +7,7 @@ title = "गोपाल !"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गोपाल ! नानाविषये चरन्ती-  
 र्निवर्तयन् दण्डभयेन मे गाः ।  

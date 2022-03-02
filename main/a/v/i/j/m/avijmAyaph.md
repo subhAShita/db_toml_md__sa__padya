@@ -5,7 +5,7 @@ title = "अविज्ञाय फलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविज्ञाय फलं यो हि कर्म त्वेवानुधावति।  
 स शोचेत् फलवेलायां यथा किंशुकसेचकः॥

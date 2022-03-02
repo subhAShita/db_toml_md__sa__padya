@@ -6,7 +6,7 @@ title = "लुब्धानां याचकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लुब्धानां याचकः शत्रुश्चोराणां चन्द्रमा रिपुः।  
 जारस्त्रीणां पतिः शत्रुर्मूर्खाणां बोधको रिपुः॥

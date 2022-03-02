@@ -7,7 +7,7 @@ title = "अमानित्वमदम्भित्वमहिंसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।  
 आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ॥

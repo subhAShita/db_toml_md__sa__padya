@@ -6,7 +6,7 @@ title = "तवोच्छ्रितान् पातयितुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तवोच्छ्रितान् पातयितुः पतितांश्चोद्धरिष्यतः।  
 विधातुरिव दृश्यन्ते भग चित्रा विभूतयः॥

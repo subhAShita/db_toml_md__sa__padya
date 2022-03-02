@@ -6,7 +6,7 @@ title = "हृदये कुरु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हृदये कुरु सञ्चयं गुणानां यदि रे वाञ्छसि नासिके निवासम्।  
 इति मौक्तिक ते वदामि नूनं गुणहीनो नहि नासिके विभाति॥

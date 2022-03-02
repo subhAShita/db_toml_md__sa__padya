@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4213", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 70",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "आः किमर्थमिदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आः किमर्थमिदं चेतः सतामम्भोधिदुर्भरम्।  
 इति क्रुधेव दुर्वेधाः परदुःखैरपूरयत्॥

@@ -5,7 +5,7 @@ title = "अनेन पुरुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेन पुरुषो देहान् उपादत्ते विमुञ्चति।  
 हर्षं शोकं भयं दुःखं सुखं चानेन विन्दति॥

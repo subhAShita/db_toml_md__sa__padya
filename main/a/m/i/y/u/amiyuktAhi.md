@@ -5,7 +5,7 @@ title = "अनियुक्ता हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनियुक्ता हि साचिव्ये यद्वदन्ति मनीषिणः।  
 अनुरागद्रवस्यैताः प्रणयस्यातिभूमयः॥

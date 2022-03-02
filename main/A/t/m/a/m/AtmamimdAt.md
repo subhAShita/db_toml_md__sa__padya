@@ -5,7 +5,7 @@ title = "आत्मनिन्दात्मपूजा च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनिन्दात्मपूजा च परनिन्दा परस्तवः।  
 अनाचरितमार्याणां वृत्तमेतच्चतुर्विधम्॥

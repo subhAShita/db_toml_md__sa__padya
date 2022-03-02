@@ -5,7 +5,7 @@ title = "ऐश्वर्यधनरत्नानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऐश्वर्यधनरत्नानां प्रत्यमित्रेऽपि तिष्ठताम्।  
 दृष्टा हि पुनरावृत्तिर् जीवतामिति नः श्रुतम्॥

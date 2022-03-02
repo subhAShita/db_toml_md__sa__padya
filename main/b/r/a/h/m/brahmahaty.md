@@ -6,7 +6,7 @@ title = "ब्रह्महत्या सुरापानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्महत्या सुरापानं स्तेयं गुर्वङ्गनागमः।  
 महान्ति पातकान्याहुस्तत्संसर्गी च पञ्चमः॥

@@ -5,7 +5,7 @@ title = "अधर्मं धर्मवेषेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मं धर्मवेषेण यदिमं लोकसंकरम्।  
 अभिपत्स्ये शुभं हित्वा क्रियाविधिविवर्जितम्॥

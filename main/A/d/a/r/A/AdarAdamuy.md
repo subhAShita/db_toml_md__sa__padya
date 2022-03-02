@@ -6,7 +6,7 @@ title = "आदराद् अनुयुञ्जानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदराद् अनुयुञ्जानं शिष्यं यो देशिकः स्वयम् ।  
 उपदेशेन सन्तुष्टं न करोति स किंगुरुः ॥

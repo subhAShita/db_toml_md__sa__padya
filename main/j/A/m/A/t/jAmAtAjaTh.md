@@ -6,7 +6,7 @@ title = "जामाता जठरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जामाता जठरं जाया जातवेदा जलाशयः।  
 पूरिता नैव पूर्यन्ते जकाराः पञ्च दुर्भराः॥

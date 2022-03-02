@@ -5,7 +5,7 @@ title = "करानीतं पटानीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करानीतं पटानीतं स्त्रियानीतं तथैव च।  
 एरण्डपत्रैरानीतं देवतानां च नार्हति॥

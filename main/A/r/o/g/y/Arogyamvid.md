@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5231", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 757",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "आरोग्यं विद्वत्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरोग्यं विद्वत्ता सज्जनमैत्री महाकुले जन्म।  
 स्वाधीनता च पुंसां महदैश्वर्यं विनाप्यर्थैः॥

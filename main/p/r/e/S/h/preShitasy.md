@@ -6,7 +6,7 @@ title = "प्रेषितस्य कुतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेषितस्य कुतो मानं कोपनस्य कुतः सुखम्।  
 स्त्रीणां कुतः सतीत्वं च कुतो मैत्त्री खलस्य च॥

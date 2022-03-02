@@ -6,7 +6,7 @@ title = "किमधिकमस्य ब्रूमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमधिकमस्य ब्रूमो महिमानं वारिधेर्हरिर्यत्र।  
 अज्ञात एव शेते कुक्षौ निक्षिप्य भुवनानि॥

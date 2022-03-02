@@ -6,7 +6,7 @@ title = "कृमयो भस्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृमयो भस्म विष्ठा वा निष्ठा यस्येयमीदृशी।  
 स कायः परतापाय युज्यतामिति को नयः॥

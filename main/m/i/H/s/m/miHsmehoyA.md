@@ -6,7 +6,7 @@ title = "निःस्नेहो याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निःस्नेहो याति निर्वाणं स्नेहोऽनर्थस्य कारणम्।  
 निःस्नेहेन प्रदीपेन यदेतत्प्रकटीकृतम्॥

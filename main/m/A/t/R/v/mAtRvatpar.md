@@ -6,7 +6,7 @@ title = "मातृवत्परदाराणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मातृवत्परदाराणि परद्रव्याणि लोष्टवत्।  
 आत्मवत्सर्वभूतानि यः पश्यति स पश्यति॥

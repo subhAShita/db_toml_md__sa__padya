@@ -5,7 +5,7 @@ title = "उत्तमाभिजनोपेतान् न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमाभिजनोपेतान् न नीचैः सह वर्धयेत्।  
 कृशोऽपि हि विवेकज्ञो याति संश्रयणीयताम्॥

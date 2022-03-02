@@ -6,7 +6,7 @@ title = "नालोकः क्रियते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नालोकः क्रियते सूर्ये भूः प्रतीतं न धार्यते।  
 नहि प्रत्युपकाराणामपेक्षा सत्सु विद्यते॥

@@ -5,7 +5,7 @@ title = "अवैमि पूतमात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवैमि पूतमात्मानं द्वयेनैव द्विजोत्तमाः।  
 मूर्ध्नि गङ्गाप्रपातेन धौतपादाम्भसा च वः॥

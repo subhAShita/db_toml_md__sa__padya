@@ -7,7 +7,7 @@ title = "सखि दशनक्षतमधरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सखि दशनक्षतमधरे किं गोपयसे प्रयत्नेन।  
 सम्प्रति रजनिरहस्यं नयनालस्यं निवेदयति॥

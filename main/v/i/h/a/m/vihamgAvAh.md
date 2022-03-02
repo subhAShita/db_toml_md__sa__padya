@@ -6,7 +6,7 @@ title = "विहङ्गा वाहनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विहङ्गा वाहनं येषां त्रिकञ्चधरपाणयः।  
 पासालसहिता देवाः सदा तिष्ठन्तु ते गृहे॥

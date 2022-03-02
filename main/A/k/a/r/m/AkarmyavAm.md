@@ -5,7 +5,7 @@ title = "आकर्ण्य वाणीः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकर्ण्य वाणीः पौराणीर् मयैतदवधारितम्।  
 तिष्ठन्तु देवा देव्योऽपि सेव्यो नारायणः परः॥

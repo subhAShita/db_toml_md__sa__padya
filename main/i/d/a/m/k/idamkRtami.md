@@ -5,7 +5,7 @@ title = "इदं कृतमिदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं कृतमिदं कार्यम् इदमन्यत् कृताकृतम्।  
 एवमीहासुखासक्तं कृतान्तः कुरुते वशे॥

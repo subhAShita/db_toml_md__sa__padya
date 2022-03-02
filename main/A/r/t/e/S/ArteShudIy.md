@@ -5,7 +5,7 @@ title = "आर्तेषु दीयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्तेषु दीयते दानं शून्यलिङ्गस्य पूजनम्।  
 अनाथप्रेतसंस्कारम् अश्वमेधफलं लभेत्॥

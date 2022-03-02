@@ -5,7 +5,7 @@ title = "अभुक्त्वामलकं पथ्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभुक्त्वामलकं पथ्यं भुक्त्वा तु बदरीफलम्।  
 कपित्थं सर्वदा पथ्यं कदली न कदाचन॥

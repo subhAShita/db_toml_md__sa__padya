@@ -6,7 +6,7 @@ title = "वरं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं हि नरके वासो न तु दुश्चरिते गृहे।  
 नरकात्क्षीयते पापं कुगृहात्परिवर्धते॥

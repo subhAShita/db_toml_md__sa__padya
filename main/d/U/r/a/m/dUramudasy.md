@@ -7,15 +7,15 @@ title = "दूरमुदस्यति यस्य"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-When his परशु was getting rid of the क्षत्रिय/2nd letter, it was his foes who attained पशु-hood. May परशुराम save us.
+दूरमुदस्यति यस्य द्वितीयवर्णं पुरा परशौ ।  
+पशवो बभूवुररयश्चित्रं भृगुनन्दनोऽवतु सः ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-दूरमुदस्यति यस्य द्वितीयवर्णं पुरा परशौ ।  
-पशवो बभूवुररयश्चित्रं भृगुनन्दनोऽवतु सः ॥
+When his परशु was getting rid of the क्षत्रिय/2nd letter, it was his foes who attained पशु-hood. May परशुराम save us.
 </details>

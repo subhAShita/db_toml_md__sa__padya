@@ -5,7 +5,7 @@ title = "अभिमानवतां पुंसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमानवतां पुंसाम् आत्मसारमजानताम्।  
 अन्धानामिव दृश्यन्ते पतनान्ताः प्रवृत्तयः॥

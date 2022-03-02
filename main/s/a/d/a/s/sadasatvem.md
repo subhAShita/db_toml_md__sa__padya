@@ -6,7 +6,7 @@ title = "सदसत्त्वेन भावानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदसत्त्वेन भावानां युक्ता या द्वितयी स्थितिः।  
 तामुल्लङ्घ्य तृतीयस्मै नमश्चित्राय शम्भवे॥

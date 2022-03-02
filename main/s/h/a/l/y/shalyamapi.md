@@ -6,7 +6,7 @@ title = "शल्यमपि स्खलदन्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शल्यमपि स्खलदन्तः सोढुं शक्येत हालहलदिग्धम्।  
 धीरैर्न पुनरकारणकुपितखलालीकदुर्वचनम्॥

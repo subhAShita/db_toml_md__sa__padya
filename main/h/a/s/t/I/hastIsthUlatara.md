@@ -6,7 +6,7 @@ title = "हस्ती स्थूलतरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हस्ती स्थूलतरः स चाङ्कुशवशः किं हस्तिमात्रोङ्कुशो  
 दीपे प्रज्वलिते प्रणश्यति तमः किं दीपमात्रं तमः  

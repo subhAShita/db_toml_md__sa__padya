@@ -5,7 +5,7 @@ title = "एवं कुकर्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं कुकर्म सर्वस्य फलत्यात्मनि सर्वदा।  
 यो यद् वपति बीजं हि लभते सोऽपि तत्फलम्॥

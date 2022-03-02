@@ -6,7 +6,7 @@ title = "साक्षरं पुरुषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साक्षरं पुरुषं दृष्ट्वा यो नरो नाभिमन्यते।  
 बलीवर्दसमो लोके खुरशृङ्गविवर्जितः॥

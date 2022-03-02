@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2143", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 75",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अप्युन्नतपदारूढः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्युन्नतपदारूढः पूज्यान् नैवापमानयेत्।  
 नहुषः शक्रतां प्राप्य च्युतोऽगस्त्यावमाननात्॥

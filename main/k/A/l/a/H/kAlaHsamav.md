@@ -5,7 +5,7 @@ title = "कालः समविषमकरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालः समविषमकरः परिभवसन्मानकारकः कालः।  
 कालः करोति पुरुषं दातारं याचितारं च॥

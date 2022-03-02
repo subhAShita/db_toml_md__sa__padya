@@ -5,7 +5,7 @@ title = "एक एवोपहारस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एवोपहारस्तु संधिरेतन्मतं हि नः।  
 उपहारस्य भेदास्तु सर्वेऽन्ये मैत्रवर्जिताः॥

@@ -6,7 +6,7 @@ title = "संसार साकन्दर्पेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संसार साकन्दर्पेण कन्दर्पेण ससारसा।  
 शरं नवाना बिभ्राणा नाबिभ्राणा शरन्नवा॥

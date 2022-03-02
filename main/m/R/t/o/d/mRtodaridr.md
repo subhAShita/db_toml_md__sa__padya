@@ -6,7 +6,7 @@ title = "मृतो दरिद्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृतो दरिद्रः पुरुषो मृतं मैथुनमप्रजम्।  
 मृतमश्रोत्रियं श्राद्धं मृतो यज्ञस्त्वदक्षिणः॥

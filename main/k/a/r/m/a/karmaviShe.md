@@ -5,7 +5,7 @@ title = "कर्णविषेण च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णविषेण च भग्नः किं किं न करोति बालिशो लोकः।  
 क्षपणकतामपि धत्ते पिबति सुरां नरकपालेन॥

@@ -7,7 +7,7 @@ title = "आलि बलिशतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलि बलिशतया बलिरस्मै दीयतां बलिभुजे न कदापि।  
 केवलं हि कलकण्ठशिशूनामेष एव कुशलेषु निदानम्॥

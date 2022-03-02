@@ -5,7 +5,7 @@ title = "ऊष्मा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊष्मा हि वित्तजो वृद्धिं तेजो नयति देहिनाम्।  
 किं पुनस् तस्य संभोगस् त्यागधर्मसमन्वितः॥

@@ -6,7 +6,7 @@ title = "किं कृतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं कृतेन न यत्र त्वं यत्र त्वं किमसौ कलिः।  
 कलौ चेद्भवतो जन्म कलिरस्तु कृतेन किम्॥

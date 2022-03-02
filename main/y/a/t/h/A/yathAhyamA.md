@@ -7,7 +7,7 @@ title = "यथा ह्यनास्वादयितुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा ह्यनास्वादयितुं न शक्यं  
 जिह्वातलस्थं मधु वा विषं वा ।  

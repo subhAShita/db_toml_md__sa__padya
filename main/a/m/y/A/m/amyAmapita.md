@@ -5,7 +5,7 @@ title = "अन्यानपि तरून्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यानपि तरून् रोप्य फलपुष्पोपयोगिनः।  
 रत्नधेनुसहस्रस्य फलं प्राप्नोति मानवः॥

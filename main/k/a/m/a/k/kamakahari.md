@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8558", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०३ करुणारसनिर्देशः// 31",]
-jsonClass = "Subhaashita"
 rasas = [ "करुणः",]
+jsonClass = "Subhaashita"
 title = "कनकहरिणं हत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कनकहरिणं हत्वा रामो ययौ निजमाश्रमं जनकतनयां प्राणेभ्योऽपि प्रियामविलोकयन्।  
 दृढमुपगतैर्बाष्पापूरैर्निमीलितलोचनो न विशति कुटीमाशातन्तुप्रणाशभयादसौ॥

@@ -5,7 +5,7 @@ title = "आन्दोललोलकेशीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आन्दोललोलकेशीं चलकाञ्चीकिङ्किणीगणक्वणिताम्।  
 स्मरसि पुरुषायितां तां स्मरचामरचिह्नयष्टिमिव॥

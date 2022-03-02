@@ -6,7 +6,7 @@ title = "बहुभिर्न विरोद्धव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहुभिर्न विरोद्धव्यं दुर्जनैः स्वजनैरपि।  
 स्फुरन्तमपि नागेन्द्रं भक्षयन्ति पिपीलिकाः॥

@@ -6,7 +6,7 @@ title = "यदि तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि तव हृदयं विद्वन्सुनयं स्वप्नेऽपि मा स्म सेविष्ठाः।  
 सचिवजितं षण्ढजितं युवतिजितं चैव राजानम्॥

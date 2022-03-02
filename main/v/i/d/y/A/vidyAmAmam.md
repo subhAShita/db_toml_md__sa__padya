@@ -1,14 +1,14 @@
 +++
 topics = [ "विद्या", "गुरुः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०२ विद्याप्रशंसा// 15",]
-jsonClass = "Subhaashita"
 sources = [ "भर्तृहरिः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "विद्या नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्या नाम नरस्य रूपमधिकं प्रच्छन्नगुप्तं धनं विद्या भोगकरी यशःसुखकरी विद्या गुरूणां गुरुः।  
 विद्या बन्धुजनो विदेशगमने विद्या परा दैवता विद्या राजसु पूज्यते नहि धनं विद्याविहीनः पशुः॥

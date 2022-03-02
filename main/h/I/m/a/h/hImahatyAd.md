@@ -6,7 +6,7 @@ title = "हीनहत्या दधात्य्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हीन-हत्या दधात्य् एव  
 लाघवं महताम् अपि।  

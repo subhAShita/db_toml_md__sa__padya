@@ -7,7 +7,7 @@ title = "नाहं धार्यमधीराक्षि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाहं धार्यमधीराक्षि मुखेन्दोः संमुखं त्वया।  
 इतीव लीलापद्मेन करेऽस्याः कान्तिरर्पिता॥

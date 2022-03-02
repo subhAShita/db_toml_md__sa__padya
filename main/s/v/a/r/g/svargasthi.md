@@ -6,7 +6,7 @@ title = "स्वर्गस्थिता यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वर्गस्थिता यदा तृप्तिं गच्छेयुस्तत्र दानतः ।  
 प्रासादस्योपरिस्थानामत्र कस्मान्न दीयते ॥

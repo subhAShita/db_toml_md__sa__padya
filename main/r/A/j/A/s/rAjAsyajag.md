@@ -6,7 +6,7 @@ title = "राजास्य जगतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजास्य जगतो वृद्धेर्हेतुर्वृद्धाभिसङ्गतः।  
 नयनानन्दजननः शशाङ्क इव वारिधेः॥

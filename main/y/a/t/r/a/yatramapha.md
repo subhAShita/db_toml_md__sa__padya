@@ -6,7 +6,7 @@ title = "यत्र न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र न फलितास्तरवो विकसितसरसीरुहाः सरस्यो वा।  
 न च सज्जनाः स देशो गच्छतु निधनं श्मशानसमः॥

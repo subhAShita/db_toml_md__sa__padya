@@ -6,7 +6,7 @@ title = "सङ्गीतमपि साहित्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्गीतमपि साहित्यं सरस्वत्याः स्तनद्वयम्।  
 एकमापातमधुरमन्यदालोचनामृतम्॥

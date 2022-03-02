@@ -7,7 +7,7 @@ title = "निर्माणे यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्माणे यदि मार्मिको ऽसि नितरामत्यन्तपाकद्रव-  
 न्मृद्वीकामधुमाधुरीमदपरीहारोद्धुराणां गिराम्।  

@@ -5,7 +5,7 @@ title = "उदयन्नेष सविता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयन्नेष सविता पद्मेष्वर्पयति श्रियम्।  
 विभावयितुमृद्धीनां फलं सुहृदनुग्रहम्॥

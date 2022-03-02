@@ -5,7 +5,7 @@ title = "आत्मनोऽभ्युदयाकाङ्क्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनोऽभ्युदयाकाङ्क्षी पीड्यमानः परेण वा।  
 देशकालबलोपेतः प्रारभेतैव विग्रहम्॥

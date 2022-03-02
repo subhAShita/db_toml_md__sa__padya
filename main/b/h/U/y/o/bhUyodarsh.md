@@ -7,7 +7,7 @@ title = "भूयो दर्शयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूयो दर्शयते माद्यन् भूयः पश्यति चुम्बति ।  
 कविर्हृष्टो नवोत्पन्नां कवितां पुत्रिकामिव ॥

@@ -6,7 +6,7 @@ title = "विपक्षमखिलीकृत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विपक्षमखिलीकृत्य प्रतिष्ठा खलु दुर्लभा।  
 अनीत्वा पङ्कतां धूलिमुदकं नावतिष्ठते॥

@@ -5,7 +5,7 @@ title = "अयं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं हि प्रथमो रागः समस्तजनरञ्जने।  
 यस्य नास्ति द्वितीयोऽपि स कथं पञ्चमो भवेत्॥

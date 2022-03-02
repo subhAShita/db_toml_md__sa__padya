@@ -5,7 +5,7 @@ title = "शेफाली शतपुष्पा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शेफाली शतपुष्पा च सर्षपास्तगरं गुडः।  
 तथा रुद्रजटा सर्वम् एतदेकत्र कारयेत्॥

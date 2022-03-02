@@ -6,7 +6,7 @@ title = "निन्दां यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निन्दां यः कुरुते साधोस्तथा स्वं दूषयत्यसौ।  
 खे भूतिं यस्त्यजेदुच्चैर्मूर्ध्नि तस्यैव सा पतेत्॥

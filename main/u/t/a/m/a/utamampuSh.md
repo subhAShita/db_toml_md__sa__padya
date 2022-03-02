@@ -5,7 +5,7 @@ title = "उत्तमं पुष्करक्षेत्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमं पुष्करक्षेत्रं ताराक्षेत्रं न मध्यमम्।  
 अधमं च कुरुक्षेत्रं प्रभासं त्वधमाधमम्॥

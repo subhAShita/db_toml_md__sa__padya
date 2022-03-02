@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9135", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 674",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "कश्चित्कस्यचिदेव"
+jsonClass = "Subhaashita"
+title = "कश्चित् कस्यचिदेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कश्चित् कस्यचिदेव स्यात् सुहृद् विश्रम्भभाजनम्।  
 पद्मं विकासयत्यर्कः संकोचयति कैरवम्॥

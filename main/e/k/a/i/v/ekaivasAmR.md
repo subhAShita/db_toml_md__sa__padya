@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7706", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०२ चन्द्रान्योक्तयः// 24",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - चन्द्रः",]
+jsonClass = "Subhaashita"
 title = "एकैव सामृतमयी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकैव सामृतमयी सुतरामनर्घ्या काप्यस्त्यसौ हिमकरस्य कला ययैव।  
 आरोपितो गुणविदा परमेश्वरेण चूडामणौ न गणितोऽस्य कलङ्कदोषः॥

@@ -6,7 +6,7 @@ title = "शम्भुः श्वेतार्कपुष्पेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शम्भुः श्वेतार्कपुष्पेण चन्द्रमा वस्त्रतन्तुना।  
 अच्युतः स्मृतिमात्रेण साधवः करसम्पुटैः॥

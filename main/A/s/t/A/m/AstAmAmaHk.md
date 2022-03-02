@@ -5,7 +5,7 @@ title = "आस्तां मानः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्तां मानः कथनं सखीषु वा मयि निवेद्यदुर्विनये।  
 शिथिलितरतिगुणगर्वा ममापि सा लज्जिता सुतनुः॥

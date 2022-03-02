@@ -5,7 +5,7 @@ title = "उदयस्थः सहस्रांशुर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयस्थः सहस्रांशुर् दृष्टेरायाति गम्यताम्।  
 अतिरिक्तं कदा कं वा ल घयन्ति न योषितः॥

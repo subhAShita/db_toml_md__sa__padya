@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1253", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 16",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनयोरनवद्याङ्गि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनयोरनवद्याङ्गि स्तनयोर्जृम्भमाणयोः।  
 अवकाशो न पर्याप्तस् तव बाहुलतान्तरे॥

@@ -5,7 +5,7 @@ title = "कमलाः पाकविनम्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलाः पाकविनम्रा मूलतलाघ्रातसुरभिकह्लाराः।  
 पवनाकम्पितशिरसः प्रायः कुर्वन्ति परिमलश्लाघाम्॥

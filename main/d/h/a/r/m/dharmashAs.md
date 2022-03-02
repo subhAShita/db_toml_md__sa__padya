@@ -6,7 +6,7 @@ title = "धर्मशास्त्रार्थकुशलाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मशास्त्रार्थकुशलाः कुलीनाः सत्यवादिनः।  
 समाः शत्रौ च मित्त्रे च नृपतेः स्युः सभासदः॥

@@ -7,7 +7,7 @@ title = "खर्वेयं प्रांशुरसावसिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खर्वेयं प्रांशुरसावसिता सा लोचनेन काणैषा ।  
 इति वदतस्ते नचिराद्वरणीया सुत भविष्यति स्थविरा ॥  

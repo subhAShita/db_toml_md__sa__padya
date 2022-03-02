@@ -5,7 +5,7 @@ title = "कामानामपि दातारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामानामपि दातारं कर्तारं मानसान्त्वयोः।  
 रक्षितारं न मृष्यन्ति भर्तारं परमं स्त्रियः॥

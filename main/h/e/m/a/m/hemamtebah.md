@@ -7,7 +7,7 @@ title = "हेमन्ते बहुदोषाढ्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हेमन्ते बहुदोषाढ्ये द्वौ गुणौ सर्वसम्मतौ।  
 अयत्नशीतलं वारि सुरतं स्वेदवर्जितम्॥

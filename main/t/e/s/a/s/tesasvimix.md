@@ -6,7 +6,7 @@ title = "तेसस्विनि क्षमोपेते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तेसस्विनि क्षमोपेते नातिकार्कश्यमाचरेत्।  
 अतिनिर्मन्थनादग्निश्चन्दनादपि जायते॥

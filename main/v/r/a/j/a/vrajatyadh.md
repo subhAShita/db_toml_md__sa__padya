@@ -6,7 +6,7 @@ title = "व्रजत्यधः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्रजत्यधः प्रत्यात्युच्चैर्नः स्वैरेव चेष्टितैः।  
 अधः कूपस्य खनक ऊर्ध्वं प्रासादकारकः॥

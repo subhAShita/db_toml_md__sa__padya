@@ -7,7 +7,7 @@ title = "यशःपुत्रं देव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यशःपुत्रं देव त्वदसिलतिकासूत समरे  
 समीरस्तद्धूलीपटलपटवासं विकिरति ।  

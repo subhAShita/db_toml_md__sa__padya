@@ -5,7 +5,7 @@ title = "आचारमाचर चिराद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचारमाचर चिराद् आलस्यमपास्य जात्युचितम्।  
 लोकानुरागसाधनम् आराधनमेतदेव हरेः॥

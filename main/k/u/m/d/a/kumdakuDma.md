@@ -6,7 +6,7 @@ title = "कुन्दकुड्मलमुपास्यता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुन्दकुड्मलमुपास्यता त्वया यत्र शीतसमयोऽतिवाहितः।  
 चञ्चरीक परिहीनसौरभा रोचते न भवते सरोजिनी॥

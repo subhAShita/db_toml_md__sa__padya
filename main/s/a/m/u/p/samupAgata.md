@@ -6,7 +6,7 @@ title = "समुपागतवति दैवादवलेहाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समुपागतवति दैवादवलेहां कुटज मधुकरे मा गाः।  
 मकरन्दतुन्दिलानामरविन्दानामयं यतो मान्यः॥

@@ -6,7 +6,7 @@ title = "कोऽन्धो योऽकार्यरतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोऽन्धो योऽकार्यरतः को बधिरो यः शृणोति नैतानि।  
 को मूको यः काले प्रियाणि वक्तुं न जानाति॥

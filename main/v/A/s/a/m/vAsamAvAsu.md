@@ -6,7 +6,7 @@ title = "वासनावासुदेवस्य वासितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वासनावासुदेवस्य वासितं भुवनत्रयम्।  
 सर्वभूतनिवासीनां वासुदेव नमोऽस्तु ते॥

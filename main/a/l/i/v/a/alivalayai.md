@@ -5,7 +5,7 @@ title = "अलिवलयैरलकैरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलिवलयैरलकैरिव कुसुमस्तबकैः स्तनैरिव वसन्ते।  
 भान्ति लता ललना इव पाणिभिरिव किसलयैः सपदि॥

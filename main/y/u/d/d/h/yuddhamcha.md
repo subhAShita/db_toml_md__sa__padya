@@ -6,7 +6,7 @@ title = "युद्धं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युद्धं च प्रातरुत्थानं भोजनं सह बन्धुभिः।  
 स्त्रियमापद्गतां रक्षेच्चतुः शिक्षेत कुक्कुटात्॥

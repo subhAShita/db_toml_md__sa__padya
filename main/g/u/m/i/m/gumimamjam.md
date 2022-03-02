@@ -6,7 +6,7 @@ title = "गुणिनं जनमालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणिनं जनमालोक्य निजबन्धनशङ्कया।  
 राजँल्लक्ष्मीः कुरङ्गीव दूरं दूरं पलायते॥

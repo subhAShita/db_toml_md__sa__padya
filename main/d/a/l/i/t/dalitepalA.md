@@ -7,7 +7,7 @@ title = "दलिते पलालपुञ्जे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दलिते पलालपुञ्जे वृषभं परिभवति गृहपतौ कुपिते।  
 निभृतनिभालितवदनौ हलिकवधूदेवरौ हसतः॥

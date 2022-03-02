@@ -5,7 +5,7 @@ title = "करलालितोऽपि दहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करलालितोऽपि दहति ज्वलति व्यजनेन वीज्यमानोऽपि।  
 दहन इवानिर्वाणं न विमुञ्चत्युष्णतां पिशुनः॥

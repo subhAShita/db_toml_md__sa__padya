@@ -6,7 +6,7 @@ title = "बहूनि नरशीर्षाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहूनि नरशीर्षाणि लोमशानि बृहन्ति च।  
 ग्रीवासु प्रतिबद्धानि किं चित्तेषु सकर्णकम्॥

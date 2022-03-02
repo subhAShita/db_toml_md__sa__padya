@@ -6,7 +6,7 @@ title = "प्रोषितवति रजनिकरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रोषितवति रजनिकरे बन्धुतया न खलु कैरवाण्येव।  
 म्लायन्ति किन्तु सहसा भुवनान्यपि तमसि मज्जन्ति॥

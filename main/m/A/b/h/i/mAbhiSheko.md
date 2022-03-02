@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१३ स्थलचरान्योक्तयः// ०१ सिंहः// 7",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - स्थलचरः", "अन्योक्तिः - सिंहः",]
-jsonClass = "Subhaashita"
 topics = [ "वीर्यम्", "सिंहः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "नाभिषेको न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाभिषेको न सम्स्कारः सिंहस्य क्रियते वने।  
 विक्रमार्जितसत्त्वस्य स्वयमेव मृगेन्द्रता॥

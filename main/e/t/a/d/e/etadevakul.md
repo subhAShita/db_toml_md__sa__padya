@@ -5,7 +5,7 @@ title = "एतदेव कुलीनत्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदेव कुलीनत्वम् एतदेव गुणार्जनम्।  
 यत् सदैव सतां सत्सु विनयावनतं शिरः॥

@@ -6,7 +6,7 @@ title = "रुचिरस्वरवर्णपदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रुचिरस्वरवर्णपदा रसभाववती जगन्मनो हरति।  
 तत्किं तरुणी नहि नहि वाणी बाणस्य मधुरशीलस्य॥

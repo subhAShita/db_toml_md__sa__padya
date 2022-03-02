@@ -7,7 +7,7 @@ title = "पाणिग्राहस्य साध्वी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाणिग्राहस्य साध्वी स्त्री जीवतो वा मृतस्य वा।  
 पतिलोकमभीप्सन्ती नाचरेत् किञ्चिदप्रियम्॥

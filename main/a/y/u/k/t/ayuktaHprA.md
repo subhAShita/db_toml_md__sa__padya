@@ -5,7 +5,7 @@ title = "अयुक्तः प्राकृतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयुक्तः प्राकृतः स्तब्धः शठो नैकृतिकोऽलसः।  
 विषादी दीर्घसूत्री च कर्ता तामस उच्यते॥

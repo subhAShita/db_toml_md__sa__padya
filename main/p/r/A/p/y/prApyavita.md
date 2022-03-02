@@ -6,7 +6,7 @@ title = "प्राप्य वित्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राप्य वित्तं जडास्तूर्णं निर्वृतिं यान्ति नान्यथा।  
 तोयमासाद्य गर्जन्ति न रिक्ताः स्तनयित्नवः॥

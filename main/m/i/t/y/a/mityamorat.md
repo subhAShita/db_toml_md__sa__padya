@@ -7,7 +7,7 @@ title = "नित्यं मनोरथस्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नित्यं मनोरथस्यापि सखि दुर्गम एव यः।  
 अभवत्साम्प्रतं कामं प्रत्यक्षेण विभाति सः॥

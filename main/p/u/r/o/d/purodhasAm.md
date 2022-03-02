@@ -7,7 +7,7 @@ title = "पुरोधसां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम्।  
 सेनानीनामहं स्कन्दः सरसामस्मि सागरः॥

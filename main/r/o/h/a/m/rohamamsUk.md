@@ -6,7 +6,7 @@ title = "रोहणं सूक्तिरत्नानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रोहणं सूक्तिरत्नानां वन्दे वृन्दं विपश्चिताम्।  
 यन्मध्यपतितो नीचः काचोऽप्युच्चैर्महीयते॥

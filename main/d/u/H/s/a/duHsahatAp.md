@@ -7,7 +7,7 @@ title = "दुःसहतापं जगदिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुःसहतापं जगदिति बुद्ध्वा यो नूनमत्यजद्वसनम् ।  
 स्पृशति न यन्महिमानं स्याद्वादो विजयते स कोऽपि जिनः ॥

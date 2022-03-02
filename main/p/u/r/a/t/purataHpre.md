@@ -6,7 +6,7 @@ title = "पुरतः प्रेरयत्याशा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुरतः प्रेरयत्याशा लज्जा पृष्ठावलम्बिनी।  
 ततो लज्जाशयोर्मध्ये दोलायत्यर्थिनां मनः॥

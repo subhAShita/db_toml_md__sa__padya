@@ -5,7 +5,7 @@ title = "अलसयति गात्रमधिकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलसयति गात्रमधिकं भ्रमयति चेतस्तनोति संतापम्।  
 मोहं च मुहुः कुरुते विषमविषं वीक्षितं तस्याः॥

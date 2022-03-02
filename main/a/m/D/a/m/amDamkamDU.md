@@ -5,7 +5,7 @@ title = "अण्डं कण्डूयमानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अण्डं कण्डूयमानेन यत् सुखं तव भूपते।  
 खुर्जनानन्तरं दुःखं भूयात्तु तव वैरिणाम्॥

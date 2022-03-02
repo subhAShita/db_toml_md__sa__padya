@@ -6,7 +6,7 @@ title = "सत्सूत्रसम्विधानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्सूत्रसम्विधानं सदलङ्कारं सुवृत्तमच्छिद्रम्।  
 को धारयति न कण्ठे सत्काव्यं माल्यमर्घ्यं च॥

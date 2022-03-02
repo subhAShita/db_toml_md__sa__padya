@@ -5,7 +5,7 @@ title = "अष्टावङ्गानि योगस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टावङ्गानि योगस्य यमो नियम आसनम्।  
 प्राणायामः प्रत्याहारो धारणा ध्यानतन्मयः॥

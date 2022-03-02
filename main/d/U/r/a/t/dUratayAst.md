@@ -6,7 +6,7 @@ title = "दूरतया स्थूलतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरतया स्थूलतया नीलतया दानलोलुपैर्मधुपैः।  
 भ्रामितमिभराजधिया हन्ताभूदन्ततो महिषः॥

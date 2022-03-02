@@ -5,7 +5,7 @@ title = "द्विषष्टि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विषष्टि च सहस्राणि तथा शतचतुष्टयम्।  
 पञ्चाशदिति संख्याता महाक्षौहिनिका बुधैः॥

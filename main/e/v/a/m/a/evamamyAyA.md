@@ -5,7 +5,7 @@ title = "एवमन्याय्यया बुद्ध्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमन्याय्यया बुद्ध्या कृतं कर्माशुभावहम्।  
 तस्मात् तन् न्याय्यया कुर्याद् बकेनाहेः कृतं यथा॥

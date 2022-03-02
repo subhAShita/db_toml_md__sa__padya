@@ -5,7 +5,7 @@ title = "असहाश्चैव विज्ञेयाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असहाश्चैव विज्ञेयाः प्रभावन्तो विदेहजाः।  
 अङ्गदेशोद्भवास्तीक्ष्णाः सुहस्ताः सुदृढास्तथा॥

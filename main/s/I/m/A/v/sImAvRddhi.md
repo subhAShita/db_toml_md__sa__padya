@@ -6,7 +6,7 @@ title = "सीमा वृद्धिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सीमा वृद्धिं समायाति शुक्लपक्ष इवोडुराट्।  
 नियोगसंस्थिते यस्मिन्स भृत्योऽर्हो महीभुजाम्॥

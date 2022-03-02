@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9122", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 24",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "कवीनां महताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवीनां महतां सूक्तैर् गूढार्थान्तरसूचिभिः।  
 विध्यमानश्रुतेर्माभूद् दुर्जनस्य कथं व्यथा॥

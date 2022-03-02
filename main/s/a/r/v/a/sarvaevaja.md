@@ -6,7 +6,7 @@ title = "सर्व एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्व एव जनः शूरो ह्यनासादितसङ्गरः।  
 अदृष्टपरसामर्थ्यः सदर्पः को भवेन्नहि॥

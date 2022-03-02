@@ -5,7 +5,7 @@ title = "अन्धद्वये महानन्धो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धद्वये महानन्धो विषयान्धीकृतेक्षणः।  
 चक्षुषान्धो न जानाति विषयान्धो न केनचित्॥

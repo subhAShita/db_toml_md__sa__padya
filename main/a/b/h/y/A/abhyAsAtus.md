@@ -5,7 +5,7 @@ title = "अभ्यासात्तु स्थिरस्वान्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यासात्तु स्थिरस्वान्त ऊर्ध्वरेताश्च जायते।  
 परानन्दमयो योगी जरामरणवर्जितः॥

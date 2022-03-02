@@ -6,7 +6,7 @@ title = "गर्जसि मेघ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गर्जसि मेघ न यच्छसि तोयं चातकपक्षी व्याकुलितोऽहम्।  
 दैवादिह यदि दक्षिणवातः क्व त्वं क्वाहं क्व च जलपातः॥

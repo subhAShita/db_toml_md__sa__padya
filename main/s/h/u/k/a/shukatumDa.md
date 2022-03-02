@@ -6,7 +6,7 @@ title = "शुकतुण्डच्छवि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुकतुण्डच्छवि सवितुश्चण्डरुचः पुण्डरीकवनबन्धोः।  
 मण्डलमुदितं वन्दे कुण्डलमाखण्डलाशायाः॥

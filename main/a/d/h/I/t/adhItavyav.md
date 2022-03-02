@@ -6,7 +6,7 @@ title = "अधीतव्यवहारज्ञं मौलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीतव्यवहारज्ञं मौलं ख्यातं विपश्चितम्।  
 अर्थस्योत्पादकं चैव विदध्यान्मन्त्रिणं नृपः॥

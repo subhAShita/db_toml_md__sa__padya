@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7536", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 11",]
-jsonClass = "Subhaashita"
 topics = [ "गणेशः",]
+jsonClass = "Subhaashita"
 title = "एकरद द्वैमातुर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक-रद द्वैमातुर  
 निस्त्रिगुण चतुर्-भुजोऽपि पञ्चकर।  

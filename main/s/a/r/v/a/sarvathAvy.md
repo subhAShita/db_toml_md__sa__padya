@@ -6,7 +6,7 @@ title = "सर्वथा व्यवहर्तव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वथा व्यवहर्तव्यं कुतो ह्यवचनीयता।  
 यथा स्त्रीणां तथा वाचां साधुत्वे दुर्जनो जनः॥

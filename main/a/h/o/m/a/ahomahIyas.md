@@ -5,7 +5,7 @@ title = "अहो महीयसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो महीयसां पुंसाम् उपर्युपरि पौरुषम्।  
 रामेणाजगवं शंभोर् भग्नमम्भोजनालवत्॥

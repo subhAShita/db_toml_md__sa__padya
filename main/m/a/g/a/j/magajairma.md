@@ -6,7 +6,7 @@ title = "न गजैर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न गजैर्न नरैः कार्यं सिद्धिमभ्येति भूभृताम्।  
 तथा निमेषमात्रेण यथा वाहैः सुसाधितैः॥

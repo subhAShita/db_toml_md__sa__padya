@@ -6,7 +6,7 @@ title = "किं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं न पश्यसि महेन्द्रदिङ्मखे शीतदीधितिरसावुदञ्चति।  
 मीलितैव नलिनीह मा कृथास्तन्मधुव्रत मुधा गतागतम्॥

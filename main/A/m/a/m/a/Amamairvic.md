@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4818", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 39",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
-title = "आननैर्विचकसे"
+jsonClass = "Subhaashita"
+title = "आननैर्विचकसे हृषिताभिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आननैर्विचकसे हृषिताभिर् वल्लभानभि तनूभिरभावि।  
 आर्द्रतां हृदयमाप च रोषो लोलति स्म वचनेषु वधूनाम्॥

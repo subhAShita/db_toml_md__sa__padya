@@ -6,7 +6,7 @@ title = "शुक्तिद्वयपुटे भोज"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुक्तिद्वयपुटे भोज यशोब्धौ तव रोदसी।  
 मन्ये तदुद्भवं मुक्ताफलं शीतांशुमण्डलम्॥

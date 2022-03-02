@@ -5,7 +5,7 @@ title = "उत्पादयति लोकस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पादयति लोकस्य प्रीतिं मलयमारुतः।  
 ननु दाक्षिण्यसंपन्नः सर्वस्य भवति प्रियः॥

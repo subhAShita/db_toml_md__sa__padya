@@ -5,7 +5,7 @@ title = "इदमनन्यपरायणमन्यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमनन्यपरायणमन्यथा हृदयसंनिहिते हृदयं मम।  
 यदि समर्थयसे मदिरेक्षणे मदनबाणहतोऽस्मि हतः पुनः॥

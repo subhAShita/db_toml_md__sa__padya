@@ -6,7 +6,7 @@ title = "अवश्यमनुभोक्तव्यं कृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवश्यमनुभोक्तव्यं  
 कृतं कर्म शुभाऽशुभम् ।  

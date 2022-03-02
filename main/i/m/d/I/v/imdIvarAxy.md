@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5980", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 04 कूटानि// 72",]
-jsonClass = "Subhaashita"
 types = [ "कूटम्",]
+jsonClass = "Subhaashita"
 title = "इन्दीवराक्ष्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दीवराक्ष्याः स्फुटविद्रुमोष्ठ्याः संकेतमुद्दिश्य वने चरन्त्याः।  
 चौरैः समस्ताभरणानि हृत्वा नासामणिर्नोऽपहृतः किमेतत्॥

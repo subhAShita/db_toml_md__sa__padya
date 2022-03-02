@@ -5,7 +5,7 @@ title = "अप्यनावर्जिताः स्वेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्यनावर्जिताः स्वेन फलरागेण संनताः।  
 अर्भकैरपि गृह्यन्ते साधुसंतानशाखिनः॥

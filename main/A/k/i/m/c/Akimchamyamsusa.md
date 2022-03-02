@@ -5,7 +5,7 @@ title = "आकिञ्चन्यं सुसन्तोषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकिंचन्यं सुसंतोषो निराशीष्ट्वमचापलम्।  
 एतदाहुः परं श्रेय आत्मज्ञस्य जितात्मनः॥

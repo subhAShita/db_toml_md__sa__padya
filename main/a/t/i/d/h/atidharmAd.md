@@ -5,7 +5,7 @@ title = "अति धर्माद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अति धर्माद् बलं मन्ये बलाद् धर्मः प्रवर्तते।  
 बले प्रतिष्ठितो धर्मो धर्ण्यामिव जङ्गमम्॥

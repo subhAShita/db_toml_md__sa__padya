@@ -5,7 +5,7 @@ title = "आ सत्यलोकादा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आ सत्यलोकादा भूमेः स्वैरचारकृतश्रमाः।  
 तेनुरिन्दुकराः स्वेदं द्रुतनीहारभूमिकम्॥

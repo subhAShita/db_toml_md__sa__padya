@@ -5,7 +5,7 @@ title = "आधर्मिकः कदर्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आधर्मिकः कदर्यो गुणविमुखः परुषवागनेकमतिः।  
 भुङ्क्ते संपदमीदृग् ब्रूत नृकारः किमस्ति दैवं वा॥

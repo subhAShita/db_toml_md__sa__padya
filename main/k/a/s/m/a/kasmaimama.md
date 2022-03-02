@@ -5,7 +5,7 @@ title = "कस्मै नमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्मै नमः सुरैरपि सुतरां क्रियते दयाप्रधानाय।  
 कस्मादुद्विजितव्यं संसारारण्यतः सुधिया॥

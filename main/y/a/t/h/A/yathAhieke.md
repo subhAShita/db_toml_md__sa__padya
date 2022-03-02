@@ -6,7 +6,7 @@ title = "यथा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा हि एकेन चक्रेण न रथस्य गतिर्भवेत्।  
 एवं पुरूषकारेण विना दैवं न सिध्यति॥

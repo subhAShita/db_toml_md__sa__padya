@@ -5,7 +5,7 @@ title = "आनन्दयति सत्त्वानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनन्दयति सत्त्वानि यो हि मङ्गलमञ्जुवाक्।  
 निन्दामेष्यति लोके सः परवाक्यनिगूहकः॥

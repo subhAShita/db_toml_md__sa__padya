@@ -5,7 +5,7 @@ title = "अयशस्यम् अनायुष्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयशस्यम् अनायुष्यं परदाराभिमर्शनम्।  
 अर्थक्षयकरं घोरं पापस्य च पुनर्भवम्॥

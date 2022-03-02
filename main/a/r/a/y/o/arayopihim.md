@@ -5,7 +5,7 @@ title = "अरयोऽपि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरयोऽपि हि मित्रत्वं यान्ति दण्डवतो ध्रुवम्।  
 दण्डप्रायो हि नृपतिर् भुनक्त्याक्रम्य मेदिनीम्॥

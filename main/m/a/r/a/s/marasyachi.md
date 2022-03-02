@@ -6,7 +6,7 @@ title = "नरस्य चिह्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नरस्य चिह्नं नरकागतस्य विरोधिता बन्धुजनेषु नित्यम्।  
 सरोगता नीचगतेषु सेवा ह्यतीव दोषः कटुका च वाणी॥

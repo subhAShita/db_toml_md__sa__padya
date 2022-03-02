@@ -5,7 +5,7 @@ title = "कच्चित् पशव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कच्चित् पशव्यं निरुजं भूर्यम्बुतृणवीरुधम्।  
 वृहद्वनं तदधुना यत्रास्से त्वं सुहृद्वृतः॥

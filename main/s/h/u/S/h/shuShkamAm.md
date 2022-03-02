@@ -6,7 +6,7 @@ title = "शुष्कं मांसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुष्कं मांसं स्त्रियो वृद्धा बालार्कस्तरुणं दधि।  
 प्रभाते मैथुनं निद्रा सद्यः प्राणहराणि षट्॥

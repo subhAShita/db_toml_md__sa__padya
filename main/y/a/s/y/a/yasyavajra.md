@@ -6,7 +6,7 @@ title = "यस्य वज्रमणेर्भेदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य वज्रमणेर्भेदे भिद्यन्ते लोहसूचयः।  
 करोति तत्र किं नाम नारीनखविलेखनम्॥

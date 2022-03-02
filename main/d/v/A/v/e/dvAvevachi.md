@@ -6,7 +6,7 @@ title = "द्वावेव चिन्तया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वावेव चिन्तया मुक्तौ परमानन्द आप्लुतौ।  
 यो विमुग्धो जडो बालो यो गुणेभ्यः परं गतः॥

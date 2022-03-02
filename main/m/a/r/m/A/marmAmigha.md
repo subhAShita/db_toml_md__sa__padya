@@ -7,7 +7,7 @@ title = "मर्माणि घट्टयित्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मर्माणि घट्टयित्वा सुप्रीतमनास्तु दुर्जनो भवति।  
 अप्रियमुक्त्वातिभृशं पश्चात्तपतीह खल्वार्यः॥

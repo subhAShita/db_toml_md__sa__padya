@@ -7,7 +7,7 @@ title = "बाष्पाकुलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाष्पाकुलं प्रलपतोर्गृहिणि निवर्तस्व कान्त गच्छेति।  
 यातं दम्पत्योर्दिनमनुगमनावधि सरस्तीरे॥

@@ -7,7 +7,7 @@ title = "निर्णेतुं शक्यमस्तीति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्णेतुं शक्यमस्तीति मध्यं तव नितम्बिनि।  
 अन्यथा नोपपद्येत पयोधरभरस्थितिः॥

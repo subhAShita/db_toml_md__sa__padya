@@ -7,7 +7,7 @@ title = "न धर्मस्यापदेशेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न धर्मस्यापदेशेन पापं कृत्वा व्रतं चरेत् ।  
 व्रतेन पापं प्रच्छाद्य कुर्वन् स्त्रीशूद्रदम्भनम् ॥   

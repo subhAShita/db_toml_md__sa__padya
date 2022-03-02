@@ -5,7 +5,7 @@ title = "उद्भिदुरं स्तनवदनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्भिदुरं स्तनवदनं लोचनमलिगर्वमोचनं सुदृशः।  
 दृष्ट्वा विगतविचारं धातारं निन्दति स्थविरः॥

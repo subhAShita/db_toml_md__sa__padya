@@ -5,7 +5,7 @@ title = "कः शमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः शमः क्रियतां प्राज्ञाः प्रियाप्रीतौ परिश्रमः।  
 भस्मीभूतस्य भूतस्य पुनरागमनं कुतः॥

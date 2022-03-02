@@ -7,7 +7,7 @@ title = "श्रूयतां कौतुकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रूयतां कौतुकं सोऽपि स्मरः शृङ्गारिणां गुरुः।  
 अमुष्याः शिष्यतामेति श्रवणोन्मुखयोर्दृशोः॥

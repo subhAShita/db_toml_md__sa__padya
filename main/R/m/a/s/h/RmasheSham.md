@@ -5,7 +5,7 @@ title = "ऋणशेषं रोगशेषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणशेषं रोगशेषं शत्रुशेषं न रक्षयेत्।  
 याचकाद्यैः प्रार्थितः सन् न तीक्ष्णं चोत्तरं वदेत्।  

@@ -6,7 +6,7 @@ title = "अजामिव प्रजाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजामिव प्रजां हन्याद्यो मोहात्पृथिवीपतिः।  
 तस्यैका जायते तृप्तिर्द्वितीया न कथञ्चन॥

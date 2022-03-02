@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4230", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 13",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आकर्णय सरोजाक्षि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकर्णय सरोजाक्षि वचनीयमिदं भुवि।  
 शशाङ्कस्तव वक्त्रेण पामरैरुपमीयते॥

@@ -6,7 +6,7 @@ title = "स्त्रियोऽवतारयन्त्येते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रियोऽवतारयन्त्येते मृण्मया इव निश्चलाः।  
 नास्ति हस्तिसमो बन्धुर्नास्ति हस्तिसमः सखा॥

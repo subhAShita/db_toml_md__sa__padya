@@ -6,7 +6,7 @@ title = "गतेनापि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतेनापि न सम्बन्धो न सुखेन भविष्यता।  
 वर्तमानं क्षणातीतं सङ्गतिः कस्य केन वा॥

@@ -6,7 +6,7 @@ title = "एकं हन्यान्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं हन्यान्न वा हन्यादिषुर्मुक्तो धनुष्मता।  
 बुद्धिर्बुद्धिमता युक्ता हन्ति राष्ट्रं सनायकम्॥

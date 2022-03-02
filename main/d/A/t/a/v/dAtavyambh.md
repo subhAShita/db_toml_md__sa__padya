@@ -6,7 +6,7 @@ title = "दातव्यं भोक्तव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दातव्यं भोक्तव्यं सति विभवे सञ्चयो न कर्तव्यः।  
 पश्येह मधुकरीणां सञ्चितमर्थं हरन्त्यन्ये॥

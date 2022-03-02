@@ -5,7 +5,7 @@ title = "अधरे विनिहितवंशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरे विनिहितवंशं चम्पककुसुमेन कल्पितोत्तंसम्।  
 विनतं दधानमंसं वामं सततं नमामि जितकंसम्॥

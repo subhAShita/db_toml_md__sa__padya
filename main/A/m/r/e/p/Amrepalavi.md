@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5061", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 6",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आम्रे पल्लविते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आम्रे पल्लविते स्थित्वा कोकिला मधुरस्वरम्।  
 चुकूज कामिनां चित्तम् आकर्षन्तीव दूतिका॥

@@ -6,7 +6,7 @@ title = "माता नतानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माता नतानां सङ्घट्टेः श्रियां बाधितसम्भ्रमा।  
 भान्याथ सीमा रामाणं शं मे दिश्यादुमादिजा॥

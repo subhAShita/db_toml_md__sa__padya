@@ -6,7 +6,7 @@ title = "तवमुखसादृश्यं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तवमुखसादृश्यं न लभत इति संपूर्णमंडलो विधिना।  
 अन्यमयमिव घटयितुं पुनरपि खंड्यते मृगांकः॥

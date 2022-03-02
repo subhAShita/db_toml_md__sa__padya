@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3815", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अस्तं गतवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्तं गतवति सवितरि भर्तरि मधुपं निवेश्य कोशान्ते।  
 कमलिन्योऽपि रमन्ते किमत्र चित्रं मृगाक्षीणाम्॥

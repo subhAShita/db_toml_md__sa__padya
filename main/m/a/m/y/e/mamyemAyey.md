@@ -6,7 +6,7 @@ title = "मन्ये मायेयमज्ञानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्ये मायेयमज्ञानं यत्सुखं स्वजनादपि।  
 निदाघवारणायालं निजच्छाया न कस्यचित्॥

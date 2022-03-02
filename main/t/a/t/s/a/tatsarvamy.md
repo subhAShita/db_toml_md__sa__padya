@@ -7,7 +7,7 @@ title = "तत्सर्वं यदहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्सर्वं यदहं जाने ततः सर्वज्ञतास्ति मे ।  
 इति वर्धयताहन्तां जडेन ह्रास्यते जगत् ॥

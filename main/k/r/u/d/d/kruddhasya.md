@@ -6,7 +6,7 @@ title = "क्रुद्धस्य दन्तिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्रुद्धस्य दन्तिनः पत्तिर्जिघृक्षोरसिना करम्।  
 निर्भिद्य दन्तमुसलान्यारुरोह जिघृक्षया॥

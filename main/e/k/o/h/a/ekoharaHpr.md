@@ -5,7 +5,7 @@ title = "एको हरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको हरः प्रियाधर- गुणवेदी दिविषदोऽपरे मूढाः।  
 विषममृतं वा सममिति यः पश्यन् गरलमेव पपौ॥

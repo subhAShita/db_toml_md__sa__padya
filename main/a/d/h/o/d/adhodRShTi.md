@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_1140",]
-jsonClass = "Subhaashita"
 topics = [ "दम्भः", "शठः", "स्वार्थः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
-title = "अधोदृष्टिर्नैष्कृतिकः"
+jsonClass = "Subhaashita"
+title = "अधोदृष्टिनैर्कृतिकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधोदृष्टिनैर्कृतिकः स्वार्थसाधनतत्परः।  
 शठो मिथ्याविनीतश्च बकव्रतचरो द्विजः॥

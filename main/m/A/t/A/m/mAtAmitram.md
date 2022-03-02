@@ -6,7 +6,7 @@ title = "माता मित्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माता मित्त्रं पिता चेति स्वभावात्त्रितयं हितम्।  
 कार्यकारणतश्चान्ये भवन्ति हितबुद्धयः॥

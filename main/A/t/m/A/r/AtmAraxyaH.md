@@ -5,7 +5,7 @@ title = "आत्मा रक्ष्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मा रक्ष्यः प्रयत्नेन युद्धसिद्धिर्हि चञ्चला।  
 ते स्वामिवचनं सर्वे प्रतिगृह्य महौजसः॥

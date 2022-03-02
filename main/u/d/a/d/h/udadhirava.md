@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6701", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 217",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "उदधिरवधिरुर्व्यास्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदधिरवधिरुर्व्यास्तं हनूमांस्ततार निरवधि गगनं चेत्त्वाण्डकोशे विलीनम्।  
 इति परिमितिमन्तो भान्ति सर्वेऽपि भावाः स तु निरवधिरेकः सज्जनानां विवेकः॥

@@ -6,7 +6,7 @@ title = "दानं भोगम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानं भोगं च विना धनसत्तामात्रकेण चेद्धनिनः।  
 वयमपि किमिति न धनिनस्तिष्ठति नः काञ्चनो मेरुः॥

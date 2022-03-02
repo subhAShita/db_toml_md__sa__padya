@@ -6,7 +6,7 @@ title = "न देवाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न देवाय न धर्माय न बन्धुभ्यो न चार्थिने।  
 दुर्जनस्यार्जितं वित्तं भुज्यते राजतस्करैः॥

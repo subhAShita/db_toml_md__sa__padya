@@ -5,7 +5,7 @@ title = "कलुषं कटुकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलुषं कटुकं लवणं विरसं सलिलं यदि वाशुभगन्धि भवेत्।  
 तदनेन भवत्यमलं सुरसं ससुगन्धि गुणैरपरैश्च युतम्॥

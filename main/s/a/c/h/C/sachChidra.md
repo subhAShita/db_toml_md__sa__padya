@@ -6,7 +6,7 @@ title = "सच्छिद्रनिकटे वासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सच्छिद्रनिकटे वासो न कर्तव्यः कदाचन।  
 घटी पिबति पानीयं ताड्यते झल्लरी यथा॥

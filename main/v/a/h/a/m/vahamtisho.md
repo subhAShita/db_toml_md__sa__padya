@@ -6,7 +6,7 @@ title = "वहन्ति शोकशङ्कुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वहन्ति शोकशङ्कुं च कुर्वन्ति च यथोचितम्।  
 कोऽप्येष महतां हन्त गम्भीर्यानुगुणो गुणः॥

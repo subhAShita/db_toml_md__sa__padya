@@ -6,7 +6,7 @@ title = "दोषालोकननिपुणाः परुषगिरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषालोकननिपुणाः परुषगिरो दुर्जनाश्च घूकाश्च।  
 दर्शनमपि भयजननं येषामनिमित्तपिशुनानाम्॥

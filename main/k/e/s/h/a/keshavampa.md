@@ -6,7 +6,7 @@ title = "केशवं पतितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केशवं पतितं दृष्ट्वा द्रोणो हर्षमुपागतः।  
 रुदन्ति कौरवाः सर्वे हा केशव कथं गतः॥

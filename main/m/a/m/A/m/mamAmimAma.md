@@ -6,7 +6,7 @@ title = "नमामि मामनोनुन्नमानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमामि मामनोनुन्नमानं मुनिममानिनम्।  
 नानाननममानाममोन्नामानमुमेनमुम्॥

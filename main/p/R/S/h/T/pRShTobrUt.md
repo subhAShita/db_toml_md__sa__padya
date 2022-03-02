@@ -6,7 +6,7 @@ title = "पृष्टो ब्रूते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृष्टो ब्रूते न सत्यं यः परिणामे सुखावहम्।  
 मन्त्री चेत्प्रियवक्ता स्यात्केवलं स रिपुः स्मृतः॥

@@ -6,7 +6,7 @@ title = "जिह्वादूषितसत्पात्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जिह्वादूषितसत्पात्रः पिण्डार्थी कलहोत्कटः।  
 तुल्यतामशुचिर्नित्यं बिभर्ति पिशुनः शुनः॥

@@ -6,7 +6,7 @@ title = "शीलानि ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शीलानि ते चन्दनशीतलानि श्रुतानि भूमीतलविश्रुतानि।  
 तथापि जीर्णौ पितरावतस्मिन् विहाय हा वत्स कथं प्रयासि॥

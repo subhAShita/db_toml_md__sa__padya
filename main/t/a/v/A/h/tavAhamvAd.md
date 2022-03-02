@@ -6,7 +6,7 @@ title = "तवाहं वादिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तवाहं वादिनं क्लीबं निर्हेतिं परमागतिम्।  
 न हन्याद्विनिवृत्तं च युद्धं प्रेक्षितुमागतम्॥

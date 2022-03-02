@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0769", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 46",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
-title = "अथ वाभिनिविष्टबुद्धिषु"
+jsonClass = "Subhaashita"
+title = "अथवाभिनिविष्टबुद्धिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथवाभिनिविष्टबुद्धिषु व्रजति व्यर्थकतां सुभाषितम्।  
 रविरागिषु शीतरोचिषः करजालं कमलाकरोष्विव॥

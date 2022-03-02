@@ -5,7 +5,7 @@ title = "कर्मणामिष्टदुष्टानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणामिष्टदुष्टानां जायते फलसंक्षयः।  
 चेतसोऽर्थकषायत्वाद् यत्र सा घ्वस्तिरुच्यते॥

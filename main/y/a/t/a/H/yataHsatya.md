@@ -6,7 +6,7 @@ title = "यतः सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यतः सत्यं ततो धर्मो यतो धर्मस्ततो धनम्।  
 यतो रूपं ततः शीलं यतो नागास्ततो जयः॥

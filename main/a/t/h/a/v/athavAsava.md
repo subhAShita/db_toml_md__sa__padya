@@ -5,7 +5,7 @@ title = "अथ वासवस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ वासवस्य वचनेन रुचिरवदनस्त्रिलोचनम्।  
 क्लान्तिरहितमभिराधयितुं विधिवत् तपांसि विदधे धनंजयः॥

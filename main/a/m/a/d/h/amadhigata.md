@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1204", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 44",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनधिगतमनोरथस्य पूर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनधिगतमनोरथस्य पूर्वं शतगुणितेव गता मम त्रियामा।  
 यदि तु तव समागमे तथैव प्रसरति सुभ्रुततः कृती भवेयम्॥

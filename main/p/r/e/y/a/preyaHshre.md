@@ -7,7 +7,7 @@ title = "प्रेयः श्रेय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेयः श्रेय इवाभाति भवारण्यरणाङ्गणे।  
 वालिसुग्रीवभेदज्ञ राम श्रेयोऽवबोधय ॥

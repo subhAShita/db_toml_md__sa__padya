@@ -7,7 +7,7 @@ title = "कुम्भौ सदम्भौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुम्भौ सदम्भौ करिणां कलशौ गन्दकौशलौ।  
 चक्रवाकौ वाराकौ च तदीयकुचयोः पुरः॥

@@ -7,7 +7,7 @@ title = "वक्त्रे गुरुत्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वक्त्रे गुरुत्वं यदि ते छन्दःशास्त्रविदो विदुः।  
 कठिने कुचयुग्मेऽस्या वदतां किं नु हीयते॥

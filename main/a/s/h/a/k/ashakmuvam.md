@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3464", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०६ भयानकरसनिर्देशः// 4",]
-jsonClass = "Subhaashita"
 rasas = [ "भयानकः",]
-title = "अशक्नुवन्सोढुमधीरलोचनः"
+jsonClass = "Subhaashita"
+title = "अशक्नुवन् सोढुमधीरलोचनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशक्नुवन् सोढुमधीरलोचनः सहस्ररश्मेरिव यस्य दर्शनम्।  
 प्रविश्य हेमाद्रिगुहागृहान्तरं निनाय बिभ्यद् दिवसानि कौशिकः॥

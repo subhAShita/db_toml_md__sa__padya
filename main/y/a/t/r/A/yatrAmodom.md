@@ -7,7 +7,7 @@ title = "यत्रामोदो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्रामोदो न लषति कमप्यन्यहेतुं महार्घं  
 वृद्धग्रामो जनयति मनोवैद्यकृत्यं च यत्र ।  

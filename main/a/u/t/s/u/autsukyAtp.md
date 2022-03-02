@@ -5,7 +5,7 @@ title = "औत्सुक्यात् परिमिलताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औत्सुक्यात् परिमिलतां त्रपया संकोचमञ्चतां च मुहुः।  
 नवसंगमयोर्यूनोर् नयनानामुत्सवो जयति॥

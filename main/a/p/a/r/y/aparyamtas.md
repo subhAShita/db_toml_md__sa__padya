@@ -5,7 +5,7 @@ title = "अपर्यन्तस्य कालस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपर्यन्तस्य कालस्य कियानंशः शरच्छतम्।  
 तन्मात्रपरमायुर्यः स कथं स्वप्तुमर्हति॥

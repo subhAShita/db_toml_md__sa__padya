@@ -6,7 +6,7 @@ title = "शशिना च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शशिना च निशा निशया च शशी शशिना निशया च विभाति नभः।  
 पयसा कमलं कमलेन पयः पयसा कमलेन विभाति सरः॥

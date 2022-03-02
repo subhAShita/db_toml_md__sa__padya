@@ -6,7 +6,7 @@ title = "वर्णयन्ति नराभासान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्णयन्ति नराभासान् वाणीं लब्ध्वापि ये जनाः ।  
 लब्ध्वापि कामधेनुं ते लाङ्गले विनियुञ्जते ॥

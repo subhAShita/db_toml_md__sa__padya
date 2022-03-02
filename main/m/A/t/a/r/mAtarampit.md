@@ -6,7 +6,7 @@ title = "मातरं पितरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मातरं पितरं पुत्रं भ्रातरं वा सुहृत्तमम्।  
 लोभाविष्टो नरो हन्ति स्वामिनं वा सहोदरम्॥

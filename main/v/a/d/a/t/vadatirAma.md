@@ -6,7 +6,7 @@ title = "वदति राममनुष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वदति राममनुष्य जघन्यजो वसति कुत्र सदालसमानसः।  
 अपि च शक्रसुतेन तिरस्कृतो रविसुतः किमसौ विदधे त्वया॥

@@ -6,7 +6,7 @@ title = "बहूनामप्यसाराणां समुदायो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहूनामप्यसाराणां समुदायो हि दारुणः।  
 राज्ञा भृत्याः प्रकर्तव्यास्ते हि सर्वक्रियाक्षमाः॥

@@ -6,7 +6,7 @@ title = "विना खदिरसारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विना खदिरसारेण हारेण हरिणीदृशाम्।  
 नाधरे जायते रागो नानुरागः पयोधरे॥

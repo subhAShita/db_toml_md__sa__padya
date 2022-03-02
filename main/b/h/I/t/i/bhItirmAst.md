@@ -1,13 +1,13 @@
 +++
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 55",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "भीतिर्नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भीतिर्नास्ति भुजङ्गपुङ्गवविषात्प्रीतिर्न चन्द्रामृतान्नाशौचं हि कपालदामलुलनाच्छौचं न गङ्गाजलात्।  
 नोद्वेगश्चितिभस्मना न च सुखं गौरीस्तनालिङ्गनादात्मारामतया हिताहितसमः स्वस्थो हरः पातु वः॥

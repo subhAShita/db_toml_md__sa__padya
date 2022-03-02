@@ -6,7 +6,7 @@ title = "त्रातः काकोदरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रातः काकोदरो येन द्रोग्धापि करुणात्मना।  
 पूतनामारणख्यातः स मेऽस्तु शरणं प्रभुः॥

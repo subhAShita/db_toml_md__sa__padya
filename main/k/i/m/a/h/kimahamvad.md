@@ -6,7 +6,7 @@ title = "किमहं वदामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमहं वदामि खल दिव्यमतं गुणपक्षपातमभितो भवतः।  
 गुणशालिनो निखिलसाधुजनान्यदहर्निशं न खलु विस्मरसि॥

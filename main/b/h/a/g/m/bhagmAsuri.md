@@ -6,7 +6,7 @@ title = "भग्नासु रिपुसेनासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भग्नासु रिपुसेनासु नरेन्द्र त्वं महामहाः।  
 खड्गान्त्रर्निजमेवैकमद्राक्षीः सम्मुखं मुखम्॥

@@ -5,7 +5,7 @@ title = "काली कलकलरूपा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काली कलकलरूपा महिषासुरविनाशिनी वीरा।  
 शुम्भादाननिशुम्भा- स्वादनतोषावतु त्वां न् पते॥

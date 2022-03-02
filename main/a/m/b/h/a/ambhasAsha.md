@@ -5,7 +5,7 @@ title = "अम्भसा शममायाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्भसा शममायाति मुष्टिमेयशिखः शिखी।  
 प्रवृद्धोऽधःस्थितैः पश्चात् संतप्तैरेव दृश्यते॥

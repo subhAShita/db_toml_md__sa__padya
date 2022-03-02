@@ -5,7 +5,7 @@ title = "उत्तमैः सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमैः सह स गेन को न याति समुन्नतिम्।  
 मूर्ध्ना तृणानि धार्यन्ते ग्रथितैः कुसुमैः सह॥

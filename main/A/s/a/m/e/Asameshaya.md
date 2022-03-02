@@ -5,7 +5,7 @@ title = "आसने शयने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसने शयने याने पानभोजनवस्तुषु।  
 दृष्ट्वान्तरं प्रमत्तेषु प्रहरन्त्यरयोऽरिषु॥

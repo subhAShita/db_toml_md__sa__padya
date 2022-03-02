@@ -5,7 +5,7 @@ title = "अपि लपितुमहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि लपितुमहं न हन्त शक्तस् तव पुरतः परितापमायताक्ष्याः।  
 शिव शिव रसना यतो न यत्नाद् अपि यतते निजदाहशङ्कयेव॥

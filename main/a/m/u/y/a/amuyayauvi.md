@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1489", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 33",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा",]
 rasas = [ "शृङ्गारः",]
-title = "अनुययौ"
+jsonClass = "Subhaashita"
+title = "अनुययौ विविधोपलकुण्डल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुययौ विविधोपलकुण्डल- द्युतिवितानकसंवलितांशुकम्।  
 धृतधनुवलयस्य पयोमुचः शबलिमा बलिमानमुषो वपुः॥

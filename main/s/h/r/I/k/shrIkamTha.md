@@ -1,9 +1,10 @@
 +++
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 91",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "श्रीकण्ठस्य"
-ratings = [ "vvasuki:5",]
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -27,6 +28,8 @@ ratings = [ "vvasuki:5",]
 दिश्यादक्षतहस्तमूलघटिताषाढा मघालङ्कृता श्रेयो वैश्रवणान्विता भगवतो नक्षत्रपालीव वः॥
 </details>
 
+
+
 <details><summary>MT</summary>
 
 The form of Śrīkantha with elephant hide, instantly bears away distress, is ever rising, the foremost, the station of felicity, restores wealth, beautiful, together with Viśākha, with an unblemished hand, that which is the root-cause, invincible and ornamented with might, May [that distinguished [form] of the lord, together with Vaisravana, like the guardian of the lunar asterisms confer felicity to us.
@@ -34,4 +37,3 @@ The form of Śrīkantha with elephant hide, instantly bears away distress, is ev
 The form Srikantha is with Krttika, Bharani, and ever with Rohini (could also mean Moon)  
 with Jyestha, the Bhadrapada-s, Punarvasu, Citra, Visakha, Abhijit (?), Hasta, Mūla, the Aşādhā-s, Maghā, Śravișthā, and Śravaņa. May that form, like the guardian of the lunar asterisms, confer us weal.
 </details>
-

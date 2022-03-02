@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9419", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 16",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "सुरतकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कान्तया सपदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तया सपदि कोऽप्युपगूढः प्रौढपाणिरपनेतुमियेष।  
 संहतस्तनतिरस्कृतदृष्टिर् भ्रष्टमेव न दुकूलमपश्यत्॥

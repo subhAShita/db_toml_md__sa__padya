@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1590", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 263",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अन्तःपुरचरैः सार्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःपुरचरैः सार्धं यो न मन्त्रं समाचरेत्।  
 न कलत्रैर्नरेन्द्रस्य स भवेद् राजवल्लभः॥

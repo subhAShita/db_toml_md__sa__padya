@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8835", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 177",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
-title = "कर्णे जपानाम्"
+jsonClass = "Subhaashita"
+title = "कर्णेजपानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णेजपानां वचनप्रपञ्चान्- महात्मनः क्वापि न दूषयन्ति।  
 भुजङ्गमानां गरलप्रसङ्गान्- नापेयतां यान्ति महासरांसि॥

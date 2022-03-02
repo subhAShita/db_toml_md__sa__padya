@@ -5,7 +5,7 @@ title = "उद्यद्विवेकतपनप्रफुल्ले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यद्विवेकतपनप्रफुल्ले हृदयाम्बुज।  
 विशते भगवद्भक्तिर् अरविन्द इवेन्दिरा॥

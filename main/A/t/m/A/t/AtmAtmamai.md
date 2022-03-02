@@ -5,7 +5,7 @@ title = "आत्मात्मनैव जनितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मात्मनैव जनितः पुत्र इत्युच्यते बुधैः।  
 तस्माद् भार्यां नरः पश्येन् मातृवत् पुत्रमातरम्॥

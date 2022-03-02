@@ -6,7 +6,7 @@ title = "शनैर्विद्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शनैर्विद्यां शनैरर्थानारोहेत्पर्वतं शनैः।  
 शनैरध्वसु वर्तेत योजनान्न परं व्रजेत्॥

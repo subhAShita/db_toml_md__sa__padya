@@ -5,7 +5,7 @@ title = "इतराण्यपि रक्षांसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतराण्यपि रक्षांसि पेतुर्वानरकोटिषु।  
 रजांसि समरोत्थानि तच्छोणितनदीष्विव॥

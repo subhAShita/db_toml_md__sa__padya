@@ -6,7 +6,7 @@ title = "सुहृदां हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुहृदां हि धनं भुक्त्वा कृत्वा प्रणयमीप्सितम्।  
 प्रतिकर्तुमशक्तस्य जीवितान्मरणं वरम्॥

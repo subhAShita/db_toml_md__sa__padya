@@ -5,7 +5,7 @@ title = "अभिधावति माम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिधावति मां मृत्युर् अयमुद्गूर्णमुद्गरः।  
 कृपणं पुण्डरीकाक्ष रक्ष मां शरणागतम्॥

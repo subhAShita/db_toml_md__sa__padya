@@ -7,7 +7,7 @@ title = "हत्वा लोचनविशिखैर्गत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हत्वा लोचनविशिखैर्गत्वा कतिचित्पदानि पद्माक्षी।  
 जीवति युवा न वा किं भूयो भूयो विलोकयति॥

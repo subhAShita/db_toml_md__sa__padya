@@ -6,7 +6,7 @@ title = "पक्षविकलश्च पक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पक्षविकलश्च पक्षी शुष्कश्च तरुः सरश्च जलहीनम्।  
 सर्पश्चोद्धृतदंष्ट्रस्तुल्यं लोके दरिद्रश्च॥

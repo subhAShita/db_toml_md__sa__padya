@@ -6,7 +6,7 @@ title = "तद्दिव्यमव्ययं धाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तद्दिव्यमव्ययं धाम सारस्वतमुपास्महे।  
 यत्प्रसादात्प्रलीयन्ते मोहान्धतमसश्छटाः॥

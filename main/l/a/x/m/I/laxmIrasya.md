@@ -6,7 +6,7 @@ title = "लक्ष्मीरस्य हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लक्ष्मीरस्य हि यादः कृष्णोरःस्थापि सुभटभुजवसतिः।  
 इन्दुः स च मृडचूडामणिरपि जगतामलङ्कारः॥

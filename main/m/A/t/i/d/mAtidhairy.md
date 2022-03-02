@@ -6,7 +6,7 @@ title = "नातिधैर्यं प्रदातव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नातिधैर्यं प्रदातव्यं  
 नातिभीतिश्च रोगिणि ।  

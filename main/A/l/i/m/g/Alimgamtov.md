@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5318", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १८ रथवेगवर्णनम्// 1",]
-jsonClass = "Subhaashita"
 topics = [ "रथवेगः",]
+jsonClass = "Subhaashita"
 title = "आलिङ्गन्तो वसुधाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलिङ्गन्तो वसुधां निजखुरदलितामिवानुनेतुममी।  
 वदनविगतचरणा इव संलक्ष्यन्ते जवादश्वाः॥

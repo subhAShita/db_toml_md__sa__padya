@@ -6,7 +6,7 @@ title = "न स्वप्नेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न स्वप्नेन जयेन्निद्रां न कामेन स्त्रियं जयेत्।  
 नेन्धनेन यजेद्वह्निं न पानेन सुरां जयेत्॥

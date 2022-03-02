@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0765", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 56",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ लक्ष्मणानुगतकान्तवपुर् जलधिं विलङ्घ्य शशिदाशरथिः।  
 परिवारितः परित ऋक्षगनैस् तिमिरौघराक्षसकुलं बिभिदे॥

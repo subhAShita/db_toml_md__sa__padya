@@ -5,7 +5,7 @@ title = "उत्सीदेरन् प्रजाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्सीदेरन् प्रजाः सर्वा न कुर्युः कर्म चेद् यदि।  
 तथा ह्येता न वर्धेरन् कर्म चेद् अफलं भवेद्॥

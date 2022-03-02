@@ -5,7 +5,7 @@ title = "उत्सर गकलितोरुकटारी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्सर गकलितोरुकटारी- भाजिरा उत भयंकरभालाः।  
 सन्तु पायकगणा जय तैस्त्वं गामगोहरमिलाप इलावी॥

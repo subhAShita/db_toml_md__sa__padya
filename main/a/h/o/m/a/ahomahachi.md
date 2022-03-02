@@ -5,7 +5,7 @@ title = "अहो महच्चित्रमिदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो महच्चित्रमिदं कालगत्या दुरत्यया।  
 आरुरुक्षत्युपानद्वै शिरो मुकुटसेवितम्॥

@@ -6,7 +6,7 @@ title = "नाप्तं यत्केनचिदपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाप्तं यत्केनचिदपि मनोरथा अपि यतो निवर्तन्ते।  
 तद्यदि न लभ्यतेऽन्यन्मनस्विनः किमभिमानफलम्॥

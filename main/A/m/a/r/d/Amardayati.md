@@ -5,7 +5,7 @@ title = "आमर्दयति पाणिभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आमर्दयति पाणिभ्यां कान्ते कमलकोरके।  
 सिन्दूरतिलके बाला कस्तूरीतिलकं व्यधात्॥

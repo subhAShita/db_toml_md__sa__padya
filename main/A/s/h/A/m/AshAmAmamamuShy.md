@@ -1,13 +1,13 @@
 +++
 topics = [ "तृष्णा", "आशा",]
 secondary_sources = [ "MSS_5429", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 10",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "आशा नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशा नाम मनुष्याणां काचिदाश्चर्यशृङ्खला।  
 यया बद्धाः प्रधावन्ति मुक्तास्तिष्ठन्ति पङ्गुवत्॥

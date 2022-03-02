@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २४ वाल्मीकिः// 46",]
-jsonClass = "Subhaashita"
 topics = [ "वाल्मीकिः",]
+jsonClass = "Subhaashita"
 title = "योगीन्द्रश्छन्दसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योगीन्द्रश्छन्दसां स्रष्टा रामायणमहाकविः।  
 वल्मीकजन्मा जयति प्राच्यः प्राचेतसो मुनिः॥

@@ -6,7 +6,7 @@ title = "किंशुके किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किंशुके किं शुकः कुर्यात्फलितेऽपि बुभुक्षितः।  
 अदातरि समृद्धेऽपि किं कुर्युरुपजीविनः॥

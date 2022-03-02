@@ -6,7 +6,7 @@ title = "कान्पृच्छामः सुराः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्पृच्छामः सुराः स्वर्गे निवसामो वयं भुवि।  
 किं वा काव्यरसः स्वादुः किं वा स्वादीयसी सुधा॥

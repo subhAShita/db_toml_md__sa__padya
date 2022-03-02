@@ -7,7 +7,7 @@ title = "पान्थ मन्दमते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पान्थ मन्दमते किंवा सन्तापमनुविन्दसि।  
 पयोधरं समाशास्व येन शान्तिमवाप्नुयात्॥

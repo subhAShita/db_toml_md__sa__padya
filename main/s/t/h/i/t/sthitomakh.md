@@ -6,7 +6,7 @@ title = "स्थितो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थितो न खादामि हसन्न जल्पे गतं न शोचामि कृतं न मन्ये।  
 द्वयोस्तृतीयो न भवामि राजन्केनास्मि मूर्खो वद कारणेन॥

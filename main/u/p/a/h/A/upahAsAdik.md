@@ -5,7 +5,7 @@ title = "उपहासादिकं दूत्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपहासादिकं दूत्या नायिकायास्ततः परम्।  
 अथ संभोगशृङ्गारे परस्परविलोकनम्॥

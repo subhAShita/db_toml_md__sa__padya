@@ -6,7 +6,7 @@ title = "स दोषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स दोषः सचिवस्यैव यदसत्कुरुते नृपः।  
 याति यन्तुः प्रमादेन गजो व्यालत्ववाच्यताम्॥

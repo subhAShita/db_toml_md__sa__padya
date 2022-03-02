@@ -6,7 +6,7 @@ title = "मोमारामममादन्द्वे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मोमारामममादन्द्वे हयागदलनम्भषः।  
 यस्यैतानि न विद्यन्ते स याति परमां गतिम्॥

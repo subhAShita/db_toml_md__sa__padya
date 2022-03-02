@@ -6,7 +6,7 @@ title = "क्षमातुल्यं तपो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षमातुल्यं तपो नास्ति न सन्तोषात्परं सुखम्।  
 न तृष्णायाः परो व्याधिर्न च धर्मो दयापरः॥

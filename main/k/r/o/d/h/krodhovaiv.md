@@ -6,7 +6,7 @@ title = "क्रोधो वैवस्वतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्रोधो वैवस्वतो राजा आशा वैतरणी नदी ।  
 विद्या कामदुघा धेनुः सन्तोषो नन्दनं वनम्॥

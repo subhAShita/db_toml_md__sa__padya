@@ -5,7 +5,7 @@ title = "इत्यादि दूष्यान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्यादि दूष्यान् संदूष्य प्रजानामभिवृद्धये।  
 विनयञ् श्रियमुत्कर्षं राजा शल्यं समुद्धरेत्॥

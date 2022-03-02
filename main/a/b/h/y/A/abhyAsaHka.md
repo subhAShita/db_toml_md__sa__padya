@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2383", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 1",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अभ्यासः कर्मणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यासः कर्मणां सम्यग् उत्पादयति कौशलम्।  
 विधिना तावदभ्यस्तं यावत् सृष्टा मृगेक्षणा॥

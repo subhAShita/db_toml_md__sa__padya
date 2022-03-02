@@ -6,7 +6,7 @@ title = "विश्वासः सम्पदाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विश्वासः सम्पदां मूलं तेन यूथपतिर्गजः।  
 सिंहो मृगाधिपत्येऽपि न मृगैरुपयुज्यते॥

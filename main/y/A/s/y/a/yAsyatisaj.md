@@ -6,7 +6,7 @@ title = "यास्यति सज्जनहस्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यास्यति सज्जनहस्तं रमयिष्यति तं भवेच्च निर्दोषा।  
 उत्पादितयापि कविस्ताम्यति कथया दुहित्रेव॥

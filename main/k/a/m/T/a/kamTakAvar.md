@@ -5,7 +5,7 @@ title = "कण्टकावरणं यादृक्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्टकावरणं यादृक् फलितस्य फलाप्तये।  
 तादृग् दुर्जनसङ्गोऽपि साधुसङ्गाय बाधनम्॥

@@ -5,7 +5,7 @@ title = "आनन्दमृगदावाग्निः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनन्दमृगदावाग्निः शीलशाखिमदद्विपः।  
 ज्ञानदीपमहावायुर् अयं खलसमागमः॥

@@ -6,7 +6,7 @@ title = "तृष्णे देवि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णे देवि नमस्तुभ्यं धैर्यविप्लवकारिणि।  
 विष्णुस्त्रैलोक्यनाथोऽपि यत्त्वया वामनीकृतः॥

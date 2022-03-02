@@ -7,7 +7,7 @@ title = "न सीदन्नपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न सीदन्नपि धर्मेण मनोऽधर्मे निवेशयेत् ।  
 अधार्मिकानां पापानामाशु पश्यन् विपर्ययम् ॥

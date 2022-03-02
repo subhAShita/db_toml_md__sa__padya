@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6722", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 16",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
-title = "उदयदुदयदीक्षणाय"
+jsonClass = "Subhaashita"
+title = "उदयदुदयदीक्षणाय पत्युश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयदुदयदीक्षणाय पत्युश् चपलदृशस्त्रपया निरुध्यमानम्।  
 मन इव कृपणस्य दानकाले कति न ततान गतागतानि चक्षुः॥

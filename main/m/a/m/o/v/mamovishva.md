@@ -6,7 +6,7 @@ title = "नमो विश्वसृजे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमो विश्वसृजे पूर्वं विश्वं तदनु बिभ्रते।  
 अथ विश्वस्य संहर्त्रे तुभ्यं त्रेधास्थितात्मने॥

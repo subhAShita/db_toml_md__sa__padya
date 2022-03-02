@@ -6,7 +6,7 @@ title = "यान्ति न्यायप्रवृत्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यान्ति न्यायप्रवृत्तस्य तिर्यञ्चोऽपि सहायताम्।  
 अपन्थानं तु गच्छन्तं सोदरोऽपि विमुञ्चति॥

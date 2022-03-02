@@ -6,7 +6,7 @@ title = "गान्धर्वं गन्धसंयुक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गान्धर्वं गन्धसंयुक्तं ताम्बूलं भारती कथा।  
 इष्टा भार्या प्रियं मित्रमपूर्वाणि दिन दिने॥

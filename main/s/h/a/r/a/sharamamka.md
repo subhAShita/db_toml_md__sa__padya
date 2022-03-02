@@ -6,7 +6,7 @@ title = "शरणं करवाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरणं करवाणि शर्मदं ते चरणं वाणि चराचरोपजीव्यम्।  
 करुणामसृणैः कटाक्षपातैः कुरु मामम्ब कृतार्थसार्थवाहम्॥

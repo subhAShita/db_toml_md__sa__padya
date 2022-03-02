@@ -6,7 +6,7 @@ title = "विरम रत्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरम रत्न मुधा तरलायसे तव न कश्चिदिहास्ति परीक्षकः।  
 विधिवशेन परिच्युतमाकरात्त्वमपि काचमणीकृतमीश्वरैः॥

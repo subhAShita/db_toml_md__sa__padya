@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5546", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 24",]
-jsonClass = "Subhaashita"
 topics = [ "तृष्णा",]
-title = "आसन्नान्पुरतो"
+jsonClass = "Subhaashita"
+title = "आसन्नान् पुरतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नान् पुरतो भोगान् दर्शयित्वा पुनः पुनः।  
 छागो हरितमुष्ट्येव दूरं नीतोऽस्मि तृष्णया॥

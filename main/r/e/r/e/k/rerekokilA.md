@@ -6,7 +6,7 @@ title = "रे रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे रे कोकिला मा भज मौनं किञ्चिदुदञ्चय पञ्चमरागम्।  
 नो चेत्त्वामिह को जानीते काककदम्बकपिहिते चूते॥

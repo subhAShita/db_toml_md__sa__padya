@@ -5,7 +5,7 @@ title = "अव्याधिना शरीरेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्याधिना शरीरेण मनसा च निराधिना।  
 पूरयन्नर्थिनामाशां त्वं जीव शरदां शतम्॥

@@ -5,7 +5,7 @@ title = "कालः मृजति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालः मृजति भूतानि कालः संहरते प्रजाः।  
 सर्वे कालस्य वशगा न कालः कस्यचिद् वशे॥

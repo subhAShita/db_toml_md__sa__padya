@@ -7,9 +7,8 @@ title = "नेयं विरौति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नेयं विरौति भृङ्गाली मदेन मुखरा मुहुः ।  
-अयमाकृष्यमाणस्य कन्दर्पधनुषो ध्वनिः ।  
-
+अयमाकृष्यमाणस्य कन्दर्पधनुषो ध्वनिः ।
 </details>

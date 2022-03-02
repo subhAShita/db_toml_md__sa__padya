@@ -5,7 +5,7 @@ title = "इन्द्राभ्यर्थनया पूर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्राभ्यर्थनया पूर्वं भरताय चतुर्मुखः।  
 प्रमोदाय महेन्द्रस्य नाट्यं समुपदिष्टवान्॥

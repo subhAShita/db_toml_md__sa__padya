@@ -5,7 +5,7 @@ title = "अस्यां नेत्रपथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्यां नेत्रपथं मन्ये गतायां लोलचक्षुषि।  
 भवन्ति पञ्चबाणस्य स्वबाणा एव वैरिणः॥

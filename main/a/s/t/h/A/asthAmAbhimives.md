@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3878", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 170",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अस्थानाभिनिवेशी प्रायो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्थानाभिनिवेशी प्रायो जड एव भवति नो विद्वान्।  
 बालादन्यः कोऽम्भसि जिघृक्षतीन्दोः स्फुरद्बिम्बम्॥

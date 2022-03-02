@@ -6,7 +6,7 @@ title = "दैवाद्यद्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दैवाद्यद्यपि तुल्योऽभूद्भूतेशस्य परिग्रहः।  
 तथापि किं कपालानि तुलां यान्ति कलानिधेः॥

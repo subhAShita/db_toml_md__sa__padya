@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8492", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 42",]
-jsonClass = "Subhaashita"
 topics = [ "शिवः",]
+jsonClass = "Subhaashita"
 title = "कथयत कथमेषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथयत कथमेषा मेनया विप्रदत्ता शिव शिव गिरिपुत्रो वृद्धकापालिकाय।  
 इति वदति पुरंध्रीमण्डले सिद्धिलेश- व्ययकृतवरवेषः पातु वः श्रीमहेशः॥

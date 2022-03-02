@@ -6,7 +6,7 @@ title = "नो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नो वा कियन्तः परितः स्फुरन्ति जलाशया निर्मलभूरितोयाः।  
 सदावदातं परमेकमेव हंसस्य विश्रामपदं वदन्ति॥

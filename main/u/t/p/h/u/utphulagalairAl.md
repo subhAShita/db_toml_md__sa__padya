@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6635", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 8",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "उत्फुल्लगल्लैरालापाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्फुल्लगल्लैरालापाः क्रियन्ते दुर्मुखैः सुखम्।  
 जानाति हि पुनः सम्यक् कविरेव कवेः श्रमम्॥

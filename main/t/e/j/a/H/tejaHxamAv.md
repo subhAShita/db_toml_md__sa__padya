@@ -6,7 +6,7 @@ title = "तेजः क्षमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तेजः क्षमा वा नैकान्तं कालज्ञस्य महीपतेः।  
 नैकमोजः प्रसादो वा रसभावविदः कवेः॥

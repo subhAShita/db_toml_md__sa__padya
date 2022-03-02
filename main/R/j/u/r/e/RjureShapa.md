@@ -5,7 +5,7 @@ title = "ऋजुरेष पक्षवानिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋजुरेष पक्षवानिति काण्डे प्रीतिं खले च मा कार्षीः।  
 प्रायेण त्यक्तगुणः फलेन हृदयं विदारयति॥

@@ -6,7 +6,7 @@ title = "जितेन्द्रियतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जितेन्द्रियतया सम्यग्विद्यावृद्धनिषेविणः।  
 अतिगाढगुणस्यास्य नाब्जवद्भङ्गुरा गुणाः॥

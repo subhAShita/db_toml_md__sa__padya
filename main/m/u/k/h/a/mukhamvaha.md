@@ -7,7 +7,7 @@ title = "मुखं वहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखं वहति बन्धूकबन्धुरेणाधरेण सा।  
 पूर्णेन्दुमिव सौदर्यादङ्कलालितकौस्तुभम्॥

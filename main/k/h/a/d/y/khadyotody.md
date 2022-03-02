@@ -6,7 +6,7 @@ title = "खद्योतो द्योतते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खद्योतो द्योतते तावद्यावन्नोदयते शशी।  
 उदिते तु सहस्रांशौ न खद्योतो न चन्द्रमाः॥

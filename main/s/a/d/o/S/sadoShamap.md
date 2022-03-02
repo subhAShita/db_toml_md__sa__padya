@@ -6,7 +6,7 @@ title = "सदोषमपि निर्दोषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदोषमपि निर्दोषं भवत्यग्रे विपश्चितः।  
 रामस्येवार्जुनवपुः कवेश्च सरसं वचः॥

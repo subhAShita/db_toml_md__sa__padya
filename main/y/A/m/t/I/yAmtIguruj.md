@@ -7,7 +7,7 @@ title = "यान्ती गुरुजनैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यान्ती गुरुजनैः सार्धं स्मयमानमुखाम्बुजा।  
 तिर्यग्ग्रीवं यदद्राक्षीत्तन्निष्पत्त्राकरोज्जगत्॥

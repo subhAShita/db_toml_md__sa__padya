@@ -5,7 +5,7 @@ title = "एतस्य रहसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतस्य रहसि वक्षसि सरसिजपत्त्रेण ताडितस्यापि।  
 दयितस्य वीक्ष्य हसितं प्रियसखि हसितं ममाप्यासीत्॥

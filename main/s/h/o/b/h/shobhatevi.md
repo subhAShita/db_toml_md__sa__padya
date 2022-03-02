@@ -6,7 +6,7 @@ title = "शोभते विदुषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शोभते विदुषां मध्ये नैव निर्गुणमानसः।  
 अन्तरे तमसां दीपः शोभते नार्कतेजसाम्॥

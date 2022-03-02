@@ -6,7 +6,7 @@ title = "वाताच्छीतिररिध्रोऽहं वो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाताच्छीतिररिध्रोऽहं वो हरतान्महासुरीदयितः।  
 व्रीडव्राज्यानौका वार्वाहाभोऽसमस्तानाः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9295", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 12",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "काकतालीययोगेन यदनात्मवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकतालीययोगेन यदनात्मवति क्षणम्।  
 करोति प्रणयं लक्ष्मीस् तत् तस्याः स्त्रीत्वचापलम्॥

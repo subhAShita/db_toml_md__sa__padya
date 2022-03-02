@@ -6,7 +6,7 @@ title = "रणे बाणगणैर्भिन्ना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रणे बाणगणैर्भिन्ना भ्रमन्तो भिन्नयोधिनः।  
 निममज्जुर्गलद्रक्तनिमग्नासु महागजाः॥

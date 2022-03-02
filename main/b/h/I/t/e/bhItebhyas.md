@@ -5,7 +5,7 @@ title = "भीतेभ्यश् चाभयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भीतेभ्यश् चाभयं देयं व्याधितेभ्यस् तथौषधम्।  
 देया विद्यार्थिनां विद्या देयमन्नं क्षुधातुरे॥

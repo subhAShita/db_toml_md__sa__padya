@@ -6,7 +6,7 @@ title = "चक्षुःपूतं न्यसेत्पादम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चक्षुःपूतं न्यसेत्पादं वस्त्रपूतं जलं पिबेत्।  
 सत्यपूतां वदेद्वाणीं मनःपूतं समाचरेत्॥

@@ -5,7 +5,7 @@ title = "अधिरजनि प्रिअयसविधे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिरजनि प्रिअयसविधे कथ्मपि संवेशिता बलाद् गुरुभिः।  
 किं भवितेति सशङ्कं पङ्कजनयना परामृशति॥

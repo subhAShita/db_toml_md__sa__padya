@@ -7,7 +7,7 @@ title = "स एकस्त्रीणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स एकस्त्रीणि जयति जगन्ति कुसुमायुधः।  
 हरतापि तनुं यस्य शम्भुना न हृतं बलम्॥

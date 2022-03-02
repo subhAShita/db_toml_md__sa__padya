@@ -5,7 +5,7 @@ title = "अहो स्त्रीप्रेरणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो स्त्रीप्रेरणा नाम रजसालङ्घितात्मनाम्।  
 पुंसां वात्येव सरसामाशयक्षोभकारिणी॥

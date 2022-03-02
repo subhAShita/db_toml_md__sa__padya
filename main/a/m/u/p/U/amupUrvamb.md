@@ -5,7 +5,7 @@ title = "अणुपूर्वं बृहत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अणुपूर्वं बृहत् पश्चाद् भवत्यार्येषु संगतम्।  
 विपरीतमनार्येषु यथेच्छसि तथा कुरु॥

@@ -6,7 +6,7 @@ title = "भागीरथी कथम्भूता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भागीरथी कथम्भूता कामिनी प्राह किं प्रियम्।  
 एकमेवोत्तरं देहि शास्त्रलौकिकभाषया॥

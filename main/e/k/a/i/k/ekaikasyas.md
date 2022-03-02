@@ -5,7 +5,7 @@ title = "एकैकस्य शरस्यैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकैकस्य शरस्यैव चतुष्पक्षाणि योजयेत्।  
 षडङ्गुलप्रमाणेन पक्षच्छेदं च कारयेत्॥

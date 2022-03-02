@@ -7,7 +7,7 @@ title = "वृक्षमूलेऽपि दयिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृक्षमूलेऽपि दयिता यत्र तिष्ठति तद्गृहम्।  
 प्रसादोऽपि तया हीनो ह्यरण्यसदृशः स्मृतः॥

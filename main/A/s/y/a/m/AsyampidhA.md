@@ -5,7 +5,7 @@ title = "आस्यं पिधाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्यं पिधाय सकलं विरलाङ्गुलिना करेण सघ्राणम्।  
 अयमुच्चरद्दकारं मनोहरं ज्योत्करोति शिशुः॥

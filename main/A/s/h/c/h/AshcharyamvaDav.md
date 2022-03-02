@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_5467",]
-jsonClass = "Subhaashita"
 topics = [ "उपकर्ता", "उपकार-शक्तिः",]
 sources = [ "केशटः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "आश्चर्यं वडवानलः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आश्चर्यं वडवानलः स भगवानाश्चर्यमम्भोनिधिर् यत्कर्मातिशयं विचिन्त्य हृदये कम्पः समुत्पद्यते।  
 एकस्याश्रयघस्मरस्य पिबतस्तृप्तिर्न जाता जलैर् अन्यस्यापि महात्मनो न वपुषि स्वल्पोऽपि तोयव्ययः॥

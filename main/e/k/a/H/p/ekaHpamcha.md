@@ -5,7 +5,7 @@ title = "एकः पञ्चत्वमासाद्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकः पञ्चत्वमासाद्य जायते पुनरष्टधा।  
 अहो वाणिज्यसंपत्तिः काशीपुरनिवासिनाम्॥

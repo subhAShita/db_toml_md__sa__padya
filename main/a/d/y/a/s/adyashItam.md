@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0864", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७४ हेमन्तवर्णनम्// ०१ हेमन्तसमयस्वभावाख्यानम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "हेमन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अद्य शीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्य शीतं वरिवर्ति सरीसर्ति समीरणः।  
 अपत्नीको मरीमर्ति नरीनर्ति कुचोष्णवान्॥

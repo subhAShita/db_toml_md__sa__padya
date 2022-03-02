@@ -6,7 +6,7 @@ title = "तवाग्रतो वीर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तवाग्रतो वीर महीमहेन्द्र मन्दं गजाः शृङ्खलिनो विभान्ति।  
 आवासदानादरिभूपतीनामाशान्तशैला इव सापराधाः॥

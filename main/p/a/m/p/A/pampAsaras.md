@@ -6,7 +6,7 @@ title = "पम्पासरसि रामेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पम्पासरसि रामेण सस्नेहं सविलासया।  
 सीतया किं कृतं सार्धमत्रैवोत्तरमीक्ष्यताम्॥

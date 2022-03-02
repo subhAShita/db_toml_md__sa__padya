@@ -6,7 +6,7 @@ title = "महतां यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतां यदि निन्दने रतिर्गुणसङ्ख्यैव तदा विधीयताम्।  
 असतामपि चेत्स्तवे रतिर्ननु तद्दूषणमेव गण्यताम्॥

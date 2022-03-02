@@ -6,7 +6,7 @@ title = "वर्णनदयितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्णनदयितः कश्चिद्धनदयितो दानकर्मदयितोऽन्यः।  
 रक्षादयितश्चान्यो वेश्यानां नर्मदयितोऽन्यः॥

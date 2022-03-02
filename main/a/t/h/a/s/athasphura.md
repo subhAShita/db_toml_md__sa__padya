@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0779", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०३ जलकेलिः// 72",]
-jsonClass = "Subhaashita"
 topics = [ "जलकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अथ स्फुरन्मीनविधूतपङ्कजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ स्फुरन्मीनविधूतपङ्कजा विकङ्कतीरस्खलितोर्मिसंहतिः।  
 पयोऽवगाढुं कलहंसनादिनी समाजुहावेव वधूः सुरापगा॥

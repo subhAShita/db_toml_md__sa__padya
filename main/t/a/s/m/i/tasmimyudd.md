@@ -6,7 +6,7 @@ title = "तस्मिन्युद्धे क्षणेनैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मिन्युद्धे क्षणेनैव त्वरितो वानरध्वजः।  
 सरथं सध्वजं साश्वं भीष्ममन्तर्दधे शरैः॥

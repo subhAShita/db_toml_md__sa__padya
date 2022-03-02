@@ -6,7 +6,7 @@ title = "गुणानामेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणानामेव दौरात्म्याद्धुरि धुर्यो नियुज्यते।  
 असञ्जातकिणस्कन्धः सुखं स्वपिति गौर्गलिः॥

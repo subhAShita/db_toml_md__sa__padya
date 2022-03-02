@@ -6,7 +6,7 @@ title = "बिभ्राणा गरलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिभ्राणा गरलं कण्ठे भुजङ्गपरिवेष्टिता।  
 शाम्भवीव तनुः कस्य न वन्द्या दौर्जनी सभा॥

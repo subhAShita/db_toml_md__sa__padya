@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_2897",]
-jsonClass = "Subhaashita"
 topics = [ "भावप्रधानता",]
 sources = [ "नीलकण्ठः - शिवोत्कर्षणमञ्जरी",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अर्चामीति धिया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्चामीति धिया यदेव कुसुमं क्षिप्त्वा जनो मुच्यते विध्यामीति धिया तदेव विकिरन् भस्मीकृतो मन्मथः।  
 इत्याभ्यन्तरवृत्तिमात्ररसिको बाह्यानपेक्षश्च यः स स्वामी मम दैवतं तदितरो नाम्नापि नाम्नायते॥

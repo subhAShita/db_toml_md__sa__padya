@@ -7,7 +7,7 @@ title = "स्त्रीणां द्विगुण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रीणां द्विगुण आहारो लज्जा चापि चतुर्गुणा।  
 साहस्रं षङ्गुणं चैव कामश्चाष्टगुणः स्मृतः॥

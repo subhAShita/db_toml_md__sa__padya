@@ -7,7 +7,7 @@ title = "गूहितान्यन्तरश्रूणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गूहितान्यन्तरश्रूणि त्वत्कृते कणशो मया ।  
 प्रणयिन्यधुना जाते सागरौ मम लोचने ॥

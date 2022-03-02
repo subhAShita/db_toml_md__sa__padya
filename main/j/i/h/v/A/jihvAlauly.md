@@ -6,7 +6,7 @@ title = "जिह्वालौल्यप्रसक्तानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जिह्वालौल्यप्रसक्तानां जलमध्यनिवासिनाम्।  
 अचिन्तितो वधोऽज्ञानां मीनानामिव जायते॥

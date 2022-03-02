@@ -6,7 +6,7 @@ title = "धनाशया खलीकारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनाशया खलीकारः कस्य नाम न जायते।  
 दूरादामिषलोभेन वध्यते खेचरः खगः॥

@@ -6,7 +6,7 @@ title = "गुणिनः समीपवर्ती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणिनः समीपवर्ती पूज्यो लोकस्य गुणविहीनोऽपि।  
 विमलेक्षणप्रसङ्गादञ्जनमाप्नोति काणाक्षि॥

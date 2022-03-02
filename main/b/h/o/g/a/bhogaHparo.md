@@ -6,7 +6,7 @@ title = "भोगः परोपतापेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगः परोपतापेन पुंसां दुःखाय न स्थिरः।  
 पानमप्यसृजः क्षिप्रं स्वपीडायै जलौकसाम्॥

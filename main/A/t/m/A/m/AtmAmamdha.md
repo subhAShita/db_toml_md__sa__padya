@@ -5,7 +5,7 @@ title = "आत्मानं धर्मकृत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं धर्मकृत्यं च पुत्रदारांश्च पीडयन्।  
 देवतातिथिभृत्यांश्च स कदर्य इति स्मृतः॥

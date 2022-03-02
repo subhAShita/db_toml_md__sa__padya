@@ -5,7 +5,7 @@ title = "ऋणदैः स्वजनैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणदैः स्वजनैः पुत्रैर् लब्धक्षामप्रतिग्रहः।  
 नित्यमायास्यते येन कलिदानेन तेन किम्॥

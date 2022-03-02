@@ -5,7 +5,7 @@ title = "अविदग्धः पतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविदग्धः पतिः स्त्रीणां प्रौढाणां नायको गुणी।  
 गुणिनां त्यागिनां स्तोको विभवश्चेति दुःखकृत्॥

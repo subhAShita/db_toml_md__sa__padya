@@ -7,7 +7,7 @@ title = "भिक्षितकमलकुटुम्बाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भिक्षितकमलकुटुम्बाः शिक्षितगजगामिनीगतयः।  
 लक्षितहिमगिरिपादाः प्रातरमी मातरिश्वानः॥

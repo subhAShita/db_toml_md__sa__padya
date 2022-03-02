@@ -5,7 +5,7 @@ title = "अपि नित्यानन्दमयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि नित्यानन्दमयं सहः श्रियं वहति संततं हृदये।  
 कः साधारणपुरुषः प्रभवत्वेनामनादर्त्तुम्॥

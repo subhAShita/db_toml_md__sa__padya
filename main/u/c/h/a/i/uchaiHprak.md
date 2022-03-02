@@ -5,7 +5,7 @@ title = "उच्चैः प्रकथनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्चैः प्रकथनं हासः ष्ठीवनं कुत्सनं तथा।  
 जृम्भणं गात्रभ गं च पर्वस्फोटं च वर्जयेत्॥

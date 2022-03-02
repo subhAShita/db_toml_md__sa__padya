@@ -6,7 +6,7 @@ title = "भवानिशङ्करोमेशं प्रति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवानिशङ्करोमेशं प्रति पूजापरायणः।  
 कर्तृकर्मक्रियागुप्तं जानाति स पण्डितः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9397", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 64",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "कानने सरिदुद्देशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कानने सरिदुद्देशे गिरीणामपि कन्दरे।  
 पश्यन्त्यन्तकसंकाशं त्वामेकं रिपवः पुरः॥

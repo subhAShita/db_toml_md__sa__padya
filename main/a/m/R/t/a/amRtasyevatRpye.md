@@ -5,7 +5,7 @@ title = "अमृतस्येव तृप्येत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतस्येव तृप्येत अपमानस्य योगवित्।  
 विषवच्च जुगुप्सेत संमानस्य सदा द्विजः॥

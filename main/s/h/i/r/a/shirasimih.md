@@ -6,7 +6,7 @@ title = "शिरसि निहितोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिरसि निहितोऽपि नित्यं यत्नादपि सेवितो बहुस्नेहैः।  
 तरुणीकच इव नीचः कौटिल्यं नैव विजहाति॥

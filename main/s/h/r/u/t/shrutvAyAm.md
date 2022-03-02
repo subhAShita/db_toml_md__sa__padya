@@ -7,7 +7,7 @@ title = "श्रुत्वायान्तं बहिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रुत्वायान्तं बहिः कान्तमसमाप्तविभूषया।  
 भालेऽञ्जनं दृशोर्लाक्षा कपोले तिलकः कृतः॥

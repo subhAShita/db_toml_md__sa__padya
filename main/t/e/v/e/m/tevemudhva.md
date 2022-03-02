@@ -7,7 +7,7 @@ title = "ते वेणुध्वनयोऽधुनापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ते वेणुध्वनयोऽधुनापि यमुनाकूले श्रुतेर्गोचरा  
 उन्मीलद्वनमालिकासुरभयो वाता वहन्त्येव ते ।  

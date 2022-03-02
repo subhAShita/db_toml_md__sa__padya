@@ -6,7 +6,7 @@ title = "नारी परमुखद्रष्ट्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नारी परमुखद्रष्ट्री कविरव्यवहारवित्।  
 अपथ्यसेवी रोगी च कियद्भिर्नोपहस्यते॥

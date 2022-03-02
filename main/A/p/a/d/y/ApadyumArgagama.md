@@ -6,7 +6,7 @@ title = "आपद्युन्मार्गगमने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपद्युन्मार्गगमने कार्यकालात्ययेषु च।  
 कल्याणवचनं ब्रूयादपृष्टोऽपि हितो नरः॥

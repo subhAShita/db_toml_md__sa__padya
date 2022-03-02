@@ -7,7 +7,7 @@ title = "किं कवेस्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं कवेस्तस्य काव्येन किं काण्डेन धनुष्मतः।  
 परस्य हृदये लग्नं न घूर्णयति यच्छिरः॥

@@ -6,7 +6,7 @@ title = "यावज्जीवेत्सुखं जीवेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यावज्जीवेत्सुखं जीवेत् ऋणं कृत्वा घृतं पिबेत् ।  
 भस्मीभूतस्य देहस्य पुनरागमनं कुतः ॥

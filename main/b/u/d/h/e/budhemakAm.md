@@ -7,7 +7,7 @@ title = "बुधेन कामदेवेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुधेन कामदेवेन प्रेमसूत्रेण मे त्वयि।  
 सर्वादेशोsश्रुणोsकारि निद्रास्थानेषु नेत्रयोः॥

@@ -6,7 +6,7 @@ title = "सत्येन ब्रह्मचर्येण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्येन ब्रह्मचर्येण स्वाध्यायेनाथ विद्यया।  
 देशभक्त्यात्मत्यागेन सम्मानार्हः सुखी भव॥

@@ -6,7 +6,7 @@ title = "गङ्गाम्भसि सुरत्राण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गङ्गाम्भसि सुरत्राण तव निःसाणनिः-स्वनः।  
 स्नातीवारिवधूवर्गगर्भपातनपातकी॥

@@ -6,7 +6,7 @@ title = "स्वाधीने माधुर्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वाधीने माधुर्ये मधुराक्षरसंहितेषु वाक्येषु।  
 किं नाम सत्त्ववन्तः पुरुषाः परुषाणि भाषन्ते॥

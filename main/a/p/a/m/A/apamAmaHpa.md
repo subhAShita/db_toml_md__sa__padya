@@ -5,7 +5,7 @@ title = "अपमानः पतिविहितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपमानः पतिविहितो गुरुपरिकरतीव्रता गृहे दौःस्थ्यम्।  
 शीलक्षतये यासां तासामतिरागतोऽन्यनररक्तिः॥

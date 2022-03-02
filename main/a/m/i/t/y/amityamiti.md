@@ -5,7 +5,7 @@ title = "अनित्यमिति जानन्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनित्यमिति जानन्तो न भवन्ति भवन्ति च।  
 अथ येनैव कुर्वन्ति नैव जातु भवन्ति ते॥

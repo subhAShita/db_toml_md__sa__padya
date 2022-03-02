@@ -6,7 +6,7 @@ title = "कोऽपवादः स्तुतिपदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोऽपवादः स्तुतिपदे यदशीलेषु चञ्चलाः।  
 साधुवृत्तानपि क्षुद्रा विक्षिपन्त्येव सम्पदः॥

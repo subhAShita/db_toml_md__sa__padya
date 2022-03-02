@@ -7,7 +7,7 @@ title = "लम्भिताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लम्भिताः कदलीस्तम्भास्तदूरुभ्यां पराभवम्।  
 अत्यन्तमृदुभिर्लब्धो जडैः क्व जयडिण्डिमः॥

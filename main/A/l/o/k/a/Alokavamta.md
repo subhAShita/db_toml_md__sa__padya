@@ -6,7 +6,7 @@ title = "आलोकवन्तः सन्त्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलोकवन्तः सन्त्येव भूयांसो भास्करादयः।  
 कलावानेव तु ग्रावद्रावकर्मणि कर्मठः॥

@@ -5,7 +5,7 @@ title = "अपकारिणि विस्रम्भम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपकारिणि विस्रम्भं यः करोति नराधमः।  
 अनाथो दुर्बलो यद्वन् न चिरं स तु जीवति॥

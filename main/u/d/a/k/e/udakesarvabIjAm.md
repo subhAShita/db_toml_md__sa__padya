@@ -5,7 +5,7 @@ title = "उदके सर्वबीजानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदके सर्वबीजानि सर्वे देवा हुताशने।  
 कलत्रे सर्वसौख्यानि सर्वदानानि ब्राह्मणे॥

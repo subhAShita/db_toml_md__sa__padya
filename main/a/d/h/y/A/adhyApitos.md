@@ -5,7 +5,7 @@ title = "अध्यापितोऽसि केनैताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अध्यापितोऽसि केनैतां मशक क्षुद्रतामिह।  
 यस्यैव कर्णे लगसि पीडां तस्य करोषि यत्॥

@@ -6,7 +6,7 @@ title = "वेधा वेदनयाश्लिष्टो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेधा वेदनयाश्लिष्टो गोविन्दोऽपि गदान्वितः।  
 शम्भुः शूली विषादी च देव केनोपमीयसे॥

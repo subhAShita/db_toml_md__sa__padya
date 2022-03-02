@@ -5,7 +5,7 @@ title = "अहो मायाबलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो मायाबलं विष्णोः स्नेहबद्धमिदं जगत्॥
 </details>

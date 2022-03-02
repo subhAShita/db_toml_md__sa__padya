@@ -5,7 +5,7 @@ title = "कलानिधिकरस्पर्शात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलानिधिकरस्पर्शात् प्रसन्नोल्लासितारका।  
 बिम्रणाम्बरमानीलं कामिनी यामिनीयते॥

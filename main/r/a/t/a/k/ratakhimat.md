@@ -7,7 +7,7 @@ title = "रतखिन्नतराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रतखिन्नतरां प्रातर्लज्जानम्रमुखीं वधूम्।  
 स्मरन्तीं रात्रिचरितं दृष्ट्वाप्नोति न को मुदम्॥

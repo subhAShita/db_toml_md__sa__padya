@@ -5,7 +5,7 @@ title = "उत्तमभुजङ्गसङ्गम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमभुजंगसंगम- निस्पन्दनितम्बचापलस्तस्याः।  
 मन्दरगिरिरिव विबुधैर् इतस्ततः कृष्यते कायः॥

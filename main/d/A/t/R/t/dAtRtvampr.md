@@ -6,7 +6,7 @@ title = "दातृत्वं प्रियवक्तृत्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दातृत्वं प्रियवक्तृत्वं धीरत्वमुचितज्ञता।  
 अभ्यासेन न लभ्येयुश्चत्वारः सहजा गुणाः॥

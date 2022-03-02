@@ -5,7 +5,7 @@ title = "अयमवसर उपकृतये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमवसर उपकृतये प्रकृतिचला यावदस्ति संपदियम्।  
 विपदि सदाभ्युदयिन्यां पुनरुपकर्तुं कुतोऽवसरः॥

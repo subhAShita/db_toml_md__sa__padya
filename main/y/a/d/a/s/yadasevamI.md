@@ -6,7 +6,7 @@ title = "यदसेवनीयमसताममृतप्रायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदसेवनीयमसताममृतप्रायं सुवर्णविन्यासम्।  
 सुरसार्थमयं काव्यं त्रिविष्टपं वा समं विद्मः॥

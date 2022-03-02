@@ -5,7 +5,7 @@ title = "अज्ञश्चाश्रद्दधानश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति।  
 नायं लोकोऽस्ति न परो न सुखं संशयात्मनः॥

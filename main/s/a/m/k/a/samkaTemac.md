@@ -6,7 +6,7 @@ title = "सङ्कटे न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्कटे न च गन्तव्यं विषमे न कदाचन।  
 महापथे न गन्तव्यं गन्तव्यं चात्मनः पथम्॥

@@ -6,7 +6,7 @@ title = "मूर्खस्य पञ्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खस्य पञ्च चिह्नानि गर्वो दुर्वचनं तथा ।  
 क्रोधश्च दृढवादश्च परवाक्येष्वनादरः ॥

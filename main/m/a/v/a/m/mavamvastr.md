@@ -6,7 +6,7 @@ title = "नवं वस्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवं वस्त्रं नवं छत्रं नव्या स्त्री नूतनं गृहम्।  
 सर्वत्र नूतनं शस्तं सेवकान्ने पुरातने॥

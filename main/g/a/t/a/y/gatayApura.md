@@ -7,7 +7,7 @@ title = "गतया पुरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतया पुरः प्रतिगवाक्षमुखं दधती रतेन भृशमुत्सुकताम्।  
 मुहुरन्तरालभुवमस्तगिरेः सवितुश्च योषिदमिमीत दृशा॥

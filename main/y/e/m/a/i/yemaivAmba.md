@@ -6,7 +6,7 @@ title = "येनैवाम्बरखण्डेन संवीतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येनैवाम्बरखण्डेन संवीतो निशि चन्द्रमाः।  
 तेनैव च दिवा भानुरहो दौर्गत्यमेतयोः॥

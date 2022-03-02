@@ -6,7 +6,7 @@ title = "दुर्लभोऽप्युत्तमः प्रायः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्लभोऽप्युत्तमः प्रायः स्वजातीयेन लभ्यते।  
 कर्णकोटरगं वारि वारिणैवावकृष्यते॥

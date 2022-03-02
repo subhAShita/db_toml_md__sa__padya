@@ -5,7 +5,7 @@ title = "एकविंशतिरादिष्टाः नरकाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकविंशतिरादिष्टाः नरकाः शास्त्रपारगैः।  
 गर्भवाससमीपे ते कलां नार्हन्ति षोडशीम्॥

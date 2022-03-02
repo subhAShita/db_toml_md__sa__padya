@@ -7,7 +7,7 @@ title = "रञ्जिता नु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रञ्जिता नु विविधास्तरुशैला नामितं नु गगनं स्थगितं नु।  
 पूरिता नु विषमेषु धरित्री संहृता नु ककुभस्तिमिरेण॥

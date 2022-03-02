@@ -6,7 +6,7 @@ title = "याता लोचनगोचरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 याता लोचनगोचरं यदि विधेर् एणेक्षणा सुन्दरी  
 नेयं कुङ्कुमपङ्कपिञ्जरमुखी तेनोज्झिता स्यात् क्षणम् /  

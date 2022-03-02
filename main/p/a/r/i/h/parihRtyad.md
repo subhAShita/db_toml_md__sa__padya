@@ -7,7 +7,7 @@ title = "परिहृत्य दुरारोहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिहृत्य दुरारोहं तस्याः स्तनतटं कुता।  
 कन्दर्परथसंचारमार्गालीव वलित्रयी॥

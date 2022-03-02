@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1123", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०७ विचारः// 232",]
-jsonClass = "Subhaashita"
 topics = [ "तत्त्वज्ञानम्",]
+jsonClass = "Subhaashita"
 title = "अधीत्य चतुरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीत्य चतुरो वेदान् व्याकृत्याष्टादश स्मृतीः।  
 अहो श्रमस्य वैफल्यम् आत्मापि कलितो न चेत्॥

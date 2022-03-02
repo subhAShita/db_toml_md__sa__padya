@@ -5,7 +5,7 @@ title = "कालो विकुरुते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालो विकुरुते भावान् सर्वांल्लोके शुभाशुभान्।  
 कालः संक्षिपते सर्वाः प्रजा विसृजते पुनः॥

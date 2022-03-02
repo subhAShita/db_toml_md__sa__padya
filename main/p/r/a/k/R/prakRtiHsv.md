@@ -6,7 +6,7 @@ title = "प्रकृतिः स्वामिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकृतिः स्वामिनं त्यक्त्वा समृद्धापि न जीवति।  
 अपि धन्वन्तरिर्वैद्यः किं करोति गतायुषि॥

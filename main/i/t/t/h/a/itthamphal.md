@@ -5,7 +5,7 @@ title = "इत्थं फलति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं फलति शुद्धेन सिक्तं संकल्पवारिणा।  
 पुण्यबीजमपि स्वल्पं पुंसां कृषिकृतामिव॥

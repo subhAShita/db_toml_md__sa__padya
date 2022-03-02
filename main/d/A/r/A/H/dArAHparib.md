@@ -6,7 +6,7 @@ title = "दाराः परिभवकारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दाराः परिभवकारा बन्धुजनो बन्धनं विषं विषयाः।  
 कोऽयं जनस्य मोहो ये रिपवस्तेषु सुहृदाशा॥

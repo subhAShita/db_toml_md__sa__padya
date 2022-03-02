@@ -7,7 +7,7 @@ title = "हृदयं हरन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हृदयं हरन्ति नार्यो मुनेरपि भ्रूकटाक्षविक्षेपैः।  
 दोर्मूलनाभिदेशं प्रदर्शयन्त्यो महाचपलाः॥

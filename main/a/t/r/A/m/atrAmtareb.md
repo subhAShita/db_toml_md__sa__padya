@@ -7,15 +7,15 @@ title = "अत्रान्तरे"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-Then dancing its eyebrows of quivering bees, Spring— Death for separated lovers— came.
+अत्रान्तरे भ्रमद्भृङ्गमालाभ्रूभङ्गविभ्रमः ।  
+कालः प्रोषितकान्तानां पुष्पकालः समाययौ ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-अत्रान्तरे भ्रमद्भृङ्गमालाभ्रूभङ्गविभ्रमः ।  
-कालः प्रोषितकान्तानां पुष्पकालः समाययौ ॥
+Then dancing its eyebrows of quivering bees, Spring— Death for separated lovers— came.
 </details>

@@ -6,7 +6,7 @@ title = "पिबतस्ते शरावेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिबतस्ते शरावेण वारि कह्लारशीतलम्।  
 केनेमौ दुर्विदग्धेन हृदये सन्निरोपितौ॥

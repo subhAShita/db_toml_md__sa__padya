@@ -5,7 +5,7 @@ title = "आतुरे च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आतुरे च पिता वैद्यः स्वस्थीभूते च बान्धवः।  
 गते रोगे कृते स्वास्थ्ये वैद्यो भवति पालकः॥

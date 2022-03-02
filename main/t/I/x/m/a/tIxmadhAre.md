@@ -6,7 +6,7 @@ title = "तीक्ष्णधारेण खड्गेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तीक्ष्णधारेण खड्गेन वरं जिह्वा द्विधाकृता।  
 न तु मानं परित्यज्य देहि देहीति भाषितम्॥

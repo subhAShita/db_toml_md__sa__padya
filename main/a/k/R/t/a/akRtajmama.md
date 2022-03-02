@@ -5,7 +5,7 @@ title = "अकृतज्ञमनार्यं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृतज्ञमनार्यं च दीर्घरोषमनार्जवम्।  
 चतुरो विद्धि चाण्डालाञ् जात्या जायेत पञ्चमः॥

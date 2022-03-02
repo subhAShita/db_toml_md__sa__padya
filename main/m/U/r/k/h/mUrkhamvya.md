@@ -6,7 +6,7 @@ title = "मूर्खं व्यसनिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खं व्यसनिनं लुब्धमप्रगल्भं भयाकुलम्।  
 क्रूरमन्यायकर्तारं नाधिपत्ये नियोजयेत्॥

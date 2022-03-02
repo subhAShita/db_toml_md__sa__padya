@@ -6,7 +6,7 @@ title = "वंशावलम्बनं यद्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वंशावलम्बनं यद्यो विस्तारो गुणस्य या च नतिः।  
 तज्जालस्य खलस्य च निजाङ्कसुप्तप्रणाशाय॥

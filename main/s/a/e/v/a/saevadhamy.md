@@ -6,7 +6,7 @@ title = "स एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स एव धन्यो विपदि स्वरूपं यो न मुञ्चति।  
 त्यजन्त्यर्ककरैस्तप्तं हिमं देहं न शीतताम्॥

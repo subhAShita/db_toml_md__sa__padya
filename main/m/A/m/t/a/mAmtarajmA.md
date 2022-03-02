@@ -6,7 +6,7 @@ title = "नान्तरज्ञाः श्रियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नान्तरज्ञाः श्रियो जातु प्रियैरासां न भूयते।  
 आसक्तास्तास्वमी मूढा वामशीला हि जन्तवः॥

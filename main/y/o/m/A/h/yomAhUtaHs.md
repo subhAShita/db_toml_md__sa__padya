@@ -6,7 +6,7 @@ title = "योऽनाहूतः समभ्येति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योऽनाहूतः समभ्येति द्वारे तिष्ठति सर्वदा।  
 पृष्टः सत्यं मितं ब्रूते स भृत्योऽर्हो महीभुजाम्॥

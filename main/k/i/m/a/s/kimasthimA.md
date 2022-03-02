@@ -6,7 +6,7 @@ title = "किमस्थिमालां किमु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमस्थिमालां किमु कौस्तुभं वा  
 परिष्क्रियायां बहुमन्यसे त्वम् ।  

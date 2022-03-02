@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8652", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०४ अद्भुतरसनिर्देशः// 10",]
-jsonClass = "Subhaashita"
 rasas = [ "अद्भुतः",]
+jsonClass = "Subhaashita"
 title = "कमलमनम्भसि कमले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलमनम्भसि कमले च कुवलये तानि कनकलतिकायाम्।  
 सा च सुकुमारसुभगेत्य् उत्पातपरम्परा केयम्॥

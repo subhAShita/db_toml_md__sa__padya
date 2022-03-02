@@ -7,7 +7,7 @@ title = "मदनस्य मधुरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मदनस्य मधुरिव मधोर्वनान्त इव चूत इव वनान्तस्य ।  
 चूतस्य पिक इव भवान् कृतार्थतायै ममाधुना जातः ॥

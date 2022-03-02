@@ -6,7 +6,7 @@ title = "चित्रं तपति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चित्रं तपति राजेन्द्र प्रतापतपनस्तव।  
 अनातपत्रमुत्सृज्य सातपत्रं द्विषद्गणम्॥

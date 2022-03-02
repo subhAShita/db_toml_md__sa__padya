@@ -5,7 +5,7 @@ title = "अपरतरुनिकरमुक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपरतरुनिकरमुक्तं मरुमण्डलमावसत्यसावेकः।  
 फलकुसुमैरुपकुर्वन्न् अररे करीर कथं धीरः॥

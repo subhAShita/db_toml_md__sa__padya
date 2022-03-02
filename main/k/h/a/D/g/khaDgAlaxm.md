@@ -6,7 +6,7 @@ title = "खड्गाल्लक्ष्मीस्तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गाल्लक्ष्मीस्तथा राज्यं यशः खड्गादवाप्यते।  
 खड्गाद्वैरिविनाशं च यत्नात्तमभिदध्महे॥

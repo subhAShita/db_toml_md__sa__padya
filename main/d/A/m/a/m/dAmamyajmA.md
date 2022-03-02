@@ -7,7 +7,7 @@ title = "दानं यज्ञाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानं यज्ञाः सतां पूजा वेदधारणमार्जवम्।  
 एष धर्मः परो राजन् सफलः प्रेत्य चेह च॥  

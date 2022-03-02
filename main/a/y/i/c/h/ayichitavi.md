@@ -5,7 +5,7 @@ title = "अयि चित्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि चित्त वित्तलेशे सहजप्रेम्णा कियन्नु लुब्धमसि।  
 न तथापि तद्वियोगः केवलमास्ते शिवेनापि॥

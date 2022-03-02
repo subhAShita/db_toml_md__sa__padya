@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3737", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७७ सतीवर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "सती",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असारभूते संसारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असारभूते संसारे सारभूता नितम्बिनी।  
 इति संचिन्त्य वै शंभुर् अर्धाङ्गे कामिनीं दधौ॥

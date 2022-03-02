@@ -6,7 +6,7 @@ title = "कोलाकृतिरपारेवो मोरोहंसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोलाकृतिरपारेवो मोरोहंसो जलोदरी।  
 कंसारिरात्तलीलो वा वाघलो भूकलोऽवतु॥

@@ -6,7 +6,7 @@ title = "सगुणैः सेवितोपान्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सगुणैः सेवितोपान्तो विनतैः प्राप्तदर्शनः।  
 नीचोऽपि कूपः सत्पात्रैर्जीवनार्थं समाश्रितः॥

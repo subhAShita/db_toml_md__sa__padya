@@ -5,7 +5,7 @@ title = "कस्तूरीतिलकं बाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्तूरीतिलकं बाले भाले मा कुरु मा कुरु।  
 कलङ्कशङ्कया राहुर् ग्रसिष्यति तवाननम्॥

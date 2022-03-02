@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3963", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ३३ भोजः// 79",]
-jsonClass = "Subhaashita"
 topics = [ "राजा", "भोजः",]
+jsonClass = "Subhaashita"
 title = "अस्य श्रीभोजराजस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्य श्रीभोजराजस्य द्वयमेव सुदुर्लभम्।  
 शत्रूणां शृङ्खलैर्लोहं ताम्रं शासनपत्रकैः॥

@@ -5,7 +5,7 @@ title = "एकं वदति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं वदति मनो मम यामि न यामीति हृदयमपरं मे।  
 हृदयद्वयमुचितं तव सुन्दरि हृतकान्तचित्तायाः॥

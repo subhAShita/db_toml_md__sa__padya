@@ -5,7 +5,7 @@ title = "आदानं चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदानं चैव तूणीरात् संधानं कर्षणं तथा।  
 क्षेपणं च त्वरायुक्तो बाणस्य कुरुते तु यः।  

@@ -6,7 +6,7 @@ title = "ययोरारोपितस्तारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ययोरारोपितस्तारो हारस्तेऽरिवधूजनैः।  
 निधीयन्ते तयोः स्थूलाः स्तनयोरश्रुबिन्दवः॥

@@ -6,7 +6,7 @@ title = "नास्माकं जननी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्माकं जननी तथोज्ज्वल-कुला सत्-श्रोत्रियाणां पुनः  
 व्यूढा काचन कन्यका खलु मया तेनास्मि ताताधिकः ।  

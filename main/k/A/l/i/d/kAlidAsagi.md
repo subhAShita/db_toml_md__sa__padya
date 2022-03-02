@@ -6,7 +6,7 @@ title = "कालिदासगिरां सारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालिदासगिरां सारं कालिदासः सरस्वती ।  
 चतुर्मुखोऽथवा साक्षाद्विदुर्नान्ये तु मादृशाः ॥

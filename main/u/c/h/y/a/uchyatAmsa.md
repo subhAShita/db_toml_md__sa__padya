@@ -5,7 +5,7 @@ title = "उच्यतां स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्यतां स वचनीयमशेषं नेश्वरे परुषता सखि साध्वी।  
 आनयैनमनुनीय, कथं वा विप्रियाणि जनयन्ननुनेयः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9261", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 958",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "कस्यापि कोऽप्यतिशयोऽस्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्यापि कोऽप्यतिशयोऽस्ति स तेन लोके ख्यातिं प्रयाति न हि सर्वविदस् तु सर्वे।  
 किं केतकी फलति किं पनसः सुपुष्पः किं नागवल्ल्यपि च पुष्पफलैरुपेता॥

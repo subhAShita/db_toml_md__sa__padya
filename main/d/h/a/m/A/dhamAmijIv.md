@@ -6,7 +6,7 @@ title = "धनानि जीवितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनानि जीवितं चैव परार्थे प्राज्ञ उत्सृजेत्।  
 तन्निमित्तो वरं त्यागो विनाशे नियते सति॥

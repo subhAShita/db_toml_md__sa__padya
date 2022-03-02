@@ -5,7 +5,7 @@ title = "अर्थेन परिहीणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थेन परिहीणं तु नरमस्पृश्यतां गतम्।  
 त्यजन्ति बान्धवाः सर्वे मृतं सत्त्वमिवासवः॥

@@ -6,7 +6,7 @@ title = "रे रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे रे क्षत्रकुलाधम! -- प्रकटितं ब्राह्मण्यमस्त्रेण ते  
 नन्वेकां रजनीचरीं त्वम् अवधीः -- मता न मे, ताटका ।  

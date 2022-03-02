@@ -6,7 +6,7 @@ title = "पुत्रपौत्रगुणोपेतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुत्रपौत्रगुणोपेतः शास्त्रज्ञो मृष्टपाचकः।  
 शूरश्च कठिनश्चैव सूपकारः स इष्यते॥

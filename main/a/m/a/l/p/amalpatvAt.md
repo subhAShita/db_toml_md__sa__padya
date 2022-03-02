@@ -5,7 +5,7 @@ title = "अनल्पत्वात् प्रधानत्वाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनल्पत्वात् प्रधानत्वाद् वंशस्येवेतरे स्वराः।  
 विजिगीषोर्नृपतयः प्रयान्ति परिवारताम्॥

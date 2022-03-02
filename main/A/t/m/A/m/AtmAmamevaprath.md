@@ -5,7 +5,7 @@ title = "आत्मानमेव प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानमेव प्रथमम् इच्छेद् गुणसमन्वितम्।  
 कुर्वीत गुणसंपन्नस् ततः शेषपरीक्षणम्॥

@@ -1,13 +1,13 @@
 +++
 topics = [ "नीतिः", "सुखम्", "दुःखम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 678",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "व्यसनानन्तरं सौख्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यसनानन्तरं सौख्यं स्वल्पमप्यधिकं भवेत्।  
 काषायरसमास्वाद्य स्वाद्वतीवाम्बु विन्दते॥

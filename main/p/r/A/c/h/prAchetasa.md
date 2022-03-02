@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ३२ कविवृन्दम्// 66",]
-jsonClass = "Subhaashita"
 topics = [ "कविवृन्दम्",]
+jsonClass = "Subhaashita"
 title = "प्राचेतसव्यासपराशराद्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राचेतसव्यासपराशराद्याः प्राञ्चः कवीन्द्रा जगदञ्चितास्ते।  
 गोष्ठी नवीनापि महाकवीनां पूज्या गुणज्ञैर्भुवनोपकर्त्री॥

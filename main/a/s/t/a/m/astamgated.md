@@ -5,7 +5,7 @@ title = "अस्तङ्गते दिवानाथे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्तंगते दिवानाथे नलिनी मधुपच्छलात्।  
 गिलन्ति स्वविनाशाय गुटिकां कालकूटजाम्॥

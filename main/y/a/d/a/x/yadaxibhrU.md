@@ -6,7 +6,7 @@ title = "यदक्षिभ्रूलतापाङ्गैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदक्षिभ्रूलतापाङ्गैः स्त्रियः कुर्वन्ति चापलम्।  
 जघनेष्वेव तत्सर्वं पतत्यनपराधिषु॥

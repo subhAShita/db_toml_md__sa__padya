@@ -6,7 +6,7 @@ title = "सकृदपि दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सकृदपि दृष्ट्वा पुरुषं विबुधा जानन्ति सारतां तस्य।  
 हस्ततुलयापि निपुणाः पलप्रमाणं विजानन्ति॥

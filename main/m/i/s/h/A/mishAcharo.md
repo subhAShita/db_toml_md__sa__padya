@@ -6,7 +6,7 @@ title = "निशाचरोऽपि दीनोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निशाचरोऽपि दीनोऽपि सकलङ्गोऽपि चन्द्रमाः।  
 चकोरीनयनद्वन्द्वमानन्दयति सर्वदा॥

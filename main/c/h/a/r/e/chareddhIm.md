@@ -6,7 +6,7 @@ title = "चरेद्धीमानकटको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चरेद्धीमानकटको युञ्जेत्स्नेहं न नास्तिकः।  
 अनृशंसश्चरेदर्थं चरेत्कार्यमनुद्धतः॥

@@ -5,7 +5,7 @@ title = "अजवच्चर्वणं कुर्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजवच्चर्वणं कुर्याद् गजवत् स्नानमाचरेत्।  
 राजवत् प्रविशेद्ग्रामं चोरवद्गमनं चरेत्॥

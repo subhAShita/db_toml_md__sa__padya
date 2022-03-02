@@ -5,7 +5,7 @@ title = "अप्रियोऽपि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रियोऽपि हि पथ्यः स्याद् इति वृद्धानुशासनम्।  
 वृद्धानुशासने तिष्ठन् प्रियतामुपगच्छति॥

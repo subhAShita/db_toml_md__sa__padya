@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9644", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०३ विहारः// 22",]
-jsonClass = "Subhaashita"
 topics = [ "विहारः",]
 rasas = [ "शृङ्गारः",]
-title = "कामिनः"
+jsonClass = "Subhaashita"
+title = "कामिनः कृतरतोत्सवकाल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिनः कृतरतोत्सवकाल- क्षेपमाकृलवधूकरसङ्गि।  
 मेखलागुणविलग्नमसूयां दीर्घसूत्रमकरोत् परिधानम्॥

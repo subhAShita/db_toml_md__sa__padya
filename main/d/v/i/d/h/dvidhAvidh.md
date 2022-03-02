@@ -7,7 +7,7 @@ title = "द्विधा विधाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विधा विधाय शीतांशुं कपोलौ कृतवान्विधिः।  
 तन्व्यास्तद्रसनिष्यन्दबिन्दवो रदनावलिः॥

@@ -6,7 +6,7 @@ title = "नास्ति मेघसमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति मेघसमं तोयं नास्ति चात्मसमं बलम्।  
 नास्ति चक्षुःसमं तेजो नास्ति धान्यसमं प्रियम्॥

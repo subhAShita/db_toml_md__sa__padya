@@ -6,7 +6,7 @@ title = "गुणदोषावशास्त्रज्ञः कथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणदोषावशास्त्रज्ञः कथं विभजते जनः।  
 किमन्धस्याधिकारोऽस्ति रूपभेदोपलब्धिषु॥

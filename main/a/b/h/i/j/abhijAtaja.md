@@ -5,7 +5,7 @@ title = "अभिजातजनव्यथावहा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिजातजनव्यथावहा बहलोष्मप्रसरा विदाहिनः।  
 प्रखला इव दृष्टिमागता भुवि तापाय निदाघवासराः॥

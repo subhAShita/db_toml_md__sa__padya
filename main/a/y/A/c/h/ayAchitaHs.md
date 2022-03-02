@@ -5,7 +5,7 @@ title = "अयाचितः सुखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयाचितः सुखं दत्ते याचितश्च न यच्छति।  
 सर्वस्वं चापि हरते विधिरुच्चृङ्खलो नृणाम्॥

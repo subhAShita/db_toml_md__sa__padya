@@ -5,7 +5,7 @@ title = "अधीत्येदं यथाशास्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीत्येदं यथाशास्त्रं नरो जानाति सत्तमः।  
 धर्मोपदेशविख्यातं कार्याकार्यं शुभाशुभम्॥

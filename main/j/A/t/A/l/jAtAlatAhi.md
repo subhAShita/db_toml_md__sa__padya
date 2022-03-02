@@ -6,7 +6,7 @@ title = "जाता लता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जाता लता हि शैले जातु लतायां न जायते शैलः।  
 अधुना तद्विपरीतं कनकलतायां गिरिद्वयं जातम्॥

@@ -7,7 +7,7 @@ title = "मुखमिन्दुर्यथा पाणिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखमिन्दुर्यथा पाणिः पल्लवेन समः प्रिये।  
 वाचः सुधा इवोष्ठस्ते बिम्बतुल्यो मनोऽश्मवत्॥

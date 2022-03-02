@@ -5,7 +5,7 @@ title = "कर्मणः सञ्चयात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणः संचयात् स्वर्गनरकौ मोक्षबन्धने।  
 कर्मणो ज्ञायते जन्तुर् बीजादिव नवाङ्कुरः॥

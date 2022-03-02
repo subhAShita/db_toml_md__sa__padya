@@ -6,7 +6,7 @@ title = "रोहणाचल शैलेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रोहणाचल शैलेषु कस्तुलां तुलयेत्तव।  
 यस्य पाषाणखण्डानि मण्डनानि महीभृताम्॥

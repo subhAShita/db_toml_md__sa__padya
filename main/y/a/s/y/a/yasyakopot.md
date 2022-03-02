@@ -7,7 +7,7 @@ title = "यस्य कोपोऽथवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य कोपोऽथवा तापो यस्य बाष्पाविलं मुखम् ।  
 मृत्युं भजति लङ्केशे स को यदि न राक्षसः ॥

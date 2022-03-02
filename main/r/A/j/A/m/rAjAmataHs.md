@@ -6,7 +6,7 @@ title = "राजा मत्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा मत्तः शिशुश्चैव प्रमादी धनगर्वितः।  
 अप्राप्यमपि वाञ्छन्ति किं पुनर्लभ्यतेऽपि यत्॥

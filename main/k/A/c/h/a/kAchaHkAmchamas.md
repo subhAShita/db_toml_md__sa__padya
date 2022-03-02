@@ -5,7 +5,7 @@ title = "काचः काञ्चनसंसर्गाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काचः काञ्चनसंसर्गाद् धत्ते मारकतीं द्युतिम्।  
 तथा सत्संनिधानेन मूर्खो याति प्रवीणताम्॥

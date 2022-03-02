@@ -6,7 +6,7 @@ title = "अभिवादनशीलस्य नित्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिवादनशीलस्य नित्यं वृद्धोपसेविनः।  
 चत्वारि सम्प्रवर्धन्ते आयुर् विद्या यशो बलम् ॥

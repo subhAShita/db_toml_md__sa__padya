@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1545", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०१ राजसभावर्णनम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "राजसभा",]
+jsonClass = "Subhaashita"
 title = "अनेकविद्वज्जनरत्नपूर्णम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेकविद्वज्जनरत्नपूर्णं वे दोदकन्यायतरङ्गरम्यम्।  
 अलङ्घनीयं गुरुतीर्थमेकं सभासमुद्रं शिरसा नमामि॥

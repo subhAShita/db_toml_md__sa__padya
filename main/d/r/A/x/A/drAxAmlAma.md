@@ -7,7 +7,7 @@ title = "द्राक्षाम्लानमुखी जाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्राक्षाम्लानमुखी जाता शर्करा चाश्मतां गता।  
 सुभाषितरसस्याग्रे सुधा भीता दिवं गता॥

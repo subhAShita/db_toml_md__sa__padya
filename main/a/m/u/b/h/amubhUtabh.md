@@ -5,7 +5,7 @@ title = "अनुभूतभवव्यवस्थितिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुभूतभवव्यवस्थितिर् जनताकानरताभिलाषिणी।  
 तदवैमि सुखेन संसृतौ कलितानङ्गतयैव निसृतिः॥

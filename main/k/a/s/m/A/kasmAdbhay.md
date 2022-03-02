@@ -5,7 +5,7 @@ title = "कस्माद् भयमिह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्माद् भयमिह मरणाद् अन्धादपि को विशिष्यते रागी।  
 कः शूरो यो ललना- लोचनबाणैर्न विव्यथितः॥

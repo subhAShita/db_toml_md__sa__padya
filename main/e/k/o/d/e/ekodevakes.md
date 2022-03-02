@@ -2,11 +2,11 @@
 topics = [ "दृढ-साहाय्यम्", "विकल्प-त्यागः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "एको देव"
+title = "एको देवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको देवः केशवो वा शिवो वा  
 ह्येकं मित्रं भूपतिर्वा यतिर्वा।  

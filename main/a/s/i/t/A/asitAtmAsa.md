@@ -7,7 +7,7 @@ title = "असितात्मा समुन्नद्धः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असितात्मा समुन्नद्धः समाविष्कृतचापलः।  
 भुजङ्गकुटिलस्तस्या भ्रूविक्षेपः खलायते॥

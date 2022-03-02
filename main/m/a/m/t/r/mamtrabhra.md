@@ -6,7 +6,7 @@ title = "मन्त्रभ्रंशे सम्प्रदायः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्त्रभ्रंशे संप्रदायः  
 प्रयोगश्च्युतसंस्कृतौ ।  

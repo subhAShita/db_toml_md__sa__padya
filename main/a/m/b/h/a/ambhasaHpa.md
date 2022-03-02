@@ -5,7 +5,7 @@ title = "अम्भसः परिमाणेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्भसः परिमाणेन उन्नतं कमलं भवेत्।  
 स्वस्वामिना बलवता भृत्यो भवति गर्वितः॥

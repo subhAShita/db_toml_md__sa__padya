@@ -5,7 +5,7 @@ title = "एष हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष हि प्रथमो धर्मः क्षत्रियस्याभिषेचनम्।  
 येन शक्यं महाप्राज्ञ प्रजानां परिपालनम्॥

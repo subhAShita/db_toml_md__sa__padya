@@ -5,7 +5,7 @@ title = "उपकृतं बहु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकृतं बहु तत्र किमुच्यते सुजनता प्रथिता भवता परम्।  
 विदधदीदृशमेव सदा सखे सुखितमास्स्व ततः शरदां शतम्॥

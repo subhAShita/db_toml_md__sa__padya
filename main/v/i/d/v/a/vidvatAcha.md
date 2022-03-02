@@ -6,7 +6,7 @@ title = "विद्वत्ता चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्वत्ता चैव शौर्यं च सौजन्यं च कुलीनताम्।  
 खलीकरोति याञ्चैका दुःशीलेवाङ्गना कुलम्॥

@@ -7,7 +7,7 @@ title = "त्रीणि वर्षाण्युदीक्षेत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रीणि वर्षाण्युदीक्षेत कुमार्यर्तुमती सती ।  
 ऊर्ध्वं तु कालादेतस्माद् विन्देत सदृशं पतिम् ॥  

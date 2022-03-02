@@ -6,7 +6,7 @@ title = "योऽन्तः प्रविश्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योऽन्तः प्रविश्य मम वाचमिमां प्रसुप्तां   
 संजीवयत्यखिलशक्तिधरः स्वधाम्ना।  

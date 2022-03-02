@@ -6,7 +6,7 @@ title = "सिंहादेकं बकादेकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सिंहादेकं बकादेकं षट् शुनस्त्रीणि गर्दभात्।  
 वायसात्पाञ्च शिक्षेच्च चत्वारि कुक्कुटादपि॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7178", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३१ दानप्रशंसा// 10",]
-jsonClass = "Subhaashita"
 topics = [ "दानम्",]
-title = "उपार्जितानां वित्तानाम्"
+jsonClass = "Subhaashita"
+title = "उपार्जितानामर्थानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपार्जितानामर्थानां त्याग एव हि रक्षणम्।  
 तडागोदरसंस्थानां परीवाह इवाम्भसाम्॥

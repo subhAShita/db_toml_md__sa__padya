@@ -6,7 +6,7 @@ title = "ययोरेव समम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ययोरेव समं वित्तं ययोरेव समं बलम्।  
 तयोर्विवादो मैत्त्री वा नोत्तमाधमयोः क्वचित्॥

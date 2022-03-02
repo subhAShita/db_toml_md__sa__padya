@@ -5,7 +5,7 @@ title = "अर्थानाहरतोऽनर्थाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थानाहरतोऽनर्थाः समायान्ति प्रमादिनः।  
 अप्रमत्तस्ततो मार्गे नित्यमेवास्तु वित्तवान्॥

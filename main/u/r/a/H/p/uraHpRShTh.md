@@ -5,7 +5,7 @@ title = "उरः पृष्ठम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उरः पृष्ठं कटिश्चैव मुखतुल्यं समादिशेत्।  
 कर्णौ सप्ताङ्गुलौ प्रोक्तौ तालुकं च षडङ्गुलम्॥

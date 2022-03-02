@@ -6,7 +6,7 @@ title = "गुरुरेकः कविरेकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुरेकः कविरेकः सदसि मघोनः कलाधरोऽप्येकः।  
 अद्भुतमत्र सभायां गुरवः कवयः कलाधराः सर्वे॥

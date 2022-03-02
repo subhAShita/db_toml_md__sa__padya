@@ -6,7 +6,7 @@ title = "विद्वत्कवयः कवयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्वत्कवयः कवयः केवलकवयस्तु केवलं कपयः।  
 कुलजा या सा जाया केवलजाया तु केवलं माया॥

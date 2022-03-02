@@ -6,7 +6,7 @@ title = "दुर्मन्त्री राज्यनाशाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्मन्त्री राज्यनाशाय ग्रामनाशाय कुञ्जरः।  
 श्यालको गृहनाशाय सर्वनाशाय मातुलः॥

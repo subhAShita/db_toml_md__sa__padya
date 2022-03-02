@@ -5,7 +5,7 @@ title = "अज्ञानमिह निदानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञानमिह निदानं प्राग्रूपं जननमेव भवरोगे।  
 पारिपाकः संसरणं भैषज्यं नैष्ठिकी शान्तिः॥

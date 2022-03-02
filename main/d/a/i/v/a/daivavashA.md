@@ -6,7 +6,7 @@ title = "दैववशादुत्पन्ने सति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दैववशादुत्पन्ने सति विभवे यस्य नास्ति भोगेच्छा।  
 न च परलोकसमीहा स भवति धनपालको मूर्खः॥

@@ -7,7 +7,7 @@ title = "मीनवती नयनाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मीनवती नयनाभ्यां चरणाभ्यामपि सुफुल्लकमलवती।  
 शैवालिनी च केशैः सुरसेयं सुन्दरी सरसी॥

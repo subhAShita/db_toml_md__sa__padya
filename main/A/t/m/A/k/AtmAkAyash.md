@@ -5,7 +5,7 @@ title = "आत्मा कायश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मा कायश्च द्वावेतौ मित्ररूपावुभावपि।  
 कायं मित्रं परित्यज्य आत्मा याति सुनिश्चितम्॥

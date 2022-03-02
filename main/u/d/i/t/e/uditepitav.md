@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6761", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १३ प्रतापवर्णनम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "प्रतापः",]
+jsonClass = "Subhaashita"
 title = "उदितेऽपि तवावनीन्द्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदितेऽपि तवावनीन्द्र तेजस् तपने स्फारगभस्तिभारभाजि।  
 तव वैरिनृपायशस्तमांसि स्फुरदुज्जृम्भितमाचरन्ति चित्रम्॥

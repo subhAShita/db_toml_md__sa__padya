@@ -7,7 +7,7 @@ title = "हीयते हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हीयते हि सतां तेजस्  
 स्पृष्टं स्यात् चेदसूयया।  

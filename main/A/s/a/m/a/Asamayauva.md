@@ -5,7 +5,7 @@ title = "आसन्नयौवनस् त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नयौवनस् त्वं दुहितुर्मे यौवनं त्वया प्रायः।  
 क्षपितमलक्ष्यं स्त्रीणां गलति हि सहसैव तारुण्यम्॥

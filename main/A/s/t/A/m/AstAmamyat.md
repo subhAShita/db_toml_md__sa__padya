@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5641", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 113",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "आस्तामन्यत्सुजनाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्तामन्यत्सुजनाः परोपकारैककरणदुर्ललिताः।  
 संतापितपिशुनेषु स्वगुणेष्वपि हन्त खिद्यन्ते॥

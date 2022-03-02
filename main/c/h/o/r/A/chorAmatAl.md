@@ -7,7 +7,7 @@ title = "चोरान्न तालम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चोरान्न तालं न शठात्प्रमाणं  
 पुष्पाणि न प्रेतवनादुपास्त्यै।  

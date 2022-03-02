@@ -6,7 +6,7 @@ title = "नेत्रैरिवोत्पलैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नेत्रैरिवोत्पलैः पद्मैर्मुखैरपि सरःश्रियः।  
 पदे पदे विभान्ति स्म चक्रवाकैः स्तनैरिव॥

@@ -6,7 +6,7 @@ title = "शस्त्रं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शस्त्रं न खलु कर्तव्यमिति पित्रा नियोजितः।  
 तदेव शस्त्रं कृतवान्पितुराज्ञा न लड्घिता॥

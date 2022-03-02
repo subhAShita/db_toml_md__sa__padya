@@ -5,7 +5,7 @@ title = "आचारः परमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचारः परमो धर्मः सर्वेषामिति निश्चयः।  
 हीनाचारपरीतात्मा प्रेत्य चेह च नश्यति॥

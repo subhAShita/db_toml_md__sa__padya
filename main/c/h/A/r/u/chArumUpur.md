@@ -7,7 +7,7 @@ title = "चारुनूपुरझणत्कृतं रते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चारुनूपुरझणत्कृतं रते कामिनां हरति मानसं यथा।  
 नो तथा मधुरगीतवादितं केकिचातकपिकस्वना अपि॥

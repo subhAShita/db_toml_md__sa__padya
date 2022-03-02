@@ -6,7 +6,7 @@ title = "मारमासुषमा चारु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मारमासुषमा चारु रुचा मारवधूत्तमा।  
 मात्तधूर्ततमावासा सा वामा मेऽस्तु मा रमा॥

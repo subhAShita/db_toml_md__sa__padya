@@ -6,7 +6,7 @@ title = "भो भोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भो भोः पान्थ कुतो?' 'नगरतो' 'वार्ता तु काचित् श्रुता?  
 'बाढं' 'ब्रूहि' 'युवा पयोदसमये भार्यां विना जीवति ।  

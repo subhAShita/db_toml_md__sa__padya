@@ -5,7 +5,7 @@ title = "ऋषीणां परमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋषीणां परमं गुह्यम् इदं भरतसत्तम।  
 तीर्थाभिगमनं पुण्यं यज्ञैरपि विशिष्यते॥

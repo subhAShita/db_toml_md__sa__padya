@@ -6,7 +6,7 @@ title = "पूरोत्पीडे तडागस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूरोत्पीडे तडागस्य परीवाहः प्रतिक्रिया।  
 शोकक्षोभे च हृदयं प्रलापैरेव धार्यते॥

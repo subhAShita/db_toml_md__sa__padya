@@ -6,7 +6,7 @@ title = "विद्धा मृगी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्धा मृगी व्याधशिलीमुखेन मृगस्तु तत्कातरवीक्षितेन।  
 विहाय देहं विगतव्यथैका परस्य जीवावधिराधिरासीत्॥

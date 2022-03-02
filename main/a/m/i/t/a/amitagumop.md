@@ -5,7 +5,7 @@ title = "अमितगुणोऽपि पदार्थो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमितगुणोऽपि पदार्थो दोषेणैकेन निन्दितो भवति।  
 निखिलरसायनमहितो गन्धेनोग्रेण लशुन इव॥

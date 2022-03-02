@@ -6,7 +6,7 @@ title = "पूर्वतभेदि पवित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूर्वतभेदि पवित्रं जैत्रं नरकस्य बहुमतङ्गहनम्।  
 हरिमिव हरिमिव हरिमिव सुरसरिदम्भः पतन्नमत॥

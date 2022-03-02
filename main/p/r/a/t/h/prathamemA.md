@@ -6,7 +6,7 @@ title = "प्रथमे नार्जिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रथमे नार्जिता विद्या द्वितीये नार्जितं धनम्।  
 तृतीये नार्जितं पुण्यं चतुर्थे किं करिष्यति॥

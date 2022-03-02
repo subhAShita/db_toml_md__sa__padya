@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5930", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 186",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "इदं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं हि माहात्म्यविशेषसूचकं वदन्ति चिह्नं महतां मनीषिणः।  
 मनो यदेषां सुखदुःखसंभवे प्रयाति नो हर्षविषादवश्यताम्॥

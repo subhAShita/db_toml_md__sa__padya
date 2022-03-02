@@ -6,7 +6,7 @@ title = "शान्तिकन्थालसत्कण्ठो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शान्तिकन्थालसत्कण्ठो मनःस्थालीमिलत्करः।  
 त्रिपुरारिपुरद्वारि कदाहं मोक्षभिक्षुकः॥

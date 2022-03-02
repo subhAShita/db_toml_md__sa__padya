@@ -6,7 +6,7 @@ title = "सुवर्णवर्णललिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवर्णवर्णललिता पदविन्यासशालिनी।  
 वाणीव भाति ललिता सभा ते जगतीपते॥

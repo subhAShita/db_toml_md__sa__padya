@@ -6,7 +6,7 @@ title = "इक्षुदण्डास्तिलाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इक्षुदण्डास्तिलाः शूद्राः कामिनी हेम मेदिनी।  
 दधि चन्दनताम्बूले मर्दनं गुणवर्धनम्॥

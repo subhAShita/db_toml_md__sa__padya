@@ -6,7 +6,7 @@ title = "प्रायः सन्त्युपदेशार्हा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः सन्त्युपदेशार्हा धीमन्तो न जडाशयाः।  
 तिलाः कुसुमसौगन्ध्यवाहिनो न यवाः क्वचित्॥

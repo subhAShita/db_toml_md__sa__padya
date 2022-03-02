@@ -6,7 +6,7 @@ title = "हेला स्यात्कार्यनाशाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हेला स्यात्कार्यनाशाय बुद्धिनाशाय निर्धनम्।  
 याचना माननाशाय कुलनाशाय भोजनम्॥

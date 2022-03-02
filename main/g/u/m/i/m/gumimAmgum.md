@@ -6,7 +6,7 @@ title = "गुणिनां गुणेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणिनां गुणेषु सत्स्वपि पिशुनजनो दोषमात्रमादत्ते।  
 पुष्पे फले विरागी क्रमेलकः कण्टकौघमिव॥

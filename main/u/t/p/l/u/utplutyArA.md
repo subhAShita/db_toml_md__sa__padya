@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6631", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 85",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "उत्प्लुत्यारादर्धचन्द्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्प्लुत्यारादर्धचन्द्रेण लूने वक्त्रेऽन्यस्य क्रोधदष्टोष्ठदन्ते।  
 सैन्यैः कण्ठच्छेदलीने कबन्धाद् भूयो बिभ्ये वल्गतः सासिपाणेः॥

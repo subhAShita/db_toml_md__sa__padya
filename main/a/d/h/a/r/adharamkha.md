@@ -7,7 +7,7 @@ title = "अधरं खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरं खलु बिम्बनामकं फमाभ्यामिति भव्यमन्वयम्।  
 लभतेऽधरबिम्ब इत्यदः पदमस्या रदनच्छदे वदत्॥

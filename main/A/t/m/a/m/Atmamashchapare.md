@@ -5,7 +5,7 @@ title = "आत्मनश्च परेषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनश्च परेषां च प्रतापस्तव कीर्तिनुत्।  
 भयकृद् भूपतेर्बाहुर् द्विषां च सुहृदां च ते॥

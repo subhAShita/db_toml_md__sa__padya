@@ -6,7 +6,7 @@ title = "मा कान्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा कान्ते पक्षस्यान्ते पर्याकाशे देशे स्वाप्सीः  
 कान्तं वक्त्रं वृत्तं पूर्णं चन्द्रं मत्त्वा रात्रौ चेत् ।  

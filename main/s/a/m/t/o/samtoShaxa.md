@@ -6,7 +6,7 @@ title = "सन्तोषक्षतये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तोषक्षतये पुंसामाकस्मिकधनागमः।  
 सरसां सेतुभेदाय वर्षौघः स च न स्थिरः॥

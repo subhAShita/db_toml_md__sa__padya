@@ -6,7 +6,7 @@ title = "मा वम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा वम सम्वृणु विषमिदमिति सातङ्कं पितामहे नोक्तः।  
 प्रातर्जयति सलज्जः कज्जलमलिनाधरः शम्भुः॥

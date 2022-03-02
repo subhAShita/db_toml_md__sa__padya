@@ -6,7 +6,7 @@ title = "सरसीतोयमुद्धृत्य जनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरसीतोयमुद्धृत्य जनः कन्दर्पकारकम्।  
 पिबत्यम्बोजसुरभि स्वच्छमेकान्तशीतलम्॥

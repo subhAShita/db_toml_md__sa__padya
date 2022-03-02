@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5949", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 8",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इदमाभाति गगने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमाभाति गगने भिन्दानं संततं तमः।  
 अमन्दनयनानन्दकरं मण्डलमैन्दवम्॥

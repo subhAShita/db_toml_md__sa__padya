@@ -5,7 +5,7 @@ title = "अध्ययनमित्रसङ्ग"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अध्ययनमित्रसङ्ग- प्रवेशयात्राविवाहदानेषु।  
 शुभकार्येष्वखिलेष्वपि शस्तः सोमाध्वगः पवनः॥

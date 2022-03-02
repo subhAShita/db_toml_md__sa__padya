@@ -5,7 +5,7 @@ title = "आकरः सर्वशास्त्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकरः सर्वशास्त्राणां रत्नानामिव सागरः।  
 गुणैर्न परितुष्यामो यस्य मत्सरिणो वयम्॥

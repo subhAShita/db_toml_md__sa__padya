@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4488", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २८ धननिन्दा// 6",]
-jsonClass = "Subhaashita"
 topics = [ "धनम्",]
-title = "आजन्मानुगतेऽप्यस्मिन्नाहे"
+jsonClass = "Subhaashita"
+title = "आजन्मानुगतेऽप्यस्मिन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आजन्मानुगतेऽप्यस्मिन् नाले विमुखमम्बुजम्।  
 प्रायेण गुणपूर्णेषु रीतिर्लक्ष्मीवतामियम्॥

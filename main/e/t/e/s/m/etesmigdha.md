@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7996", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 120",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "एते स्निग्धतमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते स्निग्धतमा इति मा मा क्षुद्रेषु कुरुत विश्वासम्।  
 सिद्धार्थानामेषां स्नेहोऽप्यश्रूणि पातयति॥

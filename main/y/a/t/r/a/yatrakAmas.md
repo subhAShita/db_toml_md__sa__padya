@@ -6,7 +6,7 @@ title = "यत्र कामसुखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र कामसुखं लोके यच्च दिव्यं महत्सुखम्।  
 तृष्णाक्षयसुखस्यैते नार्हतः षोडशीं कलाम्॥

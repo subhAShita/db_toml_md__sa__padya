@@ -6,7 +6,7 @@ title = "सहस्रगुणिता विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहस्रगुणिता विद्या  
 शतशः परिकीर्तिता ।  

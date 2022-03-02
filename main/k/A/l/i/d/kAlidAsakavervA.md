@@ -5,7 +5,7 @@ title = "कालिदासकवेर्वाणी कदाचिन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालिदासकवेर्वाणी कदाचिन् मद्गिरा सह।  
 कलयत्यर्थसाम्यं चेद् भीता भीता पदे पदे॥

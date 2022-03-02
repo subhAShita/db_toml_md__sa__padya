@@ -5,7 +5,7 @@ title = "अर्थस्योपार्जनं कृत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थस्योपार्जनं कृत्वा नैवाभाग्यः समश्नुते।  
 अरण्यं महदासाद्य मूढः सोमिलको यथा॥

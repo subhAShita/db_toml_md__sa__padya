@@ -7,7 +7,7 @@ title = "त्रिनयनचूडारत्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रिनयनचूडारत्नं मित्त्रं सिन्धोः कुमुद्वतीदयितः।  
 अयमुदयति घुसृणारुणरमणीवदनोपमश्चन्द्रः॥

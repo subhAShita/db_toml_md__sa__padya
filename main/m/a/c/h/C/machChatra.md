@@ -7,7 +7,7 @@ title = "न च्छत्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न च्छत्रं न तुरङ्गमो न वदतां वृन्दानि नो वन्दिनो  
 न श्मश्रूणि न पट्टबन्धवसनं न ह्यम्बराडम्बरम् ।  

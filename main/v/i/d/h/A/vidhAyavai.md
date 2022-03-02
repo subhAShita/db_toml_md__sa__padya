@@ -6,7 +6,7 @@ title = "विधाय वैरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विधाय वैरं सामर्षे नरोऽरौ य उदासते।  
 प्रक्षिप्योदर्चिषं कक्षे शेरते तेऽभिमारुतम्॥

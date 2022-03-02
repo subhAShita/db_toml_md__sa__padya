@@ -6,7 +6,7 @@ title = "यदि सन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि सन्ति गुणाः पुंसां विकसन्त्येव ते स्वयम्।  
 न हि कस्तूरिकामोदः शपथेन विभाव्यते॥

@@ -6,7 +6,7 @@ title = "आत्मबुद्धिः सुखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मबुद्धिः सुखं चैव गुरुबुद्धिर्विशेषतः।  
 परबुद्धिरर्विनाशाय स्त्रीबुद्धिः प्रलयंकरी॥

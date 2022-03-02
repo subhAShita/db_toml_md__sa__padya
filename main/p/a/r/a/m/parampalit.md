@@ -6,7 +6,7 @@ title = "परं पलितकायेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परं पलितकायेन कर्तव्यः श्रुतसङ्ग्रहः।  
 न तत्र धनिनो यान्ति यत्र यान्ति बहुश्रुताः॥

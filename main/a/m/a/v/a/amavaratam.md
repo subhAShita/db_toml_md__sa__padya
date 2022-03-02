@@ -5,7 +5,7 @@ title = "अनवरतनयनविगलित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनवरतनयनविगलित- जललवघटिताक्षसूत्रवलयेन।  
 मृत्युंजयमिव जपति त्वद्गोत्रं विरहिणी बाला॥

@@ -5,7 +5,7 @@ title = "अनु त्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनु त्वा तात जीवन्तु सुहृदः साधुभिः सह।  
 पर्जन्यमिव भूतानि स्वादुद्रुममिवाण्डजाः॥

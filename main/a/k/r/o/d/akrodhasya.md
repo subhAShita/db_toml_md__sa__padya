@@ -5,7 +5,7 @@ title = "अक्रोधस्य यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्रोधस्य यदा क्रोधः सर्वनाशाय कल्पते।  
 राघवस्य प्रकोपेन बद्धो नदनदीपतिः॥

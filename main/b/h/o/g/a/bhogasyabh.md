@@ -6,7 +6,7 @@ title = "भोगस्य भाजनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगस्य भाजनं राजा न राजा कार्यभाजनम्।  
 राजकार्यपरिध्वंसान्मन्त्री दोषेण लिप्यते॥

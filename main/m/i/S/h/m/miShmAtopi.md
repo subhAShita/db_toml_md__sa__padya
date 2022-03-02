@@ -6,7 +6,7 @@ title = "निष्णातोऽपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निष्णातोऽपि च वेदान्ते साधुत्वं नैति दुर्जनः।  
 चिरं जलनिधौ मग्नो मैनाक इव मार्दवम्॥

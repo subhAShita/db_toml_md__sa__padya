@@ -5,7 +5,7 @@ title = "अपि जलकणान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि जलकणान् पयोधेर् दूरादाहृत्य जायते जलदः।  
 निकटाद् घटानपि शतं समीहरन् वारिहार्येव॥

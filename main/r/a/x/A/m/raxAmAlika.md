@@ -7,7 +7,7 @@ title = "रक्षामालिकया बाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रक्षामालिकया बाले बद्धया किं प्रयोजनम्।  
 अवश्यम्भाविनावेतौ कुचग्रहकचग्रहौ॥

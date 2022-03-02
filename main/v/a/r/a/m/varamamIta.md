@@ -6,7 +6,7 @@ title = "वरममी तरवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरममी तरवो वनगोचराः शकुनिसार्थविलुप्तफलश्रियः।  
 न तु धनाढ्यगृहाः कृपणाः फणानिहितरत्नभुजङ्गमवृत्तयः॥

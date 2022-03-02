@@ -6,7 +6,7 @@ title = "यशःसौरभ्यलशुनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यशःसौरभ्यलशुनः शान्तिशैत्यहुताशनः।  
 कारुण्यकुसुमाकाशः खलः सज्जनदुःखदः॥

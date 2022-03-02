@@ -5,7 +5,7 @@ title = "इदमुभयभित्तिसन्तत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमुभयभित्तिसंतत- हारगुणान्तर्गतैककुचमुकुलम्।  
 गुटिकाधनुरिव बाला- वपुः स्मरः श्रयति कुतुतेन॥

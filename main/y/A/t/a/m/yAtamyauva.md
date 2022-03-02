@@ -6,7 +6,7 @@ title = "यातं यौवनमधुना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यातं यौवनमधुना वनमधुना शरणमेकमस्माकम्।  
 स्फुरदुरुहारमणीनां हा रमणीनां गतः कालः॥

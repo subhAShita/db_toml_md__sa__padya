@@ -6,7 +6,7 @@ title = "प्रखला एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रखला एव गुणवतामाक्रम्य धुरं पुरः प्रकर्षति।  
 तृणकाष्ठमेव जलधेरुपरि प्लवते न रत्नानि॥

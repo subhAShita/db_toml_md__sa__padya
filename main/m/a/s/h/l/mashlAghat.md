@@ -6,7 +6,7 @@ title = "न श्लाघते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न श्लाघते खलः कस्मै सुप्तिङतं किमुच्यते।  
 लादेशानां नवानां च तिङां किं नाम कथ्यताम्॥

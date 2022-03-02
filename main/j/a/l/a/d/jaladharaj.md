@@ -6,7 +6,7 @@ title = "जलधर जलभरनिकरैरपहर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जलधर जलभरनिकरैरपहर परितापमुद्धतं जगतः।  
 नो चेदपसर दूरं हिमकरकरदर्शनं वितर॥

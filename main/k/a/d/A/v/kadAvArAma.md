@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8531", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 59",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "कदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदा वाराणस्याममरतटिनीरोधसि वसन् वसानः कौपीनं शिरसि निदधानोऽञ्जलिपुटम्।  
 अये गौरीनाथ त्रिपुरहर शम्भो त्रिनयन प्रसीदेति क्रोशन् निमिषमिव नेष्यामि दिवसान्॥

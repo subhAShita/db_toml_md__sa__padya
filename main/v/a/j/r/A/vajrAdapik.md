@@ -6,7 +6,7 @@ title = "वज्रादपि कठोराणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वज्रादपि कठोराणि मृदूनि कुसुमादपि।  
 लोकोत्तराणां चेतांसि को हि विज्ञातुमर्हति॥

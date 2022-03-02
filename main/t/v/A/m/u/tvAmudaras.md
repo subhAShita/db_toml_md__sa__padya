@@ -6,7 +6,7 @@ title = "त्वामुदर साधु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वामुदर साधु मन्ये शाकैरपि यदसि लब्धपरितोषम्।  
 हतहृदयं ह्यधिकाधिकवाञ्छाशतदुर्भरं न पुनः॥

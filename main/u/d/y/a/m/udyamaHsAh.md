@@ -5,7 +5,7 @@ title = "उद्यमः साहसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यमः साहसं धैर्यं बलं बुधिः पराक्रमः।  
 षडेते यस्य तिष्ठन्ति तस्य देवोऽपि श कितः॥

@@ -6,7 +6,7 @@ title = "लब्धोच्छ्रायो नीचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लब्धोच्छ्रायो नीचः प्रथमतरं स्वामिनं पराभवति।  
 भूमिरजो रथ्यादावुत्थापकमेव संवृणुते॥

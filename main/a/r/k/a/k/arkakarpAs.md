@@ -5,7 +5,7 @@ title = "अर्ककर्पासयोर्मूलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्ककर्पासयोर्मूलं जलपीतं जयेद्विषम्।  
 पटोलमूलनस्येन कालदष्टोऽपि जीवति॥

@@ -5,7 +5,7 @@ title = "एवं ब्रुवन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं ब्रुवन्ति लोकेऽत्र धनिनां पुरतःस्थिताः।  
 कुलीना अपि पापानां दृश्यन्ते धनलिप्सया।  

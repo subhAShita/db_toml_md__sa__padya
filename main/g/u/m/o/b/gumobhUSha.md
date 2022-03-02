@@ -6,7 +6,7 @@ title = "गुणो भूषयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणो भूषयते रूपं शीलं भूषयते कुलम्।  
 सिद्धिर्भूषयते विद्यां भोगो भूषयते धनम्॥

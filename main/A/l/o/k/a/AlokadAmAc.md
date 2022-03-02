@@ -5,7 +5,7 @@ title = "आलोकदानाच् चक्षुष्मान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलोकदानाच् चक्षुष्मान् प्रभायुक्तो भवेन् नरः।  
 तान् दत्त्वा नोपहिंसेत न हरेन् नोपनाशयेत्॥

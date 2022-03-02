@@ -6,7 +6,7 @@ title = "मक्षिका मशको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मक्षिका मशको वेश्या मूषको याचकस्तथा।  
 ग्रामणीर्गणकश्चैव सप्तैते परभक्षकाः॥

@@ -5,7 +5,7 @@ title = "अवश्यमेव भोक्तव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवश्यमेव भोक्तव्यं कृतं कर्म शुभाशुभम्।  
 कृतकर्मक्षयो नास्ति कल्पकोटिशतैरपि॥

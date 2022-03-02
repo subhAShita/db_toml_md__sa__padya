@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1295", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//०६ समुद्रान्योक्तयः//०३ रत्नानि// 49",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - रत्नम्", "अन्योक्तिः - रत्नानि",]
+jsonClass = "Subhaashita"
 title = "अनस्तमितसारस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनस्तमितसारस्य तेजसस्तद्विजृम्भितम्।  
 येन पाषाणखण्डस्य मूल्यमल्पं वसुंधरा॥

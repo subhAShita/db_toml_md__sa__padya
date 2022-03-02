@@ -5,7 +5,7 @@ title = "आज्ञाकरश्च ताडन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आज्ञाकरश्च ताडन- परिभवसहनश्च सत्यमहमस्याः।  
 न तु शीलशीतलेयं प्रियेतरद्वक्तुमपि वेद॥

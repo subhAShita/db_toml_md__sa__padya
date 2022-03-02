@@ -6,7 +6,7 @@ title = "यथा गौर्दुह्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा गौर्दुह्यते काले पाल्यते च तथा प्रजा।  
 सिच्यते चीयते चैव लता पुष्पफलप्रदा॥

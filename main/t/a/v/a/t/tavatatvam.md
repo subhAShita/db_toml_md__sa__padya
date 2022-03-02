@@ -6,7 +6,7 @@ title = "तव तत्त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव तत्त्वं न जानामि कीदृशोऽसि महेश्वर ।  
 यादृशोऽसि महादेव तादृशाय नमो नमः ॥

@@ -5,7 +5,7 @@ title = "अनसूया क्षमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनसूया क्षमा शान्तिः संतोषः प्रियवादिता।  
 कामक्रोधपरित्यागः शिष्टाचारनिदर्शनम्॥

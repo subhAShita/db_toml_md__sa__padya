@@ -8,7 +8,7 @@ title = "भवनेत्रभवो वह्निरद्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवनेत्रभवो वह्निरद्यापि त्वयि मन्मथ।  
 ज्वलतीवान्यथा किं ते विशिखास्तत्कणा इव॥

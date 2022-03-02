@@ -7,7 +7,7 @@ title = "सुभग त्वत्कथारम्भे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभग त्वत्कथारम्भे कर्णकण्डूतिलालसा।  
 उज्जृम्भवदनाम्भोजा भिनत्त्यङ्गानि साङ्गना॥

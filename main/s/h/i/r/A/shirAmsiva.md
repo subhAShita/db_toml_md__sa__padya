@@ -6,7 +6,7 @@ title = "शिरांसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिरांसि वरयोधानामर्धचन्द्रहृतान्यपि।  
 आददाना भृशं पादैः श्येना व्यानशिरे दिशः॥

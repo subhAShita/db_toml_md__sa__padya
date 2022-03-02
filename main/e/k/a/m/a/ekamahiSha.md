@@ -5,7 +5,7 @@ title = "एकं महिषशिरःस्थितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं महिषशिरःस्थितम् अपरं सानन्दसुरगणप्रणतम्।  
 गिरिदुहितुः पदयुगलं शोणितमणिरागरञ्जितं जयति॥

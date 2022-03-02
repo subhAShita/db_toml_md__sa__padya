@@ -6,7 +6,7 @@ title = "किमप्यसाध्यं महताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमप्यसाध्यं महतां सिद्धिमेति लघीयसाम्।  
 प्रदीपो भूमिगेहान्तर्ध्वान्तं हन्ति न भानुमान्॥

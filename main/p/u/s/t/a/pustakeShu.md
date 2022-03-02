@@ -6,7 +6,7 @@ title = "पुस्तकेषु च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुस्तकेषु च नाधीतं नाधीतं गुरुसंनिधौ।  
 न शोभते सभामध्ये हंसमध्ये बको यथा॥

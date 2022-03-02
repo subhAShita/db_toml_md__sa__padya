@@ -6,7 +6,7 @@ title = "स जयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स जयति हिमकरलेखा चकास्ति यस्योमयोत्सुकान्निहिता।  
 नयनप्रदीपकज्जलजिघृक्षया रजतशुक्तिरिव॥

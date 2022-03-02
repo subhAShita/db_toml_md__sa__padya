@@ -5,7 +5,7 @@ title = "कामः क्रोधश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामः क्रोधश्च लोभश्च देहे तिष्ठन्ति तस्कराः।  
 ज्ञातरत्नमपाहारि तस्माज् जाग्रत जाग्रत॥

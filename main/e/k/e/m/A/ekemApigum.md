@@ -5,7 +5,7 @@ title = "एकेनापि गुणवता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि गुणवता जातिविशुद्धेन चारुकृत्येन।  
 स्वकुलमलंकृतमखिलं मुकुटं मुक्ताफलेनेव॥

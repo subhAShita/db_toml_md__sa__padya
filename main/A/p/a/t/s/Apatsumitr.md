@@ -5,7 +5,7 @@ title = "आपत्सु मित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपत्सु मित्रं जानीयाद् रणे शूरं रहः शुचिम्।  
 भार्यां च विभवे क्षीणे दुर्भिक्षे च प्रियातिथिम्॥

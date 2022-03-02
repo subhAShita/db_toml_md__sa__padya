@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4302", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 43",]
-jsonClass = "Subhaashita"
 rasas = [ "हास्यम्",]
+jsonClass = "Subhaashita"
 title = "आकुञ्च्य पाणिमशुचिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकुञ्च्य पाणिमशुचिं मम मूर्ध्नि वेश्या मन्त्राम्भसां प्रतिपदं पृषतैः पवित्रे।  
 तारस्वनं प्रथितथूत्कमदात् प्रहारं हाहा हतोऽहमिति रोदिति विष्णुशर्मा॥

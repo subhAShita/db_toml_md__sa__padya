@@ -7,7 +7,7 @@ title = "लब्धसौरभगुणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लब्धसौरभगुणो मदिराणामङ्गनास्यचषकस्य च गन्धः।  
 मोदितालिरितरेतरयोगादन्यतामभजतातिशयं नु॥

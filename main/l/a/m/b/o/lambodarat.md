@@ -6,7 +6,7 @@ title = "लम्बोदर तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लम्बोदर तव चरणावादरतो यो न पूजयति।  
 स भवति विश्वामित्रो दुर्वासा गोतमश्चेति॥

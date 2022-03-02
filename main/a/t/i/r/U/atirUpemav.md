@@ -5,7 +5,7 @@ title = "अतिरूपेण वै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिरूपेण वै सीता अतिगर्वेण रावनः।  
 अतिदानं बलिर्दत्त्वा अति सर्वत्र वर्जयेत्॥

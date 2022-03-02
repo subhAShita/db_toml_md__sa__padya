@@ -6,7 +6,7 @@ title = "वेदाङ्गपादयूपस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदाङ्गपादयूपस्य   
 दर्भरोमाङ्गदेहिनः।  

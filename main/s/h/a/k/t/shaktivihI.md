@@ -6,7 +6,7 @@ title = "शक्तिविहीनः शिवोपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शक्तिविहीनः शिवोपि शवमात्रः
 </details>

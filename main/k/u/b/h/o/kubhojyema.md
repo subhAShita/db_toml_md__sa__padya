@@ -6,7 +6,7 @@ title = "कुभोज्येन दिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुभोज्येन दिनं नष्टं कुकलत्रेण शर्वरी।  
 कुपुत्रेण कुलं नष्टं तन्नष्टं यन्न दीयते॥

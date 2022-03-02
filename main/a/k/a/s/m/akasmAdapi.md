@@ -5,7 +5,7 @@ title = "अकस्मादपि यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकस्मादपि यः कश्चिद् अर्थं प्राप्नोति पूरुषः।  
 तं हठेनेति मन्यन्ते स हि यत्नो न कस्यचित्॥

@@ -6,7 +6,7 @@ title = "मीमांसार्पवसोमं लसदर्कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मीमांसार्पवसोमं लसदर्कं तर्कपद्मस्य।  
 वेदान्तविपिनसिंहं वन्दे गोविन्दसाभिधं ब्रह्म॥

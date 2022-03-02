@@ -6,7 +6,7 @@ title = "दन्ता विश्लथदन्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दन्ता विश्लथदन्ताः केशाः काशप्रसूनसंकाशाः।  
 नयनं तमसामयनं तथापि चित्तं धनाङ्गनायत्तम्॥

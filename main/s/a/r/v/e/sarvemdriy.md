@@ -6,7 +6,7 @@ title = "सर्वेन्द्रियाणि संयम्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वेन्द्रियाणि संयम्य बकवत्पतितो जनः।  
 कालदेशोपपन्नानि सर्वकार्याणि साधयेत्॥

@@ -6,7 +6,7 @@ title = "दुश्चरितैरेव निजैर्भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुश्चरितैरेव निजैर्भवति दुरात्मा विशङ्कितो नित्यम्।  
 दर्शनपथमापन्नं पन्नगकुलमाकुलीभवति॥

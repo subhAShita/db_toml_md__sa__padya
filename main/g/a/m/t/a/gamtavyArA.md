@@ -6,7 +6,7 @@ title = "गन्तव्या राजसभा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गन्तव्या राजसभा द्रष्टव्या राजपूजिता लोकाः।  
 यद्यपि न भवन्त्यर्थास्तथाप्यनर्था विनश्यन्ति॥

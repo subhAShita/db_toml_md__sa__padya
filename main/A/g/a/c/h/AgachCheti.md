@@ -7,7 +7,7 @@ title = "आगच्छेति ब्रुवतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगच्छेति ब्रुवतः किमागतोऽसीति पृच्छतो दृष्ट्या ।  
 आतिथ्यादपि गृहिणः श्रेयान्नरके निरन्तरो वासः ॥

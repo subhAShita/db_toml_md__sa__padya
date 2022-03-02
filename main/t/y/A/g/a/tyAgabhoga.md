@@ -6,7 +6,7 @@ title = "त्यागभोगविहीनेन धनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यागभोगविहीनेन धनेन धनिनो यदि।  
 भवामः किं न तेनैव धनेन धनिनो वयम्॥

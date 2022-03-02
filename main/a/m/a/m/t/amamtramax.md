@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2423", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 158",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अमन्त्रमक्षरं नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमन्त्रमक्षरं नास्ति नास्ति मूलमनौषधम्।  
 अयोग्यः पुरुषो नास्ति योजकस्तत्र दुर्लभः॥

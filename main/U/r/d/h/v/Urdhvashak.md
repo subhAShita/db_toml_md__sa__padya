@@ -5,7 +5,7 @@ title = "ऊर्ध्वशक्तिनिपातेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊर्ध्वशक्तिनिपातेन अधःशक्तेर्निकुञ्चनात्।  
 मध्यशक्तिप्रबोधेन जायते परमं सुखम्॥

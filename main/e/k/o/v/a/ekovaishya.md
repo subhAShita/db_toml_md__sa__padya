@@ -5,7 +5,7 @@ title = "एको वैश्यश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको वैश्यश्च द्वौ शूद्रौ ब्राह्मणास्त्रय एव च।  
 विद्योपजीविनः पञ्च न गच्छेयुः समं स्वयम्॥

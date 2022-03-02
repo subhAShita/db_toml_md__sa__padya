@@ -5,7 +5,7 @@ title = "अन्तर्मलीमसे वक्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्मलीमसे वक्रे चले कर्णान्तसर्पिणि तस्या नेत्रयुगे दृष्टे दुर्जने च कुतः सुखम्॥
 </details>

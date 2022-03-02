@@ -6,7 +6,7 @@ title = "आश्लेषो बालानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आश्लेषो बालानां भवति खलानां च संभेदः॥
 </details>

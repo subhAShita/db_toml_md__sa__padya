@@ -6,7 +6,7 @@ title = "युधिष्ठिरः कस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युधिष्ठिरः कस्य पुत्रो गङ्गा वहति कीदृशी।  
 हंसस्य शोभा का वास्ति धर्मस्य त्वरिता गतिः॥

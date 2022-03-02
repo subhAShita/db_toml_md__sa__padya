@@ -5,7 +5,7 @@ title = "कान्ते कुटिलमालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्ते कुटिलमालोक्य कर्णकण्डूयनेन किम्।  
 कामं कथय कल्याणि किङ्करः करवाणि यत्॥

@@ -6,7 +6,7 @@ title = "नारुन्तुदः स्यादार्तोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नारुन्तुदः स्यादार्तोऽपि न परद्रोहकर्मभिः।  
 ययास्योद्विजते वाचा नालोक्यां तामुदीरयेत्॥

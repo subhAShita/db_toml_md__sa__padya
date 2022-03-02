@@ -5,7 +5,7 @@ title = "कदाचन महाकार्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदाचन महाकार्ये लघुरेवोपयुज्यते।  
 किं दूरीकृत्य दीर्घादि दूर्वां क्षेमाय नादृतः॥

@@ -5,7 +5,7 @@ title = "ईर्ष्यामलं खलेष्वास्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...॥ ईर्ष्यामलं खलेष्वास्ते विषमाशीविषेष्विव॥
 </details>

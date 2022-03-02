@@ -6,7 +6,7 @@ title = "प्रायः स्वभावम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः स्वभावं मुञ्चन्ति सन्तः संसर्गतोऽसताम्।  
 चण्डाश्चण्डातपात्पादा हिमांशोरमृतसृजः॥

@@ -6,7 +6,7 @@ title = "दातुरुन्नतवित्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दातुरुन्नतवित्तस्य गुणयुक्तस्य चार्थिनः।  
 दुर्लभः खलु संयोगः सद्बीजक्षेत्रयोरिव॥

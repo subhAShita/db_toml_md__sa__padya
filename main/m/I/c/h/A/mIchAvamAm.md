@@ -6,7 +6,7 @@ title = "नीचावमानमलिनां यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीचावमानमलिनां यो भुङ्क्ते सम्पदं पुमान्।  
 लशुनाक्तां स कर्पूरचर्चां वितनुते तनौ॥

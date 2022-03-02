@@ -5,7 +5,7 @@ title = "इमां सागरपर्यन्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इमां सागरपर्यन्तां हिमवद्विन्ध्यकुण्डलाम्।  
 महीमेकातपत्राङ्कां राजसिंहः प्रशास्तु नः॥

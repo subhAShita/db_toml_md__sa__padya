@@ -5,7 +5,7 @@ title = "कर्णिनालीकनाराचा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णिनालीकनाराचा निर्हरन्ति शरीरतः।  
 वाक्शल्यस् तु न निर्हर्तुं शक्यो हृदिशयो हि सः॥

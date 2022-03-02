@@ -5,7 +5,7 @@ title = "अवचनं वचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवचनं वचनं प्रियसंनिधाव् अनवलोकनमेव विलोकनम्।  
 अवयवावरणं च यदञ्चल- व्यतिकरेण तदङ्गसमर्पणम्॥

@@ -5,7 +5,7 @@ title = "इन्द्रियाणां निरोधेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणां निरोधेन रागद्वेषक्षयेण च।  
 अहिंसया च भूतानाम् अमृतत्वाय कल्पते॥

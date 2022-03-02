@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4900", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 13",]
-jsonClass = "Subhaashita"
 topics = [ "धीरः",]
+jsonClass = "Subhaashita"
 title = "आपत्समुद्धरणधीरधियः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपत्समुद्धरणधीरधियः परेषां जाता महत्यपि कुले न भवन्ति सर्वे।  
 विन्ध्याटवीषु विरलाः खलु पादपास्ते ये दन्तिदन्तमुसलोल्लिखनं सहन्ते॥

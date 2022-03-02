@@ -5,7 +5,7 @@ title = "अर्थस्य पुरुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थस्य पुरुषो दासो दासस्त्वर्थो न कस्यचित्।  
 इति सत्यं महाराज बद्धोऽस्म्यर्थेन कौरवैः॥

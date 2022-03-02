@@ -6,7 +6,7 @@ title = "सत्सङ्गात् भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्सङ्गात् भवति हि साधुता खलानां  
 साधूनां न हि खलसङ्गमात् खलत्वम्।  

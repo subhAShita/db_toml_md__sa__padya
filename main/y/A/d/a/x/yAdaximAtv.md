@@ -7,7 +7,7 @@ title = "या दक्षिणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या दक्षिणा त्वमस्यामदक्षिणो दक्षिणस्तदितरस्याम्।  
 जलधिरिव मध्यसंस्थो न वेलयोः सदृशमाचरसि॥

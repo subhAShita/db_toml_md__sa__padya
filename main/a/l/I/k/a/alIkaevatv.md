@@ -5,7 +5,7 @@ title = "अलीक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलीक एव त्वद्भावो मद्भावोऽलीक एव च।  
 अनुभूतोऽप्यसद्रूपः स्वप्ने स्वमरणं यथा॥

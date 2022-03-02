@@ -7,7 +7,7 @@ title = "ततः कुमुदनाथेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ततः कुमुदनाथेन कामिनीगण्डपाण्डुना।  
 नेत्रानन्देनचन्द्रेण माहेन्द्री दिगलङ्कृता॥

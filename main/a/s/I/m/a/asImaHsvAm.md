@@ -5,7 +5,7 @@ title = "असीनः स्वामिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असीनः स्वामिनः पार्श्वे तन्मुखेक्षी कृताञ्जलिः।  
 स्वभावं चास्य विज्ञाय दक्षः कार्याणि साधयेत्॥

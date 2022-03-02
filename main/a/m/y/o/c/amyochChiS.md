@@ -5,7 +5,7 @@ title = "अन्योच्छिष्टेषु पात्रेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्योच्छिष्टेषु पात्रेषु भुक्त्वैतेषु महीभुजः।  
 कस्मान्न लज्जामवहञ् शौचचिन्तां न वा दधुः॥

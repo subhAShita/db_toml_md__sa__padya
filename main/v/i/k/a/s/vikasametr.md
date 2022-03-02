@@ -7,7 +7,7 @@ title = "विकसन्नेत्रनीलाब्जे तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विकसन्नेत्रनीलाब्जे तथा तन्व्याः स्तनद्वयी।  
 तव दत्तां सदा मोदं लसत्तरलहारिणी॥

@@ -7,7 +7,7 @@ title = "वक्षः किमु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वक्षः किमु कलशाङ्कितमिति किमपि प्रष्टुमिच्छन्त्याः।  
 नयनं नवोढसुदृशः प्राणेशः पाणिना पिदधे॥

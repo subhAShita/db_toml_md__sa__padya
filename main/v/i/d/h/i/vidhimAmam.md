@@ -6,7 +6,7 @@ title = "विधिना मन्त्रयुक्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विधिना मन्त्रयुक्तेन रूक्षापि मथितापि च।  
 प्रयच्छति फलं भूमिररणीव हुताशनम्॥

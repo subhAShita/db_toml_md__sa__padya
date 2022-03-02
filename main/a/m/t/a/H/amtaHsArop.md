@@ -5,7 +5,7 @@ title = "अन्तःसारोऽपि निर्याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःसारोऽपि निर्याति नूनमर्थितया सह।  
 अन्यथा तदवस्थस्य महिमा केन देहिनाम्॥

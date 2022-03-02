@@ -6,7 +6,7 @@ title = "प्रायेण नीचलोकस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायेण नीचलोकस्य कः करोतीह गर्वताम्।  
 आदौ वर्णद्वयं दत्त्वा ब्रूहि के वनवासिनः॥

@@ -7,7 +7,7 @@ title = "नवनीतमम्ब न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवनीतमम्ब न मया हृतमिति सशिरोविधूननं वदतः ।  
 मुखमच्युतस्य कलये कुण्डलपर्यायचुम्बितकपोलम् ॥

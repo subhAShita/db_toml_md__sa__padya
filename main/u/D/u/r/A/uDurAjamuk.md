@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6395", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 39",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
-title = "उडुराजमुखी"
+jsonClass = "Subhaashita"
+title = "उडुराजमुखी मृगराजकटिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उडुराजमुखी मृगराजकटिर् गजराजविराजितमन्दगतिः।  
 यदि सा वनिता हृदये निहिता क्व जपः क्व तपः क्व समाधिरतिः॥

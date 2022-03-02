@@ -6,7 +6,7 @@ title = "सुभाषितरसास्वादः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभाषितरसास्वादः प्रौढस्त्रीसङ्गमस्तथा।  
 सेवा विवेकिनो राज्ञो दुःखनिर्मूलनं त्रयम्॥

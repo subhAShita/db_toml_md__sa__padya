@@ -5,7 +5,7 @@ title = "उद्धरेदात्मनात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।  
 आत्मैव ह्यात्मनो बन्धुर् आत्मैव रिपुरात्मनः॥

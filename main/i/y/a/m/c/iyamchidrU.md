@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6093", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 124",]
-jsonClass = "Subhaashita"
 topics = [ "शिवः",]
+jsonClass = "Subhaashita"
 title = "इयं चिद्रूपापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं चिद्रूपापि प्रकटजडरूपा भगवती यदीयाम्भोबिन्दुर्वितरति हि शंभोरपि पदम्।  
 पुनाना धुन्वाना निखिलमपि नानाविधमघं जगत् कृत्स्नं पायादनुदिनमपायात् सुरधुनी॥

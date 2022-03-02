@@ -5,7 +5,7 @@ title = "कलाभिरुच्छ्रिता वेश्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलाभिरुच्छ्रिता वेश्या रूपशीलगुणान्विता।  
 लभते गणिकाशब्दं स्थानं च जनसंसदि॥

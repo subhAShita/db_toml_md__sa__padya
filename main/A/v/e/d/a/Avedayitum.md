@@ -5,7 +5,7 @@ title = "आवेदयितुमस्माकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवेदयितुमस्माकं कृतज्ञत्वं प्रभुं प्रति।  
 पन्थाः श्रेयस्करो नान्यः तूष्णीं तोषेण वर्तनात्॥

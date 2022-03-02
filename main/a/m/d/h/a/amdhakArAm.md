@@ -5,7 +5,7 @@ title = "अन्धकाराङ्कुरो जज्ञे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धकाराङ्कुरो जज्ञे ववृधे चाविलम्बितम्।  
 भीमेन रममाणाया हिडिम्बाया इवात्मजः॥

@@ -6,7 +6,7 @@ title = "लोकयात्रा भयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोकयात्रा भयं लज्जा दाक्षिण्यं त्यागशीलता।  
 पञ्च यत्र न विद्यन्ते न कुर्यात्तत्र संस्थितिम्॥

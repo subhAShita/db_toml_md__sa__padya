@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9351", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 04 कूटानि// 67",]
-jsonClass = "Subhaashita"
 types = [ "कूटम्",]
-title = "काचिद्वियोगानलतप्तगात्री"
+jsonClass = "Subhaashita"
+title = "काचिद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काचिद् वियोगानलतप्तगात्री प्राणान् समाधारयितुं लिलेख।  
 बाह्वोर्भुजङ्गं हृदि राहुबिम्बं नाभौ च कर्पूरमयं महेशम्॥

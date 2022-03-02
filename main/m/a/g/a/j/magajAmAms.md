@@ -6,7 +6,7 @@ title = "न गजानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न गजानां सहस्रेण न लक्षेण च वाजिनाम्।  
 तथा सिध्यन्ति कार्याणि यथा दुर्गप्रभावतः॥

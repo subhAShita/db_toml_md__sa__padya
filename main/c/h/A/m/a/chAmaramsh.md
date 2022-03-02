@@ -6,7 +6,7 @@ title = "चामरं श्रीकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चामरं श्रीकरं दिव्यं राज्यशोभाकरं परम्।  
 सिंहासनं सुखैश्वर्यकरं लोकानुरञ्जनम्॥

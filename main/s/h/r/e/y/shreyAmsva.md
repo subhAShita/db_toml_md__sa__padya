@@ -7,7 +7,7 @@ title = "श्रेयान्स्वधर्मो विगुणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।  
 स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥  

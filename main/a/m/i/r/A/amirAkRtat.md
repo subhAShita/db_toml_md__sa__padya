@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1394", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 202",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अनिराकृततापसम्पदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिराकृततापसंपदं फलहीनां सुमनोभिरुज्झिताम्।  
 खलतां खलनामिवासतीं प्रतिपद्येत कथं बुधो जनः॥

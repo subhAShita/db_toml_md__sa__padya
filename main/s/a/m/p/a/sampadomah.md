@@ -6,7 +6,7 @@ title = "सम्पदो महतामेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संपदो महतामेव महतामेव चापदः।  
 वर्धते क्षीयते चन्द्रो न तु तारागणः क्वचित्॥

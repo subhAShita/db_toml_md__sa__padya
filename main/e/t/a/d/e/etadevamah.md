@@ -5,7 +5,7 @@ title = "एतदेव महच्चित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदेव महच्चित्रं प्राक्तनस्येह कर्मणः।  
 यदनात्मवतामायुर् यच्चानतिमतां श्रियः॥

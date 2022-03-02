@@ -5,7 +5,7 @@ title = "आदौ वरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ वरं निर्धनत्वं धनिकत्वमनन्तरम्।  
 तथादौ पादगमनं यानगत्वमनन्तरम्।  

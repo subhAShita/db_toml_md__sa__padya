@@ -6,7 +6,7 @@ title = "पानीयं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पानीयं वा निरायासं स्वाद्वन्नं वा भयोत्तरम्।  
 विचार्य खलु पश्यामि तत्सुखं यत्र निर्वृतिः॥

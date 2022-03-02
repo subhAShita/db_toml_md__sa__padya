@@ -5,7 +5,7 @@ title = "ऐशान्यां सम्प्राप्तिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऐशान्यां संप्राप्तिर् घृतपूर्णानां भवेदनडुहश्च।  
 एवं फलं गृहपतेर् गृहपृष्ठसमाश्रिते भवति॥

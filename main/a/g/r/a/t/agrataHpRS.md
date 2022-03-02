@@ -5,7 +5,7 @@ title = "अग्रतः पृष्ठतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्रतः पृष्ठतो मध्ये पार्श्वतोऽथ समन्ततः।  
 विद्युच्चकितवद्भाति सूर्यकोटिसमप्रभः॥

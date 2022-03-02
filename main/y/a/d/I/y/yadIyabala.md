@@ -7,7 +7,7 @@ title = "यदीयबलमालोक्य गतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदीयबलमालोक्य गतः प्रेयान्वियुज्यते।  
 आलोकये कथं सख्यस्तस्य चन्द्रमसो मुखम्॥

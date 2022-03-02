@@ -6,7 +6,7 @@ title = "दाता नीचोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दाता नीचोऽपि सेव्यः स्यान्निष्फलो न महानपि।  
 जलार्थी वारिधिं त्यक्त्वा पश्य कूपं निषेवते॥

@@ -6,7 +6,7 @@ title = "दुर्जनं प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनं प्रथमं वन्दे सज्जनं तदनन्तरम्।  
 मुखप्रक्षालनात्पूर्वं गुदप्रक्षालनं यथा॥

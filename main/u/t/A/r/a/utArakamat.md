@@ -5,7 +5,7 @@ title = "उत्तारकमतिस्निग्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तारकमतिस्निग्धं भ्रूक्षेपवशवर्ति च।  
 सदा मुखस्थं मित्रं चेन् नेत्रेण चपलेन किम्॥

@@ -6,7 +6,7 @@ title = "सुलभं वस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुलभं वस्तु सर्वस्य न यात्यादरणीयताम्।  
 स्वदारपरिहारेण परदारार्थिनो जनाः॥

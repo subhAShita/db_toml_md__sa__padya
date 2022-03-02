@@ -5,7 +5,7 @@ title = "क आत्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क आत्मा कः परो वात्र स्वीयः पारक्य एव वा।  
 स्वपराभिनिवेशेन विना ज्ञानेन देहिनाम्॥

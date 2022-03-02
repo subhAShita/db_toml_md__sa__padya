@@ -6,7 +6,7 @@ title = "कुर्यान्न परदारेच्छाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्यान्न परदारेच्छां विश्वासं स्त्रीषु वर्जयेत्।  
 हतो दशास्यः सीतार्थी हतः पत्न्या विदूरथः॥

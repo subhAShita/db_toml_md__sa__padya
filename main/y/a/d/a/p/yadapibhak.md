@@ -6,7 +6,7 @@ title = "यदपि भकगणेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदपि भकगणेन निषेवितं प्रकटकण्टककोटिसमन्वितम्।  
 तदपि पङ्कजमेति मधुव्रतः सुरससौरभसुन्दरताश्रयम्॥

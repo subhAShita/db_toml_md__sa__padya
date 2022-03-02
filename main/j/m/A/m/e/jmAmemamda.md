@@ -7,7 +7,7 @@ title = "ज्ञाने नन्दति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्ञाने नन्दति विद्वान् उपाधिभिः पामराः प्रमाद्यन्ति।  
 अतिथी रसयति मांसं शुनको रुजति स्वमुखमस्थ्ना॥

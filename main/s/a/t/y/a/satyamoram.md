@@ -6,7 +6,7 @@ title = "सत्यं मनोरमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं मनोरमा रामाः सत्यं रम्या विभूतयः।  
 किन्तु मत्ताङ्गनापाङ्गभङ्गलोलं हि जीवितम्॥

@@ -7,7 +7,7 @@ title = "अवयः केवलकवयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवयः केवलकवयः कीराः स्युः केवलं धीराः।  
 वीराः पण्डितकवयस् तानवमन्ता तु केवलं गवयः॥

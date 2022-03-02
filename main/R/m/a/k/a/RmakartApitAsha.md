@@ -6,7 +6,7 @@ title = "ऋणकर्ता पिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणकर्ता पिता शत्रुर्माता च व्यभिचारिणी।  
 अविनीता रिपुर्भार्या पुत्रः शत्रुरपण्डितः॥

@@ -6,7 +6,7 @@ title = "मेखलीयति मेदिन्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मेखलीयति मेदिन्याः ककुभः कङ्कणीयति।  
 मण्डलीस्तुरगः कुर्वञ्जगतः कुण्डलीयति॥

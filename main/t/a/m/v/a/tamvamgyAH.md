@@ -7,7 +7,7 @@ title = "तन्वङ्ग्याः स्तनयुग्मेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तन्वङ्ग्याः स्तनयुग्मेन मुखं न प्रकटीकृतम्।  
 हाराय गुणिने स्थानं न दत्तमिति लज्जया॥

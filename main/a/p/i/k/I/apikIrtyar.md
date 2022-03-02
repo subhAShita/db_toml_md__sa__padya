@@ -5,7 +5,7 @@ title = "अपि कीर्त्यर्थमायान्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि कीर्त्यर्थमायान्ति नाशं सद्योऽतिमानिनः।  
 न चेच्छन्त्ययशोमिश्रम् अप्येवानन्त्यमायुषः॥

@@ -6,7 +6,7 @@ title = "त्वयि लोचनगोचरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वयि लोचनगोचरं गते सफलं जन्म नृसिंहभूपते।  
 अजनिष्ट ममेति सादरं युधि विज्ञापयति द्विषां गणः॥

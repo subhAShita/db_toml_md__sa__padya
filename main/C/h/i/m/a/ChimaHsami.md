@@ -6,7 +6,7 @@ title = "छिन्नः सनिशितैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छिन्नः सनिशितैः शस्त्रैर्विद्धश्च नवसप्तधा।  
 तथापि हि सुवंशेन विरसं नापजल्पितम्॥

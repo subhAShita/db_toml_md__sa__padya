@@ -6,7 +6,7 @@ title = "सत्यं तपो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं तपो ज्ञानमहिंसता च विद्वत्प्रणामं च सुशीलता च।  
 एतानि यो धारयते स विद्वान्न केवलं यः पठते स विद्वान्॥

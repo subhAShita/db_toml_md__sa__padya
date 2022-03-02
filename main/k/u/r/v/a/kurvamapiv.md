@@ -6,7 +6,7 @@ title = "कुर्वन्नपि व्यलीकानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्वन्नपि व्यलीकानि यः प्रियः प्रिय एव सः।  
 अनेकदोषदुष्टोऽपि कायः कस्य न वल्लभः॥

@@ -6,7 +6,7 @@ title = "सद्भिरेव सहासीत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सद्भिरेव सहासीत सद्भिः कुर्वीत सङ्गतिम्।  
 सद्भिर्विवादं मैत्त्रीं च नासद्भिः किञ्चिदाचरेत्॥

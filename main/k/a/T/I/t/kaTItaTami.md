@@ -5,7 +5,7 @@ title = "कटीतटनिकुञ्जेषु सञ्चरन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटीतटनिकुञ्जेषु संचरन् वातकुञ्जरः।  
 एरण्डतैलसिंहस्य गन्धमाघ्राय धावति॥

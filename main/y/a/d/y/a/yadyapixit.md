@@ -6,7 +6,7 @@ title = "यद्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि क्षितिपालानामाज्ञा सर्वत्रगा स्वयम्।  
 तथापि शास्त्रदीपेन चरत्येव मतिः सताम्॥

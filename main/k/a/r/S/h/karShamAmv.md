@@ -5,7 +5,7 @@ title = "कर्षणान्वेषणे यातुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्षणान्वेषणे यातुः क्षुतं जलदवृष्टये।  
 हेमादिभूषणे नव्ये विधृते भूषणाप्तये॥

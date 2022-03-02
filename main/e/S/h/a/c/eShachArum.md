@@ -5,7 +5,7 @@ title = "एष चारुमुखि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष चारुमुखि योगतारया युज्यते तरलबिम्बया शशी।  
 साध्वसादुपगतप्रकम्पया कन्ययेव नवदीक्षया वरः॥

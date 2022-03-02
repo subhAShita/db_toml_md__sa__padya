@@ -6,7 +6,7 @@ title = "रिक्ताः कर्मणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रिक्ताः कर्मणि पटवस्तृप्तास्त्वलसा भवन्ति भृत्या ये।  
 तेषां जलौकसामिव पूर्णानां रिक्तता कार्या॥

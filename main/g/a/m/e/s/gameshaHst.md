@@ -6,7 +6,7 @@ title = "गणेशः स्तौति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गणेशः स्तौति मार्जारं स्ववाहस्याभिरक्षणे।  
 महानपि प्रसङ्गेन नीचं सेवितुमिच्छति॥

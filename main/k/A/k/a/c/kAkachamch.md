@@ -5,7 +5,7 @@ title = "काकचञ्चुपुटीकृत्य ओष्ठौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकचञ्चुपुटीकृत्य ओष्ठौ प्रोक्तानिलं पिबेत्।  
 ॐकारध्वनिनाकृष्य पूरयेद् यावदन्तरम्॥

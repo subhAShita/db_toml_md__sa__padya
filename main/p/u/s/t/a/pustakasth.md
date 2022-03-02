@@ -6,7 +6,7 @@ title = "पुस्तकस्था तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुस्तकस्था तु या विद्या परहस्तगतं धनम्।  
 कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम्॥

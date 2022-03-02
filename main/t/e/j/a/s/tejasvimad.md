@@ -6,7 +6,7 @@ title = "तेजस्विमध्ये तेजस्वी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तेजस्विमध्ये तेजस्वी दवीयानपि गण्यते।  
 पञ्चमः पञ्चतपसस्तपनो जातवेदसाम्॥

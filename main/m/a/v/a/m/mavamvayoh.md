@@ -6,7 +6,7 @@ title = "नवं वयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवं वयो हारि वपुर्वराङ्गनाः सखी कलावित्कलवल्लकीस्वनः।  
 धनं हि सर्वं विफलं सुखैषिणो विना विहारोपवनानि भूपतेः॥

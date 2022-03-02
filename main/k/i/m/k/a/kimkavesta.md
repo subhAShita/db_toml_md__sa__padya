@@ -6,7 +6,7 @@ title = "किं कवेस्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं कवेस्तस्य काव्येन सर्ववृत्तान्तगामिनी।  
 कथेव भारती यस्य न प्राप्नोति दिगन्तरम्॥

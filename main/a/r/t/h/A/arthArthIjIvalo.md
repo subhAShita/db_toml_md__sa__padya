@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2985", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २८ धननिन्दा// 1",]
-jsonClass = "Subhaashita"
 topics = [ "धनम्",]
+jsonClass = "Subhaashita"
 title = "अर्थार्थी जीवलोकोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थार्थी जीवलोकोऽयं श्मशानमपि सेवते।  
 जनितारमपि त्यक्त्वा निःस्वं गच्छति दूरतः॥

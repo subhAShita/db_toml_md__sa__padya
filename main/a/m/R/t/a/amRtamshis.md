@@ -5,7 +5,7 @@ title = "अमृतं शिशिरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतं शिशिरे वह्निर् अमृतं क्षीरभोजनम्।  
 अमृतं गुणवद्भार्या अमृतं बालभाषितम्॥

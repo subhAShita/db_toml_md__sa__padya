@@ -6,7 +6,7 @@ title = "वरं वरयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं वरयते कन्या माता वित्तं पिता श्रुतम्।  
 बान्धवाः कुलमिच्छन्ति मृष्टान्नमितरे जनाः॥

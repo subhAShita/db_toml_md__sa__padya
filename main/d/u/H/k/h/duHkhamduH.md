@@ -6,7 +6,7 @@ title = "दुःखं दुःखमिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुःखं दुःखमिति ब्रूयान्मानवो नरकं प्रति।  
 दारिद्र्यादधिकं दुःखं न भूतं न भविष्यति॥

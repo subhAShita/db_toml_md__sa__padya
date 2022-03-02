@@ -5,7 +5,7 @@ title = "एकेनापि गुणेनर्द्धो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि गुणेनर्द्धो लभते स्पृहणीयताम्।  
 काकल्यैव पिको लोकैर् मोद्यते मलिनोऽप्यसौ॥

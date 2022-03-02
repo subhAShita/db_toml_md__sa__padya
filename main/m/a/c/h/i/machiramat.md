@@ -7,7 +7,7 @@ title = "न चिरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न चिरं मम तापाय तव यात्रा भविष्यति।  
 यदि यास्यसि यातव्यमलमाशङ्कयापि ते॥

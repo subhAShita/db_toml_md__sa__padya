@@ -6,7 +6,7 @@ title = "षट्पदः पुष्पमध्यस्थो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 षट्पदः पुष्पमध्यस्थो यथा सारं समुद्धरेत्।  
 तथा सर्वेषु शास्त्रेषु सारं गृह्णन्ति पण्डिताः॥

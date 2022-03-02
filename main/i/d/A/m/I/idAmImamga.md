@@ -5,7 +5,7 @@ title = "इदानीमङ्गमक्षालि रचितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदानीमङ्गमक्षालि रचितं चानुलेपनम्।  
 इदानीमेव ते कृष्ण धूलीधूसरितं वपुः॥

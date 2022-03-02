@@ -6,7 +6,7 @@ title = "न च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न च विद्यासमो बन्धुर्न च व्याधिसमो रिपुः।  
 न चापत्यसमः स्नेहो न च दैवात्परं बलम्॥

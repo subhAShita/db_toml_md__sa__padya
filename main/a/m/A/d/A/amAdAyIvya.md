@@ -5,7 +5,7 @@ title = "अनादायी व्ययम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनादायी व्ययं कुर्याद् असहायी रणप्रियः।  
 आतुरः सर्वभक्षी च नरः शीघ्रंविनश्यति॥

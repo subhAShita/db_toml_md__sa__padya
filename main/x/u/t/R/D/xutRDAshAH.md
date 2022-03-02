@@ -6,7 +6,7 @@ title = "क्षुत्तृडाशाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षुत्तृडाशाः कुटुम्बिन्यो मयि जीवति नान्यगाः।  
 तासामाशा महासाध्वी कदाचिन्मां न मुञ्चति॥

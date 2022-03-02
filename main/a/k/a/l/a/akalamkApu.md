@@ -5,7 +5,7 @@ title = "अकलङ्का पुलकवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकलङ्का पुलकवती सस्नेहा मुक्तकञ्चुकी श्यामा।  
 पततु तवोरसि दयिता खङ्गलता वैरिणः शिरसि॥

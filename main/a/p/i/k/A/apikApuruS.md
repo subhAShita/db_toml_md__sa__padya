@@ -5,7 +5,7 @@ title = "अपि कापुरुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि कापुरुषो भीरुः स्याच्चेन्नृपतिसेवकः।  
 तथापि न पराभूतिं जनादाप्नोति मानवः॥

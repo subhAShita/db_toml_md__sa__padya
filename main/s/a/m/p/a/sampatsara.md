@@ -6,7 +6,7 @@ title = "सम्पत्सरस्वती सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्पत्सरस्वती सत्यं सन्तानं सदनुग्रहः।  
 सत्ता सुकृतसम्भारः सकाराः सप्त दुर्लभाः॥

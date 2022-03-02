@@ -7,7 +7,7 @@ title = "अधर्मे पतितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मे पतितो यः स्याच्छास्त्रज्ञोऽपि जडो हि सः ।  
 अन्ध एव सहस्राक्षो गाढेन तमसा वृतः ॥

@@ -6,7 +6,7 @@ title = "शाखामृगस्य शाखायाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शाखामृगस्य शाखायाः शाखां गन्तुं पराक्रमः।  
 उल्लङ्घितो यदम्भोधिः प्रभावः प्रभवो हि सः॥

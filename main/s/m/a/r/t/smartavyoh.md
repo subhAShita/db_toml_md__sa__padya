@@ -7,7 +7,7 @@ title = "स्मर्तव्योऽहं त्वया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मर्तव्योऽहं त्वया कान्ते न स्मरिष्याम्यहं तव।  
 स्मरणं चेतसो धर्मस्तच्चेतो भवदाहृतम्॥

@@ -5,7 +5,7 @@ title = "उपदेशो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपदेशो हि मूर्खाणां क्रोधायैव शमाय न।  
 पयःपानं भुज गानां विषायैवामृताय न॥

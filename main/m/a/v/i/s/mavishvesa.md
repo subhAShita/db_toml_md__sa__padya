@@ -6,7 +6,7 @@ title = "न विश्वेसदमित्रस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विश्वेसदमित्रस्य मित्त्रस्यापि न विश्वसेत्।  
 कदाचित्कुपितं मित्त्रं सर्वं गुह्यं प्रकाशयेत्॥

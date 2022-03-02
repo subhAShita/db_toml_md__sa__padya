@@ -5,7 +5,7 @@ title = "असिन्दूरेण सीमन्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असिन्दूरेण सीमन्तो मा भून्नो योषितामिति।  
 अतः परिहरन्त्याजाव् असिं दूरेण तेऽरयः॥

@@ -6,7 +6,7 @@ title = "दुष्टाविनीतशत्रूणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुष्टाविनीतशत्रूणां भयकृद्बन्धुसन्निभमम्।  
 शस्त्रधारणमौजस्यं रक्षोविद्युद्ग्रहापहम्॥

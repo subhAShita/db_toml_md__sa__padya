@@ -5,7 +5,7 @@ title = "कदली बत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदली बत जङ्घायाः सादृश्यं लभते कथम्।  
 शैत्यं हि सहजं तत्र तत्र कालानुरूपता॥

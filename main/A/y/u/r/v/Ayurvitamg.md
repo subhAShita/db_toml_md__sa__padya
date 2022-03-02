@@ -5,7 +5,7 @@ title = "आयुर्वित्तं गृहच्छिद्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुर्वित्तं गृहच्छिद्रं मन्त्रमैथुनभेषजम्।  
 अपमानं तपो दानं नव गोप्यानि यत्नतः॥

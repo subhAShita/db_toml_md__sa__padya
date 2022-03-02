@@ -6,7 +6,7 @@ title = "दामोदराय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दामोदराय पुण्यात्मन्पुष्पमूलफलान्यपि।  
 अत्र क्रियापदं गुप्तं यो जानाति स पण्डितः॥

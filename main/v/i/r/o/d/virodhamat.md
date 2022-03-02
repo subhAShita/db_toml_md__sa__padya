@@ -6,7 +6,7 @@ title = "विरोधमथ यास्यनति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरोधमथ यास्यनति वृषला ब्राह्मणैः सह।  
 मही म्लेच्छजनाकीर्णा भविष्यति ततोऽचिरात् ॥

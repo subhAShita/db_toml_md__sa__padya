@@ -5,7 +5,7 @@ title = "काव्यं चार्वपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यं चार्वपि रसिक- प्रीतिकरं भवति नैकरसबद्धम्।  
 सुरतमनाहितकलहं हरिणदृशो नाभिनन्दयति॥

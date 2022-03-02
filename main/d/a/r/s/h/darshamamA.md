@@ -6,7 +6,7 @@ title = "दर्शनं नाधमद्वारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दर्शनं नाधमद्वारा राज्ञः कार्यं विपश्चिता।  
 गरिष्ठोऽप्यतिनीचः स्यादुपनीतो लघुर्भवेत्॥

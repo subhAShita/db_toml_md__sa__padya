@@ -6,7 +6,7 @@ title = "मात्रा स्वस्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मात्रा स्वस्रा दुहित्रा वा नैकशय्यासनो भवेत्।  
 बलवानिन्द्रियग्रामो विद्वांसमपि कर्षति॥

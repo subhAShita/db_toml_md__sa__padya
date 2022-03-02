@@ -6,7 +6,7 @@ title = "को धर्मो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को धर्मो भूतदया किं सौख्यमरोगिता जगति।  
 कः स्नेहः सद्भावः किं पाण्डित्यं परिच्छेदः॥

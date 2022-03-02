@@ -5,7 +5,7 @@ title = "कालकूटादयो भेदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालकूटादयो भेदा विषस्य नव सन्ति ये।  
 चिकित्सा कथ्यते तेषां मन्त्रपूर्वमविस्तरात्॥

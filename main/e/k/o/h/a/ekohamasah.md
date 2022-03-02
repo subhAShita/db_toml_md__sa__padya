@@ -8,7 +8,7 @@ title = "एकोऽहमसहायोऽहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोऽहमसहायोऽहं कृशोऽहमपरिच्छदः।  
 स्वप्नेऽप्येवंविधा चिन्ता मृगेन्द्रस्य न जायते॥

@@ -3,11 +3,11 @@ secondary_sources = [ "MSS_4933", "सुभाषितरत्नभाण्
 topics = [ "नीतिः", "दक्षता-परीक्षा", "विद्वत्ता", "परीक्षा", "शिक्षा",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "आपरितोषाद् विदुषाम्"
+title = "आ परितोषाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आ परितोषाद् विदुषां न साधु मन्ये प्रयोगविज्ञानम्।  
 बलवदपि शिक्षितानाम् आत्मन्यप्रत्ययं चेतः॥

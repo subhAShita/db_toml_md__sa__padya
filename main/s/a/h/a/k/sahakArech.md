@@ -6,7 +6,7 @@ title = "सहकारे चिरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहकारे चिरं स्थित्वा सलीलं बालकोकिल।  
 तं हित्वाद्यान्यवृक्षेषु विचरन्न विलज्जसे॥

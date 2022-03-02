@@ -5,7 +5,7 @@ title = "अनुगम्य श्मशानान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुगम्य श्मशानान्तं निवर्तन्तीह बान्धवाः।  
 अग्नौ प्रक्षिप्य पुरुषं ज्ञातयः सुहृदस्तथा॥

@@ -7,7 +7,7 @@ title = "दूरं मुक्तालतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरं मुक्तालतया बिससितया विप्रलोभ्यमानो मे।  
 हंस इव दर्शिताशो मानसजन्मा त्वया नीतः॥

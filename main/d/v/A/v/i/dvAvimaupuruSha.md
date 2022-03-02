@@ -6,7 +6,7 @@ title = "द्वाविमौ पुरुषौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वाविमौ पुरुषौ लोके परप्रत्ययकारकौ।  
 स्त्रियः कामितकामिन्यो लोकः पूजितपूजकः॥

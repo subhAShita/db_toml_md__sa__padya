@@ -7,7 +7,7 @@ title = "भोजनाच्छादने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोजनाच्छादने दद्यादृतुकाले च सङ्गमम्।  
 भूषणाद्यं च नारीणां न ताभिर्मन्त्रयेत् सुधीः॥

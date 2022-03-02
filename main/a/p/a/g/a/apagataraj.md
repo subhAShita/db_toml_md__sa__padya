@@ -5,7 +5,7 @@ title = "अपगतरजोविकारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपगतरजोविकारा घनपटलाक्रान्ततारकालोका।  
 लम्बपयोधरभारा प्रावृडियं वृद्धवनितेव॥

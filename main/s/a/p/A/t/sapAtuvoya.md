@@ -6,7 +6,7 @@ title = "स पातु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स पातु वो यस्य जटाकलापे स्थितः शशाङ्कः स्फुटहारगौरः।  
 नीलोत्पलानामिव नालपुञ्जे निद्रायमाणः शरदीव हंसः॥

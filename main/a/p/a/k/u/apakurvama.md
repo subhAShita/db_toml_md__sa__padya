@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1883", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 9",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "अपकुर्वन्नपि प्रायः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपकुर्वन्नपि प्रायः प्राप्नोति महतः फलम्।  
 और्वं दहन्तमेवाग्निं संतर्पयति सागरः॥

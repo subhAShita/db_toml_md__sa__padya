@@ -5,7 +5,7 @@ title = "अहोरात्रे विभजते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहोरात्रे विभजते सूर्यो मानुषदैविके।  
 रात्रिः स्वप्नाय भूतानां चेष्टायै कर्मणामहः॥

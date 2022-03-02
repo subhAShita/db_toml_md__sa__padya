@@ -6,7 +6,7 @@ title = "दुर्जनैरुच्यमानानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनैरुच्यमानानि वचांसि मधुराण्यपि।  
 अकालकुसुमानीव भयं संजनयन्ति हि॥

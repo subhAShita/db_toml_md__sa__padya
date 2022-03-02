@@ -5,7 +5,7 @@ title = "अतिथिः द्वारि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिथिः द्वारि तिष्ठेत आपो गृह्णाति यो नरः।  
 आपोशनं सुरापानम् अन्नं गोमांसभक्षणम्॥

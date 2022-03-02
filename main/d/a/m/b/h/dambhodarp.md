@@ -5,7 +5,7 @@ title = "दम्भो दर्पोऽतिमानश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दम्भो दर्पोऽतिमानश्च क्रोधः पारुष्यमेव च।  
 अज्ञानं चाभिजातस्य पार्थ संपदमासुरीम्॥

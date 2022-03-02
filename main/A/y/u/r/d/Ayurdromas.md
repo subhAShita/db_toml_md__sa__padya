@@ -6,7 +6,7 @@ title = "आयुर्द्रोणसुते श्रियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुर्द्रोणसुते श्रियो दशरथे    शत्रुक्षयो राघवे,  
 ऐश्वर्यंं नहुषे गतिश्च पवने   मानश्च दुर्योधने ।  

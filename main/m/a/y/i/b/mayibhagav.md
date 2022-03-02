@@ -7,7 +7,7 @@ title = "मयि भगवन्नयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मयि भगवन्नयि शम्भो विकासय तथा विवेकिनीं बुद्धिम् ।  
 अवगच्छन्नपि दोषान्न जहामि यथा परस्य गुणान् ॥

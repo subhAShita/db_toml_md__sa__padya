@@ -5,7 +5,7 @@ title = "आदित्याय तमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदित्याय तमः सृष्टं मेघाय ग्रीष्मशोषणम्।  
 मार्गश्रमस् तु वृक्षाय दुःखिनस् तूपकारिणे॥

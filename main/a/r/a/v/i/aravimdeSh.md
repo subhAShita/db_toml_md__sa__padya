@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2843", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// १४ सहकारः// 98",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - सहकारः",]
+jsonClass = "Subhaashita"
 title = "अरविन्देषु कुन्देषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरविन्देषु कुन्देषु रमितं कालयोगतः।  
 अये माकन्द जानीहि तवैवायं मधुव्रतः॥

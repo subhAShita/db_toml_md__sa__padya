@@ -5,7 +5,7 @@ title = "उन्मूल्य सितकेशांस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्मूल्य सितकेशांस्तु मूले मुले च तत्क्षिपेत्।  
 ततः केशाः प्रजायन्ते कृष्णाः कौतुककारिणः।  

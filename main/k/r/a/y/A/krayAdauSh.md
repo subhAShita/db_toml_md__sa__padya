@@ -6,18 +6,18 @@ title = "क्रयादौषधवत्कामः"
 
 +++
 
+<details open><summary>Text</summary>
+
+क्रयादौषधवत्कामः प्रभुत्वात्केवलश्रमः।  
+कारुवन्निजदारेषु योऽन्यः कामः स मन्मथः॥
+</details>
+
+
+
 <details><summary>अज्ञात-विवरणम्</summary>
 
 Love purchased is like a medicine,  
 a labour, when to power due,  
 with one's spouse it's just mechanics:  
 it's something else which is love true.
-</details>
-
-
-
-<details><summary>Text</summary>
-
-क्रयादौषधवत्कामः प्रभुत्वात्केवलश्रमः।  
-कारुवन्निजदारेषु योऽन्यः कामः स मन्मथः॥
 </details>

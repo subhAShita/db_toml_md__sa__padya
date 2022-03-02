@@ -5,7 +5,7 @@ title = "कारुण्यं पुण्यानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारुण्यं पुण्यानां कृतज्ञता पुरुषचिह्नानाम्।  
 माया मोहमतीनां कृतघ्नता नरकपातहेतूनाम्॥

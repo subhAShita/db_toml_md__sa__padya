@@ -5,7 +5,7 @@ title = "उक्तेन बहुना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उक्तेन बहुना किं वा किं कृतैः शपथैर्घनैः।  
 वदामि सत्यमेवैतत् त्वमेव मम मानसे॥

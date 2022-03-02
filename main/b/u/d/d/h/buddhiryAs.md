@@ -6,7 +6,7 @@ title = "बुद्धिर्या सत्त्वरहिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुद्धिर्या सत्त्वरहिता स्त्रीत्वं तत्केवलं मतम्।  
 सत्त्वं चानयसंपन्नं तत्पशुत्वं न पौरुषम्॥

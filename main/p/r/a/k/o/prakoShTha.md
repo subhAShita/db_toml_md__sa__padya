@@ -7,7 +7,7 @@ title = "प्रकोष्ठबन्धे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकोष्ठबन्धे बिम्बोष्ठ्यास्तस्याः काञ्चनकङ्कणम्।  
 नालं वलयितं हस्ते हेमाब्जस्येव राजते॥

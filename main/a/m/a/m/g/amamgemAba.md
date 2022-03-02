@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1197", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०१ मनसिजप्रशंसा// 1",]
-jsonClass = "Subhaashita"
 topics = [ "कामदेवः", "कामः",]
 rasas = [ "शृङ्गारः",]
-title = "अनङ्गेनाबलासङ्गाज्जिता"
+jsonClass = "Subhaashita"
+title = "अनङ्गेनाबलासङ्गाज् जिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनङ्गेनाबलासङ्गाज् जिता येन जगत्त्रयी।  
 स चित्रचरितः कामः सर्वकामप्रदोऽस्तु वः॥

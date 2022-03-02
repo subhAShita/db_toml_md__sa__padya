@@ -6,7 +6,7 @@ title = "खड्गास्तिष्ठन्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गास्तिष्ठन्तु मत्तेभकुम्भकूटाट्टहासिनः।  
 एकदोर्दण्डशेषेऽपि कः सहेत पराभवम्॥

@@ -7,7 +7,7 @@ title = "भुजपञ्जरे गृहीता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भुजपञ्जरे गृहीता नवपरिणीता वरेण रहसि वधूः।  
 तत्कालजालपतिता बालकुरङ्गीव वेपते नितराम्॥

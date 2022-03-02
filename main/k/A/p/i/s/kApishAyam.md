@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9509", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कापिशायनसुगन्धि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कापिशायनसुगन्धि विघूर्णन्न् उन्मदोऽधिशयितुं समशेत।  
 फुल्लदृष्टिवदनं प्रमदानाम् अब्जचारु चषकं च शडङ्घ्रिः॥

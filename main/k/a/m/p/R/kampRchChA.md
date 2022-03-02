@@ -5,7 +5,7 @@ title = "कं पृच्छामः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कं पृच्छामः सुराः स्वर्गे निवसामो वयं भुवि।  
 किं वा काव्यरसः स्वादुः किं वा स्वादीयसी सुधा॥

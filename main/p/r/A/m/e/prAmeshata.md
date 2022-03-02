@@ -7,7 +7,7 @@ title = "प्राणेश तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राणेश तव विरहिणी हिमकरकिरणेषु हर्म्यमिलितेषु।  
 सन्तापनिःसहाङ्गी मुञ्चति निचयं चकोराणाम्॥

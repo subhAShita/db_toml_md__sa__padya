@@ -5,7 +5,7 @@ title = "काले हितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले हितं मितं ब्रूयाद् अविसंवादि पेशलम्।  
 पूर्वाभिभाषी सुमुखः सुशीलः करुणो मृदुः॥

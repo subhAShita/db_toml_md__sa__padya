@@ -6,7 +6,7 @@ title = "कृपणः स्ववधूसङ्गम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृपणः स्ववधूसङ्गं न करोति भयादिह।  
 भविता यदि मे पुत्रः स मे वित्तं हरेदिति॥

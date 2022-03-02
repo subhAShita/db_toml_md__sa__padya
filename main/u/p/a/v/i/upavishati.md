@@ -5,7 +5,7 @@ title = "उपविशति नृपनियुक्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपविशति नृपनियुक्तः केनचिदन्येन वा जनेनोक्तः।  
 निजवेशजातिसमुचितम् आसनमालोक्य सेवते सुमतिः॥

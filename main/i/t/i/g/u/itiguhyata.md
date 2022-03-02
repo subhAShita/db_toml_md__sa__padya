@@ -5,7 +5,7 @@ title = "इति गुह्यतमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इति गुह्यतमं शास्त्रम् इदमुक्तं मयानघ।  
 एतद् बुद्ध्वा बुद्धिमान् स्यात् कृतकृत्यश्च भारत॥

@@ -6,7 +6,7 @@ title = "ध्रियते यावदेकोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ध्रियते यावदेकोऽपि रिपुस्तावत्कुतः सुखम्।  
 पुरः क्लिश्नाति सोमं हि सैंहिकेयोऽसुरद्रुहाम्॥

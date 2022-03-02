@@ -5,7 +5,7 @@ title = "एवं सन्त्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं सन्त्येव देवेह भर्तृभक्ताः कुलाङ्गनाः।  
 न पुनः सर्वथा सर्वा दुर्वृत्ता एव योषितः॥

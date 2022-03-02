@@ -5,7 +5,7 @@ title = "अशीतास्तरणो माघे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशीतास्तरणो माघे फाल्गुने पशुपक्षिणौ।  
 चैत्रे जलचराः सर्वे वैशाखे नरवानरौ॥

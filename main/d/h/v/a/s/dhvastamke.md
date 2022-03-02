@@ -6,7 +6,7 @@ title = "ध्वस्तं केन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ध्वस्तं केन विलेपनं कुचयुगे केनाञ्जनं नेत्रयोर्  
 रागः केन तवाधरे प्रमथितः केशेषु केन स्रजः ।  

@@ -6,7 +6,7 @@ title = "यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य चाप्रियमन्विच्छेत्तस्य कुर्यात्सदा प्रियम्।  
 व्याधा मृगवधं कर्तुं सम्यग्गायन्ति सुस्वरम्॥

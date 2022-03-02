@@ -6,7 +6,7 @@ title = "यद्यपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि न भवति हानिः परकीयां चरति रासभे द्राक्षाम्।  
 असमञ्जसमिति मत्वा तथापि खलु खिद्यते चेतः॥

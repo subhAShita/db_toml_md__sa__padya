@@ -5,7 +5,7 @@ title = "अलमन्ध"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलमन्ध भुजायष्टिभ्रान्त्या भ्रातर्जडस्य ते।  
 दंशाय दंदशूकोऽयं दंशमुद्रां न मुञ्चति॥

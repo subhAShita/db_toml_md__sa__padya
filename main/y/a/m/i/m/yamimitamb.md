@@ -6,7 +6,7 @@ title = "यन्निमित्तं भवेच्छोको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यन्निमित्तं भवेच्छोको दुःखं वा त्रास एव च।  
 आयासो वा यतः शूलस्तदेकाङ्गमपि त्यजेत्॥

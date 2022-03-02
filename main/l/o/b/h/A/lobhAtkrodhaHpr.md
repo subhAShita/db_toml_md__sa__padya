@@ -6,7 +6,7 @@ title = "लोभात्क्रोधः प्रभवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोभात्क्रोधः प्रभवति क्रोधाद्द्रोहः प्रवर्तते।  
 द्रोहेण नरकं याति शास्त्रज्ञोऽपि विचक्षणः॥

@@ -7,7 +7,7 @@ title = "विशालाक्ष्याः कटाक्षेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विशालाक्ष्याः कटाक्षेण विकृष्टं रश्मिनेव मे।  
 हृदयं किं करिष्यामि न पुनर्विनिवर्तते॥

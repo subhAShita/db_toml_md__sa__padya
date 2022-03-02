@@ -7,7 +7,7 @@ title = "लावण्यमधुभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लावण्यमधुभिः पूर्णमास्यमस्या विकस्वरम्।  
 लोकलोचनरोलम्बकदम्बैः कैर्न पीयते॥

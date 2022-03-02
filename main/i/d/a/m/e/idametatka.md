@@ -5,7 +5,7 @@ title = "इदमेतत् करिष्यामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमेतत् करिष्यामि तत एतद् भविष्यति।  
 संकल्पः क्रियते योऽयं न तं मृत्युः प्रतीक्षते॥

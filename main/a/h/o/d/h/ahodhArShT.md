@@ -5,7 +5,7 @@ title = "अहो धार्ष्ट्यमसाधूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो धार्ष्ट्यमसाधूनां निन्दतामनघाः स्त्रियः।  
 मुष्णतामिव चौराणां तिष्ठ चौरेति जल्पताम्॥

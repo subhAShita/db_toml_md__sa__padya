@@ -5,7 +5,7 @@ title = "अनित्ये प्रियसंवासे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनित्ये प्रियसंवासे संसारे चक्रवद्गतौ।  
 पथि संगतमेवैतद् भ्राता माता पिता सखा॥

@@ -6,7 +6,7 @@ title = "म्लेच्छभूतं जगत्सर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 म्लेच्छभूतं जगत्सर्वं निष्क्रियं दानवर्जितम्।  
 भविष्यति निरानन्दमनुत्सवमथो तथा ॥  

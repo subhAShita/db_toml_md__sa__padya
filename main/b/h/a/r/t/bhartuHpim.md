@@ -6,7 +6,7 @@ title = "भर्तुः पिण्डानृणकरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भर्तुः पिण्डानृणकरो यशःक्रयमहापणः।  
 सुराङ्गनास्वयङ्ग्राहो रम्यः कालोऽयमागतः॥

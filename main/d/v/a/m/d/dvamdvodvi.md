@@ -6,7 +6,7 @@ title = "द्वन्द्वो द्विगुरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वन्द्वो द्विगुरपि चाहं मद्गेहे नित्यमव्ययीभावः।  
 तत्पुरुष कर्मधारय येनाहं स्यां बहुव्रीहिः॥

@@ -5,7 +5,7 @@ title = "अलङ्कारप्रियो विष्णुर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलंकारप्रियो विष्णुर् जलधाराप्रियः शिवः।  
 नमस्कारप्रियो भानुर् ब्राह्मणो भोजनप्रियः॥

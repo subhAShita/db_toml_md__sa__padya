@@ -6,7 +6,7 @@ title = "छिन्नेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छिन्नेऽपि शस्त्रभिन्नेऽप्यापत्पतितेऽपि निर्विशेषेऽपि।  
 हनुमति कृतप्रतिज्ञे दैवमदैवं यमोऽप्ययमः॥

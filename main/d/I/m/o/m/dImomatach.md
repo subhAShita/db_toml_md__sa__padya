@@ -6,7 +6,7 @@ title = "दीनोन्नतचलपक्षतया बह्वपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीनोन्नतचलपक्षतया बह्वपि लब्धमस्तु।  
 चातक सत्सम्भावनया किमपि यदस्ति तदस्तु॥

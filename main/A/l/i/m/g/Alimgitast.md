@@ -5,7 +5,7 @@ title = "आलिङ्गितस् तत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलिङ्गितस् तत्र भवान् सांपराये जयश्रिया।  
 आशीःपरंपरां वन्द्यां कर्णे कृत्वा कृपां कुरु॥

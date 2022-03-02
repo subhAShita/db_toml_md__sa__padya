@@ -5,7 +5,7 @@ title = "आत्मानमात्मना वेत्सि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानमात्मना वेत्सि सृजस्यात्मानमात्मना।  
 आत्मना कृतिना च त्वम् आत्मन्येव प्रलीयसे॥

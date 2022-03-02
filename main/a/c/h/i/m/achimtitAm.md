@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0348", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 5",]
-jsonClass = "Subhaashita"
 topics = [ "सन्तोषः",]
+jsonClass = "Subhaashita"
 title = "अचिन्तितानि दुःखानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचिन्तितानि दुःखानि यथैवायान्ति देहिनाम्।  
 सुखान्यपि तथा मन्ये दैवमत्रातिरिच्यते॥

@@ -5,7 +5,7 @@ title = "कारणेन विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारणेन विना भृत्ये यस्तु कुप्यति पार्थिवः।  
 स गृह्णाति विषोन्मादं कृष्णसर्पप्रदंशितः॥

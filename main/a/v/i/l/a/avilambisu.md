@@ -5,7 +5,7 @@ title = "अविलम्बि सुवृत्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविलम्बि सुवृत्तं च उदरं चातिपूजितम्।  
 नातिदीर्घं समं पृष्ठं किंचिच्च विनतं शुभम्॥

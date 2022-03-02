@@ -7,7 +7,7 @@ title = "रूक्षायां स्नेहसम्भारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रूक्षायां स्नेहसम्भारं कठोरायां सुमार्दवम्।  
 नीरसायां रसं बालो बालिकायां विकल्पयेत्॥

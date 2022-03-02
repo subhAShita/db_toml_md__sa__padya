@@ -5,7 +5,7 @@ title = "अदृष्यन्ति पुरस्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदृष्यन्ति पुरस्तेन खेलाः खञ्जनपङ्क्तयः।  
 अस्मय्रन्त विनिःश्वस्य प्रियानयनविभ्रमाः॥

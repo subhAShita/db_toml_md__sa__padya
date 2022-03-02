@@ -5,7 +5,7 @@ title = "इत्यन्यदुपचारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्यन्यदुपचारेण मित्रमन्यत् तु सत्यतः।  
 तुल्येऽपि स्निग्धतायोगे तैलं तैलं घृतं घृतम्॥

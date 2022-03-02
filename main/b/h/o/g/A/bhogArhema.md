@@ -6,7 +6,7 @@ title = "भोगार्हे नवयौवनेपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगार्हे नवयौवनेपि विपिने चीराम्बरो राघवः  
 तत्राप्यस्य परेण दारहरणं क्लेशः तदन्वेषणे ।  

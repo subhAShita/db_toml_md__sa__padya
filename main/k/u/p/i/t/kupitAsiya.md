@@ -7,7 +7,7 @@ title = "कुपितासि यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुपितासि यदा तन्वि निधाय करजक्षतम्।  
 बधान भुजपाशाभ्यां कण्ठमस्य दृढं तदा॥

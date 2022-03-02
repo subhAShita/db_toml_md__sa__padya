@@ -6,7 +6,7 @@ title = "शुचि भूमिगतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुचि भूमिगतं तोयं शुचिर्नारी पतिव्रता।  
 शुचिः क्षेमकरो राजा सन्तोषी ब्राह्मणः शुचिः॥

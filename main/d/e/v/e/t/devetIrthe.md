@@ -6,7 +6,7 @@ title = "देवे तीर्थे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देवे तीर्थे द्विजे मन्त्रे दैवज्ञे भेषजे गुरौ।  
 यादृशी भावना यस्य सिद्धिर्भवति तादृशी॥

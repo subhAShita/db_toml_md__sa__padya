@@ -5,7 +5,7 @@ title = "कल्याणपादपारामम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्याणपादपारामं श्रुतगङ्गाहिमाचलम्।  
 ज्ञानाम्भोजरविं देवं वन्दे श्रीज्ञाननन्दनम्॥

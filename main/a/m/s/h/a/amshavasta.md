@@ -5,7 +5,7 @@ title = "अंशवस्तव निशाकर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अंशवस्तव निशाकर नूनं कल्पितास्तरुणकेतकखण्डैः।  
 येन पाण्डुरतरद्युतयो नः कण्टकैरिव तुदन्ति शरीरम्॥

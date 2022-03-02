@@ -6,7 +6,7 @@ title = "वरतरुविघटनपटवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरतरुविघटनपटवः कटवश्चञ्चन्ति वायवो बहवः।  
 तत्कुसुमबहलपरिमलगुणविन्यासे कृति त्वेकः॥

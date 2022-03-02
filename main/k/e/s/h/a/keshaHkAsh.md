@@ -6,7 +6,7 @@ title = "केशः काशस्तबकविलासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केशः काशस्तबकविलासः कायः प्रकटितकरभविलासः।  
 चक्षुर्दग्धवराटककल्पं त्यजति न चेतः काममनल्पम्॥

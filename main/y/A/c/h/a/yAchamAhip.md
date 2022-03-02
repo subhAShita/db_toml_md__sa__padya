@@ -6,7 +6,7 @@ title = "याचना हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 याचना हि पुरुषस्य महत्त्वं नाशत्यखिलमेव तथा हि।  
 सद्य एव भगवानपि विष्णुर्वामनो भवति याचितुमिच्छन्॥

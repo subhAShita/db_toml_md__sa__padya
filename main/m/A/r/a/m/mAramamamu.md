@@ -6,7 +6,7 @@ title = "मारमणमुमारमणं फणधरतल्पम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मारमणमुमारमणं फणधरतल्पं फणाधराकल्पम् ।  
 मुरमथनं पुरमथनं वन्दे बाणारिमसमबाणारिम् ॥

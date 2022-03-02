@@ -5,7 +5,7 @@ title = "अर्थस्य निश्चयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थस्य निश्चयो दृष्टो विचारेण हितोक्तितः।  
 न स्नानेन न दानेन प्राणायामशतेन वा॥

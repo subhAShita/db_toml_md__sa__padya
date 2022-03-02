@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6448", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 76",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "उत्क्षिप्योच्चैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्क्षिप्योच्चैः प्रस्फुरन्तं रदाभ्याम् ईषादन्तः कुञ्जरं शात्रवीयम्।  
 शृ गप्रोतप्रावृषेण्याम्बुदस्य स्पष्टं प्रापत् साम्यमुर्वीधरस्य॥

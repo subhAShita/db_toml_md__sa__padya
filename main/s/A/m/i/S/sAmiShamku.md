@@ -6,7 +6,7 @@ title = "सामिषं कुररम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सामिषं कुररं जघ्नुर्बलिनोऽन्ये निरामिषाः।  
 तदामिषं परित्यज्य स सुखं समविन्दत॥

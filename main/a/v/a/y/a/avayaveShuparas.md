@@ -7,7 +7,7 @@ title = "अवयवेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवयवेषु परस्परबिम्बितेष्वतुलकान्तिषु राजति तत्तनोः।  
 अयमयं प्रविभाग इति स्फुटं जगति निश्चिनुते चतुरोऽपि कः॥

@@ -5,7 +5,7 @@ title = "अकृतत्यागमहिम्नां मिथ्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृतत्यागमहिम्नां मिथ्या किं राजराजशब्देन।  
 गोप्तारं न निधीनां महयन्ति महेश्वरं विबुधाः॥

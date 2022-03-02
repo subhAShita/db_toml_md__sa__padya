@@ -5,7 +5,7 @@ title = "अग्रे प्रस्तुतनाशानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्रे प्रस्तुतनाशानां मूकता परमो गुणः।  
 तथापि प्रभुभक्तानां सौधर्म्यादेवमुच्यते॥

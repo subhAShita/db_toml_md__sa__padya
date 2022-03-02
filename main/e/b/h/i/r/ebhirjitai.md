@@ -5,7 +5,7 @@ title = "एभिर्जितैर्जितं सर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एभिर्जितैर्जितं सर्वं सरुतेन महात्मना।  
 स्मृत्वा विवर्जयेदेतान् षड्दोषांश्च महीपतिः॥

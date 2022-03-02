@@ -5,7 +5,7 @@ title = "अङ्गारसदृशी नारी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गारसदृशी नारी घृतकुम्भसमः पुमान्।  
 ये प्रसक्ता विलीनास्ते ये स्थितास्ते पदे स्थिताः॥

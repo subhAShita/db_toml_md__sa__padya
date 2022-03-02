@@ -7,7 +7,7 @@ title = "नपुंसकमिति ज्ञात्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नपुंसकमिति ज्ञात्वा तां प्रति प्रहितं मनः।  
 तत्तु तत्रैव रमते हताः पाणिनिना वयम्॥

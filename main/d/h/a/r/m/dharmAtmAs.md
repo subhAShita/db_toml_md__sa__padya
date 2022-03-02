@@ -7,7 +7,7 @@ title = "धर्मात्मा सत्यसन्धश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मात्मा सत्यसन्धश्च रामो दाशरथिर् यदि ।  
 पौरुषे चाप्रतिद्वन्द्वः शरैनं जहि रावणिम् ॥

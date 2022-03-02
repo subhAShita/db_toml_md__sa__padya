@@ -5,7 +5,7 @@ title = "इह सन्तमसे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह संतमसे घनागमे सुखितं भानवमैन्दवं वपुः।  
 तडिदुज्ज्वलदीपलेखया हरितोऽमूः परितो विचिन्वति॥

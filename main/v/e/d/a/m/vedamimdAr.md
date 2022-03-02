@@ -7,7 +7,7 @@ title = "वेदनिन्दारतान् मर्त्यान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदनिन्दारतान् मर्त्यान् देवनिन्दारतांस्तथा ।  
 द्विजनिन्दारतांश्चैव मनसापि न चिन्तयेत् ॥

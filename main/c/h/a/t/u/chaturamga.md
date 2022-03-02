@@ -6,7 +6,7 @@ title = "चतुरङ्गबलो राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चतुरङ्गबलो राजा जगतीं वशमानयेत्।  
 अहं पञ्चाङ्गबलवानाकाशं वशमानये॥

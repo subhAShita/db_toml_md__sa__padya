@@ -5,7 +5,7 @@ title = "आदरेणार्जवेनैव शौर्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदरेणार्जवेनैव शौर्याद् दानेन विद्यया।  
 प्रत्युत्थानाभिगमनैर् आनन्दस्मितभाषणैः।  

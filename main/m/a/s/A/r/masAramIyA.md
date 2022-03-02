@@ -6,7 +6,7 @@ title = "न सारणीया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न सारणीया धीरेण रसना नीरसे जने।  
 को नाम कुरुते फेरौ नायकः सायकक्षतिम्॥

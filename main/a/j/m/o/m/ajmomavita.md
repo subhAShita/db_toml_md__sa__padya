@@ -5,7 +5,7 @@ title = "अज्ञो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञो न वितरत्यर्थान् पुनर्दारिद्रियशङ्कया।  
 प्राज्ञोऽपि वितरत्यर्थान् पुनर्दारिद्रियशङ्कया॥

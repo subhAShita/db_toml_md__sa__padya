@@ -5,7 +5,7 @@ title = "अदैवं दैवतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदैवं दैवतं कुर्युर् दैवतं चाप्यदैवतम्।  
 लोकपालान् सृजेयुश्च लोकानन्यांस्तथा द्विजः॥

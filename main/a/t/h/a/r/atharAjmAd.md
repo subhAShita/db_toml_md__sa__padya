@@ -5,7 +5,7 @@ title = "अथ राज्ञा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ राज्ञा दरः कार्यो न तु कस्यां चिदापदि।  
 अपि चेतसि दीर्णः स्यान् नैव वर्तेत दीर्णवत्॥

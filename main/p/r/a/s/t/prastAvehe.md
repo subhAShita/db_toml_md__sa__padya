@@ -6,7 +6,7 @@ title = "प्रस्तावे हेतुयुक्तानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रस्तावे हेतुयुक्तानि यः पठत्यविशङ्गितः।  
 स कविस्तानि काव्यानि काव्ये तस्य परिश्रमः॥

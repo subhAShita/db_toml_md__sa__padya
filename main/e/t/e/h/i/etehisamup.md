@@ -5,7 +5,7 @@ title = "एते हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते हि समुपासीना विहगा जलचारिणः।  
 नावगाहन्ति सलिलम् अप्रगल्भा इवाहवभ्॥

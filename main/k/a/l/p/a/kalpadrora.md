@@ -5,7 +5,7 @@ title = "कल्पद्रोरपि कल्पद्रुर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्पद्रोरपि कल्पद्रुर् महतोऽपि मणेर्मणिः।  
 देवानामपि पूज्योऽसि कियत् ते मम पूरणम्॥

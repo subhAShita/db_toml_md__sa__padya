@@ -6,7 +6,7 @@ title = "नानृषिः कुरुते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नानृषिः कुरुते काव्यं नारुद्रः क्रमपाठकः।  
 नादेवांशो ददात्यन्नं नाविष्णुः पृथिवीपतिः॥

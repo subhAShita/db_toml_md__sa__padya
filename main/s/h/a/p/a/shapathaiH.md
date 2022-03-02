@@ -6,7 +6,7 @@ title = "शपथैः सन्धितस्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शपथैः सन्धितस्यापि न विश्वासं व्रजेद्रिपोः।  
 राज्यलोभाद्यतो विप्रः शक्रेण शपथैर्हतः॥

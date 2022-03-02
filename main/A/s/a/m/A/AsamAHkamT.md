@@ -5,7 +5,7 @@ title = "आसन्नाः कण्टकिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नाः कण्टकिनो रिपुभयदाः क्षीरिणोऽर्थनाशाय।  
 फलिनः प्रजाक्षयकरा दारूण्यपि वर्जयेत् तेषाम्॥

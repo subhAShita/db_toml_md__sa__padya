@@ -5,7 +5,7 @@ title = "अनुप्रासिनि सन्दर्भे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुप्रासिनि सन्दर्भे गोनन्दनसमः कुतः।  
 यथार्थनामतैवास्य यद्वा वदति चारुताम्॥

@@ -5,7 +5,7 @@ title = "अनेन योगेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेन योगेन विवृद्धतेजा निजां परस्मै पदवीमयच्छन्।  
 समाचराचारमुपात्तशस्त्रो जपोपवासाभिषवैर्मुनीनाम्॥

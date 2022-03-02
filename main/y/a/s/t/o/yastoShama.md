@@ -6,7 +6,7 @@ title = "यस्तोषं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्तोषं न गतः कमलेषु मल्लीचम्पकबकुलकुलेषु।  
 तस्यालेर्यदि निम्बे वासः कथय कथं न भवत्युपहासः॥

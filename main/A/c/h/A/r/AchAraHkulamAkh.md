@@ -5,7 +5,7 @@ title = "आचारः कुलमाख्याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचारः कुलमाख्याति वपुराख्याति भोजनम्।  
 वचनं श्रुतमाख्याति स्नेहमाख्याति लोचनम्॥

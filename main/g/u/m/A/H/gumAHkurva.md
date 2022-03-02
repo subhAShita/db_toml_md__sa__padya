@@ -6,7 +6,7 @@ title = "गुणाः कुर्वन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणाः कुर्वन्ति दूतत्वं दूरेऽपि बसतां सताम्।  
 केतकीगन्धमाघ्रातुं स्वयमायान्ति षट्पदाः॥

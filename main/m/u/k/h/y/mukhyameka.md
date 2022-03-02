@@ -6,7 +6,7 @@ title = "मुख्यमेकं पुरस्कृत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुख्यमेकं पुरस्कृत्य शून्यात्मानोऽपि साधकाः।  
 भवन्ति तं विना नैव यथा सङ्ख्याङ्कबिन्दवः॥

@@ -6,7 +6,7 @@ title = "न लज्जते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न लज्जते सज्जनवर्जनीयया भुजङ्गवक्रक्रिययापि दुर्जनः।  
 धियं कुमायासमयाभिचारिणीं विदग्धतामेव हि मन्यते खलः॥

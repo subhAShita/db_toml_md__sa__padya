@@ -6,7 +6,7 @@ title = "कृत्वोपकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृत्वोपकारं यस्तस्माद्वाञ्छति प्रत्युपक्रियाम्।  
 दीनस्तृष्णाविधेयत्वाद्वान्तमप्युपलेढि सः॥

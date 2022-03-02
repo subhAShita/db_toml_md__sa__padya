@@ -7,7 +7,7 @@ title = "मौनं कालविलम्बश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मौनं कालविलम्बश्च प्रयाणं भूमिदर्शनम्।  
 भृकुट्यन्यमुखी वार्ता नकारः षड्विधः स्मृतः॥

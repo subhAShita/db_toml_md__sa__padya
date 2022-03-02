@@ -6,7 +6,7 @@ title = "तत्कर्माचर येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्कर्माचर येन तावकयशो भूयात्प्रभाते पुनर्न स्नेहो न च सा दशा नहि परं ज्योतिः परं स्थास्यति॥
 </details>

@@ -6,7 +6,7 @@ title = "पर्जन्य इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पर्जन्य इव भूतानामाधारः पृथिवीपतिः।  
 विकलेऽपि हि पर्जन्ये जीव्यते न तु भूपतौ॥

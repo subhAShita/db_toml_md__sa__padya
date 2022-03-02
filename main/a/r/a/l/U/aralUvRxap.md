@@ -5,7 +5,7 @@ title = "अरलूवृक्षपत्राणां लेपो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरलूवृक्षपत्राणां लेपो गोमुखरोगहृत्।  
 गोनाससंभवः क्षारो हन्ति पुष्पं चिरोद्भवम्॥

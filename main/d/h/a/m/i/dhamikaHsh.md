@@ -6,7 +6,7 @@ title = "धनिकः श्रोत्रियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनिकः श्रोत्रियो राजा नदी वैद्यस्तु पञ्चमः।  
 पञ्च यत्र न विद्यन्ते न तत्र दिवसं वसेत्॥

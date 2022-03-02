@@ -5,7 +5,7 @@ title = "उपकाराय न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकाराय न जातः सपदि सुजातः क्व जातवैरेऽपि।  
 ग्रासयति ग्रस्तोऽपि द्रोहिणममृतानि रोहिणीरमणः॥

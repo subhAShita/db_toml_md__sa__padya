@@ -7,7 +7,7 @@ title = "गौरीव पत्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौरीव पत्या सुभगा कदाचित्कर्त्रीयमप्यर्धतनूसमस्याम्।  
 इतीव मध्ये निदधे विधाता रोमावलीमेचकसूत्रमस्याः॥

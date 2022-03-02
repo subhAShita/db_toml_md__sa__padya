@@ -6,7 +6,7 @@ title = "रवेरेवोदयः श्लाघ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रवेरेवोदयः श्लाघ्यः कोऽन्येषामुदयग्रहः।  
 न तमांसि न तेजांसि यस्मिन्नभ्युदिते सति॥

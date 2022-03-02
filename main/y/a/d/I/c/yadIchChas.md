@@ -6,7 +6,7 @@ title = "यदीच्छसि वशीकर्तुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदीच्छसि वशीकर्तुं जगदेकेन कर्मणा।  
 परापवादसस्येभ्यो गां चरन्तीं निवारय॥

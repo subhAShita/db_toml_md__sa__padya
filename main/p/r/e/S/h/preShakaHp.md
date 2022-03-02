@@ -6,7 +6,7 @@ title = "प्रेषकः प्रैष्यकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेषकः प्रैष्यकः काण्डः किमेकः स्तम्भलीनकः।  
 योगी तत्कालरोगी च षडेते सेवकाधमाः॥

@@ -6,7 +6,7 @@ title = "दुर्जनः सुजनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनः सुजनो न स्यादुपायानां शतैरपि।  
 अपानं मृत्सहस्रेण दौतं चास्यं कथं भवेत्॥

@@ -6,7 +6,7 @@ title = "यद्यपि शिरोऽधिरोहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि शिरोऽधिरोहति रौद्रः क्रोधेन सिंहिकातनयः।  
 त्यजति न शरणं यातं सागरसूनुर्मृगं तदपि॥

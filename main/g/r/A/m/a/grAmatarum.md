@@ -7,7 +7,7 @@ title = "ग्रामतरुणं तरुण्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ग्रामतरुणं तरुण्या नववञ्जुलमञ्जरीसनाथवरम्।  
 पश्यन्त्या भवति मुहुर्नितरां मलिना मुखच्छाया॥

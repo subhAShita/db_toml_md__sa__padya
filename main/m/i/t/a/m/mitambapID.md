@@ -7,7 +7,7 @@ title = "नितम्बपीड्यमानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नितम्बपीड्यमानेन पादयुग्मेन सुभ्रुवः।  
 कृता भ्रुकुटिभङ्गीव नीलनूपुरमालया॥

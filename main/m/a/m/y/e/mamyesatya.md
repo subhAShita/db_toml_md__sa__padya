@@ -6,7 +6,7 @@ title = "मन्ये सत्यमहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्ये सत्यमहं लक्ष्मीः समुद्राद्धूलिरुत्थिता।  
 पश्यन्तोऽपि न पश्यन्ति सन्तो विह्वललोचनाः॥

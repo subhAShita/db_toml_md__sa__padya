@@ -6,7 +6,7 @@ title = "दाता क्षमी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दाता क्षमी गुणग्राही स्वामी दुःखेन लभ्यते।  
 शुचिर्दक्षोऽनुरक्तश्च जाने भृत्योऽपि दुर्लभः॥

@@ -6,7 +6,7 @@ title = "यस्मिन्रुष्टे भयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिन्रुष्टे भयं नास्ति तुष्टे नैव धनागमः।  
 निग्रहानुग्रहौ न स्तः स रुष्टः किं करिष्यति॥

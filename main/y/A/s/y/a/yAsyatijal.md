@@ -6,7 +6,7 @@ title = "यास्यति जलधरसमयस्तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यास्यति जलधरसमयस्तव च समृद्धिर्लघीयसी भविता।  
 तटिनि तटद्रुमपातनपातकमेकं चिरस्थायि॥

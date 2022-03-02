@@ -7,7 +7,7 @@ title = "न देवकन्यका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न देवकन्यका नापि गन्धर्वकुलसम्भवा।  
 तथाप्येषा तपोभङ्गं विधातुं वेधसोऽप्यलम्॥

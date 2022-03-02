@@ -7,7 +7,7 @@ title = "न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कामभोगान्बहुलान्नालङ्कारार्थसञ्चयान्।  
 तथाहि बहु मन्यन्ते यथा रत्याः परिग्रहम्॥

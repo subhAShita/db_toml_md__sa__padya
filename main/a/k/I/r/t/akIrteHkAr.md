@@ -5,7 +5,7 @@ title = "अकीर्तेः कारणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकीर्तेः कारणं योषिद् योषिद्वैरस्य कारणम्।  
 संसारकारणं योषिद् योषितं वर्जयेत्ततः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2904", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// 63",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "नेत्रे",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अर्जुनः कृष्णसंयुक्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्जुनः कृष्णसंयुक्तः कर्णं यत्रानुधावति।  
 तन्नेत्रं तु कुरुक्षेत्रम् इति मुग्धे मृशामहे॥

@@ -7,7 +7,7 @@ title = "पुराणरश्मिजालेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुराणरश्मिजालेषु स्रस्तेष्वस्तावलम्बनम्।  
 बिम्बमम्बुरुहां नेतुरम्बरादवलम्बते॥

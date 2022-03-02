@@ -5,7 +5,7 @@ title = "आयाति स्खलितैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयाति स्खलितैः पादैर् मुखवैवर्ण्यसंयुतः।  
 ललाटस्वेदभाग् भूरिगद्गदं भाषते वचः॥

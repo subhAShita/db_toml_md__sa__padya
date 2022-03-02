@@ -5,7 +5,7 @@ title = "अदातृमानसं क्वापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदातृमानसं क्वापि न स्पृशन्ति कवेर्गिरः।  
 दुःखायैवातिवृद्धस्य विलासास्तरुणीकृताः॥

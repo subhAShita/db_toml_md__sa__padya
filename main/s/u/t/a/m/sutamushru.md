@@ -7,7 +7,7 @@ title = "सुतनु श्रुतिसेवनतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुतनु श्रुतिसेवनतो मन्ये नयनं निरञ्जनं जातम्।  
 मुग्धा स्नेहात्कबरी युक्तां मुक्तिं कथं प्राप॥

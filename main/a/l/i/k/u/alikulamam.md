@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3169", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 10",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अलिकुलमञ्जुलकेशी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलिकुलमञ्जुलकेशी परिमलबहुला रसावहा तन्वी।  
 किशलयपेशलपाणिः कोकिलकलभाषिणी प्रियतमा मे॥

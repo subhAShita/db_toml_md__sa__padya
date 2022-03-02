@@ -7,7 +7,7 @@ title = "वैश्यासौ मदनज्वाला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैश्यासौ मदनज्वाला रूपेन्धनसमेधिता।  
 कामिभिर्यत्र हूयन्ते यौवनानि धनानि च॥

@@ -5,7 +5,7 @@ title = "अलक्तको यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलक्तको यथा रक्तो नरः कामी तथैव च।  
 हृतसारस्तथा सोऽपि पादमूले निपात्यते॥

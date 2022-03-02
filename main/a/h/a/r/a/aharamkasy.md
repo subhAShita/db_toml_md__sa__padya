@@ -5,7 +5,7 @@ title = "अहरन् कस्यचिद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहरन् कस्यचिद् द्रव्यं यो नरः सुखमावसेत्।  
 सर्वतः शङ्कितः स्तेनो मृगोग्राममिवागतः॥

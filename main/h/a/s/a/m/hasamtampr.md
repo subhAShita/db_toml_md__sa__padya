@@ -7,7 +7,7 @@ title = "हसन्तं प्रहसन्त्येता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हसन्तं प्रहसन्त्येता रुदन्तं प्ररुदन्त्यपि।  
 अप्रियं प्रियवाक्यैश्च गृह्णन्ति कालयोगतः॥

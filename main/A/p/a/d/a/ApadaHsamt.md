@@ -5,7 +5,7 @@ title = "आपदः सन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदः सन्ति महतां महतामेव संपदः।  
 इतरेषां मनुष्याणं नापदो न च संपदः॥

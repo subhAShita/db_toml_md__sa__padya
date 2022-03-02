@@ -6,7 +6,7 @@ title = "त्रिविधाः पुरुषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रिविधाः पुरुषा राजन्नुत्तमाधममध्यमाः।  
 नियोजयेत्तथैवैतांस्त्रिविधेष्वपि कर्मसु॥

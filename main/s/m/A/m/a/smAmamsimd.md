@@ -6,7 +6,7 @@ title = "स्नानं सिन्धुजले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नानं सिन्धुजले विधाय जनतासन्ने निषण्णस्तटे   
 काषायेण घनावगुण्ठिततनुः प्राप्तः परिव्राजकः।  

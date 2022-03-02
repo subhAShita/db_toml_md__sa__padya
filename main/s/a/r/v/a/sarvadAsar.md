@@ -6,7 +6,7 @@ title = "सर्वदा सर्वदोऽसीति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वदा सर्वदोऽसीति मिथ्या संस्तूयसे जनैः।  
 नारयो लेभिरे पृष्ठं न वक्षः परयोषितः॥

@@ -7,7 +7,7 @@ title = "शूनां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शूनां च पतितानां च श्वपचां पापरोगिणाम् ।  
 वयसानां कृमीणां च शनकैर्निर्वपेद् भुवि ॥

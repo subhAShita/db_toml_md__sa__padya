@@ -6,7 +6,7 @@ title = "खचित्रमपि मायावी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खचित्रमपि मायावी रचयत्येव लीलया।  
 लघुश्च महतां मध्ये तस्मात्खल इति स्मृतः॥

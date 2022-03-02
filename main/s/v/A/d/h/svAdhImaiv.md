@@ -6,7 +6,7 @@ title = "स्वाधीनैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वाधीनैव समृद्धिर्जनोपजीव्यत्वमुच्छ्रयश्छाया।  
 सत्पुंसो मरुभूरिव जीवनमात्रं समाशास्यम्॥

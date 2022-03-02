@@ -5,7 +5,7 @@ title = "अनेनैव प्रकारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेनैव प्रकारेण त्रयो ग्रीवाश्रिताः शुभाः।  
 ललाटे युगलावर्तौ चन्द्रार्कौ शुभकारकौ॥

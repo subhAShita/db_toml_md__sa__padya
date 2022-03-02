@@ -6,7 +6,7 @@ title = "सत्साधुवादे मूर्खस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्साधुवादे मूर्खस्य मात्सर्यगलरोगिणः।  
 जिह्वा कङ्कमुखेनापि कृष्टा नैव प्रवर्तते॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6758", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// ५० कमलानि// 212",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - कमलम्",]
+jsonClass = "Subhaashita"
 title = "उदितवति द्विजराजे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदितवति द्विजराजे कस्य न हृदये मुदः पदं दधति।  
 संकुचसि कमल यदयं हर हर वामो विधिर्भवतः॥

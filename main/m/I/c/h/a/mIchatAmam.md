@@ -6,7 +6,7 @@ title = "नीचतामनवलम्ब्य जनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीचतामनवलम्ब्य जनः को याचनादवचिनोति फलानि।  
 हन्त वामनपदं प्रतिपेदे भिक्षुतामुपगतो जगदीशः॥

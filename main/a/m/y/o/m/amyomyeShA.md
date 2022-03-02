@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1863", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 71",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "अन्योन्येषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्योन्येषां पुष्करैरामृशन्तो दानोद्भेदानुच्चकैर्भुग्नवालाः।  
 उन्मूर्धानः संनिपत्यापरान्तैः प्रायुध्यन्त स्पष्टदन्तध्वनीभाः॥

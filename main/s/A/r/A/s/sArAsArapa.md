@@ -6,7 +6,7 @@ title = "सारासारपरिच्छेत्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सारासारपरिच्छेत्ता स्वामी भृत्यस्य दुर्लभः।  
 अमनुकूलः शुचिर्दक्षः प्रभोर्भृत्योऽपि दुर्लभः॥

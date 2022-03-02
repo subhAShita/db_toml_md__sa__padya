@@ -5,7 +5,7 @@ title = "अवस्कन्दप्रदानस्य सर्वे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवस्कन्दप्रदानस्य सर्वे कालाः प्रकीर्तिताः।  
 व्यसने वर्तमानस्य शत्रोच्छिद्रान्वितस्य च॥

@@ -7,7 +7,7 @@ title = "दृष्टिं देहि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृष्टिं देहि पुनर्बाले कमलायतलोचने।  
 श्रूयते हि पुरा लोके विषस्य विषमौषधम्॥

@@ -5,7 +5,7 @@ title = "आमाशयस्थो हत्वाग्निम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आमाशयस्थो हत्वाग्निं सामो मार्गान् पिधापयन्।  
 विदधाति ज्वरं दोषस् तस्माल् लङ्घनमाचरेत्॥

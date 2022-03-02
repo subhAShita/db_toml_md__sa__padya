@@ -6,7 +6,7 @@ title = "स्वयं प्रणमतेऽल्पेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वयं प्रणमतेऽल्पेऽपि परवायावुपेयुषि।  
 निदर्शनमसाराणां लघुर्बहुतृणं नरः॥

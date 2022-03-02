@@ -6,7 +6,7 @@ title = "मृगैर्नष्टं शशैर्लीनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृगैर्नष्टं शशैर्लीनं वराहैश्चलितं स्थलात्।  
 हयानां हेषितं श्रुत्वा सिंहैः पूर्ववदासितम्॥

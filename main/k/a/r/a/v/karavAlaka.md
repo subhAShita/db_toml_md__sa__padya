@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8730", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "कीर्तिः",]
+jsonClass = "Subhaashita"
 title = "करवालकरालवारिधारा यमुना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करवालकरालवारिधारा यमुना दिव्यतरङ्गिणी च कीर्तिः।  
 तव कामद तीर्थराज दूराद् अनुबध्नाति सरस्वती कवीनाम्॥

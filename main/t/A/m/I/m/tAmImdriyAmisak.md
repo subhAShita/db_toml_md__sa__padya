@@ -1,12 +1,12 @@
 +++
-topics = [ ]
+topics = []
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "तानीन्द्रियाणि सकलानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तानीन्द्रियाणि सकलानि तदेव कर्म  
 सा बुद्धिरप्रतिहता वचनं तदेव ।  

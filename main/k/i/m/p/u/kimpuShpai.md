@@ -6,7 +6,7 @@ title = "किं पुष्पैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं पुष्पैः किं फलैस्तस्य करीरस्य दुरात्मनः।  
 येन वृद्धिं समासाद्य न कृतः पत्त्रसङ्ग्रहः॥

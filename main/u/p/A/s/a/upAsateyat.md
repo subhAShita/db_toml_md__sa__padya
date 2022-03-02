@@ -5,7 +5,7 @@ title = "उपासते यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपासते यथा बाला मातरं क्षुधयार्दिताः।  
 श्रेयस्कामास् तथा गङ्गाम् उपासन्तीह देहिनः॥

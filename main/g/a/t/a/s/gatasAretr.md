@@ -6,7 +6,7 @@ title = "गतसारेऽत्र संसारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतसारेऽत्र संसारे सुखभ्रान्तिः शरीरिणाम्।  
 लालापानमिवाङ्गुष्ठे बालानां स्तन्यविभ्रमः॥

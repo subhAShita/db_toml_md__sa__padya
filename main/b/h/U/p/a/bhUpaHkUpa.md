@@ -6,7 +6,7 @@ title = "भूपः कूप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूपः कूप इवाभाति नमज्जनसुखावहः।  
 ददाति गुणसम्बन्धाद्यथापात्रानुरूपतः॥

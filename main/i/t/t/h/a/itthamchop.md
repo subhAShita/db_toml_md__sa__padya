@@ -5,7 +5,7 @@ title = "इत्थं चोपार्जितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं चोपार्जितो यत्नाद् गुणोऽपि विधुरे विधौ।  
 संपत्तये न न परं जायते तु विपत्तये॥

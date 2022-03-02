@@ -6,7 +6,7 @@ title = "सर्वमन्यत् परित्यज्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वमन्यत् परित्यज्य  
 शरीरमनुपालयेत् ।  

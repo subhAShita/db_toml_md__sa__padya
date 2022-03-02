@@ -7,7 +7,7 @@ title = "अङ्गीकुरु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गीकुरु निजागारविनिर्माणोचितामिमाम् ।  
 भूमिजामनले शुद्धां प्रभो सीतामिवेष्टिकाम् ॥

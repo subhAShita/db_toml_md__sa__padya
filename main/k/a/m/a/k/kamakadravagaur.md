@@ -5,7 +5,7 @@ title = "कनकद्रवगौरमम्बरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कनकद्रवगौरमम्बरं दधतोरुद्वितयेन सुन्दरम्।  
 उदयन्मणिनूपुरप्रभा- सरणिश्रेणिजटालजानुकम्॥

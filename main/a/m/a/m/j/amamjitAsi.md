@@ -5,7 +5,7 @@ title = "अनञ्जितासिता दृष्टिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनञ्जितासिता दृष्टिर् भ्रूरनावर्जिता नता।  
 अरञ्जितोऽरुणश्चायम् अधरस्तव सुन्दरि॥

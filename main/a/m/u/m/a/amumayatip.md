@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1467", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०४ कलहान्तरिता// 44",]
-jsonClass = "Subhaashita"
 topics = [ "नायिका", "कलहान्तरिता",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनुनयति पतिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुनयति पतिं न लज्जमाना कथयति नापि सखीजनाय किंचित्।  
 प्रसरति मलयानिले नवोढा वहति परंतु चिराय शून्यमन्तः॥

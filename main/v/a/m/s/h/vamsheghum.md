@@ -6,7 +6,7 @@ title = "वंशे घुण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वंशे घुण इव न विशति दोषो रसभाविते सतां मनसि।  
 रसमपि तु न प्रतीच्छति बहुदोषः संनिपातीव॥

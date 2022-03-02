@@ -5,7 +5,7 @@ title = "उत्पतन्त्वन्तरिक्षं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पतन्त्वन्तरिक्षं वा पातालं प्रविशन्तु वा।  
 चरन्तु वा दिशः सर्वा ह्यदत्तं नोपलभ्यते॥

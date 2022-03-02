@@ -6,7 +6,7 @@ title = "गुरोः सुताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरोः सुतां मित्त्रभार्यां स्वामिसेवकगेहिनीम्।  
 यो गच्छति पुमांल्लोके तमाहुर्ब्रह्मघातिनम्॥

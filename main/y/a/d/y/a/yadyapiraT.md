@@ -6,7 +6,7 @@ title = "यद्यपि रटति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि रटति सरोषं मृगपतिपुरतोऽपि मत्तगोमायुः।  
 तदपि न कुप्यति सिंहोऽप्यसदृशपुरुषेषु कः कोपः॥

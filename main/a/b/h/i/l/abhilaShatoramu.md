@@ -5,7 +5,7 @@ title = "अभिलषतोरनुभावान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिलषतोरनुभावान् तिलोत्तमायाः किलोत्तमानुभयोः।  
 सुन्दोपसुन्दयोरपि नाशो भेदादुदाह्रियते॥

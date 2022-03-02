@@ -6,7 +6,7 @@ title = "लालयन्तमरविन्दवनानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लालयन्तमरविन्दवनानि क्षालयन्तमभितो भुवनानि।  
 पालयन्तमथ कोककुलानि ज्योतिषां पतिमहं महयामि॥

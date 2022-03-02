@@ -5,7 +5,7 @@ title = "आहत्य चिनुमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहत्य चिनुमः स्वर्गम् अपवर्गमनुक्रमात्।  
 अनुकूले हि दाम्पत्ये प्रतिकूलं न किंचन॥

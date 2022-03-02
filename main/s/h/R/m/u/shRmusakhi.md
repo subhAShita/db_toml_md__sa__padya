@@ -6,7 +6,7 @@ title = "शृणु सखि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शृणु सखि कौतुकमेकं ग्राम्येण कुकामिना यदद्य कृतम्।  
 सुरतसुखमीलिताक्षी मृतेति भीतेन मुक्तास्मि॥

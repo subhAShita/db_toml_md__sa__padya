@@ -6,7 +6,7 @@ title = "खलेन धनमत्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलेन धनमत्तेन नीचेन प्रभविष्णुना।  
 पिशुनेन पदस्थेन हा प्रजे क्व गमिष्यसि॥

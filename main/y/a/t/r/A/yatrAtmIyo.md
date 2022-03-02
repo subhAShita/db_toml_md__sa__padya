@@ -6,7 +6,7 @@ title = "यत्रात्मीयो जनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्रात्मीयो जनो नास्ति भेदस्तत्र न विद्यते।  
 कुठारैर्दण्डनिर्मुक्तैर्भिद्यन्ते तरवः कथम्॥

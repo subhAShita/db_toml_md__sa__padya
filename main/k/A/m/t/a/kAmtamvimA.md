@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9406", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०१ क्रियागुप्तम्// 10",]
-jsonClass = "Subhaashita"
 types = [ "क्रियागुप्तम्",]
+jsonClass = "Subhaashita"
 title = "कान्तं विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तं विना नदीतीरं मदमालोक्य केकिनी।  
 अत्र क्रियापदं गुप्तं यो जानाति स पण्डितः॥

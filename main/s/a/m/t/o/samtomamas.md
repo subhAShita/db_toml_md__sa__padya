@@ -6,7 +6,7 @@ title = "सन्तो मनसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तो मनसि कृत्वैव प्रवृत्ताः कृत्यवस्तुनि।  
 कस्य प्रतिशृणोति स्म कमलेभ्यः श्रियं रविः॥

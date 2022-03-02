@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7772", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०१ केशपाशः// 12",]
-jsonClass = "Subhaashita"
 topics = [ "+केशपाशः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एणीदृशः पाणिपुटे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एणीदृशः पाणिपुटे निरुद्धा वेणी विरेजे शयनोत्थितायाः।  
 सरोजकोशादिव निष्पतन्ती श्रेणी घनीभूय मधुव्रतानाम्॥

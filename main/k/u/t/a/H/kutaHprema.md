@@ -7,7 +7,7 @@ title = "कुतः प्रेमलवोऽप्यस्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुतः प्रेमलवोऽप्यस्ति खले मे हृदये खलु।  
 सुन्दरीं तामनालोक्य यदहं प्राणिमि प्रिय॥

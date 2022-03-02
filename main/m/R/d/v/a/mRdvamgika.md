@@ -7,7 +7,7 @@ title = "मृद्वङ्गि कठिनौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृद्वङ्गि कठिनौ तन्वि पीनौ सुमुखि दुर्मुखौ।  
 अत एव बहिर्यातौ हृदयात्ते पयोधरौ॥

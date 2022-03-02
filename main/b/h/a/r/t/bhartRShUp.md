@@ -7,7 +7,7 @@ title = "भर्तृषूपसखि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भर्तृषूपसखि निक्षिपतीनामात्मनो मधुमदोद्यमितानाम्।  
 व्रीडया विफलया वनितानां न स्थितं न विगतं हृदयेषु॥

@@ -6,7 +6,7 @@ title = "गजाननाय महसे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गजाननाय महसे  
 प्रत्यूह-तिमिर-च्छिदे।  

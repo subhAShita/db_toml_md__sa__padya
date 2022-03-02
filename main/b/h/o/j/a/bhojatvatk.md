@@ -6,7 +6,7 @@ title = "भोज त्वत्कीर्तिकान्ताया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोज त्वत्कीर्तिकान्ताया नभोभालस्थिलं महत्।  
 कस्तूरीतिलकं राजन्गुणागारं विराजते॥

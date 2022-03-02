@@ -6,7 +6,7 @@ title = "नष्टं मृतमतिक्रान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नष्टं मृतमतिक्रान्तं नानुशोचन्ति पण्डिताः।  
 पण्डितानां च मूर्खाणां विशेषोऽयं यतः स्मृतः॥

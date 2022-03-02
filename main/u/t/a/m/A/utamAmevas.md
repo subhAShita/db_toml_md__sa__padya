@@ -5,7 +5,7 @@ title = "उत्तमानेव सेवेत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमानेव सेवेत प्राप्ते काले तु मध्यमान्।  
 अधमांस्तु न सेवेत य इच्छेच् श्रेय आत्मनः॥

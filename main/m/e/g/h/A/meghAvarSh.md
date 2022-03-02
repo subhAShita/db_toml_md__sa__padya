@@ -7,7 +7,7 @@ title = "मेघा वर्षन्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मेघा वर्षन्तु गर्जन्तु मुञ्चन्त्वशनिमेव वा।  
 गणयन्ति न शीतोष्णं रमणाभिमुखाः स्त्रियः॥

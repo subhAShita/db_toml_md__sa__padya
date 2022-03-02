@@ -7,7 +7,7 @@ title = "अमृतस्येव कुण्डानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतस्येव कुण्डानि सुखानामिव राशयः।  
 रतेरिव निधानानि योषितः केन निर्मिताः॥

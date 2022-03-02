@@ -5,7 +5,7 @@ title = "अधर्मेषु रसस्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मेषु रसस्तस्य उत्क्लेदैर्मधुरायते।  
 तादृशैश्च फलैश्चैव सफलो लोभपादपः॥

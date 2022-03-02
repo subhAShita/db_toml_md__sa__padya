@@ -6,7 +6,7 @@ title = "विरला जानन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरला जानन्ति गुणान्विरलाः कुर्वन्ति निर्धने स्नेहम्।  
 विरलाः परकार्यरताः परदुःखेनापि दुःखिता विरलाः॥

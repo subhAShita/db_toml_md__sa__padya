@@ -6,7 +6,7 @@ title = "यस्य चेतसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य चेतसि निर्व्याजं द्वयं तृणकणायते।  
 क्रोधे विरोधिनां सैन्यं प्रसादे कनकाचलः॥

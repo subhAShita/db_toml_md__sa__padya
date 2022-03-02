@@ -6,7 +6,7 @@ title = "सुकवेः शब्दसौभाग्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुकवेः शब्दसौभाग्यं सुकविर्वेत्ति नापरः।  
 कलादवन्न जानाति परः कङ्कणचित्रताम्॥

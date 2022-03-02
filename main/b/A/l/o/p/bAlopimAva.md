@@ -6,7 +6,7 @@ title = "बालोऽपि नावमन्तव्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बालोऽपि नावमन्तव्यो मनुष्य इति भूमिपः।  
 महती देवता ह्येषा नररूपेण तिष्ठति॥

@@ -7,7 +7,7 @@ title = "या जयश्रीर्मनोजस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या जयश्रीर्मनोजस्य यया जगदलङ्कृतम्।  
 यामेणाक्षीं विना प्राणा विफला मे कुतोऽद्य सा॥

@@ -6,7 +6,7 @@ title = "सम्भोजनं सङ्कथनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्भोजनं सङ्कथनं सम्प्रश्नोऽथ समागमः।  
 ज्ञातिभिः सह कार्याणि न विरोधः कदाचन॥

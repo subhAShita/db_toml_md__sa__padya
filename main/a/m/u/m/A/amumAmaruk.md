@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2500", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०९ कूपान्योक्तयः// 3",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - कूपः",]
+jsonClass = "Subhaashita"
 title = "अमुना मरुकूपेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुना मरुकूपेन के के नाम न वञ्चिताः।  
 रुदत्पथिकनेत्राम्बुपिच्छिलप्रान्तभूमिना॥

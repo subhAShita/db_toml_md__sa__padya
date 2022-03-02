@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0186", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 195",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
-title = "अगुणकणो गुणराशिर्द्वयमपि"
+jsonClass = "Subhaashita"
+title = "अगुणकणो गुणराशिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगुणकणो गुणराशिर् द्वयमपि दैवेन खलमुखे पतितम्।  
 प्रसरति तैलमिवैकः सलिले घृतवज्जडत्वमेत्यन्यः॥

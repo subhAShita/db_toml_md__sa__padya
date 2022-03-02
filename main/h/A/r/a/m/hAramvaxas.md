@@ -6,7 +6,7 @@ title = "हारं वक्षसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हारं वक्षसि केनापि दत्तमज्ञेन मर्कटः।  
 लेढि जिघ्रति सङ्क्षिप्य करोत्यन्नतमाननम्॥

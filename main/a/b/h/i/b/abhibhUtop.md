@@ -5,7 +5,7 @@ title = "अभिभूतोऽपि नोत्साहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिभूतोऽपि नोत्साहं जह्याज्जातु स्वसिद्धये।  
 नष्टाङ्गोऽपि ग्रसत्येव सैंहिकेयो मुहुर्द्विषौ॥

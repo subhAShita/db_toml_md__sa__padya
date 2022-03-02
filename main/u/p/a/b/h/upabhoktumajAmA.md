@@ -6,7 +6,7 @@ title = "उपभोक्तुं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपभोक्तुं न जानाति श्रियं प्राप्यापि मानवः।  
 आकण्ठजलमग्नोऽपि श्वा लिहत्येव जिह्वया॥

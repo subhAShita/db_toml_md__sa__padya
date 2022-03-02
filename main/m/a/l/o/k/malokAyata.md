@@ -6,7 +6,7 @@ title = "न लोकायतवादेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न लोकायतवादेन नास्तिकः स्याददैवतः।  
 हरिर्हिरण्यकशिपुं जघान स्तम्भनिर्गतः॥

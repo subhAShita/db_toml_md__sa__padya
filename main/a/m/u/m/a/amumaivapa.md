@@ -5,7 +5,7 @@ title = "अमुनैव पथागतागतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुनैव पथागतागतं कृतवानद्य मनोहरो हरिः।  
 सखि दुर्जनभीतया मया हतया हन्त चिरं न वीक्षितः॥

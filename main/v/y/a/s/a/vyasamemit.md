@@ -6,7 +6,7 @@ title = "व्यसने मित्त्रपरीक्षा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यसने मित्त्रपरीक्षा शूरपरीक्षा रणाङ्गणे भवति।  
 विनये भृत्यपरीक्षा दानपरीक्षा च दुर्भिक्षे॥

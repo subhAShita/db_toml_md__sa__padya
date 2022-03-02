@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1652", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 210",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अन्तर्वाणिं मन्यमानः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्वाणिं मन्यमानः खलोऽयं पौरोभाग्यं सूक्तिमुक्तासु धत्ते।  
 सर्वानन्दिन्यङ्गके कामिनीनाम् ईर्म मार्गत्येष वै बम्भरालिः॥

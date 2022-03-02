@@ -5,7 +5,7 @@ title = "अव्यवस्थितचित्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्यवस्थितचित्तस्य प्रसादोऽपि भयंकरः।  
 व्यवस्थितप्रसन्नात्मा कुपितोऽप्यभयंकरः॥

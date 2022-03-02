@@ -6,7 +6,7 @@ title = "मधुरिमरुचिरं वचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुरिमरुचिरं वचः खलानाममृतमहो प्रथमं पृथु व्यनक्ति।  
 अथ कथयति मोहहेतुमन्तर्गतमिव हालहलं विषं तदेव॥

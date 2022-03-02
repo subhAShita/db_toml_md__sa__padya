@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0580", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 134",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
-title = "अतिपेलवमतिपरिमितवर्णम्"
+jsonClass = "Subhaashita"
+title = "अतिपेलवमतिपरिमित वर्णम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिपेलवमतिपरिमित- वर्णं लघुतरमुदाहरति शठः।  
 परमार्थतः स हृदयं वहति पुनः कालकूटघटितमिव॥

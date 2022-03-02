@@ -6,7 +6,7 @@ title = "प्रजानां पालनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रजानां पालनं शस्यं स्वर्गकोशस्य वर्धनम्।  
 पीडनं धर्मनाशाय पापायायशसे स्थितम्॥

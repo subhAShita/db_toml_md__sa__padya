@@ -7,7 +7,7 @@ title = "नवपलाशपलाशवनं पुरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवपलाशपलाशवनं पुरः स्फुटपरागपरागतपङ्कजम्।  
 मृदुलतान्तलतान्तमलोकयत्स सुरभिं सुरभिं सुमनोभरैः॥

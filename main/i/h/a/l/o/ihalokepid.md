@@ -6,7 +6,7 @@ title = "इह लोकेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह लोकेऽपि धनिनां परोऽपि स्वजनायते।  
 स्वजनोऽपि दरिद्राणां तत्क्षणाद्दुर्जनायते॥

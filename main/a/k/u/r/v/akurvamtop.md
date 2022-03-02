@@ -5,7 +5,7 @@ title = "अकुर्वन्तोऽपि पापानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकुर्वन्तोऽपि पापानि शुचयः पापसंश्रयात्।  
 परपापैर्विनश्यन्ति मत्स्या नागह्रदे यथा॥

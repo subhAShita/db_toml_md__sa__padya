@@ -6,7 +6,7 @@ title = "वने जाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वने जाता वने त्यक्ता वने तिष्ठति नित्यशः।  
 पण्यस्त्री न तु सा वेश्या यो जानाति स पण्डितः॥

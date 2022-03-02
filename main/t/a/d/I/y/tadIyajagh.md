@@ -7,7 +7,7 @@ title = "तदीयजघनाभोगगरिमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तदीयजघनाभोगगरिमा विस्मयास्पदम्।  
 दूरपाती पृषत्कोऽभूद्येनानङ्गस्य साङ्गना॥

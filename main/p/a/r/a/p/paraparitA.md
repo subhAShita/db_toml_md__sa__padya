@@ -6,7 +6,7 @@ title = "परपरितापनकुतुकी गणयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परपरितापनकुतुकी गणयति नात्मीयमपि तापम्।  
 परहतिहेतोः पिशुनः संदंश इव स्वपीडनं सहते॥

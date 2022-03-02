@@ -6,7 +6,7 @@ title = "आमरणान्ताः प्रणया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आमरणान्ताः प्रणया कोपास्तत्क्षणभङ्गुराः।  
 परित्यागाश्च निःसङ्गा भवन्ति हि महात्मनाम्॥

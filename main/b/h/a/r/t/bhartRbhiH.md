@@ -7,7 +7,7 @@ title = "भर्तृभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भर्तृभिः प्रणयसम्भ्रमदत्तां वारुणीमतिरसां रसयित्वा।  
 ह्रीविमोहविरहादुपलेभे पाटवं नु हृदयं नु वधूभिः॥

@@ -6,7 +6,7 @@ title = "प्रधनाध्वनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रधनाध्वनि धीरधनुर्ध्वनिभृति विधुरैरयोधि तव दिवसम्।  
 दिवसेन तु नरप भवानयुद्ध विधिसिद्धसाधुवादपदम्॥

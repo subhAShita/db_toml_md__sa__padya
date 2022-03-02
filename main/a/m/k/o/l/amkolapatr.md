@@ -5,7 +5,7 @@ title = "अङ्कोल्लपत्रधपेन यद्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्कोल्लपत्रधपेन यद्वा केशसमन्वितैः।  
 सक्तुभिः कटुतैलाक्तैर् याति मत्स्यविषं क्षयम्॥

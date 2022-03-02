@@ -5,7 +5,7 @@ title = "अल्पेऽप्यपकृते मोहान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पेऽप्यपकृते मोहान् न शान्तिमुपगच्छति।  
 तादृशैः संगतं नीचैर् नृशंसैरकृतात्मभिः।  

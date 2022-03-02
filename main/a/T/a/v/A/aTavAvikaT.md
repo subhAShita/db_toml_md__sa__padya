@@ -5,7 +5,7 @@ title = "अट वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अट वा विकटः पतत्रनादैः कटुवाचं रट वाथवा दिवान्ध।  
 परुषं परिपश्य संयतं तत् परमं नः पुरमागतो न चेत् त्वम्॥

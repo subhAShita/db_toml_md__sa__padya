@@ -6,7 +6,7 @@ title = "श्रद्दधानः शुभाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रद्दधानः शुभां विद्यामाददीतावरादपि।  
 अन्त्यादपि परं धर्मं स्त्रीरत्नं दुष्कुलादपि॥

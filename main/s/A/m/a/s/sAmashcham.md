@@ -7,7 +7,7 @@ title = "सा नश्चण्डी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा नश्चण्डी रक्षतु यच्चरणाम्भोजसङ्गते महिषः ।  
 निजरुधिरपङ्क एव क्रीडारसमन्तिमं भेजे ॥

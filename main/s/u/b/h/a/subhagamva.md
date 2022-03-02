@@ -7,7 +7,7 @@ title = "सुभगं वदति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभगं वदति जनस्तं निजपतिरिति नैष रोचते मह्यम्।  
 पीयूषेऽपि हि भेषजभावोपहिते भवत्यरुचिः॥

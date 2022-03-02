@@ -7,7 +7,7 @@ title = "जाने रात्रिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जाने रात्रिषु तन्मध्ये ददाति शनकैः पदम्।  
 गम्भीरनाभिकुहरप्रवेशाशङ्कया स्मरः॥

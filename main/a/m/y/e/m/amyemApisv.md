@@ -5,7 +5,7 @@ title = "अन्येनापि स्वमांसेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्येनापि स्वमांसेन छिद्यमानेन दूयते।  
 तथापि परमांसानि स्वादूनीति समश्नुते॥

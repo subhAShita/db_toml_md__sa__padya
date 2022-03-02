@@ -6,7 +6,7 @@ title = "राजचन्द्रं समालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजचन्द्रं समालोक्य त्वां तु भूतलमागतम्।  
 रत्नश्रेणिमिषान्मन्ये नक्षत्राण्यप्युपागमन्॥

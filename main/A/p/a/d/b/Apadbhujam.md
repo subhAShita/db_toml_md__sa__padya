@@ -5,7 +5,7 @@ title = "आपद्भुजङ्गदष्टस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपद्भुजङ्गदष्टस्य मन्त्रहीनस्य सर्वदा।  
 वृद्धवाक्यौषधा नूनं कुर्वन्ति किल निर्विषम्॥

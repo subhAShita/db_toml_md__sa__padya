@@ -7,7 +7,7 @@ title = "यदि स्यान्मण्डले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि स्यान्मण्डले सक्तमिन्दोरिन्दीवरद्वयम्।  
 तदोपमीयते तस्या वदनं चारुलोचनम्॥

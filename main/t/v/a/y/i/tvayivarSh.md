@@ -6,7 +6,7 @@ title = "त्वयि वर्षति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वयि वर्षति पर्जन्ये सर्वे पल्लविता द्रुमाः।  
 अस्माकमर्कवृक्षाणां पूर्वपत्त्रेऽपि संशयः॥

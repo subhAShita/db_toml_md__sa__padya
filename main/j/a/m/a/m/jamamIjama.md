@@ -6,7 +6,7 @@ title = "जननी जन्मभूमिश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जननी जन्मभूमिश्च जाह्नवी च जनार्दनः।  
 जनकः पञ्चमश्चैव जकाराः पञ्च दुर्लभाः॥

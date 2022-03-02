@@ -6,7 +6,7 @@ title = "देहीति वचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देहीति वचनं श्रुत्वा देहस्थाः पञ्च देवताः।  
 मुखान्निर्गत्य गच्छन्ति श्रीह्रीधीधृतिकीर्तयः॥

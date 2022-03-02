@@ -6,7 +6,7 @@ title = "मूर्खोऽपि मूर्खम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खोऽपि मूर्खं दृष्ट्वा च चन्दनादपि शीतलः।  
 यदि पश्यति विद्वांसं मन्यते पितृघातकम्॥

@@ -6,7 +6,7 @@ title = "सरला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरला बहलारम्भतरलालिबलारवा।  
 वारलाबहलामन्दकरला बहलामला॥

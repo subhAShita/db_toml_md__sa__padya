@@ -5,7 +5,7 @@ title = "एकान्ते विजने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकान्ते विजने रम्ये पवित्रे निरुपद्रवे।  
 सुखासने समाधिः स्याद् वस्त्राजिनकुशोत्तरे॥

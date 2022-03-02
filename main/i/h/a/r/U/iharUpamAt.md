@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6191", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०३ मधुकरः// 54",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - मधुकरः",]
+jsonClass = "Subhaashita"
 title = "इह रूपमात्रसारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह रूपमात्रसारे चित्रकृते कमलकह्लारे।  
 न रसो नापि च गन्धो मधुकर बन्धो मुधा भ्रमसि॥

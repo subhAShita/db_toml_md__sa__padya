@@ -6,7 +6,7 @@ title = "मतिरेव बलाद्गरीयसी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मतिरेव बलाद्गरीयसी यदभावे करिणामियं दशा।  
 इति घोषयतीव डिण्डिमः करिणो हस्तिपकाहतः क्वणन्॥

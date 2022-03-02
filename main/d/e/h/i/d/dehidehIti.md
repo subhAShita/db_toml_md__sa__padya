@@ -6,7 +6,7 @@ title = "देहि देहीति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देहि देहीति जल्पन्ति त्यागिनोऽप्यर्थिनोऽपि च।  
 आलोकयन्ति रभसादस्ति नास्तीति न क्वचित्॥

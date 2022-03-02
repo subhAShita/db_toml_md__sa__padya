@@ -7,7 +7,7 @@ title = "हस्ते चकास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हस्ते चकास्ति बालायास्तस्याः कङ्कणमालिका।  
 मनःकुरङ्गबन्धाय पाशालीव मनोभुवः॥

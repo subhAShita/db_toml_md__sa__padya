@@ -5,7 +5,7 @@ title = "कथमसौ न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथमसौ न भजत्यशरीरतां हतविवेकपदो हतमन्मथः।  
 प्रहरतः कदलीदलकोमले भवति यस्य दया न वधूजने॥

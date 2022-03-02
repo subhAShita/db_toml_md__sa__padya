@@ -6,7 +6,7 @@ title = "सेवेव मानमखिलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सेवेव मानमखिलं ज्योत्स्नेव तमो जरेव लावण्यम्।  
 हरिहरकथेव दुरितं गुणशतमप्यर्थिता हरति॥

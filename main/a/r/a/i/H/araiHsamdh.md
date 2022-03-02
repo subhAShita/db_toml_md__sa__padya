@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2885", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// २२ भृत्याः// 87",]
-jsonClass = "Subhaashita"
 topics = [ "भृत्यः",]
+jsonClass = "Subhaashita"
 title = "अरैः सन्धार्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरैः संधार्यते नाभिर् नाभौ चाराः प्रतिष्ठिताः।  
 स्वामिसेवकयोरेवं वृत्तिचक्रं प्रवर्तते॥

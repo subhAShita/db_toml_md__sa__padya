@@ -5,7 +5,7 @@ title = "अनृतं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनृतं च समुत्कर्षे राजगामि च पैशुनम्।  
 गुरोश्चालीकनिर्बन्धः समानि ब्रह्महत्यया॥

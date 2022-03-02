@@ -5,7 +5,7 @@ title = "ईर्ष्यया रक्षतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईर्ष्यया रक्षतो नारीर् धिक् कुलस्थितिदाम्भिकान्।  
 स्मरान्धत्वाविशेषेऽपि तथा नरमरक्षतः॥

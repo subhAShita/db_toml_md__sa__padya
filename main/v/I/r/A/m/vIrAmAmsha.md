@@ -6,7 +6,7 @@ title = "वीराणां शस्त्रभिन्नानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीराणां शस्त्रभिन्नानां शिरांसि निपतन्त्यपि।  
 अधावन्दन्तदष्टौष्ठभीषणान्यरिषु क्रुधा॥

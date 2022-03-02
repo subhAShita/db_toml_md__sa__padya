@@ -5,7 +5,7 @@ title = "उत्तरापथकान्तानां किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तरापथकान्तानां किं ब्रूमो रामणीयकम्।  
 यासां तुषारसंभेदे न म्लायति मुखाम्बुजम्॥

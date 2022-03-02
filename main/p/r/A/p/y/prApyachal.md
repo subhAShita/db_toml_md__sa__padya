@@ -6,7 +6,7 @@ title = "प्राप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राप्य चलानधिकाराञ्शत्रुषु मित्त्रेषु बन्धुवर्गेषु।  
 नापकृतं नोपकृतं न सत्कृतं किं कृतं तेन॥

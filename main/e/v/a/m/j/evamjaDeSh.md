@@ -5,7 +5,7 @@ title = "एवं जडेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं जडेषु लोकेषु स्त्रीषु मुग्धासु का कथा।  
 बुद्धिहीनप्रसादेन जीवामः केवलं वयम्॥

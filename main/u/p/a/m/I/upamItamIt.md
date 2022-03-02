@@ -5,7 +5,7 @@ title = "उपनीतनीतिनौकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपनीतनीतिनौकः संसारविकारवारिवन्यासु।  
 सत्पुरुषकर्णधारस् तारयति जनान् बहूनेकः॥

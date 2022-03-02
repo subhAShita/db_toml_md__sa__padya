@@ -5,7 +5,7 @@ title = "अरश्मि बिम्बम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरश्मि बिम्बं सूर्यस्य वह्निं चैवांशुमालिनम्।  
 दृष्ट्वैकादशमासात्तु नरो नोर्द्ध्वं तु जीवति॥

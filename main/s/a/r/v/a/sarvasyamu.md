@@ -7,7 +7,7 @@ title = "सर्वस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वस्य मुखमात्रस्थमयोध्यामन्दिरेष्टिके ।  
 तवेव हृदयोत्कीर्णं रामनाम तु कस्यचित् ॥

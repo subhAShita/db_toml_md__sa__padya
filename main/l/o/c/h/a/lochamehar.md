@@ -7,7 +7,7 @@ title = "लोचने हरिणगर्वमोचने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोचने हरिणगर्वमोचने मा विदूषय नताङ्गि कज्जलैः।  
 सायकः सपदि जीवहारकः किं पुनर्हि गरलेन लेपितः॥

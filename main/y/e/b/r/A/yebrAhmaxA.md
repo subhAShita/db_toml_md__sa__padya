@@ -7,7 +7,7 @@ title = "ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये ब्राह्मक्षात्रतेजःपरिचयशुचिना भाविता भार्गवेण  
 श्रीमानाचार्यवर्यश्चरणजरजसा शङ्करो यानपावीत् ।  

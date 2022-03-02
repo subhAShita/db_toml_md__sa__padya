@@ -5,7 +5,7 @@ title = "अनायव्ययकर्ता च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनायव्ययकर्ता च अनाथः कलहप्रियः।  
 आतुरः सर्वभक्षी च नरः शीघ्रं विनश्यति॥

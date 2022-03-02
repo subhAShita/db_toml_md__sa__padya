@@ -5,7 +5,7 @@ title = "आलस्यमपि पारीन्द्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलस्यमपि पारीन्द्रं प्रतिपद्य विजृम्भते।  
 हतभागं प्रयत्नोऽपि प्रतिहन्यत एव हा॥

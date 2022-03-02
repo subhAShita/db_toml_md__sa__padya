@@ -6,7 +6,7 @@ title = "प्रशस्त्यायुक्तमार्गस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रशस्त्यायुक्तमार्गस्य तव सम्मानितां श्रिताः।  
 स्पृहयन्ति न के नाम गुणरत्नालय प्रभो॥

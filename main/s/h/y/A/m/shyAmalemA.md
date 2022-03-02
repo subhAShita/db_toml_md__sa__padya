@@ -7,7 +7,7 @@ title = "श्यामलेनाङ्कितं बाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामलेनाङ्कितं बाले बाले केनापि लक्ष्मणा।  
 मुखं तवान्तरासुप्तभृङ्गफुल्लाम्बुजायते॥

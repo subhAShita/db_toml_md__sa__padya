@@ -5,7 +5,7 @@ title = "आत्मवत् सततम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मवत् सततं पश्येद् अपि कीटपिपीलिकम्।  
 आत्मनः प्रतिकूलानि परेषां न समाचरेत्॥

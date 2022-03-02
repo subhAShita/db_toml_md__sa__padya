@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//०६ समुद्रान्योक्तयः// ०२ अगस्त्यः// 42",]
-jsonClass = "Subhaashita"
 types = [ "अगस्त्यः",]
+jsonClass = "Subhaashita"
 title = "मुनिर्जयति योगीन्द्रो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुनिर्जयति योगीन्द्रो महात्मा कुम्भसम्भवः।  
 येनैकचुलुके दृष्टौ दिव्यौ तौ मत्स्यकच्छपौ॥

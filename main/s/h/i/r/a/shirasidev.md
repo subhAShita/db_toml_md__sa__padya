@@ -6,7 +6,7 @@ title = "शिरसि देवनदीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिरसि देवनदीं पुरवैरिणः सपदि वीक्ष्य धराधरकन्यका।  
 निबिडमानवती रमणाङ्गके क्वचन चुम्बनमारभते स्म सा॥

@@ -6,7 +6,7 @@ title = "खनन्नाखुबिलं सिहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खनन्नाखुबिलं सिहः पाषाणशकलाकुलम्।  
 प्राप्नोति नखभङ्गं वा फलं वा मूषको भवेत्॥

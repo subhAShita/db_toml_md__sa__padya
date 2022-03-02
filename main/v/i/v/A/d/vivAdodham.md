@@ -6,7 +6,7 @@ title = "विवादो धनसम्बन्धो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विवादो धनसम्बन्धो याचनं स्त्रीषु सङ्गतिः।  
 आदानमग्रतः स्थानं मैत्त्रीभङ्गस्य हेतवः॥

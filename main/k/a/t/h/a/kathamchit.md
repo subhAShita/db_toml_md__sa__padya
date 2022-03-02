@@ -5,7 +5,7 @@ title = "कथञ्चित् कालिदासस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथंचित् कालिदासस्य कालेन बहुना मया।  
 अवगाढेव गम्भीरमसृणौधा सरस्वती॥

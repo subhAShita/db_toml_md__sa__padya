@@ -7,7 +7,7 @@ title = "स्थानं नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थानं नास्ति क्षणो नास्ति नास्ति प्रार्थयिता नरः।  
 तेन नारद नारीणां सतीत्वमुपजायते॥

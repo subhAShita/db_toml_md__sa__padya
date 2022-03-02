@@ -5,7 +5,7 @@ title = "अहो गुणानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो गुणानां प्राप्त्यर्थं यतन्ते बहुधा नरः।  
 मुक्ता यदर्थं भग्नास्या इतरेषां च का कथा॥

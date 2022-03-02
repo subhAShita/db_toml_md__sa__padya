@@ -6,7 +6,7 @@ title = "धर्मारम्भेऽप्यसताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मारम्भेऽप्यसतां परहिंसैव प्रयोजिका भवति।  
 काकानामभिषेकेऽकारणतां वृष्टिरनुभवति॥

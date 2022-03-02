@@ -5,7 +5,7 @@ title = "उत्साहवन्तः पुरुषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्साहवन्तः पुरुषा दुर्बला बलिनं रिपुम्।  
 हनिष्यन्ति हि संयाता तथैते पञ्च कुञ्जरम्॥

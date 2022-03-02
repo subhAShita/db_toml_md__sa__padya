@@ -5,7 +5,7 @@ title = "आशा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशा हि परमं दुःखं नैराश्यं परमं सुखम्।  
 यथा सञ्छिद्य कान्ताशां सुखं सुष्वाप पिङ्गला॥

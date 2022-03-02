@@ -6,7 +6,7 @@ title = "सन्त्यज्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संत्यज्य शूर्पवद्दोषान्गुणान्गृह्णाति पण्डितः।  
 दोषग्राही गुणत्यागी पल्लोलीव हि दुर्जनः॥

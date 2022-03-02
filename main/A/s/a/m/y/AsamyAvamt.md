@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5554", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०३ मेघान्योक्तयः// 4",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - मेघः",]
-title = "आसन्यावन्ति याञ्चासु"
+jsonClass = "Subhaashita"
+title = "आसन् यावन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन् यावन्ति याच्ञासु चातकाश्रूणि चाम्बुद।  
 तावन्तोऽपि त्वया मेघ न मुक्ता वारिबिन्दवः॥

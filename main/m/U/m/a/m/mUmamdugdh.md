@@ -6,7 +6,7 @@ title = "नूनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नूनं दुग्धाब्धिमन्थोत्थाविमौ सुजनदुर्जनौ।  
 किं त्विन्दोः सोदरः पूर्वः कालकूटस्य चेतरः॥

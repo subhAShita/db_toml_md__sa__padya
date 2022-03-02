@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3639", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५२ नववधूसङ्गमः// 5",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "नववधूसङ्गमः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असम्मुखालोकनमाभिमुख्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंमुखालोकनमाभिमुख्यं निषेध एवानुमतिप्रकारः।  
 प्रत्युत्तरं मुद्रणमेव वाचां नवाङ्गनानां नव एव पन्थाः॥

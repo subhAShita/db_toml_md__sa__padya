@@ -5,7 +5,7 @@ title = "अत्यन्तमतिमेधावी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यन्तमतिमेधावी त्रयाणामेकमश्नुते।  
 अल्पायुषो दरिद्रो वा ह्यनपत्यो न संशयः॥

@@ -5,7 +5,7 @@ title = "तस्मान् माता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मान् माता पिता चेति राम सज्जेत यो नरः।  
 उन्मत्त इव स ज्ञेयो नास्ति कश्चिद्धि कस्यचित्॥

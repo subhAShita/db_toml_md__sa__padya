@@ -6,7 +6,7 @@ title = "सन्धिविग्रहयानानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्धिविग्रहयानानि संस्थितिः संश्रयस्तथा।  
 द्वैधीभावश्च भूपानां षड्गुणाः परिकीर्तिताः॥

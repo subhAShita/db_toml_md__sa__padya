@@ -6,7 +6,7 @@ title = "न दुर्जनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न दुर्जनः सज्जनतामुपैति बहुप्रकारैरपि सेव्यमानः।  
 भूयोऽपि सिक्तः पयसा घृतेन न निम्बवृक्षो मधुरत्वमेति॥

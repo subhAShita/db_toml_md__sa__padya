@@ -6,7 +6,7 @@ title = "यथा गजपतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा गजपतिः श्रान्तश्छायार्थी वृक्षमाश्रितः।  
 विश्रम्य तं द्रुमं हन्ति तथानीचः स्वमाश्रयम्॥

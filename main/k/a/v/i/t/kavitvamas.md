@@ -5,7 +5,7 @@ title = "कवित्वं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवित्वं न शृणोत्येव कृपणः कीर्तिवर्जितः।  
 नपुंसकः किं कुरुते पुरःस्थितमृगीदृशा॥

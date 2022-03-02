@@ -6,7 +6,7 @@ title = "न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कश्चिच्चण्डकोपानामात्मीयो नाम भूभृताम्।  
 होतारमपि जुह्वन्तं दहत्येव हुताशनः॥

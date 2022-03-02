@@ -5,7 +5,7 @@ title = "अप्रदीपा यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रदीपा यथा रात्रिर् अनादित्यं यथा नभः।  
 तथासांवत्सरो राजा भ्रमत्यन्ध इवाध्वनि॥

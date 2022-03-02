@@ -6,7 +6,7 @@ title = "न भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न भवति मलयस्य कीदृशी भूः क इह कुञ्च न बिभर्ति कं गता श्रीः।  
 भवदरिनिवहेषु कास्ति नित्यं बलमथनेन विपद्व्यधायि केषाम्॥

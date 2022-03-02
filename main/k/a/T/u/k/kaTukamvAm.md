@@ -6,7 +6,7 @@ title = "कटुकं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटुकं वा मधुरं वा प्रस्तुतवाक्यं मनोहारि।  
 वामे गर्दभनादश्चित्तप्रीत्यै प्रयाणेषु॥

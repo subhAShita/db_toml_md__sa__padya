@@ -7,7 +7,7 @@ title = "हसन्तीं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हसन्तीं वा हसन्तीं वा हसन्तीं वामलोचनाम्।  
 हेमन्ते ये न सेवन्ते ते नूनं दैववञ्चिताः॥

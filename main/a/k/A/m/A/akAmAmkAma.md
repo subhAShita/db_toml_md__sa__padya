@@ -5,7 +5,7 @@ title = "अकामां कामयानस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकामां कामयानस्य शरीरमुपतप्यते।  
 इच्छन्तीं कामयानस्य प्रीतिर्भवति शोभना॥

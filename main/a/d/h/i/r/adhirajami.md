@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1109", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४३ नायकशिक्षा// 2",]
-jsonClass = "Subhaashita"
 topics = [ "नायकशिक्षा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधिरजनि जगाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिरजनि जगाम धाम तस्याः प्रियतमयेति रुषा स्रजावनद्धः।  
 पदमपि चलितुं युवा न सेहे किमिव न शक्तिहरं ससाध्वसानाम्॥

@@ -5,7 +5,7 @@ title = "अथवा मृदु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथवा मृदु वस्तु हिंसितुं मृदुनैवारभते प्रजान्तकः।  
 हिमसेकविपत्तिरत्र मे नलीनी पूर्वनिदर्शनं मता॥

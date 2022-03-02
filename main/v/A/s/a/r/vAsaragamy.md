@@ -6,7 +6,7 @@ title = "वासरगम्यमनूरोरम्बरमवनी च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वासरगम्यमनूरोरम्बरमवनी च वामनैकपदा।  
 जलधिरपि पोतलङ्घ्यः सतां मनः केन तुलयामः॥

@@ -6,7 +6,7 @@ title = "दधि मधुरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दधि मधुरं मधु मधुरं द्राक्षा मधुरा सुधापि मधुरैव।  
 तस्य तदेव हि मधुरं यस्य मनो यत्र सम्लग्नम्॥

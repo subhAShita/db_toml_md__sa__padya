@@ -7,7 +7,7 @@ title = "काममय एवायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काममय एवायं पुरुष इति।  
 स यथाकामो भवति तत्क्रतुर्भवति।  

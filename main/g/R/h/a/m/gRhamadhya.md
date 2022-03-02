@@ -6,7 +6,7 @@ title = "गृहमध्यनिखातेन धनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गृहमध्यनिखातेन धनेन रमते यदि।  
 स तु तेनानुसारेण रमते किं न मेरुणा॥

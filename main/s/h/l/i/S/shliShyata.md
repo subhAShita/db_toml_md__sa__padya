@@ -7,7 +7,7 @@ title = "श्लिष्यतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्लिष्यतः प्रियवधूरुपकण्ठं तारकास्ततकरस्य हिमांशोः।  
 उद्वमन्नभिरराज समन्तादङ्गराग इव लोहितरागः॥

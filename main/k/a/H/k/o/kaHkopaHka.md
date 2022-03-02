@@ -5,7 +5,7 @@ title = "कः कोपः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः कोपः कः प्रणयो नटविटहतमस्तकासु वेश्यासु।  
 रजकशिलातलसदृशं यासां जघनं च वदनं च॥

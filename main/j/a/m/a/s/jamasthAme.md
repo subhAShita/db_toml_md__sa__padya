@@ -1,13 +1,13 @@
 +++
 topics = [ "याचकः", "पुरुषकारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३५ याचकनिन्दा// 33",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "जनस्थाने भ्रान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जनस्थाने भ्रान्तं कनकमृगतृष्णाकुलतया वचो वैदेहीति प्रतिपदमुदश्रु प्रलपितम्।  
 कृतालङ्काभर्तुर्वदनपरिपाटीषु घटना मयाप्तं रामत्वं कुशलवसुता न त्वधिगता॥

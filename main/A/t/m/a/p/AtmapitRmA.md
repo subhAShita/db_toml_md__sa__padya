@@ -5,7 +5,7 @@ title = "आत्मपितृमातृगुणैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मपितृमातृगुणैः प्रख्यातश्चोत्तमोत्तमः।  
 गुणैरात्मभवैः ख्यातः पैतृकैर्मातृकैः पृथक्॥

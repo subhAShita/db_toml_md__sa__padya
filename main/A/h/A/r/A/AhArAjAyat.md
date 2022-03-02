@@ -5,7 +5,7 @@ title = "आहाराज् जायते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहाराज् जायते व्याधिर् गर्भात् क्रूरश्च जायते।  
 अलक्ष्मीकश्च शय्यायां स्वपाठादायुषः क्षयः॥

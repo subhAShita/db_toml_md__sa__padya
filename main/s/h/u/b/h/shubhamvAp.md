@@ -6,7 +6,7 @@ title = "शुभं वाप्यशुभम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुभं वाप्यशुभं कर्म फलकालमपेक्षते।  
 शरद्येव फलत्याशु शालिर्न सुरभौ क्वचित्॥

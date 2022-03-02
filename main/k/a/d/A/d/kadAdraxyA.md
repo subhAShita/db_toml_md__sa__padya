@@ -5,7 +5,7 @@ title = "कदा द्रक्ष्यामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदा द्रक्ष्यामि नन्दस्य बालकं नीपमालकम्।  
 पालकं सर्वसत्त्वानां लसत्तिलकभालकम्॥

@@ -6,7 +6,7 @@ title = "जनयन्त्यर्जने दुःखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जनयन्त्यर्जने दुःखं तापयन्ति विपत्तिषु।  
 मोहयन्ति च संपत्तौ कथमर्थाः सुखावहाः॥

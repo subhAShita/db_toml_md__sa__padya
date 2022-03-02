@@ -7,7 +7,7 @@ title = "सद्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सद्यः प्रवालोद्गमचारुपत्त्रे नीते समाप्तिं नवचूतबाणे।  
 निवेशयामास मधुर्द्विरेफान्नामाक्षराणीव मनोभवस्य॥

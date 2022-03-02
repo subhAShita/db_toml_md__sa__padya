@@ -6,7 +6,7 @@ title = "द्यूतं पुस्तकवाद्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्यूतं पुस्तकवाद्ये च नाटकेषु च सक्तिता।  
 स्त्रियस्तन्द्री च निद्रा च विद्याविघ्नकराणि षट्॥

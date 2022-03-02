@@ -6,7 +6,7 @@ title = "परदारा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परदारा न गन्तव्याः सर्ववर्णेषु कर्हिचित्।  
 न हीदृशमनायुष्यं त्रिषु लोकेषु विद्यते॥

@@ -7,7 +7,7 @@ title = "दानतीर्थतपोयज्ञपूर्वाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानतीर्थतपोयज्ञपूर्वाः सर्वेऽपि सर्वदा।  
 अङ्गानि हरिसेवायां भक्तिस्त्वेका विमुक्तये॥

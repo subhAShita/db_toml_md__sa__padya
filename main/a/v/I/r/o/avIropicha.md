@@ -5,7 +5,7 @@ title = "अवीरोऽपि चमूवीरसाहाय्येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवीरोऽपि चमूवीरसाहाय्येन द्विषो जयेत्।  
 चमूसाहाय्यशून्यानां जयश्रीर्व्याकुलायते॥

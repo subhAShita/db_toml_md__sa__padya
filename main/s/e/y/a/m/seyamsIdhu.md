@@ -7,7 +7,7 @@ title = "सेयं सीधुमयी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सेयं सीधुमयी वा सुधामयी वा हलाहलमयी वा।  
 दृग्भ्यां निपीतमात्रा मदयति मोदयति मूर्च्छयति॥

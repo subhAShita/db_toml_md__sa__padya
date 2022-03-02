@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3296", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०१ सुभाषितप्रशंसा// 15",]
-jsonClass = "Subhaashita"
 topics = [ "सुभाषितम्",]
+jsonClass = "Subhaashita"
 title = "अवसरपठितं सर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवसरपठितं सर्वं सुभाषितत्वं प्रयात्यसूक्तमपि।  
 क्षुधि कदशनमपि नितरां भोक्तुः संपद्यते स्वादु॥

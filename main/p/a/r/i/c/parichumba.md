@@ -7,7 +7,7 @@ title = "परिचुम्बति सम्श्लिष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिचुम्बति सम्श्लिष्य भ्रमरश्चूतमञ्जरीम्।  
 नवसमङ्गमसन्दृष्टः कामी प्रणयिनीमिव॥

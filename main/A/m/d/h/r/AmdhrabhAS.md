@@ -7,15 +7,15 @@ title = "आन्ध्रभाषामयं काव्यम्"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-When Tenali Rama was mocked "आन्ध्रभाषामयम् काव्यम् अयोमयविभूषणम्"
+आन्ध्रभाषामयं काव्यम् अयोमयविभूषणम्।  
+सम्स्कृतारण्यसञ्चारि विद्वान्मत्तेभशृङ्खलम्॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-आन्ध्रभाषामयं काव्यम् अयोमयविभूषणम्।  
-सम्स्कृतारण्यसञ्चारि विद्वान्मत्तेभशृङ्खलम्॥
+When Tenali Rama was mocked "आन्ध्रभाषामयम् काव्यम् अयोमयविभूषणम्"
 </details>

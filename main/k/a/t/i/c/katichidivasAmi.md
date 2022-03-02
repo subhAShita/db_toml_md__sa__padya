@@ -5,7 +5,7 @@ title = "कतिचिद् दिवसानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कतिचिद् दिवसानि तया गमिता- नि गृहे तव सङ्गमरोचनया।  
 कतिचिद् विपिने नलिनीशयने वचनेन पिकीमदमोचनया॥

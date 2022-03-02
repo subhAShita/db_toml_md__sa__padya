@@ -7,7 +7,7 @@ title = "भवत्कृते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवत्कृते खञ्जनमञ्जुलाक्षि शिरो मदीयं यदि याति यातु।  
 नीतानि नाशं जनकात्मजार्थं दशाननेनापि दशाननानि॥

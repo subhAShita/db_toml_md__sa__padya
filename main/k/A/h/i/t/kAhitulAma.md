@@ -5,7 +5,7 @@ title = "का हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का हि तुलामधिरोहति भुजगलतायाः प्रतानिनीष्वन्या।  
 या खण्डितापि रदनैर् जनयति वदने विचक्षणां सुषमाम्॥

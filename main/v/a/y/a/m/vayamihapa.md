@@ -1,14 +1,14 @@
 +++
 topics = [ "सन्तोषः", "तृप्तिः", "धनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 17",]
-jsonClass = "Subhaashita"
 sources = [ "भर्तृहरिः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "वयमिह परितुष्टा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वयमिह परितुष्टा वल्कलैस्त्वं च लक्ष्म्या सम इह परितोषो निर्विशेषो विशेषः।  
 स ह भवति दरिद्रो यस्य तृष्णा विशाला मनसि च परितुष्टे कोऽर्थवान्को दरिद्रः॥

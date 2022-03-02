@@ -5,7 +5,7 @@ title = "एकस्याप्यतिथेरन्नं यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकस्याप्यतिथेरन्नं यः प्रदातुं न शक्तिमान्।  
 तस्यानेकपरिक्लेशे गृहे किं वसतः फलम्॥

@@ -5,7 +5,7 @@ title = "अनेकदोषदुष्टस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेकदोषदुष्टस्य कायस्यैको महान् गुणः।  
 यो यथा वर्तयत्येनं तं तथैवानुवर्तते॥

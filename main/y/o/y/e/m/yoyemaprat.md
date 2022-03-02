@@ -6,7 +6,7 @@ title = "यो येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यो येन प्रतिबद्धः स्यात्सह तेनोदयी व्ययी।  
 स विश्वस्तो नियोक्तव्यः प्राणेषु च धनेषु च॥

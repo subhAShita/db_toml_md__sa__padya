@@ -5,7 +5,7 @@ title = "अहो येषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो येषां वरं जन्म सर्वप्राण्युपजीवनम्।  
 सुजनस्येव येषां वै विमुखा यान्ति नार्थिनः॥

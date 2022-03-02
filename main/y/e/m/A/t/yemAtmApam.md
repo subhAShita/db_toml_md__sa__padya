@@ -6,7 +6,7 @@ title = "येनात्मा पण्यताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येनात्मा पण्यतां नीतः स एवान्विष्यते जनैः।  
 हस्ती हेमसहस्रेण क्रीयते न मृगाधिपः॥

@@ -5,7 +5,7 @@ title = "अमृताप्यायिनां न्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृताप्यायिनां न् णां संतोषो नैव जायते।  
 गावस्तृणमिवारण्ये प्रार्थयन्ति नवं नवम्॥

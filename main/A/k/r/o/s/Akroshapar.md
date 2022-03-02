@@ -5,7 +5,7 @@ title = "आक्रोशपरिवादाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आक्रोशपरिवादाभ्यां विहिंसन्त्यबुधा बुधान्।  
 वक्ता पापमुपादत्ते क्षममाणो विमुच्यते॥

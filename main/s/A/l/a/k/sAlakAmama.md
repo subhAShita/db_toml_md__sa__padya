@@ -6,7 +6,7 @@ title = "सालकाननयुक्तापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सालकाननयुक्तापि सालकाननवर्जिता।  
 हारावरुद्धकण्ठापि विहारारिवधूस्तव॥

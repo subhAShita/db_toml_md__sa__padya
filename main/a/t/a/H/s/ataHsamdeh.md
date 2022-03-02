@@ -5,7 +5,7 @@ title = "अतः सन्देहदोलायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतः संदेहदोलायां रोपणीयं न मानसम्।  
 ग्रन्थेऽस्मिंश्चापचतुरैर् चीरचिन्तामणौ क्वचित्॥

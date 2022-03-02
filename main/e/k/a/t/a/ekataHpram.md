@@ -5,7 +5,7 @@ title = "एकतः प्रणयपीडनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकतः प्रणयपीडनं मुधा मानधारणरसादरोऽन्यतः।  
 रक्षती द्वयमिदं मनस्विनी निर्वृणोतु कथमत्र जन्मनि॥

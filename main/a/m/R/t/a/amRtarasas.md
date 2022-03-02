@@ -5,7 +5,7 @@ title = "अमृतरससारभूतः सकलकलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतरससारभूतः सकलकलो मकरकेतुसर्वस्वम्।  
 अखिलजननयनसुखकृत् कथमिन्दुर्वासरेऽभ्युदितः॥

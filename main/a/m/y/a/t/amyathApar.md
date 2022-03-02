@@ -5,7 +5,7 @@ title = "अन्यथा परिदृष्टानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यथा परिदृष्टानि मुनिभिर्वेददर्शिभिः।  
 अन्यथा परिवर्तन्ते वेगा इव नभस्वतः॥

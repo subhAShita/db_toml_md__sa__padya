@@ -6,7 +6,7 @@ title = "व्योमनि शम्बाकुरुते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्योमनि शम्बाकुरुते चित्रं निर्माति यत्नतः सलिले।  
 स्नपयति पवनं सलिलैर्यस्तु खले चरति सत्कारम्॥

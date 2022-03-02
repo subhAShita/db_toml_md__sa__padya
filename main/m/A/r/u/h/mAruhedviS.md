@@ -6,7 +6,7 @@ title = "नारुहेद्विषमं वृक्षम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नारुहेद्विषमं वृक्षं जीर्णां नावं न चारुहेत्।  
 कूपे नालोकयेत्तोयं न वात्मानं विनाशयेत्॥

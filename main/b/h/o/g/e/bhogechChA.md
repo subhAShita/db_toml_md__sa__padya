@@ -6,7 +6,7 @@ title = "भोगेच्छा नोपभोगेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगेच्छा नोपभोगेन भोगिनां जातु शाम्यति।  
 लवणेनान्तरालेन तृष्णा प्रत्युत जायते॥

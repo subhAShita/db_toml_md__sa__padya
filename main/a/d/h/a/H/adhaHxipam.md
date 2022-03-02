@@ -5,7 +5,7 @@ title = "अधः क्षिपन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधः क्षिपन्ति कृपणा वित्तं तत्र यियासवः।  
 सन्तस्तु गुरुतीर्थादौ तदुच्चैःपदकाङ्क्षिणः॥

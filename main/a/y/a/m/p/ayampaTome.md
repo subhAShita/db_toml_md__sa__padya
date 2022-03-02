@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2647", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 39",]
-jsonClass = "Subhaashita"
 rasas = [ "हास्यम्",]
+jsonClass = "Subhaashita"
 title = "अयं पटो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं पटो मे पितुरङ्गभूषणं पितामहाद्यैरुपभुक्तयौवनः।  
 अलंकरिष्यत्यथ पुत्रपौत्रकान् मयाधुना पुष्पवदेव धार्यते॥

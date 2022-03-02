@@ -5,7 +5,7 @@ title = "अधीयते विजानन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीयते विजानन्ति विरज्यन्ति मुहुर्मुहुः।  
 नात्यन्ताय निवर्तन्ते नरा वषम्यतो विधेः॥

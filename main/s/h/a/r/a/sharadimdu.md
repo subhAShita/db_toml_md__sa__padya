@@ -6,7 +6,7 @@ title = "शरदिन्दुकुन्दधवलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरदिन्दुकुन्दधवलं नगपतिनिलयं मनोहरं देवम्।  
 यैः सुकृतं कृतमनिशं तेषामेव प्रसादयति॥

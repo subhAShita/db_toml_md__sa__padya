@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8717", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 03 सरस्वती// 6",]
-jsonClass = "Subhaashita"
 topics = [ "सरस्वती",]
+jsonClass = "Subhaashita"
 title = "करबदरसदृशमखिलं भुवनतलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करबदरसदृशमखिलं भुवनतलं यत्प्रसादतः कवयः।  
 पश्यन्ति सूक्ष्ममतयः सा जयति सरस्वती देवी॥

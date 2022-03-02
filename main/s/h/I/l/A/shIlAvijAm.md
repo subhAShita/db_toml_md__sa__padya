@@ -1,14 +1,14 @@
 +++
 topics = [ "कविः", "कवयित्री",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 27",]
-jsonClass = "Subhaashita"
 sources = [ "शार्ङ्गधरपद्धतिः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "शीलाविज्जामारुलामोरिकाद्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शीलाविज्जामारुलामोरिकाद्याः काव्यं कर्तुं सन्तु विज्ञाः स्त्रियोऽपि।  
 विद्यां वेत्तुं वादिनो निर्विजेतुं दातुं वक्तुं यः प्रवीणः स वन्द्यः॥

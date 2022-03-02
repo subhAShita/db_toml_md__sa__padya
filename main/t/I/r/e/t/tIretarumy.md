@@ -6,7 +6,7 @@ title = "तीरे तरुण्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तीरे तरुण्या वदनं सहासं नीरे सरोजं च मिलद्विकासम् ।  
 आलोक्य धावत्युभयत्र मुग्धा मरन्दलुब्धालिकिशोरमाला ॥

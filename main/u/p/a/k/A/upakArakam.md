@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7013", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 932",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "उपकारकमायतेर्भृशं प्रसवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारकमायतेर्भृशं प्रसवः कर्मफलस्य भूरिणः।  
 अनपायि निबर्हणं द्विषां न तितिक्षासममस्ति साधनम्॥

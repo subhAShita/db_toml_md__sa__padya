@@ -5,7 +5,7 @@ title = "आसनादेकशय्यायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसनादेकशय्यायां संभाषात् सहभोजनात्।  
 पुंसां संक्रमते पापं घटाद् घटमिवोदकम्॥

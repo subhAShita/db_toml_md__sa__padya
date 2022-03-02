@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1778", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 3",]
-jsonClass = "Subhaashita"
 topics = [ "कुकविः",]
+jsonClass = "Subhaashita"
 title = "अन्यवर्णपरावृत्त्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यवर्णपरावृत्त्या बन्धचिह्ननिगूहनैः।  
 अनाख्यातः सतां मध्ये कविश्चोरो विभाव्यते॥

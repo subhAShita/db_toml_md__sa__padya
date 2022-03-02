@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_1865", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०३ मेघान्योक्तयः// 37",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - मेघः",]
-jsonClass = "Subhaashita"
 topics = [ "गुणवत्त्वम्",]
 ratings = [ "vvasuki:5",]
-title = "अन्यो ऽपि"
+jsonClass = "Subhaashita"
+title = "अन्योऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्योऽपि चन्दनतरोर्महनीयमूर्तेः सेकार्थमुत्सहति तद्गुणबद्धतृष्णः।  
 शाखोटकस्य पुनरस्य महाशयोयम् अम्भोद एव शरणं यदि निर्गुणस्य॥

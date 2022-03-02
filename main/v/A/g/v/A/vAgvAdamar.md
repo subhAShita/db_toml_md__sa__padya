@@ -6,7 +6,7 @@ title = "वाग्वादमर्थसम्बन्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाग्वादमर्थसम्बन्धं परोक्षे दारदर्शनम्।  
 यदीच्छेद्विपुलां प्रीतिं त्रीणि तत्र न कारयेत्॥

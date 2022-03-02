@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4374", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०१ क्रियागुप्तम्// 1",]
-jsonClass = "Subhaashita"
 types = [ "क्रियागुप्तम्",]
+jsonClass = "Subhaashita"
 title = "आगतः पाण्डवाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगतः पाण्डवाः सर्वे दुर्योधनसमीहया।  
 तस्मै गां च सुवर्णं च रत्नानि विविधानि च॥

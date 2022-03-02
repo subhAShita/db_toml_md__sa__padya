@@ -7,7 +7,7 @@ title = "ललितमुरसा तरन्ती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ललितमुरसा तरन्ती तरलतरङ्गौघचालितनितम्बा।  
 विपरीतरतासक्ता किमदृश्यत सरसि या सख्या॥

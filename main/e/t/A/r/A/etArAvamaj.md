@@ -5,7 +5,7 @@ title = "एता रावणजीमूताद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एता रावणजीमूताद् बाणधारा विनिःसृताः।  
 विभान्ति राममासाद्य वारिधारा वषं यथा॥

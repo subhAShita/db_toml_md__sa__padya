@@ -5,7 +5,7 @@ title = "एकोऽपि सिंहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोऽपि सिंहः साहस्रं यूथं मथ्नाति दन्तिनाम्।  
 तस्मात् सिंहमिवोदारम् आत्मानं वीक्ष्य संपतेत्॥

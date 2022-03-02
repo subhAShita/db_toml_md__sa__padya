@@ -7,7 +7,7 @@ title = "तं चौरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तं चौरं बन्धुमिच्छेश्चेद्  
 बन्धुमर्हसि गोपिके।  

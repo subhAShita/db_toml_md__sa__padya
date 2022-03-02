@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4485", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 21",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "आजन्मसिद्धं कौटिल्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आजन्मसिद्धं कौटिल्यं खलस्य च हलस्य च।  
 सोढुं तयोर्मूखाक्षेपम् अलमेकैव सा क्षमा॥

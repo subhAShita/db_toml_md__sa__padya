@@ -6,7 +6,7 @@ title = "कौपे पयसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौपे पयसि लघीयसि तापेन करः प्रसारितः करिणा।  
 सोऽपि न पयसा लिप्तो लाघवमात्मा परं नीतः॥

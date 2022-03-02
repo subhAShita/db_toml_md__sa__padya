@@ -5,7 +5,7 @@ title = "एते चान्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते चान्ये च बहवो दोषाः प्रादुर्भवन्त्युत।  
 नृपतौ मार्दवोपेते हर्षुले च युधिष्ठिर॥

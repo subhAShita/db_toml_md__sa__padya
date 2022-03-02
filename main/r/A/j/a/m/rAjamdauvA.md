@@ -6,7 +6,7 @@ title = "राजन्दौवारिकादेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजन्दौवारिकादेव प्राप्तवानस्मि वारणम्।  
 मदवारणमिच्छामि त्वत्तोऽहं जगतीपते॥

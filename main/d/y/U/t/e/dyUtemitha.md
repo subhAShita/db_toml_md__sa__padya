@@ -7,7 +7,7 @@ title = "द्यूते मिथः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्यूते मिथः चुम्बनदानबन्धे  
 जयाजयाभ्यां समवाप्तमोदौ।  

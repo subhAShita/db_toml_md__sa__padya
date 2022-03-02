@@ -7,7 +7,7 @@ title = "ज्ञाता नभोलिपेरस्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्ञाता नभोलिपेरस्ति ज्ञाता वारिलिपेरपि ।  
 ज्ञाता ब्रह्मलिपेरस्ति ज्ञाता वैद्यलिपेस्तु कः ॥

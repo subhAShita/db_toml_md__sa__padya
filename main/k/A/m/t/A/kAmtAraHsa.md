@@ -5,7 +5,7 @@ title = "कान्तारः समराख्यश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तारः समराख्यश्च वैकुण्ठो वाञ्छितस् तथा।  
 विशालश्च तथा नन्दः षोढाः निःसारुको भवेत्॥

@@ -6,7 +6,7 @@ title = "यस्यां महत्त्वभाजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्यां महत्त्वभाजो भवन्ति गुणिनोऽमिता धनुर्दण्डाः।  
 दहतस्तां वंशालिं को वनवह्ने विवेकस्ते॥

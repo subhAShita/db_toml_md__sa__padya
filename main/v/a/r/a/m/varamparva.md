@@ -6,7 +6,7 @@ title = "वरं पर्वतदुर्गेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं पर्वतदुर्गेषु भ्रान्तं वनचरैः सह।  
 मूर्खजनसम्पर्कः सुरेन्द्रभवनेष्वपि॥

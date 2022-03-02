@@ -5,7 +5,7 @@ title = "उच्चैःस्थितीनां विदुषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्चैःस्थितीनां विदुषां पदमारोढुमिच्छवः।  
 सत्सुभाषितसोपानसेविनः सन्तु साधवः॥

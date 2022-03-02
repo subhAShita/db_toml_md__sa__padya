@@ -5,7 +5,7 @@ title = "अनित्यत्वे कृतमतिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनित्यत्वे कृतमतिर् म्लानमाल्येन शोचति।  
 नित्यत्वे कृतबुद्धिस्तु भिन्नभाण्डेऽनुशोचति॥

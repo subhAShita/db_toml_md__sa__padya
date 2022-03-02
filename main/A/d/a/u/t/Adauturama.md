@@ -5,7 +5,7 @@ title = "आदौ तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ तु रमणीयानि मध्ये तु विरसानि च।  
 अन्ते वैरायमाणानि संगतानि खलैः सह॥

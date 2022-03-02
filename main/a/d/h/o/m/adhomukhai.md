@@ -5,7 +5,7 @@ title = "अधोमुखैकदंष्ट्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधोमुखैकदंष्ट्रेण विषशुक्रप्रवाहिणा।  
 अनेन दुश्चिकित्स्येन जगद्दष्टं भगाहिना॥

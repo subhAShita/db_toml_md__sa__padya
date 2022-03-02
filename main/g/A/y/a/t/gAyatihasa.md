@@ -6,7 +6,7 @@ title = "गायति हसति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गायति हसति च नृत्यति हृदयेन धृतां प्रियां विचिन्तयति।  
 समविषमं न च विन्दति गृहगमनसमुत्सुकः पथिकः॥

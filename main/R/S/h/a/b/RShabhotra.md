@@ -5,7 +5,7 @@ title = "ऋषभोऽत्र गीयत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋषभोऽत्र गीयत इति श्रुत्वा स्वरपारगा वयं प्राप्ताः।  
 को वेद गोष्ठमेतद् गोशान्तौ विहितबहुमानम्॥

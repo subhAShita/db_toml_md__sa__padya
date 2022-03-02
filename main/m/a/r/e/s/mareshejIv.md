@@ -6,7 +6,7 @@ title = "नरेशे जीवलोकोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नरेशे जीवलोकोऽयं निमीलति निमीलति।  
 उदेत्युदीयमाने च रवाविव सरोरुहम्॥

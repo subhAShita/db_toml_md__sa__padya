@@ -6,7 +6,7 @@ title = "धर्मो यशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मो यशो नयो दाक्ष्यं मनोहारि सुभाषितम्।  
 इत्यादिगुणरत्नानां सङ्ग्रही नावसीदति॥

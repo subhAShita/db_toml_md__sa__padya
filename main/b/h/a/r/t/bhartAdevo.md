@@ -6,7 +6,7 @@ title = "भर्ता देवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भर्ता देवो गुरुर्भर्ता धर्मतीर्थव्रतानि च।  
 तस्मात्सर्वं परित्यज्य पतिमेकं भजेत्सती॥

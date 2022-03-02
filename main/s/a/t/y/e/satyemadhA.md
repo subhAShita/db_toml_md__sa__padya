@@ -6,7 +6,7 @@ title = "सत्येन धार्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्येन धार्यते पृथ्वी सत्येन तपते रविः।  
 सत्येन वायवो वान्ति सर्वं सत्ये प्रतिष्ठितम्॥

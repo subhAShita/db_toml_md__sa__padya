@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0567", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 298",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "अतिदूरपथश्रान्ताश्छायाम्"
+jsonClass = "Subhaashita"
+title = "अतिदूरपथश्रान्ताश् छायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिदूरपथश्रान्ताश् छायां यान्ति च शीतलाम्।  
 शितलाश्च पुनर्यान्ति का कस्य परिदेवना॥

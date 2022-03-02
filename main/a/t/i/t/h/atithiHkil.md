@@ -5,7 +5,7 @@ title = "अतिथिः किल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 . . . . . . अतिथिः किल पूजार्हः प्राकृतोऽपि विजानता॥
 </details>

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1401", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 238",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अनिर्लोडितकार्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्लोडितकार्यस्य वाग्जालं वाग्मिनो वृथा।  
 निमित्तादपराद्धेषोर् धानुष्कस्येव वल्गितम्॥

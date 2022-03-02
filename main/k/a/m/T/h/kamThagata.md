@@ -5,7 +5,7 @@ title = "कण्ठगतैरप्यसुभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्ठगतैरप्यसुभिः कस्यात्मा नोपसर्पते जातु।  
 मूर्खस्य विषादस्य च गर्वस्य तथा कृतघ्नस्य॥

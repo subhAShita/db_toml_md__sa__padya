@@ -6,7 +6,7 @@ title = "दुरारोहं पदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुरारोहं पदं राज्ञां सर्वलोकनमस्कृतम्।  
 स्वल्पेनाप्यपचारेण ब्राह्मण्यमिव दुष्यति॥

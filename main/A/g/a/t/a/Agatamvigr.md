@@ -5,7 +5,7 @@ title = "आगतं विग्रहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगतं विग्रहं विद्वान् उपायैः प्रशमं नयेत्।  
 विजयस्य ह्यनित्यत्वाद् रभसेन न संपतेत्॥

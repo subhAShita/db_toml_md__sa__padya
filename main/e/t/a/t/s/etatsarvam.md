@@ -5,7 +5,7 @@ title = "एतत् सर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतत् सर्वं परिज्ञाय वृक्षारोपं समारभेत्।  
 धर्मार्थकाममोक्षाणां द्रुमेभ्यः साधनं यतः॥

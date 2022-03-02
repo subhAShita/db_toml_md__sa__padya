@@ -7,7 +7,7 @@ title = "तच्चरणाम्बुजमेकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तच्चरणाम्बुजमेकं भवभयभङ्गाय भवतु सताम् ।  
 आजघ्ने येनोरसि महिषो वा महिषवहनो वा ॥

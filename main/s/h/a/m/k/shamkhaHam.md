@@ -6,7 +6,7 @@ title = "%शङ्खः% अन्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 %शङ्खः%॥ अन्तः कुटिलतां बिभ्रच्छङ्खः स खलु निष्ठुरः।  
 हुङ्करोति यदा ध्मातस्तदैव बहु गण्यते॥

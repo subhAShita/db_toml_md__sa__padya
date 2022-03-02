@@ -8,7 +8,7 @@ title = "सन्तापय चिरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तापय चिरं चन्द्र न तत्र प्रतिषिध्यसे।  
 निवारय करस्पर्शं रामस्याहं परिग्रहः॥

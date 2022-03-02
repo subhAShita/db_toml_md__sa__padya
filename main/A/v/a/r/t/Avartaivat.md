@@ -5,7 +5,7 @@ title = "आवर्त इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवर्त इव तोयस्य ज्ञानावर्तो यदाकुलः।  
 चित्तमास कृतावर्तम् उपसर्गः स उच्यते॥

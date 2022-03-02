@@ -7,7 +7,7 @@ title = "हिरण्यं भूमिमश्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हिरण्यं भूमिमश्वं गामन्नं वासस्तिलान् घृतम् ।  
 प्रतिगृह्णन्नविद्वांस्तु भस्मीभवति दारुवत् ॥

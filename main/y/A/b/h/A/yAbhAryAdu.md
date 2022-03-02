@@ -7,7 +7,7 @@ title = "या भार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या भार्या दुष्टचरिता सततं कलहप्रिया।  
 भार्यारूपेण सा ज्ञेया विदग्धैर्दारुणा जरा॥

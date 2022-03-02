@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1637", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 28",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "अन्तर्भूतो निवसति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्भूतो निवसति जडे जडः शिशिरमहसि हरिण इव।  
 अजडे शशीव तपने स तु प्रविष्टोऽपि निःसरति॥

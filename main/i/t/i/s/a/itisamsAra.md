@@ -5,7 +5,7 @@ title = "इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इति संसारदुःखार्कतापतापितचेतसाम्।  
 विमुक्तिपादपच्छायाम् ऋते कुत्र सुखम् नृणाम्॥

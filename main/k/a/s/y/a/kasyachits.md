@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9238", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
-title = "कस्यचित्समदनम्"
+jsonClass = "Subhaashita"
+title = "कस्यचित् समदनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्यचित् समदनं मदनीय- प्रेयसीवदनपानपरस्य।  
 स्वादितः सकृदिवासव एव प्रत्युत क्षणविदंशपदेऽभूत्॥

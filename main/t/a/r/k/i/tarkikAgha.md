@@ -6,7 +6,7 @@ title = "तर्किका घटपटेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तर्किका घटपटेति रटेयुः  
 शब्दिकाः खफछठेति पठेयुः ।  

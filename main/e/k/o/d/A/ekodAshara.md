@@ -5,7 +5,7 @@ title = "एको दाशरथिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको दाशरथिः कामं यातुधानाः सहस्रशः।  
 ते तु यावन्त एवाजौ तावांश्च ददृशे स तैः॥

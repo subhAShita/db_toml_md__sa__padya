@@ -6,7 +6,7 @@ title = "व्ययवासाः पञ्चशिरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्ययवासाः पञ्चशिरा यरिर्वीनारिभूषणः।  
 असिरोमा क्रियादुर्वः शङ्कलायनवीक्षणः॥

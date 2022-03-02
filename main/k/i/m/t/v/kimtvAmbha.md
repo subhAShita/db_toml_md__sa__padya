@@ -7,7 +7,7 @@ title = "किं त्वाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं त्वां भणामि विच्छेददारुणायासकारिणि।  
 कामं कुरु वरारोहे देहि मे परिरम्भणम्॥

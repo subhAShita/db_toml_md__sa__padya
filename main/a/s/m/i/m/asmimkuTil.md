@@ -5,7 +5,7 @@ title = "अस्मिन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्मिन् कुटिलकल्लोलदोलाविक्षोभितेऽम्भसि।  
 हास्यहेतुः कथं सेतुः सिकतामुष्टिभिर्भवेत्॥

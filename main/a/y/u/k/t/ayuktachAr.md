@@ -5,7 +5,7 @@ title = "अयुक्तचारं दुर्दर्शम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयुक्तचारं दुर्दर्शम् अस्वाधीनं नराधिपम्।  
 वर्जयन्ति नरा दूरान् नदीपङ्कमिव द्विपाः॥

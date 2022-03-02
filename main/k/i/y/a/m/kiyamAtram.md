@@ -6,7 +6,7 @@ title = "कियन्मात्रं जलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कियन्मात्रं जलं विप्र जानुदघ्नं नराधिप।  
 तथापी यमवस्था ते न हि सर्वे भवादृशाः॥

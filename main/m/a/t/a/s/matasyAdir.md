@@ -6,7 +6,7 @@ title = "न तस्यादिर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न तस्यादिर्न तस्यान्तो मध्ये यस्तस्य तिष्ठति।  
 तवाप्यस्ति ममाप्यस्ति यदि जानासि तद्वद॥

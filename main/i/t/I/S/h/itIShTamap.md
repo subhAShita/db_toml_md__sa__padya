@@ -5,7 +5,7 @@ title = "इतीष्टमप्यनिष्टाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतीष्टमप्यनिष्टाय जायतेऽविधिना कृतम्।  
 तस्मान् न विधिमुत्सृज्य प्राज्ञः कुर्वीत किंचन।  

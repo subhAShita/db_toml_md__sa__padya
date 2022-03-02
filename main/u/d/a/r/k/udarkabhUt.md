@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6743", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 236",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "उदर्कभूतिमिच्छद्भिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदर्कभूतिमिच्छद्भिः सद्भिः खलु न दृश्यते।  
 चतुर्थीचन्द्रलेखेव परस्त्रीभालपट्टिका॥

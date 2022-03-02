@@ -5,7 +5,7 @@ title = "आपदं प्राप्नुयात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदं प्राप्नुयात् स्वामी यस्य भृत्यस्य पश्यतः।  
 प्राणेषु विद्यमानेषु स भृत्यो नरकं व्रजेत्॥

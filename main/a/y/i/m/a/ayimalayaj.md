@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2760", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// ०३ चन्दनः// 42",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - चन्दनः",]
+jsonClass = "Subhaashita"
 title = "अयि मलयज"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि मलयज महिमायं कस्य गिरामस्तु विषयस्ते।  
 उद्गिरतो यद्गरलं फणिनः पुष्णासि परिमलोद्गारैः॥

@@ -3,11 +3,11 @@ secondary_sources = [ "MSS_1380",]
 topics = [ "ऋजुता", "धर्मः", "लयः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "अनित्त्यानि शरीराणि"
+title = "अनित्यानि शरीराणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनित्यानि शरीराणि विभवो नैव शाश्वतः।  
 नित्यं संनिहितो मृत्युः कर्तव्यो धर्मसंग्रहः॥

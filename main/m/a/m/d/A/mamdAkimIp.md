@@ -6,7 +6,7 @@ title = "मन्दाकिनीपयःपानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्दाकिनीपयःपानं मन्दाक्षीमुखचुम्बनम्।  
 मन्दरोपवनक्रीडा मन्दानुष्ठानतः कुतः॥

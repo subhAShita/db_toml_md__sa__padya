@@ -7,7 +7,7 @@ title = "नापेक्षे शब्दजालम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नापेक्षे शब्दजालं न च कमपि रसं नाप्यलङ्कारसारं  
 न च्छन्दो नापि रीतीर्न हि पटुकवितालोकनास्वादनानि ।  

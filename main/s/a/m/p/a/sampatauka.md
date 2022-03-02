@@ -6,7 +6,7 @@ title = "सम्पत्तौ कर्कशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संपत्तौ कर्कशं चित्तं खलस्यापदि कोमलम्।  
 शीतलं कठिनं प्रायस्तप्तं मृदु भवत्ययः॥

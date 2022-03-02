@@ -6,7 +6,7 @@ title = "भुजङ्गकुण्डली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भुजङ्गकुण्डली व्यक्तशशिशुभ्रांशुशीतगुः।  
 जगन्त्यपि सदापायादव्याच्चेतोहरः शिवः॥

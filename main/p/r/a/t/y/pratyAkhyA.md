@@ -6,7 +6,7 @@ title = "प्रत्याख्याने च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रत्याख्याने च दाने च सुखदुःखे प्रियाप्रिये।  
 आत्मौपम्येन पुरुषः प्रमाणमधिगच्छति॥

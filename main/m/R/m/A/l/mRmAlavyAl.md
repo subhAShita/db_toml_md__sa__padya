@@ -6,7 +6,7 @@ title = "मृणालव्यालवलया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृणालव्यालवलया वेणीबन्धकपर्दिनी।  
 हरानुकारिणी पातु लीलया पार्वती जगत्॥

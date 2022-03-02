@@ -5,7 +5,7 @@ title = "अशेषचक्षुःश्रवणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशेषचक्षुःश्रवणं प्रतिकूलो भवन्नपि।  
 विनतानन्दहेतुर्यः स पुमानाप्तनन्दनः॥

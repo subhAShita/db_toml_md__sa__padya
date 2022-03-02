@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2567", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०३ विहारः// 23",]
-jsonClass = "Subhaashita"
 topics = [ "विहारः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अम्बरं विनयतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्बरं विनयतः प्रियपाणेर् योषितश्च करयोः कलहस्य।  
 वारणामिव विधातुमभीक्ष्णं कक्ष्यया च वलयैश्च शिशिञ्जे॥

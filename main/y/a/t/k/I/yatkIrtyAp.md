@@ -7,7 +7,7 @@ title = "यत्कीर्त्या प्रसरन्त्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्कीर्त्या प्रसरन्त्या परिणतशरदिन्दुकान्तिकोमलया ।  
 काली बभूव गौरी स कालिदासो जयत्यनिशम् ॥

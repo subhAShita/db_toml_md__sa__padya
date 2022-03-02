@@ -5,7 +5,7 @@ title = "कण्टकान् कूपमग्निम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्टकान् कूपमग्निं च वर्जयन्ति यथा नराः।  
 तथा नृशंसकर्माणं वर्जयन्ति नरा नरम्॥

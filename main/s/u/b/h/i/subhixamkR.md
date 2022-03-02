@@ -6,7 +6,7 @@ title = "सुभिक्षं कृषके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभिक्षं कृषके नित्यं नित्यं सुखमरोगिणि।  
 भार्या भर्तुः प्रिया यस्य तस्य नित्योत्सवं गृहम्॥

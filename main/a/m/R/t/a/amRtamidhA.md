@@ -5,7 +5,7 @@ title = "अमृतनिधानं रुचिरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतनिधानं रुचिरं संतापनिवर्तते सदा निरतम्।  
 चन्द्रमुखं तव सुन्दरि सुस्मितभासा विकासते परितः॥

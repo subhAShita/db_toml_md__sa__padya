@@ -5,7 +5,7 @@ title = "अयि हारलते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि हारलते संहर हरहुंकृतिदग्धदेहसंक्षोभम्।  
 सद्भावजानुरक्तिर् नहि रम्या पण्यनारीणाम्॥

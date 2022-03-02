@@ -7,7 +7,7 @@ title = "मधुधारेव न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुधारेव न मुञ्चसि मानिनि रूक्षापि माधुरीं सहजाम्।  
 कृतमुखभङ्गापि रसं ददासि मम निम्नगा यथाम्भोधेः॥

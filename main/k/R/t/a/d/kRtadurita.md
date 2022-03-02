@@ -6,7 +6,7 @@ title = "कृतदुरितनिराकरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतदुरितनिराकरणं व्याकरणं चतुरधीरधीयानः।  
 बुधगणगणनावसरे कनिष्ठिकायां परं जयति॥

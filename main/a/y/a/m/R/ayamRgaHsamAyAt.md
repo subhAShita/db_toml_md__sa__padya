@@ -6,7 +6,7 @@ title = "अयं मृगः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं मृगः समायाति  
 त्वरितैस् त्वरितैः पदैः।  

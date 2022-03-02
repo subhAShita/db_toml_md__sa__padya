@@ -5,7 +5,7 @@ title = "देवत्वममरेशत्वं रसायनचयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देवत्वममरेशत्वं रसायनचयः क्रियाः।  
 मरुत्प्रपतनं यज्ञं जलाद्यावेशनं तथा॥

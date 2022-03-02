@@ -6,7 +6,7 @@ title = "भासते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भासते प्रतिमासाररसाभाताहताविता।  
 भावितात्मा शुभा वादे देवाभा बत ते सभा॥

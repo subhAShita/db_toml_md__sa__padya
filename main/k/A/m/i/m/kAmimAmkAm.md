@@ -5,7 +5,7 @@ title = "कामिनां कामिनीनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिनां कामिनीनां च सङ्गात् कामी भवेत् पुमान्।  
 देहान्तरे ततः क्रोधी लोभी मोही च जायते॥

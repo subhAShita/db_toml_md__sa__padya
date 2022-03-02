@@ -7,7 +7,7 @@ title = "उपरि पयोधरमाला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरि पयोधरमाला दूरे दयिता किमेतदापतितम्।  
 हिमवति दिव्यौषधयः कोपाविष्टः फणी शिरसि॥

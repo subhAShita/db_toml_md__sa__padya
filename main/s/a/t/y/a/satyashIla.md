@@ -6,7 +6,7 @@ title = "सत्यशीलदयोपेतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यशीलदयोपेतो दातासुचिरमत्सरः।  
 जिनः सर्वात्मना सेव्यः पदमुच्चैरभीप्सता॥

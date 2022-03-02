@@ -5,7 +5,7 @@ title = "अर्था दुःखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्था दुःखं परित्यक्तुं पालिताश्चापि तेऽसुखाः।  
 दुःखेन चाधिगम्यन्ते तेषां नाशं न चिन्तयेत्॥

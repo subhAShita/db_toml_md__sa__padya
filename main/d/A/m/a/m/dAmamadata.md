@@ -6,7 +6,7 @@ title = "दानं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानं न दत्तं न तपश्च तप्तं नाराधितौ शङ्करवासुदेवौ।  
 अग्नौ रणे वा न हुतश्च कायः शरीर किं प्रार्थयसे सुखानि॥

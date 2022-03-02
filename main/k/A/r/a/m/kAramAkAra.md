@@ -5,7 +5,7 @@ title = "कारणाकारणध्वस्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारणाकारणध्वस्तं कारणाकारणागतम्।  
 यो मित्रं समुपेक्षेत स मृत्युमुपगूहति॥

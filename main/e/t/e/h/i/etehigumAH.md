@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7998", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// ५० कमलानि// 213",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - कमलम्",]
+jsonClass = "Subhaashita"
 title = "एते हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते हि गुणाः पङ्कज सन्तोऽपि न ते प्रकाशमायान्ति।  
 यल् लक्ष्मीवसतेस् तव मधुपैरुपभुज्यते कोशः॥

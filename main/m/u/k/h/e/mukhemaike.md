@@ -6,7 +6,7 @@ title = "मुखेनैकेन विध्यन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखेनैकेन विध्यन्ति पादमेकस्य कण्टकाः।  
 दूरान्मुखसहस्रेण सर्वप्राणहराः खलाः॥

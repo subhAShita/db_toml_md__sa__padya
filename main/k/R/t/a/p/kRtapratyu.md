@@ -6,7 +6,7 @@ title = "कृतप्रत्युपकारो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतप्रत्युपकारो हि वणिग्-धर्म्मो न साधुता।  
 तत्रापि येन कुर्वन्ति पशवस्ते न मानुषाः॥

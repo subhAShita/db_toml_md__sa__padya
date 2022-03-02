@@ -7,7 +7,7 @@ title = "तीक्ष्णतीक्ष्णाः कथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तीक्ष्णतीक्ष्णाः कथं न स्युर्वचोबाणा दुरात्मनाम् ।  
 तेजितास्तेजिता नित्यं मनश्शाणोपले सताम् ॥

@@ -5,7 +5,7 @@ title = "अब्धिना सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अब्धिना सह मित्रत्वे दारिद्र्यं यदि जायते।  
 लाञ्छनं सागरस्यैव मैत्रीकर्तुर्न लाञ्छनम्॥

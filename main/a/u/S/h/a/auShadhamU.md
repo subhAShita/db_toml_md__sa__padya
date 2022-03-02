@@ -5,7 +5,7 @@ title = "औषधं मूढवैद्यानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औषधं मूढवैद्यानां त्यजन्तु ज्वरपीडिताः।  
 परसंसर्गसंसक्तं कलत्रमिव साधवः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9414", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 25",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कान्तदूत्य इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तदूत्य इव कुङ्कुमताम्राः सायमण्डलमभित्वरयन्त्यः।  
 सादरं ददृशिरे वनिताभिः सौधजालपतिता रविभासः॥

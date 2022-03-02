@@ -6,7 +6,7 @@ title = "राजपत्नी गुरोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजपत्नी गुरोः पत्नी भ्रातृपत्नी तथैव च।  
 पत्नीमाता स्वमाता च पञ्चैता मातरः स्मृताः॥

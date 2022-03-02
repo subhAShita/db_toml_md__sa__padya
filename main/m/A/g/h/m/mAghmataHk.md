@@ -6,7 +6,7 @@ title = "नाघ्नतः कीर्तिरस्तीह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाघ्नतः कीर्तिरस्तीह न वित्तं न पुनः प्रजाः  
 इन्द्रो वृत्रवधेनैव महेन्द्रः समपद्यत  

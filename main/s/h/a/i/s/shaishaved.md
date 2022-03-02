@@ -6,7 +6,7 @@ title = "शैशवे ध्वस्तविद्यानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शैशवे ध्वस्तविद्यानां यौवने विषयैषिणां  
 वार्धक्ये शनिवृत्तीनां रोगेणान्ते तनुत्यजाम्

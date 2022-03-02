@@ -5,7 +5,7 @@ title = "एतेन बद्धबलिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतेन बद्धबलिना संकोचमवाप्य वृद्धदेहेन।  
 यातं हरिणेव मया द्वित्राणि पदानि कृच्छ्रेण॥

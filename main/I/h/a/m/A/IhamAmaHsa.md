@@ -5,7 +5,7 @@ title = "ईहमानः समारम्भान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईहमानः समारम्भान् यदि नासादयेद् धनम्।  
 उग्रं तपः समारोहेन् न ह्यनुप्तं प्ररोहति॥

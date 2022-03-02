@@ -5,7 +5,7 @@ title = "ईदृशं व्यसनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईदृशं व्यसनं प्राप्तं भ्रातरं यः परित्यजेत्।  
 को नाम स भवेत् तस्य यमेष न परित्यजेत्॥

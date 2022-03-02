@@ -6,7 +6,7 @@ title = "तावन्मौनेन नीयन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावन्मौनेन नीयन्ते कोकिलैश्चैव वासराः।  
 यावत्सर्वजनानन्ददायिनी वाक्प्रवर्तते॥

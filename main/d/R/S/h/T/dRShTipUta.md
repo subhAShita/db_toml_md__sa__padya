@@ -7,7 +7,7 @@ title = "दृष्टिपूतं न्यसेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृष्टिपूतं न्यसेत् पादं वस्त्रपूतं जलं पिबेत्।  
 सत्यपूताम् वदेद्वाचं मनःपूतं समाचरेत् ॥

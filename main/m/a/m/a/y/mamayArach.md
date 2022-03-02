@@ -6,7 +6,7 @@ title = "न मया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न मया रचितं तवालवालं पयसा वा विहितस्तवाभिषेकः।  
 अयि कल्पतरो परोपकारे भवतो विश्वविलक्षणः प्रकारः॥

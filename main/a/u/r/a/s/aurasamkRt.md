@@ -7,7 +7,7 @@ title = "औरसं कृतसम्बन्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औरसं कृतसम्बन्धं तथा वंश-क्रमागतम् ।  
 रक्षितं व्यसनेभ्यश्च मित्रं ज्ञेयं चतुर्विधम् ॥

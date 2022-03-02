@@ -6,7 +6,7 @@ title = "रवितप्तो गजः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रवितप्तो गजः पद्मांस्तद्गृह्यान्बाधितुं ध्रुवम्।  
 सरो विशति न स्नातुं गजस्नानं हि निष्फलम्॥

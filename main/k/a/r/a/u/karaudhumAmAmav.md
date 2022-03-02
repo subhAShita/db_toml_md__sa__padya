@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8800", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७३ शरद्वर्णनम्// ०२ भ्रमरक्रीडा// 52",]
-jsonClass = "Subhaashita"
 topics = [ "भ्रमरक्रीडा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "करौ धुनाना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करौ धुनाना नवपल्लवाकृती वृथा कृथा मानिनि मा परिश्रमम्।  
 उपेयुषी कल्पलताभिशङ्कया कथं न्वितस्त्रस्यति षट्पदावलिः॥

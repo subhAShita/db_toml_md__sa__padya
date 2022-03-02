@@ -6,7 +6,7 @@ title = "उच्चैरपि वक्तव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्चैरपि वक्तव्यं  
 यत्किञ्चिदजानताऽपि पुरुषेण।  

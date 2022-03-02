@@ -6,7 +6,7 @@ title = "सद्भिः सम्बोध्यमानोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सद्भिः सम्बोध्यमानोऽपि दुरात्मा पापपूरुषः।  
 घृष्यमाण इवाङ्गारो निर्मलत्वं न गच्छति॥

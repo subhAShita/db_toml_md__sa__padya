@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2623", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०१ क्रियागुप्तम्// 11",]
-jsonClass = "Subhaashita"
 types = [ "क्रियागुप्तम्",]
+jsonClass = "Subhaashita"
 title = "अम्लानपङ्कजा माला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्लानपङ्कजा माला कण्ठे रामस्य सीतया।  
 मुधा बुधा भ्रमन्त्यत्र प्रत्यक्षेऽपि क्रियापदे॥

@@ -6,7 +6,7 @@ title = "पिता वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिता वा यदि वा भ्राता पुत्रो वा यदि वा सुहृत्।  
 प्राणच्छेदकरा राज्ञा हन्तव्या भूतिमिच्छता॥

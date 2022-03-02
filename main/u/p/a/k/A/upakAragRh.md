@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7014", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 314",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "उपकारगृहीतेन शत्रुणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारगृहीतेन शत्रुणा शत्रुमुद्धरेत्।  
 पादलग्नं करस्थेन कण्टकेनेव कण्टकम्॥

@@ -6,7 +6,7 @@ title = "धर्मस्य फलमिच्छन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मस्य फलमिच्छन्ति धर्मं नेच्छन्ति मानवाः ।  
 फलं पापस्य नेच्छन्ति पापं कुर्वन्ति सादराः ॥

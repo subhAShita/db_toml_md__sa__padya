@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1265", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 14",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनर्थित्वान्मनुष्याणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनर्थित्वान्मनुष्याणां भयात् परिजनस्य च।  
 मर्यादायाममर्यादाः स्त्रियस्तिष्ठन्ति भर्तृषु॥

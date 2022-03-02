@@ -5,7 +5,7 @@ title = "अज्ञानोपहतो बाल्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञानोपहतो बाल्ये यौवने मदनाहतः।  
 शेषे कलत्रचिन्तार्तः किं करोतु कदा जनः॥

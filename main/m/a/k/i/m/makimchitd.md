@@ -6,8 +6,7 @@ title = "न किञ्चित्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
-न किञ्चित् दीर्घसूत्राणां सिध्यत्यात्मक्षयादृते ।  
-
+न किञ्चित् दीर्घसूत्राणां सिध्यत्यात्मक्षयादृते ।
 </details>

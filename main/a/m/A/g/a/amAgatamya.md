@@ -5,7 +5,7 @@ title = "अनागतं यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनागतं यः कुरुते स शोभते स शोचते यो न करोत्यनागतम्।  
 वने वसन्नेव जरामुपागतो बिलस्य वाचा न कदापि हि श्रुता॥

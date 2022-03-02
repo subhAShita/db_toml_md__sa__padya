@@ -7,7 +7,7 @@ title = "मम प्रियाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मम प्रियां कैरविणीं करेण सन्तापयामास दिनाधिनाथः।  
 इतीव दुःखैर्विकलः कलावान् पपौ विषं लक्ष्ममिषेण सद्यः॥

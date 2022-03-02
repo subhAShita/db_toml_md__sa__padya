@@ -7,7 +7,7 @@ title = "अनधीत्य द्विजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनधीत्य द्विजो वेदान् अनुत्पाद्य तथा सुतान् ।  
 अनिष्ट्वा चैव यज्ञांश्च मोक्षमिच्छन् व्रजत्यधः ॥

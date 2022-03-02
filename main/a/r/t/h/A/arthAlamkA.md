@@ -6,8 +6,7 @@ title = "अर्थालङ्काररहिता विधवेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
-अर्थालङ्काररहिता विधवेव सरस्वती।  
-
+अर्थालङ्काररहिता विधवेव सरस्वती।
 </details>

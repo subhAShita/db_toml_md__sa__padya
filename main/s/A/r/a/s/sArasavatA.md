@@ -6,7 +6,7 @@ title = "सारसवत्ता विहता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सारसवत्ता विहता नवका विलसन्ति चरति नो कङ्कः।  
 सरसीव कीर्तिशेषं गतवति भुवि विक्रमादित्ये॥

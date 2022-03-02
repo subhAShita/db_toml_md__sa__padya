@@ -5,7 +5,7 @@ title = "उद्गमनोपनिवेशन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्गमनोपनिवेशन- शयनपरावृत्तिवलनचलनेषु।  
 अनिशं स मोहयति मां हृल्लग्नः श्वास इव दयितः॥

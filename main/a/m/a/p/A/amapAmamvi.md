@@ -5,7 +5,7 @@ title = "अन्नपानं विषाद्रक्षेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नपानं विषाद्रक्षेद् विशेषेण महीपतेः।  
 योगक्षेमौ तदायत्तौ धर्माद्या यन्निबन्धनाः॥

@@ -7,7 +7,7 @@ title = "चलत्कामिमनोमीनमादातुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चलत्कामिमनोमीनमादातुं चित्तजन्मनः।  
 गलयष्टिरिवाभाति बालावेणी गुणोज्ज्वला॥

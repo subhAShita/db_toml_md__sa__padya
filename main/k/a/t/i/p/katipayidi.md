@@ -6,7 +6,7 @@ title = "कतिपयिदिवसस्थायी पूरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कतिपयिदिवसस्थायी पूरो दूरोन्नतोऽपि भविता ते।  
 तटिनि तटद्रुमपातनपातकमेकं चिरस्थायि॥

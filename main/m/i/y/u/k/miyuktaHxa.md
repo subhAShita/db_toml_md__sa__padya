@@ -6,7 +6,7 @@ title = "नियुक्तः क्षत्रियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नियुक्तः क्षत्रियो द्रव्ये खड्गं दर्शयते ध्रुवम्।  
 सर्वस्वं ग्रसते बन्धुराक्रम्य ज्ञातिभावतः॥

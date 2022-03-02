@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8233", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 74",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
-title = "ओषामासे"
+jsonClass = "Subhaashita"
+title = "ओषामासे मत्सरोत्पातवाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ओषामासे मत्सरोत्पातवाता- श्लिष्यद्दन्तक्ष्मारुहां घर्षणोत्थैः।  
 यौगान्तैर्वा वह्निभिर्वारणानाम् उच्चैर्मूर्धव्योम्नि नक्षत्रमाला॥

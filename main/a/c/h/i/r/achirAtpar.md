@@ -5,7 +5,7 @@ title = "अचिरात् परात्मनिष्ठा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचिरात् परात्मनिष्ठा भवति यतस्तत्क्रियेत चतुरेण क्लेशेन् कामदमनं धिगेकदारञ्जयन्तमात्मानम्॥
 </details>

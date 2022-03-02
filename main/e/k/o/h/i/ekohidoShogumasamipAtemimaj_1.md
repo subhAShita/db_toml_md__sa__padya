@@ -6,7 +6,7 @@ title = "एको हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको हि दोषो गुणसन्निपाते निमज्जतीन्दोरिति यो बभाषे ।  
 नूनं न दृष्टं कविनापितेन दारिद्र्यमेकं गुणराशिनाशि॥

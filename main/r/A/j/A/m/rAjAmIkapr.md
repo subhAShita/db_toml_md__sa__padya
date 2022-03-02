@@ -5,7 +5,7 @@ title = "राजानीकप्रियोत्सर्गो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजानीकप्रियोत्सर्गो मरकव्याधिपीडनम्।  
 पशूनां मरणं रोगो राष्ट्रव्यसनमुच्यते॥

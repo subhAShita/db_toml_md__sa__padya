@@ -7,7 +7,7 @@ title = "पाथोदजालजटिलं मलिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाथोदजालजटिलं मलिनं शरदङ्गना।  
 अम्बरं धावयामास चन्द्रिकाचयवारिभिः॥

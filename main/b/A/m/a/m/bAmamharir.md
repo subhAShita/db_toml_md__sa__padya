@@ -6,7 +6,7 @@ title = "बाणं हरिरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाणं हरिरिव कुरुते सुजनो बहुदोषमप्यदोषमिव।  
 यावद्दोषं जाग्रति मलिम्लुचा इव पुनः पिशुनाः॥

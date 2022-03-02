@@ -7,7 +7,7 @@ title = "नन्दयति कस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नन्दयति कस्य न मनः सबलैर्घनधूलिधूसरच्छायैः।  
 आक्रम्य पुत्रकैरिव मलिनीकृतमम्बरं जलदैः॥

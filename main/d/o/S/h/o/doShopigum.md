@@ -6,7 +6,7 @@ title = "दोषोऽपि गुणताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषोऽपि गुणतां याति प्रभोर्भवति चेत्कृपा।  
 अङ्गहीनोऽपि सूर्येण सारथ्ये योजितोऽरुणः॥

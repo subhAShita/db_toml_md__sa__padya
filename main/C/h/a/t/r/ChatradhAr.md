@@ -6,7 +6,7 @@ title = "छत्त्रधारी न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छत्त्रधारी न राजासौ जटाधारी न चेश्वरः।  
 सृष्टिकर्ता न स ब्रह्मा छिद्रकर्ता न तस्करः॥

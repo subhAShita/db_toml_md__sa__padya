@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9113", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०२ कालिदासः// 4",]
-jsonClass = "Subhaashita"
 topics = [ "कालिदासः",]
+jsonClass = "Subhaashita"
 title = "कविरमरः कविरचलः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविरमरः कविरचलः कविरभिनन्दश्च कालिदासश्च।  
 अन्ये कवयः कपयश् चापलमात्रं पदं दधति॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9913", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 22",]
-jsonClass = "Subhaashita"
 topics = [ "कुकविः",]
+jsonClass = "Subhaashita"
 title = "काव्यं करोषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यं करोषि किमु ते सुहृदो न सन्ति ये त्वामुदीर्णपवनं विनिवारयन्ति।  
 गव्यं घृतं पिब निवातगृहं प्रविश्य वाताधिका हि पुरुषाः कवयो भवन्ति॥

@@ -6,7 +6,7 @@ title = "कीर नीरसकरीरपादपे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कीर नीरसकरीरपादपे किं स्थितोऽसि कथयामि धीरतः।  
 मामकीनसहकारपादपा दुःसमीरलहरीभिराहताः॥

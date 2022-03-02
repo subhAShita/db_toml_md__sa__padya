@@ -6,7 +6,7 @@ title = "महिम्नामन्तरं पश्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महिम्नामन्तरं पश्य शेषाहेः साब्धिभूधरा।  
 फणासहस्रस्रग्दाम्नि भ्रमरीव विभाति भूः॥

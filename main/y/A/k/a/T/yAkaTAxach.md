@@ -6,7 +6,7 @@ title = "या कटाक्षच्छटापातैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या कटाक्षच्छटापातैः पवित्रयति मानवम्।  
 एकान्ते रोपितप्रीतिरस्ति सा कमलालया॥

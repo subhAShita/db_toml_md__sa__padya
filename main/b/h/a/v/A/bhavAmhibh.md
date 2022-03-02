@@ -6,7 +6,7 @@ title = "भवान्हि भगवानेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवान्हि भगवानेव गतो भेदः परस्परम्।  
 महत्यागदयायुक्तः सत्यभामासमाश्रितः॥

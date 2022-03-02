@@ -7,7 +7,7 @@ title = "जगदण्डकवाटभेदने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जगदण्डकवाटभेदने    
 त्वरितोदित्वरविक्रमक्रमः ।  

@@ -6,7 +6,7 @@ title = "मूर्खेषु कुशलमानिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खेषु कुशलमानिषु विजानताप्यकुशलेन भवितव्यम्।  
 विमलमपि कथितमर्थं मूर्खा मोहादपहसन्ति॥

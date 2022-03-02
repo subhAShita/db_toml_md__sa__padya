@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3437", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 759",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अव्याकरणमधीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्याकरणमधीतं भिन्नद्रोण्या तरङ्गिणीतरणम्।  
 भेषजमपथ्यसहितं त्रयमिदमकृतं वरं न कृतम्॥

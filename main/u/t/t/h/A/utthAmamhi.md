@@ -5,7 +5,7 @@ title = "उत्थानं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थानं हि नरेन्द्राणां बृहस्पतिरभाषत।  
 राजधर्मस्य यन् मूलं ... ... ...॥

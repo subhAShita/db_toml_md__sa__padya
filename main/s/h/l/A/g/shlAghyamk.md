@@ -6,7 +6,7 @@ title = "श्लाघ्यं कार्पासफलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्लाघ्यं कार्पासफलं यस्य गुणैरन्ध्रवन्ति पिहितानि।  
 मुक्ताफलानि तरुणीकुचकलशतटेषु विलसन्ति॥

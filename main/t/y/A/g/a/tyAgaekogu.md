@@ -6,7 +6,7 @@ title = "त्याग एको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्याग एको गुणः श्लाघ्यः किमन्यैर्गुणराशिभिः।  
 त्यागाज्जगति पूज्यन्ते पशुपाषाणपादपाः॥

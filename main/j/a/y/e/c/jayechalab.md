@@ -6,7 +6,7 @@ title = "जये च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जये च लभते लक्ष्मीं मृते चापि सुराङ्गनाम्।  
 क्षणविध्वंसिनः कायाः का चिन्ता मरणे रणे॥

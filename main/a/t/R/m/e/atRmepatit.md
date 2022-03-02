@@ -5,7 +5,7 @@ title = "अतृणे पतितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतृणे पतितो वह्निः स्वयमेवोपशाम्यति।  
 अक्षमावान् परं दोषैर् आत्मानं चैव योजयेत्॥

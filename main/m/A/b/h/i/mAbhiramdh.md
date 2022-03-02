@@ -7,7 +7,7 @@ title = "नाभिरन्ध्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाभिरन्ध्रं प्रविष्टास्याः श्यामला रोमवल्लरी।  
 त्रस्ता तिमिरलेखेन मेखलामणिकान्तितः॥

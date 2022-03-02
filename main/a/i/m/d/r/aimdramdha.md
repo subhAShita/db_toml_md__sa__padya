@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8193", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७३ शरद्वर्णनम्// ०१ शरत्समयस्वभावाख्यानम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "शरत्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "ऐन्द्रं धनुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऐन्द्रं धनुः पाण्डुपयोधरेण शरद् दधानार्द्रनखक्षताभम्।  
 प्रसादयन्ती सकलङ्कमिन्दुं तापं रवेरप्यधिकं चकार॥

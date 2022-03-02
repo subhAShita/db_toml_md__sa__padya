@@ -6,7 +6,7 @@ title = "या माता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या माता ममता माया मा परोक्षक्षरोपमा।  
 तारोने गगनेऽरो तामक्षगछछगक्षम॥

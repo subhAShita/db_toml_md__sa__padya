@@ -6,7 +6,7 @@ title = "बिभेति पिशुनान्नीचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिभेति पिशुनान्नीचः प्रकाशनपटीयसः।  
 न पुनर्मूढहृदयो निन्दनीयात्स्वकर्मणः॥

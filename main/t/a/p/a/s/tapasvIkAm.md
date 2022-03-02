@@ -6,7 +6,7 @@ title = "तपस्वी काम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तपस्वी कां गतोऽवस्थामिति स्मेराननाविव।  
 गिरिजायाः स्तनौ वन्दे भवभूतिसिताननौ॥

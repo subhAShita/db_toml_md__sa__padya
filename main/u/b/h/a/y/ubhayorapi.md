@@ -5,7 +5,7 @@ title = "उभयोरपि निस्तर्तुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उभयोरपि निस्तर्तुं शक्तः साधुस् तथापदम्।  
 शत्रोः स्वस्य च निस्तीर्णौ गजग्राहौ यथापदम्॥

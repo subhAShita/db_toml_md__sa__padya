@@ -5,7 +5,7 @@ title = "इत्थं युक्तिमुपायानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं युक्तिमुपायानां कुर्वाणस्य चतुष्टयीम्।  
 व्रजतीन्दुप्रभागौरं परैरक्षय्यतां यशः॥

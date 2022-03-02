@@ -5,7 +5,7 @@ title = "आखुभ्यः किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आखुभ्यः किं खलैर्ज्ञातं खलेभ्यश्च किमाखुभिः।  
 अन्यत् परगृहोत्खातात् कर्म येषां न विद्यते॥

@@ -7,7 +7,7 @@ title = "सखि पतिविरहहुताशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सखि पतिविरहहुताशः किमिति प्रशमं न याति नयनोदैः।  
 शृणु कारणं नितम्बिनि मुञ्चसि नयनोदकं तु सस्नेहम्॥

@@ -6,7 +6,7 @@ title = "न तद्भुक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न तद्भुक्तं न तत्पीतं न तत्सुप्तं न तद्गतम्।  
 यन्मांसमाहिषक्षीरललनावाजिवर्जितम्॥

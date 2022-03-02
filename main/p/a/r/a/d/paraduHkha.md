@@ -6,7 +6,7 @@ title = "परदुःखं समाकर्ण्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परदुःखं समाकर्ण्य स्वभावसरलो जनः।  
 उपकारासमर्थत्वात् प्राप्नोति हृदये व्यथाम्॥

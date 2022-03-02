@@ -5,7 +5,7 @@ title = "आसनाच् शयनाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसनाच् शयनाद् यानात् संगतेश् चापि भोजनात्।  
 कृते संचरते पापं तैलबिन्दुरिवाम्भसि॥

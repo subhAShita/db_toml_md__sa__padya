@@ -6,7 +6,7 @@ title = "नाथ विलोकय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाथ विलोकय मेघं नहि नहि पापं तवातिपुण्यायाः।  
 नहि कथयामि पयोधरमपसारय कञ्चुकीमुरसः॥

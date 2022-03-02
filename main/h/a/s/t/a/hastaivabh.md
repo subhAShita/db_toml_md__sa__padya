@@ -6,7 +6,7 @@ title = "हस्त इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हस्त इव भूतिमलिनो लङ्घयति यथा यथा खलः सुजनम्।  
 दर्पणमिव तं कुरुते तथा तथा निर्मलच्छायम्॥

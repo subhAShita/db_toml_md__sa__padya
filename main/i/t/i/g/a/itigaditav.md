@@ -5,7 +5,7 @@ title = "इति गदितवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इति गदितवती रुषा जघान स्फुरितमनोरमपक्ष्मकेशरेण।  
 श्रवणनियमितेन कान्तमन्या सममसिताम्बुरुहेण चक्षुषा च॥

@@ -6,7 +6,7 @@ title = "फलहीनं नृपम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फलहीनं नृपं भृत्याः कुलीनमपि चोन्नतम्।  
 सन्त्यज्यान्यत्र गच्छन्ति शुष्कं वृक्षमिवाण्डजाः॥

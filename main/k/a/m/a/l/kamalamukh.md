@@ -5,7 +5,7 @@ title = "कमलमुखि सर्वतोमुख"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलमुखि सर्वतोमुख- निवारणं विदधदेव भूषयति।  
 रोधोरुद्धस्वरसास् तरङ्गिणीस् तरलनयनाश्च॥

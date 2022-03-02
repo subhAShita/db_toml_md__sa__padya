@@ -6,7 +6,7 @@ title = "सुगतो यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुगतो यदि सर्वज्ञः कपिलो नेति का प्रमा ।  
 

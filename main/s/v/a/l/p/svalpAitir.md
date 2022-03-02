@@ -6,7 +6,7 @@ title = "स्वल्पा इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वल्पा इति रामबलैर्ये न्यस्ता नाशये पयोराशेः।  
 ते शैलाः स्थितिमन्तो हन्त लघिम्नैव बहुमानः॥

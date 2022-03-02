@@ -7,7 +7,7 @@ title = "हरिणप्रेक्षणा यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरिणप्रेक्षणा यत्र गृहिणी न विलोक्यते।  
 सेवितं सर्वसम्पद्भिरपि तद्भवनं वनम्॥

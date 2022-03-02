@@ -5,7 +5,7 @@ title = "आपन्नमहितं दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपन्नमहितं दृष्ट्वा न दूयेत कदाचन।  
 तदुन्मूलनकालोऽयं विधिना ननु सूचितः॥

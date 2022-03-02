@@ -3,11 +3,11 @@ secondary_sources = [ "MSS_0164", "सुभाषितरत्नभाण्
 topics = [ "गणेशः", "गणपति-स्तुतिः", "गणपतिः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "अगजाननपद्मार्कां गजाननम्"
+title = "अगजाननपद्मार्कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगजाननपद्मार्कं गजाननमहर्निशम्।  
 अनेकदं तं भक्तानाम् एकदन्तमुपास्महे॥

@@ -5,7 +5,7 @@ title = "उद्वेजयति तीक्ष्णेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्वेजयति तीक्ष्णेन मृदुना परिभूयते।  
 तस्माद् यथार्हतो दण्डं नयेत् पक्षमनाश्रितः॥

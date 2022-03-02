@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3205", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//०६ समुद्रान्योक्तयः// ०२ अगस्त्यः// 44",]
-jsonClass = "Subhaashita"
 types = [ "अगस्त्यः",]
+jsonClass = "Subhaashita"
 title = "अल्पीयसैव पयसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पीयसैव पयसा यत्कुम्भः पूर्यते प्रसिद्धं तत्।  
 ब्राह्मं तेजः पश्यत कुम्भोद्भूतः पपौ वार्धिम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5542", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 403",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "आसन्नमेव नृपतिर्भजते"
+jsonClass = "Subhaashita"
+title = "आसन्नमेव नृपतिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नमेव नृपतिर् भजते मनुष्यं विद्याविहीनमकुलीनमसंस्तुतं वा।  
 प्रायेण भूमिपतयः प्रमदा लताश्च यः पार्श्वतो वसति तं परिवेष्टयन्ति॥

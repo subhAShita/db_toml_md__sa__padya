@@ -6,7 +6,7 @@ title = "विद्यया विनयावाप्तिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्यया विनयावाप्तिः सा चेदविनयावहा।  
 किं कुर्मः कं प्रति ब्रूमो गरदायां स्वमातरि॥

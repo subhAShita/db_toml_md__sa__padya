@@ -6,7 +6,7 @@ title = "महातरुर्वा भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महातरुर्वा भवति समूलो वा विनश्यति।  
 नान्तरप्रत्ययानेति न्यग्रोधकणिकाङ्कुरः॥

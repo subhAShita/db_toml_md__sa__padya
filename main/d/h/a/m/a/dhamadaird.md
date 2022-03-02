@@ -6,7 +6,7 @@ title = "धनदैर्धर्मराजैश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनदैर्धर्मराजैश्च कविभिर्गुरुभिर्वृता।  
 सभा ते भाति भूमीन्द्र सुधर्मातोऽधिका क्षितौ॥

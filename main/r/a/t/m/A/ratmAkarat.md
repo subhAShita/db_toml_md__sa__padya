@@ -6,7 +6,7 @@ title = "रत्नाकरतनुजनुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रत्नाकरतनुजनुषि द्विजराजे राजनि श्रियो मित्रे।  
 अमृतकरे च कलावति पद्मिनि वामा कुतो भवती॥

@@ -5,7 +5,7 @@ title = "इह रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह रे बहला लासे बाला राहुमलीमसा।  
 सालका रसलीला सा तुङ्गालालि कलारत॥

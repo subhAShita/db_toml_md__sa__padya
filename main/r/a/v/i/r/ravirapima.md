@@ -6,7 +6,7 @@ title = "रविरपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रविरपि न दहति तादृग्यादृक्संदहति वालुकानिकरः।  
 अन्यस्माल्लब्धपदो नीचः प्रायेण दुःसहो भवति॥

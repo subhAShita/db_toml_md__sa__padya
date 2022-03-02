@@ -6,7 +6,7 @@ title = "जयति प्रियापदान्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयति प्रियापदान्ते गरलग्रैवेयकः स्मरारातिः।  
 विषमविशिखे विशन्निव शरणं गलबद्धकरवालः॥

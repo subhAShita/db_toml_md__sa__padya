@@ -6,7 +6,7 @@ title = "दुर्जनो दोषमादत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनो दोषमादत्ते दुर्गन्धिमिव सूकरः।  
 सज्जनश्च गुणग्राही हंसः क्षीरमिवाम्भसः॥

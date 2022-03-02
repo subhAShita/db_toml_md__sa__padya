@@ -6,7 +6,7 @@ title = "अकृत्वा पौरुषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृत्वा पौरुषं या श्रीर्विकासिन्यपि किं तया।  
 जरद्गवोऽपि चाश्नाति दैवादुपगतं तृणम्॥

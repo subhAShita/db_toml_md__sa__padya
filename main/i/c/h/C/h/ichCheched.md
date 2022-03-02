@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5757", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 227",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "इच्छेच्चेद्विपुलाम्"
+jsonClass = "Subhaashita"
+title = "इच्छेच् चेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इच्छेच् चेद् विपुलां मैत्रीं त्रीणि तत्र न कारयेत्।  
 वाग्वादमर्थसंबन्धं तत्पत्नीपरिभाषणम्॥

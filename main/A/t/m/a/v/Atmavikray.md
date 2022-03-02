@@ -5,7 +5,7 @@ title = "आत्मविक्रयिणि क्लीबे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मविक्रयिणि क्लीबे सदा शङ्कितचेतसि।  
 नित्यमिष्टवियोगार्ते किं सेवकपशौ सुखम्॥

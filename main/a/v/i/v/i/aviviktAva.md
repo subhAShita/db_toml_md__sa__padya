@@ -5,7 +5,7 @@ title = "अविविक्तावतिस्तब्धौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविविक्तावतिस्तब्धौ स्तनावाढ्याविवादृतौ।  
 विविक्तावानतावेव दरिद्राविव गर्हितौ॥

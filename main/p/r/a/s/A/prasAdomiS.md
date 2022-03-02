@@ -6,7 +6,7 @@ title = "प्रसादो निष्फलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रसादो निष्फलो यस्य यस्य क्रोधो निरर्थकः।  
 न तं राजानमिच्छन्ति षण्ढं पतिमिवाङ्गनाः॥

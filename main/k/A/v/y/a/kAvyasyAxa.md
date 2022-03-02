@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9922", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 24",]
-jsonClass = "Subhaashita"
 topics = [ "काव्यम्",]
-title = "काव्यस्याक्षरमैत्रीभाजो"
+jsonClass = "Subhaashita"
+title = "काव्यस्याक्षरमैत्री भाजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यस्याक्षरमैत्री- भाजो न च कर्कशा न च ग्राम्याः।  
 शब्दा अपि पुरुषा अपि साधव एवार्थबोधाय॥

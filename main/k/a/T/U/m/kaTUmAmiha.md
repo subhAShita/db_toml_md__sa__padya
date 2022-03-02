@@ -5,7 +5,7 @@ title = "कटूनामिह सार्थत्वात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटूनामिह सार्थत्वात् कामं भवति संग्रहः।  
 तथापि वृत्तिर्न तथा रसज्ञानुमतिक्षमा॥

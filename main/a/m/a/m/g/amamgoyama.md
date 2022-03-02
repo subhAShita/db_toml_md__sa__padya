@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1198", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 11",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
-title = "अनङ्गोऽयमनङ्गत्वमद्य"
+jsonClass = "Subhaashita"
+title = "अनङ्गोऽयमनङ्गत्वम् अद्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनङ्गोऽयमनङ्गत्वम् अद्य निन्दिष्यति ध्रुवम्।  
 यदनेन न संप्राप्तः पाणिस्पर्शोत्सवस्तव॥

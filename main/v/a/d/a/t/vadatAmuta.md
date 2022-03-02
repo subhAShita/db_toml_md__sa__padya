@@ -6,7 +6,7 @@ title = "वदतानुत्तमवचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वदतानुत्तमवचनं ध्वनिरुच्चैरुच्यते स कीदृक्षः।  
 तव सुहृदो गुणनिवहै रिपुनिवहं किं नु कर्तारः॥

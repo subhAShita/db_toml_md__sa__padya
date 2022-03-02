@@ -7,7 +7,7 @@ title = "नो रविर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नो रविर्न च तमो न तमीशो न द्युतिर्ग्रहगणो न च सन्ध्या।  
 यादृशी प्रथमतः किल सृष्टेस्तादृगेव भुवनं श्रियमूहे॥

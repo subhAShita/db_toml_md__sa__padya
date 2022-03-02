@@ -5,7 +5,7 @@ title = "कारासन्तानकूटस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारासंतानकूटस्य संसारवनवागुरा।  
 स्वर्गमार्गमहागर्ता पुंसां स्त्री वेधसा कृता॥

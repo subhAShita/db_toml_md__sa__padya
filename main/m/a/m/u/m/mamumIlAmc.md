@@ -7,7 +7,7 @@ title = "ननु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ननु नीलाञ्चलसंवृतमाननमाभाति हरिणनयनायाः।  
 प्रतिबिम्बित इव यमुनागभीरनीरान्तरेणाङ्कः॥

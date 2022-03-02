@@ -5,7 +5,7 @@ title = "कदा ह्यहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदा ह्यहं समेष्यामि भरतेन महात्मना।  
 शत्रुघ्नेन च वीरेण त्वया च रघुनन्दन॥

@@ -5,7 +5,7 @@ title = "असम्पादयतः कञ्चिदर्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंपादयतः कञ्चिदर्थं जातिक्रियागुणैः।  
 यदृच्छाशब्दवत्पुंसः संज्ञायै जन्म केवलम्॥

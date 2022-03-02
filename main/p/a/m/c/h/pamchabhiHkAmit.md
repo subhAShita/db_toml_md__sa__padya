@@ -6,7 +6,7 @@ title = "पञ्चभिः कामिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्चभिः कामिता कुन्ती तद्वधूरथ पञ्चभिः।  
 सतीं वदति लोकोऽयं यशः पुण्यैरवाप्यते॥

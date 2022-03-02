@@ -6,7 +6,7 @@ title = "ललितान्तानि गीतानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ललितान्तानि गीतानि प्रसूतान्तं च यौवनम्।  
 विशाखान्ता मेघमाला तक्रान्तं खलु भोजनम्॥

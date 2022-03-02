@@ -6,7 +6,7 @@ title = "यः करोति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः करोति वधोदर्का निःश्रेयसकरीः क्रियाः।  
 ग्लानिदोषच्छिदः स्वच्छाः स मूढः पङ्कयत्यपः॥

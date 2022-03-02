@@ -5,7 +5,7 @@ title = "काले विद्युत्प्रभाजाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले विद्युत्प्रभाजाले शिखिताण्डवमण्डिते।  
 कान्तः सर्वजनाभीष्टो बालेन्दुः खे न लभ्यते॥

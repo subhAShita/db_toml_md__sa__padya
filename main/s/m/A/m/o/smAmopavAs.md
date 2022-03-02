@@ -7,7 +7,7 @@ title = "स्नानोपवासयात्रादौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नानोपवासयात्रादौ हिमक्षुत्त्त्रुट् श्रमादिना।  
 दुःखं पुण्यफलं दत्वा पुण्यमेवाभिवर्धयेत्॥

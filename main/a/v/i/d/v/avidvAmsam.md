@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3351", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 53",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अविद्वांसमलं लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविद्वांसमलं लोके विद्वांसमपि वा पुनः।  
 प्रमदा ह्युत्पथं नेतुं कामक्रोधवशानुगम्॥

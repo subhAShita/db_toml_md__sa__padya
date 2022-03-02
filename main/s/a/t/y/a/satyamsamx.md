@@ -6,7 +6,7 @@ title = "सत्यं सङ्क्षिप्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं संक्षिप्यते लोके नरैः पण्डितमानिभिः।  
 स्थविरा बालमतयो बालाः स्थविरबुद्धयः ॥

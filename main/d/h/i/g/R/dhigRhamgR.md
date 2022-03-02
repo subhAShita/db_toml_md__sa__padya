@@ -6,7 +6,7 @@ title = "धिग्गृहं गृहिणीशून्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धिग्गृहं गृहिणीशून्यं धिक्कलत्रमपुत्रकम्।  
 धिक्पुत्रमविनीतं च धिग्ज्योतिषमजातकम्॥

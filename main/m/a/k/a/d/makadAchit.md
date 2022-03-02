@@ -6,7 +6,7 @@ title = "न कदाचित्सताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कदाचित्सतां चेतः प्रसरत्यघकर्मसु।  
 जलेषु द्रुतमप्यन्तः सर्पिराश्यानतां व्रजेत्॥

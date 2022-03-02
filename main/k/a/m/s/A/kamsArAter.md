@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8277", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 73",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "कंसारातेर्वद गमनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कंसारातेर्वद गमनं केन स्यात् कस्मिन् दृष्टिं संलभते स्वल्पेच्छुः।  
 कं सर्वेषां शुभकरमूचुर्धीराः किं कुर्यास् त्वं सुजन सशोकं लोकम्॥

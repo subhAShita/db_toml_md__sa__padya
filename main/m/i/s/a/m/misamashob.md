@@ -7,7 +7,7 @@ title = "निस्समशोभासौभाग्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निस्समशोभासौभाग्यं नताङ्ग्या नयनद्वयम्।  
 अन्योन्यालोकनानन्दविरहादिव चञ्चलम्॥

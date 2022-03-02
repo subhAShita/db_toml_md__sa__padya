@@ -6,7 +6,7 @@ title = "भूषाभोगिश्वसितपवनैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूषाभोगिश्वसितपवनैः फालनेत्रे प्रदीप्ते  
 स्विन्नस्येन्दोरमृतपृषतैरूर्जितं निर्गलद्भिः ।  

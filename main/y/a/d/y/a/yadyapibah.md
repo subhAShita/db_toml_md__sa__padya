@@ -6,7 +6,7 @@ title = "यद्यपि बहु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि बहु नाधीषे तथापि पठ पुत्र व्याकरणम्।  
 स्वजनः श्वजनो मा भूत्सकलं शकलं सकृच्छकृत्॥

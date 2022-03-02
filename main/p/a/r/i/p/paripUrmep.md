@@ -6,7 +6,7 @@ title = "परिपूर्णेऽपि तटाके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिपूर्णेऽपि तटाके काकः कुम्भोदकं पिबति।  
 अनुकूलेऽपि कलत्रे नीचः परदारलम्पटो भवति॥

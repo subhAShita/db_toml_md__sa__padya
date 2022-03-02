@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1004", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 191",]
-jsonClass = "Subhaashita"
 topics = [ "कालः",]
+jsonClass = "Subhaashita"
 title = "अद्यैव हसितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्यैव हसितं गीतं क्रीडितं यैः शरीरिभिः।  
 अद्यैव ते न दृश्यन्ते पश्य कालस्य चेष्टितम्॥

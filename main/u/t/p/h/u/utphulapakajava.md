@@ -5,7 +5,7 @@ title = "उत्फुल्लप कजवनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्फुल्लप कजवनं ददर्श विमलं सरः।  
 स्फाटिकं वनदेवीनाम् इव विभ्रमदर्पणम्॥

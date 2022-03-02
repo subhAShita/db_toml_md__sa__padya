@@ -5,7 +5,7 @@ title = "अपि तेजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि तेजो निधिर्हन्त पतितो यदि जायते।  
 सुरतं किमिवास्माकम् इति कोकैर्वियुज्यते॥

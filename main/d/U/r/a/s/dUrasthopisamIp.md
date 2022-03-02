@@ -6,7 +6,7 @@ title = "दूरस्थोऽपि समीपस्थो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरस्थोऽपि समीपस्थो यो यस्य हृदि वर्तते।  
 यो यस्य हृदये नास्ति समीपस्थोऽपि दूरगः॥

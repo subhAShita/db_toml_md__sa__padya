@@ -6,7 +6,7 @@ title = "सुहृदां हितकामानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुहृदां हितकामानां यः शृणोति न भाषितम्।  
 विपत्संनिहिता तस्य स नरः शत्रुनन्दनः॥

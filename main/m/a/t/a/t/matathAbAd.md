@@ -7,7 +7,7 @@ title = "न तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न तथा बाध्यते राजन्प्रकृत्या निर्धनो जनः।  
 यथा भद्राणि संप्राप्य तैर्विहीनः सुखोचितः॥

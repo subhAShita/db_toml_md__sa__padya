@@ -5,7 +5,7 @@ title = "अमित्रप्रमिता ह्येता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमित्रप्रमिता ह्येता गतश्रद्धाः सुदारुणः।  
 मूलप्रवादेन विषं प्रयच्छन्ति जिघांसवः॥

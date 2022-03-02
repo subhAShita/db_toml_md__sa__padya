@@ -6,7 +6,7 @@ title = "योऽसकृत्परगोत्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योऽसकृत्परगोत्राणां पक्षच्छेदक्षणक्षमः।  
 शतकोटिदतां बिभ्रद्विबुधेन्द्रः स राजते॥

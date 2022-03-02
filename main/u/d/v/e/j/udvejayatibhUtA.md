@@ -5,7 +5,7 @@ title = "उद्वेजयति भूतानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्वेजयति भूतानि दण्डपारुष्यवान् नृपः।  
 भूतान्युद्वेज्यमानानि द्विषतां यान्ति संश्रयम्॥

@@ -6,7 +6,7 @@ title = "महतोः सुवृत्तयोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतोः सुवृत्तयोः सखि हृदयग्रहयोग्ययोः समस्थितयोः।  
 सज्जनयोः स्तनयोरपि निरन्तरं सङ्गतं भवति॥

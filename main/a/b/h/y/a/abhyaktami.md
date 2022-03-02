@@ -5,7 +5,7 @@ title = "अभ्यक्तमिव स्नातः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यक्तमिव स्नातः शुचिरशुचिमिव प्रबुद्ध इव सुप्तम्।  
 बद्धमिव स्त्रैरगतिर् जनमिह सुखसङ्गिनमवैमि॥

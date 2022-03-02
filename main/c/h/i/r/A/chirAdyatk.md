@@ -6,7 +6,7 @@ title = "चिराद्यत्कौतुकाविष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चिराद्यत्कौतुकाविष्टं कल्पवृक्षमुदीक्षितुम्।  
 तन्मे सफलमद्यासीन्नेत्रं त्वय्यवलोकिते॥

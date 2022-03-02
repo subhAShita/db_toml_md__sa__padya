@@ -6,7 +6,7 @@ title = "विशोधयेन्महीपालो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विशोधयेन्महीपालो मन्त्रिशालामशेषतः।  
 अयुक्तो नार्हति स्थातुमस्यां मन्त्ररहस्यवित्॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3109", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७३ शरद्वर्णनम्// ०२ भ्रमरक्रीडा// 48",]
-jsonClass = "Subhaashita"
 topics = [ "भ्रमरक्रीडा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अलक्षितकुचाभोगं भ्रमन्ती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलक्षितकुचाभोगं भ्रमन्ती नृत्यभूमिषु।  
 स्मरेणापि सरोजाक्षी न लक्ष्यीक्रियते शरैः॥

@@ -5,7 +5,7 @@ title = "आवृतं ज्ञानमेतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा।  
 कामरूपेण कौन्तेय दुष्पूरेणानलेन च॥

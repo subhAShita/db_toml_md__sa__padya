@@ -5,7 +5,7 @@ title = "कदाचिदपि सञ्जातम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदाचिदपि संजातम् अकार्यादिष्टसाधनम्।  
 यदनिष्टं तु सत्कार्यान् नाकार्यप्रेरकं हि तत्॥

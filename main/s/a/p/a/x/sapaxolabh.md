@@ -6,7 +6,7 @@ title = "सपक्षो लभते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सपक्षो लभते काको वृक्षस्य विविधं फलम्।  
 पक्षहीनो मृगेन्द्रोऽपि भूमिसंस्थो निरीक्षते॥

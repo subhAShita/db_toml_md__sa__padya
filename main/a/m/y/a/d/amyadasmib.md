@@ -5,7 +5,7 @@ title = "अन्यदस्मि भवतीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यदस्मि भवतीं न याचिता वारमेकमधरं धयामि ते।  
 इत्यसिस्वददुपांशुकाकुवाक् सोपमर्दहठवृत्तिरेव तम्॥

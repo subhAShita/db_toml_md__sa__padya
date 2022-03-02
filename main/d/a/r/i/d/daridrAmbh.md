@@ -6,7 +6,7 @@ title = "दरिद्रान्भर कौन्तेय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दरिद्रान्भर कौन्तेय मा प्रयच्छेश्वरे धनम्।  
 व्याधितस्यौषधं पथ्यं नीरुजस्य किमौषधैः॥

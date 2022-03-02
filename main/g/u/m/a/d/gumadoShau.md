@@ -6,7 +6,7 @@ title = "गुणदोषौ बुधो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणदोषौ बुधो गृह्णन्निन्दुक्ष्वेडाविवेश्वरः।  
 शिरसा श्लाघते पूर्वं परं कण्ठे नियच्छति॥

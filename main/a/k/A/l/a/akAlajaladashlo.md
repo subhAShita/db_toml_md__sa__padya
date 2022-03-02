@@ -5,7 +5,7 @@ title = "अकालजलदश्लोकैश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकालजलदश्लोकैश् चित्रमात्मकृतैरिव।  
 जातः कादम्बरीरामो नाटके प्रवरः कविः॥

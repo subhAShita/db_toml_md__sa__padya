@@ -5,7 +5,7 @@ title = "अर्थाः खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थाः खलु समृद्धा हि बाढं दुःखं विजानताम्।  
 असमृद्धास्त्वपि सदा मोहयन्त्यविचक्षणान्॥

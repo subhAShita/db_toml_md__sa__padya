@@ -5,7 +5,7 @@ title = "ईषत्प्रकटितो मन्दस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईषत्प्रकटितो मन्दस् तीक्ष्णस् तु पुलकादिभिः।  
 स तु तीक्ष्णतरः श्वासशोषितावयवोऽत्र यः॥

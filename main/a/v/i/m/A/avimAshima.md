@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3358", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २९ सातवाहनः// 60",]
-jsonClass = "Subhaashita"
 topics = [ "सातवाहनः",]
-title = "अविनाशिनमग्राम्यमकरोत्सातवाहनः"
+jsonClass = "Subhaashita"
+title = "अविनाशिनमग्राम्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविनाशिनमग्राम्यम् अकरोत् सातवाहनः।  
 विशुद्धजातिभिः कोशं रत्नैरिव सुभाषितैः॥

@@ -5,7 +5,7 @@ title = "असङ्कल्पितमेवेह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंकल्पितमेवेह यदकस्मात् प्रवर्तते।  
 निवर्त्यारम्भमारब्धं ननु दैवस्य कर्म तत्॥

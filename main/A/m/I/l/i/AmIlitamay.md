@@ -5,7 +5,7 @@ title = "आमीलितनयनानां यत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आमीलितनयनानां यत् सुरतरसोऽनुसंविदं कुरुते।  
 मिथुनैर्मिथोऽवधारितम् अर्चितमिदमेव कामनिर्वहणम्॥

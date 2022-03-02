@@ -5,7 +5,7 @@ title = "अयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं पीनस्तनाभोगसौभाग्यविभवोचितः।  
 द्रविणोपार्जनस्यैव कालः कुवलयेक्षणे॥

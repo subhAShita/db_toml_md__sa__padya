@@ -6,7 +6,7 @@ title = "राजन्कमलपत्त्राक्ष तत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजन्कमलपत्त्राक्ष तत्ते भवतु चाक्षयम्।  
 आसादयति यद्रूपं करेणुः करणैर्विना॥

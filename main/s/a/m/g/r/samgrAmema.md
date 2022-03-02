@@ -5,7 +5,7 @@ title = "सङ्ग्रामे मरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्ग्रामे मरणं पुण्यं गयायां मरणे तथा।  
 गङ्गायां मरणे मोक्षः सङ्ग्रामे मरणं सुखम्॥

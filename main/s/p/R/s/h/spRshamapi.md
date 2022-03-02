@@ -6,7 +6,7 @@ title = "स्पृशन्नपि गजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्पृशन्नपि गजो हन्ति जिघ्रन्नपि भुजङ्गमः।  
 हसन्नपि नृपो हन्ति मानयन्नपि दुर्जनः॥

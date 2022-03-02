@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3441", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 9",]
-jsonClass = "Subhaashita"
 topics = [ "समग्रस्त्रीस्वरूपम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अव्याजसुन्दरीं ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्याजसुन्दरीं तां विज्ञानेन ललितेन योजयता।  
 परिकल्पितो विधात्रा बाणः कामस्य विषदिग्धः॥

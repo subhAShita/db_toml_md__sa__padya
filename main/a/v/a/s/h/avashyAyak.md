@@ -5,7 +5,7 @@ title = "अवश्यायकणैः प्राणान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवश्यायकणैः प्राणान् संधारयति तित्तिरिः।  
 याच्ञाभङ्गभयाद् भीतो न दैवमपि याचते॥

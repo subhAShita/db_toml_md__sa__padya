@@ -5,7 +5,7 @@ title = "करालकालरुपेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करालकालरुपेण जनतादुरितापहा।  
 तारणी तरिणी भूयाद् अमुना यमुनाम्बुना॥

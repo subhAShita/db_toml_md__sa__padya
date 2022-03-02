@@ -6,7 +6,7 @@ title = "सन्ति कूपाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्ति कूपाः स्फुरद्रूपाः सागरः सरितस्तथा।  
 तथापि चातकस्यैकः फलदो जलदोदयः॥

@@ -5,7 +5,7 @@ title = "कदा संसारजालान्तर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदा संसारजालान्तर् बद्धं त्रिगुणरज्जुभिः।  
 आत्मानं मोचयिष्यामि शिवभक्तिशलाकया॥

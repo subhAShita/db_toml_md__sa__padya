@@ -6,7 +6,7 @@ title = "योऽत्ति यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योऽत्ति यस्य यदा मांसमुभयोः पश्यतान्तरम्।  
 एकस्य क्षणिका प्रीतिरन्यः प्राणैर्विमुच्यते॥

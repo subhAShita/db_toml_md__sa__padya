@@ -5,7 +5,7 @@ title = "मौनं मूर्खेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मौनं मूर्खेषु च स्त्रीषु पातिव्रत्यं सुभूषणम्।  
 महादुर्भूषणं चैतद् विपरीतममीषु च॥

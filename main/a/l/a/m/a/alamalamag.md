@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3138", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २३ दूतीं प्रति नायिकाप्रश्नाः// 2",]
-jsonClass = "Subhaashita"
 topics = [ "दूतीं प्रति नायिकाप्रश्नाः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अलमलमघृणस्य तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलमलमघृणस्य तस्य नाम्ना पुनरपि सैव कथा गतः स कालः।  
 कथय कथय वा तथापि दूति प्रतिवचनं द्विषतोऽपि माननीयम्॥

@@ -5,7 +5,7 @@ title = "आयासः परहिंसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयासः परहिंसा वैतंसिकसारमेय तव सारः।  
 त्वामपसार्य विभाज्यः कुरङ्ग एषोऽधुनैवान्यैः॥

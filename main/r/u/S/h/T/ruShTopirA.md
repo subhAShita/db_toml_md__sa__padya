@@ -6,7 +6,7 @@ title = "रुष्टोऽपि राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रुष्टोऽपि राजा यद्दद्यान्न तत्तुष्टो वणिग्जनः।  
 अतो भूमिपतिः सेव्यस्त्याज्यो दूरतरेण सः॥

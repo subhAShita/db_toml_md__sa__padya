@@ -5,7 +5,7 @@ title = "उत्थानं तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थानं तु मनुष्याणां दक्षाणां दैववर्जितम्।  
 अफलं दृश्यते लोके सम्यगप्युपपादितम्॥

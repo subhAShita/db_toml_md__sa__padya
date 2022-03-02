@@ -6,7 +6,7 @@ title = "ददाति प्रतिगृह्णाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ददाति प्रतिगृह्णाति गुह्यमाख्याति पृच्छति।  
 भुङ्क्ते भोजयते चैव षड्विधं प्रीतिलक्षणम्॥

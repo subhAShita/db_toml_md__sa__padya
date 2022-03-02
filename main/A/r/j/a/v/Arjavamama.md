@@ -5,7 +5,7 @@ title = "आर्जवममलकराणां विनयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्जवममलकराणां विनयो वररत्नमुकुटानाम्।  
 द्यूतं दुर्व्यसनानां स्त्रीजितता मरुतटीपिशाचानाम्॥

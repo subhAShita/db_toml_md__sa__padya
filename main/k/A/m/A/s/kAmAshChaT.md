@@ -5,7 +5,7 @@ title = "काणाश्छटाश्च रण्डाश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काणाश्छटाश्च रंडाश्च तथा वृद्धाश्च पङ्गवः।  
 एते चान्तःपुरे नित्यं नियोक्तव्याः क्षमाभृता॥

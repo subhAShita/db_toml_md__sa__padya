@@ -6,7 +6,7 @@ title = "शासति त्वयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शासति त्वयि हे राजन्नखण्डावनिमण्डलम्।  
 न मनागपि निश्चिन्ते मण्डले शत्रुमित्त्रयोः॥

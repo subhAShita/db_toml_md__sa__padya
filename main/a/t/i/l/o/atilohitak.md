@@ -5,7 +5,7 @@ title = "अतिलोहितकरचरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिलोहितकरचरणं मञ्जुलगोरोचनातिलकम्।  
 हठपरिवर्तितशकटं मुररिपुमुत्तानशायिनं वन्दे॥

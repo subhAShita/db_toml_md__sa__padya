@@ -6,7 +6,7 @@ title = "पाण्डुरसि निशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाण्डुरसि निशि न शेषे प्रतिदिनमाविष्करोषि तनिमानम् ।  
 वयमिव किं त्वमपि सखे शशाङ्क तामेव चिन्तयसि ॥

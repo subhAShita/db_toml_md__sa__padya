@@ -6,7 +6,7 @@ title = "दानं वित्तादृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानं वित्तादृतं वाचः कीर्तिधर्मौ तथायुषः।  
 परोपकरणं कायादसारात्सारमाहरेत्॥

@@ -5,7 +5,7 @@ title = "अयि कुलनिचूलमूलोच्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि कुलनिचूलमूलोच्- छेदनदुःशीलवीचिवाचाले।  
 बकविघसपङ्कसारा न चिरात् कावेरि भवितासि॥

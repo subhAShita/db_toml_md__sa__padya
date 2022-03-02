@@ -5,7 +5,7 @@ title = "कस्य न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्य न प्रतिहतं बत चक्षुर् ध्वान्तसन्ततिभिरड्डमराभिः।  
 केवलं मनसिजप्रतिहतानां नावधूतमभिसारवधूनाम्॥

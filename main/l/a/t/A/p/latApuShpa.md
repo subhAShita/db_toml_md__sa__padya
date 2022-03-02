@@ -7,7 +7,7 @@ title = "लता पुष्पवतीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लता पुष्पवतीं स्पृष्ट्वा स्नातो विमलवारिणा।  
 पुनः सम्पर्कशङ्कीव मन्दं चरति मारुतः॥

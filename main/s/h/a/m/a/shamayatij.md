@@ -7,7 +7,7 @@ title = "शमयति जलधारधारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शमयति जलधारधारा चातकयूनां तृषं चिरोपनताम्।  
 क्षपयति च वधूलोचनजलधारा कामिनां प्रवासरुचिम्॥

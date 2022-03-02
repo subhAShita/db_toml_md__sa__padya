@@ -5,7 +5,7 @@ title = "कमनीयतारहारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमनीयतारहारा चन्दनपरिहसितचारुनीहारा।  
 परिचितपाण्ड्यविहारा कमलमुखीयं कराञ्चदुपहारा॥

@@ -6,7 +6,7 @@ title = "हृदि लज्जोदरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हृदि लज्जोदरे वह्निः स्वभावादग्निरुच्छिखः।  
 तेन मे दग्धलज्जस्य पुनरागमनं नृप॥

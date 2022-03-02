@@ -6,7 +6,7 @@ title = "उत्क्षिप्ता अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्क्षिप्ता अपि हस्तीन्द्रैः कोपनैः पत्तयः करैः।  
 ते रिपूनहनन्खड्गपातैः स्वस्य पुरः प्रभोः॥

@@ -6,7 +6,7 @@ title = "पानं दुर्जनसंसर्गः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पानं दुर्जनसंसर्गः पत्या च विरहोऽटनम्।  
 स्वप्नमन्यगृहे वासो नारीणां दूषणानि षट्॥

@@ -7,7 +7,7 @@ title = "पाठं पाठम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाठं पाठं पुराणीं भणितिमधिसरोजन्म लीनो विरिञ्चिः    
 पादौ विस्तार्य निद्रासुखमहिशयने शश्वदश्नाति विष्णुः ।  

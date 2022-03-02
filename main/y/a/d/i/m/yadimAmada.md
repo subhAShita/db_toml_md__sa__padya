@@ -6,7 +6,7 @@ title = "यदि नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि नाम दैवगत्या जगदसरोजं कदाचिदपि जातम्।  
 अवकरनिकरं विकिरति तत्किं कृकवाकुरिव हंसः॥

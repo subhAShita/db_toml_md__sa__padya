@@ -6,7 +6,7 @@ title = "गृध्राकारोऽपि सेव्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गृध्राकारोऽपि सेव्यः स्याद्धंसाकारैः सभासदैः।  
 हंसाकारोऽपि सन्त्याज्यो गृध्राकारैः सभासदैः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6519", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०२ विषयोपहासः// 119",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "उत्तानोच्छूनमण्डूकपाटितोदरसन्निभे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तानोच्छूनमण्डूकपाटितोदरसंनिभे।  
 क्लेदिनि स्त्रीव्रणे सक्तिर् अकृमेः कस्य जायते॥

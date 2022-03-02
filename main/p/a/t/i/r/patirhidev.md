@@ -7,7 +7,7 @@ title = "पतिर्हि देवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतिर्हि देवो नारीणां पतिर्बन्धुः पतिर्गतिः।  
 पत्युर्गतिसमा नास्ति दैवतं वा यथा पतिः॥

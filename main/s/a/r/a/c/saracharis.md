@@ -7,7 +7,7 @@ title = "सरचरि शपथाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरचरि शपथाः शतं मदीया वद विरहग्लपितां निजामवस्थाम्।  
 सहचरि परिपृच्छ भानुकन्यानवदलिनीनलिनिकुञ्जशय्याः॥

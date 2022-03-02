@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0804", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७३ शरद्वर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "+शरद्वर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अथोपगूढे शरदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथोपगूढे शरदा शशाङ्के प्रावृड् ययौ शान्ततडित्कटाक्षा।  
 कासां न सौभाग्यगुणोऽङ्गनानां नष्टः परिभ्रष्ट्पयोधराणाम्॥

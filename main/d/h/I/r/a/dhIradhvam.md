@@ -6,7 +6,7 @@ title = "धीरध्वनिभिरलं ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धीरध्वनिभिरलं ते नीरद मे मासिको गर्भः।  
 उन्मदवारणबुद्ध्या मध्ये जठरं समुच्छलति।॥

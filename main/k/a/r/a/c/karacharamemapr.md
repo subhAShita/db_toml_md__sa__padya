@@ -5,7 +5,7 @@ title = "करचरणेन प्रहरति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करचरणेन प्रहरति यथा यथाङ्गेषु कोपतरलाक्षी।  
 रोषयति परुषवचनैस् तथा तथा प्रेयसीं रसिकः॥

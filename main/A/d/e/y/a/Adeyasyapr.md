@@ -5,7 +5,7 @@ title = "आदेयस्य प्रदेयस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदेयस्य प्रदेयस्य कर्तव्यस्य च कर्मणः।  
 क्षिप्रमक्रियमाणस्य कालः पिबति तद्रसम्॥

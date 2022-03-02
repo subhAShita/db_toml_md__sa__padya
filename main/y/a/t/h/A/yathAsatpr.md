@@ -6,7 +6,7 @@ title = "यथा सत्प्रसवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा सत्प्रसवः स्निग्धः सन्मार्गविहितस्थितिः।  
 तथा सर्वाश्रयः सत्यमयं मे वकुलद्रुमः॥

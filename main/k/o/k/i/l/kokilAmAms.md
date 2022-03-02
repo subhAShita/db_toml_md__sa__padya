@@ -6,7 +6,7 @@ title = "कोकिलानां स्वरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोकिलानां स्वरो रूपं नारीरूपं पतिव्रतम्।  
 विद्या रूपं कुरूपाणां क्षमा रूपं तपस्विनाम्॥

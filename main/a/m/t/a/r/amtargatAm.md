@@ -6,12 +6,13 @@ jsonClass = "Subhaashita"
 title = "अन्तर्गता"
 
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्गता मदन-वह्नि-शिखावली या सा बाध्यते किम् इह चन्दन-पङ्क-लेपैः।  
 यत् कुम्भ-कार-पचनोपरि पङ्क-लेपस् तापाय केवलम् असौ न च ताप-शान्त्यै॥
-
 </details>
+
 
 
 <details><summary>Text</summary>

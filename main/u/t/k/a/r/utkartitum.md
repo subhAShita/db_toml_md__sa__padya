@@ -5,7 +5,7 @@ title = "उत्कर्तितुं समर्थोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्कर्तितुं समर्थोऽपि गन्तुं चैव सपक्षकः।  
 द्विरेफो गन्धलोभेन कमले याति बन्धनम्॥

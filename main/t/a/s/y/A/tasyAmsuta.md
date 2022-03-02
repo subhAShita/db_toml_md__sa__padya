@@ -7,7 +7,7 @@ title = "तस्यां सुतनुसरस्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्यां सुतनुसरस्यां चेतो नयनं च निष्पतितम्।  
 चेतो गुरु तु निमग्नं लघु नयनं सर्वतो भ्रमति॥

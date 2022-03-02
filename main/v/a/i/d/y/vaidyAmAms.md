@@ -6,7 +6,7 @@ title = "वैद्यानां शारदी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैद्यानां शारदी माता   
 पिता च कुसुमाकरः।  

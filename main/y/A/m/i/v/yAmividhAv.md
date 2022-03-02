@@ -6,7 +6,7 @@ title = "यामि विधावभ्युदिते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यामि विधावभ्युदिते पुनरेष्यामीति यदुदितं भवता।  
 जानात्युदन्तमेतं नेदं तत्त्वेन मुग्धवधूः॥

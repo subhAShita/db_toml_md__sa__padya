@@ -7,7 +7,7 @@ title = "प्रह्लादश्चास्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम्।  
 मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम्॥

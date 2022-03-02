@@ -7,7 +7,7 @@ title = "अन्यत्रोद्घाटिते दोषे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यत्रोद्घाटिते दोषे यावत्यस्माकमक्षमा ।  
 अन्येनोद्घाटिते स्वस्मिन्दोषे किं तावती क्षमा ॥

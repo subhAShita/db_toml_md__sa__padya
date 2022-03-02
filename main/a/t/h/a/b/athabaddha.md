@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0755", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०३ करुणारसनिर्देशः// 5",]
-jsonClass = "Subhaashita"
 rasas = [ "करुणः",]
-title = "अथ बद्धजटे"
+jsonClass = "Subhaashita"
+title = "अथबद्धजेटे रामे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथबद्धजेटे रामे सुमन्त्रे गृहमागते।  
 त्यक्तो राजा सुतत्यागाद् अविश्वस्तैरिवासुभिः॥

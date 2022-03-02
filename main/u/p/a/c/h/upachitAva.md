@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7052", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 54",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपचितावयवा शुचिभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपचितावयवा शुचिभिः कणैर् अलिकदम्बकयोगमुपेयुषी।  
 सदृशकान्तिरलक्ष्यत मञ्जरी तिलकजालकजालकमौक्तिकैः॥

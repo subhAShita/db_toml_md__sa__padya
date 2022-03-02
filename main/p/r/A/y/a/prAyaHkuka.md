@@ -6,7 +6,7 @@ title = "प्रायः कुकवयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः कुकवयो लोके रागाधिष्ठितदृष्टयः।  
 कोकिला इव जायन्ते वाचालाः कामकारिणः॥

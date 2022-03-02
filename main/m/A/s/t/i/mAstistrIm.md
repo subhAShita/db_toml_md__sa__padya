@@ -7,7 +7,7 @@ title = "नास्ति स्त्रीणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति स्त्रीणां पृथग्यज्ञो न व्रतं नाष्युपोषणम्।  
 पतिं शुश्रूषते येन तेन स्वर्गे महीयते॥

@@ -6,7 +6,7 @@ title = "रागिणि नलिने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रागिणि नलिने लक्ष्मीं दिवसो निदधाति दिनकरप्रभवाम्।  
 अनपेक्षितगुणदोषः परोपकारः सतां व्यसनम्॥

@@ -6,7 +6,7 @@ title = "जयश्रियः कृपाणीयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयश्रियः कृपाणीयं वेणी नानाख्यभूपतेः।  
 अस्यां करगृहीतायामसावभिमुखी तव॥

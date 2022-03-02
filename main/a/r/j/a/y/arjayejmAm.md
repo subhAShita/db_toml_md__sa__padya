@@ -5,7 +5,7 @@ title = "अर्जयेज्ज्ञानमर्थांश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्जयेज्ज्ञानमर्थांश्च पुमानमरवत् सदा।  
 केशेष्विव गृहीतः सन् मृत्युना धर्ममाचरेत्॥

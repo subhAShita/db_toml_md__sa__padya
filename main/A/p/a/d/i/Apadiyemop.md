@@ -5,7 +5,7 @@ title = "आपदि येनोपकृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदि येनोपकृतं येन च हसितं दशासु विषमासु।  
 उपकृत्य तयोरुभयोः पुनरपि जातं नरं मन्ये॥

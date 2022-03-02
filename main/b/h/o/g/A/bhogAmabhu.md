@@ -6,7 +6,7 @@ title = "भोगा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगा न भुक्ता वयमेव भुक्तास्तपो न तप्तं वयमेव तप्ताः।  
 कालो न यातो वयमेव यातास्तृष्णा न जीर्णा वयमेव जीर्णाः॥

@@ -6,7 +6,7 @@ title = "न यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न यस्य चेष्टितं विद्यान्न कुलं न पराक्रमम्।  
 न तस्य विश्वसेत्प्राज्ञो यदीच्छेच्छ्रेय आत्मनः॥

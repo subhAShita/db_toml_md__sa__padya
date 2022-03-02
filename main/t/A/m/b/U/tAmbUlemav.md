@@ -6,7 +6,7 @@ title = "ताम्बूलेन विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ताम्बूलेन विना राजञ्जडीभूता सरस्वती।  
 न निःसरेन्मुखाद्वाणी गृहात्कुलवधूरिव॥

@@ -6,7 +6,7 @@ title = "साक्षान्मघवतः पौत्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साक्षान्मघवतः पौत्रः पुत्रो गाण्डीवधन्वनः।  
 स्वस्रीयो वासुदेवस्य तं गृध्राः पर्युपासते॥

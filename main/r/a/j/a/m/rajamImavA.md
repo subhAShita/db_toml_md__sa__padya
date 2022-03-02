@@ -7,7 +7,7 @@ title = "रजनीमवाप्य रुचमाप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रजनीमवाप्य रुचमाप शशी सपदि व्यभूषयदसावपि ताम्।  
 अविलम्बितक्रममहो महतामितरेतरोपकृतिमच्चरितम्॥

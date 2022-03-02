@@ -5,7 +5,7 @@ title = "अक्रोधं शिक्षयन्त्यन्यैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्रोधं शिक्षयन्त्यन्यैः क्रोधना ये तपोधनाः।  
 निर्धनास्ते धनायैव धातुवादोपदेशिनः॥

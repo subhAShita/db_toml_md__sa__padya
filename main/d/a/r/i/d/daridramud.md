@@ -7,7 +7,7 @@ title = "दरिद्रमुदरं दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दरिद्रमुदरं दृष्ट्वा चक्रे लावण्यपूर्णयोः।  
 पन्थानं स्तनयोस्तस्यास्त्रिवलीविषमं विधिः॥

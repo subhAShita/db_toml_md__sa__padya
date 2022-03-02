@@ -7,7 +7,7 @@ title = "प्रियतमेन यया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रियतमेन यया सरुषा स्थितं न सहसा सहसा परिरभ्य तम्।  
 श्लथयितुं क्षणमक्षमताङ्गना न सहसा सहसा कृतवेपथुः॥

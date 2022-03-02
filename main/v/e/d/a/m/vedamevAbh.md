@@ -7,7 +7,7 @@ title = "वेदमेवाभ्यसेन्नित्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदमेवाभ्यसेन्नित्यं यथाकालमतन्द्रितः ।  
 तं ह्यस्याहुः परं धर्ममुपधर्मोऽन्य उच्यते ॥

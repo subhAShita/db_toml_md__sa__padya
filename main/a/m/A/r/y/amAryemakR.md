@@ -5,7 +5,7 @@ title = "अनार्येण कृतघ्नेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनार्येण कृतघ्नेन संगतिर्मे न युज्यते।  
 विनाशमपि काङ्क्षन्ति ज्ञातीनां ज्ञातयः सदा॥

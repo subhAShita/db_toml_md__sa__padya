@@ -6,7 +6,7 @@ title = "विश्वास्य मधुरवचनैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विश्वास्य मधुरवचनैः साधून्ये वञ्चयन्ति नम्रतमाः।  
 तानपि दधाति मातः काश्यपि यातस्तवापि च विवेकः॥

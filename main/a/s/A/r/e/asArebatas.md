@@ -5,7 +5,7 @@ title = "असारे बत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असारे बत संसारे कर्मतन्त्रः शरीरिणाम्।  
 जायन्ते प्रियसंयोगा वियोगे हृदयच्छिदः॥

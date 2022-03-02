@@ -6,7 +6,7 @@ title = "प्रतापभीत्या भोजस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रतापभीत्या भोजस्य तपनो मित्त्रतामगात्।  
 और्वो वाडवतां धत्ते तडित्क्षणिकतां श्रिता॥

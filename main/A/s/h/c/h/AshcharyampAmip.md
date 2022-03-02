@@ -5,7 +5,7 @@ title = "आश्चर्यं पाणिपाशस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आश्चर्यं पाणिपाशस्य गिरीन्द्रतनये तव।  
 जगद्बन्धनहा शंभुर् येन बन्धं समिच्छति॥

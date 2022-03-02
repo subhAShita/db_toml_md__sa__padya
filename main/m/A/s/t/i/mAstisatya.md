@@ -6,7 +6,7 @@ title = "नास्ति सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति सत्यं द्यूतकारे न शौचं वृषलीपतौ।  
 मद्यपे सौहृदं नास्ति धूर्तेषु त्रितयं नहि॥

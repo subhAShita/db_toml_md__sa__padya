@@ -7,7 +7,7 @@ title = "सन्दिग्धे परलोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्दिग्धे परलोके जनापवादे च जगति बहुचित्रे।  
 स्वाधीने पररमणे धन्यास्तारुण्यफलभाजः॥

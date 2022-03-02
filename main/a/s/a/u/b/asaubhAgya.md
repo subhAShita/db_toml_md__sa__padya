@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3801", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २६ लक्ष्मीस्वभावः// 30",]
-jsonClass = "Subhaashita"
 topics = [ "लक्ष्मीः",]
-title = "असौ भाग्यम्"
+jsonClass = "Subhaashita"
+title = "असौभाग्यं धत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असौभाग्यं धत्ते परमसुखभोगास्पदमयं विचित्रं तद्गेहं भवति पृथुकार्तस्वरमयम्।  
 निविष्टः पल्यङ्के कलयति स कान्तारतरणं प्रसादं कोपं वा जननि भवती यत्र तनुते॥

@@ -7,7 +7,7 @@ title = "यदि प्रियावियोगेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि प्रियावियोगेऽपि रुद्यते दीनदीनकम्।  
 तदिदं दग्धमरणमुपयोगं क्व यास्यति॥

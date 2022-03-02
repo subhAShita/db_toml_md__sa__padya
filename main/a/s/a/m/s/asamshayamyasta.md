@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3644", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०३ जलकेलिः// 81",]
-jsonClass = "Subhaashita"
 topics = [ "जलकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असंशयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंशयं न्यस्तमुपान्तरक्ततां यदेव रोद्धुं रामणीभिरञ्जनम्।  
 हृतेऽपि तस्मिन् सलिलेन शुक्लतां निरास रागो नयनेषु न श्रियम्॥

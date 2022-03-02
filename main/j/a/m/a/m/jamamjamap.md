@@ -6,7 +6,7 @@ title = "जनं जनपदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जनं जनपदा नित्यमर्चयन्ति नृपार्चितम्।  
 नृपेणावमतो यस्तु स सर्वैरवमन्यते॥

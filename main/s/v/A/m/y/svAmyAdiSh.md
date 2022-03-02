@@ -6,7 +6,7 @@ title = "स्वाम्यादिष्टस्तु यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वाम्यादिष्टस्तु यो भृत्यः समं विषममेव च।  
 मन्यते न स सन्धार्यो भूभुजा भूतिमिच्छता॥

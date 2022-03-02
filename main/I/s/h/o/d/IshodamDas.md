@@ -5,7 +5,7 @@ title = "ईशो दण्डस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईशो दण्डस्य वरुणो राज्ञां दण्डधरो हि सः।  
 ईशः सर्वस्य जगतो ब्राह्मणो वेदपारगः॥

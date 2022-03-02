@@ -7,7 +7,7 @@ title = "लिखति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लिखति न गणयति रेखा निर्झरबाष्पाम्बुधौतगण्डतटा।  
 अवधिदिवसावसानं मा भूदिति शङ्किता बाला॥

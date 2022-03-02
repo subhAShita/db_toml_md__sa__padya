@@ -5,7 +5,7 @@ title = "करिमदपरिमलवाही वहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करिमदपरिमलवाही वहति बहिर्गिरिसरित्समीर इति।  
 मृदुगर्भान्तर्मावं न जहाति गुहागृहस्य हरिगृहिणी॥

@@ -6,7 +6,7 @@ title = "यौवनं धनसम्पत्तिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यौवनं धनसम्पत्तिः प्रभुत्वमविवेकिता।  
 एकैकमप्यनर्थाय किमु यत्र चतुष्टयम्॥

@@ -6,7 +6,7 @@ title = "गन्धवाह गहनानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गन्धवाह गहनानि गाहसे गन्धजातमिह सञ्चिनोषि च।  
 नैपुणच्युतिरियं तु तावकी यत्र तत्र सदसद्विवेचनम्॥

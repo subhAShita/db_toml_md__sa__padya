@@ -7,7 +7,7 @@ title = "शिव शिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिव शिव हि शिवेन पुष्पधन्वा प्रलयनटेन किमित्यकारि भस्म।  
 स हि पुनरुदितश्छलाय लोके स तु मणिमन्त्रमहौषधैरसाध्यः॥

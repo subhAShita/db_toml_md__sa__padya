@@ -5,7 +5,7 @@ title = "अहिंसा सत्यवचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिंसा सत्यवचनम् आनृशंस्यं दमो घृणा।  
 एतत् तपो विदुर्धीरा न शरीरस्य शोषणम्॥

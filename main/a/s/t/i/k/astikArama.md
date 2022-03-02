@@ -5,7 +5,7 @@ title = "अस्ति कारणमव्यक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्ति कारणमव्यक्तं सर्वव्यापि परापरम्।  
 सांनिध्यादपि दुर्ग्राह्यं विश्वमूर्त्योपलक्षितम्॥

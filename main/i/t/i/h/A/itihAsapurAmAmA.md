@@ -7,7 +7,7 @@ title = "इतिहासपुराणानां वक्तारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतिहासपुराणानां वक्तारं सम्यगेव हि ।  
 माञ्चैव प्रतिजग्राह भगवानीश्वरः प्रभुः ॥  

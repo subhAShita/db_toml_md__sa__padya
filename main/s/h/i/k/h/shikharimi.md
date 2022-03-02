@@ -7,7 +7,7 @@ title = "शिखरिणि क्व"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिखरिणि क्व नु नाम कियच्चिरं किमभिधानमसावकरोत्तपः।  
 सुमुखि येन तवाधरपाटलं दशति बिम्बफलं शुकशावकः॥

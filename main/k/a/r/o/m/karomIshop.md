@@ -5,7 +5,7 @@ title = "करोमीशोऽपि नाक्रान्तिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोमीशोऽपि नाक्रान्तिं परितापेन खेदवान्।  
 दरिद्रोऽपि न वाञ्छामि तेन जीवाम्यनामयः॥

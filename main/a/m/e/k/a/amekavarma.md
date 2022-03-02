@@ -5,7 +5,7 @@ title = "अनेकवर्णपदताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेकवर्णपदतां वाग्विद्युदिव बिभ्रती।  
 अभ्रान्तेषु सदा सारसङ्गिषु स्यात् स्फुरद्गुणा॥

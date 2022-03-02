@@ -5,7 +5,7 @@ title = "यदि वस्तुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि वस्तुं मनः पुंसां स्वर्गस्त्रीभिः समं चिरात्।  
 अपरां सुखितां कृत्वा सङ्ग्रामे म्रियतां तदा॥

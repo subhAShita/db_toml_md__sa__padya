@@ -6,7 +6,7 @@ title = "न देवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न देवा दण्डमादाय रक्षन्ति पशुपालवत् ।  
 यं तु रक्षितुमिच्छन्ति बुद्ध्या संयोजयन्ति तम् ॥

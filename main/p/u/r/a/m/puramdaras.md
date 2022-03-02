@@ -6,7 +6,7 @@ title = "पुरन्दरसहस्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुरन्दरसहस्राणि चक्रवर्तिशतानि च।  
 निर्वापितानि कालेन प्रदीपा इव वायुना॥

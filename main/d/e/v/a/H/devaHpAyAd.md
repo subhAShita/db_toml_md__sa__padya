@@ -6,7 +6,7 @@ title = "देवः पायादपायान्नः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देवः पायादपायान्नः स्मेरेन्दीवरलोचनः।  
 संसारध्वान्तविध्वंसहंसकंसनिषूदनः॥

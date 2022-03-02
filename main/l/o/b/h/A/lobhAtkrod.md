@@ -6,7 +6,7 @@ title = "लोभात्क्रोधः प्रभवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोभात्क्रोधः प्रभवति लोभात्कामः प्रजायते।  
 लोभान्मोहश्च नाशश्च लोभः पापस्य कारणम्॥

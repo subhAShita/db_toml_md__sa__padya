@@ -6,7 +6,7 @@ title = "नलिनीदलगतजलमतितरलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नलिनीदलगतजलमतितरलं तद्वज्जीवितमतिशयचपलम्।  
 विद्धि व्याधिव्यालग्रस्तं लोकं शोकहतं च समस्तम्॥

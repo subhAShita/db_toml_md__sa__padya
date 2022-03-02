@@ -6,7 +6,7 @@ title = "वर्जयेदिन्द्रियजयी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्जयेदिन्द्रियजयी निर्जने जननीमपि।  
 पुत्रीकृतोऽपि प्रद्युम्नः कामितः शम्बरस्त्रिया॥

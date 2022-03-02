@@ -6,7 +6,7 @@ title = "पाषाणो भिद्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाषाणो भिद्यते टङ्कैर्वज्रं वज्रेण भिद्यते।  
 सर्पोऽपि भिद्यते मन्त्रैर्दुष्टात्मा नैव भिद्यते॥

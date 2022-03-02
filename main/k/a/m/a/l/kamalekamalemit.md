@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8673", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०९ आमन्त्रितगुप्तम्// 40",]
-jsonClass = "Subhaashita"
 types = [ "आमन्त्रितगुप्तम्",]
+jsonClass = "Subhaashita"
 title = "कमले कमले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमले कमले नित्यं मधूनि पिबतस् तव।  
 भविष्यन्ति न सन्देहः कष्टं दोषाकरोदये॥

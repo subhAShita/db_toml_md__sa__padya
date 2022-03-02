@@ -6,7 +6,7 @@ title = "मुक्तामणि त्वं!"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुक्तामणि त्वं! नयनम् ममेति  
 राजेति जीवेति चिरं सुत त्वम् ।  

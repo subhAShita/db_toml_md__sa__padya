@@ -6,7 +6,7 @@ title = "श्रवणं कीर्तनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रवणं कीर्तनं विष्णोः [ /शम्भोः/ शक्तेः]  
 स्मरणं पादसेवनम्।  

@@ -6,7 +6,7 @@ title = "न समासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न समासः समर्थस्य वसुव्याकरणस्य ते।  
 विग्रहो नैव केनापि न परः सर्वनामभाक्॥

@@ -5,7 +5,7 @@ title = "अञ्जनमुस्तोशीरैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अञ्जनमुस्तोशीरैः सनागकोशातकामलकचूर्णैः।  
 कतकफलसमायुक्तैः कूपे योगः प्रदातव्यः॥

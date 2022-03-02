@@ -5,7 +5,7 @@ title = "एकतः सकला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकतः सकला विद्या चातुर्यं पुनरेकतः।  
 चातुर्येण विनाकृत्य सकला विकला कला॥

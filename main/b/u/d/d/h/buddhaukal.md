@@ -6,7 +6,7 @@ title = "बुद्धौ कलुषिभूतायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुद्धौ कलुषिभूतायां विकारे प्रत्युपस्थिते।  
 अनयो नयसङ्काशो हृदयान्नापसर्पति॥

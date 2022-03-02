@@ -5,7 +5,7 @@ title = "असावुदयमारूढः कान्तिमान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असावुदयमारूढः कान्तिमान् रक्तमण्डलः।  
 राजा हरति लोकस्य हृदयं मृदुभिः करैः॥

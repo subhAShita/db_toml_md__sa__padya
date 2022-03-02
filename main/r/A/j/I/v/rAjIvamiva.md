@@ -7,7 +7,7 @@ title = "राजीवमिव राजीवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजीवमिव राजीवं जलं जलमिवाजनि।  
 चन्द्रश्चन्द्र इवातन्द्रः शरत् समुदयोद्यमे॥

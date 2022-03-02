@@ -6,7 +6,7 @@ title = "वित्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वित्तं परिमितमधिकव्ययशीलं पुरुषमाकुलीकुरुते।  
 ऊनांशुकमिव पीनस्तनजघनायाः कुलीनायाः॥

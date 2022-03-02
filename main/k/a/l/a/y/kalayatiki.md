@@ -5,7 +5,7 @@ title = "कलयति किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलयति किं न सदा फलतां बहुफलतां च स वृक्षः।  
 यस्य परोपकृतौ कश्चिन् न सपक्षोऽपि विपक्षः॥

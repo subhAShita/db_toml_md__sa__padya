@@ -7,7 +7,7 @@ title = "तत्प्रियं मम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्प्रियं मम यत्सत्यं तत्सत्यं यत्प्रियं मम ।  
 पूर्वेण वचसा प्राज्ञः परेण ज्ञायते जडः ॥

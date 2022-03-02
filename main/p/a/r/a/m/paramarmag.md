@@ -6,7 +6,7 @@ title = "परमर्मघट्टनादिषु खलस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परमर्मघट्टनादिषु खलस्य यत्कौशलं न तत्कृत्ये।  
 यत्सामर्थ्यमुपहतौ विषस्य तन्नोपकाराय॥

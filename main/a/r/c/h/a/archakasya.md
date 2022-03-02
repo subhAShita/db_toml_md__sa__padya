@@ -5,7 +5,7 @@ title = "अर्चकस्य तपोयोगाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्चकस्य तपोयोगाद् अर्चनस्यातिशायनात्।  
 आभिरूप्याच्च मूर्तीनां देवः सांनिध्यमृच्छति॥

@@ -7,7 +7,7 @@ title = "राजति त्रिवली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजति त्रिवली तस्याः स्तनभारोन्नतिक्रमात्।  
 उपर्युपरि जातेव हारमुद्रापरम्परा॥

@@ -7,7 +7,7 @@ title = "आर्द्रापराधिनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्द्रापराधिनि जनेऽप्यभिरक्षणार्थं  
 रङ्गेश्वरस्य रमया विनिवेद्यमाने ।  

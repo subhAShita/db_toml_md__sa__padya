@@ -7,7 +7,7 @@ title = "विरमति कथनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरमति कथनं विना न खेदः सति कथने समुपैति कापि लज्जा।  
 इति कलहमधोमुखी सखिभ्यो लपितुमनालपितुं समाचकाङ्क्ष॥

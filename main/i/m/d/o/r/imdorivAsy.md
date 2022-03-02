@@ -5,7 +5,7 @@ title = "इन्दोरिवास्य पुरतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दोरिवास्य पुरतो यद् विमुखी सापवारणा भ्रमसि।  
 तत् कथय किं नु दुरितं सखि त्वया छाययेव कृतम्॥

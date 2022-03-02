@@ -7,7 +7,7 @@ title = "भ्रूचापवल्लीं सुमुखी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रूचापवल्लीं सुमुखी यावन्नयति वक्रताम्।  
 तावत्कटाक्षविशिखैर्भिद्यते हृदयं मम॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5666", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 35",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आस्यं सहास्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्यं सहास्यं नयनं सलास्यं सिन्दूरबिन्दूदयशोभि भालम्।  
 नवा च वेणी हरिणीदृशश्चेद् अन्यैरगण्यैरपि भूषणैः किम्॥

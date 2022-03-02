@@ -5,7 +5,7 @@ title = "कर्मणो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणो हि प्रधानेन बुद्धिना किं प्रयोजनम्।  
 पाषाणस्य कुतो बुद्धिस् ततो देवो भविष्यति॥

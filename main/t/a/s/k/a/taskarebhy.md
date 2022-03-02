@@ -6,7 +6,7 @@ title = "तस्करेभ्यो नियुक्तेभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्करेभ्यो नियुक्तेभ्यः शत्रुभ्यो नृपवल्लभात्।  
 नृपतिर्निजलोभाच्च प्रजा रक्षेत्पितेव हि॥

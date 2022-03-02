@@ -5,7 +5,7 @@ title = "असारो निर्गुणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असारो निर्गुणो वक्रश् चित्ररूपतयान्वितः।  
 अवाप न चिराद् भ्रंशं शक्रचापः खलो यथा॥

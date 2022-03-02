@@ -5,7 +5,7 @@ title = "अतिहरितपत्रपरिकर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिहरितपत्रपरिकर- संपन्नस्पन्दनैकविटपस्य।  
 घनवासनैर्मयूखैः कुसुम्भकुसुमायते तरणिः॥

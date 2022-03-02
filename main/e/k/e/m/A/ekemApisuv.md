@@ -5,7 +5,7 @@ title = "एकेनापि सुवृक्षेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि सुवृक्षेण पुष्पितेन सुगन्धिना।  
 वासितं तद्वनं सर्वं सुपुत्रेण कुलं यथा॥

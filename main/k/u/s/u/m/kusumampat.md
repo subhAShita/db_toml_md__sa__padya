@@ -6,7 +6,7 @@ title = "कुसुमं पतदेत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुसुमं पतदेत्य नाकतो वद कस्मै स्पृहयन्ति भोगिनः।  
 अधिगम्य रतं वराङ्गा क्व नु यत्नं कुरुते सुशिक्षिता॥

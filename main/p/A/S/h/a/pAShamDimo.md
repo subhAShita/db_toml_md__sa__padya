@@ -6,7 +6,7 @@ title = "पाषण्डिनो विकर्मस्थान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाषण्डिनो विकर्मस्थान्  
 बैडालव्रतिकाञ्छठान् ।  

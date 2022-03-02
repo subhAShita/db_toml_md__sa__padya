@@ -6,7 +6,7 @@ title = "खड्गनिर्लूनमूर्धानो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गनिर्लूनमूर्धानो निपतन्तोऽपि वाजिनः।  
 प्रथमं पातयामासुरसिना दारितानरीन्॥

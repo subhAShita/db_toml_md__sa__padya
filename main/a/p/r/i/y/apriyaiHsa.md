@@ -5,7 +5,7 @@ title = "अप्रियैः सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रियैः सह संवासः प्रियैश्चापि विनाभवः।  
 असद्भिः संप्रयोगश्च तद्दुःखं चिरजीविनाम्॥

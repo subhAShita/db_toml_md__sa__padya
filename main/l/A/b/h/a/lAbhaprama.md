@@ -6,7 +6,7 @@ title = "लाभप्रणयिनो नीचा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लाभप्रणयिनो नीचा मानकामा मनस्विनः।  
 मद्गुः सरसि मत्स्यार्थी हंसस्येष्टा प्रसन्नता॥

@@ -5,7 +5,7 @@ title = "अलिनीलालकलतं कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलिनीलालकलतं कं न हन्ति घनस्तनि।  
 आननं नलिनच्छायनयनं शशिकान्ति ते॥

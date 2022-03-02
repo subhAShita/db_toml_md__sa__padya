@@ -5,7 +5,7 @@ title = "अकालजलदेन्दोः सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकालजलदेन्दोः सा हृद्या वदनचन्द्रिका।  
 नित्यं कविचकोरैर्या पीयते न च हीयते॥

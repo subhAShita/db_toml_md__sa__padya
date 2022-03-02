@@ -5,7 +5,7 @@ title = "कथं ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं ते त्यक्तसद्वृत्ताः सुखं रात्रिषु शेरते।  
 मरणान्तरिता येषां नरकेषूपपत्तयः॥

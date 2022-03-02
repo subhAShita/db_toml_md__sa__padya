@@ -7,7 +7,7 @@ title = "सुखशय्या ताम्बूलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुखशय्या ताम्बूलं विश्रब्धाश्लेषचुम्बनादीनि।  
 तुलयन्ति न लक्षांशं त्वरितक्षणचौर्यसुरतस्य॥

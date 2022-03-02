@@ -7,7 +7,7 @@ title = "सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं विवृणुयात्तावद्यावद्धि सहते जगत् ।  
 गङ्गास्रोतो जटाबद्धं भगवानिव शङ्करः ॥

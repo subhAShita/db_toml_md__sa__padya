@@ -7,7 +7,7 @@ title = "मन्ये समाप्तलावण्यसारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्ये समाप्तलावण्यसारे सर्गे मृगीदृशः।  
 अपूरयित्वेव गतो नाभिरन्ध्रं चतुर्मुखः॥

@@ -6,7 +6,7 @@ title = "शृगालशशशार्दूलदूषितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शृगालशशशार्दूलदूषितं दण्डकावनम्।  
 पञ्चमं गायतानेन कोकिलेन प्रतिष्ठितम्॥

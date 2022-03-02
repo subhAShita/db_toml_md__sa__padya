@@ -6,7 +6,7 @@ title = "जीवञ्जीवयति हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवञ्जीवयति हि यो ज्ञातिजनं परिजनं च सुहृदश्च।  
 तस्य सफला गृहश्रीर्धिगनुपजीव्यां धनसमृद्धिम्॥

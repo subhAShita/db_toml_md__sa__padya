@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4816", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 33",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
-title = "आननानि"
+jsonClass = "Subhaashita"
+title = "आननानि हरिणीनयनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आननानि हरिणीनयनानाम् अद्भुतानि च समीक्ष्य जगत्याम्।  
 लज्जयेव घनमण्डललीनो मन्दमन्दमहहेन्दुरुदेति॥

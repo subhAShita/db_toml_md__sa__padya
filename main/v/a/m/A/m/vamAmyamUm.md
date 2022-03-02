@@ -6,7 +6,7 @@ title = "वनान्यमूनि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वनान्यमूनि न गृहाण्येता नद्यो न योषितः।  
 द्रुमा इमे न दायादास्तन्मे नन्दति मानसम्॥

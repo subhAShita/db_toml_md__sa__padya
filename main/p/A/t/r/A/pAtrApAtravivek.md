@@ -7,15 +7,15 @@ title = "पात्रापात्रविवेको रोहण"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-The रोहण is a fabled mountain that is supposed to abound in gems.
+पात्रापात्रविवेको रोहण तव नास्ति यज्जडप्रकृतेः ।  
+पिशुनजनमुषितरत्नस्तदाशु भवितासि गण्डशेषवपुः ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-पात्रापात्रविवेको रोहण तव नास्ति यज्जडप्रकृतेः ।  
-पिशुनजनमुषितरत्नस्तदाशु भवितासि गण्डशेषवपुः ॥
+The रोहण is a fabled mountain that is supposed to abound in gems.
 </details>

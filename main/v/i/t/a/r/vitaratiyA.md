@@ -6,7 +6,7 @@ title = "वितरति यावद्दाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वितरति यावद्दाता तावत्सकलोऽपि भवति कलभाषी।  
 विरते पयसि घनेभ्यः शाम्यन्ति शिखण्डिनां ध्वनयः॥

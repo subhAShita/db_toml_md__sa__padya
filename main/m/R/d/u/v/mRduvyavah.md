@@ -6,7 +6,7 @@ title = "मृदुव्यवहितं तेजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृदुव्यवहितं तेजो भोक्तुमर्थान्प्रकल्पते।  
 प्रदीपः स्नेहमादत्ते दशयाभ्यन्तरस्थया॥

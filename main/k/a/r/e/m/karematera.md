@@ -5,7 +5,7 @@ title = "करेण ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करेण ते रणेष्वन्तकरेण द्विषतां हताः।  
 करेणवः क्षरद्रक्ता भान्ति संध्याघना इव॥

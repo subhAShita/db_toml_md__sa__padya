@@ -6,7 +6,7 @@ title = "स धूर्जटिजटाजूटो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स धूर्जटिजटाजूटो जायतां विजयाय वः।  
 यत्रैकपलितभ्रान्तिं करोत्यद्यापि जाह्नवी॥

@@ -1,13 +1,13 @@
 +++
 topics = [ "कुपण्डितः", "रसिकः", "जडः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 30",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "साहित्यसङ्गीतकलाविहीनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साहित्यसङ्गीतकलाविहीनः साक्षात्पशुः पुच्छविषाणहीनः।  
 तृणं न खादन्नपि जीवमानस्तद्भागधेयं परमं पशूनाम्॥

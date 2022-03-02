@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9417", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०१ क्रियागुप्तम्// 7",]
-jsonClass = "Subhaashita"
 types = [ "क्रियागुप्तम्",]
+jsonClass = "Subhaashita"
 title = "कान्तया कान्तसंयोगे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तया कान्तसंयोगे किमकारि नवोढया।  
 अत्रापि चोत्तरं वक्तुम् अवधिर्ब्रह्मणो वयः॥

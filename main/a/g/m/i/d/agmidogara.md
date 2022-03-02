@@ -5,7 +5,7 @@ title = "अग्निदो गरदश्चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निदो गरदश्चैव शस्त्रपाणिर्धनापहः।  
 क्षेत्रदारापहारी च षडेते ह्याततायिनः॥

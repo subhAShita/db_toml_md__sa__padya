@@ -6,7 +6,7 @@ title = "पुराणान्ते श्मशानान्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुराणान्ते श्मशानान्ते मैथुनान्ते च या मतिः।  
 सा मतिः सर्वदा चेत्स्यात्को न मुच्येत बन्धनात्॥

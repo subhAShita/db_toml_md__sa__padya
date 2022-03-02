@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8152", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 26",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एषा भविष्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एषा भविष्यति विनिद्रसरोरुहाक्षी कामस्य कापि दयिता तनुजानुजा वा।  
 यः पश्यति क्षणमिमां कथमन्यथासौ कामस् तमस्तकरुणस् तरुणं हिनस्ति॥

@@ -7,7 +7,7 @@ title = "भूषणीयत्वमाधत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूषणीयत्वमाधत्ते द्वाभ्यामेव हरेः शिरः ।  
 बर्हेण वा मयूरस्य राधायाश्चरणेन वा ॥

@@ -5,7 +5,7 @@ title = "आर्येण सुकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्येण सुकरं ह्याहुर्य् आर्यकर्म धनंजय।  
 अनार्यकर्म त्वार्येण सुदुष्करतरं भुवि॥

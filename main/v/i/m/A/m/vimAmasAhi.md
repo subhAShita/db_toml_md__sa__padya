@@ -6,7 +6,7 @@ title = "विना न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विना न साहित्यविदापरत्र गुणः कथञ्चित्प्रथते कवीनाम्।  
 आलम्बते तत्क्षणमम्भसीव विस्तारमन्यत्र न तैलबिन्दुः॥

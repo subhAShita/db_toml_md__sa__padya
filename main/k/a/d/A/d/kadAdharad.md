@@ -5,7 +5,7 @@ title = "कदाधरदले बाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदाधरदले बाले दन्तकेसरशोभिते।  
 भवामि त्वन्मुखाम्भोजे रसिको मधुपो यथा॥

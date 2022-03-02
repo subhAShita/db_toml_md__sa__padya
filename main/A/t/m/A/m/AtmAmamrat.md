@@ -7,7 +7,7 @@ title = "आत्मानं रथिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं रथिनं विद्धि मनः प्रग्रहमेव च ।  
 इन्द्रियाणि हयानाहुः विषयांस्तेषु गोचरम् ।  

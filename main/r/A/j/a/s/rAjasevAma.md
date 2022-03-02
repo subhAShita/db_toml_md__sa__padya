@@ -6,7 +6,7 @@ title = "राजसेवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजसेवा मनुष्याणामसिधारावलेहनम्।  
 व्याघ्रीगात्रपरिष्वङ्गो व्यालीवदनचुम्बनम्॥

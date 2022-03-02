@@ -6,7 +6,7 @@ title = "दुर्लभं संस्कृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्लभं संस्कृतं वाक्यं दुर्लभः क्षेमकृत्सुतः।  
 दुर्लभा सदृशी भार्या दुर्लभः स्वजनः प्रियः॥

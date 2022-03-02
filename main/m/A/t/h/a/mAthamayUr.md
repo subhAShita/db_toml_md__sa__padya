@@ -6,7 +6,7 @@ title = "नाथ मयूरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाथ मयूरो नृत्यति तुरगाननवक्षसः कथं नृत्यम्।  
 नहि कथयामि कलापिनमिह सुखलापी प्रिये कोऽस्ति॥

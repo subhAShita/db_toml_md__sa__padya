@@ -5,7 +5,7 @@ title = "अत्यन्तसुखसञ्चारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यन्तसुखसंचारा मध्याह्ने स्पर्शतः सुखाः।  
 दिवसाः सुभगादित्याश् छायासलिलदुर्भगाः॥

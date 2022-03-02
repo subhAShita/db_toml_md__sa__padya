@@ -6,7 +6,7 @@ title = "दिगम्बरनितम्बिन्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिगम्बरनितम्बिन्याः किमम्बरविभूषणम्।  
 इत्थं वरहरः पायात्परीरम्भहरः परौ॥

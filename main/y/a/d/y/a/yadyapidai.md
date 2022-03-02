@@ -6,7 +6,7 @@ title = "यद्यपि दैवाल्लब्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि दैवाल्लब्धा कस्तूरीभूमिरत्र भूरितरम्।  
 नेया किमसौ तदपि हि शौचार्यं जानता पुंसा॥

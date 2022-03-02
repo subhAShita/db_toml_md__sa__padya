@@ -6,7 +6,7 @@ title = "कूपोदकं वटच्छाया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कूपोदकं वटच्छाया श्यामा स्त्री चेष्टकालयम्।  
 शीतकाले भवेदुष्णं ग्रीष्मकाले च शीतलम्॥

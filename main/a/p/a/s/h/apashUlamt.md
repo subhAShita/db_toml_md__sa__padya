@@ -5,7 +5,7 @@ title = "अपशूलं तमासाद्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपशूलं तमासाद्य लवणं लक्ष्मणानुजः।  
 रुरोध संमुखीनो हि जयो रन्ध्रप्रहारिणाम्॥

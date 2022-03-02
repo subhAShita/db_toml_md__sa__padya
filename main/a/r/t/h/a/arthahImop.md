@@ -5,7 +5,7 @@ title = "अर्थहीनोऽपि मधुरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थहीनोऽपि मधुरः शब्दो लोकप्रियंकरः।  
 वीणावेणुमृदङ्गादीन्य् अत्रोदाहरणानि नः॥

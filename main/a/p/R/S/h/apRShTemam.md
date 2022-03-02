@@ -5,7 +5,7 @@ title = "अपृष्टेन न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपृष्टेन न वक्तव्यः सचिवेन विपश्चिता।  
 नानुशिष्यादपृच्छन्तं महदेतद्धि साहसम्॥

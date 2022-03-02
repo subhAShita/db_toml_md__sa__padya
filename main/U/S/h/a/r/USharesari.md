@@ -5,7 +5,7 @@ title = "ऊषरे सरिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊषरे सरिति शाल्मलीवने दावपावकचितेऽपि चन्दने।  
 तुल्यमर्पयति वारि वारिदे कीर्तिरस्तु गुणगौरवैर्गतम्॥

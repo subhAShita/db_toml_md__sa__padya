@@ -6,7 +6,7 @@ title = "क्षीणः क्षीणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षीणः क्षीणः समीपत्वं पूर्णः पूर्णोऽतिदूरताम्।  
 उपैति मित्त्राद्यच्चन्द्रो युक्तं तन्मलिनात्मनः॥

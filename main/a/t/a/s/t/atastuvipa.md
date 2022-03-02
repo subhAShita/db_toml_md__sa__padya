@@ -5,7 +5,7 @@ title = "अतस्तु विपरीतस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतस्तु विपरीतस्य नृपतेरजितात्मनः।  
 संक्षिप्यते यशो लोके घृतबिन्दुरिवाम्भसि॥

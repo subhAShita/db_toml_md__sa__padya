@@ -6,7 +6,7 @@ title = "दुर्गाणि राज्ञा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्गाणि राज्ञा कार्याणि सजलानि दृढानि च।  
 द्रव्यमन्नं च तेष्वेव स्थापनीयं प्रयत्नतः॥

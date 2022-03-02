@@ -6,7 +6,7 @@ title = "श्यामौ तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामौ तव स्तनावेतौ पिबन्ति सततं मुदा।  
 अत्र कर्तृपदं गुप्तं मर्यादा दशवार्षिकी॥

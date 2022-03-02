@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1749", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०२ विषयोपहासः// 121",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
-title = "अन्यत्र"
+jsonClass = "Subhaashita"
+title = "अन्यत्र भीष्माद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यत्र भीष्माद् गाङ्गेयाद् अन्यत्र च हनूमतः।  
 हरिणीखुरमात्रेण चर्मणा मोहितं जगत्॥

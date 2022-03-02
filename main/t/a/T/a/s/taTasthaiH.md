@@ -6,7 +6,7 @@ title = "तटस्थैः ख्यापिताश्चेतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तटस्थैः ख्यापिताश्चेतो विशन्ति गुणिनां गुणाः।  
 उत्कोचितानां पद्मानां गन्धो वायुभिराहृतः॥

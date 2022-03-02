@@ -6,15 +6,15 @@ title = "पुनर् उक्तावधि"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-Look at her counting days. She's become thin like the fingers, but you're hard like the knuckles'
+पुनर् उक्तावधि वासरम् एतस्याः कितव पश्य गणयन्त्याः /  
+इयम् इव करजः क्षीणस् त्वम् इव कठोराणि पर्वाणि //
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-पुनर् उक्तावधि वासरम् एतस्याः कितव पश्य गणयन्त्याः /  
-इयम् इव करजः क्षीणस् त्वम् इव कठोराणि पर्वाणि //
+Look at her counting days. She's become thin like the fingers, but you're hard like the knuckles'
 </details>

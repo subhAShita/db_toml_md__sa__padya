@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०२ कालिदासः// 2",]
 topics = [ "कालिदासः", "माहत्य-विवेकः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "कवयः कालिदासाद्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवयः कालिदासाद्याः कवयो वयवप्यमी।  
 पर्वते परमाणौ च पदार्थत्वं प्रतिष्ठितम्॥

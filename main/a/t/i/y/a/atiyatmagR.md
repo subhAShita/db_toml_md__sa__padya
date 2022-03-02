@@ -5,7 +5,7 @@ title = "अतियत्नगृहीतोऽपि खलः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतियत्नगृहीतोऽपि खलः खलखलायते।  
 शिरसा धार्यमाणोऽपि तोयस्यार्धघटो यथा॥

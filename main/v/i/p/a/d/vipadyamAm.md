@@ -6,7 +6,7 @@ title = "विपद्यमानता सिद्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विपद्यमानता सिद्धा सर्वस्यैव निरूष्मणः।  
 यथात्र भस्म पद्भ्यां च निर्वाणं हन्त्ययं जनः॥

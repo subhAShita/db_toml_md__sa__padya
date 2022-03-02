@@ -6,7 +6,7 @@ title = "मदमयमदमयदुरगम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मदमयमदमयदुरगं यमुनामवतीर्य वीर्यशाली यः।  
 मम रतिममरतिरस्कृतिशमनपरः स क्रियात्कृष्णः॥

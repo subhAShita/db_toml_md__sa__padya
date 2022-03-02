@@ -6,7 +6,7 @@ title = "दुर्बलस्य बलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्बलस्य बलं राजा बालानां रोदनं बलम्।  
 बलं मूर्खस्य मौनित्वं चौराणामनृतं बलम्॥

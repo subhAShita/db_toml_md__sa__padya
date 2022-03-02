@@ -7,7 +7,7 @@ title = "कुमुदेष्वधिकं भान्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुमुदेष्वधिकं भान्ति पतिताश्चन्द्ररश्मयः।  
 अतिप्रकृष्टशीलेषु कुलेष्विव समृद्धयः॥

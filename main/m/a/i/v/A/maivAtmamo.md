@@ -6,7 +6,7 @@ title = "नैवात्मनो विनाशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नैवात्मनो विनाशं गणयति पिशुनः परव्यसनहृष्टः।  
 प्राप्य सहस्रविनाशं समरे नृत्यति कबन्ध इव॥

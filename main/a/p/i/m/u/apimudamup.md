@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2054", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 43",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "अपि मुदमुपयान्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि मुदमुपयान्तो वाग्विलासैः स्वकीयैः परभणितिषु तोषं यान्ति सन्तः कियन्तः।  
 निजघनमकरन्दस्यन्दपूर्णालवालः कलशसलिलसेकं नेहते किं रसालः॥

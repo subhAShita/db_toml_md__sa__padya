@@ -5,7 +5,7 @@ title = "एकपुच्छश् चतुष्पादः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकपुच्छश् चतुष्पादः ककुद्मान् लम्बकम्बलः।  
 गोरपत्यं बलीवर्दो घासमत्ति सुखेन सः॥

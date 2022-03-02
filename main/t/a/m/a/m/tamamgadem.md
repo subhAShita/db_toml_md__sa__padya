@@ -6,7 +6,7 @@ title = "तमङ्गदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तमङ्गदे मन्दरकूटकोटिव्याघट्टनोत्तेजनया मणीनाम्।  
 बहीयसा दीप्तिवितानकेन चकासयामासतुरुल्लसन्ती॥

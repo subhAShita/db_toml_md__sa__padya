@@ -6,7 +6,7 @@ title = "रक्षन्ति कृपणाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रक्षन्ति कृपणाः पाणौ द्रव्यं क्रव्यमिवात्मनः।  
 तदेव सन्तः सततमुत्सृजन्ति यथा मलम्॥

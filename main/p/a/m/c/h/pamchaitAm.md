@@ -6,7 +6,7 @@ title = "पञ्चैतानि विलिख्यन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्चैतानि विलिख्यन्ते गर्भस्थस्यैव देहिनः।  
 आयुः कर्म च विद्या च वित्तं निधनमेव च॥

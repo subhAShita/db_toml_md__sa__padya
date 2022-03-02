@@ -6,7 +6,7 @@ title = "वातोल्लासितकल्लोल धिक्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वातोल्लासितकल्लोल धिक्ते सागर गर्जितम्।  
 यस्य तीरे तृषाक्रान्तः पान्थः पृच्छति वापिकाम्॥

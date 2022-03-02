@@ -6,7 +6,7 @@ title = "घनसन्तमसमलीमस दशदिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घनसन्तमसमलीमस दशदिति निशि यद्विराजसि तदन्यत्।  
 कीटमणे दिनमधुना तरणिकरान्तरितसितकिरणम्॥

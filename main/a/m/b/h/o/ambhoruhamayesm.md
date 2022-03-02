@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2620", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०५ सम्प्रदानगुप्तम्// 31",]
-jsonClass = "Subhaashita"
 types = [ "सम्प्रदानगुप्तम्",]
+jsonClass = "Subhaashita"
 title = "अम्भोरुहमये स्नात्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्भोरुहमये स्नात्वा वापीपयसि कामिनी।  
 ददाति भक्तिसंपन्ना पुष्पसौभाग्यकाम्यया॥

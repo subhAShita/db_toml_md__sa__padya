@@ -6,7 +6,7 @@ title = "व्याख्यातुमेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्याख्यातुमेव केचित्कुशलाः शास्त्रं प्रयोक्तुमलमन्ये।  
 उपनामयति करोऽन्नं रसांस्तु जिह्वैव जानाति॥

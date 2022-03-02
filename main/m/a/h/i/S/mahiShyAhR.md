@@ -6,7 +6,7 @@ title = "महिष्या हृष्टया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महिष्या हृष्टया भाव्यं गृहकार्येषु दक्षया।  
 सुसंस्कृतोपस्करया व्यये चामुक्तहस्तया॥

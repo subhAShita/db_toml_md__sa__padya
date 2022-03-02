@@ -7,7 +7,7 @@ title = "वान्ति कह्लारसुभगाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वान्ति कह्लारसुभगाः सप्तच्छदसुगन्धयः।  
 वाता नवरतग्लानवधूगमनमन्थराः॥

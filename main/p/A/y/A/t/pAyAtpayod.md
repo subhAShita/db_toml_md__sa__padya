@@ -6,7 +6,7 @@ title = "पायात्पयोधिदुहितुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पायात्पयोधिदुहितुः कपोलामलचन्द्रमाः।  
 यत्र संक्रान्तबिम्बेन हरिणा हरिणायितम्॥

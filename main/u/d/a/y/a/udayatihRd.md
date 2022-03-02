@@ -5,7 +5,7 @@ title = "उदयति हृदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयति हृदि यस्य नैव लज्जा न च करुणा न च कोऽपि भीतिलेशः।  
 बकुलमुकुलकोशकोमलां मां पुनरपि तस्य करे न पातयेथाः॥

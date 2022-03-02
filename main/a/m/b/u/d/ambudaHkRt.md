@@ -5,7 +5,7 @@ title = "अम्बुदः कृतपदो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्बुदः कृतपदो नभस्तले तोयपूरपरिपूरितोदधिः।  
 गोष्पदस्य भरणेऽप्मशक्तिमान् इत्यसत्यमभिधीयते कथम्॥

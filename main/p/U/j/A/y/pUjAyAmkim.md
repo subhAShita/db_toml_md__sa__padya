@@ -6,7 +6,7 @@ title = "पूजायां किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूजायां किं पदं प्रोक्तमस्तनं को बिभर्त्यरः।  
 क आयुधतया ख्यातः प्रलम्बासुरविद्विषः॥

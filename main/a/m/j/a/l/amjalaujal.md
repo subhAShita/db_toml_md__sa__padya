@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0473", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०३ जलकेलिः// 98",]
-jsonClass = "Subhaashita"
 topics = [ "जलकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अञ्जलौ जलमधीरलोचना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अञ्जलौ जलमधीरलोचना लोचनप्रतिशरीरशारितम्।  
 आत्तमात्तमपि कान्तमुक्षितुं कातरा शफरशङ्किनी जहौ॥

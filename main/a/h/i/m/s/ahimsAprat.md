@@ -5,7 +5,7 @@ title = "अहिंसा प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिंसा प्रथमं पुष्पं द्वितीयेन्द्रियनिग्रहम्।  
 तृतीयं तु दया पुष्पं तुरीयं दानपुष्पकम्॥

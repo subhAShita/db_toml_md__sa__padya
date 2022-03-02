@@ -7,7 +7,7 @@ title = "दुर्दिवसे घनतिमिरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्दिवसे घनतिमिरे दुःसञ्चारासु नगरवीथीषु।  
 पत्युर्विदेशगमने परमसुखं जघनचपलायाः॥

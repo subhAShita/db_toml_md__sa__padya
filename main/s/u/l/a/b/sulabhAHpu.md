@@ -7,7 +7,7 @@ title = "सुलभाः पुरुषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुलभाः पुरुषा राजन्सततं प्रियवादिनः।  
 अप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः॥

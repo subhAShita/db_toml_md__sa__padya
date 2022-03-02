@@ -6,7 +6,7 @@ title = "सा कविता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा कविता सा वनिता यस्याः श्रवणेन दर्शनेनापि।  
 कविहृदयं विटहृदयं सरलं तरलं च सत्वरं भवति॥

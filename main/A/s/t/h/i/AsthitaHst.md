@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5658", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 28",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आस्थितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्थितः स्थगितवारिदपङ्क्त्या संध्यया गगनपश्चिमभागः।  
 सोर्मिविद्रुमवितानविभासा रञ्जितस्य जलधेः श्रियमूहे॥

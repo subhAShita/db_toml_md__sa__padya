@@ -5,7 +5,7 @@ title = "ईश्वरपरिग्रहोचित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईश्वरपरिग्रहोचित- मोहोऽस्यां मधुप किं मुधा पतसि।  
 कनकाभिधानसारा वीतरसा कितवकलिकेयम्॥

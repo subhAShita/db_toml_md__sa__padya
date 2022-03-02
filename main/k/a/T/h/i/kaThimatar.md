@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8361", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 109",]
-jsonClass = "Subhaashita"
 topics = [ "दशावताराः",]
+jsonClass = "Subhaashita"
 title = "कठिनतरदामवेष्टनलेखासन्देहदायिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कठिनतरदामवेष्टनलेखासंदेहदायिनो यस्य।  
 राजन्ति वलिविभङ्गाः स पातु दामोदरो भवतः॥

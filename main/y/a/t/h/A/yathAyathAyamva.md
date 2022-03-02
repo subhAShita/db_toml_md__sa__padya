@@ -7,7 +7,7 @@ title = "यथा यथायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा यथायं वलते भुजोऽस्या उदञ्चितः संयमने कचानाम्।  
 तथा तथा वल्गति काममेकः स एव वक्षोरुह उत्पलाक्ष्याः॥

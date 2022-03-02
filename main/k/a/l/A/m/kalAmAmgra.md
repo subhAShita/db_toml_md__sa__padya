@@ -5,7 +5,7 @@ title = "कलानां ग्रहणादेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलानां ग्रहणादेव सौभाग्यमुपजायते।  
 देशकालौ त्वपेक्ष्यासां प्रयोगः संभवेन्न वा॥

@@ -6,7 +6,7 @@ title = "येषां बाहुबलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येषां बाहुबलं नास्ति येषां नास्ति मनोबलम् तेषां चन्द्रबलं देव किं कुर्यादम्बरस्थितम्
 </details>

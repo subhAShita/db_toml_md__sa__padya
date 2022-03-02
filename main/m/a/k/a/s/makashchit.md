@@ -6,7 +6,7 @@ title = "न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कश्चित्कस्यचिन्मित्त्रं न कश्चित्कस्यचिद्रिपुः।  
 कारेणन हि जायन्ते मित्त्राणि रिपवस्तथा॥

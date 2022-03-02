@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8164", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "व्यभिचारिणी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एषैव योषिताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एषैव योषितां धन्या शीलं च लभते सुखम्।  
 दिवा पतिव्रता भूयो नक्तं च कुलटा यतः॥

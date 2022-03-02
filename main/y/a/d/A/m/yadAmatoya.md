@@ -6,7 +6,7 @@ title = "यदानतोऽयदानतो नयात्ययम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदानतोऽयदानतो नयात्ययं न यात्ययम्।  
 शिवे हितां शिवेहितां स्मरामितां स्मरामि ताम्॥

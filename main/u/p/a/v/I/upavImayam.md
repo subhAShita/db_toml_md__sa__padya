@@ -5,7 +5,7 @@ title = "उपवीणयन्ति परमप्सरसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपवीणयन्ति परमप्सरसो नृपमानसिंह तव दानयशः।  
 सुरशाखिमौलिकुसुमस्पृहया नमनाय तस्य यतमानतमाः॥

@@ -7,7 +7,7 @@ title = "धन्याः शरदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धन्याः शरदि सेवन्ते प्रोल्लसच्चित्रशालिकान्।  
 प्रासादान् स्त्रीसखाः पौराः केदारांश्च कृषीवलाः॥

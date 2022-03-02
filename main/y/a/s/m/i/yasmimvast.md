@@ -6,7 +6,7 @@ title = "यस्मिन् वस्तुनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिन् वस्तुनि ममता मम तापस्तत्र तत्रैव।  
 यत्रैवाहमुदासे तत्र मुदासे स्वभावसन्तुष्टः॥॥

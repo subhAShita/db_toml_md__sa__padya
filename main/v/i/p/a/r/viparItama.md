@@ -7,7 +7,7 @@ title = "विपरीतमविपरीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विपरीतमविपरीतं यद्रतमन्यत्तदेव विपरीतम्।  
 तरुमारोहति लतिका नारोहति च लतिकां तरुः क्वापि॥

@@ -7,7 +7,7 @@ title = "लिखन्तु कवयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लिखन्तु कवयः काव्यं कवयः कति न क्षितौ ।  
 काव्यनायकतासिद्धिः कस्यचिद्धैर्यशालिनः ॥

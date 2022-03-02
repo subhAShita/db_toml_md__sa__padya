@@ -5,7 +5,7 @@ title = "अहेरिव गुणाद्भीतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहेरिव गुणाद्भीतो मिष्टान्नाद्या विषादिव।  
 राक्षसीभ्य इव स्त्रीभ्यः स विद्यामधिगच्छति॥

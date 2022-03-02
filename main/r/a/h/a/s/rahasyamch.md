@@ -5,7 +5,7 @@ title = "रहस्यं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रहस्यं च न वक्तव्यं वनितासु यथा तथा।  
 पुरुषेणेच्छता क्षेमम् ... ... ...॥

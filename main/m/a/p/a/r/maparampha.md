@@ -6,7 +6,7 @@ title = "न परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न परं फलति हि किञ्चित्खल एवानर्थमावहति यावत्।  
 मारयति सपदि विषतरुराश्रयमाणं श्रमापनुदे॥

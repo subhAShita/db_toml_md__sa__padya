@@ -5,7 +5,7 @@ title = "अपि ललितसुगुणवेणिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि ललितसुगुणवेणिः सालंकारापि या सुवर्णापि।  
 रघुतिलक विहीना चेद् वाणी रमणीव नैव कल्याणी॥

@@ -7,7 +7,7 @@ title = "किमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमपि कान्तभुजान्तरवर्तिनी कृतवती यदियं कलभाषिणी।  
 तदनुकृत्य गिरा गुरुसन्निदौ ह्रियमनीयत सारिकया वधूः॥

@@ -6,7 +6,7 @@ title = "शुनः पुच्छमिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुनः पुच्छमिव व्यर्थं जीवितं विद्यया विना।  
 न गुह्यगोपने शक्तं न च दंशनिवारणे॥

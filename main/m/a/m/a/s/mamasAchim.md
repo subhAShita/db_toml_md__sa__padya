@@ -6,7 +6,7 @@ title = "मनसा चिन्तितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनसा चिन्तितं कर्म वचसा न प्रकाशयेत्।  
 अन्यलक्षितार्थस्य यतः सिद्धिर्न जायते॥

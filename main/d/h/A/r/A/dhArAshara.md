@@ -7,7 +7,7 @@ title = "धाराशरशतप्रोतो गगने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धाराशरशतप्रोतो गगने समराजिरे ।  
 शेते शान्तनवो मेघः सन्तोषाय शिखण्डिनः ॥

@@ -6,7 +6,7 @@ title = "वामाङ्गीकृतवामाङ्गि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वामाङ्गीकृतवामाङ्गि कुण्डलीकृतकुण्डलि।  
 आविरस्तु पुरो वस्तु भूतिभूत्यम्बराम्बरम्॥

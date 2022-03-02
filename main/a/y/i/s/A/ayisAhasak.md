@@ -5,7 +5,7 @@ title = "अय्ययि साहसकारिणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अय्ययि साहसकारिणि किं तव चङ्क्रमणेन।  
 टसदिति भङ्गमवाप्स्यसि कुचयुगभारभरेण॥

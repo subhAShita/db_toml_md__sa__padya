@@ -5,7 +5,7 @@ title = "अलब्धे रागिणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलब्धे रागिणो लोका अहो लब्धे विरागिणः।  
 हेमन्ते तापमीहन्ते हन्त ग्रीष्मे हिमं पुनः॥

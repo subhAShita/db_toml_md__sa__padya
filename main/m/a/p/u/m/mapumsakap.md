@@ -5,7 +5,7 @@ title = "नपुंसकप्रवादस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नपुंसकप्रवादस्य प्रशमार्थी फलाशनः।  
 मत्तो धूर्तसहायश्च राजसूनुर्निरङ्कुशः॥

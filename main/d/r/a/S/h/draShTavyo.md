@@ -7,7 +7,7 @@ title = "द्रष्टव्यो राजपुरुषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्रष्टव्यो राजपुरुषः स्मर्तव्यो वा रमापतिः ।  
 यद्यस्ति हृदये भ्रातर्नरकाद्दारुणाद्भयम् ॥

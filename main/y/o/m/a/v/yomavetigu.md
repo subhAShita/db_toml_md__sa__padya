@@ -6,7 +6,7 @@ title = "यो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यो न वेत्ति गुणान्यस्य न तं सेवेत पण्डितः।  
 नहि तस्मात्फलं तस्य सुकृष्टादूषरादिव॥

@@ -5,7 +5,7 @@ title = "उद्यमं कुर्वताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यमं कुर्वतां पुंसां फलं भाग्यानुसारतः।  
 समुद्रमन्थनाल्लेभे हरिर्लक्ष्मीं हरो विषम्॥

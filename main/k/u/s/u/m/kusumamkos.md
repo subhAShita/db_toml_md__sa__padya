@@ -6,7 +6,7 @@ title = "कुसुमं कोशातक्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुसुमं कोशातक्या विकसति रात्रौ दिवा च कूष्माण्ड्याः।  
 अलिकुलनिचयै रुचिरं किं तु यशः कुमुदकमलयोरेव॥

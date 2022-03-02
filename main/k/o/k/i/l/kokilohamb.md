@@ -6,7 +6,7 @@ title = "कोकिलोऽहं भवान्काकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोकिलोऽहं भवान्काकः समानः कालिमावयोः।  
 अन्तरं कथयिष्यन्ति काकलीकोविदाः पुनः॥

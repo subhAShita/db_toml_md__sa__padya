@@ -6,7 +6,7 @@ title = "चण्डीजङ्घाकाण्डः शिरसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चण्डीजङ्घाकाण्डः शिरसा चरणस्पृशि प्रिये जयति।  
 शङ्करपर्यन्तजितो वीरस्तम्भः स्मरस्येव॥

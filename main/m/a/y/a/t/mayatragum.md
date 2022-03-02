@@ -6,7 +6,7 @@ title = "न यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न यत्र गुणवत्पात्रमेकमप्यस्ति सन्निधौ।  
 कस्तत्र भवतः पान्थ कूपाम्बुग्रहणाग्रहः॥

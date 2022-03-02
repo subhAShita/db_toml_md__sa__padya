@@ -6,7 +6,7 @@ title = "न करोति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न करोति नाम रोषं न वदति परुषं न हन्त्ययं शत्रून्।  
 रञ्जयति महीमखिलां तथापि धीरस्य वीरस्य॥

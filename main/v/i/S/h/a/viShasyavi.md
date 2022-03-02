@@ -6,7 +6,7 @@ title = "विषस्य विषयाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषस्य विषयाणां हि दृश्यते महदन्तरम्।  
 उपभुक्तं विषं हन्ति विषयाः स्मरणादपि॥

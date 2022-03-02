@@ -6,7 +6,7 @@ title = "किं कुप्यसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं कुप्यसि कस्मैचन सौरभसाराय कुप्य निजमधुने।  
 यस्य कृते शतपत्त्र प्रतिपत्त्रं तेऽद्य मृग्यते भ्रमरैः॥

@@ -5,7 +5,7 @@ title = "अभिमुखे मयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमुखे मयि संहृतमीक्षितं हसितमन्यनिमित्तकृतोदयम्।  
 विनयवारितवृत्तिरतस्तया न विवृतो मदनो न च संवृतः॥

@@ -6,7 +6,7 @@ title = "पुत्रमित्त्रकलत्रेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुत्रमित्त्रकलत्रेषु सक्ताः सीदन्ति जन्तवः।  
 सरः पङ्कार्णवे मग्ना जीर्णा वनगजा इव॥

@@ -5,7 +5,7 @@ title = "कश्चिदाम्रवणं छित्त्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कश्चिदाम्रवणं छित्त्वा पलाशांश्च निपिञ्चति।  
 पुष्पं दृष्ट्वा फले गृध्नुः स शोचति फलागमे॥

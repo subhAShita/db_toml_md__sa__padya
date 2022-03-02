@@ -5,7 +5,7 @@ title = "अरिपक्षाश्रिते मित्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरिपक्षाश्रिते मित्रे मर्मवेदिप्रियंवदे।  
 विश्वासो नैव कर्तव्यः यदि साक्षाद् बृहस्पतिः॥

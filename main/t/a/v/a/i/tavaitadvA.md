@@ -6,7 +6,7 @@ title = "तवैतद्वाचि माधुर्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तवैतद्वाचि माधुर्यं जाने कोकिल कृत्रिमम्।  
 प्रपोषितो यैस्तानेव जातपक्षो जहासि यत्।॥

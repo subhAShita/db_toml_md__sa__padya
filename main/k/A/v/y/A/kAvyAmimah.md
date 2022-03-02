@@ -7,7 +7,7 @@ title = "काव्यानि महान्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यानि महान्ति मया  
 व्याख्यातानीति गच्छ मा गर्वम् ।  

@@ -5,7 +5,7 @@ title = "अन्यपूर्वां स्त्रियम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यपूर्वां स्त्रियं साध्वीं कामयेत न गर्वतः।  
 साध्वीरिच्छन् महादेवः षण्डोऽभूद्दारुकावने॥

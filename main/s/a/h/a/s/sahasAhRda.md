@@ -7,7 +7,7 @@ title = "सहसा हृदये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहसा हृदये निधाय चेतो नयनादिन्द्रियमुद्रणां विधाय।  
 अयि कण्टकिताङ्गयष्टि सत्यं कथय ध्यायसि किं रहो निषण्णा॥

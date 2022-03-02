@@ -5,7 +5,7 @@ title = "अमित्रं नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमित्रं नैव मुञ्चेत ब्रुवन्तं करुणान्यपि।  
 दुःखं तत्र न कुर्वीत हन्यात् पूर्वापकारिणम्॥

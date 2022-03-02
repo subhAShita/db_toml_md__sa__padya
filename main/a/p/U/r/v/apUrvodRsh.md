@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2113", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१४ वियोगिनो विप्रलापाः// 11",]
-jsonClass = "Subhaashita"
 topics = [ "विलापः - वियोगे",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपूर्वो दृश्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूर्वो दृश्यते वह्निः कामिन्याः स्तनमण्डले।  
 दूरतो दहते गात्रं गात्रलग्नः सुशीतलः॥

@@ -6,7 +6,7 @@ title = "प्रजां न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रजां न रञ्जयेद्यस्तु राजा रक्षादिभिर्गुणैः।  
 अजागलस्तनस्येव तस्य जन्म निरर्थकम्॥

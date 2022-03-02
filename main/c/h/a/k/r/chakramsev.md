@@ -6,7 +6,7 @@ title = "चक्रं सेव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चक्रं सेव्यं नृपः सेव्यो न सेव्यः केवलो नृपः।  
 पश्य चक्रस्य माहात्म्यं मृत्पिण्डः पात्रतां गतः॥

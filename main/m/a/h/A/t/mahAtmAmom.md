@@ -6,7 +6,7 @@ title = "महात्मानोऽनुगृह्णन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महात्मानोऽनुगृह्णन्ति भजमानान् रिपूनपि।  
 सपत्नीः प्रापयन्त्यब्धिं सिन्धवो नगनिम्नगाः॥

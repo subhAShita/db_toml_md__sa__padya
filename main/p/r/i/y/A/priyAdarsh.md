@@ -7,7 +7,7 @@ title = "प्रियादर्शनमेवास्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रियादर्शनमेवास्तु किमन्यैर्दर्शनान्तरैः।  
 प्राप्यते येन निर्वाणं सरागेणापि चेतसा॥

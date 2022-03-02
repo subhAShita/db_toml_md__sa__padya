@@ -5,7 +5,7 @@ title = "ॐकारशब्दो विप्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ॐकारशब्दो विप्राणां यस्य राष्ट्रे प्रवर्तते।  
 स राजा हि भवेद् योगी व्याधिभिश्च न पीड्यते॥

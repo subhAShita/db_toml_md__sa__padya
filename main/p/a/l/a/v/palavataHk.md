@@ -6,7 +6,7 @@ title = "पल्लवतः कल्पतरोरेष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पल्लवतः कल्पतरोरेष विशेषः करस्य ते वीर।  
 भूषयति कर्णमेकः परस्तु कर्णं तिरस्कुरुते॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3404", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 38",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
-title = "अविश्वसन्धूर्तधुरन्धरोऽपि"
+jsonClass = "Subhaashita"
+title = "अविश्वसन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविश्वसन् धूर्तधुरंधरोऽपि नरः पुरंध्रीपुरतोऽन्ध एव।  
 अशेषशिक्षाकुशलोऽपि काकः प्रतार्यते किं न पिकाङ्गनाभिः॥

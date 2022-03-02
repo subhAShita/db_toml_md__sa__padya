@@ -6,7 +6,7 @@ title = "केषाञ्चिद्वाचि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केषाञ्चिद्वाचि शुकवत्परेषां हृदि मूकवत्।  
 कस्याप्या हृदयाद्वक्त्रे वल्गु वल्गन्ति सूक्तयः॥

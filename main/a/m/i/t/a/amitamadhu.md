@@ -5,7 +5,7 @@ title = "अमितं मधु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमितं मधु तत्कथा मम श्रवणप्राघुणकीकृता जनैः।  
 मदनानलबोधने भवेत् खग धाय्या धिगधैर्यधारिणः॥

@@ -6,7 +6,7 @@ title = "चलत्तरङ्गरङ्गायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चलत्तरङ्गरङ्गायां गङ्गायां प्रतिबिम्बितम्।  
 सचन्द्रं शोभतेऽत्यर्थं शतचन्द्रं नभस्तलम्॥

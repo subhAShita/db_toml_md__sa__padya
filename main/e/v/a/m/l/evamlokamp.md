@@ -5,7 +5,7 @@ title = "एवं लोकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं लोकं परं विद्यान् नश्वरं कर्मनिर्मितम्।  
 सतुल्यातिशयध्वंसं यथा मण्डलवर्तिनाम्॥

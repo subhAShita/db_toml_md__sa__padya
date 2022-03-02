@@ -6,7 +6,7 @@ title = "न संशयमनारुह्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न संशयमनारुह्य नरो भद्राणि पश्यति।  
 संशयं पुनरारुह्य यदि जीवति पश्यति॥

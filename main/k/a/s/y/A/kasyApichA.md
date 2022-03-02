@@ -5,7 +5,7 @@ title = "कस्यापि चाग्रतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्यापि चाग्रतो नैव प्रकाश्यः स्वगुणः स्वयम्।  
 अतुच्छत्वेन तुच्छोऽपि वाच्यः परगुणः पुनः॥

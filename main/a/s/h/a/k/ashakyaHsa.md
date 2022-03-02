@@ -5,7 +5,7 @@ title = "अशक्यः सहसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशक्यः सहसा राजन् भावो वेत्तुं परस्य वै।  
 अन्तःस्वभावैर्गीतैस्तैर् नैपुण्यं पश्यता भृशम्॥

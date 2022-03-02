@@ -6,7 +6,7 @@ title = "लुब्धः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लुब्धः स्तब्धोऽनृजुर्मूर्खः प्रभुरेकान्तदारुणः।  
 बहूनेष खलः साधून्मारयित्वा मरिष्यति॥

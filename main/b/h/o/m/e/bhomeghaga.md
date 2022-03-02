@@ -8,7 +8,7 @@ title = "भो मेघ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भो मेघ गम्भीरतरं नद त्वं तव प्रसादात्स्मरपीडितं मे।  
 संस्पर्शरोमाञ्चितजातरागं कदम्बपुष्पत्वमुपैति गात्रम्॥

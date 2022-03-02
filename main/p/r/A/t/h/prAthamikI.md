@@ -6,7 +6,7 @@ title = "प्राथमिकी घनवृष्टिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राथमिकी घनवृष्टिः प्राप्ता शिखिनो निदाघतप्तस्य।  
 आकस्मिकेन सा पुनरपनीता क्वापि पवनेन॥

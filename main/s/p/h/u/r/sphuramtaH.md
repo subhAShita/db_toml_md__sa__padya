@@ -7,7 +7,7 @@ title = "स्फुरन्तः पिङ्गलाभासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्फुरन्तः पिङ्गलाभासो धरण्यामिन्द्रगोपकाः।  
 सरक्तवान्तपान्थस्त्रीजीवा इव चकाशिरे॥

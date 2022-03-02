@@ -6,7 +6,7 @@ title = "अव्युत्पत्तिकृतो दोषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्युत्पत्तिकृतो दोषः शक्त्या संव्रियते कवेः ।  
 यस्त्वशक्तिकृतो दोषः स झटित्यवभासते ॥

@@ -6,7 +6,7 @@ title = "लब्धास्पदोऽस्मीति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लब्धास्पदोऽस्मीति विवादभीरोस्-  
 तितिक्षमाणस्य परेण निन्दाम्।  

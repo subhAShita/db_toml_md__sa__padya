@@ -6,7 +6,7 @@ title = "हे कूप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हे कूप त्वं चिरं जीव स्वल्पतोये बहुव्ययः।  
 गुणवद्रिक्तपात्राणि प्राप्नुवन्ति हि पूर्णताम्॥

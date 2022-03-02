@@ -6,7 +6,7 @@ title = "मा भैष्ट"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा भैष्ट नैते निस्त्रिंशा नीलोत्पलदलत्विषः।  
 एते वीरावलोकिन्या लक्ष्म्या नवनवभ्रमाः॥

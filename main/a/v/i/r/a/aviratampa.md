@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3366", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 189",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "अविरतं परकार्यकृताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरतं परकार्यकृतां सतां मधुरिमातिशयेन वचोऽमृतम्।  
 अपि च मानसमम्बुनिधिर्यशो विमलशारदचन्दिरचन्द्रिका॥

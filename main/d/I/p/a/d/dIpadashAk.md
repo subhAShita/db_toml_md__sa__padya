@@ -7,7 +7,7 @@ title = "दीपदशा कुलयुवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीपदशा कुलयुवती वैदग्ध्येनैव मलिनतामेति।  
 दोषा अपि भूषायै गणिकायाः शशिकलायाश्च॥

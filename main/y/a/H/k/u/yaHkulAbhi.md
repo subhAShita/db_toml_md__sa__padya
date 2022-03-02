@@ -6,7 +6,7 @@ title = "यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः कुलाभिजनाचारैरतिशुद्धः प्रतापवान्।  
 धार्मिको नीतिकुशलः स स्वामी युज्यते भुवि॥

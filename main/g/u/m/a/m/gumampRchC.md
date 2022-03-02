@@ -1,13 +1,13 @@
 +++
 topics = [ "नीतिः", "गुणः", "कुलम्", "रूपम्", "विद्या", "सिद्धिः", "सुखम्", "धनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 645",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "गुणं पृच्छस्व"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणं पृच्छस्व मा रूपं शीलं पृच्छस्व मा कुलम्।  
 सिद्धिं पृच्छस्व मा विद्यां भोगं पृच्छस्व मा धनम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5654", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०२ चन्द्रान्योक्तयः// 23",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - चन्द्रः",]
+jsonClass = "Subhaashita"
 title = "आस्ते विधुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्ते विधुः परमनिर्वृत एव मौलौ शंभोरिति त्रिजगतीजनचित्तवृत्तिः।  
 अन्तर्निगूढनयनानलदाहदुःखं जानाति कः परमृते बत शीतरश्मेः॥

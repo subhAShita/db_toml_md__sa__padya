@@ -6,7 +6,7 @@ title = "परिवर्तिनि संसारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिवर्तिनि संसारे मृतः को वा न जायते ।  
 स जातो येन जातेन याति वंशः समुन्नतिम् ॥

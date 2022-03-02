@@ -5,7 +5,7 @@ title = "अनिर्वाच्यमनिर्भिन्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्वाच्यमनिर्भिन्नम् अपरिच्छिन्नमव्ययम्।  
 ब्रह्मेव सुजनप्रेम दुःखमूलनिकृन्तनम्॥

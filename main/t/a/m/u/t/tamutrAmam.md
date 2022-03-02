@@ -6,7 +6,7 @@ title = "तनुत्राणं तनुत्राणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तनुत्राणं तनुत्राणं शस्त्रं शस्त्रं रथो रथः।  
 इति शुश्रुविरे विष्वगुद्भटाः सुभटोक्तयः॥

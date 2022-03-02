@@ -7,7 +7,7 @@ title = "वेदानां सामवेदोऽस्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदानां सामवेदोऽस्मि देवानामस्मि वासवः।  
 इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना॥

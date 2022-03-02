@@ -5,7 +5,7 @@ title = "अकृतयं नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृतयं नैव कृत्यं स्यात् प्राणत्यागेऽप्युपस्थिते।  
 न च कृत्यं परित्याज्यम् एष धर्मः सनातनः॥

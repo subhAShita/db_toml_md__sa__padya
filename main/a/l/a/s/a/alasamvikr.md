@@ -5,7 +5,7 @@ title = "अलसं विक्रमश्रान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलसं विक्रमश्रान्तं विहतोपायचेष्टितम्।  
 क्षयव्ययप्रवासैश्च श्रमेण विपरिद्रुतम्॥

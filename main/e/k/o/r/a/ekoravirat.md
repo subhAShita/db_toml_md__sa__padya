@@ -5,7 +5,7 @@ title = "एको रविरतितेजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको रविरतितेजा अतिशूरः केसरी वने वासी।  
 अतिविपुलं खं शून्यं ह्यतिगम्भीरोऽम्बुधिः क्षारः॥

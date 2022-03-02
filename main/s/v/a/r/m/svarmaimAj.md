@@ -6,7 +6,7 @@ title = "स्वर्णैणाजिनशयनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वर्णैणाजिनशयनो योजितनयनो दशास्यदिग्भागे।  
 मुहुरवलोकितचापः कोऽपि दुरापः स नीलिमा शरणम्॥

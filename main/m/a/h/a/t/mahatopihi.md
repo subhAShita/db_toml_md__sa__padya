@@ -6,7 +6,7 @@ title = "महतोऽपि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतोऽपि हि विश्वासान् महाशया दधति नाल्पमपि लाघवः।  
 सम्वृणुतेऽद्रीनुदधिर्निदाघनद्यो न भेकमपि॥

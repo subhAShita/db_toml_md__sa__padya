@@ -5,7 +5,7 @@ title = "कालव्यालहतं वीक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालव्यालहतं वीक्ष्य पतन्तं भानुमम्बरात्।  
 ओषधीशं समादाय धावतीव पितृप्रसूः॥

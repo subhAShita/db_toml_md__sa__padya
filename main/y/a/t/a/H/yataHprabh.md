@@ -7,7 +7,7 @@ title = "यतःप्रभृति ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यतःप्रभृति ते कान्तं मुखमालोकितं मया।  
 कामः कामं ममाङ्गानि व्यथयत्यभितः शरैः॥

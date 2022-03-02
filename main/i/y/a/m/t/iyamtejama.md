@@ -5,7 +5,7 @@ title = "इयं ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं ते जननी प्राप्ता त्वदालोकनतत्परा।  
 स्नेहप्रस्नवनिर्भिन्नम् उद्वहन्ती स्तनद्वयम्॥

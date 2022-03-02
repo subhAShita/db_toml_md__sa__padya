@@ -6,7 +6,7 @@ title = "भोजनान्ते च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोजनान्ते च किं पेयं जयन्तः कस्य वै सुतः।  
 कथं विष्णुपदं प्रोक्तं तक्रं शक्रस्य दुर्लभम्॥

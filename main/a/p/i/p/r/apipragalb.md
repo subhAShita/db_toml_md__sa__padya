@@ -5,7 +5,7 @@ title = "अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि प्रगल्भललनाकटाक्षचपलाः श्रियः।  
 सन्मन्त्रिप्रणिधानेन चिरं तिष्ठन्ति भूभुजाम्॥

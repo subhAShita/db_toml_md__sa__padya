@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8482", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०१ ग्रीष्मसमयस्वभावाख्यानम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "ग्रीष्मः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कथमिव तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथमिव तव संमतिर्भवित्री सममृतुभिर्मुनिनावधीरितस्य।  
 इति विरचितमल्लिकाविकासः स्मयत इव स्म मधुं निदाघकालः॥

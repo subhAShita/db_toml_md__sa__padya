@@ -6,7 +6,7 @@ title = "दृढतरनिबद्धमुष्टेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृढतरनिबद्धमुष्टेः कोशनिषण्णस्य सहजमलिनस्य।  
 कृपणस्य कृपाणस्य च केवलमाकारतो भेदः॥

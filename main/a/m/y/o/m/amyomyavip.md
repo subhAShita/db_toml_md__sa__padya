@@ -5,7 +5,7 @@ title = "अन्योन्यविपरीतानि मतानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्योन्यविपरीतानि मतानि मनसः सदा।  
 अविद्यायां पुनः सत्ये ज्ञानस्योच्चतरस्य हि।  

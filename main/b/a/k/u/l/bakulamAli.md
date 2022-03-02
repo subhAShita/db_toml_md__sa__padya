@@ -7,7 +7,7 @@ title = "बकुलमालिकयापि मया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बकुलमालिकयापि मया न सा तनुरभूषि तदन्तरभीरुणा।  
 तदधुना विधिना कृतमावयोर्गिरिदरीनगरीशतमन्तरम्॥

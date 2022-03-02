@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4369", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३४ नायकागमनावस्थावर्णनम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "नायकागमः",]
 rasas = [ "शृङ्गारः",]
-title = "आगच्छन्सूचितो येन"
+jsonClass = "Subhaashita"
+title = "आगच्छन् सूचितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगच्छन् सूचितो येन येनानीतो गृहं प्रति।  
 प्रथमं सखि कः पूज्यः किं काकः किं क्रमेलकः॥

@@ -6,7 +6,7 @@ title = "निजसौख्यं निरुन्धानो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजसौख्यं निरुन्धानो यो धनार्जनमिच्छति।  
 परार्थं भारवाहीव क्लेशस्यैव हि भाजनम्॥

@@ -5,7 +5,7 @@ title = "आत्मानं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं च जगत् सर्वं दृशा नित्याविभिन्नया।  
 चिदाकाशमयं ध्यायन् योगी याति परां गतिम्॥

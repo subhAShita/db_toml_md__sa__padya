@@ -5,7 +5,7 @@ title = "कर्तुमकर्तुं शक्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्तुमकर्तुं शक्तः सकलं जगदेतदन्यथाकर्तुम्।  
 यस्तं विहाय रामं कामं मा धेहि मानसान्यस्मिन्॥

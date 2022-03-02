@@ -5,7 +5,7 @@ title = "अन्धकं कुब्जकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धकं कुब्जकं चैव कुष्ठाङ्गं व्याधिपीडितम्।  
 आपद्गतं च भर्तारं न त्यजेत् सा महासती॥

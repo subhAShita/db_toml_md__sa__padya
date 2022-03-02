@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1166", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// 10",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः",]
+jsonClass = "Subhaashita"
 title = "अध्वन्यध्वनि तरवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अध्वन्यध्वनि तरवः पथि पथि पथिकैरुपास्यते छाया।  
 विरलः स कोऽपि विटपी यमध्वगो गृहगतः स्मरति॥

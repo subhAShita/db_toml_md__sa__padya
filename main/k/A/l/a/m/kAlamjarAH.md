@@ -5,7 +5,7 @@ title = "कालञ्जराः भारसहास्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालञ्जराः भारसहास् तेषां वक्ष्यामि लक्षणम्।  
 शतार्धमङ्गुलानां तु श्रेष्ठं खड्गं प्रकीर्तितम्॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7405", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०१ मनसिजप्रशंसा// 2",]
-jsonClass = "Subhaashita"
 topics = [ "कामदेवः", "कामः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एकं वस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं वस्तु द्विधा कर्तुं बहवः सन्ति धन्विनः।  
 धन्वी स मार एवैको द्वयोरैक्यं करोति यः॥

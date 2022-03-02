@@ -5,7 +5,7 @@ title = "उपेत्य धीयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपेत्य धीयते यस्माद् उपधेति ततः स्मृता।  
 उपाय उपधा ज्ञेया तयामात्यान् परीक्षयेत्॥

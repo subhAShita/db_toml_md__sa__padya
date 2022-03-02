@@ -6,7 +6,7 @@ title = "नीलोत्पलाभनयनाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीलोत्पलाभनयनाः परमप्रेमभूषणम्।  
 हासायैव विलासिन्यः क्षणभङ्गितया स्थिताः॥

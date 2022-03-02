@@ -6,7 +6,7 @@ title = "न नरस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न नरस्य नरो दासो दासश्चार्थस्य भूपते।  
 गौरवं लाघवं वापि धनाधननिबन्धनम्॥

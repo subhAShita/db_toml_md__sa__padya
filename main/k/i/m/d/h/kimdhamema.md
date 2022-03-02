@@ -6,7 +6,7 @@ title = "किं धनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं धनेन कुबेरस्य सुभाषितगुणेन किम्।  
 वाचस्पतेश्च दीपेन रवेः सिन्धोश्च बिन्दुना॥

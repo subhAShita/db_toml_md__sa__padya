@@ -5,7 +5,7 @@ title = "आरिराधयिषुः सम्यग्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरिराधयिषुः सम्यग् अनुजीवी महीपतिम्।  
 विद्याविनयशिल्पाद्यैर् आत्मानमुपपादयेत्॥

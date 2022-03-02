@@ -5,7 +5,7 @@ title = "अर्थयेदेव मित्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थयेदेव मित्राणि सति वासति वा धने।  
 नानर्थयन् विजानाति मित्राणां सारफल्गुताम्॥

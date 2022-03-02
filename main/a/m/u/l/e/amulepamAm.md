@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1506", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३० तमोवर्णनम्// 20",]
-jsonClass = "Subhaashita"
 topics = [ "तमः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनुलेपनानि कुसुमान्यबलाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुलेपनानि कुसुमान्यबलाः कृतमन्यवः पतिषु दीपशिखाः।  
 समयेन तेन चिरसुप्तमनो- भवबोधनं सममबोधिषत॥

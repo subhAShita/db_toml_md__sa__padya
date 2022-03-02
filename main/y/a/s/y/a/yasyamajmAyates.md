@@ -6,7 +6,7 @@ title = "यस्य न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य न ज्ञायते शीलं कुलं विद्या नरस्य च।  
 कस्तेन सह विश्वासं पुमान्कुर्याद्विचक्षणः॥

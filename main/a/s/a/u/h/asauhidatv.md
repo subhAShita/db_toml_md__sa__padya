@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3810", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५६ चन्द्रास्तसमयवर्णनम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "चन्द्रः", "चन्द्रास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असौ हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असौ हि दत्त्वा तिमिरावकाशम् अस्तं व्रजत्युन्नतकोटिरिन्दुः।  
 जलावगाढस्य वनद्विपस्य तीक्ष्णं विषाणाग्रमिवावशिष्टम्॥

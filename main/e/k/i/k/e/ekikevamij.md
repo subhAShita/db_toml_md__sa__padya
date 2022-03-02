@@ -5,7 +5,7 @@ title = "एकिकेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकिकेव निजवृन्दमध्यगाप्य् उच्चुकूज सभयं सितच्छदी।  
 दन्तमूलमसकृच्च संशयाद् आममर्श करिणः करेणुका॥

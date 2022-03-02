@@ -6,7 +6,7 @@ title = "हनूमति हतारामे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हनूमति हतारामे वानरा हर्षनिर्भराः।  
 रुदन्ति राक्षसाः सर्वे हाहाराम हताः हताः॥

@@ -7,7 +7,7 @@ title = "किमिति कृशासि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमिति कृशासि कृशोदरि किं तव परकीयवृत्तान्तैः।  
 कथय तथापि मुदे मम कथयिष्यति पान्थ तव जाया॥

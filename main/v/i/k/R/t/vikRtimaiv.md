@@ -6,7 +6,7 @@ title = "विकृतिं नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विकृतिं नैव गच्छन्ति सङ्गदोषेण साधवः।  
 आवेष्टितं महासर्पैश्चन्दनं न विषायते॥

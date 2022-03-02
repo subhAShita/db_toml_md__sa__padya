@@ -6,7 +6,7 @@ title = "नलिनीदलगतजलवत्तरलं किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नलिनीदलगतजलवत्तरलं किं यौवनं धनं चायुः।  
 के शशधरकरनिकरानुकारिणः सज्जना एव॥

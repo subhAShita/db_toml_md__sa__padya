@@ -6,7 +6,7 @@ title = "धनमस्तीति वाणिज्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनमस्तीति वाणिज्यं किञ्चिदस्तीति कर्षणम्।  
 सेवा न किञ्चिदस्तीति भिक्षा नैव च नैव च॥

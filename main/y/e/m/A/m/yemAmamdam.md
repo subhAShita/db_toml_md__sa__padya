@@ -6,7 +6,7 @@ title = "येनामन्दमरन्दे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येनामन्दमरन्दे दलदरविन्दे दिनान्यनायिषत।  
 कुटजे खलु तेनेहा तेने हा मधुकरेण कथम्॥

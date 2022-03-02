@@ -5,7 +5,7 @@ title = "कर्तव्यं त्वेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्तव्यं त्वेव कर्मेति मनोरेष विनिश्चयः।  
 एकान्तेन ह्यनीहोऽयं पराभवति पूरुषः॥

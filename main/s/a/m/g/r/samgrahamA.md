@@ -6,7 +6,7 @@ title = "सङ्ग्रहं नाकुलीनस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्ग्रहं नाकुलीनस्य सर्पस्येव करोति यः।  
 स एव श्लाघ्यते मन्त्री सम्यग्गारुडिको यथा॥

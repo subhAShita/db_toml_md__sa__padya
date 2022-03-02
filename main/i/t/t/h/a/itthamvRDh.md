@@ -5,7 +5,7 @@ title = "इत्थं वृढतरवामित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं वृढतरवामित- मनसां पुंसामसांप्रतं पुरतः।  
 वेशविलासवतीनाम् अशरीरशरव्यथाकथनम्॥

@@ -5,7 +5,7 @@ title = "अन्ये च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्ये च बहवो रागा जाता देशविशेषतः।  
 मारूप्रभृतयो लोके ते च तद् देशिकाः स्मृताः॥

@@ -7,7 +7,7 @@ title = "यासामञ्चलवातेन दीपो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यासामञ्चलवातेन दीपो निर्वाणतां गतः।  
 तासामालिङ्गने पुंसां नरके पतनं कुतः॥

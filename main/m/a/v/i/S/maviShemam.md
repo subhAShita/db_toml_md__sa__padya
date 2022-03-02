@@ -7,7 +7,7 @@ title = "न विषेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विषेण न शस्त्रेण नाग्निना न च मृत्युना।  
 अप्रतीकारपारुष्याः स्त्रीभिरेव स्त्रियः कृताः॥

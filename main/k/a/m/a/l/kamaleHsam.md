@@ -5,7 +5,7 @@ title = "कमलेः समकेशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलेः समकेशं ते कमलेर्ष्याकरं मुखम्।  
 कमलेख्यं करोषि त्वं कमलेवोन्मदिष्णुषु॥

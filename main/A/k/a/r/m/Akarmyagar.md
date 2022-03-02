@@ -5,7 +5,7 @@ title = "आकर्ण्य गर्जितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकर्ण्य गर्जितं घोरं जलदानां समागमे।  
 बाला विधूतलज्जेव सत्रासं श्लिष्यति प्रियम्॥

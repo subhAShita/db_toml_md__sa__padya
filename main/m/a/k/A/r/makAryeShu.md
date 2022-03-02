@@ -7,7 +7,7 @@ title = "न कार्येषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कार्येषु न भोगेषु नैश्वर्ये न सुखे तथा।  
 स्पृहा स्याच्च यथा भर्तुः सा नारी सुखभागिनी॥

@@ -5,7 +5,7 @@ title = "एकोऽपि गुणवान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोऽपि गुणवान् पुत्रो निर्गुणेन शतेन किम्।  
 एकश्चन्द्रस् तमो हन्ति न च ताराः सहस्रशः॥

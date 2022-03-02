@@ -6,7 +6,7 @@ title = "तेनाधीतं श्रुतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तेनाधीतं श्रुतं तेन तेन सर्वमनुष्ठितम्।  
 येनाशाः पृष्ठतः कृत्वा नैराश्यमवलम्बितम्॥

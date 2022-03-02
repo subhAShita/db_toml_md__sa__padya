@@ -6,7 +6,7 @@ title = "श्रुतिमपरे स्मृतिमपरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रुतिमपरे स्मृतिमपरे भारतमपरे भजन्तु भवभीताः।  
 अहमिह नन्दं वन्दे यस्यालिन्दे परं ब्रह्म॥

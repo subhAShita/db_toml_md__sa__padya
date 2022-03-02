@@ -5,7 +5,7 @@ title = "अहो कथमसीमेदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो कथमसीमेदं हिमनाम विजृम्भते।  
 चरत्येव सहस्रांशौ धवलं तिमिरान्तरम्॥

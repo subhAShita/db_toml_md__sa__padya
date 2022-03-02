@@ -5,7 +5,7 @@ title = "अप्स्वात्मानं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्स्वात्मानं न वीक्षेत नावगाहेत् पयोरयम्।  
 संदिग्धनावं नारोहेन् न बाहुभ्यां नदीं तरेत्॥

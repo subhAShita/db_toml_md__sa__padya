@@ -6,7 +6,7 @@ title = "तरत्तरलतृष्णेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरत्तरलतृष्णेन किमिवास्मिन्धरातले।  
 मया न कृतमज्ञेन पश्चात्तापाभिवृद्धये॥

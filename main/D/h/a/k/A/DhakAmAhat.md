@@ -7,7 +7,7 @@ title = "ढक्कामाहत्य मदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ढक्कामाहत्य मदं वितन्वते करिण इव चिरं पुरुषाः।  
 स्त्रीणां करिणीनामिव मदः पुनः स्वकुलनाशाय॥

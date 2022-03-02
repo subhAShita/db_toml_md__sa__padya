@@ -5,7 +5,7 @@ title = "कलकलमपरा मुधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलकलमपरा मुधा विधाय क्षितितिलकान् नयनान्तमाससाद।  
 अवतरति मृगीदृशां तृतीयं मनसिजचक्षुरुपायदर्शनेषु॥

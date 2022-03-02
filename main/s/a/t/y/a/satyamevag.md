@@ -7,7 +7,7 @@ title = "सत्यमेव गदितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यमेव गदितं त्वया विभो जीव एक इति यत्पुरावयोः।  
 अन्यदारनिहिता नखव्रणास्तावके वपुषि पीडयन्ति माम्॥

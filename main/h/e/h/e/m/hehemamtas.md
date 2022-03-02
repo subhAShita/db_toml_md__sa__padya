@@ -7,7 +7,7 @@ title = "हे हेमन्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हे हेमन्त स्मरिष्यामि त्वय्यतीते गुणद्वयम्।  
 अयत्नशीतलं वारि निशाश्च सुरतक्षमाः॥

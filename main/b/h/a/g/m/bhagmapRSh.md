@@ -6,7 +6,7 @@ title = "भग्नपृष्ठकटिग्रीवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भग्नपृष्ठकटिग्रीवं स्तब्धदृष्टिरधोमुखम् ।  
 कष्टेन लिखितं ग्रन्थं यत्नेन परिपालयेत् ॥

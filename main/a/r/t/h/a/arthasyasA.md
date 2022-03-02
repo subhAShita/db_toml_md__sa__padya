@@ -5,7 +5,7 @@ title = "अर्थस्य साधने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थस्य साधने सिद्ध उत्कर्षे रक्षणे व्यये।  
 नाशोपभोग आयासस् त्रासश्चिन्ता भ्रमो नृणाम्॥

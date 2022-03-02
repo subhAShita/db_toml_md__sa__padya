@@ -6,7 +6,7 @@ title = "शून्येऽपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शून्येऽपि च गुणवत्तामातन्वानः स्वकीयगुणजालैः।  
 विवराणि मुद्रयन्द्रागूर्णायुरिव सज्जनो जयति॥

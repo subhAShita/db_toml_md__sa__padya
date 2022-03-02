@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7222", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 80",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "उरःस्थलं कोऽत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उरःस्थलं कोऽत्र विना पयोधरं बिभर्ति संबोधय मारुताशनम्।  
 वदन्ति कं पत्तनसंभवं जनाः फलं च किं गोपबधूकुचोपमभ्॥

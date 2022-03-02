@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3579", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 02 प्रहेलिकाः// 22",]
-jsonClass = "Subhaashita"
 types = [ "प्रहेलिका",]
-title = "अष्टपादश्चतुःकर्णो"
+jsonClass = "Subhaashita"
+title = "अष्टपादश्चतुष्कर्णो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टपादश्चतुष्कर्णो द्विमुखी द्विमुखस्तथा।  
 राजद्वारे पठेद् घोरो न च देवो न राक्षसः॥

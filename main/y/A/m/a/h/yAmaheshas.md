@@ -6,7 +6,7 @@ title = "या महेशशिरसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या महेशशिरसो विभूषणं या त्रिलोकजनलोचनोत्सवः।  
 सेयमिन्दुकलिका दिनात्यये तापिता कमिह नातितापयेत्॥

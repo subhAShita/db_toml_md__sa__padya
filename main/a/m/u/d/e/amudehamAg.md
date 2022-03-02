@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1464", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४५ परस्परप्रसादः// 5",]
-jsonClass = "Subhaashita"
 topics = [ "परस्परप्रसादः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनुदेहमागतवतः प्रतिमाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुदेहमागतवतः प्रतिमां परिणायकस्य गुरुमुद्वहता।  
 मुकुरेण वेपथुभृतोऽतिभरात् कथमप्यपाति न वधूकरतः॥

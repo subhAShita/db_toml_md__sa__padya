@@ -7,7 +7,7 @@ title = "दत्त्वा कटाक्षमेणाक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दत्त्वा कटाक्षमेणाक्षी जग्राह हृदयं मम।  
 मया तु हृदयं दत्त्वा गृहीतो मदनज्वरः॥

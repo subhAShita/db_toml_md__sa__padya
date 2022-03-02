@@ -7,7 +7,7 @@ title = "स्मितपुष्पोद्गमोऽयं ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मितपुष्पोद्गमोऽयं ते दृश्यतेऽधरपल्लवे।  
 फलं तु जातं मुग्धाक्षि चक्षुषोर्मम पश्यतः॥

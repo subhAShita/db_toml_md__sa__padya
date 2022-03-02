@@ -6,7 +6,7 @@ title = "राः पुण्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राः पुण्यं च कलत्राणि पुत्रोत्पत्तिर्निधिस्तथा।  
 सुकृतादेव लभ्यन्ते नैव पार्थपराक्रमात्॥

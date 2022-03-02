@@ -5,7 +5,7 @@ title = "एतस्य कलामेकाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतस्य कलामेकाम् अमृतमयूखस्य पार्वतीरमणः।  
 वर्णावलिमिव वहति प्रतिमासं घट्यमानस्य॥

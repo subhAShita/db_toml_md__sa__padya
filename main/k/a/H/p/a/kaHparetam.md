@@ -5,7 +5,7 @@ title = "कः परेतनगरीपुरन्दरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः परेतनगरीपुरंदरः को भवेदथ तदीयकिंकरः।  
 कृष्णनाम जगदेकमङ्गलं कण्ठपीठमुररीकरोति चेत्॥

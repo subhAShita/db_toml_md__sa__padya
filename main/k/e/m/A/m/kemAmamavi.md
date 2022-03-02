@@ -7,7 +7,7 @@ title = "के नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 के नाम न विनश्यन्ति मिथ्याज्ञानान्नितम्बिनीम्।  
 रम्यां बुद्ध्वोपसर्पन्ति ये ज्वालां शलभा इव॥

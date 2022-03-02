@@ -6,7 +6,7 @@ title = "लक्ष्मीसम्पर्कजातोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लक्ष्मीसम्पर्कजातोऽयं दोषः पद्मस्य निश्चितम्।  
 यदेष गुणसन्दोहधाम्नि चन्द्रे पराङ्मुखः॥

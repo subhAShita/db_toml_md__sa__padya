@@ -7,7 +7,7 @@ title = "सन्तोषः परमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तोषः परमो लाभः सत्सङ्गः परमा गतिः।  
 विचारः परमं ज्ञानं शमो हि परमं सुखम्॥

@@ -6,7 +6,7 @@ title = "सम्यगनिष्पन्नः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्यगनिष्पन्नः सन्योऽर्थस्त्वरया स्फुटीक्रियते।  
 स व्यङ्ग्य एव भवति प्रथमो विनतातनूज इव॥

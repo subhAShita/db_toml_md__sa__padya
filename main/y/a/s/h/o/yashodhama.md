@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// १२ नरहरिः// 23",]
-jsonClass = "Subhaashita"
 topics = [ "नरहरिः",]
+jsonClass = "Subhaashita"
 title = "यशोधननिधेर्यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यशोधननिधेर्यदा नरहरिर्वचो वर्ण्यते तदा गतमदा मदालसमरालबालारवाः।  
 न विभ्रमचरीकरीभवति चाधरी माधुरी सुधाकरसुधाझरीमधुकथा वृथा जायते॥

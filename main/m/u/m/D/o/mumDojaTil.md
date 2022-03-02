@@ -6,7 +6,7 @@ title = "मुण्डो जटिलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुण्डो जटिलो नग्नश्छत्त्री दण्डी कषायचीरी वा।  
 भस्मस्मेरशरीरो दिशि दिशि भोगी विजृम्भते दम्भः॥

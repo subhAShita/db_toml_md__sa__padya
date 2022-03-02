@@ -7,7 +7,7 @@ title = "तस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्याः कचभरव्याजात्तनयस्नेहलालितः।  
 आरूढः पार्वतीबुद्ध्या गुहबर्हीव मूर्धनि॥

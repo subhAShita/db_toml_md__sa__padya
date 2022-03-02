@@ -7,7 +7,7 @@ title = "यो मोहान्मन्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यो मोहान्मन्यते मूढो रक्तेयं मम कामिनी।  
 स तस्या वशगो नित्यं भवेत्क्रीडाशकुन्तवत्॥

@@ -7,7 +7,7 @@ title = "नास्ति चोराद्भयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति चोराद्भयं यस्य  
 न विमर्शकतो भयम् ।  

@@ -7,7 +7,7 @@ title = "न स्त्रीणामप्रियः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न स्त्रीणामप्रियः कश्चित्प्रियो वापि न विद्यते।  
 गावस्तृणमिवारण्ये प्रार्थयन्ति नवं नवम्॥

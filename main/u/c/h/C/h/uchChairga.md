@@ -7,7 +7,7 @@ title = "उच्छैर्गतिर्जगति सिध्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्छैर्गतिर्जगति सिध्यति धर्मतश्चेत्  
 तस्य प्रमा च वचनैः कृतकेतरैश्चेत् ।  

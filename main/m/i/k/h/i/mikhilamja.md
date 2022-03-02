@@ -6,7 +6,7 @@ title = "निखिलं जगदेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निखिलं जगदेव नश्वरं पुनरस्मिन्नितरां कलेवरम्।  
 अथ तस्य कृते कियानयं क्रियते हन्त जनैः परिश्रमः॥

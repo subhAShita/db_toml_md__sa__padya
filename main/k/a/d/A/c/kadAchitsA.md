@@ -5,7 +5,7 @@ title = "कदाचित् साधुतामेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदाचित् साधुतामेति पुरः शिशुरसन्मतिः।  
 प्राक् पाण्डुपत्राः कुत्रापि चोयन्ते चारुभूरुहाः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5576", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// 172",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "मुखम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आसायं सलिलभरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसायं सलिलभरे सवितारमुपास्य सादरं तपसा।  
 अधुनाब्जेन मनाक् तव मानिनि तुलना मुखस्याप्ता॥

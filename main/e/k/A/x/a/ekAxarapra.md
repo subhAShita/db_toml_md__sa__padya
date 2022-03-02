@@ -5,7 +5,7 @@ title = "एकाक्षरप्रदातारं यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकाक्षरप्रदातारं यो गुरुं नैव मन्यते।  
 श्वानयोनिशतं गत्वा चाण्डालेष्वभिजायते॥

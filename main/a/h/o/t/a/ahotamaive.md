@@ -5,7 +5,7 @@ title = "अहो तम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो तम इवेदं स्यान् न प्रज्ञायेत किंचन।  
 राजा चेन्न भवेल्लोके विभजन् साध्वसाधुनी॥

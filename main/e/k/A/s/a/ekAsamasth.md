@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7642", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २० कुगणकनिन्दा// 2",]
-jsonClass = "Subhaashita"
 topics = [ "ज्योतिषिकः",]
+jsonClass = "Subhaashita"
 title = "एकासनस्था जलवायुभक्षा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकासनस्था जलवायुभक्षा मुमुक्षवस् त्यक्तपरिग्रहाश्च।  
 पृच्छन्ति तेऽप्यम्बरचारिचारं दैवज्ञमन्ये किमुतार्थचित्ताः॥

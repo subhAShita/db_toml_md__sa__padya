@@ -6,7 +6,7 @@ title = "सम्सेवितभृगुतुङ्गम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्सेवितभृगुतुङ्गं विद्योतितवेदवेदाङ्गम्।  
 परिनर्तितभवरङ्गं मनसिजभङ्गं समाश्रये लिङ्गम्॥

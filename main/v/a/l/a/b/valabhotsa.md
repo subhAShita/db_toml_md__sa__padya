@@ -7,7 +7,7 @@ title = "वल्लभोत्सङ्गसङ्गेन विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वल्लभोत्सङ्गसङ्गेन विना हरिणचक्षुषः।  
 राकाविभावरीजानिर्विषज्वालाकुलोऽभवत्॥

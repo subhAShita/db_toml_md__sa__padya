@@ -5,7 +5,7 @@ title = "उपायं चिन्तयेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपायं चिन्तयेत् प्राज्ञो ह्यपायमपि चिन्तयेत्।  
 पश्यतो बकमूर्खस्य नकुलैर्भक्षिताः सुताः॥

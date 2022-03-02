@@ -5,7 +5,7 @@ title = "आरामुखेन वै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरामुखेन वै चर्म क्षुरप्रेण च कार्मुकम्।  
 सूचीमुखेन कवचम् अर्धचन्द्रेण मस्तकम्॥

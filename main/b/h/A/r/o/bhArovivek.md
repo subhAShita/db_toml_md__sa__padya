@@ -7,7 +7,7 @@ title = "भारो ऽविवेकिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भारो ऽविवेकिनः शास्त्रं   
 भारो ज्ञानं च रागिणः ।  

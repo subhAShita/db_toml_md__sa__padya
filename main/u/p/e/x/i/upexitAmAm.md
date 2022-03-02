@@ -5,7 +5,7 @@ title = "उपेक्षितानां मन्दानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपेक्षितानां मन्दानां धीरसत्त्वैरवज्ञया।  
 अत्रासितानां क्रोधान्धैर् भवत्येषा विकत्थना॥

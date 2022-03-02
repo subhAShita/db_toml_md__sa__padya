@@ -5,7 +5,7 @@ title = "अनुरक्तजनविरक्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुरक्तजनविरक्ता नम्रोत्सिक्ता विरक्तरागिण्यः।  
 वञ्चकवचनासक्ता नार्यः सद्भावशङ्किन्यः॥

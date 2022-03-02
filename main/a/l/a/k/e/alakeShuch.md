@@ -5,7 +5,7 @@ title = "अलकेषु चूर्णभासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलकेषु चूर्णभासः स्वेदलवाभान् कपोलफलकेषु।  
 नवघनकौतुकिनीनां वारिकणान् पश्यति कृतार्थः॥

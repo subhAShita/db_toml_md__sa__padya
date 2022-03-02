@@ -6,7 +6,7 @@ title = "सप्रतिबन्धं कार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सप्रतिबन्धं कार्यं प्रभुरधिगन्तुं सहायवानेव।  
 दृस्यं तमसि न पश्यति दीपेन विना सचक्षुरपि॥

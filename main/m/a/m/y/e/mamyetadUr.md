@@ -7,7 +7,7 @@ title = "मन्ये तदूरू"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्ये तदूरू सम्भाव्य हस्तसर्वस्वहारिणौ।  
 वहन्त्यस्पृश्यताहेतोर्मातङ्गत्वं मतङ्गजाः॥

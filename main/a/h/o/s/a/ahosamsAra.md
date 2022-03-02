@@ -5,7 +5,7 @@ title = "अहो संसारवैरस्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो संसारवैरस्यं वैरस्यकारणं स्त्रियः।  
 दोलालोला च कमला रोगाभोगगेहं देहम्॥

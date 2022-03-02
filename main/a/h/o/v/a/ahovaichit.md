@@ -5,7 +5,7 @@ title = "अहो वैचित्र्यमेतस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो वैचित्र्यमेतस्य संसारस्य किमुच्यते।  
 गुणोऽपि क्लेशहेतुः स्याद् विश्रान्तः कण्ठकन्दले॥

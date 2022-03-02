@@ -6,7 +6,7 @@ title = "मायामयः प्रकृत्यैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मायामयः प्रकृत्यैव रागद्वेषमदाकुलः।  
 महतामपि मोहाय संसार इव दुर्जनः॥

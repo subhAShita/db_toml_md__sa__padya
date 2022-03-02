@@ -5,7 +5,7 @@ title = "एते बहुविधाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते बहुविधाः शोका विलापरुदिते तथा।  
 वर्जनीया हि धीरेण सर्वावस्थासु धीमता॥

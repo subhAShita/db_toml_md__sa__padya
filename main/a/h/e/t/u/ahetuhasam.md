@@ -7,7 +7,7 @@ title = "अहेतुहसने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहेतुहसने हेतुरकृत्योत्साहने कृती।  
 मानसोन्मादनेऽमन्दो मदनो मुदमाप्नुयात्॥

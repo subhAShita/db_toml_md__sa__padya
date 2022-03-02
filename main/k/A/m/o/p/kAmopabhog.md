@@ -5,7 +5,7 @@ title = "कामोपभोगसाफल्यफलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामोपभोगसाफल्यफलो राज्ञां महीजयः।  
 अहङ्कारेण जीयन्ते द्विषन्तः किं नयश्रिया॥

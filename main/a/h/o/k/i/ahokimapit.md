@@ -5,7 +5,7 @@ title = "अहो किमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो किमपि ते शुद्धं यशःकुसुममुद्गतम्।  
 यस्यायममृतस्यन्दी बालेन्दुर्बाह्यपल्लवः॥

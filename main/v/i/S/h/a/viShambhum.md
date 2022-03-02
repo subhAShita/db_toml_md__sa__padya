@@ -6,7 +6,7 @@ title = "विषं भुङ्क्ष्व"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषं भुङ्क्ष्व महाराज स्वजनैः परिवारितः।  
 विना केन विना नाभ्यां कृष्णाजिनमकण्टकम्॥

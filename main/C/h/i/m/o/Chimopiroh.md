@@ -7,7 +7,7 @@ title = "छिन्नोऽपि रोहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छिन्नोऽपि रोहति तरुश्चन्द्रः क्षीणोऽपि वर्धते लोके।  
 इति विमृशन्तः सन्तः सन्तप्यन्ते न लोकेऽस्मिन्॥

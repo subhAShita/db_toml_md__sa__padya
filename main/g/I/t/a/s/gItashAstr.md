@@ -6,7 +6,7 @@ title = "गीतशास्त्रविनोदेन कालो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गीतशास्त्रविनोदेन कालो गच्छति धीमताम्।  
 व्यसनेन तु मूर्खाणां निद्रया कलहेन वा॥

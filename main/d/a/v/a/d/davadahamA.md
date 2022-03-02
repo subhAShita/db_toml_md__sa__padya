@@ -6,7 +6,7 @@ title = "दवदहनादुत्पन्नो धूमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दवदहनादुत्पन्नो धूमो घनतामवाप्य वर्षैस्तम्।  
 यच्छमयति तद्युक्तं सोऽपि च दवमेव निर्दहति॥

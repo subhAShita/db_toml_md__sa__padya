@@ -5,7 +5,7 @@ title = "आर्यता पुरुषज्ञानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्यता पुरुषज्ञानं शौर्यं करुणवेदिता।  
 स्थौललक्ष्यं च सततम् उदासीनगुणोदयः॥

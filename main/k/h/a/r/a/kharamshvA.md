@@ -6,7 +6,7 @@ title = "खरं श्वानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खरं श्वानं गजं मत्तं रण्डां च बहुभाषिणीम्।  
 राजपुत्रं कुमित्त्रं च दूरतः परिवर्जयेत्॥

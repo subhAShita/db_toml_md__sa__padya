@@ -5,7 +5,7 @@ title = "आयास्यसि कदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयास्यसि कदा कान्ते मदन्तकमयि प्रभे।  
 इति प्र्ष्टेन्दुवदनाच्छादयद् वाससा मुखम्॥

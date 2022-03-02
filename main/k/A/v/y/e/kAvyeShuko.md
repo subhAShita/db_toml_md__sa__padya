@@ -7,7 +7,7 @@ title = "काव्येषु कोमलधियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्येषु कोमलधियो वयमेव नान्ये  
 तर्केषु कर्कशधियो वयमेव।  

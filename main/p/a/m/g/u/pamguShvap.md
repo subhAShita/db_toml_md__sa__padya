@@ -7,7 +7,7 @@ title = "पङ्गुष्वपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पङ्गुष्वपि च देवर्षे ये चान्ये कुत्सिता जनाः।  
 स्त्रीणामगम्यो लोकेऽस्मिन्नास्ति कश्चिन् महामुने॥

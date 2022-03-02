@@ -5,7 +5,7 @@ title = "आकारश्छाद्यमानोऽपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकारश्छाद्यमानोऽपि न शक्यो विनिगूहितुम्।  
 बलाद्धि विवृणोत्येव भावमन्तर्गतं नृणाम्॥

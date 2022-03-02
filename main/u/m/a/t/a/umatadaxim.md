@@ -5,7 +5,7 @@ title = "उन्नतदक्षिणपक्षा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नतदक्षिणपक्षा भक्ष्यमुखी विहितपार्थिवनिनादा।  
 तारा तरुमधिगच्छति तद्यच्छति वाञ्छितादधिकम्॥

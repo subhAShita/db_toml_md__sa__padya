@@ -7,7 +7,7 @@ title = "दहनजा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दहनजा न पृथुर्दवथुर्व्यथा विरहजैव यथा यदि नेदृशम्।  
 दहनमाशु विशन्ति कथं स्त्रियः प्रियमपासुमुपासितमुद्धुराः॥

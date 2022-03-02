@@ -5,7 +5,7 @@ title = "ऋतुस्नातां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋतुस्नातां तु यो भार्यां नैव गच्छति मूढधीः।  
 घोरायां भ्रूणहत्यायां युज्यते नात्र संशयः॥

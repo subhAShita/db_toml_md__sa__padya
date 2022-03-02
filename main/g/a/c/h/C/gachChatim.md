@@ -7,7 +7,7 @@ title = "गच्छति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गच्छति न तृप्तिमेतत्सुललितमस्याः समापिबद्रूपम्।  
 नयनयुगं मम नूनं सम्प्रति समुपैति सफलतां चैवम्॥

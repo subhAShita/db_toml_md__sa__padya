@@ -6,7 +6,7 @@ title = "द्विषतामुदयः सुमेधसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विषतामुदयः सुमेधसा गुरुरस्वन्ततरः सुमर्षणः।  
 न महानपि भूतिमिच्छता फलसम्पत्प्रवणः परिक्षयः॥

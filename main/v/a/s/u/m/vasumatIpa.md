@@ -6,7 +6,7 @@ title = "वसुमतीपतिना नु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वसुमतीपतिना नु सरस्वती बलवता रिपुणापि न नीयते।  
 समविभागहरैर्न विभज्यते विबुधबोधबुधैरपि सेव्यते॥

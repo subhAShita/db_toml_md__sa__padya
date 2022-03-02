@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1746", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३५ याचकनिन्दा// 30",]
-jsonClass = "Subhaashita"
 topics = [ "याचकः",]
+jsonClass = "Subhaashita"
 title = "अन्यतो यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यतो यदि निजोपचिकीर्षा मानहानिरिति भीतिरनीतिः।  
 श्रीधरोऽपि हि बले श्रियमिच्छन् मानमातनुत वामनमेव॥

@@ -5,7 +5,7 @@ title = "अभ्रवृन्दं विशाखान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्रवृन्दं विशाखान्तं प्रसूत्यन्तं च यौवनम्।  
 राज्यान्तं नरकं तद्वद् याचनान्तं हि गौरवम्॥

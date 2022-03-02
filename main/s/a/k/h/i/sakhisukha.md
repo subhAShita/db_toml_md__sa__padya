@@ -7,7 +7,7 @@ title = "सखि सुखयत्यवकाशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सखि सुखयत्यवकाशे प्राप्तः प्रेयान्यथा तथा न गृहे।  
 वातादवारितादपि भवति गवाक्षानिलः शीतः॥

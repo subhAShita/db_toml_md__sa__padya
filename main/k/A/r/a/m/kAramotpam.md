@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9702", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७५ शिशिरवर्णनम्// ०१ शिशिरसमयस्वभावाख्यानम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "शिशिरः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कारणोत्पन्नकोपोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारणोत्पन्नकोपोऽपि साम्प्रतं प्रमदाजनः।  
 निशि शीतापदेशेन गाढमालिङ्गति प्रियम्॥

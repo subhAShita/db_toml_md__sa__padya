@@ -6,7 +6,7 @@ title = "सा रम्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा रम्या नगरी महान् स नृपतिः सामन्तचक्रं च तत्   
 पार्श्वे तस्य च सा विदग्धपरिषत् ताः चन्द्रबिम्बाननाः ।  

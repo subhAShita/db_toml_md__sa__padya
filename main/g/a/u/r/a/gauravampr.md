@@ -7,7 +7,7 @@ title = "गौरवं प्राप्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौरवं प्राप्यते दानान्न तु वित्तस्य सञ्चयात्।  
 स्थितिरुच्चैः पयोदानां पयोधीनामधः स्थितिः॥

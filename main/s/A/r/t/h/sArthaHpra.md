@@ -6,7 +6,7 @@ title = "सार्थः प्रवसतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सार्थः प्रवसतो मित्रम्  
 भार्या मित्रं गृहे सतः ।  

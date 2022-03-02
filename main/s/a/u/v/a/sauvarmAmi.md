@@ -6,7 +6,7 @@ title = "सौवर्णानि सरोजानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौवर्णानि सरोजानि निर्मातुं सन्ति शिल्पिनः।  
 तत्र सौरभनिर्माणे चतुरश्चतुराननः॥

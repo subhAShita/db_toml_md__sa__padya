@@ -7,7 +7,7 @@ title = "सन्तमेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तमेव चिरमप्रकृतत्वादप्रकाशितमदिद्युतदङ्गे।  
 विभ्रमं मधुमदः प्रमदानां धातुलीनमुपसर्ग इवार्थम्॥

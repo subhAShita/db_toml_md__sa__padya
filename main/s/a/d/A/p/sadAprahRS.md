@@ -7,7 +7,7 @@ title = "सदा प्रहृष्टया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदा प्रहृष्टया भाव्यं गृहकार्ये च दक्षया।  
 सुसंस्कृतोपस्करया व्यये चामुक्तहस्तया॥

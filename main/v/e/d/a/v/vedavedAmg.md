@@ -6,7 +6,7 @@ title = "वेदवेदाङ्गतत्त्वज्ञो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदवेदाङ्गतत्त्वज्ञो जपहोमपरायणः।  
 आशीर्वादपरो नित्यमेष राजपुरोहितः॥

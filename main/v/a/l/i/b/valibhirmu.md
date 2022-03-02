@@ -6,7 +6,7 @@ title = "वलिभिर्मुखमाक्रान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वलिभिर्मुखमाक्रान्तं पलितैरङ्कितं शिरः।  
 गात्राणि शिथिलायन्ते तृष्णैका तरुणायते॥

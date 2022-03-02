@@ -5,7 +5,7 @@ title = "अधिकारेण यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिकारेण यो युक्तः कथं तस्यास्ति खण्डनम्।  
 नीचेषूपकृतं राजन् बालुकास्विव मुद्रितम्॥

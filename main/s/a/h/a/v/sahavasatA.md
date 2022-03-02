@@ -6,7 +6,7 @@ title = "सह वसतामप्यसताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सह वसतामप्यसतां जलरुहलजलवद्भवत्यसंश्लेषः।  
 दूरेऽपि सतां वसतां प्रीतिः कुमुदेन्दुवद्भवति॥

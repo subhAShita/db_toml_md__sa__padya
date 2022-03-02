@@ -7,7 +7,7 @@ title = "साक्षरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साक्षरा विपरीताश्चेद्राक्षसा एव केवलम्।  
 सरसो विपरीतश्चेत्सरसत्वं न मुञ्चति॥

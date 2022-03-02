@@ -7,7 +7,7 @@ title = "क्षीणः क्षीणोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षीणः क्षीणोऽपि शशी भूयो भूयोऽभिवर्धते नित्यम्।  
 विरम प्रसीद सुन्दरि यौवनमनिवर्ति यातं तु॥

@@ -6,7 +6,7 @@ title = "सम्पद्यास्ते परैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्पद्यास्ते परैः साकं विपदि स्वजनैर्जडः।  
 जृम्भत्यम्भोरुहे भृङ्गः शुष्यत्युदकशैवलैः॥

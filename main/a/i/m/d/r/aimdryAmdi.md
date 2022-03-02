@@ -5,7 +5,7 @@ title = "ऐन्द्र्यां दिगवलोकित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऐन्द्र्यां दिगवलोकित- सूर्याभिमुखो गृहे गृहिणः।  
 राजभयं चौरभयं वधकलहः पशुभयं च स्यात्॥

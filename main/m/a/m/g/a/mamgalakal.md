@@ -6,7 +6,7 @@ title = "मङ्गलकलशद्वयमय कुम्भम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मङ्गल-कलश-द्वयमय-  
 कुम्भम् अदम्भेन भजत गज-वदनम्।  

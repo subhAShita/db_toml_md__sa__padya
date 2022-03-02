@@ -7,7 +7,7 @@ title = "वयं नो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वयं नो ते विप्राः प्रतिदिवसमासाद्य कृपणान्  
 धनं ये याचन्ते प्रतिगणितनक्षत्रतिथयः ।  

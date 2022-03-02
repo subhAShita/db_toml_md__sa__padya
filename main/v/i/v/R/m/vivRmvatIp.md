@@ -6,7 +6,7 @@ title = "विवृण्वती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विवृण्वती पुरस्तैक्ष्ण्यं पृष्ठतः कुर्वती गुणम्।  
 कर्णान्विध्यति लोकस्य सूचीवत्सूचकस्य वाक्॥

@@ -6,7 +6,7 @@ title = "द्वारं द्वारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वारं द्वारं रटन्तीह भिक्षुकाः पात्रपाणयः।  
 दर्शयन्त्येव लोकानामदातुः फलमीदृशम्॥

@@ -5,7 +5,7 @@ title = "इन्द्रियाणां प्रसङ्गेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणां प्रसङ्गेन धर्मस्यासेवनेन च।  
 पापान् संयान्ति संसारान् अविद्वांसो नराधमाः॥

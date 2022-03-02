@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0187", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// ०४ अगरुः// 62",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - अगरुः",]
+jsonClass = "Subhaashita"
 title = "अगुरुरिति वदतु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगुरुरिति वदतु लोको गौरवमत्रैव पुनरहं मन्ये।  
 दर्शितगुणैकवृत्तिर् यस्य जने जनितदाहेऽपि॥

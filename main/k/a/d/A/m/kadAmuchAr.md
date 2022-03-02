@@ -5,7 +5,7 @@ title = "कदा नु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदा नु चारुबिम्बोष्ठं तस्याः पद्ममिवाननम्।  
 ईषदुन्नम्य पास्यामि रसायनमिवातुरः॥

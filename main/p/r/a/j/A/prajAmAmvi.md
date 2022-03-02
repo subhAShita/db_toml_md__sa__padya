@@ -2,11 +2,11 @@
 topics = [ "राजा", "सौराज्यम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "प्रजानाम्"
+title = "प्रजानां विनयाधानाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रजानां विनयाधानाद् रक्षणाद् भरणादपि।  
 स पिता पितरस्तासां केवलं जन्महेतवः॥

@@ -6,7 +6,7 @@ title = "सज्जना एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सज्जना एव साधूनां प्रथयन्ति गुणोत्करम्।  
 पुष्पाणां सौरभं प्रायस्तनुते दिक्षु मारुतः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1526", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 21",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनृतं सत्यमित्याहुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनृतं सत्यमित्याहुः सत्यं चापि तथानृतम्।  
 इति यास्ताः कथं वीर संरक्ष्याः पुरुषैरिह॥

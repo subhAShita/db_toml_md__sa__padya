@@ -6,7 +6,7 @@ title = "वाणी दरिद्रस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाणी दरिद्रस्य शुभा हितापि ह्यर्थेन शब्देन च संप्रयुक्ता।  
 न शोभते वित्तवतः समीपे भेरीनिनादोपहतेव वीणा॥

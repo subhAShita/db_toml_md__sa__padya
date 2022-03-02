@@ -6,7 +6,7 @@ title = "लुब्धो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लुब्धो न विसृजत्यर्थं नरो दारिद्र्यशङ्कया।  
 दातापि विसृजत्यर्थं तयैव ननु शङ्कया॥

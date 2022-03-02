@@ -6,7 +6,7 @@ title = "मृत्योर्बिभेषि किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृत्योर्बिभेषि किं मूढ भीतं मुञ्चति किं यमः।  
 अजातं नैव गृह्णाति कुरु यत्नमजन्मनि॥

@@ -6,7 +6,7 @@ title = "मणिर्लुठति पादेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मणिर्लुठति पादेषु काचः शिरसि धार्यते।  
 यथैवास्ते तथैवास्तां काचः काचो मणिर्मणिः॥

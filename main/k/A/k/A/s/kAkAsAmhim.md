@@ -5,7 +5,7 @@ title = "का कासाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का. ... ... ... ... ...॥ कासां हि नापदां हेतुर् अतिलोभान्धबुद्धिता॥
 </details>

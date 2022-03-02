@@ -6,7 +6,7 @@ title = "यथा वृष्टिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा वृष्टिः समुद्रेषु भुक्तस्योपरि भोजनम्।  
 एवं प्रीतिः खलैः सार्धमुत्पन्नेऽर्थेऽवसीदति॥

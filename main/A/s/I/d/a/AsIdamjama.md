@@ -5,7 +5,7 @@ title = "आसीदञ्जनमत्रेति पश्यामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसीदञ्जनमत्रेति पश्यामि तव लोचने।  
 भाविभूषणसंभारां साक्षात्कुर्वे तवाकृतिम्॥

@@ -7,7 +7,7 @@ title = "निन्दतु वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निन्दतु वा नन्दतु वा.  
 मन्दमनीषा निशम्य कृतिम् एताम्.  

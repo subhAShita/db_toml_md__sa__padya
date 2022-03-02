@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5563", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// 62",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "नेत्रे",]
 rasas = [ "शृङ्गारः",]
-title = "आसाम्"
+jsonClass = "Subhaashita"
+title = "आसां व्रतमतीवाक्ष्णोर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसां व्रतमतीवाक्ष्णोर् यत् पुरः परिसर्पणम्।  
 सह यातं मनस् तत्र त्यक्त्वा भूयो निवर्तनम्॥

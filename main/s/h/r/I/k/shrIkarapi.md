@@ -6,7 +6,7 @@ title = "श्रीकरपिहितं चक्षुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रीकरपिहितं चक्षुः सुखयतु वः पुण्डरीकनयनस्य।  
 जघनमिवेक्षितुमागतमब्जनिभं नाभिसुषिरेण॥

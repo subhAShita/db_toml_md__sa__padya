@@ -5,7 +5,7 @@ title = "कथं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं न रमते चित्तं धर्मेऽनेकसुखप्रदे।  
 जीवानां दुःखभीरूणां प्रायो मिथ्यादृशो यतः॥

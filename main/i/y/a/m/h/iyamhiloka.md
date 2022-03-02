@@ -5,7 +5,7 @@ title = "इयं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं हि लोकव्यतिरेकवर्तिनी स्वभावतः पार्थिवता समुद्धता।  
 बलात् तदेनां विनयेन योजयेन् नयस्य सिद्धौ विनयः पुरःसरः॥

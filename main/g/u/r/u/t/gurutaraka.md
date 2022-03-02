@@ -7,7 +7,7 @@ title = "गुरुतरकलनूपुरानुनादम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुतरकलनूपुरानुनादं सललितनार्तितवामपादपद्मा।  
 इतरदनतिलोलमादधाना पदमथ मन्मथमन्थरं जगाम॥

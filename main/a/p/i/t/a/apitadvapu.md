@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2024", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 287",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपि तद्वपुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि तद्वपुषि प्रसर्पतोर् गमिते कान्तिझरैरगाधताम्।  
 स्मरयौवनयोः खलु द्वयोः प्लवकुम्भौ भवतः कुचावुभौ॥

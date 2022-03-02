@@ -6,7 +6,7 @@ title = "मनो धावति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनो धावति सर्वत्र मदोन्मत्तगजेन्द्रवत्।  
 ज्ञानाङ्कुशसमा बुद्धिस्तस्य निश्चलते मनः॥

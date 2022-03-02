@@ -7,7 +7,7 @@ title = "प्रसङ्गाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रसङ्गाद् गात्रसंस्पर्शान् निश्वासात् सहभोजनात्।  
 सहशय्यासनाच् चापि वस्त्रमाल्यानुलेपनात्॥  

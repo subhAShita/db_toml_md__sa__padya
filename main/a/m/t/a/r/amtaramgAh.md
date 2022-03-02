@@ -5,7 +5,7 @@ title = "अन्तरङ्गा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तरङ्गा हि ये राज्ञः परस्वादायिनः शठाः।  
 भृत्या भवन्ति प्रायेण तेभ्यो रक्षेदिमाः प्रजाः॥

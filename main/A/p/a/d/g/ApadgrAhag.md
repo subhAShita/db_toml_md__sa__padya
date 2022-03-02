@@ -5,7 +5,7 @@ title = "आपद्ग्राहगृहीतानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपद्ग्राहगृहीतानां वृद्धाः सन्ति न पण्डिताः।  
 येषां मोक्षयितारो वै तेषां शान्तिर्न विद्यते॥

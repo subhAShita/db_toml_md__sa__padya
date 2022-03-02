@@ -5,7 +5,7 @@ title = "अपृच्छं पुत्रदारादींस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपृच्छं पुत्रदारादींस् तैरुक्तोऽहं रघत्तम।  
 पापं तवैव तत्सर्वं वयं तु फलभागिनः॥

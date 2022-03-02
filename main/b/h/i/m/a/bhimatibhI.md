@@ -6,7 +6,7 @@ title = "भिनत्ति भीमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भिनत्ति भीमं करिराजकुम्भं बिभर्ति वेगं पवनादतीव।  
 करोति वासं गिरिगह्वरेषु तथापि सिंहः पशुरेव नान्यः॥

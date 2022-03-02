@@ -6,7 +6,7 @@ title = "पादेन क्रम्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पादेन क्रम्यते पन्था मानहीनं च भोजनम्।  
 अविवेकिप्रभोः सेवा पातकं किमतः परम्॥

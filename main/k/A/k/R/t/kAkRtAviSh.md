@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9323", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 10",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "का कृता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का कृता विष्णुना कीदृग् योषितां कः प्रशस्यते।  
 असेव्यः कीदृशः स्वामी को निहन्ता निशातमः॥

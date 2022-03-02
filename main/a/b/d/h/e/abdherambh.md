@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2239", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१६ सङ्कीर्णान्योक्तयः// ५५ सङ्कीर्णाः// 95",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः",]
+jsonClass = "Subhaashita"
 title = "अब्धेरम्भः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अब्धेरम्भः स्थगितभुवनाभोगपातालकुक्षेः।  
 पोतोपाया इह हि बहवो लङ्घनेऽपि क्षमन्ते।  

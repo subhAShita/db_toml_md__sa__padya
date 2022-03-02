@@ -5,7 +5,7 @@ title = "दैवी सम्पद्विमोक्षाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दैवी संपद्विमोक्षाय निबन्धायासुरी मता॥
 </details>

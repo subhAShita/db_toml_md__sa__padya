@@ -7,7 +7,7 @@ title = "हंसश्चन्द्र इवाभाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हंसश्चन्द्र इवाभाति जलं व्योमतलं यथा।  
 तविमलाः कुमुदानीव तारकाः शरदागमे॥

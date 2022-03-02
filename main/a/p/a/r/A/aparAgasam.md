@@ -5,7 +5,7 @@ title = "अपरागसमीरणेरितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपरागसमीरणेरितः क्रमशीर्णाकुलमूलसंततिः।  
 सुकरस्तरुवत् सहिष्णुना रिपुरुन्मूलयितुं महानपि॥

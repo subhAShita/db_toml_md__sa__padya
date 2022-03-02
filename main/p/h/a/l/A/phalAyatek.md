@@ -7,7 +7,7 @@ title = "फलायते कुचद्वन्द्वमियम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फलायते कुचद्वन्द्वमियं हेमलतायते।  
 अङ्गानि कुसुमायन्ते मनो मे भ्रमरायते॥

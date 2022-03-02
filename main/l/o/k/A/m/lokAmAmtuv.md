@@ -7,7 +7,7 @@ title = "लोकानां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोकानां तु विवृद्ध्यर्थं मुखबाहूरुपादतः ।  
 ब्राह्मणं क्षत्रियं वैश्यं शूद्रं च निरवर्तयत् ॥

@@ -5,7 +5,7 @@ title = "असतीचरितं तद्वद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असतीचरितं तद्वद् वसन्तादेश्चवर्णनम्।  
 ग्रीष्मादेर्वर्णनं तद्वद् वर्षादेरपि वर्णनम्॥

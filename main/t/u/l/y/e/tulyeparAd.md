@@ -6,7 +6,7 @@ title = "तुल्येऽपराधे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुल्येऽपराधे स्वर्भानुमन्तं चिरेण यत्।  
 हिमांशुमाशु ग्रसते तन्म्रदिम्नः स्फुटं फलम्॥

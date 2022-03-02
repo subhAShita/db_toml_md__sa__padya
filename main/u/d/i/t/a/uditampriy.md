@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6754", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १९ नायकस्याग्रे दूत्युक्तयः// 33",]
-jsonClass = "Subhaashita"
 topics = [ "नायकस्याग्रे दूत्युक्तयः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उदितं प्रियाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदितं प्रियां प्रति सहार्दमिति श्रदधीयत प्रियतमेन वचः।  
 विदिते गिते हि पुर एव जने सपदीरिताः खलु लगन्ति गिरः॥

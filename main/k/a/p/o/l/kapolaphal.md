@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8629", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १३ वियोगिन्या अवस्थावर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "वियोगः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कपोलफलकावस्याः कष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपोलफलकावस्याः कष्टं भूत्वा तथाविधौ।  
 अपश्यन्ताविवान्योन्यमीदृक्षां क्षमतां गतौ॥

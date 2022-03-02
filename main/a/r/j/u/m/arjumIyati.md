@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2909", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २८ धननिन्दा// 14",]
-jsonClass = "Subhaashita"
 topics = [ "धनम्",]
+jsonClass = "Subhaashita"
 title = "अर्जुनीयति यदर्जने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्जुनीयति यदर्जने जनो वर्जनीयजनतर्जनादिभिः।  
 मङ्क्षु नश्यति चिराय संचिता वञ्चिता जगति के न संपदा॥

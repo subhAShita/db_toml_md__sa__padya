@@ -6,7 +6,7 @@ title = "गणिकागणकौ समानधर्मौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गणिकागणकौ समानधर्मौ निजपञ्चाङ्गनिदर्शकावुभौ।  
 जनमानसमोहकारिणौ तौ विधिना वित्तहरौ विनिर्मितौ॥

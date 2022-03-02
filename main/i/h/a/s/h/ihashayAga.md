@@ -5,7 +5,7 @@ title = "इह शय्यागतेनापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह शय्यागतेनापि बन्धुमध्यस्थितेन वा।  
 मयैवैकेन सोढव्या मर्मच्छेदादिवेदना॥

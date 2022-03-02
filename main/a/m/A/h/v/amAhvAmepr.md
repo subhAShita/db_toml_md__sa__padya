@@ -5,7 +5,7 @@ title = "अनाह्वाने प्रवेशश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाह्वाने प्रवेशश्च अपृष्टे परिभाषणम्।  
 आत्मस्तुतिः परे निन्दा चत्वारि लघुलक्षणम्॥

@@ -7,7 +7,7 @@ title = "नैनं छिन्दन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।  
 न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥

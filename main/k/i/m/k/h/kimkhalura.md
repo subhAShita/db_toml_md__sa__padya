@@ -6,7 +6,7 @@ title = "किं खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं खलु रत्नैरेतैः किं पुनरभ्रायितेन वपुषा ते।  
 सलिलमपि यन्न तावकमर्णव वदनं प्रयाति तृषितानाम्॥

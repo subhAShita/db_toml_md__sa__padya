@@ -5,7 +5,7 @@ title = "अनास्वाद्यमविक्रेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनास्वाद्यमविक्रेयम् अनादेयमनीप्सितम्।  
 दत्तं निरुपकारं यद् वन्ध्यदानेन तेन किम्॥

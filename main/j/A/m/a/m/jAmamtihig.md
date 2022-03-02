@@ -6,7 +6,7 @@ title = "जानन्ति हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जानन्ति हि गुणान्वक्तुं तद्विधा एव तादृशाम्।  
 वेत्ति विश्वम्भरा भारं गिरीणां गरिमाश्रयम्॥

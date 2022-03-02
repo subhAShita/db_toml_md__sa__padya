@@ -6,7 +6,7 @@ title = "कुतो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुतो वा नूतनं वस्तु वयम् उत्प्रेक्षितुं क्षमाः ।  
 वाक्य-विन्यास-वैचित्र्य-मात्रम् अत्र विचार्यताम् ॥

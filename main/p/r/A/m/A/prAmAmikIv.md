@@ -7,7 +7,7 @@ title = "प्रामाणिकी विधिनिषेधकथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रामाणिकी विधिनिषेधकथा यदि स्या-  
 त्पर्यन्ततः परम एव शिवः प्रमाणम् ।  

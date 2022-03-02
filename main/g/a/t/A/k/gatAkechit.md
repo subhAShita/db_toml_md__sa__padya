@@ -6,7 +6,7 @@ title = "गता केचित्प्रबोधाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गता केचित्प्रबोधाय स्वयं तं कुम्भकर्णकम्।  
 तदधः पवनोत्सर्गादुड्डीय पतिताः क्वचित्॥

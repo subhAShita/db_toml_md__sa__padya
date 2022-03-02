@@ -6,7 +6,7 @@ title = "पृथ्वी पृथ्वीगुणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृथ्वी पृथ्वीगुणा मान्याः सन्ति भूपा विवेकिनः।  
 पराभवापदं यान्ति कस्मादुन्नतबुद्धयः॥

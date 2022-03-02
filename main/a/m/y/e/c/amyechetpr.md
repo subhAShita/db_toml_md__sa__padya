@@ -5,7 +5,7 @@ title = "अन्ये चेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्ये चेत् प्राकृता लोका बहुपापानि कुर्वते।  
 प्रधानपुरुषेणापि कार्यं तत्पृष्ठतो नु किम्॥

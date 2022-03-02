@@ -5,7 +5,7 @@ title = "अध्रुवेण शरीरेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अध्रुवेण शरीरेण प्रतिक्षणविनाशिना।  
 ध्रुवं यो नार्जयेद्धर्मं स शोच्यो मूढचेतनः॥

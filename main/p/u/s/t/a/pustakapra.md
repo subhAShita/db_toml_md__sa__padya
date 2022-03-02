@@ -6,7 +6,7 @@ title = "पुस्तकप्रत्ययाधीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुस्तकप्रत्ययाधीतं नाधीतं गुरुसन्निधौ ।  
 सभामध्ये न शोभन्ते जारगर्भा इव स्त्रियः ॥

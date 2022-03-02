@@ -5,7 +5,7 @@ title = "अरुणोदयवेलायां दशाहेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरुणोदयवेलायां दशाहेन फलं लभेत्।  
 गोविसर्जनवेलायां सद्यः फलद इष्यते॥

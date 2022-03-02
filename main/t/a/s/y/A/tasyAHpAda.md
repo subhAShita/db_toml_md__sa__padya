@@ -7,7 +7,7 @@ title = "तस्याः पादनखश्रेणिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्याः पादनखश्रेणिः शोभते किल सुभ्रुवः।  
 रत्नावलीव लावण्यरत्नाकरसमुद्गता॥

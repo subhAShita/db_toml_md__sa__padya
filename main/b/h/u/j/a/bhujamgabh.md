@@ -6,7 +6,7 @@ title = "भुजङ्गभोगसङ्क्रान्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भुजङ्गभोगसङ्क्रान्ता कलत्रं तव मेदिनी।  
 अहङ्कारः परां कोटिमारोहति कुतस्तव॥

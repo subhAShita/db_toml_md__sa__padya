@@ -6,7 +6,7 @@ title = "पाणिग्रहे पुलकितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाणिग्रहे पुलकितं वपुरैशं भूतिभूषितं जयति।  
 अङ्कुरित इव मनोभूर्यस्मिन्भस्मावशेषोऽपि॥

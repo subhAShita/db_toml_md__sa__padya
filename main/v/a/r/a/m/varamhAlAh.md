@@ -6,7 +6,7 @@ title = "वरं हालाहलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं हालाहलं पीतं सद्यः प्राणहरं विषम्।  
 न तु दृष्टं धनान्धस्य भ्रूभङ्गकुटिलं मुखम्॥

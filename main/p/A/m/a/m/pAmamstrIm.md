@@ -6,7 +6,7 @@ title = "पानं स्त्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पानं स्त्री मृगया द्यूतमर्थदूषणमेव च।  
 वाग्दण्डयोश्च पारुष्यं व्यसनानि महीभुजाम्॥

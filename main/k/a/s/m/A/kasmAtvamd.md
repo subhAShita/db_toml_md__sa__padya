@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9211", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// १६ तिङ्वचनगुप्तम्// 53",]
-jsonClass = "Subhaashita"
 types = [ "तिङ्वचनगुप्तम्",]
-title = "कस्मात्त्वं दुर्बलासीति"
+jsonClass = "Subhaashita"
+title = "कस्मात् त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्मात् त्वं दुर्बलासीति सख्यस् तां परिपृच्छति।  
 त्वयि संनिहिते तासु दद्यात् कथय सोत्तरम्॥

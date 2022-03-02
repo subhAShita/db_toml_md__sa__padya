@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0160", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 99",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अखण्डिता शक्तिरथोपमानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अखण्डिता शक्तिरथोपमानं न स्वीकृतं न च्छलरीतिरस्ति।  
 अस्पृष्टसंदेहविपर्ययस्य कोऽयं तव न्यायनये निवेशः॥

@@ -5,7 +5,7 @@ title = "एकादशस्थे गोविन्दे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकादशस्थे गोविन्दे सर्वेऽप्येकादशे स्थिताः।  
 किं कुर्वन्ति ग्रहाः सर्वे शनिरङ्गारको रविः॥

@@ -5,7 +5,7 @@ title = "आपद्यपि दुरन्तायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपद्यपि दुरन्तायां नैव गन्तव्यमक्रमे।  
 राहुरप्यक्रमेणैव पिबन्नप्यमृतं मृतः॥

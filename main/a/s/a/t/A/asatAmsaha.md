@@ -5,7 +5,7 @@ title = "असतां सहजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असतां सहजो भावश् छन्नः केनापि हेतुना।  
 संस्कार इव बीजानां फलेन सह जायते॥

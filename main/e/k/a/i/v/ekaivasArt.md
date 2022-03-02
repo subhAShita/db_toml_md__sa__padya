@@ -5,7 +5,7 @@ title = "एकैव सार्थका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकैव सार्थका चिन्ता धर्मस्यार्थे विचिन्त्यते।  
 द्वितीया सार्थका चिन्ता योगिनां धर्मनन्दिनी॥

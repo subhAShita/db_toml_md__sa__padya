@@ -7,7 +7,7 @@ title = "निजप्रियमुखभ्रान्त्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजप्रियमुखभ्रान्त्या हर्षेणाचुम्बदम्बुजम्।  
 दष्टाधरा तु भृङ्गेण सीत्कारमकरोन्मृदुः॥

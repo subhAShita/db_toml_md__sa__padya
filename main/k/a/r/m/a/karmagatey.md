@@ -5,7 +5,7 @@ title = "कर्णगतेयममोघा दृष्टिस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णगतेयममोघा दृष्टिस् तव शक्तिरिन्द्रदत्ता च।  
 सा नासादितविजया क्वचिदपि नापार्थपतितेयम्॥

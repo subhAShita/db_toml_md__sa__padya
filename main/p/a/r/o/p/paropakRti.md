@@ -6,7 +6,7 @@ title = "परोपकृतिकैवल्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परोपकृतिकैवल्ये तोलयित्वा जनार्दनः।  
 गुर्वीमुपकृतिं मत्वा ह्यवतारान्दशाग्रहीत्॥

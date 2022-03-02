@@ -1,9 +1,10 @@
 +++
 secondary_sources = [ "MSS_9847A",]
+sentiments = [ "वीरः",]
+topics = [ "बलरामः",]
 jsonClass = "Subhaashita"
 title = "कालिन्दीतटभेदि"
-sentiments = ["वीरः"]
-topics = ["बलरामः"]
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11,8 +12,10 @@ topics = ["बलरामः"]
 कालिन्दी-तट-भेदि हास्तिनपुरी-दौस्थ्यादिभिः ख्यापितः   
 स्थेमा यस्य जयत्य् अखण्ड-जगद्-आनन्दैक-कन्दो भुजः ।  
 मुष्ट्या निष्ठुरयैष मुष्टिक+++(मल्ल)+++-शिरो-निष्ट्यूत-रक्तच्-छटाच्-  
-छद्मोद्वान्त-रुषा भिनत्तु भवतां भद्रेतरं लाङ्गलम् ॥ 
+छद्मोद्वान्त-रुषा भिनत्तु भवतां भद्रेतरं लाङ्गलम् ॥
 </details>
+
+
 
 <details><summary>MT</summary>
 
@@ -21,6 +24,7 @@ whose rod is victorious as the sole source-tuber of happiness of the the entire 
 from the hard grip of which, in the guise of blood streams spurting out from Mustika's head,  
 erupts the fury, may that plow-weapon shatter that which is inauspicious to you.
 </details>
+
 
 
 <details><summary>Text</summary>

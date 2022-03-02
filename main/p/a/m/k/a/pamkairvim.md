@@ -6,7 +6,7 @@ title = "पङ्कैर्विना सरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पङ्कैर्विना सरो भाति सदः खलजनैर्विना ।  
 कटुवर्णैर्विना काव्यं मानसं विषयैर्विना ॥

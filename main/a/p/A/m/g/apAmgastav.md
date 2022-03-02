@@ -5,7 +5,7 @@ title = "अपाङ्गस्तव तन्वङ्गि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपाङ्गस्तव तन्वङ्गि विचित्रोऽयं भुजङ्गमः।  
 दृष्टमात्रः सुमनसाम् अपि मूर्छाविधायकः॥

@@ -6,7 +6,7 @@ title = "ब्रह्मघ्नोऽपि नरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्मघ्नोऽपि नरः पूज्यो यस्यास्ति विपुलं धनम्।  
 शशिना तुल्यवंशोऽपि निर्धनः परिभूयते॥

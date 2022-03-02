@@ -6,7 +6,7 @@ title = "सामगायनपूतं मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सामगायनपूतं मे नोच्छिष्टमधरं कुरु।  
 उत्कण्ठितासि चेद्भद्रे वामं कर्णं दशस्व मे॥

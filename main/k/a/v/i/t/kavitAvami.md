@@ -5,7 +5,7 @@ title = "कविता वनिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविता वनिता कस्य न मोदाय सचेतसः।  
 रस एव सदा तस्या नरीनर्तीव सर्वतः॥

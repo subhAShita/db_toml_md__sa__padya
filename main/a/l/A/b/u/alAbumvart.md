@@ -5,7 +5,7 @@ title = "अलाबुं वर्तुलाकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलाबुं वर्तुलाकारं वार्ताकं कुन्दसंनिभम्।  
 प्राणान्तेऽपि न चाश्नीयान् मसूरान्नं सवल्कलम्॥

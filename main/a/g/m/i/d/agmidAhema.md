@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_0197", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१६ सङ्कीर्णान्योक्तयः// १२ सुवर्णम्// 18",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - सुवर्णम्",]
-jsonClass = "Subhaashita"
 topics = [ "मानम्", "अपमानम्",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अग्निदाहे न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निदाहे न मे दुःखं छेदे न निकषे न वा।  
 यत्तदेव महद्दुःखं गुञ्जया सह तोलनम्॥

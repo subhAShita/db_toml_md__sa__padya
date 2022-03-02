@@ -6,7 +6,7 @@ title = "प्रारम्भतोऽतिविपुलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रारम्भतोऽतिविपुलं भृशकृशमन्ते विभेदकृन्मलिनम्।  
 महिषविषाणमिवानृजु पुरुषं भयदं खलप्रेम॥

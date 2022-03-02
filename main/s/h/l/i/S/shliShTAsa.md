@@ -6,7 +6,7 @@ title = "श्लिष्टा सभङ्गा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्लिष्टा सभङ्गा सद्वर्ण्या निर्दोषा सद्गुणा मृदुः।  
 नानाभङ्गीविलासा चेत्कृतिर्विकृतिरन्यथा॥

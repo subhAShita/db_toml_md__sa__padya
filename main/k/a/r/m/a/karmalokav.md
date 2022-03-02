@@ -5,7 +5,7 @@ title = "कर्म लोकविरुद्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर।  
 तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम्॥

@@ -5,7 +5,7 @@ title = "कर्मोदयाद् भवगतिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मोदयाद् भवगतिर् भवगतिमूला शरीरनिर्वृत्तिः।  
 देहादिन्द्रियविषया विषयनिमित्ते च सुखदुःखे॥

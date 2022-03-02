@@ -5,7 +5,7 @@ title = "उपकारश्चापकारो यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारश्चापकारो यस्य व्रजति विस्मृतिम्।  
 पाषाणहृदयस्यास्य जीवतीत्यभिधा मुधा॥

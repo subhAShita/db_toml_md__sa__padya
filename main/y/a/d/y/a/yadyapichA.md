@@ -6,7 +6,7 @@ title = "यद्यपि चातकपक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि चातकपक्षी क्षपयति जलधरमकालवेलायाम्।  
 तदपि न कुप्यति जलदो गतिरिह नान्या यतस्तस्य॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1191", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २६ जघनम्// 383",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "जघनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनङ्गरङ्गपीठोऽस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनङ्गरङ्गपीठोऽस्याः शृङ्गारस्वर्णविष्टरः।  
 लावण्यसारसंघातः सा घना जघनस्थली॥

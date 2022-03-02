@@ -5,7 +5,7 @@ title = "एवं स्वदोषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 एवं स्वदोषः प्रकटोऽप्य् अज्ञैर्देव न बुध्यते॥

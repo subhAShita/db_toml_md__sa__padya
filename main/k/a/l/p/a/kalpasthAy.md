@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9053", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३३ उदारप्रशंसा// 29",]
-jsonClass = "Subhaashita"
 topics = [ "दाता", "दानम्",]
+jsonClass = "Subhaashita"
 title = "कल्पस्थायि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्पस्थायि न जीवितम् ऐश्वर्यं नाप्यते च यदभिमतम्।  
 लोकस् तथाप्यकार्यं कुरुते कार्यं किमुद्दिश्य॥

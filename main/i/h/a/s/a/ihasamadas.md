@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6213", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २० पर्वतवर्णनम्// 4",]
-jsonClass = "Subhaashita"
 topics = [ "पर्वतः",]
+jsonClass = "Subhaashita"
 title = "इह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह समदशकुन्ताक्रान्तवानीरवीरुत्- प्रसवसुरभिशीतस्वच्छतोया वहन्ति।  
 फलभरपरिणामश्यामजम्बूनिकुञ्ज- स्खलनमुखरभूरिस्रोतसो निर्झरिण्यः॥

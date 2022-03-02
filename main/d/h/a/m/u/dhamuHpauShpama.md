@@ -6,7 +6,7 @@ title = "धनुः पौष्पम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनुः पौष्पं मौर्वी मधुकरमयाञ्चितदृशां  
 दृशां कोणो बाणस्सुहृदपि जडात्मा हिमकरः ।  

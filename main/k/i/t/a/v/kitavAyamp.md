@@ -6,7 +6,7 @@ title = "कितवा यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कितवा यं प्रशंसन्ति यं प्रशंसन्ति चारणाः।  
 यं प्रशंसन्ति बन्धक्यः स पार्थ पुरुषाधमः॥

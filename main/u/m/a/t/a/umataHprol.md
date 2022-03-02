@@ -5,7 +5,7 @@ title = "उन्नतः प्रोल्लसद्धारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नतः प्रोल्लसद्धारः कालागुरुमलीमसः।  
 पयोधरभरस्तन्व्याः कं न चक्रेऽभिलाषिणम्॥

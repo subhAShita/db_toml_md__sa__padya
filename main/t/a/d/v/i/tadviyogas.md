@@ -7,7 +7,7 @@ title = "तद्वियोगसमुत्थेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तद्वियोगसमुत्थेन तच्चिन्ताविपुलार्चिषा।  
 रात्रिं दिवं शरीरं मे दह्यते मदनाग्निना॥

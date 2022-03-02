@@ -7,7 +7,7 @@ title = "नास्ति विषादावसरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति विषादावसरः प्रत्यक्षरलक्षदात्रभावेन।  
 धन्यतरोहं लब्ध्वा भवतः प्रत्यक्षरं लक्ष्यम्॥

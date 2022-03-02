@@ -5,7 +5,7 @@ title = "कार्याणां कर्मणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्याणां कर्मणा पारं यो गच्छति स बुद्धिमान्।  
 ... ... ... ... ... ...॥

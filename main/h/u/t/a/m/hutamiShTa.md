@@ -6,7 +6,7 @@ title = "हुतमिष्टं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हुतमिष्टं च तप्तं च धर्मश्चायं कुलस्य ते।  
 गृहात्प्रतिनिवर्तन्ते पूर्णकामा यदर्थिनः॥

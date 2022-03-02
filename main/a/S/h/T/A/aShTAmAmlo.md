@@ -5,7 +5,7 @@ title = "अष्टानां लोकपालानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टानां लोकपालानां संभवत्यंशतो नृपः।  
 तस्मादभिभवत्येष सर्वभूतानि तेजसा॥

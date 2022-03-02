@@ -5,7 +5,7 @@ title = "कर्तव्यं वचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्तव्यं वचनं सर्वैः समूहहितवादिनाम्।  
 ... ... ... ... ... ...॥

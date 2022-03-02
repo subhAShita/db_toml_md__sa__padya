@@ -6,7 +6,7 @@ title = "महानदीप्रतरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महानदीप्रतरणं महापुरुषविग्रहम्।  
 महाजनविरोधं च दूरतः परिवर्जयेत्॥

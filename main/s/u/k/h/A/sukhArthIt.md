@@ -6,7 +6,7 @@ title = "सुखार्थी त्यजते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुखार्थी त्यजते विद्यां विद्यार्थी त्यजते सुखम्।  
 सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम्॥

@@ -6,7 +6,7 @@ title = "विदलितसकलारिकुलं तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विदलितसकलारिकुलं तव बलमिदमभवदाशु विमलं च।  
 प्रखलमुखानि नराधिप मलिनानि च तानि जातानि॥

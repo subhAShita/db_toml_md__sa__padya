@@ -5,7 +5,7 @@ title = "अस्मिन् परस्परद्वेषपरुषे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्मिन् परस्परद्वेषपरुषे पुरुषायुषे।  
 केवलं मधुरा वाणी ददात्यानीय सौहृदम्॥

@@ -5,7 +5,7 @@ title = "उपेक्षेत प्रनष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपेक्षेत प्रनष्टं यत् प्राप्तं यत् तदुपाहरेत्।  
 न बालं न स्त्रियं चातिलालयेत् ताडयेन् न च।  

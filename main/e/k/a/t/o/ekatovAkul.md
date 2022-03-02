@@ -5,7 +5,7 @@ title = "एकतो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकतो वा कुलं कृत्स्नम् आत्मा वा कुलवर्धन।  
 न समं सर्वमेवेति बुधानामेष निश्चयः॥

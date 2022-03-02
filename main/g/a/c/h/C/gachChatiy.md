@@ -7,7 +7,7 @@ title = "गच्छति यौवनकालः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गच्छति यौवनकालः कवे! विरचयानुरागकाव्यानि ।  
 वार्धक्ये शोभन्ते न मनाक् मुखदूषिका वदने॥

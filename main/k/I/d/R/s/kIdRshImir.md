@@ -6,7 +6,7 @@ title = "कीदृशी निरयभूरनेकधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कीदृशी निरयभूरनेकधा सेव्यते परमपापकर्मभिः।  
 प्रेतराक्षसपिशाचसेविता कीदृशी च पितृकाननस्थली॥

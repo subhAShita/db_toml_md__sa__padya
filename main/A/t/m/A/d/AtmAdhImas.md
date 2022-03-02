@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4620", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 7",]
-jsonClass = "Subhaashita"
 topics = [ "सन्तोषः",]
+jsonClass = "Subhaashita"
 title = "आत्माधीनशरीराणां स्वपताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्माधीनशरीराणां स्वपतां निद्रया स्वया।  
 कदन्नमपि मर्त्यानाम् अमृतत्वाय कल्पते॥

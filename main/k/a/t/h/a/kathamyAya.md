@@ -5,7 +5,7 @@ title = "कथं न्याय्यमनुष्ठानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं न्याय्यमनुष्ठानं मादृशः प्रतिषेधतु।  
 कथं वाभ्यनुजानातु साहसैकरसां क्रियाम्॥

@@ -6,7 +6,7 @@ title = "मृगेभ्यो रक्ष्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृगेभ्यो रक्ष्यते क्षेत्रं नरैस्तृणमयैरपि।  
 सिंहाक्रान्तं पुनर्मूढ न हयैर्न च दन्तिभिः॥

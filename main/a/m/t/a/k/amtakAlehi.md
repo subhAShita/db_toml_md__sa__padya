@@ -5,7 +5,7 @@ title = "अन्तकाले हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तकाले हि भूतानि मुह्यन्तीति पुराश्रुतिः।  
 [राज्ञैवं कुर्वता लोके प्रत्यक्षा सा श्रुतिः कृता]॥

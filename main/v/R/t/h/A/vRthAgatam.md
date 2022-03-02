@@ -6,7 +6,7 @@ title = "वृथा गतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृथा गतं नृत्यसि चातक त्वं न नीलमेघोऽथ गजो मदान्धः।  
 स त्वादृशेभ्यो न ददाति नूनं मातङ्गदानं मधुपेभ्य एव॥

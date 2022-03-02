@@ -6,7 +6,7 @@ title = "सर्वदेवमयस्यापि विशेषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वदेवमयस्यापि विशेषो भूपतेरयम्।  
 शुभाशुभफलं सद्यो नृपाद्देवाद्भवान्तरे॥

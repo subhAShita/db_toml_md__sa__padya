@@ -6,7 +6,7 @@ title = "नमस् तस्मै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमस् तस्मै गणेशाय  
 यत्-कण्ठः पुष्करायते।  

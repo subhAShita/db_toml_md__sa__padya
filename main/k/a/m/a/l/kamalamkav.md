@@ -5,7 +5,7 @@ title = "कमलं कवलीकृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलं कवलीकृतं न वा सलिलं वा न सलीलमाहुतम्।  
 करिणा परिणामदारुणो ददृशे विन्ध्यवने मृगाधिपः॥

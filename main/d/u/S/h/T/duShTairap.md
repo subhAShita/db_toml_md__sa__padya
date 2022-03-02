@@ -6,7 +6,7 @@ title = "दुष्टैरपि निजैरेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुष्टैरपि निजैरेव प्रावृतं सर्वमुत्तमम्।  
 वरं जीर्णाम्बरं वापि हट्टे कर्पटमर्हति॥

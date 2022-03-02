@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6115", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// 168",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "मुखम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इयं सुनयना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं सुनयना दासीकृततामरसश्रिया।  
 आननेनाकलङ्केन जयन्तीन्दुं कलङ्कितम्॥

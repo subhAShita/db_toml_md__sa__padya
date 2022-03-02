@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1425", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 112",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
 topics = [ "खलः", "सज्जनः",]
-title = "अनुकुरुतः"
+jsonClass = "Subhaashita"
+title = "अनुकुरुतः खलसुजनाव्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुकुरुतः खलसुजनाव् अग्रिमपाश्चात्यभागयोः सूच्याः।  
 विदधाति रन्ध्रमेको गुणवानन्यस्त्वपिदधाति॥

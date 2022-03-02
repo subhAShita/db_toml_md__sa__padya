@@ -6,7 +6,7 @@ title = "णे रणाविति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 णे रणाविति सूत्रार्थं भगवान् वेद पाणिनिः।  
 अहं च भाष्यकारस्तु तत्त्वतो वेत्ति वा न वा॥

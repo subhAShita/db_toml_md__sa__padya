@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9240", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//०८ तडागान्योक्तयः// 3",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - तडागः",]
+jsonClass = "Subhaashita"
 title = "कस्य तृषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्य तृषं न क्षपयसि पिबति न कस्तव पयः प्रविश्यान्तः।  
 यदि सन्मार्गसरोवर नक्री न क्रोडमधिवसति॥

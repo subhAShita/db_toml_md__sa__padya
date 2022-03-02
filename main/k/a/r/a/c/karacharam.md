@@ -5,7 +5,7 @@ title = "करचरणकाञ्चिहार"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करचरणकाञ्चिहार- प्रहारमवचिन्त्य बलगृहीतकचः।  
 प्रणयी चुम्बति दयिता- वदनं स्फुरदधरमरुणाक्षम्॥

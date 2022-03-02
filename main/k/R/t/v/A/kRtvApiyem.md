@@ -6,7 +6,7 @@ title = "कृत्वापि येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृत्वापि येन लज्जामुपैति साधुः परोदितेनापि।  
 तदकृत्वैव खलजनः स्वयमुद्गिरतीति धिग्लघुताम्॥

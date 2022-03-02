@@ -6,7 +6,7 @@ title = "मा तात"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा तात साहसं कार्षीर्विभवैर्गर्वमागतः।  
 स्वगात्राण्यपि भाराय भवन्ति हि विपर्यये॥

@@ -5,7 +5,7 @@ title = "अर्थिनस्त्वरितदानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थिनस्त्वरितदानेन तृप्तिर्भवति यादृशी।  
 बहुदानं विलम्बेन न तादृक् तृप्तिकारकम्॥

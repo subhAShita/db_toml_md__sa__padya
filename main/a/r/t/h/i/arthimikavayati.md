@@ -6,7 +6,7 @@ title = "अर्थिनि कवयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थिनि कवयति कवयति पठति च पठति स्तवोद्यते स्तौति।  
 पश्चाद्यामीत्युक्ते कृपणः प्रणतोऽञ्जलिं कुरुते॥

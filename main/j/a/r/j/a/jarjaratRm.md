@@ -6,7 +6,7 @@ title = "जर्जरतृणाग्रमदहन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जर्जरतृणाग्रमदहन् सर्षपकणमप्रकाशयन्नूनम्।  
 कीटत्वमात्मतत्त्वात्खद्योतः ख्यापयन्नवति॥

@@ -6,7 +6,7 @@ title = "कृतमपि महोपकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतमपि महोपकारं पय इव पीत्वा निरातङ्कम्।  
 प्रत्युत हन्तुं यतते काकोदरसोदरः खलो जगति॥

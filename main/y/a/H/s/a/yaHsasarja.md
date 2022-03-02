@@ -7,7 +7,7 @@ title = "यः ससर्ज"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः ससर्ज कमलं रमागृहं विश्वलोचनमहोत्सवं विधिः।  
 एष तादृगसृजन्मृगीदृशो मीनकेतननिकेतनं मुखम्॥

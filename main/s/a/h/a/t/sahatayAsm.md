@@ -8,7 +8,7 @@ title = "सह तया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सह तया स्मर भस्म झटित्यभूः पशुपतिं प्रति यामिषुमग्रहीः।  
 ध्रुवमभूदधुना वितनोः शरस्तव कटुस्वर एव स पञ्चमः॥

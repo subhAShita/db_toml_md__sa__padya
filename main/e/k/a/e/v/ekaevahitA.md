@@ -5,7 +5,7 @@ title = "एक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एव हितार्थाय तेजस्वी पार्थिवो भुवः।  
 युगान्त इव भास्वन्तो बहवोऽत्र विपत्तये॥

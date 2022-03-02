@@ -6,7 +6,7 @@ title = "तटिनि चिराय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तटिनि चिराय विचारय विन्ध्यभुवस्तव पवित्रायाः।  
 शुष्यन्त्या अपि युक्तं किं खलु रथ्योदकादानम्॥

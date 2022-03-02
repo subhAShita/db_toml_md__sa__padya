@@ -5,7 +5,7 @@ title = "एकदन्तं त्रिनयनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकदन्तं त्रिनयनं ज्वालानलसमप्रभम्।  
 गणाध्यक्षं गजमुखं प्रणमामि विनायकम्॥

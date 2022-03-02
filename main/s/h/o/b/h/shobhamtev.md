@@ -6,7 +6,7 @@ title = "शोभन्ते विद्यया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शोभन्ते विद्यया विप्राः क्षत्रिया विजयश्रिया।  
 श्रियोऽनुकूलदानेन लज्जया च कुलाङ्गनाः॥

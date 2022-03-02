@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1233", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 271",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अनभिज्ञो गुणानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनभिज्ञो गुणानां यो न भृत्यैः सोऽनुगम्यते।  
 धनाढ्योऽपि कुलीनोऽपि क्रमायातोऽपि भूपतिः॥

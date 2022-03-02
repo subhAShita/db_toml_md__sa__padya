@@ -6,7 +6,7 @@ title = "कीदृशं हृदयहारि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कीदृशं हृदयहारि कूजितं कः सखा यशसि भूपतेर्मतः।  
 कस्तवास्ति विपिने भयाकुलः कीदृशश्च न भवेन्निशाकरः॥

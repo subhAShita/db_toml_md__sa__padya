@@ -7,7 +7,7 @@ title = "पशुपालवधूजनस्य सायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पशुपालवधूजनस्य सायं  
 मुरलीमच्युत शृण्वतस्त्वदीयाम् ।  

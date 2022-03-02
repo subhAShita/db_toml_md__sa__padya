@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0566", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०४ गुणाढ्यः// 11",]
-jsonClass = "Subhaashita"
 topics = [ "गुणाढ्यः",]
-title = "अतिदीर्घजीविदोषाद्व्यासेन"
+jsonClass = "Subhaashita"
+title = "अतिदीर्घजीविदोषाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिदीर्घजीविदोषाद् व्यासेन यशोऽपहारितं हन्त।  
 कैर्नोच्येत गुणाढ्यः स एव जन्मान्तरापन्नः॥

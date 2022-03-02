@@ -6,7 +6,7 @@ title = "कुत्र विधेयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुत्र विधेयो वासः सज्जनकण्ठे यथा काश्याम्।  
 कः परिहार्यो देशः पिशुनयुतो लुब्धभूपश्च॥

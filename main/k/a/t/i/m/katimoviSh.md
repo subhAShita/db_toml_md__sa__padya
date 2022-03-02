@@ -5,7 +5,7 @@ title = "कति नो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कति नो विषया निभालिताः कति वा भूमिभुजो न शीलिताः।  
 धरणीधर तावकान् गुणान् अवधार्याजगणं गुरुं लघुम्॥

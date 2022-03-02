@@ -5,7 +5,7 @@ title = "अविश्राममपाथेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविश्राममपाथेयम् अनालम्भमदेशकम्।  
 तमःकान्तारमध्वानं कथमेको गमिष्यसि॥

@@ -6,7 +6,7 @@ title = "नन्दनजन्मा मधुपः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नन्दनजन्मा मधुपः सुरतरुकुसुमेषु पीतमकरन्दः।  
 दैवादवनिमुपेतः कुटजे कुटजे समीहते वृत्तिम्॥

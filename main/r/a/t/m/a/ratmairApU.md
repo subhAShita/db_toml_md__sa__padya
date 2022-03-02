@@ -6,7 +6,7 @@ title = "रत्नैरापूरितस्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रत्नैरापूरितस्यापि मदलेशोऽस्ति नाम्बुधेः।  
 मुक्ताः कतिपयाः प्राप्य मातङ्गा मदविह्वलाः॥

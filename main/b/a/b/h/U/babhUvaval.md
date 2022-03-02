@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २३ राजशेखरः// 42",]
-jsonClass = "Subhaashita"
 topics = [ "राजशेखरः",]
+jsonClass = "Subhaashita"
 title = "बभूव वल्मीकभवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बभूव वल्मीकभवः कविः पुरा ततः प्रपेदे भुवि भर्तृमेण्ठताम्।  
 स्थितः पुनर्यो भवभूतिरेखया स वर्तते सम्प्रति राजशेखरः॥

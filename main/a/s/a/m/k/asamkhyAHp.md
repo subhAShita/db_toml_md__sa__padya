@@ -5,7 +5,7 @@ title = "असङ्ख्याः परदोषज्ञा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंख्याः परदोषज्ञा गुणज्ञा अपि केचन।  
 स्वयमेव स्वदोषज्ञा विद्यन्ते यदि पञ्चषाः॥

@@ -6,7 +6,7 @@ title = "शकटं पञ्चहस्तेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शकटं पञ्चहस्तेषु दशहस्तेषु वाजिनम्।  
 गजं हस्तसहास्रेण दुष्टं दूरेण वर्जयेत्॥

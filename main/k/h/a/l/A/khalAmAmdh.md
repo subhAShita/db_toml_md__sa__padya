@@ -6,7 +6,7 @@ title = "खलानां धनुषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलानां धनुषां चापि सद्वंशजनुषामपि।  
 गुणलाभो भवेदाशु परहृद्भेदकारकः॥

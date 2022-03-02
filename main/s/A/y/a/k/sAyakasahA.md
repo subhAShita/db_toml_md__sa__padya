@@ -6,7 +6,7 @@ title = "सायकसहायबाहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सायकसहायबाहो मकरध्वजनियमितक्षमाधिपेत।  
 अब्जरुचिभास्वरस्ते भातितरामवनिप श्लोकः॥

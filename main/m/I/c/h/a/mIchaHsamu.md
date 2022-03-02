@@ -6,7 +6,7 @@ title = "नीचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीचः समुत्थितोऽवश्यमनवाप्य पराश्रयम्।  
 छिद्रं न रतिमाप्नोति दृष्टान्तोऽत्र कटीभवः॥

@@ -6,7 +6,7 @@ title = "जानीयात्सङ्गरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जानीयात्सङ्गरे भृत्यान्बान्धवान्व्यसनागमे।  
 आपत्कालेषु मित्त्राणि भार्यां च विभवक्षये॥

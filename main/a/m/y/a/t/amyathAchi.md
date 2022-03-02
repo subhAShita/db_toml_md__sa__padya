@@ -5,7 +5,7 @@ title = "अन्यथा चिन्तिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यथा चिन्तिता ह्यर्था नरैस्तात मनस्विभिः।  
 अन्यथैव हि गच्छन्ति दैवादिति मतिर्मम॥

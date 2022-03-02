@@ -6,7 +6,7 @@ title = "यत्नादपि कः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्नादपि कः पश्यति शिखिनामाहारनिर्गमस्थानम्।  
 यदि जलदनिनदमुदितास्त एव मूढा न नृत्येयुः॥

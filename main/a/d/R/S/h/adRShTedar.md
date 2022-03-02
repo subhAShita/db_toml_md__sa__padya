@@ -7,7 +7,7 @@ title = "अदृष्टे दर्शनोत्कण्ठा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदृष्टे दर्शनोत्कण्ठा दृष्टे विश्लेषभीरुता।  
 नादृष्टे न च दृष्टेन भवता विद्यते सुखम्॥

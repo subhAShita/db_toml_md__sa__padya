@@ -6,7 +6,7 @@ title = "च्युता दन्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 च्युता दन्ताः सिताः केशा दृङ्निरोधः पदे पदे।  
 पातसज्जमिमं देहं तृष्णा साध्वी न मुञ्चति॥

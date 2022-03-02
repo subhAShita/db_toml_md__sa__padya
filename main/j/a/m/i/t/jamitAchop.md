@@ -6,7 +6,7 @@ title = "जनिता चोपनेता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जनिता चोपनेता च यश्च विद्यां प्रयच्छति।  
 अन्नदाता भयत्राता पञ्चैते पितरः स्मृताः॥

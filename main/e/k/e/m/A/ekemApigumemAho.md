@@ -5,7 +5,7 @@ title = "एकेनापि गुणेनाहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि गुणेनाहो स्पृहणीयो नरो भवेत्।  
 कलाभृत्त्येन रुचिरश् चन्द्रो दोषाकरोऽपि सन्॥

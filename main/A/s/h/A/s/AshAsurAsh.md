@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5452", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 03 सरस्वती// 8",]
-jsonClass = "Subhaashita"
 topics = [ "सरस्वती",]
+jsonClass = "Subhaashita"
 title = "आशासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशासु राशीभवदङ्गवल्लीभासैव दासीकृतदुग्धसिन्धुम्।  
 मन्दस्मितैर्निन्दितशारदेन्दुं वन्देऽरविन्दासनसुन्दरि त्वाम्॥

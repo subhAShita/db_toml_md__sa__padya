@@ -5,7 +5,7 @@ title = "अक्लेशादिव चिन्तितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्लेशादिव चिन्तितम् उपतिष्ठति सिद्धमेव पुण्यवताम्।  
 उड्डीयापुण्यवतां गच्छन्ति कपोतकाः पश्य॥

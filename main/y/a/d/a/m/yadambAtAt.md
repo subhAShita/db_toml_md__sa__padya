@@ -6,7 +6,7 @@ title = "यद् अम्बा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद् अम्बा तातो वा द्वयम् इदम् अगाद् एक-तनुतां   
 तद्-अर्धं चार्धं च क्व नु गतम् अथार्यः कथयतु ।  

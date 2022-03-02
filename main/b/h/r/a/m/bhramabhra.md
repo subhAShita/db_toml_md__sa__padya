@@ -6,7 +6,7 @@ title = "भ्रम भ्रमर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रम भ्रमर यूथीषु मालतीषु चिरं मिल।  
 मा पुनः पङ्कजारण्यस्नेहशून्यं मनः कृथाः॥

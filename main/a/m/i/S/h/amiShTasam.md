@@ -5,7 +5,7 @@ title = "अनिष्टसम्प्रयोगाच्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिष्टसम्प्रयोगाच्च विप्रयोगात्प्रियस्य च।  
 मानुषा मानसैर्दुःखैर् युज्यन्ते अल्पबुद्धयः॥

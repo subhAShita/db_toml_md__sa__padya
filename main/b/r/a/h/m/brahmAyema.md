@@ -6,7 +6,7 @@ title = "ब्रह्मा येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्मा येन कुलालवन्नियमितो ब्रह्माण्डभाण्डोदरे  
 विष्णुर्येन दशावत्रगहने क्षिप्तो महासङ्कटे ।  

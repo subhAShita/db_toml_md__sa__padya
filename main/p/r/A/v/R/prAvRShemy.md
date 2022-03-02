@@ -6,7 +6,7 @@ title = "प्रावृषेण्यस्य मालिन्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रावृषेण्यस्य मालिन्यं दोषः कोऽभीष्टवर्षिणः।  
 शारदाभ्रस्य शुभ्रत्वं वद कुत्रोपयुज्यते॥

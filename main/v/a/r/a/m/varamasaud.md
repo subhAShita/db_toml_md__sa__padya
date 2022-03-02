@@ -7,7 +7,7 @@ title = ") वरमसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 )  
 वरमसौ दिवसो न पुनर्निशा ननु निशैव वरं न पुनर्दिनम्।  

@@ -5,7 +5,7 @@ title = "कपाल उपहारश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपाल उपहारश्च संतानः संगतस् तथा।  
 उपन्यासः प्रतीकारः संयोगः पुरुषान्तरः॥

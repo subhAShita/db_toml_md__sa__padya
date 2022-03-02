@@ -7,7 +7,7 @@ title = "कौटिल्यं कचनिचये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौटिल्यं कचनिचये करचरणाधरदलेषु रागस्ते।  
 काठिन्यं कुचयुगले तरलत्वं नयनयोर्वसति॥

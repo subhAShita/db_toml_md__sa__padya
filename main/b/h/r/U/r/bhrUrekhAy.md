@@ -7,7 +7,7 @@ title = "भ्रूरेखायुगलं बाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रूरेखायुगलं बाति तस्याश्चटुलचक्षुषः।  
 पत्त्रद्वयीव हरिता नासावंशविनिर्गता॥

@@ -7,7 +7,7 @@ title = "मयि ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मयि ते पादपतिते किङ्करत्वमुपागते।  
 प्रिये कामातुरः कोपं कान्ते कोऽन्योऽपनेष्यति॥

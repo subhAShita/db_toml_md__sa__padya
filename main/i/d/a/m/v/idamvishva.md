@@ -5,7 +5,7 @@ title = "इदं विश्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं विश्वं कुटुम्बो न इति येषां सुनिश्चयः।  
 ते शान्ताः परमोदाराः केषां वन्द्या न साधवः॥

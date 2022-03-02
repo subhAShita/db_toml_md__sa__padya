@@ -5,7 +5,7 @@ title = "औषधानि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औषधानि च मन्त्राणि नक्षत्रं शकुनं ग्रहाः।  
 भाग्यकाले प्रसन्नाः स्युर् अभाग्ये निष्फलाश् च ते॥

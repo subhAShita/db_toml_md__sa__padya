@@ -5,7 +5,7 @@ title = "आदौ यादोनिवासोक्तिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ यादोनिवासोक्तिः पारावारवरोक्तयः।  
 क्षीरनीरनिधेरुक्तिर् नद्युक्तिर्जाह्नव्युक्तयः॥

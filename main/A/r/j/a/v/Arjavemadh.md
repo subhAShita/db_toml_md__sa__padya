@@ -5,7 +5,7 @@ title = "आर्जवेन धृता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्जवेन धृता दीक्षा या नो दैवं परं प्रति।  
 अत्यन्तमानुषीयाभ्यः पीडाभ्यस् तद्विमोचनम्॥

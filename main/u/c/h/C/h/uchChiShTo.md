@@ -5,7 +5,7 @@ title = "उच्छिष्टो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्छिष्टो न स्पृशेत् ख गं निशिकुर्यान्न शीर्षके।  
 दिवा च पूजयेदेनं गन्धमाल्यादिसंपदा॥

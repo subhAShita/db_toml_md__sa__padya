@@ -6,7 +6,7 @@ title = "यावतः कुरुते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यावतः कुरुते जन्तुः सम्बन्धान् मनसः प्रियान्।  
 तावन्तोऽस्य निखन्यन्ते हृदये शोकशङ्कवः॥

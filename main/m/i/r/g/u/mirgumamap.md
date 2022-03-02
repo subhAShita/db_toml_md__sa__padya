@@ -6,7 +6,7 @@ title = "निर्गुणमप्यनुरक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्गुणमप्यनुरक्तं प्रायो न समाश्रितं जहति सन्तः।  
 सह वृद्धिक्षयभाजं वहति शशाङ्गः कलङ्कमपि॥

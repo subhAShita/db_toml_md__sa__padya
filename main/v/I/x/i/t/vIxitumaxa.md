@@ -7,7 +7,7 @@ title = "वीक्षितुं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीक्षितुं न क्षमा श्वश्रूः स्वामी दूरतरं गतः।  
 अहमेकाकिनी बाला तवेह वसतिः कुतः॥

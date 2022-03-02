@@ -6,7 +6,7 @@ title = "युक्तमुक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युक्तमुक्तं पुराविद्भिश्चिन्ता जूर्तिः सुदारुणा।  
 न भेषजैर्लङ्घनैर्वा न चान्यैरुपशाम्यति॥

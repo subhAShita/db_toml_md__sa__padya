@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9125", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ३१ सुबन्धुः// 62",]
-jsonClass = "Subhaashita"
 topics = [ "सुबन्धुः",]
-title = "कवीनामगलद्दर्पो नूनम्"
+jsonClass = "Subhaashita"
+title = "कवीनामगलद् दर्पो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवीनामगलद् दर्पो नूनं वासवदत्तया।  
 शक्त्येव पाण्डुपुत्राणां गतया कर्णगोचरम्॥

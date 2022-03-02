@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0002", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०१ आलिङ्गनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "आलिङ्गनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अंशुकं हृतवता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अंशुकं हृतवता तनुबाहु- स्वस्तिकापिहितमुग्धकुचाग्रा।  
 भिन्नशङ्खवलयं परिणेत्रा पर्यरम्भि रभसादचिरोढा॥

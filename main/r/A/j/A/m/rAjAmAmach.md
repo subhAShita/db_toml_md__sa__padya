@@ -6,7 +6,7 @@ title = "राजा नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा नाम चरत्येष भूमौ साक्षात्सहस्रदृक्।  
 न तस्याज्ञामतिक्रम्य सन्तिष्ठेरन्निमाः प्रजाः॥

@@ -6,7 +6,7 @@ title = "धवलान् यातपत्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धवलान् यातपत्राणि वाजिनश्च मनोरमाः।  
 सदा मत्ताश्च नागेन्द्राः प्रसङ्गे सति भूपतौ॥

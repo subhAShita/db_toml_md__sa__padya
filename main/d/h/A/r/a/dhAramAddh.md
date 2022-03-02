@@ -7,7 +7,7 @@ title = "धारणाद् धर्ममित्याहुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धारणाद् धर्ममित्याहुः धर्मो  धारयते  प्रजाः ।  
 यत् स्याद् धारणसंयुक्तं स धर्म इति निश्चयः ॥

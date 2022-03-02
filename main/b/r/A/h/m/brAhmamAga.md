@@ -6,7 +6,7 @@ title = "ब्राह्मणा गणका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्राह्मणा गणका वेश्याः सारमेयाश्च कुक्कुटाः।  
 दृष्टेष्वन्येषु कुप्यन्ति न जाने तस्य कारणम्॥

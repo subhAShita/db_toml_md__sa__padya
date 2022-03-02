@@ -5,7 +5,7 @@ title = "अत्युन्नतिं प्राप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्युन्नतिं प्राप्य नरः प्रावारः कीटको यथा।  
 स विनश्यत्यसंदेहम् आहैवमुशना नृपः॥

@@ -5,7 +5,7 @@ title = "अन्तर्गतमलो दुष्टस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्गतमलो दुष्टस् तीर्थस्नानशतैरपि।  
 न शुध्यति यथा भाण्डं सुराया दाहितं च सत्॥

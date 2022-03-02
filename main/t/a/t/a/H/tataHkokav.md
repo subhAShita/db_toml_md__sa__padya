@@ -7,7 +7,7 @@ title = "ततः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ततः कोकवधूबन्धुर्बन्धूककुसुमप्रभः।  
 उदयाद्रिशिरोरत्नमुद्ययौ तेजसां निधिः॥

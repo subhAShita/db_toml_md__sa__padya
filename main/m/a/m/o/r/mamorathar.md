@@ -6,7 +6,7 @@ title = "मनोरथरथारूढम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनोरथरथारूढं युक्तमिन्द्रियवाजिभिः।  
 भ्राम्यत्येव जगत्कृत्स्नं तृष्णासारथिचोदितम्॥

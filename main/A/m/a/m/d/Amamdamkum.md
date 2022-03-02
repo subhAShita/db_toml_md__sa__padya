@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4819", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
-title = "आनन्दं कुमुदादीनामिन्दुः"
+jsonClass = "Subhaashita"
+title = "आनन्दं कुमुदादीनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनन्दं कुमुदादीनाम् इन्दुः कन्दलयन्नयम्।  
 लङ्घयत्यम्बराभोगं हनूमानिव सागरम्॥

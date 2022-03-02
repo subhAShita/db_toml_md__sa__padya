@@ -7,7 +7,7 @@ title = "बाढं कवीनामाद्यानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाढं कवीनामाद्यानां वाचमर्थोऽनुधावतु ।  
 वाचं परन्तु नव्यानामनर्थो ह्यनुधावति ॥

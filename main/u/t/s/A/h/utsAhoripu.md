@@ -5,7 +5,7 @@ title = "उत्साहो रिपुवन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्साहो रिपुवन् मित्रम् आलस्यं मित्रवद् रिपुः।  
 अमृतं विषवद् विद्याऽमृतवद् विषम गना॥

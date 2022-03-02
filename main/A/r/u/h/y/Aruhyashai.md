@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5217", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 23",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आरुह्य शैलशिखरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरुह्य शैलशिखरं त्वद्वदनापहृतकान्तिसर्वस्वः।  
 प्रतिकर्तुमिवोर्ध्वकरः स्थितः पुरस्तान् निशानाथः॥

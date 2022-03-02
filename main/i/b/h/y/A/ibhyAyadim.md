@@ -5,7 +5,7 @@ title = "इभ्या यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इभ्या यदि नृपद्वारे संमन्यन्ते किमद्भुतम्।  
 इदानीं विबुधद्वारे तेषामेव पुरस्क्रिया॥

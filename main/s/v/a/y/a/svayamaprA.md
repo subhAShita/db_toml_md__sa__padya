@@ -8,7 +8,7 @@ title = "स्वयमप्राप्तदुःखो यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वयमप्राप्तदुःखो यः स दुनोति न विस्मयः।  
 त्वं स्मर प्राप्तदाहोऽपि दहसीति किमुच्यते॥

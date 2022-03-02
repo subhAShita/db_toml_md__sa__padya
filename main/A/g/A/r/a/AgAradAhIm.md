@@ -5,7 +5,7 @@ title = "आगारदाही मित्रघ्नः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगारदाही मित्रघ्नः शाकुनिर्ग्रामयाजकः।  
 रुधिरान्धे पतन्त्येते सोमं विक्रीणते च ये॥

@@ -6,7 +6,7 @@ title = "तस्मै नमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मै नमः कपटकेसरिणे विदार्य   
 स्तम्भं विजृम्भितवते रिपुभेदनाय।  

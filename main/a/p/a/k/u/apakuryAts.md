@@ -5,7 +5,7 @@ title = "अपकुर्यात् समर्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपकुर्यात् समर्थं वा नोपकुर्याद्यदापदि।  
 उच्छिन्द्यादेव तन्मित्रं विश्वस्याङ्कमुपस्थितम्॥

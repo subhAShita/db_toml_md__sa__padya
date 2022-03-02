@@ -6,7 +6,7 @@ title = "हेतुप्रमाणयुक्तं वाक्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हेतुप्रमाणयुक्तं वाक्यं न श्रूयते दरिद्रस्य।  
 अप्यतिपरुषमसत्यं पूज्यं वाक्यं समृद्धस्य॥

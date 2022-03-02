@@ -6,7 +6,7 @@ title = "प्रेमामृतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेमामृतेन गिरिराज-सुताश्रयेण   
 न प्लावितेऽत्र हृदयेऽस्ति ममावकाशः।  

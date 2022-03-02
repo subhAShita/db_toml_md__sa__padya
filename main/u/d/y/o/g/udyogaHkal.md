@@ -6,7 +6,7 @@ title = "उद्योगः कलहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्योगः कलहः कण्डूर्द्यूतं मद्यं परस्त्रियः।  
 आहारो मैथुनं निद्रा सेवनात्तु विवर्धते॥

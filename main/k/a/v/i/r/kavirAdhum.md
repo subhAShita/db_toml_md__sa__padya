@@ -7,7 +7,7 @@ title = "कविराधुनिको ब्रूते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविराधुनिको ब्रूते सभासु रसिकानिति ।  
 "अहं यच्छामि वः शब्दानर्थान्यूयं प्रयच्छत" ॥

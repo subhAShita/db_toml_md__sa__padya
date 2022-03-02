@@ -6,7 +6,7 @@ title = "सन्तापमोहकम्पान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संतापमोहकम्पान् संपादयितुं निहन्तुमपि जन्तून्।  
 सखि दुर्जनस्य भूतिः प्रसरति दूरं ज्वरस्येव॥

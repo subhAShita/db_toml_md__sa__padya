@@ -7,7 +7,7 @@ title = "तत् कष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत् कष्टं यद् विद्वान् विद्यापारंगतोऽपि यत्नेन।  
 विज्ञातारमविन्दन् भवति समः प्राकृतजनेन॥

@@ -7,7 +7,7 @@ title = "न सवर्णो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न सवर्णो न च रूपं न संस्क्रिया नैव सा प्रकृतिः।  
 बाला त्वद्विरहापदि जातापभ्रंशभावेव॥

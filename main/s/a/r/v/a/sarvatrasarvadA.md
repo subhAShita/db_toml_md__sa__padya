@@ -7,7 +7,7 @@ title = "सर्वत्र सर्वदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वत्र सर्वदा ख्यातां सृष्ट्वा कृतिमनुत्तमाम् ।  
 छन्नस्तिष्ठञ्छिवो जीयात्स कीर्तिविमुखः कविः ॥

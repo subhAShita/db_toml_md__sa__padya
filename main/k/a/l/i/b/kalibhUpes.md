@@ -5,7 +5,7 @@ title = "कलिभूपे समायाते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलिभूपे समायाते धर्मोऽधर्मायते भुवि।  
 अधर्मः सर्वंतः पुंसां हन्त धर्मवदर्थ्यते॥

@@ -6,7 +6,7 @@ title = "पदे पदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पदे पदे च रत्नानि योजने रसकूपिका।  
 भाग्यहीना न पश्यन्ति बहुरत्ना वसुन्धरा॥

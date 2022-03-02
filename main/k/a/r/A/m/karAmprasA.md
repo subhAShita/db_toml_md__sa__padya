@@ -6,7 +6,7 @@ title = "करान्प्रसार्य रविणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करान्प्रसार्य रविणा दक्षिणाशावलम्बिना।  
 न केवलमनेनात्मा दिवसोऽपि लघूकृतः॥

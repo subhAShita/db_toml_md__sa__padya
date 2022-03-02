@@ -6,7 +6,7 @@ title = "स्तोतारः के"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तोतारः के भविष्यन्ति मूर्खस्य जगतीतले ।  
 न स्तौति चेत्स्वयं च स्वं कदा तस्यास्तु निर्वृतिः ॥

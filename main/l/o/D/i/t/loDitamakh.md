@@ -6,7 +6,7 @@ title = "लोडितमखिलं गहनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोडितमखिलं गहनं परितो दृष्टाश्च विटपिनः सर्वे॥  
 सहकार न प्रपेदे मधुपेन तवोपमा जगति॥

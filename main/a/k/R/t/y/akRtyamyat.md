@@ -6,7 +6,7 @@ title = "अकृत्यं मन्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृत्यं मन्यते कृत्यमगम्यं मन्यते सुगम्।  
 अभक्ष्यं मन्यते भक्ष्यं स्त्रीवाक्यप्रेरितो नरः॥

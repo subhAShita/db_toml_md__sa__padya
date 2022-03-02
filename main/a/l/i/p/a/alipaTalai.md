@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3171", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०४ वाय्वन्योक्तयः// 2",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वायुः",]
+jsonClass = "Subhaashita"
 title = "अलिपटलैरनुयाताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलिपटलैरनुयातां सहृदयहृदयज्वरं विलुम्पन्तीम्।  
 मृगमदपरिमललहरीं समीर पामरपुरे किरसि॥

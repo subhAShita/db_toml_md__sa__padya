@@ -5,7 +5,7 @@ title = "इष्टानि चाप्यपत्यानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इष्टानि चाप्यपत्यानि द्रव्याणि सुहृदः प्रियाः।  
 आपद्धर्मविमोक्षाय भार्या चापि सतां मतम्॥

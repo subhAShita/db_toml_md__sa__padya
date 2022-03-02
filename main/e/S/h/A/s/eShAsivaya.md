@@ -5,7 +5,7 @@ title = "एषासि वयसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एषासि वयसो दर्पात् कुलपुत्रानुसारिणी।  
 केशेषु कुसुमाढ्येषु सेवितव्येषु कर्षिता॥

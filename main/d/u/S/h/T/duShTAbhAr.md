@@ -6,7 +6,7 @@ title = "दुष्टा भार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुष्टा भार्या शठं मित्त्रं भृत्यश्चोत्तरदायकः।  
 ससर्पे च गृहे वासो मृत्युरेव न संशयः॥

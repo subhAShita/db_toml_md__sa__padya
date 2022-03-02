@@ -6,7 +6,7 @@ title = "अत्यन्तविभुखे दैवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यन्तविभुखे दैवे व्यर्थे यत्ने च पौरुषे।  
 मनस्विनो दरिद्रस्य वनादन्यत्कुतः सुखम्॥

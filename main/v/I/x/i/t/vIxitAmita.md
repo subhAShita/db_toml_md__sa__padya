@@ -6,7 +6,7 @@ title = "वीक्षितानि तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीक्षितानि तव वारिधिकन्ये यत्र पालितजगन्ति लगन्ति।  
 चित्रमत्र च परत्र च देही देहिशब्दमपहाय यकास्ति॥

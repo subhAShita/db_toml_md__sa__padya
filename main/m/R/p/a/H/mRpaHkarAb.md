@@ -6,7 +6,7 @@ title = "नृपः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नृपः कराभ्यामुदतोलयन्निजे नृपानयं यान्पततः पदद्वये।  
 तदीयचूडाकुरुविन्दरश्मिभिः स्फुटेयमेतत्करपादरञ्जना॥

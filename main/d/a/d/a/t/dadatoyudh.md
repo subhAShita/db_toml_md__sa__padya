@@ -6,7 +6,7 @@ title = "ददतो युध्यमानस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ददतो युध्यमानस्य पठतः पुलको न चेत्।  
 आत्मनश्च परेषां च धिक्त्यागं पौरुषं श्रुतम्॥

@@ -5,7 +5,7 @@ title = "एकोऽर्थं विमृशेदेको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोऽर्थं विमृशेदेको धर्मे प्रकुरुते मनः।  
 एकः कार्याणि कुरुते तमाहुर् मध्यमं नरम्॥

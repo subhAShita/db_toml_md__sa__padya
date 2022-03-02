@@ -6,7 +6,7 @@ title = "वर्तते येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्तते येन न विना नरो वाञ्छतु नाम तत्।  
 ततोऽधिकार्थप्रणयी पृष्टो दद्यात्किमुत्तरम्॥

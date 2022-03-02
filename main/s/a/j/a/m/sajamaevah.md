@@ -6,7 +6,7 @@ title = "सज्जन एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सज्जन एव हि विद्या शोभायै भवति दुर्जने मोघा।  
 न विदूरदर्शनतया कैश्चिदुपादीयते गृध्रः॥

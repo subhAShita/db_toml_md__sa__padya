@@ -6,7 +6,7 @@ title = "कौर्मं सङ्कोचमास्थाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौर्मं सङ्कोचमास्थाय प्रहारानपि मर्षयेत्।  
 प्राप्ते काले च मतिमानुत्तिष्ठेत्कृष्णसर्पवत्॥

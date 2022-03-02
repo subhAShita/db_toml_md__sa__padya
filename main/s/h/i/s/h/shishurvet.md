@@ -6,7 +6,7 @@ title = "शिशुर्वेत्ति पशुर्वेत्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिशुर्वेत्ति पशुर्वेत्ति वेत्ति नागरसं फणी।  
 साहित्यरसमाधुर्यं शङ्करो वेत्ति वा न वा॥

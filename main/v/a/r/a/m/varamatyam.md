@@ -6,7 +6,7 @@ title = "वरमत्यन्तविफलः सुखसेव्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरमत्यन्तविफलः सुखसेव्यो हि सज्जनः।  
 न तु प्राणहरस्तीक्ष्णः शरवत्सफलः खलः॥

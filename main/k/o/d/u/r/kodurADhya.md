@@ -6,7 +6,7 @@ title = "को दुराढ्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को दुराढ्यस्य मोहाय का प्रिया मुरविद्विषः।  
 पदं प्रश्नवितर्के किं को दन्तच्छदभूषणम्॥

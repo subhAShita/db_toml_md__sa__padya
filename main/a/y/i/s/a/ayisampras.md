@@ -5,7 +5,7 @@ title = "अयि सम्प्रसीद"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि संप्रसीद पार्वति शिवोऽपि तव पादयोर्निपतितोऽहम्।  
 शिव इति कथं हि जल्पसि सरुधिरगजचर्मसंवीतः॥

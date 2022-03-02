@@ -6,7 +6,7 @@ title = "स्वगुणानिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वगुणानिव परदोषान्वक्तुं न सतोऽपि शक्नुवन्ति बुधाः।  
 स्वगुणानिव परदोषानसतोऽपि खलास्तु कथयन्ति॥

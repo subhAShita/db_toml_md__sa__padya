@@ -6,7 +6,7 @@ title = "तस्मान् महीपतीनामसम्भवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मान् महीपतीनामसम्भवे दस्युचौराणाम्।  
 एकः सुवर्णकारो निग्राह्यः सर्वथा नित्यम्॥

@@ -5,7 +5,7 @@ title = "आचाराद् विच्युतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचाराद् विच्युतो विप्रो न वेदफलमश्नुते।  
 आचारेण तु संयुक्तः संपूर्णफलभाक् स्मृतः॥

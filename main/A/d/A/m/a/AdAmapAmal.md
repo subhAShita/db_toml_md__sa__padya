@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4692", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 23",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
-title = "आदानपानलेपैः"
+jsonClass = "Subhaashita"
+title = "आदानपानलेपैः काश्चिद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदानपानलेपैः काश्चिद् गरलोपतापहारिण्यः।  
 सदसि स्थितैव सिद्धौ- षधिवल्ली कापि जीवयति॥

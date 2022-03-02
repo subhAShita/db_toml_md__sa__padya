@@ -6,7 +6,7 @@ title = "पातु वः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातु वः शितिकण्ठस्य तमालश्यामलो गलः।  
 सम्सक्तपार्वतीबाहुसुवर्णनिकषोपलः॥

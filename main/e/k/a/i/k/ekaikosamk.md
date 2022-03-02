@@ -5,7 +5,7 @@ title = "एकैकोऽसङ्ख्यजीवानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकैकोऽसंख्यजीवानां घाततो मधुनः कणः।  
 निष्पद्यते यतस्तेन मध्वश्नाति कथं बुधः॥

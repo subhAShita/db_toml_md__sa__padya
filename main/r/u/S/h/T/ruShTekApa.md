@@ -7,7 +7,7 @@ title = "रुष्टे का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रुष्टे का परपुष्टे मन्दे का हन्त मारुते चर्चा।  
 त्वयि गतवति हृदयेशे जीवनदातापि जीवनं हरति॥

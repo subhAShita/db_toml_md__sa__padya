@@ -6,7 +6,7 @@ title = "सुजनो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुजनो न याति वैरं परहितनिरतो विनाशकालेऽपि।  
 छेदेऽपि चन्दनतरुः सुरभयति मुखं कुठारस्य॥

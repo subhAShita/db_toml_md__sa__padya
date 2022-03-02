@@ -5,7 +5,7 @@ title = "एकशक्तिप्रहारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकशक्तिप्रहारेण म्रियतेऽश्वो नरोऽपि हि।  
 सहेन् महाप्रहाराणां शतं युद्धेषु वारणः॥

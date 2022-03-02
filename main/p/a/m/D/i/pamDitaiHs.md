@@ -6,7 +6,7 @@ title = "पण्डितैःसह साङ्गत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पण्डितैःसह साङ्गत्यं पण्डितैः सह सह्कथाः।  
 पण्डितैः सह मित्त्रत्वं कुर्वाणो नावसीदति॥

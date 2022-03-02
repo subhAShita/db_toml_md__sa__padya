@@ -6,7 +6,7 @@ title = "खलो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलो न साधुतां याति सद्भिः संबोधितोऽपि सन्।  
 सरित्पूरप्रपूर्णोऽपि क्षारो न मधुरायते॥

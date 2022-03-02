@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4168", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७३ शरद्वर्णनम्// 1",]
-jsonClass = "Subhaashita"
 topics = [ "+शरद्वर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अहो बाणस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो बाणस्य संधानं शरदि स्मरभूपतेः।  
 अपि सोऽयं त्विषामीशः कन्याराशिमुपागतः॥

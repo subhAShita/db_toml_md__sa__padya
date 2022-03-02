@@ -6,7 +6,7 @@ title = "गजस्य पङ्कमग्नस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गजस्य पङ्कमग्नस्य त्रपाकरमिदं महत्।  
 पादमुद्धृत्य यद्गच्छन्हरिणोऽपि हसत्यसौ॥

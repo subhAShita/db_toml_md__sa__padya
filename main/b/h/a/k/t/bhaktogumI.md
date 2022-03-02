@@ -6,7 +6,7 @@ title = "भक्तो गुणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्तो गुणी शुचिर्दक्षः प्रगल्भोऽव्यसनी क्षमी।  
 ब्राह्मणः परमर्मज्ञो दूतः स्यात्प्रतिभानवान्॥

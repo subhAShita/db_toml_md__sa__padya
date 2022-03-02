@@ -6,7 +6,7 @@ title = "महतां तादृशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतां तादृशं तेजो यत्र शाम्यन्त्यनौजसः।  
 अस्तं यान्ति प्रकाशेन तारका हि विवस्वतः॥

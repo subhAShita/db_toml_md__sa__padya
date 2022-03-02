@@ -5,7 +5,7 @@ title = "अधीते तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीते तु महाभाष्ये व्यर्था सा पदमञ्जरी।  
 नाधीते तु महाभाष्ये व्यर्था सा पदमञ्जरी॥

@@ -6,7 +6,7 @@ title = "सुवृत्तस्यैकरूपस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवृत्तस्यैकरूपस्य परप्रीत्यै धृतोन्नतेः।  
 साधोः स्तनयुगस्येव पतनं कस्य तुष्टये॥

@@ -5,7 +5,7 @@ title = "एवं सञ्चिन्त्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं संचिन्त्य मनसा प्रेत्य कर्मफलोदयम्।  
 मनोवाक्कर्मभिर्नित्यं शुभं कर्म समाचरेत्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8694", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ४७ रामनाथः// 170",]
-jsonClass = "Subhaashita"
 topics = [ "राजा", "रामनाथः",]
-title = "करकम्पितखड्गयष्टिभीमे"
+jsonClass = "Subhaashita"
+title = "करकम्पितखङ्गयष्टिभीमे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करकम्पितखङ्गयष्टिभीमे रणसंनाहितरामनाथवीरे।  
 अरिभूभृदमर्त्यसुन्दरीणाम् अचलन् दक्षिणवामलोचनानि॥

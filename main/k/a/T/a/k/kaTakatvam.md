@@ -5,7 +5,7 @@ title = "कटकत्वं पृथग्घेम्नस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटकत्वं पृथग्घेम्नस् तरंगत्वं पृथग् जलात्।  
 यथा न संभवत्येवं न जगत् पृथगीश्वरात्॥

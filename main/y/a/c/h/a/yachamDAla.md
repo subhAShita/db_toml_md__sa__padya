@@ -6,7 +6,7 @@ title = "यच्चण्डालगृहाङ्गणेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यच्-चण्डाल-गृहाङ्गणेषु वसतिः कौलेयकानां कुले  
 जन्म स्वोदरपूरणं च विघसैः न स्पर्शयोग्यं वपुः ।  

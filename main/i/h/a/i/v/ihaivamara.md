@@ -5,7 +5,7 @@ title = "इहैव नरकव्याधेश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इहैव नरकव्याधेश् चिकित्सां न करोति यः।  
 गत्वा निरौषधस्थानं स रोगी किं करिष्यति॥

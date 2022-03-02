@@ -7,7 +7,7 @@ title = "ऊर्ध्वबाहुर् विरौम्येष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊर्ध्वबाहुर् विरौम्येष न च कश्चिच् श्र्णोति मे।  
 धर्मादर्थश्च कामश्च स किमर्थं न सेव्यते॥

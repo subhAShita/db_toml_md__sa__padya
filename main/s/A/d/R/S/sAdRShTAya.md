@@ -7,7 +7,7 @@ title = "सा दृष्टा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा दृष्टा यैर्न वा दृष्टा मुषिताः सममेव ते।  
 हृदयं हृतमेकेषामन्येषां चक्षुषोः फलम्॥

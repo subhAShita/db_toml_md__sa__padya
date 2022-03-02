@@ -6,7 +6,7 @@ title = "मर्कटस्य सुरापानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मर्कटस्य सुरापानं तस्य वृश्चिकदंशनम्।  
 तन्मध्ये भूतसञ्चारो यद्वा तद्वा भविष्यति॥

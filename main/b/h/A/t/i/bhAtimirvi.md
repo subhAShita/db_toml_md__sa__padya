@@ -7,7 +7,7 @@ title = "भाति निर्विवरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भाति निर्विवरे तस्याश्चित्रं कुचयुगान्तरे।  
 क्रीडाकुण्डलितोच्चण्डकोदण्डः कुसुमायुधः॥

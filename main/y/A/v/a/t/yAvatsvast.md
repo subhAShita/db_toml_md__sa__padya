@@ -6,7 +6,7 @@ title = "यावत्स्वस्थमिदं देहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यावत्स्वस्थमिदं देहं यावन्मृत्युश्च दूरतः।  
 तावदात्महितं कुर्यात्प्राणान्ते किं करिष्यसि॥

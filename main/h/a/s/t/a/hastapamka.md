@@ -6,7 +6,7 @@ title = "हस्तपङ्कजनिविष्टकपित्थ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हस्त-पङ्कज-निविष्ट-कपित्थ-  
 व्याज-सञ्चरद्-अशेष-पुमर्थम्।  

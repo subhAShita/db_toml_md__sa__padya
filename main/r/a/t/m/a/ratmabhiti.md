@@ -6,7 +6,7 @@ title = "रत्नभित्तिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रत्नभित्तिषु सङ्क्रान्तैः प्रतिबिम्बशतैर्वृतः।  
 ज्ञातो लङ्केश्वरः कृच्छ्रादाञ्जनेयेन तत्त्वतः॥

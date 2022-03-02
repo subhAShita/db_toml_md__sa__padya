@@ -5,7 +5,7 @@ title = "आकरप्रभवः कोशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकरप्रभवः कोशः कोशाद्दण्डः प्रजायते।  
 पृथिवी कोशदण्डाभ्यां प्राप्यते कोशभूषणा॥

@@ -6,7 +6,7 @@ title = "यत एवागतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत एवागतो दोषस्तत एव निवर्तते।  
 अग्निदग्धस्य विस्फोटशान्तिः स्यादग्निना ध्रुवम्॥

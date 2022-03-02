@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0682", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 143",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अत्यायतैर्नियमकारिभिरुद्धतानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यायतैर्नियमकारिभिरुद्धतानां दिव्यैः प्रभाभिरनपायमयैरुपायैः।  
 शौरिर्भुजैरिव चतुर्भिरदः सदा यो लक्ष्मीविलासभवनैर्भुवनं बभार॥

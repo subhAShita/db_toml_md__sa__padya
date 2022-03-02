@@ -6,7 +6,7 @@ title = "हिमानीस्थगिरौ स्याताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हिमानीस्थगिरौ स्यातां कीदृशौ शशिभास्करो।  
 कः पूज्यः कः प्रमाणेभ्यो न प्रभाकरसंमतः॥

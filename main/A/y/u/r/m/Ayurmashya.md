@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5143",]
-jsonClass = "Subhaashita"
 topics = [ "कालः", "लक्ष्मीः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "आयुर्नश्यति पश्यताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुर्नश्यति पश्यतां प्रतिदिनं याति क्षयं यौवनं प्रत्यायान्ति गताः पुनर्न दिवसाः कालो जगद्भक्षकः।  
 लक्ष्मीस् तोयतरङ्गभङ्गचपला विद्युच्चलं जीवितं यस्मान्मां शरणागतं शरणद त्वं रक्ष रक्षाधुना॥

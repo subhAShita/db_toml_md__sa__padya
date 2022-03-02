@@ -5,7 +5,7 @@ title = "उद्दिष्टं वस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्दिष्टं वस्तु रागादौ किंचिदाधिक्यचिन्तितम्।  
 तद्धातुमातुनिष्पन्नं प्रत्यन्तरमितीरितम्॥

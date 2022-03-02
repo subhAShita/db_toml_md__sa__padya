@@ -6,7 +6,7 @@ title = "न विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विना पार्थिवो भृत्यैर्न भृत्याः पार्थिवं विना।  
 तेषां च व्यवहारोऽयं परस्परनिबन्धनः॥

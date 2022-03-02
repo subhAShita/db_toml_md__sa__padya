@@ -5,7 +5,7 @@ title = "अकुलानां कुले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकुलानां कुले भावं कुलीनानां कुलक्षयम्।  
 संयोगं विप्रयोगं च पश्यन्ति चिरजीविनः॥

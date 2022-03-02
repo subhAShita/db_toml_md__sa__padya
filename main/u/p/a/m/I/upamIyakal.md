@@ -5,7 +5,7 @@ title = "उपनीय कलमकुडवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपनीय कलमकुडवं कथयति सभयश्चिकित्सके हलिकः।  
 शोणं सोमार्धनिभं वधूस्तने व्याधिमुपजातम्॥

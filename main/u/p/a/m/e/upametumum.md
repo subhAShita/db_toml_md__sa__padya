@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7086", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४५ परस्परप्रसादः// 4",]
-jsonClass = "Subhaashita"
 topics = [ "परस्परप्रसादः",]
 rasas = [ "शृङ्गारः",]
-title = "उपमेतुमुन्नतिमतेव दिवम्"
+jsonClass = "Subhaashita"
+title = "उपनेतुमुन्नतिमतेव दिवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपनेतुमुन्नतिमतेव दिवं कुचयोर्युगेन तरसा कलिताम्।  
 रभसोत्थितामुपगतः सहसा परिरभ्य कश्चन वधूमरुधत्॥

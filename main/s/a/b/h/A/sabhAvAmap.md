@@ -6,7 +6,7 @@ title = "सभा वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सभा वा न प्रवेष्टव्या वक्तव्यं वा समञ्जसम्।  
 अब्रुवन्विब्रुवन्वापि नरो भवति किल्बिषी॥

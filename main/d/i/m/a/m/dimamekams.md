@@ -6,7 +6,7 @@ title = "दिनमेकं शशीपूर्णः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिनमेकं शशीपूर्णः क्षीणस्तु बहुवासरान्।  
 सुखाद्दुःखं सुराणामप्यधिकं का कथा नृणाम्॥

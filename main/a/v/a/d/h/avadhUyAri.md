@@ -5,7 +5,7 @@ title = "अवधूयारिभिर्नीता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवधूयारिभिर्नीता हरिणैस्तुल्यवृत्तिताम्।  
 अन्योन्यस्यापि जिह्रीमः किं पुनः सहवासिनाम्॥

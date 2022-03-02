@@ -6,7 +6,7 @@ title = "स्वामी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वामी निश्वसितेऽप्यसूयति मनोजिघ्रः सपत्नीजनः   
 श्वश्रूरिङ्गितदैवता नयनयोरीहालिहो यातरः ।  

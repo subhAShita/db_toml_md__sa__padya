@@ -5,7 +5,7 @@ title = "आश्लेषे सर्वदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आश्लेषे सर्वदा पत्युः सतृष्णेवान्तरात्मना।  
 अर्धनारीश्वरतनौ गौरीवृत्तं समीहते॥

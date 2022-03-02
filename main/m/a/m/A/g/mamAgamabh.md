@@ -6,7 +6,7 @@ title = "मनागनभ्यावृत्त्या वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनागनभ्यावृत्त्या वा कामं क्षाम्यतु यः क्षमी।  
 क्रियासमभिहारेण विराध्यन्तं क्षमेत कः॥

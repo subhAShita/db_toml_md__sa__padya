@@ -5,7 +5,7 @@ title = "एकेनांशेन धर्मार्थः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनांशेन धर्मार्थः कर्तव्यो भूतिमिच्छता।  
 एकेनांशेन कामार्थ एकमंशं विवर्धयेत्॥

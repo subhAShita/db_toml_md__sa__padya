@@ -5,7 +5,7 @@ title = "अर्थेन रक्षितमिदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थेन रक्षितमिदं राज्यं पुनरर्थमर्पयति।  
 अर्थैकपरो नृपतिः परिहरति पुनः क्षणादुभयम्॥

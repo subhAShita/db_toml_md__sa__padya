@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8119", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// १० बकः// 226",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - बकः",]
+jsonClass = "Subhaashita"
 title = "एष बकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष बकः सहसैव विपन्नः शाठ्यमहो क्व नु तद् गतमस्य।  
 साधु कृतान्तक कश्चिदपि त्वां वञ्चयितुं न कुतोऽपि समर्थः॥

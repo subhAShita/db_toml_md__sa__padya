@@ -6,7 +6,7 @@ title = "रक्तमांसयमः कायः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रक्तमांसयमः कायः स्त्रीणां स्पर्शसुखाय नः।  
 तमेवाश्नन्ति सिंहाद्या रम्यं नास्तीह वस्तुतः॥

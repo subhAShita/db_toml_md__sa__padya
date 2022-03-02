@@ -7,7 +7,7 @@ title = "देशे देशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देशे देशे जडिमकुरङ्गास्तेजोभल्लैर्दिनकरभिल्ले।  
 धावं धावं प्रहरति राज्ञां धारागेहं शरणमवापुः॥

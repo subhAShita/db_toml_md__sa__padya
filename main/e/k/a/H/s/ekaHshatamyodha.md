@@ -6,7 +6,7 @@ title = "एकः शतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकः शतं योधयते प्राकारस्थो धनुर्धरः।  
 शतं सहस्राणि तथा सहस्रं लक्षमेव च॥

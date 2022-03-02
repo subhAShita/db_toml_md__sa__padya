@@ -5,7 +5,7 @@ title = "इज्याध्ययनदानानि तपः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इज्याध्ययनदानानि तपः सत्यं धृतिः क्षमा।  
 अलोभ इति मार्गोऽयं धर्मस्याष्टविधः स्मृतः॥

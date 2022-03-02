@@ -5,7 +5,7 @@ title = "ऐशान्यां पतनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऐशान्यां पतनं दुष्टं विदिशोऽन्याश्च शोभनाः।  
 हर्षपुष्टिकराश्चैव सिद्धिदाः शस्त्रकर्मणि॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2617", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०३ करिणः// 6",]
-jsonClass = "Subhaashita"
 topics = [ "करिणः",]
-title = "अम्भोमुचां सलिलमुद्वमताम्"
+jsonClass = "Subhaashita"
+title = "अम्भोमुचाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्भोमुचां सलिलमुद्गिरतां निशीथे ताडीवनेषु निभृतस्थितकर्णतालाः।  
 आकर्णयन्ति करिणोऽर्धनिमीलिताक्षा धारारवं दशनकोटिनिषण्णहस्ताः॥

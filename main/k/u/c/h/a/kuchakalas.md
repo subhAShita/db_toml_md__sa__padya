@@ -6,7 +6,7 @@ title = "कुचकलशेष्वबलानामलकायामथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुचकलशेष्वबलानामलकायामथ पयोनिधेः पुलिने।  
 क्षितिपाल कीर्तयस्ते हारन्ति हरन्ति हीरन्ति॥

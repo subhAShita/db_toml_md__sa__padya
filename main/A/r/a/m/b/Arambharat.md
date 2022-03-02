@@ -5,7 +5,7 @@ title = "आरम्भरतिताऽधैर्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरम्भरतिताऽधैर्यम् असत्कार्यपरिग्रहः।  
 विषयोपसेवा चाजस्रं राजसं गुणलक्षणम्॥

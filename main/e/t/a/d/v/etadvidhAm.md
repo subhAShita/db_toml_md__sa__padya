@@ -5,7 +5,7 @@ title = "एतद् विधानमातिष्ठेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतद् विधानमातिष्ठेद् अरोगः पृथिवीपतिः।  
 अस्वस्थः सर्वमेतत् तु भृत्येषु विनियोजयेत्॥

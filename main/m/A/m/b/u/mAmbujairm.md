@@ -7,7 +7,7 @@ title = "नाम्बुजैर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाम्बुजैर्न कुसुमैरुपमेयं स्वैरिणीनयनपङ्कजयुग्मम्।  
 नोदये दिनकरस्य न वेन्दोः केवलं तमसि यस्य विकासः॥

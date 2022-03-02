@@ -6,7 +6,7 @@ title = "दुराराध्याः श्रियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुराराध्याः श्रियो राज्ञां दुरापा दुष्परिग्रहाः।  
 तिष्ठन्त्याप इवाधारे चिरमात्मनि संस्थिताः॥

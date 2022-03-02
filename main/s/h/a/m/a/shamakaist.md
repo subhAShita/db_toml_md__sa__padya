@@ -6,7 +6,7 @@ title = "शनकैस्तु क्रियालोपादिमाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शनकैस्तु क्रियालोपादिमाः क्षत्रियजातयः।  
 वृषलत्वं गता लोके ब्राह्मणादर्शनेन च॥

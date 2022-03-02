@@ -6,7 +6,7 @@ title = "वीरमत्यद्भुतं लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीरमत्यद्भुतं लोके किमलं वच्म्यतः परम्।  
 कर्तृकर्मक्रियागुप्तं मर्यादा ब्रह्मणो वयः॥

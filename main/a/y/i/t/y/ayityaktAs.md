@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2744", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१६ सङ्कीर्णान्योक्तयः// ३९ कस्तूरिका// 57",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - कस्तूरिका",]
+jsonClass = "Subhaashita"
 title = "अयि त्यक्तासि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि त्यक्तासि कस्तूरि पामरैः पङ्कशङ्कया।  
 अलं खेदेन भूपालाः किं न सन्ति महीतले॥

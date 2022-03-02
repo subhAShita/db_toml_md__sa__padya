@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2534", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 36",]
-jsonClass = "Subhaashita"
 topics = [ "काव्यम्",]
+jsonClass = "Subhaashita"
 title = "अमृतजलधेः पायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतजलधेः पायं पायं पयांसि पयोधरः किरति करकास्ताराकारा यदि स्फटिकावनौ।  
 तदिह तुलनामानीयन्ते क्षणं कठिनाः पुनः सततममृतस्यन्दोद्गारा गिरः प्रतिभावताम्॥

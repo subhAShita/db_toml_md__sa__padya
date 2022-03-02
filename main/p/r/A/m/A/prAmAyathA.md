@@ -6,7 +6,7 @@ title = "प्राणा यथात्मनोऽभीष्टा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राणा यथात्मनोऽभीष्टा भूतानामपि ते तथा।  
 आत्मौपम्येन भूतेषु दयां कुर्वन्ति साधवः॥

@@ -7,7 +7,7 @@ title = "ध्वन्यालोकं पुरस्कृत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ध्वन्यालोकं पुरस्कृत्य लोचनोन्मीलनं कुरु।  
 ट्यूशनार्जितवित्ताय भणत्यानन्दवर्धनः॥  

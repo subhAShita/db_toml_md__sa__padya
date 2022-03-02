@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0087", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 278",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अकुलीनोऽपि मूर्खोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकुलीनोऽपि मूर्खोऽपि भूपालं योऽत्र सेवते।  
 अपि संमानहीनोऽपि स सर्वत्र प्रपूज्यते॥

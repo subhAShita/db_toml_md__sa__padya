@@ -5,7 +5,7 @@ title = "काकोदुम्बरिकायां वल्मीको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकोदुम्बरिकायां वल्मीको दृश्यते शिरा तस्मिन्।  
 पुरुषत्रये सपादे पश्चिमदिक्स्था न सा वहति॥

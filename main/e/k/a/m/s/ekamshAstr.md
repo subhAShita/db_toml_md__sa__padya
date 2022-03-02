@@ -3,11 +3,11 @@ topics = [ "बहुश्रुतः", "पाण्डित्यम्", "
 sources = [ "सुश्रुतः", "सुश्रुतसंहिता",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "एकं शास्त्रमधीयानो"
+title = "एकं शास्त्रमधीयानः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं शास्त्रमधीयानः न विद्यात् शास्त्रनिश्चयम् ।  
 तस्मात् बहुश्रुतः शास्त्रं विजानीयात् चिकित्सकः॥

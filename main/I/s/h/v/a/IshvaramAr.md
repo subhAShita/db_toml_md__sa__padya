@@ -5,7 +5,7 @@ title = "ईश्वरमाराधयतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईश्वरमाराधयतो विगलितमानस्य लब्धमैश्वर्यम्।  
 स्फुटमेव भवति लघिमा गरिमापि कथं न जानीमः॥

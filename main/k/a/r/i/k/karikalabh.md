@@ -5,7 +5,7 @@ title = "करिकलभ विमुञ्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करिकलभ विमुञ्च लोलतां चर विनयव्रतमानताननः।  
 मृगपतिनखकोटिभङ्गुरो गुरुरुपरि क्षमते न तेऽङ्कुशः॥

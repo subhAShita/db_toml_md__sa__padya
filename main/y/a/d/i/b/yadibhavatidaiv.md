@@ -7,7 +7,7 @@ title = "यदि भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि भवति दैवयोगात्पुमान्विरूपोऽपि बन्धकी रहसि।  
 न तु कृच्छ्रादपि भद्रं निजकान्तं सा भजत्येव॥

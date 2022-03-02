@@ -1,13 +1,13 @@
 +++
 topics = [ "सज्जनः", "आटोपः", "बहुभाषिता", "दम्भः", "क्रियाशीलता",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 114",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "शरदि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरदि न वर्षति गर्जति वर्षति वर्षासु निःस्वनो मेघः।  
 नीचो वदति न कुरुते न वदति सुजनः करोत्येव॥

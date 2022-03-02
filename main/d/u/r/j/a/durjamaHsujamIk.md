@@ -6,7 +6,7 @@ title = "दुर्जनः सुजनीकर्तुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनः सुजनीकर्तुं यत्नेनापि न शक्यते।  
 संस्कारेणापि लशुनं कः सुगन्धीकरिष्यति॥

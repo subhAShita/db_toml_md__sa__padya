@@ -6,7 +6,7 @@ title = "वित्तम् बन्धुर्वयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वित्तम् बन्धुर्वयः कर्म विद्या भवति पञ्चमी ।  
 एतानि मान्यस्थानानि गरीयो यद्यदुत्तरम् ॥

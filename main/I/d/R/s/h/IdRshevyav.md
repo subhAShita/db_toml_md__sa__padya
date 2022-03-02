@@ -5,7 +5,7 @@ title = "ईदृशे व्यवहाराग्नौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईदृशे व्यवहाराग्नौ मन्त्रिभिः परिपातिताः।  
 स्थाने खलु महीपाला गच्छन्ति कृपणां दशाम्॥

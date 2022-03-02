@@ -5,7 +5,7 @@ title = "आसीने लालयेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसीने लालयेद् बालां तरुणीं शयने तथा।  
 उत्थितेऽप्यधिरूढां च लालनं त्रिविधं विदुः॥

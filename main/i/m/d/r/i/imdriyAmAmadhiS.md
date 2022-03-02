@@ -5,7 +5,7 @@ title = "इन्द्रियाणामधिष्ठात्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणामधिष्ठात्री भूतानां चाखिलेषु या।  
 भूतेषु सततं तस्यै व्याप्त्यै देव्यै नमो नमः॥

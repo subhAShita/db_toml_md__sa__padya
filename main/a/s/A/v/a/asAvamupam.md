@@ -5,7 +5,7 @@ title = "असावनुपनीतोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असावनुपनीतोऽपि वेदानधिजगे गुरोः।  
 स्वभावशुद्धः स्फटिको न संस्कारमपेक्षते॥

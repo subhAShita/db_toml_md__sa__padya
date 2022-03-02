@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2067", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 203",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अपि वेत्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि वेत्ति षडक्षराणि चेद् उपदेष्टुं शितिकण्ठमिच्छति।  
 वसनाशनमात्रमस्ति चेद् धनदादप्यतिरिच्यते खलः॥

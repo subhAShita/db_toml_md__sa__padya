@@ -6,7 +6,7 @@ title = "तत्किं स्मरसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्किं स्मरसि न भुक्तं यत्पिक रे काकमन्दिरे पूर्वम्।  
 सहकारकुसुमकाले हठेन कुरुषेऽधुना रावम्॥

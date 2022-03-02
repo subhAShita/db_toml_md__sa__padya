@@ -6,7 +6,7 @@ title = "न यत्नकोटिशतकैरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न यत्नकोटिशतकैरपि दुष्टः सुधीर्भवेत्।  
 किं मर्दितोऽपि कस्तूर्यां लशुनो याति सौरभम्॥

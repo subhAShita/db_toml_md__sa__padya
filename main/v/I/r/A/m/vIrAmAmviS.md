@@ -6,7 +6,7 @@ title = "वीराणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीराणां विषमैर्घोषैर्विद्रुता वारणा रणे।  
 शास्यमाना अपि त्रासाद्भेजुर्धूताङ्कुशा दिशः॥

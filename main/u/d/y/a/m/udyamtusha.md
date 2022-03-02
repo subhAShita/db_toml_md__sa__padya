@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6872",]
-jsonClass = "Subhaashita"
 topics = [ "गुरुः", "विद्वान्",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "उद्यन्तु शतमादित्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यन्तु शतमादित्या उद्यन्तु शतमिन्दवः।  
 न विना विदुषां वाक्यैर् नश्यत्याभ्यन्तरं तमः॥

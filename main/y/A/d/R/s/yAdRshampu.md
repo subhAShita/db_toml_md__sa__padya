@@ -6,7 +6,7 @@ title = "यादृशं पुस्तकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यादृशं पुस्तकं दृष्टं तादृशं लिखितं मया ।  
 

@@ -6,7 +6,7 @@ title = "सम्पुत्सु महताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्पुत्सु महतां चित्तं भवत्युत्पलकोमलम्।  
 आपत्सु च महाशैलशिलासङ्घातकर्कशम्॥

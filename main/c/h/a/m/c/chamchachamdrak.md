@@ -7,7 +7,7 @@ title = "चञ्चच्चन्द्र करस्पर्श"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चंचच्चन्द्र करस्पर्श हर्षोन्मीलिततारका. अहो रागवती सन्ध्या जहाति स्वयमम्बरम्
 </details>

@@ -6,7 +6,7 @@ title = "प्राप्तदो मधुमासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राप्तदो मधुमासः प्रबला रुक्प्रियतमोऽपि दूरस्तः।  
 असती सन्निहितेयं संहृतशीला सखी नियतम्॥

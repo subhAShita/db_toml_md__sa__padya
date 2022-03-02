@@ -6,7 +6,7 @@ title = "गुणवदगुणवद्वा कुर्वता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणवदगुणवद्वा कुर्वता कार्यमादौ   
 परिणतिरवधार्यां यत्नतः पण्डितेन।  

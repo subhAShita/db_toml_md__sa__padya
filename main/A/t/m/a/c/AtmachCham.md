@@ -5,7 +5,7 @@ title = "आत्मच्छन्देन वर्तन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मच्छन्देन वर्तन्ते नार्यो मन्मथचोदिताः।  
 न च दह्यन्ति गच्छन्त्यः सुतप्तैरपि पांसुभिः॥

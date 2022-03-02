@@ -5,7 +5,7 @@ title = "कार्ये महति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्ये महति युञ्जानो हीयतेऽर्थपतिः श्रिया।  
 स्त्रीप्रधानानि राज्यानि विद्वद्भिर्वर्जितानि च।  

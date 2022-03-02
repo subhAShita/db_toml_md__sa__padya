@@ -5,7 +5,7 @@ title = "आविर्भवति नारीणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आविर्भवति नारीणां वयः पर्यस्तशैशवम्।  
 सहैव विविधैः पुंसाम् अङ्गजोन्मादविभ्रमैः॥

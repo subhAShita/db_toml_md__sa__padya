@@ -7,7 +7,7 @@ title = "धनाशा कैतवस्नेहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनाशा कैतवस्नेहो वितथैश्चित्ततोषणम्।  
 एकमप्यस्ति नात्मासु कथं वेश्यासमा वयम्॥

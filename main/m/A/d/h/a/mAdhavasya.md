@@ -6,7 +6,7 @@ title = "माधवस्य मुरली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माधवस्य मुरली मुखलग्ना रागमावहतु किन्तु वयस्ये।  
 वंशजाहमिति मास्तु सगर्वा या बिभर्ति बहुशो विवराणि॥

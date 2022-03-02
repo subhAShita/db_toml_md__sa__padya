@@ -5,7 +5,7 @@ title = "उपचारानुनयास्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपचारानुनयास्ते कितवस्योपेक्षिताः सखीवचसा।  
 अधुना निष्ठुरमपि यदि स वदति कलिकैतवाद् यामि॥

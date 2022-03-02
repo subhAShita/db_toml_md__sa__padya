@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6932", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 214",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "उन्नतं पदमवाप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नतं पदमवाप्य यो लघुर् हेलयैव स पतेदिति ब्रुवन्।  
 शैलशेखरगतो दृषत्कणश् चारुमारुतधुतः पतत्यधः॥

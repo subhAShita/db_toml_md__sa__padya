@@ -6,7 +6,7 @@ title = "स किमु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स किमु सहेत सुधांशुः स्मरहरभालानलज्वालाः।  
 शिशिरैः शीकरनिवहैः सिञ्चति सुरनिम्नगा नो चेत्॥

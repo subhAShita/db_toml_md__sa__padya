@@ -7,7 +7,7 @@ title = "किमत्र मधु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमत्र मधु वर्तते किमु विकासमेतद्गतं  
 मनोभवधनुर्गुणे किमिदमर्पणीयं मया ।  

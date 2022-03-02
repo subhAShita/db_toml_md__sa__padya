@@ -6,7 +6,7 @@ title = "कामरिरहितामिच्छति भूपः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामरिरहितामिच्छति भूपः कामुद्धरयति शूकररूपः।  
 केनाकारि हि मन्मथजननं केन विभाति च तरुणीवदनम्॥

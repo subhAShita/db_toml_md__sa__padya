@@ -5,7 +5,7 @@ title = "अतिसाहसिकं शूरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिसाहसिकं शूरा मन्त्रिणस्तं निरूपकम्।  
 विनीतं गुरवो जज्ञुर् धूर्तमन्तःपुराङ्गनाः॥

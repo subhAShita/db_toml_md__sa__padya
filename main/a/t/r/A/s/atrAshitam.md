@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0726", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १२ वियोगिनोऽवस्थावर्णनम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "वियोगः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अत्राशितं शयितमत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्राशितं शयितमत्र निपीतमत्र सायं तया सह मया विधिवञ्चितेन।  
 इत्यादि हन्त परिचिन्तयतो वनान्ते रामस्य लोचनपयोभिरभूत् पयोधिः॥

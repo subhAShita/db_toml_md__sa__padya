@@ -6,7 +6,7 @@ title = "किं तया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं तया क्रियते लक्ष्म्या या वधूरिव केवला।  
 या न वेश्येव सामान्या पथिकैरुपभुज्यते॥

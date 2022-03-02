@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5631", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 1",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "सुरतकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आस्तां दूरेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्तां दूरेण विश्लेषः प्रियामालिङ्गतो मम।  
 स्वेदः किं न सरिन्नाथो रोमाञ्चः किं न पर्वतः॥

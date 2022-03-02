@@ -7,7 +7,7 @@ title = "तिमिरेऽपि दूरदृश्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तिमिरेऽपि दूरदृश्या कठिनाश्लेषे च रहसि मुखरा च।  
 दन्तमयवलयराजी गृहपतिशिरसा सह स्फुटतु॥

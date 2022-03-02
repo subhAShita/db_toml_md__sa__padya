@@ -5,7 +5,7 @@ title = "ऊर्ध्ववेधी भवेज्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊर्ध्ववेधी भवेज् ज्येष्ठो नाभिवेदी च मध्यमः।  
 यः पादवेधी लक्ष्यस्य स कनिष्ठो मतो मया॥

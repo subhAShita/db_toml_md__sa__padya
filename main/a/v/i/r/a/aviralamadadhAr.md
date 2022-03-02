@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3384", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 24",]
-jsonClass = "Subhaashita"
 topics = [ "गणेशः",]
+jsonClass = "Subhaashita"
 title = "अविरलमदधाराधौतकुम्भः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरलमदधाराधौतकुम्भः शरण्यः फणिवरवृतगात्रः सिद्धसाध्यादिवन्द्यः।  
 त्रिभुवनजनविघ्नध्वान्तविध्वंसदक्षो वितरतु गजवक्त्रः सन्ततं मङ्गलं वः॥

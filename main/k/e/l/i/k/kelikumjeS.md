@@ -7,7 +7,7 @@ title = "केलिकुञ्जेषु राधायाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केलिकुञ्जेषु राधायाः पादाङ्कमनु मुद्रितः ।  
 प्रसादयितुमिच्छोस्तां पादाङ्कः पातु नो हरेः ॥

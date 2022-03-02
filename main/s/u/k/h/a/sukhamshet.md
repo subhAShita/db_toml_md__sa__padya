@@ -6,7 +6,7 @@ title = "सुखं शेते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुखं शेते सत्यवक्ता सुखं शेते मितव्ययी।  
 हितभुक् मितभुक् चैव तथैव विजितेन्द्रियः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7774", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०१ केशपाशः// 5",]
-jsonClass = "Subhaashita"
 topics = [ "+केशपाशः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एणीदृशो विजयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एणीदृशो विजयते वेणी पृष्ठावलम्बिनी।  
 कशेव पञ्चबाणस्य युवतर्जनहेतवे॥

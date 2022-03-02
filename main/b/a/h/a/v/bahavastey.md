@@ -7,7 +7,7 @@ title = "बहवस्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहवस्ते यद्वदनान्निर्गत्य वचः प्रयाति यावच्छ्रवणम् ।  
 कस्यचिदेव प्रविशति हृदयान्निर्गत्य हृदयमन्यस्य पुनः ॥

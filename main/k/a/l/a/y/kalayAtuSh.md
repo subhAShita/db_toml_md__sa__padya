@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8991", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 52",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कलया तुषारकिरणस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलया तुषारकिरणस्य पुरः परिमन्दभिन्नतिमिरौघजटम्।  
 क्षणमभ्यपद्यत जनैर्न मृषा गगनं गणाधिपतिमूर्तिरिति॥

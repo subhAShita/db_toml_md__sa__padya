@@ -7,7 +7,7 @@ title = "दग्धो विधिर्विधत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दग्धो विधिर्विधत्ते न सर्वगुणसुन्दरं जनं कमपि।  
 इत्यपवादभयादिव मुग्धाक्षी निर्मिता विधिना॥

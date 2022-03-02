@@ -6,7 +6,7 @@ title = "यो मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यो मे गर्भगतस्यापि वृत्तिं कल्पितवान्स्वयम्।  
 शेषवृत्तिविधाने च स किं सुप्तोऽथवा मृतः॥

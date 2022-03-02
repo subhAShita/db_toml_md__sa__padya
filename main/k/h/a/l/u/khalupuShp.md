@@ -6,7 +6,7 @@ title = "खलु पुष्प"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलु पुष्प पुरा भवानभूत्  
 परतोषस्य विदायकं यथा।  

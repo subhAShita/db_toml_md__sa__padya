@@ -5,7 +5,7 @@ title = "उपचरिता हरिणदृशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपचरिता हरिणदृशः सज्जनगोष्ठीषु मिश्रिता वाचः।  
 चरितं क्लमनमदवनं न विधेः कुटिलादपि त्रासः॥

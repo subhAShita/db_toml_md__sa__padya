@@ -6,7 +6,7 @@ title = "सद्वंशसम्भवः शुद्धः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सद्वंशसम्भवः शुद्धः कोटिदोऽपि गुणान्वितः।  
 कामं धनुरिव क्रूरो वर्जनीयः सतां प्रभुः॥

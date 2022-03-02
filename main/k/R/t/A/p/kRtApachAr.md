@@ -6,7 +6,7 @@ title = "कृतापचारोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतापचारोऽपि परैरनाविष्कृतविक्रियः।  
 असाध्यः कुरुते कोपं प्राप्ते काले गदो यथा॥

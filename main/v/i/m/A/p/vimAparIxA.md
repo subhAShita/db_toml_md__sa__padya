@@ -6,7 +6,7 @@ title = "विना परीक्षाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विना परीक्षां नो तत्त्वं प्रसिद्धं ज्ञायते सतः।  
 स्ववर्णबन्धान्नो शुद्धिर्ज्ञायते कर्षणं विना॥

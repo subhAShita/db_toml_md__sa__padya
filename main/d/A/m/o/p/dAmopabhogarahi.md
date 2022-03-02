@@ -6,7 +6,7 @@ title = "दानोपभोगरहिता दिवसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानोपभोगरहिता दिवसा यस्य यान्ति वै।  
 स लोहकारभस्त्रेव श्वसन्नपि न जीवति॥

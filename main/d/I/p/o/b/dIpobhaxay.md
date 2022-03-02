@@ -7,7 +7,7 @@ title = "दीपो भक्षयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीपो भक्षयते ध्वान्तं कज्जलं च प्रसूयते।  
 यदन्नं भक्षयेन्नित्यं जायते तादृशी प्रजा॥

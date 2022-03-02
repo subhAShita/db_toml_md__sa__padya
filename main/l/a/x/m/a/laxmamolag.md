@@ -6,7 +6,7 @@ title = "लक्ष्मणो लघुसन्धानो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लक्ष्मणो लघुसन्धानो दूरपाती च राघवः।  
 कर्णो दृढप्रहारी च पार्थस्यैते त्रयो गुणाः॥

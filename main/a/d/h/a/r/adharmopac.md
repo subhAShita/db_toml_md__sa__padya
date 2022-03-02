@@ -5,7 +5,7 @@ title = "अधर्मोपचितं वित्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मोपचितं वित्तं हरन्त्यन्येऽल्पमेधसः।  
 संभोजनीयापदेशैर् जलानीव जलौकसः॥

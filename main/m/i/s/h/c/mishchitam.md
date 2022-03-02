@@ -6,7 +6,7 @@ title = "निश्चितं ससुरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निश्चितं ससुरः कोऽपि न कुलीनः समे मतिः।  
 सर्वथा सुरसम्बद्धं काव्यं यो नाभिनन्दति॥

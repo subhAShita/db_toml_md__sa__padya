@@ -6,7 +6,7 @@ title = "पीतमत्र मधु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पीतमत्र मधु यापिताः क्षपा भृङ्ग सर्वमचिरेण विस्मृतम्।  
 हीनमानसुषमां हिमागमे पद्मिनीं यदिह नावलोकसे॥

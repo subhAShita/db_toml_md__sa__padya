@@ -6,7 +6,7 @@ title = "सुवर्णस्य सुवर्णस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवर्णस्य सुवर्णस्य सुवर्णस्य च जानकि।  
 प्रेषिता तव रामेण सुवर्णस्य च मुद्रिका॥

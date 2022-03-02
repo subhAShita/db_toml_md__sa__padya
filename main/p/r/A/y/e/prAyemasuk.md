@@ -6,7 +6,7 @@ title = "प्रायेण सुकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायेण सुकरं दानं प्रायेण सुकरं तपः।  
 प्राणानपेक्षी व्यापारः पुनर्वीरस्य दुष्करः॥

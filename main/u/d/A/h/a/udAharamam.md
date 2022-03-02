@@ -5,7 +5,7 @@ title = "उदाहरणमाशीःषु प्रथमे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदाहरणमाशीःषु प्रथमे ते मनस्विनाम्।  
 शुष्केऽशनिरिवामर्षो यैररातिषु पात्यते॥

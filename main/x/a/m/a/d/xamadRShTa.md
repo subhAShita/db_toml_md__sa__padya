@@ -6,7 +6,7 @@ title = "क्षणदृष्टनष्टतडितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षणदृष्टनष्टतडितो निजसम्पत्तेः पयोदनिवहेन।  
 ज्ञातं साधु यदुचितं भुवनेभ्यो वितरता वारि॥

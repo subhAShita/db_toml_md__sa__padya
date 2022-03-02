@@ -6,7 +6,7 @@ title = "प्रभूतमल्पकार्यं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रभूतमल्पकार्यं वा यो नरः कर्तुमिच्छति।  
 सर्वारम्भेण तत्कुर्यात् सिंहादेकं प्रकीर्तितम्॥

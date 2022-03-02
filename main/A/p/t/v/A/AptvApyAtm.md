@@ -5,7 +5,7 @@ title = "आप्त्वाप्यात्मविनाशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आप्त्वाप्यात्मविनाशं गणयति न खलः परव्यसनकष्टम्।  
 प्रायः सहस्रनाशे समरमुखे नृत्यति कबन्धः॥

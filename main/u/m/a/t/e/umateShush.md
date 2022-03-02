@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6940", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 29",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उन्नतेषु शशिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नतेषु शशिनः प्रभा स्थिता निम्नसंश्रयपरं निशातमः।  
 नूनमात्मसदृशी प्रकल्पिता वेधसैव गुणदोषयोर् गतिः॥

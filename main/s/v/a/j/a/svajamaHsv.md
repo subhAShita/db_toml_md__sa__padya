@@ -6,7 +6,7 @@ title = "स्वजनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वजनः स्वात्मवज्जन्तुर्ज्ञायते गुणवान्परैः।  
 गोपैर्गोपवदाज्ञायि हरिर्देवो जगत्पतिः॥

@@ -5,7 +5,7 @@ title = "उदितोऽपि तुहिनगहने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदितोऽपि तुहिनगहने गगनप्रान्ते न दीप्यते तपनः।  
 कठिनघृतपूरपूर्णे शरावशिरसि प्रदीप इव॥

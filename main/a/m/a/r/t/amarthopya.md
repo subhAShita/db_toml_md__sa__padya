@@ -5,7 +5,7 @@ title = "अनर्थोऽप्यर्थरूपेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनर्थोऽप्यर्थरूपेण तथार्थोऽनर्थरूपभाक्।  
 उत्पद्यते विनाशाय तस्मादुक्तं परीक्षयेत्॥

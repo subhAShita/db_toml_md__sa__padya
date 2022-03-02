@@ -6,7 +6,7 @@ title = "कृतनिश्चयिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतनिश्चयिनो वन्द्यास्तुङ्गिमा नोपभुज्यते।  
 चातकः को वराकोऽयं यस्येन्द्रो वारिवाहकः॥

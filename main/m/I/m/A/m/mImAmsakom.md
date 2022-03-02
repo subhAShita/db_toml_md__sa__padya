@@ -6,7 +6,7 @@ title = "मीमांसको महीपोऽयमन्यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मीमांसको महीपोऽयमन्यथा शक्तिमान्कथम्।  
 नैयायिकोऽपि स्यादेव परशक्तेस्तु खण्डनात्॥

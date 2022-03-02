@@ -2,12 +2,13 @@
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 secondary_sources = [ "MSS_7265", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 20",]
 rasas = [ "शृङ्गारः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "उशना वेद"
-ratings = ["vvasuki:5",]
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उशना वेद यच्छास्त्रं यच्च वेद बृहस्पतिः।  
 स्त्रीबुद्ध्या न विशिष्येते ताः स्म रक्ष्याः कथं नरैः॥

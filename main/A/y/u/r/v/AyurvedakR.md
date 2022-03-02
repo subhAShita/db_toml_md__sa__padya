@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5156", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०५ वैद्यः// 20",]
-jsonClass = "Subhaashita"
 topics = [ "वैद्यः",]
+jsonClass = "Subhaashita"
 title = "आयुर्वेदकृताभ्यासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुर्वेदकृताभ्यासः सर्वेषां प्रियदर्शनः।  
 आर्यशीलगुणोपेत एष वैद्यो विधीयते॥

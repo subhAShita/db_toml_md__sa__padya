@@ -7,7 +7,7 @@ title = "स्तनभारोऽत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनभारोऽत्र वक्त्रेन्दुचन्द्रिकावरणं मम।  
 इति तत्पादयोर्लग्ना वेद्मि प्राङ्गणपद्मिनी॥

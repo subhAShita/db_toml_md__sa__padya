@@ -6,7 +6,7 @@ title = "ये शिरसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये शिरसा निहिता अपि न भवन्ति सखे समानसुखदुःखाः।  
 चिकुरा इव ते बाला एव जरापाण्डुभावेऽपि॥

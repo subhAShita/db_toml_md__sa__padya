@@ -5,7 +5,7 @@ title = "काले भृदुश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले भृदुश्च तीक्ष्णश्च नृपः स्याद् यदि सूर्यवत्।  
 उदयः क्रियते तस्य मण्डलेनानुरागिणा॥

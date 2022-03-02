@@ -6,7 +6,7 @@ title = "चामरीवामरीभाषा क्वचिदेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चामरीवामरीभाषा क्वचिदेव वनान्तरे।  
 राजते पामरीभाषा सूकरीव गृहे गृहे ॥

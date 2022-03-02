@@ -6,7 +6,7 @@ title = "पादाहतो ऽथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पादाहतो ऽथ धृतदण्डविघट्टितो वा   
 यं दंष्ट्रया स्पृशति तं किल हन्ति सर्पः।  

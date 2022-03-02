@@ -5,7 +5,7 @@ title = "आहारदोषाय च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहारदोषाय च काकदीति स्यादाकुटानि ध्वनितं रणाय।  
 केकेध्वनिष्ठा कुवती किकी च त्रयं त्विदं स्यात् पुरदूषणाय॥

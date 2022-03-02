@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3786", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 23",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असूत सद्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असूत सद्यः कुसुमान्यशोकः स्कन्धात् प्रभृत्येव सपल्लवानि।  
 पादेन नापैक्षत सुन्दरीणां संपर्कमाशिञ्जितनूपुरेण॥

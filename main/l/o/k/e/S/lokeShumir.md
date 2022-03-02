@@ -6,7 +6,7 @@ title = "लोकेषु निर्धनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोकेषु निर्धनो दुःखी ऋणग्रस्तस्ततोऽधिकम्।  
 ताभ्यां रोगयुतो दुःखी तेभ्यो दुःखी कुभार्यकः॥

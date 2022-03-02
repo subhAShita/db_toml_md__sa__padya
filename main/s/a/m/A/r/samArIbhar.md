@@ -6,7 +6,7 @@ title = "सन्नारीभरणोमायमाराध्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्नारीभरणोमायमाराध्य विधुशेखरम्।  
 सन्नारीभरणोऽमायस्ततस्त्वं पृथिवीं जय॥

@@ -6,7 +6,7 @@ title = "शत्रोरत्यन्तमित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शत्रोरत्यन्तमित्रं यत्तेन मैत्त्रीं विवर्जयेत्।  
 अर्दयेत्तद्विरोधेन प्रतिष्ठा घातकारिणा॥

@@ -7,7 +7,7 @@ title = "सा सर्वथैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा सर्वथैव रक्ता रागं गुञ्जेव न तु मुखे वहति।  
 वचनपटोस्तव रागः केवलमास्ये शुकस्येव॥

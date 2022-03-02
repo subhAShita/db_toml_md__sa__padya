@@ -6,7 +6,7 @@ title = "सार्वबौमभवनं वनवासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सार्वबौमभवनं वनवासो निस्वभावभवभावनया ते।  
 बालिशो हि विषयेन्द्रियचौरैर्मुष्यते स्वभवने च वने च॥

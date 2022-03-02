@@ -6,7 +6,7 @@ title = "श्रीनाथः नः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रीनाथः नः श्रुतमिति बहुधा भ्रमता मया नृलोकेषु।  
 शीलं वारवधूनां दैत्यस्त्रीणामपि प्रीतिः॥

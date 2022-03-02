@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0743", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०४ कोकिलः// 129",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - कोकिलः",]
+jsonClass = "Subhaashita"
 title = "अथ कोकिल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ कोकिल कुरु मौनं जलधरसमयेऽपि पिच्छिला भूमिः।  
 विकसति कुटजकदम्बे वक्तरि भेके कुतस्तवावसरः॥

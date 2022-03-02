@@ -7,7 +7,7 @@ title = "सुदीर्घा रागशालिन्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुदीर्घा रागशालिन्यो बहुपर्वमनोहराः।  
 तस्या विरेजुरङ्गुल्यः कामिनां सङ्कथा इव॥

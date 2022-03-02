@@ -6,7 +6,7 @@ title = "सम्भ्रमः स्नेहमाख्याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्भ्रमः स्नेहमाख्याति वपुराख्याति भोजनम्।  
 विनयो वंशमाख्याति देशमाख्याति भाषितम्॥

@@ -6,7 +6,7 @@ title = "सत्यं शौर्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं शौर्यं दया त्यागो नृपस्यैव महागुणाः।  
 एभिर्मुक्तो महीपालः प्राप्नोति खलु वाच्यताम्॥

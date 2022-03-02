@@ -5,7 +5,7 @@ title = "अप्रतिष्ठाश्च ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रतिष्ठाश्च ये केचिद् अधर्मशरणाश्च ये।  
 तेषां प्रतिष्ठा गङ्गेह शरणं शर्म वर्म च॥

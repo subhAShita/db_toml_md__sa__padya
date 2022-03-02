@@ -6,7 +6,7 @@ title = "यस्य प्रसादे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य प्रसादे पद्मास्ते विजयश्च पराक्रमे।  
 मृत्युश्च वसति क्रोधे सर्वतेजोमयो हि सः॥

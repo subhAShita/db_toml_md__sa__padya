@@ -5,7 +5,7 @@ title = "कलरवकण्ठकरम्बित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलरवकण्ठकरम्बित- कलरवकलकण्ठकूजिते सुरते।  
 तव मनुमीलितलोचन- माननमवलोकितुं प्रिये कलये॥

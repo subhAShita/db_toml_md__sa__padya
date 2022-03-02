@@ -7,7 +7,7 @@ title = "यन्न दृष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यन्न दृष्टं हि वेदेषु तद्दृष्टं स्मृतिषु द्विजाः ।  
 उभयोर्यन्न दृष्टं हि तत्पुराणैः प्रगीयते ॥

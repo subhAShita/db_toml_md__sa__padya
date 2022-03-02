@@ -6,7 +6,7 @@ title = "विश्वासप्रतिपन्नानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विश्वासप्रतिपन्नानां वञ्चने का विदग्धता।  
 अङ्कमारुह्य सुप्तानां हन्तुः किं नाम पौरुषम्॥

@@ -6,7 +6,7 @@ title = "स जयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स जयति महावराहो जलनिधिजठरे चिरं निमग्नोऽपि।  
 येनान्त्रैरिव सह फणिगणैर्बलादुद्धृता धरणी॥

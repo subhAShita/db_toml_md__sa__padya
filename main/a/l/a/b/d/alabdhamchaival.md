@@ -6,7 +6,7 @@ title = "अलब्धं चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलब्धं चैव लिप्सेत लब्धं रक्षेदवेक्षया।  
 रक्षितं वर्धयेत्सम्यग्वृद्धं तीर्थेषु निक्षिपेत्॥

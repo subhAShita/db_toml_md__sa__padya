@@ -6,7 +6,7 @@ title = "यस्य क्षेत्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य क्षेत्रं नदीतीरे भार्या वापि परप्रिया।  
 पुत्रस्य विनयो नास्ति मृत्युरेव न संशयः॥

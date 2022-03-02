@@ -5,7 +5,7 @@ title = "आलोक्य चिकुरनिकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलोक्य चिकुरनिकरं सततं सुमनोऽधिवासयोग्यं ते।  
 कामो निजं निषङ्गं परिवृत्यामृशति साशङ्कः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3633", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 20",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असम्भृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंभृतं मण्डनमङ्गयष्टेर् अनासवाख्यं करणं मदस्य।  
 कामस्य पुष्पव्यतिरिक्तमस्त्रं बाल्यात् परं साथ वयः प्रपेदे॥

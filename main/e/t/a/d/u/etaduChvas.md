@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7816", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 32",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एतदुच्छ्वसितपीतमैन्दवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदुच्छ्वसितपीतमैन्दवं सोढुमक्षममिव प्रभारसम्।  
 मुक्तषट्पदविरावमञ्जसा भिद्यते कुमुदमा निबन्धनात्॥

@@ -7,7 +7,7 @@ title = "नाधर्मश्चरितो लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाधर्मश्चरितो लोके सद्यः फलति गौरिव ।  
 शनैरावर्त्यमानस्तु कर्तुर्मूलानि कृन्तति ॥

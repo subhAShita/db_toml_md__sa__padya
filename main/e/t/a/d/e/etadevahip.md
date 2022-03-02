@@ -5,7 +5,7 @@ title = "एतदेव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदेव हि पाण्डित्यम् इयमेव बहुज्ञता।  
 अयमेव परो लाभो यत् स्वल्पाद् भूरिरक्षणम्॥

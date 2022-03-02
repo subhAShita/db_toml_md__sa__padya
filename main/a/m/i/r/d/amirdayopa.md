@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1400", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३८ प्रणयकलहे नायिकानुनयः// 1",]
-jsonClass = "Subhaashita"
 topics = [ "प्रणयकलहः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनिर्दयोपभोगस्य रूपस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्दयोपभोगस्य रूपस्य मृदुनः कथम्।  
 कठिनं खलु ते चेतः शिरीषस्येव बन्धनम्॥

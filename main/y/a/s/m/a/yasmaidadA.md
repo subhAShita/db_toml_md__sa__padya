@@ -6,7 +6,7 @@ title = "यस्मै ददाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मै ददाति विवरं भूमिः फूत्कारमात्रभीतेव।  
 आशीविषः स दैवाड्डौम्बकरण्डे स्थितिं सहते॥

@@ -5,7 +5,7 @@ title = "उच्छास्त्रपदविन्यासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्छास्त्रपदविन्यासः सहसैवाभिसंपतः।  
 शत्रुख गमुखग्रासम् अगत्वा न निवर्तते॥

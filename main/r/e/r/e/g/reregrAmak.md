@@ -6,7 +6,7 @@ title = "रे रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे रे ग्रामकुविन्द कन्दलतया वस्त्राण्यमूनि त्वया  
 गोणीविभ्रमभाजनानि बहुशः स्वात्मा किमायास्यते।  

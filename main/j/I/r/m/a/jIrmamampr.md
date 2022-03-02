@@ -6,7 +6,7 @@ title = "जीर्णमन्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीर्णमन्नं प्रशंसीयाद्भार्यां च गतयौवनम्।  
 रणात्प्रत्यागतं शूरं सस्यं च गृहमागतम्॥

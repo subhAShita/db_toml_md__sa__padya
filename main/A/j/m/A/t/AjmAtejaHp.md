@@ -5,7 +5,7 @@ title = "आज्ञा तेजः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आज्ञा तेजः पार्थिवानां सा च वाचि प्रतिष्ठिता।  
 यत्ते ब्रूयुरसत् सद्वा स धर्मो व्यवहारिणाम्॥

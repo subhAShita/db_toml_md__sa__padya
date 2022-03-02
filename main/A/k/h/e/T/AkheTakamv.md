@@ -5,7 +5,7 @@ title = "आखेटकं वृथाक्लेशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आखेटकं वृथाक्लेशं मूर्खं व्यसनसंस्थितम्।  
 समालापेन यो युङ्क्ते स गच्छति पराभवम्॥

@@ -6,7 +6,7 @@ title = "राक्षसेभ्यः सुताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राक्षसेभ्यः सुतां हृत्वा जनकस्य पुरीं ययौ।  
 अत्र कर्तृपदं गुप्तं मर्यादा दशवार्षिकी॥

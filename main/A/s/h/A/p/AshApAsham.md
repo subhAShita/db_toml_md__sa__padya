@@ -5,7 +5,7 @@ title = "आशापाशनिबद्धो नृत्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशापाशनिबद्धो नृत्यति किं वा नरो न धनिकपुरः।  
 हतशैलूषस्य विधेः कुत्र विधेयः सुखमुपैति॥

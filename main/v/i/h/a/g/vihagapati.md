@@ -6,7 +6,7 @@ title = "विहगपतिः कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विहगपतिः कं हतवानहितं कीदृग्भवति पुरं जनमहितम्।  
 किं कठिनं विदितं वद धीमन्यादःपतिरपि कीदृग्भयकृत्॥

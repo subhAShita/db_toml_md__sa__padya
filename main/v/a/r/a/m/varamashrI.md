@@ -6,7 +6,7 @@ title = "वरमश्रीकता लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ॥ वरमश्रीकता लोके नासमानसमानता।  
 इतीव कुमुदोद्भेदे कमलैर्मुकुलायितम्॥

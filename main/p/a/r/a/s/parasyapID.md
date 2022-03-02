@@ -6,7 +6,7 @@ title = "परस्य पीडया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परस्य पीडया लब्धं धर्मस्योल्लंघेनेन च ।  
 आत्मावमानसंप्राप्तं न धनं तत् सुखाय वै॥

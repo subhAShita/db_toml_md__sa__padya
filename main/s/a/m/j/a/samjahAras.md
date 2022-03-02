@@ -7,7 +7,7 @@ title = "सञ्जहार सहसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सञ्जहार सहसा परिरब्धप्रेयसीषु विरहय्य विरोधम्।  
 संहितं रतिपतिः स्मितभिन्नक्रोधमाशु तरुणेषु महेषुम्॥

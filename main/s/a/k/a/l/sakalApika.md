@@ -6,7 +6,7 @@ title = "सकलापि कला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सकलापि कला कलावतां विकलां पुण्यकलां विना खलु।  
 सकले नयने वृथा यथा तनुभाजां हि कनीनिकां विना॥

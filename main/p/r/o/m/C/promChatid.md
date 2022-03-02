@@ -7,7 +7,7 @@ title = "प्रोञ्छति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रोञ्छति धाराऽऽसारैर्जीर्णकुटीपटलपातिभिर्जलदः ।  
 विरहदिनावधिरेखाः सममायूरेखया हलिकवध्वाः ॥

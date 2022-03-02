@@ -5,7 +5,7 @@ title = "अचोद्यमानानि यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचोद्यमानानि यथा पुष्पाणि च फलानि च।  
 स्वकालं नातिवर्तन्ते तथा कर्म पुराकृतम्॥

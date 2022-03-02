@@ -7,7 +7,7 @@ title = "विरमत विरमत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरमत विरमत सख्यो नलिनीदलतालवृन्तपवनेन।  
 हृदयगतोऽयं वह्निर्झटिति कताचिज्ज्वलत्येव॥

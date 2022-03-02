@@ -6,7 +6,7 @@ title = "सर्वाशुचिनिधानस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वाशुचिनिधानस्य कृतघ्नस्य विनाशिनः।  
 शरीरकस्यापि कृते मूढाः पापानि कुर्वते॥

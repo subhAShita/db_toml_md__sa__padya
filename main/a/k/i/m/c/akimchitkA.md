@@ -5,7 +5,7 @@ title = "अकिञ्चित्कारिणां दीनैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकिंचित्कारिणां दीनैर् आकृष्टगुणकर्मणाम्।  
 अघाय गतसत्त्वानां दर्शनस्पर्शनादिकम्॥

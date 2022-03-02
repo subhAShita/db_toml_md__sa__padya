@@ -5,7 +5,7 @@ title = "अन्तः कुटिलताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तः कुटिलतां बिभ्रच् छङ्खः स खलु निष्ठुरः।  
 हुंकरोति यदा ध्मातस् तदैव बहु गण्यताम्॥

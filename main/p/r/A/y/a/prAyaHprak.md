@@ -6,7 +6,7 @@ title = "प्रायःप्रकुप्यतितराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायःप्रकुप्यतितरां प्रीत्यैव प्रखलो जनः।  
 नयनं स्नेहसंपर्कात्कालुष्यं समुपैत्यलम्॥

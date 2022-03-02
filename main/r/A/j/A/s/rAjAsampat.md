@@ -6,7 +6,7 @@ title = "राजा सम्पत्तिहीनोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा सम्पत्तिहीनोऽपि सेव्यः सेव्यगुणाश्रयः।  
 भवत्याजीवनं तस्मात्फलं कालान्तरादपि॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8726", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४५ परस्परप्रसादः// 7",]
-jsonClass = "Subhaashita"
 topics = [ "परस्परप्रसादः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कररुद्धनीवि दयितोपगतौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कररुद्धनीवि दयितोपगतौ गलितं त्वराविरहितासनया।  
 क्षणदृष्टहाटकशिलासदृश- स्फुरदूरुभित्ति वसनं ववसे॥

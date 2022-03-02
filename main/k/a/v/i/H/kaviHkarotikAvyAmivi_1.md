@@ -6,7 +6,7 @@ title = "कविः करोति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविः करोति काव्यानि विद्वान् जानाति तद् रसम् ।  
 सुता-सुरत-चातुर्यं जामाता वेत्ति नो पिता ॥

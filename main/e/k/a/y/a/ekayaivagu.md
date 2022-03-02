@@ -5,7 +5,7 @@ title = "एकयैव गुरोर्दृष्ट्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकयैव गुरोर्दृष्ट्या द्वाभ्यां वापि लभेत यत्।  
 न तत् तिसृभिरष्टाभिः सहस्रेणापि कस्यचित्॥

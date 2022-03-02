@@ -5,7 +5,7 @@ title = "कन्दलीषु कुटजेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कन्दलीषु कुटजेषु मालती- जालकेषु नवकेतकीषु च।  
 कन्थरासु मधुना सुकेकिनां संविभक्त इव वारिदोदयः॥

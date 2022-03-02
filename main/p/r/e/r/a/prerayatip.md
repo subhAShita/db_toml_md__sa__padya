@@ -6,7 +6,7 @@ title = "प्रेरयति परमनार्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेरयति परमनार्यः शक्तिविहीनोऽपि जगदभिद्रोहे।  
 ते जयति शस्त्रधारां स्वयमसमर्था शिला छेत्तुम्॥

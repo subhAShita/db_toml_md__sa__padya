@@ -7,7 +7,7 @@ title = "दिशि दिशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिशि दिशि परिहासगूढगर्भाः पिशुनगिरि गुरुगञ्जनं च तादृक्।  
 सहचरि हृदये निवेदनीयं भवदनुरोधवशादयं विपाकः॥

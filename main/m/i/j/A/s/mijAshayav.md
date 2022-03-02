@@ -6,7 +6,7 @@ title = "निजाशयवदाभाति पुंसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजाशयवदाभाति पुंसां चित्ते पराशयः।  
 प्रतिमा मुखचन्द्रस्य कृपाणे याति दीर्घताम्॥

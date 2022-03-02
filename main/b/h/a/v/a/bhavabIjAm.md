@@ -6,7 +6,7 @@ title = "भवबीजाङ्कुरजलदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवबीजाङ्कुरजलदा रागाद्याः क्षयमुपागता यस्य।  
 ब्रह्मा वा विष्णुर्वा हरो जिनो वा नमस्तस्मै॥

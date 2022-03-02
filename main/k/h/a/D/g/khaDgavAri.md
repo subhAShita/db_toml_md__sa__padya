@@ -6,7 +6,7 @@ title = "खड्गवारि भवतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गवारि भवतः किमुच्यते लोलशैवलमिवारिकुन्तलैः।  
 यत्र राजति निवेशितं त्वया राजहंसनिवहोपमं यशः॥

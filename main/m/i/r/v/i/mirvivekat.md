@@ -6,7 +6,7 @@ title = "निर्विवेकतया बाल्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्विवेकतया बाल्यं कामोन्मादेन यौवनम्।  
 वृद्धत्वं विकलत्वेन सदा सोपद्रवं नृणाम्॥

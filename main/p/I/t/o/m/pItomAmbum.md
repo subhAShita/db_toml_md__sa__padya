@@ -6,7 +6,7 @@ title = "पीतो नाम्बुनिधिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पीतो नाम्बुनिधिः न कोणपपुरी निष्पिष्य चूर्णीकृता  
 नानीतानि शिरांसि राक्षसपतेः नानायि सीता मया ।  

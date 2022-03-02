@@ -6,7 +6,7 @@ title = "तुल्यवर्णच्छदः कृष्णः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुल्यवर्णच्छदः कृष्णः कोकिलैः सह सङ्गतः।  
 केन विज्ञायते काकः स्वयं यदि न भाषते॥

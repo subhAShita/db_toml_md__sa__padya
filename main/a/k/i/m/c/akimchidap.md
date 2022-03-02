@@ -6,7 +6,7 @@ title = "अकिञ्चिदपि कुर्वाणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकिञ्चिदपि कुर्वाणः सौख्यैर्दुःखान्यपोहति।  
 तत्तस्य किमपि द्रव्यं यो हि यस्य प्रियो जनः॥

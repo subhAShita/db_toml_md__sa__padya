@@ -6,7 +6,7 @@ title = "धनागमेऽधिकं पुंसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनागमेऽधिकं पुंसां लोभमभ्येति मानसम्।  
 निदाघकाले प्रालेयः प्रायः शैत्यं वहत्यलम्॥

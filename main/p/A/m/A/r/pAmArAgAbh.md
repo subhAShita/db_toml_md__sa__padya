@@ -6,7 +6,7 @@ title = "पामारागाभिभूतस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पामारागाभिभूतस्य श्लेष्मव्याधिनिपीडित।  
 यदि ते जीवितस्येच्छा तदा भोः शीतलं जलम्॥

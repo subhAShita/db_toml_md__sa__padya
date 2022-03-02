@@ -6,7 +6,7 @@ title = "वैद्यस्तर्कविहीनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैद्यस्तर्कविहीनो निर्लज्जा कुलवधूर्यतिर्मूखः।  
 कटके च प्राहुणिको मस्तकशूलानि चत्वारि॥

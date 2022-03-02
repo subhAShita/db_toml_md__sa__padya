@@ -6,7 +6,7 @@ title = "विजेतुं प्रयतेतारीन्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विजेतुं प्रयतेतारीन्न युद्धेन कदाचन।  
 अनित्यो विजयो यस्माद्दृश्यते युध्यमानयोः॥

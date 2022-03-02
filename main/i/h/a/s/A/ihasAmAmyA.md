@@ -5,7 +5,7 @@ title = "इह सामान्यानुगमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह सामान्यानुगमं समुपदिशन्तः स्थलेष्वनेकेषु।  
 लिङ्गपरामर्शपरा नवीननैयायिका यान्ति॥

@@ -6,7 +6,7 @@ title = "अहो किमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो किमपि चित्राणि चरित्राणि महात्मनाम्।  
 लक्ष्मीं तृणाय मन्यन्ते तद्भरेण नमन्त्यपि॥

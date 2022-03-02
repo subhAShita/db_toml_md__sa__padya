@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2712", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 12",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
-title = "अयमुदितो"
+jsonClass = "Subhaashita"
+title = "अयमुदितो हिमरश्मिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमुदितो हिमरश्मिर् वनितावदनस्य कीदृशः सदृशः।  
 नीलादिकोपलम्भः स्फुरति प्रत्यक्षतः कस्य॥

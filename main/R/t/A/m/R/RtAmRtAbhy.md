@@ -7,7 +7,7 @@ title = "ऋतामृताभ्यां जीवेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋतामृताभ्यां जीवेत् तु मृतेन प्रमृतेन वा ।  
 सत्यानृताभ्यामपि वा न श्ववृत्त्या कदा चन ॥   

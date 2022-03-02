@@ -6,7 +6,7 @@ title = "बालादपि ग्रहीतव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बालादपि ग्रहीतव्यं युक्तमुक्तं मनीषिभिः।  
 रवेरविषये किं न प्रदीपस्य प्रकाशनम्॥

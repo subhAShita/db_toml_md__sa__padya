@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1619", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 16",]
-jsonClass = "Subhaashita"
 topics = [ "गणेशः",]
+jsonClass = "Subhaashita"
 title = "अन्तरायतिमिरोपशान्तये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तरायतिमिरोपशान्तये शान्तपावनमचिन्त्यवैभवम्।  
 तं नरं वपुषि कुञ्जरं मुखे मन्महे किमपि तुन्दिलं महः॥

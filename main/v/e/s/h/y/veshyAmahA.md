@@ -6,7 +6,7 @@ title = "वेश्या महापथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेश्या महापथं प्रोक्तं स्वपर्यायः पिता श्रुताः॥’.)  
 अनादायी व्ययं कुर्यादसहायी रणप्रियः।  

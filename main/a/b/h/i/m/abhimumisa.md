@@ -5,7 +5,7 @@ title = "अभिमुनि सहसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमुनि सहसा हृते परस्या घनमरुता जघनांशुकैकदेशे।  
 चकितमवसनोरु सत्रपायाः प्रतियुवतीरपि विस्मयं निनाय॥

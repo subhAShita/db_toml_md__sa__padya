@@ -5,7 +5,7 @@ title = "अहं नयनजम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहं नयनजं वारि निरोढुमपि न क्षमः।  
 रामः सीतावियोगार्तो बबन्ध सरितां पतिम्॥

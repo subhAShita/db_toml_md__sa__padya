@@ -6,7 +6,7 @@ title = "शिवोच्छिष्टं जगत्सर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिवोच्छिष्टं जगत्सर्वम्
 </details>

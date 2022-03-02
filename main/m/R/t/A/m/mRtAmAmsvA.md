@@ -6,7 +6,7 @@ title = "मृतानां स्वामिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृतानां स्वामिनः कार्ये भृत्यानामनुवर्तिनाम्।  
 भवेत्स्वर्गेऽक्षयो वासः कीर्तिश्च धरणीतले॥

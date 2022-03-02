@@ -5,7 +5,7 @@ title = "इन्दुभास्करयोर्यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दुभास्करयोर्यत्र नभःसंचारखिन्नयोः।  
 पताकाः पवनाधूताः भजन्ते तालवृन्तताम्॥

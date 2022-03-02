@@ -7,7 +7,7 @@ title = "यस्य धूलिकणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य धूलिकणो भूमिरापो यस्याम्बुसीकरः    
 स्फुलिङ्गो यस्य सप्तार्चिर्यस्यैकश्वसितं मरुत् ॥  

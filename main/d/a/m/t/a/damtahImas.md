@@ -7,7 +7,7 @@ title = "दन्तहीनस्य मिष्टान्ने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दन्तहीनस्य मिष्टान्ने क्लीबस्य तरुणीजने।  
 अन्धस्यालेख्यके प्रीतिः कथं जायेत धीधन॥

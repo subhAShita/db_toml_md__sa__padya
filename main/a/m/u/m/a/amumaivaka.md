@@ -5,7 +5,7 @@ title = "अमुनैव कषायितस्तनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुनैव कषायितस्तनी सुभगेन प्रियगात्रभस्मना।  
 नवपल्लवसंस्तरे यथा रचयिष्यामि तनुं विभावसौ॥

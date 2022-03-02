@@ -6,7 +6,7 @@ title = "दक्षिणाशाप्रवृत्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दक्षिणाशाप्रवृत्तस्य प्रसारितकरस्य च।  
 तेजस्तेजस्विनोऽर्कस्य हीयतेऽन्यस्य का कथा॥

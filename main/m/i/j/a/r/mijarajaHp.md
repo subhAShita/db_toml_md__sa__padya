@@ -7,7 +7,7 @@ title = "निजरजः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजरजः पटवासमिवाकिरद्धृतपटोपमवारिमुचां दिशाम्।  
 प्रियवियुक्तवधूजनचेतसामनवनी नवनीपवनावलिः॥

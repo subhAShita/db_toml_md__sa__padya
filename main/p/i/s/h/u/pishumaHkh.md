@@ -6,7 +6,7 @@ title = "पिशुनः खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिशुनः खलु सुजनानां खलमेव पुरो निधाय जेतव्यः।  
 कृत्वा ज्वरमात्मीयं जिगाय बाणं रणे विष्णुः॥

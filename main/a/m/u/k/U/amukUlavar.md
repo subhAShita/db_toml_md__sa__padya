@@ -5,7 +5,7 @@ title = "अनुकूलवरपुरन्ध्रिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुकूलवरपुरंध्रिषु पुरुषाणां बद्धमूलरागाणाम्।  
 नयति मनो दुःशीलः कुसुमास्त्रो हीनपात्रेषु॥

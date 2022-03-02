@@ -5,7 +5,7 @@ title = "एतदनूपे वाच्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदनूपे वाच्यं जाङ्गलभूमौ च पञ्चभिः पुरुषैः।  
 एतैरेव निमित्तैर् मरुभूमावष्टभिः कथयेत्॥

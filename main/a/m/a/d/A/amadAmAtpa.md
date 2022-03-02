@@ -5,7 +5,7 @@ title = "अन्नदानात् परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नदानात् परं दानं न भूतं न भविष्यति।  
 अन्नेन धार्यते सर्वं जगदेतच्चराचरम्॥

@@ -5,7 +5,7 @@ title = "अनिर्वेदः श्रियो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्वेदः श्रियो मूलं दुःखनाशे सुखस्य च।  
 महान् भवत्यनिर्विण्णः सुखं चात्यन्तमश्नुते॥

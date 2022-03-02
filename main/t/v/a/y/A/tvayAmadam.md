@@ -7,7 +7,7 @@ title = "त्वया मदङ्गेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वया मदङ्गेषु कृतानि शौरे  
 कालेन रोहन्ति नखक्षतानि ।  

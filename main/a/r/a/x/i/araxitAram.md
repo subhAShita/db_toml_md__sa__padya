@@ -5,7 +5,7 @@ title = "अरक्षितारं राजानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरक्षितारं राजानं बलिषड्भागहारिणम्।  
 तमाहुः सर्वलोकस्य समग्रमलहारकम्॥

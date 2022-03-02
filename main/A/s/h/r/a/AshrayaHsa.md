@@ -5,7 +5,7 @@ title = "आश्रयः सर्वभूतानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आश्रयः सर्वभूतानां निवासः सर्वपक्षिणाम्।  
 ददाति सदृशा भागं सजलस्य पयोमुचः॥

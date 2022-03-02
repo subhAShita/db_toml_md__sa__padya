@@ -1,13 +1,13 @@
 +++
 topics = [ "नीतिः", "सौराज्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 405",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
-title = "राजन् दुधुक्षसि"
+jsonClass = "Subhaashita"
+title = "राजन्दुधुक्षसि यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजन्दुधुक्षसि यदि क्षितिधेनुमेतां तेनाद्य वत्समिव लोकममुं पुषाण।  
 तस्मिंश्च सम्यगनिशं परिपोष्यमाणे नानाफलैः फलति कल्पलतेव भूमिः॥

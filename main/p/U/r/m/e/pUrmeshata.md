@@ -6,7 +6,7 @@ title = "पूर्णे शतसहस्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूर्णे शतसहस्रे द्वे पदातीनां नरोत्तमः।  
 प्रजज्वाल रणे भीष्मो विधूम इव पावकः॥

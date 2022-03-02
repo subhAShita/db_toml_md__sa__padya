@@ -5,7 +5,7 @@ title = "काकमाची तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकमाची तथा कुष्ठं गोतक्रेण च पाचयेत्।  
 नाशयेन् मण्डलिक्ष्वेडम् अगदोऽयं सुनिश्चितम्॥

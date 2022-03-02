@@ -6,7 +6,7 @@ title = "गवादीनां पयोऽन्येद्युः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गवादीनां पयोऽन्येद्युः सद्यो वा जायते दधि।  
 क्षीरोदधेस्तु नाद्यापि महतां विकृतिः कुतः॥

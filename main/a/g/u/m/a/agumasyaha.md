@@ -6,7 +6,7 @@ title = "अगुणस्य हतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगुणस्य हतं रूपमशीलस्य हतं कुलम्।  
 असिद्धेस्तु हता विद्या अभोगस्य हतं धनम्॥

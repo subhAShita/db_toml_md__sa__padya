@@ -6,7 +6,7 @@ title = "तुल्यार्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुल्यार्थं तुल्यसामर्थ्यं सर्वज्ञं व्यवसायिनम्।  
 अर्धराज्यहरं भृत्यं यो न हन्यात्स हन्यते॥

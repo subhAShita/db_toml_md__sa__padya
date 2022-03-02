@@ -5,7 +5,7 @@ title = "आरुरुक्षोर्मुनेर्योगम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते।  
 योगारूढस्य तस्यैव शमः कारणमुच्यते॥

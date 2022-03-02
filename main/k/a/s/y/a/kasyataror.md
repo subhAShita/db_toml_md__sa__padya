@@ -6,7 +6,7 @@ title = "कस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्य तरोरुपरिष्टात्खिन्नोऽसौ श्रान्तिमपनयतु॥
 </details>

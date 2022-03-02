@@ -5,7 +5,7 @@ title = "यदप्यल्पतरं कर्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदप्यल्पतरं कर्म तदप्येकेन दुष्करम्।  
 पुरुषेणासहायेन किमु राज्यं महोदयम्॥

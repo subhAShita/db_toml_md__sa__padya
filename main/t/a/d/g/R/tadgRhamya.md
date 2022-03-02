@@ -6,7 +6,7 @@ title = "तद्गृहं यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तद्गृहं यत्र वसतिस्तद्भोग्यं येन जीवति।  
 तन्मुक्तये यदेवाक्तं ज्ञानमज्ञानमन्यथा॥

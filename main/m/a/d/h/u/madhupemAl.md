@@ -6,7 +6,7 @@ title = "मधुपे मालतीपुष्पम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुपे मालतीपुष्पं सतृष्णं यातुमुद्यते।  
 हन्त दैवादुपागम्योपात्तमारण्यकेन तत्॥

@@ -6,7 +6,7 @@ title = "महीरुहो विहङ्गानामेते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महीरुहो विहङ्गानामेते हृद्यैः कलापिनाम्।  
 विरुतैः स्वागतानीव नीरवाहाय कुर्वते॥

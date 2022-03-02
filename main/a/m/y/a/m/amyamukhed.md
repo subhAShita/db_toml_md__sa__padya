@@ -6,7 +6,7 @@ title = "अन्यमुखे दुर्वादो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यमुखे दुर्वादो यः प्रियवदने स एव परिहासः।  
 इतरेन्धनजन्मा यो धूमः सोऽगुरुभवो धूपः॥

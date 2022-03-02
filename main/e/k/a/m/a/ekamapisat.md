@@ -5,7 +5,7 @@ title = "एकमपि सताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकमपि सतां सुकृतं विकसति तैलं यथा जले न्यस्तम्।  
 असतामुपकारशतं संकुचति सुशीतले घृतवत्॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2699", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 43",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
-title = "अयमसौ"
+jsonClass = "Subhaashita"
+title = "अयमसौ गगनाङ्गणदीपकस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमसौ गगनाङ्गणदीपकस् तरलकालभुजंगशिखामणिः।  
 क्षणविडम्बितवाडवविग्रहः पतति वारिनिधौ विधुरो रविः॥

@@ -6,7 +6,7 @@ title = "प्रमोदं जनयत्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रमोदं जनयत्येव सदारा गृहमेधिनः।  
 यदि धर्माश्च कामश्च भवेतां सङ्गताविमौ॥

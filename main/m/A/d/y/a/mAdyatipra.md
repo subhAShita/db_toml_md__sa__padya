@@ -7,7 +7,7 @@ title = "माद्यति प्रमदाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माद्यति प्रमदां दृष्ट्वा सुरां पीत्वा न माद्यति।  
 यस्मादृष्टिमदा नारी तस्मात् तां परिवर्जयेत्॥

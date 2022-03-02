@@ -6,7 +6,7 @@ title = "मासि मासि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मासि मासि समा ज्योत्स्ना पक्षयोरुभयोरपि।  
 तत्रैकः शुक्लपक्षोऽभूद्यशः पुण्यैरवाप्यते॥

@@ -6,7 +6,7 @@ title = "नित्यमास्यं शुचि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नित्यमास्यं शुचि स्त्रीणां शकुनिः फलपातने।  
 वत्सोऽपि स्तनपाने स्याच्छ्वा मृगग्रहणे शुचिः॥

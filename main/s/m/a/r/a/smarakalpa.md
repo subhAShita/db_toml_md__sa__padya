@@ -7,7 +7,7 @@ title = "स्मरकल्पद्रुमो बाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मरकल्पद्रुमो बाले तव भाले द्विपत्त्रकः।  
 पत्त्रयोरनयोश्छाया भ्रुवोर्व्याजादुदञ्चति॥

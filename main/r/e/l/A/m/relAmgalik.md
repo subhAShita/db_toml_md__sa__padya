@@ -6,7 +6,7 @@ title = "रे लाङ्गलिक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे लाङ्गलिक निषद्याक्रोडे लोहं पुरा यदद्राक्षीः।  
 स्पर्शस्पर्शविशेषात्तदखिलमजनिष्ट हेम नृपयोग्यम्॥

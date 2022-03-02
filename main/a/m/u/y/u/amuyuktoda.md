@@ -5,7 +5,7 @@ title = "अनुयुक्तो दस्युवधे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुयुक्तो दस्युवधे रणे कुर्यात् पराक्रमम्।  
 नास्य कृत्यमतः किंचिद् अन्यद् दस्युनिबर्हणात्॥

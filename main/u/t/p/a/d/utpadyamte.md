@@ -5,7 +5,7 @@ title = "उत्पद्यन्ते विपद्यन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पद्यन्ते विपद्यन्ते मद्विधाः क्षुद्रजन्तवः।  
 परार्थबद्धकक्ष्याणां तादृशामुद्भवः कुतः॥

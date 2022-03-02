@@ -5,7 +5,7 @@ title = "इतरोपायदुःसाध्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतरोपायदुःसाध्ये चण्डदण्डो महीपतिः।  
 अदुष्टायत्यसौ नीतेर् अश्नाति विपुलं फलम्॥

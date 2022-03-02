@@ -6,7 +6,7 @@ title = "केऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केऽपि स्वभावलुब्धास्तीव्रतरां यातनामपि सहन्ते।  
 न तु संत्यजन्ति वित्तं मात्सर्यमिवाधमाः सततम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5958", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 180",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "इदमेव नरेन्द्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमेव नरेन्द्राणां स्वर्गद्वारमनर्गलम्।  
 यदात्मनः प्रतिज्ञा च प्रजा च परिपाल्यते॥

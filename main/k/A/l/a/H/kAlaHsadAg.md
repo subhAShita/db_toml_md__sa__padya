@@ -5,7 +5,7 @@ title = "कालः सदागतिरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालः सदागतिरपि स्थायीव परिचेष्टते।  
 चण्डमारुतवद् विश्वम् अधरोत्तरयन् क्षणात्॥

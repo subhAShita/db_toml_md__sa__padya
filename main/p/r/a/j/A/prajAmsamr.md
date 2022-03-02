@@ -6,7 +6,7 @@ title = "प्रजां सम्रक्षति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रजां सम्रक्षति नृपः सा वर्धयति पार्थिवम्।  
 वर्धनाद्रक्षणं श्रेयस्तन्नाशेऽन्यत्सदप्यसत्॥

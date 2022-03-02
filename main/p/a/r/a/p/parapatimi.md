@@ -7,7 +7,7 @@ title = "परपतिनिर्दयकुलटाशोषित शठ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परपतिनिर्दयकुलटाशोषित शठ नेर्ष्यया न कोपने।  
 दग्धममतोपतप्ता रोदिमि तव तानवं वीक्ष्य॥

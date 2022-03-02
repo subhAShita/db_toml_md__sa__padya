@@ -6,7 +6,7 @@ title = "मुकुटे रोपितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुकुटे रोपितः काचश्चरणाभरणे मणिः।  
 नहि दोषो मणेरस्ति किन्तु साधोरविज्ञता॥

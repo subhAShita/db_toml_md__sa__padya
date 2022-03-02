@@ -6,7 +6,7 @@ title = "नक्तं यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नक्तं यो धवलेन्दुमण्डलगतः संलक्ष्यते कालिमा  
 तं पङ्कं शशकं घनान्धतमसं मूढाः समाचक्षते ।  

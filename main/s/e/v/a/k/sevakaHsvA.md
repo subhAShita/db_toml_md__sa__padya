@@ -6,7 +6,7 @@ title = "सेवकः स्वामिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सेवकः स्वामिनं द्वेष्टि कृपणं परुषाक्षरम्।  
 आत्मानं किं स न द्वेष्टि सेव्यासेव्यं न वेत्ति यः॥

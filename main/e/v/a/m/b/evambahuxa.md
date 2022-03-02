@@ -5,7 +5,7 @@ title = "एवं बहु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 एवं बहु क्षपयति स्वल्पस्यार्थे धनान्धधीः॥

@@ -5,7 +5,7 @@ title = "कथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं त्वदुपलम्भाशाविहताविह तादृशी।  
 अवस्था नालमारोढुम् अङ्गनामङ्गनाशिनी॥

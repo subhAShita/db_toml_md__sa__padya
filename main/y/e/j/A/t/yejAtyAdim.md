@@ -6,7 +6,7 @@ title = "ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये जात्यादिमहागर्वान्नरेन्द्रान्नोपयान्ति च।  
 तेषामामरणं भिक्षा प्रायश्चित्तं विनिर्मितम्॥

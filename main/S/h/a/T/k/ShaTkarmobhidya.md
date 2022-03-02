@@ -6,7 +6,7 @@ title = "षट्कर्णो भिद्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 षट्कर्णो भिद्यते मन्त्रस्तथा प्राप्तश्च वार्तया।  
 इत्यात्मना द्वितीयेन मन्त्रः कार्यो महीभृता॥

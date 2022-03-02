@@ -5,7 +5,7 @@ title = "अलङ्कारभृतो रीतिमन्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलंकारभृतो रीतिमन्तः सिद्धा रसोन्नतौ।  
 लक्षणैर्लक्षितात्मानः कृतिनो ननु केचन॥

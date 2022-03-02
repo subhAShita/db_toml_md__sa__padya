@@ -5,7 +5,7 @@ title = "आत्मपक्षपरित्यागात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मपक्षपरित्यागात् परपक्षेषु यो रतः।  
 स परैर्हन्यते मूढो नीलवर्णशृगालवत्॥

@@ -5,7 +5,7 @@ title = "आत्मानं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं च परं चैव पलायन् हन्ति संयुगे।  
 द्रव्यनाशो व्ययोऽकीर्तिर् अयशश्च पलायने॥

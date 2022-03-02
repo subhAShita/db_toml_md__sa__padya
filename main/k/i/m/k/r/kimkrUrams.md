@@ -6,7 +6,7 @@ title = "किं क्रूरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं क्रूरं स्त्रीहृदयं किं गृहिणः प्रियहिताय दारगुणाः।  
 कः कामः सङ्कल्पः किं दुष्करसाधनं प्रज्ञा॥

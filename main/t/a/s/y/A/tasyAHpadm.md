@@ -7,7 +7,7 @@ title = "तस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्याः पद्मपलाशाक्ष्यास्तन्व्यास्तज्जघनं घनम्।  
 दृष्टं सखीभिर्याभिस्ताः पुम्भावं मनसा ययुः॥

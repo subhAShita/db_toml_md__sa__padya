@@ -6,7 +6,7 @@ title = "यशःपटोऽयमद्भुतो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यशःपटोऽयमद्भुतो न ते महीप कञ्चुकः।  
 सुपुण्यकर्म भात्यदो जयप्रदं सुरक्षणम्॥

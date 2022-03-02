@@ -5,7 +5,7 @@ title = "आचार्यश्च पिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचार्यश्च पिता चैव माता भ्राता च पूर्वजः।  
 नार्तेनाप्यवमन्तव्या ब्राह्मणेन विशेषतः॥

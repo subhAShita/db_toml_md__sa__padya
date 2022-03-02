@@ -6,7 +6,7 @@ title = "शत्रोरपि गुणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शत्रोरपि गुणा वाच्या दोषा वाच्या गुरोरपि।  
 सर्वदा सर्वयत्नेन पुत्रे शिष्यवदाचरेत्॥

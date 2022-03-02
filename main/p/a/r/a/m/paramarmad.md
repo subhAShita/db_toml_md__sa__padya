@@ -6,7 +6,7 @@ title = "परमर्मदिव्यदर्शिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परमर्मदिव्यदर्शिषु जात्यैवोचितनिगूढवैरेषु।  
 कः खलु खलेषु शङ्कां श्लथयिष्यति दम्भनिरतेषु॥

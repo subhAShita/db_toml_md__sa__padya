@@ -6,7 +6,7 @@ title = "धन्यास्ते न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धन्यास्ते न पश्यन्ति देशभङ्गं कुलक्षयम्।  
 परचित्तगतान्दारान्पुत्रं च व्यसनातुरम्॥

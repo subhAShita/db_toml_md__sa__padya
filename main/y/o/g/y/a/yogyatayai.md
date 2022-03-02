@@ -6,7 +6,7 @@ title = "योग्यतयैव विनाशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योग्यतयैव विनाशं प्रायोऽनार्येषु यान्ति गुणवन्तः।  
 स्फुटवचना एव शुकाः पञ्जरबन्धं निषेवन्ते॥

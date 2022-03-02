@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4936", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५८ प्रभातवर्णनम्// 16",]
-jsonClass = "Subhaashita"
 topics = [ "प्रभातम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आपाटलैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपाटलैः प्रथममङ्कुरितैर्मयूखैर् अह्नां पतिः प्रथमशैलविहारिणीनाम्।  
 सोऽयं करोति सुरपुङ्गवसुन्दरीणां कर्णेषु कल्पतरुपल्लवभङ्गलक्ष्मीम्॥

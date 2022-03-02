@@ -5,7 +5,7 @@ title = "आसाद्यते कथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसाद्यते कथं वा शौर्याश्रयणेन गौरवध्वंसः।  
 तत् तत्र दत्तचित्तश् चित्तजसंतापभाजनं न जनः॥

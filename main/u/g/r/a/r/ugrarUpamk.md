@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6300", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "सुरतकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उग्ररूपं कुचद्वन्द्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उग्ररूपं कुचद्वन्द्वं हारग गाधरं तव।  
 चन्द्रचूडं करिष्यामि कुरु तावद् दिगम्बरम्॥

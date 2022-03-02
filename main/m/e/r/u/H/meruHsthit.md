@@ -6,7 +6,7 @@ title = "मेरुः स्थितोऽतिदूरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मेरुः स्थितोऽतिदूरे मनुष्यभूमिं परां परित्यज्य।  
 भीतो भयेन चौर्याद्घोराणां हेमकाराणाम्॥

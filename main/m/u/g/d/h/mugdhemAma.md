@@ -7,7 +7,7 @@ title = "मुग्धे मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुग्धे मानं न ते कर्तुं युक्तं प्राणाधिके प्रिये।  
 धत्से मत्सी कियत्कालं जीवितं जीवनं विना॥

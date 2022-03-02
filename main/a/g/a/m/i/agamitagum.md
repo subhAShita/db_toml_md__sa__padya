@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0165", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १९ नायकस्याग्रे दूत्युक्तयः// 17",]
-jsonClass = "Subhaashita"
 topics = [ "नायकस्याग्रे दूत्युक्तयः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अगणितगुणेन सुन्दर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगणितगुणेन सुन्दर कृत्वा चारित्रमप्युदासीनम्।  
 भवतानन्यगतिः सा विहितावर्तेन तरणिरिव॥

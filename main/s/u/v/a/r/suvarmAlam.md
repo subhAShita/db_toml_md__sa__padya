@@ -6,7 +6,7 @@ title = "सुवर्णालङ्कृता कन्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवर्णालङ्कृता कन्या हेमालङ्कारवर्जिता।  
 सा कन्या विधवा जाता गृहे रोदिति तत्पतिः॥

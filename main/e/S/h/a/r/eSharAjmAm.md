@@ -5,7 +5,7 @@ title = "एष राज्ञाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष राज्ञां परो धर्मो ह्यार्तानामार्तिनिग्रहः।  
 ... ... ... ... ... ...॥

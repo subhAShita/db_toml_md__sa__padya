@@ -6,7 +6,7 @@ title = "रविसुतकृतगोकर्णः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रविसुतकृतगोकर्णः श्रुतिविषयगुणाम्बरो वनात्मधरः।  
 नरकशिरा जगदखिलं चिरमव्यादसमरुक्पाणिः॥

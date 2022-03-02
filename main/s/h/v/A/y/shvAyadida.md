@@ -7,7 +7,7 @@ title = "श्वा यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्वा यदि दशति मनुष्यान्न ते जनास्तं पुनः प्रतिदशन्ति।  
 यद्याक्रोशति नीचो न सज्जनस्तं वदति किंचित्॥

@@ -5,7 +5,7 @@ title = "एकाहारेण सन्तुष्टः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकाहारेण संतुष्टः षट्कर्मनिरतः सदा।  
 ऋतुकालाभिगामी च स विप्रो द्विज उच्यते॥

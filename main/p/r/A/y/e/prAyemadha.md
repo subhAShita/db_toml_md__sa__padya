@@ -6,7 +6,7 @@ title = "प्रायेण धनिनामेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायेण धनिनामेव धनलोभो निरन्तरम्।  
 पश्य कोटिद्वयोपेतं लक्षाय प्रणतं धनुः॥

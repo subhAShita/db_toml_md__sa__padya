@@ -6,7 +6,7 @@ title = "समस्तनीतिशास्त्रज्ञो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समस्तनीतिशास्त्रज्ञो वाहने पूजितश्रमः।  
 शौर्यवीर्यगुणोपेतः सेनाध्यक्षो विधीयते॥

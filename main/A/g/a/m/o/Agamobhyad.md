@@ -5,7 +5,7 @@ title = "आगमोऽभ्यधिको भोगाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगमोऽभ्यधिको भोगाद् विना पूर्वक्रमागतात्।  
 आगमेऽपि बलं नैव भुक्तिः स्तोकापि यत्र नो॥

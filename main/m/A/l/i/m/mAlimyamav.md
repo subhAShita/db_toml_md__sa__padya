@@ -6,7 +6,7 @@ title = "मालिन्यमवलम्बेत यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मालिन्यमवलम्बेत यदा दर्पणवत्खलः।  
 तदैव तन्मुखे देयं रजो नान्या प्रतिक्रिया॥

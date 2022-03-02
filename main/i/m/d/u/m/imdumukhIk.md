@@ -5,7 +5,7 @@ title = "इन्दुमुखी कुमुदाक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दुमुखी कुमुदाक्षी रम्भोरू कमलचारुकरचरणा।  
 अमृतद्रवलावण्या हृदयगता देवि किं दहसि॥

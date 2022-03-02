@@ -7,7 +7,7 @@ title = "स्मेरं विधाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मेरं विधाय नयनं विकसितमिव नीलमुत्पलं मयि सा।  
 कथयामास कृशाङ्गी मनोगतं निखिलमाकूतम्॥

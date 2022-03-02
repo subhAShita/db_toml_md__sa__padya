@@ -5,7 +5,7 @@ title = "उत्पतन्ति यदाकाशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पतन्ति यदाकाशे निपतन्ति महीतले।  
 पक्षिणस् तदपि प्राप्त्या नादत्तमुपतिष्ठते॥

@@ -6,7 +6,7 @@ title = "शतेषु जायते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शतेषु जायते शूरः सहस्रेषु च पण्डितः।  
 वक्ता दशसहस्रेषु दाता भवति वा न वा॥

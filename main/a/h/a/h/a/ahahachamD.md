@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4072", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०४ वाय्वन्योक्तयः// 7",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वायुः",]
-title = "अहह चण्डसमीरण"
+jsonClass = "Subhaashita"
+title = "अहह चण्ड"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहह चण्ड समीरण दारुणं किमिदमाचरितं चरितं त्वया।  
 यदिह चातकचञ्चुपुटोदरे पतति वारि तदेव निवारितम्॥

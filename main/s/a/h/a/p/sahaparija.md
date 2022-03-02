@@ -6,7 +6,7 @@ title = "सह परिजनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सह परिजनेन विलसति धीरो गहनानि तरति पुनरेकः।  
 विषमेकेन निपीतं त्रिपुरजिता सह सुरैरमृतम्॥

@@ -5,7 +5,7 @@ title = "उष्ट्राणां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उष्ट्राणां च विवाहेषु गीतं गायन्ति गर्दभाः।  
 परस्परं प्रशंसन्ति अहो रूपमहो अहो ध्वनिः॥

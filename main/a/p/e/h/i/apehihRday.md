@@ -5,7 +5,7 @@ title = "अपेहि हृदयाद्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपेहि हृदयाद्वा मे वामे दर्शनमेहि वा।  
 अदूरविरहोत्कण्ठादुःखं दुःकेन सह्यते॥

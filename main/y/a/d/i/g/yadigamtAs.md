@@ -7,7 +7,7 @@ title = "यदि गन्तासि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि गन्तासि दिगन्तं पथिक पतिस्तत्र सम्बोध्यः।  
 नयनश्रवणाविहीना कथमुपचर्या मयैकया जननी॥

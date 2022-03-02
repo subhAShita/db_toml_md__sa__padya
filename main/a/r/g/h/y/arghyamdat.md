@@ -5,7 +5,7 @@ title = "अर्घ्यं दत्त्वाथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्घ्यं दत्त्वाथ देवाय भास्कराय समाहितः।  
 ततोऽलंकृतगात्रः सन् वृत्तमालोक्य मन्त्रवत्॥

@@ -5,7 +5,7 @@ title = "अहो दुःखमहोदुःखमहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो दुःखमहोदुःखमहो दुःखं दरिद्रता।  
 तत्रापि पुत्रभार्याणां बाहुल्यमतिदुःखदम्॥

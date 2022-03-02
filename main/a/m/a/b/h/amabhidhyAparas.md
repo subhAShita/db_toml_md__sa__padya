@@ -6,7 +6,7 @@ title = "अनभिध्या परस्वेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनभिध्या परस्वेषु सर्वसत्वेषु सौहृदम्।  
 कर्मणां फलमस्तीति मनसा त्रितयं चरेत्॥

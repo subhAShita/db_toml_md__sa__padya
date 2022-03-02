@@ -5,7 +5,7 @@ title = "अभितो नितराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभितो नितरां सलिलं जलदे दातुं समुद्यते भवति।  
 तदपि बहुलमल्पं वा पात्राधीनं मतं पतनम्॥

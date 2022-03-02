@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2073", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 523",]
 topics = [ "नीतिः", "मैत्री", "स्नेहः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अपि सम्पूर्णतायुक्तैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि संपूर्णतायुक्तैः कर्तव्याः सुहृदो बुधैः।  
 नदीशः परिपूर्णोऽपि चन्द्रोदयमपेक्षते॥

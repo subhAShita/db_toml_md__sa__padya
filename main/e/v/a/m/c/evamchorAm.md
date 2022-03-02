@@ -5,7 +5,7 @@ title = "एवं चोरानचोराख्यान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं चोरानचोराख्यान् वणिक्कारुकुशीलवान्।  
 भिक्षुकान् कुहकांश्चान्यान् वारयेद् देशपीडनात्॥

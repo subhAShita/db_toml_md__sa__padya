@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2638", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 128",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अयं दरिद्रो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं दरिद्रो भवितेति वैधसीं लिपिं ललाटेऽर्थिजनस्य जाग्रतीम्।  
 मृषा न चक्रेऽल्पितकल्पपादपः प्रणीय दारिद्र्यदरिद्रतां नलः॥

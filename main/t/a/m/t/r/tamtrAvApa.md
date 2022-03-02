@@ -6,7 +6,7 @@ title = "तन्त्रावापविदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तन्त्रावापविदा योगैर्मण्डलान्यधितिष्ठता।  
 सुनिग्रहा नरेन्द्रेण फणीन्द्रा इव शत्रवः॥

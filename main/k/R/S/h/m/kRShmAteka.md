@@ -7,7 +7,7 @@ title = "कृष्णा ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृष्णा ते कचसंहतिरम्बुजनयने तवाधरः शोणः।  
 त्वं सुरतरङ्गिणी कथमभितस्तापी न ते वियोगः स्यात्॥

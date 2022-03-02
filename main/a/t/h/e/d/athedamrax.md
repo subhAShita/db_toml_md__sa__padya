@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0796", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०३ करुणारसनिर्देशः// 32",]
-jsonClass = "Subhaashita"
 rasas = [ "करुणः",]
+jsonClass = "Subhaashita"
 title = "अथेदं रक्षोभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथेदं रक्षोभिः कनकहरिणच्छद्मविधिना तथा वृत्तं पापैर्व्यथयति यथा क्षालितमपि।  
 जनस्थाने शून्ये विकलकरणैरार्यचरितैर् अपि ग्रावा रोदित्यपि दलति वज्रस्य हृदयम्॥

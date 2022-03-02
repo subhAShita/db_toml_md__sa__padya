@@ -7,7 +7,7 @@ title = "स्पर्शः स्तनतटस्पर्शो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्पर्शः स्तनतटस्पर्शो वीक्षणं वक्रवीक्षणम्।  
 तस्याः केलिकथालापसमयः समयः सखे॥

@@ -5,7 +5,7 @@ title = "अन्तर्मलिनसंसर्गाच्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्मलिनसंसर्गाच् छ्रुतवानपि दुष्यति।  
 यच्चक्षुःसंनिकर्षेण कर्णोऽभूत् कुटिलाश्रयः॥

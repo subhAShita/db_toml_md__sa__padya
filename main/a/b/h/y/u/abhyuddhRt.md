@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2398", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 135",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अभ्युद्धृता वसुमती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्युद्धृता वसुमती दलितं रिपूरः क्रीडीकृता बलवता बलिराजलक्ष्मीः।  
 एकत्र जन्मनि कृतं तदनेन यूना जन्मत्रये यदकरोत् पुरुषः पुराणः॥

@@ -6,7 +6,7 @@ title = "दूरस्थोऽपि बली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरस्थोऽपि बली शत्रुर्न शेते रजनीष्वपि।  
 तस्य भीत्या गृहे यस्य हरयो वेगवत्तराः॥

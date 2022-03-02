@@ -5,7 +5,7 @@ title = "अल्पे वयसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पे वयसि हे बाले कुचयोः पतनः कुतः।  
 अधस्तात् खनने मूढ गिरयो न पतन्ति किम्॥

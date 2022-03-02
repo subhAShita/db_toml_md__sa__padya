@@ -6,7 +6,7 @@ title = "संसारकटुवृक्षस्य द्वे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संसारकटुवृक्षस्य द्वे फले ह्यमृतोपमे।  
 सुभाषितरसास्वादः सङ्गतिः सुजने जने॥

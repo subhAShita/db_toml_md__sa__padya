@@ -5,7 +5,7 @@ title = "अतिक्रान्तमतिक्रान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिक्रान्तमतिक्रान्तम् अनागतमनागतम्।  
 वर्तमानसुखभ्रान्तिर् नवा भोगिदरिद्रयोः॥

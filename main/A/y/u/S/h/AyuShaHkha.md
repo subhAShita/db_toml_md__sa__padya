@@ -6,7 +6,7 @@ title = "आयुषः खण्डमादाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुषः खण्डमादाय   
 रविरस्तमयं गतः।  

@@ -6,7 +6,7 @@ title = "मण्डलीकृत्य बर्हाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मण्डलीकृत्य बर्हाणि कण्ठैर्मधुरगीतिभिः।  
 कलापिनः प्रनृत्यन्ति काले जीमूलमालिनि॥

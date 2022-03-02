@@ -6,7 +6,7 @@ title = "किं कारणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं कारणं स्तनद्वन्द्वं पतितं ब्रूहि ते प्रिये।  
 पश्याधःखनने मूर्ख गिरयोऽपि पतन्ति हि॥

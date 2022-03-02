@@ -7,7 +7,7 @@ title = "यथा प्लवेनोपलेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा प्लवेनोपलेन निमज्जत्युदके तरन् ।  
 तथा निमज्जतोऽधस्तादज्ञौ दातृप्रतीच्छकौ ॥

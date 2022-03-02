@@ -5,7 +5,7 @@ title = "अविशुद्धकुलोत्पन्ना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविशुद्धकुलोत्पन्ना देहार्पणजीविका शठाचरणा।  
 क्वाहं रूपाजीवा क्व भवन्तः श्लाघनीयजन्मगुणाः॥

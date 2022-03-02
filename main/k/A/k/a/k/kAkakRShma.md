@@ -2,11 +2,11 @@
 topics = [ "भेदः", "ऐक्यम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "काक कृष्ण"
+title = "काकः कृष्णः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकः कृष्णः पिकः कृष्णः को भेदः पिककाकयोः।  
 वसन्तसमयेप्राप्ते काकःकाकःपिकःपिकः॥

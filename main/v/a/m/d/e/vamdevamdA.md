@@ -6,7 +6,7 @@ title = "वन्दे वन्दारुमन्दारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वन्दे वन्दारु-मन्दारम्  
 इन्दु-भूषण-नन्दनम्।  

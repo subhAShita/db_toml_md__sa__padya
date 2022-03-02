@@ -5,7 +5,7 @@ title = "आतुराद् वित्तहरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आतुराद् वित्तहरणं मृताच्च प्रपलायनम्।  
 एतद् वैद्यस्य वैद्यत्वं न वैद्यः प्रभुरायुषः॥

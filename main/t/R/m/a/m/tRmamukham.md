@@ -6,7 +6,7 @@ title = "तृणमुखमपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृणमुखमपि न खलु त्वां त्यजन्ति हे हरिण वैरिणः शबराः।  
 यशसैव जीवितमिदं त्यज योजितशृङ्गसङ्ग्रामः॥

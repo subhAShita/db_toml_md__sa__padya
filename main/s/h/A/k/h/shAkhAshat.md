@@ -6,7 +6,7 @@ title = "शाखाशतचितवियतः सन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शाखाशतचितवियतः सन्ति कियन्तो न कानने तरवः।  
 परिमलभरमिलदलिकुलदलितदलाः शाखिनो विरलाः॥

@@ -6,7 +6,7 @@ title = "भवत्येकस्थले जन्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवत्येकस्थले जन्म गन्धस्तेषां पृथक्पृथक्।  
 उत्पलस्य मृणालस्य मत्स्यस्य कुमुदस्य च॥

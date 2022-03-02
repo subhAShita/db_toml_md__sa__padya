@@ -7,7 +7,7 @@ title = "सन्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तु विलोकनभाषणविलासपरिहासकेलिपरिरम्भाः।  
 स्मरणमपि कामिनीनामलमिह मनसो विकाराय॥

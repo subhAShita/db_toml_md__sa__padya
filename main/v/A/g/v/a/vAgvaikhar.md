@@ -6,7 +6,7 @@ title = "वाग्वैखरी शब्दझरी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाग्वैखरी शब्दझरी शास्त्रव्याख्यानकौशलम्।  
 विदुषामिह वैदुष्यं भुक्तये न तु मुक्तये॥

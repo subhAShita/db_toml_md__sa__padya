@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9421", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 44",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कान्तसङ्गमपराजितमन्यौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तसंगमपराजितमन्यौ वारुणीरसनशान्तविवादे।  
 मानिनीजन उपाहितसंधौ संदधे धनुषि नेषुमनङ्गः॥

@@ -5,7 +5,7 @@ title = "दातृत्वं धनिके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दातृत्वं धनिके शौर्यं सैनिके बहुदुग्धता।  
 गोषु दमस्तपस्विषु विद्वत्सु वावदूकता॥

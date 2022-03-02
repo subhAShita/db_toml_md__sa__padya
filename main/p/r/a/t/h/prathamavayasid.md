@@ -6,7 +6,7 @@ title = "प्रथमवयसि दत्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रथमवयसि दत्तं तोयमल्पं स्मरन्तः  
 शिरसि निहितभारा नालिकेरा नराणाम् ।  

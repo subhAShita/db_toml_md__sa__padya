@@ -6,7 +6,7 @@ title = "न च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न च गन्धवहेन चुम्बिता न च पीता मधुपेन मल्लिका।  
 पिहितैव कठोरशाखया परिणामस्य जगाम गोचरम्॥

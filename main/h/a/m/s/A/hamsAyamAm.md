@@ -7,7 +7,7 @@ title = "हंसायमानश्चरणारविन्दे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हंसायमानश्चरणारविन्दे  
 कराम्बुजे केलिशुकायमानः ।  

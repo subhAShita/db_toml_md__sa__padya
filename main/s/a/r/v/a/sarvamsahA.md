@@ -6,7 +6,7 @@ title = "सर्वंसहा ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वंसहा ये ऋजवः प्रतिज्ञातार्थपालकाः।  
 परोपकारिणः सेव्या निर्धना अपि ते जनाः॥

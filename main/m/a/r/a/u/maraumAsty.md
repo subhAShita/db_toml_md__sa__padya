@@ -6,7 +6,7 @@ title = "मरौ नास्त्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मरौ नास्त्येव सलिलं कृच्छ्राद्यद्यपि लभ्यते।  
 तत्कटु स्तोकमुष्णं च न करोति वितृष्णताम्॥

@@ -6,7 +6,7 @@ title = "न क्रोधयातुधानस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न क्रोधयातुधानस्य धीमान्गच्छेद्विधेयताम्।  
 निपतीभ्रातृरुधिरः प्राप निन्दां वृकोदरः॥

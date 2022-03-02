@@ -6,7 +6,7 @@ title = "नोपभोक्तुमपि क्लीबो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नोपभोक्तुमपि क्लीबो जानात्युपचितां श्रियम्।  
 ग्राम्यो विरागयत्येव रमयन्नपि कामिनीम्॥

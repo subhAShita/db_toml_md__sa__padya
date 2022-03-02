@@ -7,7 +7,7 @@ title = "त्वयि दृष्टे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वयि दृष्टे कुरङ्गाक्ष्याः स्रंसते मदनव्यथा।  
 यथा ह्युदयभाजीन्दौ ग्लानिः कुमुदसंहतेः॥

@@ -6,7 +6,7 @@ title = "यूथी यथोचितविधिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यूथी यथोचितविधिना विधेयमातिथ्यमेतस्मिन्।  
 मालतिकाप्राणेशः प्राघुणिकस्ते घुणाक्षरन्यायात्॥

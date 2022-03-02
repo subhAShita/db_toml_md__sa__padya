@@ -6,7 +6,7 @@ title = "याता यान्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 याता यान्ति च यातारो लोकाः शोकाधिका भुवि।  
 काव्यसंबन्धिनी कीर्तिः स्थायिनी निरपायिनी॥

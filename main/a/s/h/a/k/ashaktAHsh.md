@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3460", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 32",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अशक्ताः शक्तिमात्मीयाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशक्ताः शक्तिमात्मीयां श्लाघन्ते ये च दुर्जनाः।  
 ते भवन्त्युपहासाय महतामेव संनिधौ॥

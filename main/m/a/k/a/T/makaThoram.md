@@ -7,7 +7,7 @@ title = "न कठोरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कठोरं न वा तीक्ष्णमायुधं पुष्पधन्वनः।  
 तथापि जितमेवासीदमुना भुवनत्रयम्॥

@@ -5,7 +5,7 @@ title = "अनन्याश्रितचित्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनन्याश्रितचित्तेन सेवितोऽपि च वारिदः।  
 सिंञ्चेन्न चेत् तदा मन्ये चातकस्यैव पातकम्॥

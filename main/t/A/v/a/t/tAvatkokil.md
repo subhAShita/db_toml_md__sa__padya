@@ -6,7 +6,7 @@ title = "तावत्कोकिल विरसान्यापय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावत्कोकिल विरसान्यापय दिवसान्वनान्तरे निवसन्।  
 यावन्मिलदलिमालः कोऽपि रसालः समुल्लसति॥

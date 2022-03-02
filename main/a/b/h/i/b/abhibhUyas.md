@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2298", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 44",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अभिभूय सतामवस्थितिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिभूय सतामवस्थितिं जडजेषु प्रतिपाद्य च श्रियम्।  
 जगतीपरितापकृत् कथं जलधौ नावपतेदसौ रविः॥

@@ -6,7 +6,7 @@ title = "द्वाविमौ पुरुषौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वाविमौ पुरुषौ लोके स्वर्गस्योपरि तिष्ठतः।  
 प्रभुश्च क्षमया युक्तो दरिद्रश्च प्रदानवान्॥

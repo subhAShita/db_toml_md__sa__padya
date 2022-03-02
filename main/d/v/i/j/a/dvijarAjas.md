@@ -6,7 +6,7 @@ title = "द्विजराजशेखरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विजराजशेखरो यद्वृषभारूढः सदा सदारस्त्वम्।  
 चक्रे हर तद्विधिना पुनरुपनयनं ललाटघटितं ते॥

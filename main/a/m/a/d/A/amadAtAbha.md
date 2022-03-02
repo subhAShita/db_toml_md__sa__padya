@@ -5,7 +5,7 @@ title = "अन्नदाता भयत्राता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नदाता भयत्राता कन्यादाता तथैव च।  
 जनिता चोपनेता च पञ्चैते पितरः स्मृताः॥

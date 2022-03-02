@@ -6,7 +6,7 @@ title = "निद्राति नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निद्राति नैव न वचोऽपि ददाति पृष्टो  
 भुङ्क्ते न चान्नकणमिच्छति नाम्बु पातुम् ।  

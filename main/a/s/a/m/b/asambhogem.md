@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3635", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 19",]
-jsonClass = "Subhaashita"
 topics = [ "कृपणः",]
+jsonClass = "Subhaashita"
 title = "असम्भोगेन सामान्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंभोगेन सामान्यं कृपणस्य धनं परैः।  
 अस्येदमिति संबन्धो हानौ दुःखेन गम्यते॥

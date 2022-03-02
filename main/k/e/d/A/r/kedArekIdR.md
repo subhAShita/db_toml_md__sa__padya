@@ -6,7 +6,7 @@ title = "केदारे कीदृशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केदारे कीदृशो मार्गः कुत्र शेते जनार्दनः।  
 स्त्रीचित्तं कुत्र रमते स्वामी किं वक्ति चेटिकाम्॥

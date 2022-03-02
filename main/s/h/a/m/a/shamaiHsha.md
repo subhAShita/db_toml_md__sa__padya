@@ -6,7 +6,7 @@ title = "शनैः शनैश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शनैः शनैश्च यो राज्यमुपभुङ्क्ते यथाबलम्।  
 रसायनमिव प्राज्ञः स पुष्टिं परमां व्रजेत्॥

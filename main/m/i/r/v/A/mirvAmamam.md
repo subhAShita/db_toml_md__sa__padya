@@ -5,7 +5,7 @@ title = "निर्वाणमनु निर्वाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्वाणमनु निर्वाति तपनं तपनोपलः।  
 इन्दुमिन्दुमणिः किं च शुष्यन्तमनु शुष्यति॥

@@ -6,7 +6,7 @@ title = "श्वशुरगृहनिवासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्वशुरगृहनिवासः स्वर्गतुल्यो नराणाम्  
 यदि वसति दिनानित्रीणि वा पञ्च सप्त I  

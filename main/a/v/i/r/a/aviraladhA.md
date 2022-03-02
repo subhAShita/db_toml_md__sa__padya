@@ -5,7 +5,7 @@ title = "अविरलधारानिकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरलधारानिकरं जलदैर्जलमुत्सृजद्भिरतिमात्रम्।  
 मानिवधूहृदयेभ्यः कालुष्यमशेषतो मृष्टम्॥

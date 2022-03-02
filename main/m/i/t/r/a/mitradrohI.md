@@ -6,7 +6,7 @@ title = "मित्त्रद्रोही कृतघ्नश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मित्त्रद्रोही कृतघ्नश्च तथा विश्वासघातकः।  
 ते नरा नरकं यान्ति यावच्चन्द्रदिवाकरौ॥

@@ -6,7 +6,7 @@ title = "छायामन्यस्य कुर्वन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छायामन्यस्य कुर्वन्ति तिष्ठन्ति स्वयमातपे।  
 फलान्यपि परार्थाय वृक्षाः सत्पुरुषा इव॥

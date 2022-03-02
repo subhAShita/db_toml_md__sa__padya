@@ -5,7 +5,7 @@ title = "अनागतवतीं चिन्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनागतवतीं चिन्तां यो नरः कर्तुमिच्छति।  
 स भूमौ पाण्डुरः शेते सोमशर्मपिता यथा॥

@@ -6,7 +6,7 @@ title = "सरस्वती स्थिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरस्वती स्थिता वक्त्रे लक्ष्मीर्वेश्मनि ते स्थिता।  
 कीर्तिः किं कुपिता राजन्येन देशान्तरं गता॥

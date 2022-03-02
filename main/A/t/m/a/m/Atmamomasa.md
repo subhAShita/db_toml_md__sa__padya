@@ -5,7 +5,7 @@ title = "आत्मनो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनो न सहायार्थं पिता माता च तिष्ठति।  
 न पुत्रदारा न ज्ञातिर् धर्मस्तिष्ठति केवलम्॥

@@ -5,7 +5,7 @@ title = "उद्यानसहकाराणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यानसहकाराणाम् अनुद्भिन्ना न मञ्जरी।  
 देयः पथिकनारीणां सतिलः सलिलाञ्जलिः॥

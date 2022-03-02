@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5910", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 117",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "इदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं नृपप्रार्थिभिरुज्झितोऽर्थिभिर् मणिप्ररोहेण विवृध्य रोहणः।  
 कियद्दिनैरम्बरमावरिष्यते मुधा मुनिर्विन्ध्यमरुन्ध भूधरम्॥

@@ -5,7 +5,7 @@ title = "अधरेणोन्नतिभाजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरेणोन्नतिभाजा भुजंगपरिपीडितेन ते दूति।  
 संक्षोभितं मनो मे जलनिधिरिव मन्दरागेण॥

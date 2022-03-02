@@ -6,7 +6,7 @@ title = "दिवा पश्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिवा पश्यति नोलूकः काको नक्तं न पश्यति।  
 अपूर्वः कोऽपि कामान्धो दिवा नक्तं न पश्यति॥

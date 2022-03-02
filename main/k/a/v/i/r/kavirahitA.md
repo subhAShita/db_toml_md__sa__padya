@@ -5,7 +5,7 @@ title = "कविरहिताः कविलापा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविरहिताः कविलापा जायन्ते कण्ठशोषणायैव।  
 संमुखगतः कविश्चेत् भवति कुलपितापि कविकुलपितैव॥

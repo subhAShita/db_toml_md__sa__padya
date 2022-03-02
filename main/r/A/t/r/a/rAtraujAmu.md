@@ -6,7 +6,7 @@ title = "रात्रौ जानुर्दिवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रात्रौ जानुर्दिवा भानुः कृशानुः संध्ययोर्द्वयोः।  
 पश्य शीतं मया नीतं जानुभानुकृशानुभिः॥

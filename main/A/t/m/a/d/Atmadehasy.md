@@ -5,7 +5,7 @@ title = "आत्मदेहस्य मांसानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मदेहस्य मांसानि भोक्तुं ब्रह्मन्न शक्यते।  
 देहिनां वद यद्योग्यं संतुष्टिर्जायते यतः॥

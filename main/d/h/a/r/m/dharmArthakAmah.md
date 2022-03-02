@@ -6,7 +6,7 @@ title = "धर्मार्थकामहीनस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मार्थकामहीनस्य परकीयान्नभोजिनः।  
 काकस्येव दरिद्रस्य दीर्घमायुर्विडम्बना॥

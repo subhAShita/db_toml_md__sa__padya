@@ -6,7 +6,7 @@ title = "कोऽतिभारः समर्थानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोऽतिभारः समर्थानां किं दूरं व्यवसायिनाम्।  
 को विदेशः सविद्यानां कः परः प्रियवादिनाम्॥

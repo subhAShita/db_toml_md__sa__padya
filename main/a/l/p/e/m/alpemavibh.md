@@ -5,7 +5,7 @@ title = "अल्पेन विभवेनैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पेन विभवेनैव व्ययाधिक्यं न युक्तितः।  
 क्षीणेन वाससाच्छन्ने पादविस्तारणं यथा॥

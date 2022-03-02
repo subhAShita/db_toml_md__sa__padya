@@ -7,7 +7,7 @@ title = "स्मितेनोपायनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मितेनोपायनं दूरादागतस्य कृतं मम।  
 स्तनोपपीडमाश्लेषः कृतो द्यूते पणस्तया॥

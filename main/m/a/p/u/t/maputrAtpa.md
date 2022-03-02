@@ -6,7 +6,7 @@ title = "न पुत्रात्परमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न पुत्रात्परमो लाभो न भार्यायाः परं सुखम्।  
 न धर्मात्परमं मित्त्रं नानृतात्पातकं परम्॥

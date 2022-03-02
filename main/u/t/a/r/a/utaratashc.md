@@ -5,7 +5,7 @@ title = "उत्तरतश्च मधूकाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तरतश्च मधूकाद् अहिनिलयः पश्चिमोत्तरे तोयम्।  
 परिहृत्य पञ्चहस्तान् अर्धाष्टमपौरुषं वाच्यम्॥

@@ -6,7 +6,7 @@ title = "जयति ललाटकटाक्षः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयति ललाटकटाक्षः शशिमौलेः पक्ष्मलः प्रियाप्रणतौ।  
 धनुषि स्मरेण निहितः सकण्ठकः केतकेषुरिव॥

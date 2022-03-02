@@ -7,7 +7,7 @@ title = "प्रतिवादिनी च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रतिवादिनी च भार्या परगृहसेवा च परगृहे भुक्तिः।  
 क्षिप्रं जरयति पुरुषं निचैर्वासः प्रवासश्च॥

@@ -5,7 +5,7 @@ title = "कपटेन पुनर्नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपटेन पुनर्नैव व्यापारो यदि या कृतः।  
 पुनर्न परिपाकार्हा हण्डिका काष्ठनिर्मिता॥

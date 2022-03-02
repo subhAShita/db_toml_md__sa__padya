@@ -6,7 +6,7 @@ title = "श्रुते महाकवेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रुते महाकवेः काव्ये नयने वदने च वाः॥
 </details>

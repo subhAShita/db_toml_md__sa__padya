@@ -5,7 +5,7 @@ title = "अयं सर्वाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं सर्वाणि शास्त्राणि हृदि ज्ञेषु च वक्ष्यति।  
 सामर्थ्यकृदमित्राणां मित्राणां च नृपात्मजः॥

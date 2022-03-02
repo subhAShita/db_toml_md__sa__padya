@@ -5,7 +5,7 @@ title = "कम्पोपरुद्धसर्वाङ्गैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कम्पोपरुद्धसर्वाङ्गैर् गलत्स्वेदोदबिन्दुभिः।  
 त्वदारब्धैर्महीनाथ वैरिभिर्वनितायितम्॥

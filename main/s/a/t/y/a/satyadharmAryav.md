@@ -7,7 +7,7 @@ title = "सत्यधर्मार्यवृत्तेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यधर्मार्यवृत्तेषु शौचे चैवारमेत् सदा ।  
 शिष्यांश्च शिष्याद् धर्मेण वाग्बाहूदरसंयतः ॥

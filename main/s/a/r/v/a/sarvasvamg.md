@@ -7,7 +7,7 @@ title = "सर्वस्वं गृहवर्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वस्वं गृहवर्ति कुन्तलपतिर्गृह्णातु तन्मे पुन-  
 र्भाण्डागारमखण्डमेव हृदये जागर्ति सारस्वतम्।  

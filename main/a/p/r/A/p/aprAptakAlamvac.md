@@ -8,7 +8,7 @@ title = "अप्राप्तकालं वचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्राप्तकालं वचनं बृहस्पतिरपि ब्रुवन्।  
 लभते बह्ववज्ञानं अपमानं च पुष्कलम्॥

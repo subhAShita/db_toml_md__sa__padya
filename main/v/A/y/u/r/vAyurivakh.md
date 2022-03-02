@@ -6,7 +6,7 @@ title = "वायुरिव खलजनोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वायुरिव खलजनोऽयं प्रायः पररूपमेति संपर्कात्।  
 सन्तस्तु रविकरा इव सदसद्योगेऽप्यसंश्लिष्टाः॥

@@ -5,7 +5,7 @@ title = "उन्मादमेके पुष्यन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्मादमेके पुष्यन्ति यान्त्यन्ये द्विषतां वशम्।  
 दास्यमेके च गच्छन्ति परेषामर्थहेतुना॥

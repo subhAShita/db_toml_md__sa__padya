@@ -6,7 +6,7 @@ title = "दलनतस् स्फुरितैस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दलनतस् स्फुरितैस् स्फुट-फूत्कृतैः  
 स्वकर-मस्कर-गर्वित-तस्करः।  

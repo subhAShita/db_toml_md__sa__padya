@@ -7,7 +7,7 @@ title = "तावत् स्यात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावत् स्यात् सुप्रसन्नास्यस्तावद्गुरुजने रतः।  
 पुरुषो योषितां यावन्न शृणोति वचो रहः॥

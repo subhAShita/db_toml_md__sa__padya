@@ -5,7 +5,7 @@ title = "आत्मरक्षा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मरक्षा हि सततं पूर्वं कार्या विजानता।  
 अग्नाविव हि संप्रोक्ता वृत्ती राजोपजीविनाम्॥

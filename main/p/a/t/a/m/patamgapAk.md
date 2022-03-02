@@ -7,7 +7,7 @@ title = "पतङ्गपाकसमये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतङ्गपाकसमये पतङ्गपतिविक्रमाः।  
 पतङ्गस्योदये चेलुः पतङ्गा इव वानराः॥

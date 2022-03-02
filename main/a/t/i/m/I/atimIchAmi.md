@@ -5,7 +5,7 @@ title = "अतिनीचानि वाक्यानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिनीचानि वाक्यानि दृष्टिमात्रातिनिन्दकः।  
 क्षुद्रसंवादभाषी यो ह्येवं दुष्टः शठो जनः॥

@@ -6,7 +6,7 @@ title = "पश्यन्त्यसङ्ख्यपथगाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पश्यन्त्यसंख्यपथगां त्वद्दानजलवाहिनीम्।  
 देव त्रिपथगात्मानं गोपयत्युग्रमूर्धनि॥

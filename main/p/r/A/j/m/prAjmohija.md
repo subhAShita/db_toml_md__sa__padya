@@ -6,7 +6,7 @@ title = "प्राज्ञो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राज्ञो हि जल्पतां पुंसां श्रुत्वा वाचः शुभाशुभाः।  
 गुणवद्वाक्यमादत्ते हंसः क्षीरमिवाम्भसः॥

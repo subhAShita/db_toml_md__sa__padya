@@ -5,7 +5,7 @@ title = "अगाधेनापि किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगाधेनापि किं तेन तोयेन लवणाम्बुधेः।  
 जनुमात्रं वरं वारि तृष्णाच्छेदकरं नृणाम्॥

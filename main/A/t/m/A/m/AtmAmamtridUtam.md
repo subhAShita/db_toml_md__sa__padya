@@ -5,7 +5,7 @@ title = "आत्मानं मन्त्रिदूतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं मन्त्रिदूतं च च्छन्नं त्रिषवणक्रमम्।  
 आकारं ब्रुवते षष्ठम् एतावान् मन्त्रनिश्चयः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1471", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 388",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अनुपालयतामुदेष्यतीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुपालयतामुदेष्यतीं प्रभुशक्तिं द्विषतामनीहया।  
 अपयान्त्यचिरान्महीभुजां जननिर्वादभयादिव श्रियः॥

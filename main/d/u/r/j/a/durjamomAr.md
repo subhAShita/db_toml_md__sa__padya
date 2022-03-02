@@ -6,7 +6,7 @@ title = "दुर्जनो नार्जवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनो नार्जवं याति सेव्यमानोऽपि नित्यशः।  
 स्वेदनाभ्यञ्जनोपायैः श्वपुच्छमिव नामितम्॥

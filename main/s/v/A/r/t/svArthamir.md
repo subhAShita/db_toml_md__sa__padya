@@ -6,7 +6,7 @@ title = "स्वार्थनिरपेक्ष एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वार्थनिरपेक्ष एव हि परोपघातोऽसतां व्यसनमेव।  
 अशनायोदन्या वा विरमति फणिनो न दन्दशतः॥

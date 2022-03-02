@@ -6,7 +6,7 @@ title = "विद्याभ्यासो विचारश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्याभ्यासो विचारश्च समयोरेव शोभते।  
 विवाहश्च विवादश्च समयोरेव शोभते॥

@@ -6,7 +6,7 @@ title = "जन्मना ब्राह्मणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जन्मना ब्राह्मणो ज्ञेयः  
 संस्कारैर् द्विज उच्यते।  

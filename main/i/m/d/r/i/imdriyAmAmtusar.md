@@ -5,7 +5,7 @@ title = "इन्द्रियाणां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणां तु सर्वेषां यद्येकं क्षरतीन्द्रियम्।  
 ततोऽस्य क्षरति प्रज्ञा दृतेः पादादिवोदकम्॥

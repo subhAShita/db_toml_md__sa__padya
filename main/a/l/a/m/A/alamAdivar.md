@@ -5,7 +5,7 @@ title = "अलमादिवराहेण वटुदासम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलमादिवराहेण वटुदासं परं स्तुमः।  
 जगदुद्धरता येन न वक्रीकृतमाननम्॥

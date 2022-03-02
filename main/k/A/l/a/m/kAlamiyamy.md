@@ -5,7 +5,7 @@ title = "कालं नियम्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालं नियम्य कर्माणि ह्याचरेन् नान्यथा क्वचित्।  
 गवादिष्वात्मवज्ज्ञानम् आत्मानं चार्थधर्मयोः।  

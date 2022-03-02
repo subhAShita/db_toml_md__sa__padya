@@ -6,7 +6,7 @@ title = "तृष्णे कृष्णेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णे कृष्णेऽपि ते शक्तिर्दृष्टा मर्त्येषु का कथा।  
 त्रैलोक्यव्यापि यद्रूपं तद्रूपं वामनीकृतम्॥

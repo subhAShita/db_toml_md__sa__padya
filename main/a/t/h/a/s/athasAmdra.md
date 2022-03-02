@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0777", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २८ सन्ध्यावर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "सन्ध्या",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ सान्द्रसांध्यकिरणारुणितं हरिहेतिहूति मिथुनं पततोः।  
 पृथगुत्पपात विरहार्तिदलद्- धृदयस्रुतासृगनुलिप्तमिव॥

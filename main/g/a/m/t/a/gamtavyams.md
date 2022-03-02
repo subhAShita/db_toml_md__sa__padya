@@ -6,7 +6,7 @@ title = "गन्तव्यं सलिलपथे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गन्तव्यं सलिलपथे द्रष्टव्या मदनपूरिता रामाः ।  
 यद्यपि न भवति लाभो नयनसुखं को निवारयति? ॥

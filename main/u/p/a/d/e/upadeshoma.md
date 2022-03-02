@@ -5,7 +5,7 @@ title = "उपदेशो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपदेशो न दातव्यो यादृशे तादृशे नरे।  
 पश्य वानरमूर्खेण सुगृही निर्गृहीकृता॥

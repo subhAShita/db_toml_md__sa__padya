@@ -5,7 +5,7 @@ title = "अधीत्य चतुरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीत्य चतुरो वेदान् धर्मशास्त्राण्यनेकशः।  
 परं तत्त्वं न जानाति दर्वी पाकरसानिव॥

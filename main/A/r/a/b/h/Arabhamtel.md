@@ -1,14 +1,14 @@
 +++
 topics = [ "सज्जनः", "व्यग्रता", "अव्यग्रता", "अल्पारम्भः",]
 secondary_sources = [ "MSS_8183", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 20",]
-jsonClass = "Subhaashita"
 sources = [ "माघः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "आरभन्तेऽल्पमेवाज्ञाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरभन्तेऽल्पमेवाज्ञाः कामं व्यग्रा भवन्ति च।  
 महारम्भाः कृतधियस् तिष्ठन्ति च निराकुलाः॥

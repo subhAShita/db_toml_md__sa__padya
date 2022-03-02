@@ -6,7 +6,7 @@ title = "यत्नादन्विष्य का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्नादन्विष्य का ग्राह्या लेखकैर्मसिमल्लिका।  
 घनान्धकारे निःशङ्कं मोदते केन बन्धकी॥

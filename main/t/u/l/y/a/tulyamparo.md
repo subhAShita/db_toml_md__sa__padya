@@ -6,7 +6,7 @@ title = "तुल्यं परोपतापित्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुल्यं परोपतापित्वं क्रुद्धयोः साधुनीचयोः।  
 न दाहे ज्वलतोर्भिन्नं चन्दनेन्धनयोः क्वचित्॥

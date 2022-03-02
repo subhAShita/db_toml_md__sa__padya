@@ -6,7 +6,7 @@ title = "पादपानां भयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पादपानां भयं वातात्पद्मानां शिशिराद्भयम्।  
 पर्वतानां भयं वज्रात्साधूनां दुर्जनाद्भयम्॥

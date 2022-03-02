@@ -6,7 +6,7 @@ title = "धत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धत्ते वियोगिनीगण्डस्थलपाण्डुफलानि का।  
 वद वर्णौ विधायान्ते सीता हृष्टा भवेत्कया॥

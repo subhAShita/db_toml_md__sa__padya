@@ -7,7 +7,7 @@ title = "वैरिणं नोपसेवेत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैरिणं नोपसेवेत सहायं चैव वैरिणः ।  
 अधार्मिकं तस्करं च परस्यैव च योषितम् ॥

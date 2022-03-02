@@ -6,7 +6,7 @@ title = "यदर्ज्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदर्ज्यते परिक्लेशैरर्जितं यन्न भुज्यते।  
 विभज्यते यदन्तेऽन्यैः कस्यचिन्मास्तु तद्धनम्॥

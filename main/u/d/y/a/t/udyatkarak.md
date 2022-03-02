@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6860", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 210",]
-jsonClass = "Subhaashita"
 topics = [ "दशावताराः",]
+jsonClass = "Subhaashita"
 title = "उद्यत्करकरवालः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यत्करकरवालः शकतिमिरध्वंसने महानिपुणः।  
 कल्किहरिर्वः पायाद् अपायतः कलिनिशान्तोत्थः॥

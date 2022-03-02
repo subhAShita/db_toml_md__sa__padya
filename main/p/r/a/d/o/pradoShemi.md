@@ -6,7 +6,7 @@ title = "प्रदोषे निहतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रदोषे निहतः पन्थाः पतिता निहताः स्त्रियः।  
 अल्पबीजं हतं क्षेत्रं भृत्यदोषाद्धतः प्रभुः॥

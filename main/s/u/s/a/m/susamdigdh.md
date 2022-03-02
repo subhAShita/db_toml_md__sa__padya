@@ -6,7 +6,7 @@ title = "सुसन्दिग्धस्य भक्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुसन्दिग्धस्य भक्तस्य दन्तस्य चलितस्य च।  
 अमात्यस्य च दुष्टस्य मूलादुद्धरणं वरम्॥

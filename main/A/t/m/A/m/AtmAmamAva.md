@@ -5,7 +5,7 @@ title = "आत्मानं नावमन्येत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं नावमन्येत पूर्वाभिरसमृद्धिभिः।  
 आमृत्योः श्रियमन्विच्छेन् नैनां मन्येत दुर्लभाम्॥

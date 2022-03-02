@@ -6,7 +6,7 @@ title = "किमस्ति यमुनानद्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमस्ति यमुनानद्यां जारान्किं वक्ति जारिणी।  
 आन्ध्रगीर्वाणभाषाभ्यामेकमेवोत्तरं वद॥

@@ -5,7 +5,7 @@ title = "इलातलभराक्रान्तग्रीवं मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इलातलभराक्रान्तग्रीवं मा शेष वक्रय।  
 त्वयि दुःखिनि चैकस्मिञ् जीवलोकः सदा सुखी॥

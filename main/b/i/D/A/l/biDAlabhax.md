@@ -6,7 +6,7 @@ title = "बिडालभक्षिते दुःखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिडालभक्षिते दुःखं यादृशं गृहकुक्कुटे।  
 न तादृङ्ममताशून्ये कलविङ्केऽथ मूषके॥

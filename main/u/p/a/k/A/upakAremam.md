@@ -5,7 +5,7 @@ title = "उपकारेण नीचानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारेण नीचानाम् अपकारो हि जायते।  
 पयःपानं भुजंगानां केवलं विषवर्धनम्॥

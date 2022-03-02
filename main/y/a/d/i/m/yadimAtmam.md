@@ -7,7 +7,7 @@ title = "यदि नात्मनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि नात्मनि पुत्रेषु    
 न चेत् पुत्रेषु नप्तृषु ।  

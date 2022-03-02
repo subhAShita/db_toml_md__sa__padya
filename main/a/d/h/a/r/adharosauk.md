@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1066", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// १० अधरः// 143",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "अधरः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधरोऽसौ कुरङ्गाक्ष्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरोऽसौ कुरङ्गाक्ष्याः शोभते नासिकातले।  
 सुवर्णनलिकामध्यान् माणिक्यमिव विच्युतम्॥

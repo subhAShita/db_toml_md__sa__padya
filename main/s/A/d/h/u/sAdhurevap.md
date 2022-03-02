@@ -6,7 +6,7 @@ title = "साधुरेव प्रवीणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधुरेव प्रवीणः स्यात् सद्गुणामृतचर्वणे।  
 नवचूताङ्कुरास्वादकुशलः कोकिलः किल॥

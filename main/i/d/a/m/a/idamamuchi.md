@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5933", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 09 प्रश्नोत्तराणि// 7",]
-jsonClass = "Subhaashita"
 types = [ "प्रश्नोत्तरम्",]
-title = "इदमनुचितमक्रमश्च पुंसाम्"
+jsonClass = "Subhaashita"
+title = "इदमनुचितमक्रमश् च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमनुचितमक्रमश् च पुंसां यदिह जरस्यपि मान्मथो विकारः।  
 यदपि च न कृतं नितम्बिनीनां स्तनपतनावधि जीवितं रतं वा॥

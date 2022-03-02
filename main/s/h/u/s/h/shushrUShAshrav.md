@@ -6,7 +6,7 @@ title = "शुश्रूषा श्रवणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुश्रूषा श्रवणं चैव ग्रहणं धारणं तथा।  
 उहापोहोऽर्थविज्ञानं तत्त्वज्ञानं च धीगुणाः॥

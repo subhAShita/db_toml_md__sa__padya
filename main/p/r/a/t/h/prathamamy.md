@@ -6,7 +6,7 @@ title = "प्रथमं युद्धकारित्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रथमं युद्धकारित्वं समस्तबलपालनम्।  
 दिङ्मार्गयोधशोधित्वं पत्तिकर्म प्रचक्षते॥

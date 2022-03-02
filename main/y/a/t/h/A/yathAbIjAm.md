@@ -6,7 +6,7 @@ title = "यथा बीजाङ्कुरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा बीजाङ्कुरः सूक्ष्मः प्रयत्नेनाभिवर्धितः।  
 फलप्रदो भवेत्काले तद्वल्लोकाः सुरक्षिताः॥

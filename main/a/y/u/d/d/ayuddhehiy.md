@@ -6,7 +6,7 @@ title = "अयुद्धे हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयुद्धे हि यदा पश्यन्न किञ्चिद्धितमात्मनः।  
 युध्यमानस्तदा प्राज्ञो म्रियते रिपुणा सह॥

@@ -6,7 +6,7 @@ title = "सौहृदेन परित्यक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौहृदेन परित्यक्तं निःस्नेहं खलवत्त्यजेत्।  
 सोदरं भ्रातरमपि किमुतान्यं पृथग्जनम्॥

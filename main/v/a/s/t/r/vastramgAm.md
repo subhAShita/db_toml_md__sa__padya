@@ -6,7 +6,7 @@ title = "वस्त्रं गाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वस्त्रं गां च बहुक्षीरां जलपात्रमुपानहौ।  
 औषधं बीजमाहारं सङ्क्रीणीत यथाप्नुयात्॥

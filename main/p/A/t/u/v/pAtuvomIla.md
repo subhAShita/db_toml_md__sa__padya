@@ -6,7 +6,7 @@ title = "पातु वो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातु वो नीलकण्ठस्य कण्ठः श्यामाम्बुदोपमः।  
 गौरीभुजलता यत्र विद्युल्लेखेव राजते॥

@@ -7,7 +7,7 @@ title = "सम्वरणाय वधूटी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्वरणाय वधूटी बहुपरिपाटीं करोतु किं तेन।  
 सम्प्रति रजनिरहस्यं नयनालस्यं निवेदयति॥

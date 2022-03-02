@@ -6,7 +6,7 @@ title = "तृणैरावेष्ट्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृणैरावेष्ट्यते रज्जुस्तया नागो हि बध्यते।  
 एवं ज्ञात्वा नरेन्द्रेण भृत्याः कार्या विचक्षणाः॥

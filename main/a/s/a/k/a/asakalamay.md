@@ -5,7 +5,7 @@ title = "असकलनयनावलोकनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असकलनयनावलोकनेन स्मितपरिहासमनोहरैर्वचोभिः।  
 कमलमुखि मुरारिरेवमेवं कथय कियन्ति दिनानि वञ्चनीयः॥

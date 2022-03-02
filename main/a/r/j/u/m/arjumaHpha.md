@@ -5,7 +5,7 @@ title = "अर्जुनः फल्गुनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्जुनः फल्गुनः पार्थः किरीटी श्वेतवाहनः।  
 बीभत्सुर्विजयी कृष्णः सव्यसाची धनंजयः॥

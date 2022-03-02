@@ -5,7 +5,7 @@ title = "इदं शरीरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं शरीरं पुरुषस्य मोहजं यथा पृथग् भौतिकमीयते गृहम्।  
 यथौदकैः पार्थिवतैजसैर्जनः कालेन जातो विकृतो विनश्यति॥

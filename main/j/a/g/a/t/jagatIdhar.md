@@ -6,7 +6,7 @@ title = "जगतीधरजामाता भवताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जगतीधरजामाता(तो) भवतां भव्याय भूयसे भवतु ।  
 कञ्चिदकिञ्चनमपि यद्वीक्षा विदधाति शक्रसमम् ॥

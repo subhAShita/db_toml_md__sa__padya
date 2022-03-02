@@ -6,7 +6,7 @@ title = "किं वाच्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं वाच्यं सूर्यशशिनोर्दारिद्र्यं महतां पुरः।  
 दिनरात्रिविभागेन परिधत्तो यदम्बरम्॥

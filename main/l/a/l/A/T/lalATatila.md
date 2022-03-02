@@ -6,7 +6,7 @@ title = "ललाटतिलकोपेतः कृष्णः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ललाटतिलकोपेतः कृष्णः कमललोचनः।  
 गोकुलेऽत्र क्रियां वक्तुं मर्यादा दशवार्षिकी॥

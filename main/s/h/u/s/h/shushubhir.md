@@ -7,7 +7,7 @@ title = "शुशुभिरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुशुभिरे स्मितचारुतराननाः स्त्रिय इव श्लथशिञ्जितमेखलाः।  
 विकचतामरसा गृहदीर्घिका मदकलोदकलोलविहङ्गमाः॥

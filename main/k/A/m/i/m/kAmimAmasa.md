@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9646", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०३ विहारः// 18",]
-jsonClass = "Subhaashita"
 topics = [ "विहारः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कामिनामसकलानि विभुग्नैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिनामसकलानि विभुग्नैः स्वेदवारिमृदुभिः करजाग्रैः।  
 अक्रियन्त कठिनेषु कथंचित् कामिनीकुचतटेषु पदानि॥

@@ -5,7 +5,7 @@ title = "अदान्तस्याविनीतस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदान्तस्याविनीतस्य वृथापण्डितमानिनः।  
 न गुणाय भवन्ति स्म नटस्येवाजितात्मनः॥

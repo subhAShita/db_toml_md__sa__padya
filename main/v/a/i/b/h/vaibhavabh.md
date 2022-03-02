@@ -6,7 +6,7 @@ title = "वैभवभाजां दूषणमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैभवभाजां दूषणमपि भूषणपक्ष एव निक्षिप्तम्।  
 गुणमात्मनामधर्मं द्वेषं च गृणन्ति काणादाः॥

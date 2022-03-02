@@ -6,7 +6,7 @@ title = "पातितोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातितोऽपि कराघातैरुत्पतत्येव कन्दुकः।  
 प्रायेण हि सुवृत्तानामस्थायिन्यो विपत्तयः॥

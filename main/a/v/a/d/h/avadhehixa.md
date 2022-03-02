@@ -5,7 +5,7 @@ title = "अवधेहि क्षणमेहि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवधेहि क्षणमेहि भ्रातर्भावज्ञ भावय गिरं नः।  
 चरमे चकास्ति चेतसि मूकस्वप्नोपमो भावः॥

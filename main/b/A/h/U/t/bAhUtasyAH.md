@@ -7,7 +7,7 @@ title = "बाहू तस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाहू तस्याः कुचाभोगनिरुद्धान्योन्यदर्शनौ।  
 मन्त्रितं कथमेताभ्यां मृणालीकीर्तिलुण्ठनम्॥

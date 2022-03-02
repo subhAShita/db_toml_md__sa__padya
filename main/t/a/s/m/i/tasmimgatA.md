@@ -6,7 +6,7 @@ title = "तस्मिन्गतार्द्रभावे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मिन्गतार्द्रभावे वीतरसे शुण्ठिशकल इव पुरुषे।  
 अपि भूतिभाजि मलिने नागरशब्दो विडम्बाय॥

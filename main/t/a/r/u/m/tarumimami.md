@@ -7,7 +7,7 @@ title = "तरुणिमनि कृतावलोकना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरुणिमनि कृतावलोकना ललितविलासविलब्धविग्रहा।  
 स्मरशरविसराचितान्तरा मृगनयना हरते मुनेर्मनः॥

@@ -5,7 +5,7 @@ title = "अतिलोभो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिलोभो न कर्तव्यः कर्तव्यस्तु प्रमाणतः।  
 अतिलोभजदोषेण जम्बुको निधनं गतः॥

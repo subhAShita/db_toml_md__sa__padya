@@ -6,7 +6,7 @@ title = "को देशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को देशः कानि मित्त्राणि कः कालः कौ व्ययागमौ।  
 कश्चाहं का च मे शक्तिरिति चिन्त्यं मुहुर्मुहुः॥

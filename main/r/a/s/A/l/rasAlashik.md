@@ -6,7 +6,7 @@ title = "रसालशिखरासीनाः शतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रसालशिखरासीनाः शतं सन्तु पतत्रिणः।  
 तन्मञ्जरीरसामोदं विदुरेव कुहूमुखाः॥

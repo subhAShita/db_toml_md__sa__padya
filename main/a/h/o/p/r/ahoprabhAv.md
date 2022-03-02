@@ -7,7 +7,7 @@ title = "अहो प्रभावो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो प्रभावो वाग्देव्या यन्मातंगदिवाकरः।  
 श्रीहर्षस्याभवत् सभ्यः समो बाणमयूरयोः॥

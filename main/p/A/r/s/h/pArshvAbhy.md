@@ -7,7 +7,7 @@ title = "पार्श्वाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पार्श्वाभ्यां सप्रहाराभ्यामधरे व्रणखण्डिते।  
 दूति सङ्ग्रामयोग्यासि न योग्या दूतकर्मणि॥

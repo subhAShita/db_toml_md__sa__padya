@@ -6,7 +6,7 @@ title = "क्वचिद्भूमौ शय्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्वचिद्भूमौ शय्या क्वचिदपि च पर्यङ्कशयनः ।  
 क्वचित् शाकाहारी क्वचिदपि च शाल्योदनरूचिः ।  

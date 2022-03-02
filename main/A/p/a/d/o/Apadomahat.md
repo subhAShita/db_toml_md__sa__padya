@@ -5,7 +5,7 @@ title = "आपदो महतामेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदो महतामेव महतामेव संपदः।  
 क्षीयते वर्धते चन्द्रः कदाचिन् नैव तारकाः॥

@@ -7,7 +7,7 @@ title = "वान्ति रात्रौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वान्ति रात्रौ रतिक्लान्तकामिनीसुहृदोऽनिलाः।  
 ललनालोलधम्मिल्लमल्लिकामोदवासिताः॥

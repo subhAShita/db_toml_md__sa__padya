@@ -7,7 +7,7 @@ title = "तन्न कार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तन्न कार्यं विधातव्यं  
 शङ्कालज्जाभयान्वितम् ।  

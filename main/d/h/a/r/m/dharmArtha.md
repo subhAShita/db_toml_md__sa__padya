@@ -6,7 +6,7 @@ title = "धर्मार्थकाममोक्षेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मार्थकाममोक्षेषु वैचक्षण्यं कलासु च।  
 करोति कीर्तिं प्रीतिं च साधुकाव्यनिषेवणम्॥

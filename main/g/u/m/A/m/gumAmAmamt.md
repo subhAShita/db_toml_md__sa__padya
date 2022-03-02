@@ -7,7 +7,7 @@ title = "गुणानामन्तरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणानामन्तरं प्रायस्तज्ज्ञो जानाति नेतरः।  
 मालतीमल्लिकामोदं घ्राणं वेत्ति न लोचनम्॥

@@ -6,7 +6,7 @@ title = "निर्विशेषो यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्विशेषो यदा राजा समं भृत्येषु तिष्ठति।  
 तत्रोद्यमसमर्थानामुत्साहः परिहीयते॥

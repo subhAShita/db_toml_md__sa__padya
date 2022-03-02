@@ -7,7 +7,7 @@ title = "तरुणिमनि कलयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरुणिमनि कलयति कलामनुमदनधनुर्भ्रुवोः पठत्यग्रे।  
 अधिवसति सकलललनामौलिमियं चकितहरिणचलनयना॥

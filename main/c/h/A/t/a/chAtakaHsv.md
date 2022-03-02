@@ -6,7 +6,7 @@ title = "चातकः स्वानुमानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चातकः स्वानुमानेन जलं प्रार्थयतेऽम्बुदात्।  
 स स्वौदार्यतया सर्वां प्लावयत्यम्बुना महीम्॥

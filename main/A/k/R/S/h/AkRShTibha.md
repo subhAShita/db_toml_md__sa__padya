@@ -5,7 +5,7 @@ title = "आकृष्टिभग्नकटकं केन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकृष्टिभग्नकटकं केन तव प्रकृतिकोमलं सुभगे।  
 धन्येन भुजमृणालं ग्राह्यं मदनस्य राज्यमिव॥

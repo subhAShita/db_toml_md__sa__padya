@@ -6,7 +6,7 @@ title = "पूतिपङ्कमयेत्यर्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूतिपङ्कमयेत्यर्थं कासारे दुःखिता अमी।  
 दुर्वारा मानसं हंसा गमिष्यन्ति घनागमे॥

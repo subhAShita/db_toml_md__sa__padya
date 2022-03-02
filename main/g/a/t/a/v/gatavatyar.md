@@ -7,7 +7,7 @@ title = "गतवत्यराजत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतवत्यराजत जपाकुसुमस्तबकद्युतौ दिनकरेऽवनतिम्।  
 बहलानुरागकुरुविन्ददलप्रतिबद्धमध्यमिव दिग्वलयम्॥

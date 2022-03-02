@@ -6,7 +6,7 @@ title = "अज्ञस्यार्धप्रबुद्धस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञस्यार्धप्रबुद्धस्य   
 सर्वम् ब्रह्मेति यो वदेत् ।  

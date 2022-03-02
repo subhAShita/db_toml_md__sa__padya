@@ -5,7 +5,7 @@ title = "कस्योपयोगमात्रेण धनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्योपयोगमात्रेण धनेन रमते भनः।  
 पदप्रमाणमाधारम् आरूढः को न कम्पते॥

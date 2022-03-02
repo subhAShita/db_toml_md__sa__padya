@@ -5,7 +5,7 @@ title = "अवालुकाश्लक्ष्णमृदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवालुकाश्लक्ष्णमृदा पूरिते गर्तशोधनम्।  
 कोदण्डार्धमिते खाते जलसिक्ते वपेत्तरुम्।  

@@ -7,7 +7,7 @@ title = "अत एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत एव निपीयतेऽधरो हृदयं मुष्टिभिरेव ताड्यते।  
 पुरुषैः सुखलेशवञ्चितैर्मधुलुब्धैः कमलं यथालिभिः॥

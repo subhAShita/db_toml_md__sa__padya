@@ -5,7 +5,7 @@ title = "आसनं प्राणसंरोधः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसनं प्राणसंरोधः प्रत्याहारश्च धारणा।  
 ध्यानं समाधिरेतानि योगाङ्गानि स्मृतानि षट्॥

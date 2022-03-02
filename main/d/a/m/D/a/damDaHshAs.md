@@ -6,7 +6,7 @@ title = "दण्डः शास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दण्डः शास्ति प्रजाः सर्वाः दण्ड एवाभिरक्षति।  
 दण्डः सुप्तेषु जागर्ति दण्डं धर्मं विदुर्बुधाः॥

@@ -6,7 +6,7 @@ title = "जनकः सानुविशेषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जनकः सानुविशेषो जातिः काष्ठं भुजङ्गमैः सङ्गः।  
 स्वगुणैरेव पटीरज यातोऽसि तथापि महिमानम्॥

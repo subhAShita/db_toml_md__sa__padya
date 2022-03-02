@@ -6,7 +6,7 @@ title = "%काचः% अज्ञतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 %काचः%॥ अज्ञतया प्रेम्णा वा चूडामणिमाकलय्य काचमणिम्।  
 नृपतिर्वहेत शिरसा तेनासौ न ह्यनर्घ्यमणिः॥

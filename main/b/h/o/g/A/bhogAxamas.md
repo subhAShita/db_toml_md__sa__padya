@@ -6,7 +6,7 @@ title = "भोगाक्षमस्य रक्षाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगाक्षमस्य रक्षां दृङ्मात्रेणैव कुर्वतोऽनभिमतस्य।  
 वृद्धस्य प्रमदापि श्रीरपि भृत्यस्य भोगाय॥

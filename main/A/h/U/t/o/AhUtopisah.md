@@ -5,7 +5,7 @@ title = "आहूतोऽपि सहायैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहूतोऽपि सहायैर् एमीत्युक्त्वा विमुक्तनिद्रोऽपि।  
 आगन्तुकोऽपि पथिकः शैथिल्यं नैव विजहाति॥

@@ -7,7 +7,7 @@ title = "तत्कुचौ चरतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्कुचौ चरतः किञ्चिन्नूनं मनसिजव्रतम्।  
 नित्योन्मुखौ यदासाते मौलिरत्नस्य भास्वतः॥

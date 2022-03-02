@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0018", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७७ सतीवर्णनम्// 25",]
-jsonClass = "Subhaashita"
 topics = [ "सती",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अकरुण कातरमनसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकरुण कातरमनसा दर्शितनीरा निरन्तरालेयम्।  
 त्वामनुधावति विमुखं गङ्गेव भगीरथं दृष्टिः॥

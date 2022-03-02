@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2899",]
-jsonClass = "Subhaashita"
 topics = [ "बाललीला", "सुब्रह्मण्यः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अर्चिष्मन्ति विदार्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्चिष्मन्ति विदार्य वक्त्रकुहराण्यासृक्कणो वासुकेस् तर्जन्या विषकर्बुरान् गणयतः संस्पृश्य दन्ताङ्कुरान्।  
 एकं त्रीणि नवाष्ट सप्त षडिति व्यस्तास्तसंख्याक्रमा वाचः शक्तिधरस्य शैशवकलाः कुर्वन्तु वो मङ्गलम्॥

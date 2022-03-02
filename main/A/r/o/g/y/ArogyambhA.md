@@ -1,13 +1,13 @@
 +++
 topics = [ "सूर्यः", "शङ्करः", "अग्निः", "कृष्णः",]
 ratings = [ "vvasuki:5",]
-secondary_sources = [ "MSS_5230",  "MSS_5229",]
+secondary_sources = [ "MSS_5230", "MSS_5229",]
 jsonClass = "Subhaashita"
 title = "आरोग्यं भास्करादिच्छेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरोग्यं भास्करादिच्छेद् धनमिच्छेद् हुताशनात्।  
 महेश्वराज् ज्ञानमिच्छेन् मुक्तिमिच्छेज् जनार्दनात्॥

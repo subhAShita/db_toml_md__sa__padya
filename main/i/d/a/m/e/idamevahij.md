@@ -5,7 +5,7 @@ title = "इदमेव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमेव हि जन्मफलं जीवितफलमेतदेव यत् पुंसाम्।  
 लटहनितम्बवतीजन- संभोगसुखेन याति तारुण्यम्॥

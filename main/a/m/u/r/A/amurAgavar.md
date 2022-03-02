@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1501", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १९ नायकस्याग्रे दूत्युक्तयः// 16",]
-jsonClass = "Subhaashita"
 topics = [ "नायकस्याग्रे दूत्युक्तयः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनुरागवर्तिना तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुरागवर्तिना तव विरहेणोग्रेण सा गृहीताङ्गी।  
 त्रिपुररिपुणेव गौरी वरतनुरर्धावशिष्टेव॥

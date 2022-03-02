@@ -6,7 +6,7 @@ title = "सत्पक्षा ऋजवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्पक्षा ऋजवः शुद्धाः सफला गुणसेविनः।  
 तुल्यैरपि गुणैश्चित्रं सन्तः सन्तः शराः शराः॥

@@ -6,7 +6,7 @@ title = "भ्रष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रष्टं नृपतिकिरीटाद्भूमौ पतितं तिरोहितं रजसा।  
 विधिविलसितेन रत्नं जनचरणविडम्बनां सहते॥

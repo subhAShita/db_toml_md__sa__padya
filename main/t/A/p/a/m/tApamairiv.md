@@ -7,7 +7,7 @@ title = "तापनैरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तापनैरिव तेजोभिर्दग्धनिर्वाणमेचकाः।  
 दिशो जाताः प्रतीची तु समुदाचरति क्रमात्॥

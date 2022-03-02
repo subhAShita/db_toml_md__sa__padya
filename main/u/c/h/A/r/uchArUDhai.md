@@ -5,7 +5,7 @@ title = "उच्चारूढैर्नरैरात्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्चारूढैर्नरैरात्मा रक्षणीयोऽतियत्नतः।  
 दूरारोहपरिभ्रंशविनिपातः सुदुःसहः॥

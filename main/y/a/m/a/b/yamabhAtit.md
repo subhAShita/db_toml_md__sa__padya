@@ -7,7 +7,7 @@ title = "यन्न भाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यन्न भाति तदङ्गेषु लावण्यमतिसम्भृतम्।  
 पिण्डीकृतमुरोदेशे तत्पयोधरतां गतम्॥

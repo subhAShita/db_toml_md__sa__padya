@@ -5,7 +5,7 @@ title = "आलानत्वरुषेवैता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलानत्वरुषेवैता दन्तिभिर्वृक्षपङ्क्तयः।  
 स्फुरत् कटकटारावं पात्यन्ते कृतचित्कृतैः॥

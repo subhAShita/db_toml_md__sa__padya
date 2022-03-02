@@ -7,7 +7,7 @@ title = "धैर्यमाधाय लज्जाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धैर्यमाधाय लज्जां च व्यपनीय विलासिनम्।  
 सम्भावयसि किं नैनं दिष्ट्या स्वयमुपस्थितम्॥

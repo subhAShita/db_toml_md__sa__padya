@@ -5,7 +5,7 @@ title = "अन्नदाहे हरेन्मांसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नदाहे हरेन्मांसम् अम्बुदाहे च शोणितम्।  
 कामदाहे हरेन्नेत्रम् अनिद्रा रोगकारिणी॥

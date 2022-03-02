@@ -6,7 +6,7 @@ title = "न तच्छस्त्रैर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न तच्छस्त्रैर्न नागेन्द्रैर्न हयैर्न च पत्तिभिः।  
 कार्यं सम्सिद्धिमभ्येति यथा बुद्ध्या प्रसाधितम्॥

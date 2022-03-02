@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9754", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 690",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "कार्यापेक्षी जनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्यापेक्षी जनः प्रायः प्रीतिमाविष्करोत्यलम्।  
 लोमार्थी शौण्डिकः शष्पैर् मेषं पुष्णाति पेशलैः॥

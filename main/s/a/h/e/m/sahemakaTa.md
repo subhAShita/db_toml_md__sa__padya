@@ -7,7 +7,7 @@ title = "सहेमकटकं धत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहेमकटकं धत्ते सा करं पद्मतस्करम्।  
 पद्मिनीवल्लभस्येव मूले वेष्टितमंशुना॥

@@ -6,7 +6,7 @@ title = "वीणेव श्रोत्रहीनस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीणेव श्रोत्रहीनस्य लोलाक्षीव विचक्षुषः।  
 व्यसोः कुसुममालेव श्रीः कदर्यस्य निष्फला॥

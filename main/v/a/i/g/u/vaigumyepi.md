@@ -6,7 +6,7 @@ title = "वैगुण्येऽपि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैगुण्येऽपि हि महतां विनिर्मितं भवति कर्म शोभायै।  
 दुर्वहनितम्बमन्थरमपि हरति नितम्बिनीनृत्यम्॥

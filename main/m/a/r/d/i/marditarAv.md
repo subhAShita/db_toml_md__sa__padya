@@ -6,7 +6,7 @@ title = "मर्दितरावणकंसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मर्दितरावणकंसौ सरयूयमुनाविहारिणौ देवौ।  
 अर्पितविप्रकुमारौ हरिपतिहरिकेतनप्रियौ वन्दे॥

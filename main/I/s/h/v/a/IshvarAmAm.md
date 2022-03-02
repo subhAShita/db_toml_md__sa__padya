@@ -5,7 +5,7 @@ title = "ईश्वराणां वचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईश्वराणां वचः सत्यं तथैवाचरितं क्वचित्।  
 तेषां यत् स्ववचोयुक्तं बुद्धिमांस् तत् समाचरेत्॥

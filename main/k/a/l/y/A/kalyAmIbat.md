@@ -5,7 +5,7 @@ title = "कल्याणी बत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्याणी बत गाथेयं लौकिकी प्रतिभाति मे।  
 एति जीवन्तमानन्दो नरं वर्षशतादपि॥

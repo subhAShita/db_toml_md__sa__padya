@@ -5,7 +5,7 @@ title = "अस्याः कान्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्याः कान्तस्य रूपस्य सवौपम्यातिशायिनः।  
 एकैव गच्छेत् सादृश्यं स्वच्छाया दर्पणाश्रिता॥

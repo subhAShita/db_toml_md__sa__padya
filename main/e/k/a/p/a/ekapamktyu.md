@@ -5,7 +5,7 @@ title = "एकपङ्क्त्युपविष्टानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकपङ्क्त्युपविष्टानां विप्राणां सहभोजने।  
 यद्येकोऽपि त्यजेदन्नं सर्वैरुच्छिष्टभोजनम्॥

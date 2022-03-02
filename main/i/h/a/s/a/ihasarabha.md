@@ -6,7 +6,7 @@ title = "इह सरभस"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह सरभस प्रोद्यद्-धारा-प्रपात-दृढाहत-  
 प्रचलित-महा-चक्रैर् यन्त्रैर् इयं प्रतिपादिता।  

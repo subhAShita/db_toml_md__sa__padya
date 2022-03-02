@@ -6,7 +6,7 @@ title = "साम्ना दानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साम्ना दानेन भेदेन समस्तैरथवा पृथक्।  
 साधितुं प्रयतेतारीन्न युद्धेन कदाचन॥

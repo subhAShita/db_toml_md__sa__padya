@@ -6,7 +6,7 @@ title = "प्रज्ञागुप्तशरीरस्य किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रज्ञागुप्तशरीरस्य किं करिष्यन्ति संहताः।  
 गृहीतहस्तच्छत्त्रस्य वारिधारा इवारयः॥

@@ -6,7 +6,7 @@ title = "उपाधिस्तु महाव्याधि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपाधिस्तु महाव्याधि पक्षता प्राणघातिनी  
 नमः प्रामाण्यवादाय मत्कवित्वाऽपहारिणे

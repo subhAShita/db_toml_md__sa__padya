@@ -5,7 +5,7 @@ title = "आननस्य मम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आननस्य मम चेदनौचिती निर्दयं दशनदंशदायिनः।  
 शोध्यते सुदति वैरमस्य तत् किं त्वया वद विदश्य नाधरम्॥

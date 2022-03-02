@@ -5,7 +5,7 @@ title = "अपि स्यात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि स्यात् पितृहा वैरी सोऽपि दानविलोभितः।  
 गत्वा विश्वासभावं स शत्रोरात्मानमर्पयेत्॥

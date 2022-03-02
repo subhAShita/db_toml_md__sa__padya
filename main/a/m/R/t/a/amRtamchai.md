@@ -5,7 +5,7 @@ title = "अमृतं चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतं चैव मृत्युश्च द्वयं देहे प्रतिष्ठितम्।  
 मृत्युमापद्यते मोहात् सत्येनापद्यतेऽमृतम्॥

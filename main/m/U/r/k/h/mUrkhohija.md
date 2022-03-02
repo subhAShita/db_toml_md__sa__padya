@@ -6,7 +6,7 @@ title = "मूर्खो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खो हि जल्पतां पुंसां श्रुत्वा वाचः शुभाशुभाः।  
 अशुभं वाक्यमादत्ते पुरीषमिव शूकरः॥

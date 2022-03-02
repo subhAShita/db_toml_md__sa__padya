@@ -6,7 +6,7 @@ title = "वरमल्पबलं सारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरमल्पबलं सारं न बह्वी मुण्डमालिका।  
 कुर्यादसारभङ्गो हि सारभङ्गमपि स्फुटम्॥

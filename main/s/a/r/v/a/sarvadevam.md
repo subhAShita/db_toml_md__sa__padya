@@ -6,7 +6,7 @@ title = "सर्वदेवमयो राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वदेवमयो राजा मनुना सम्प्रकीर्तितः।  
 तस्मात्तमेव सेवेत न व्यलीकेन कर्हिचित्॥

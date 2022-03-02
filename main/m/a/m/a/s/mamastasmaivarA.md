@@ -6,7 +6,7 @@ title = "नमस्तस्मै वराहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमस्तस्मै वराहाय हेलयोद्धरते महीम्।  
 खुरमध्यगतो यस्य मेरुः खुरखुरायते॥

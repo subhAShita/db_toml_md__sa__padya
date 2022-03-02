@@ -5,7 +5,7 @@ title = "अहो सत्सङ्गतिर्लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो सत्संगतिर्लोके किं पापं न विनाशयेत्।  
 न ददाति सुखं किं वा नराणां पुण्यकर्मणाम्॥

@@ -7,7 +7,7 @@ title = "स्त्रियः पवित्रमतुलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रियः पवित्रमतुलं नैता दुष्यन्ति कर्हिचित्।  
 मासि मासि रजो यासां दुष्कृतान्यपकर्षति॥

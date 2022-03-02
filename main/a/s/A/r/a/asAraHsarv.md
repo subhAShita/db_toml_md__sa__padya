@@ -5,7 +5,7 @@ title = "असारः सर्वतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असारः सर्वतः सारो वाचा सारसमुच्चयः।  
 वाचा सा चलिता येन सुकृतं तेन हारितम्॥

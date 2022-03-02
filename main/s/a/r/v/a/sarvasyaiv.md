@@ -7,7 +7,7 @@ title = "सर्वस्यैव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वस्यैव हि रत्नस्य व्रणेऽर्घः परिहीयते।  
 दयिताधररत्नं तु व्रणितं यात्यनर्घताम्॥

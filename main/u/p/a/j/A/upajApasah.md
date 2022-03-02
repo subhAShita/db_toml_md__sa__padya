@@ -5,7 +5,7 @@ title = "उपजापसहान् विल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपजापसहान् विल घयन् स विधाता नृपतीन् महोद्धतः।  
 सहते न जनोऽप्यधःक्रियां किमु लोकाधिकधाम राजकम्॥

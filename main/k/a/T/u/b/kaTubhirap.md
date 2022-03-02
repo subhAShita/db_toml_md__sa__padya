@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8350", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 13 सूर्यः// 5",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यः",]
-title = "कटुभिरपि"
+jsonClass = "Subhaashita"
+title = "कटुभिरपि कठोरचक्रवाकोत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटुभिरपि कठोरचक्रवाकोत्- करविरहज्वरशान्तिशीतवीयैः।  
 तिमिरहतमयं महोभिरञ्जञ् जयति जगन्नयनौघमुष्णभानुः॥

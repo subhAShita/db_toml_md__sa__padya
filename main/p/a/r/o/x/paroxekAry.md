@@ -6,7 +6,7 @@ title = "परोक्षे कार्यहन्तारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परोक्षे कार्यहन्तारं प्रत्यक्षे प्रियवादिनम्।  
 वर्जयेत्तादृशं मित्रं विषकुम्भं पयोमुखम्।

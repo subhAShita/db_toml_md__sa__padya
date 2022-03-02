@@ -6,7 +6,7 @@ title = "कूजन्ति कोकिलाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कूजन्ति कोकिलाः साले यौवने फुल्लमम्बुजम्।  
 किं करोतु कुरङ्गाक्षी वदनेन निपीडिता॥

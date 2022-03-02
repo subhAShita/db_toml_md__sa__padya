@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8426", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१५ वियोगिन्या विप्रलापाः// 16",]
-jsonClass = "Subhaashita"
 topics = [ "विलापः - वियोगे",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कति न सन्ति जना जगतीतले तदपि तद्विरहाकुलितं मनः।  
 कति न सन्ति निशाकरतारकाः कमलिनी मलिनी रविणा विना॥

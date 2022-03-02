@@ -5,7 +5,7 @@ title = "कनीनिकेव नेत्रस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कनीनिकेव नेत्रस्य कुसुमस्येव सौरभम्।  
 सम्यक्त्वमुच्यते सारं सर्वेषां धर्मकर्मणाम्॥

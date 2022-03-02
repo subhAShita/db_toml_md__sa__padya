@@ -6,7 +6,7 @@ title = "गम्यते यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गम्यते यदि मृगेन्द्रमन्दिरे लभ्यते करिकपोलमौक्तिकम्।  
 जम्बुकालयगतेन लभ्यते वत्सपुच्छखुरचर्मखण्डनम्॥

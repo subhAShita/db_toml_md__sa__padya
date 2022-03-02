@@ -7,7 +7,7 @@ title = "स्तनभाराय मध्येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनभाराय मध्येन त्रिवलिव्याजतः कृता।  
 तस्याः शङ्कितभङ्गेन भ्रूभङ्गानामिवावलिः॥

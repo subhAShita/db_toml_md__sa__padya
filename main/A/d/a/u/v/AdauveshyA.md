@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4775", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 10",]
-jsonClass = "Subhaashita"
 rasas = [ "हास्यम्",]
+jsonClass = "Subhaashita"
 title = "आदौ वेश्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ वेश्या पुनर्दासी पश्चाद् भवति कुट्टिनी।  
 सर्वोपायपरिक्षीणा वृद्धा नारी पतिव्रता॥

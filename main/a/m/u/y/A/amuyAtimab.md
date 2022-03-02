@@ -5,7 +5,7 @@ title = "अनुयाति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुयाति न भर्तारं यदि दैवात् कथंचन।  
 तथापि शीलं संरक्ष्यं शीलभङ्गात् पतत्यधः॥

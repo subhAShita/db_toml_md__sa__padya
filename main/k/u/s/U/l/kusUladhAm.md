@@ -7,7 +7,7 @@ title = "कुसूलधान्यको वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुसूलधान्यको वा स्यात् कुम्भीधान्यक एव वा ।  
 त्र्यहेहिको वाऽपि भवेदश्वस्तनिक एव वा ॥  

@@ -7,7 +7,7 @@ title = "यासां कटाक्षविशिखैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यासां कटाक्षविशिखैः स्मरचौरेण ताडिताः।  
 हृतचैतन्यसर्वस्वा मोह्यन्ते मुग्धकामुकाः॥

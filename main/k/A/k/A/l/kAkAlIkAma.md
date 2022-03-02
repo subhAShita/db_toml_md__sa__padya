@@ -5,7 +5,7 @@ title = "का काली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का काली का मधुरा का शीतलवाहिनी गङ्गा।  
 कं संजघान कृष्णः कं बलवन्तं न बाधते शीतम्॥

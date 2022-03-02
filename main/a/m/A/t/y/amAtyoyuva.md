@@ -5,7 +5,7 @@ title = "अमात्यो युवराजश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमात्यो युवराजश्च भुजावेतौ महीपतेः।  
 मन्त्री नेत्रं हि तद्भिन्न एतस्मिन्नपि तद्वधः॥

@@ -6,7 +6,7 @@ title = "भवत इवास्तिस्वच्छम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवत इवास्तिस्वच्छं कस्याभ्यन्तरमगाधमतिशिशिरम्।  
 काव्यामृतरसमग्नस्त्वमिव सदा कः कथय सरसः॥

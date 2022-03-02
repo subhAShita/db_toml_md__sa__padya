@@ -7,7 +7,7 @@ title = "यन्मध्यदेशादपि ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यन्मध्यदेशादपि ते सूक्ष्मं लोलाक्षि दृश्यते।  
 मृणालसूत्रमपि ते न संमाति स्तनान्तरे॥

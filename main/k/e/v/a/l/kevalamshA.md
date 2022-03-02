@@ -6,7 +6,7 @@ title = "केवलं शास्त्रमाश्रित्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केवलं शास्त्रमाश्रित्य न कर्तव्यो विनिर्णयः।  
 युक्तिहीने विचारे तु धर्महानिः प्रजायते॥

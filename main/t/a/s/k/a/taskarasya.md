@@ -6,7 +6,7 @@ title = "तस्करस्य कुतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्करस्य कुतो धर्मो दुर्जनस्य कुतः क्षमा।  
 वेश्यानां च कुतः स्नेहः कुतः सत्यं च कामिनाम्॥

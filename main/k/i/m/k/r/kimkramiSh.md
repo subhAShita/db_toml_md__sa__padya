@@ -6,7 +6,7 @@ title = "किं क्रमिष्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं क्रमिष्यति किलैष वामनो यावदित्थमहसन्त दानवाः।  
 तावदस्य न ममौ नभस्तले लङ्घितार्कशशिमण्डलः क्रमः॥

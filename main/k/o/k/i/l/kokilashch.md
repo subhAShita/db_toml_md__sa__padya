@@ -7,7 +7,7 @@ title = "कोकिलश्चूतशिखरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोकिलश्चूतशिखरे मञ्जरीरेणुपिञ्जरः।  
 गदितैर्व्यक्ततामेति कुलीनश्चेष्टितैरिव॥

@@ -5,7 +5,7 @@ title = "अच्युतचरणतरङ्गिणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अच्युतचरणतरङ्गिणि शशिशेखरमौलिमालतीमाले।  
 त्वयि तनुवितरणसमये हरता देया न मे हरिता॥

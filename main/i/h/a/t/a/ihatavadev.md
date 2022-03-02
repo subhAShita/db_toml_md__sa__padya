@@ -5,7 +5,7 @@ title = "इह तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह तव देव निपतता करकमलकुशोदकेन जायन्ते।  
 तत्तद्दूरदरिद्र- द्वारि द्विपदानवारिभिः सरितः॥

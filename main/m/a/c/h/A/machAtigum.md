@@ -5,7 +5,7 @@ title = "न चातिगुणवत्स्वेषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न चातिगुणवत्स्वेषा नात्यन्तं निर्गुणेषु च।  
 नैषा गुणान्कामयते नैर्गुण्यां नानुरज्यते।  

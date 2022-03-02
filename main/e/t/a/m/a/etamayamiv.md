@@ -5,7 +5,7 @@ title = "एतन्मयमिव जातम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतन्मयमिव जातं निपतितमस्यां मनो नूनम्।  
 नायात्यपि यदुपायात् कथमपि कायात् कुरङ्गनयनायाः॥

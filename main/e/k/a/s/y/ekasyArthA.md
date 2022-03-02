@@ -5,7 +5,7 @@ title = "एकस्यार्थाय यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकस्यार्थाय यो हन्याद् आत्मनो वा परस्य वा।  
 बहून् वै प्राणिनोऽथैकं भवेत् तस्येह पातकम्॥

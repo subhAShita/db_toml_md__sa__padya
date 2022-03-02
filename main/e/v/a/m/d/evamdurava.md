@@ -5,7 +5,7 @@ title = "एवं दुरवधार्यैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं दुरवधार्यैव गतिश् चित्तस्य योषिताम्।  
 सवैरस्याविचारस्य नीचैकाभिमुखस्य च॥

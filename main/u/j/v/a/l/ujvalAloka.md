@@ -5,7 +5,7 @@ title = "उज्ज्वलालोकया स्निग्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उज्ज्वलालोकया स्निग्धा त्वया त्यक्ता न राजते।  
 मलीमसमुखी वर्तिः प्रदीपशिखया यथा॥

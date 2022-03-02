@@ -6,7 +6,7 @@ title = "गोपालेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गोपालेन प्रजाधेनोर्वित्तदुग्धं शनैः शनैः।  
 पालनात्पोषणाद्ग्राह्यं न्याय्यां वृत्तिं समाचरेत्॥

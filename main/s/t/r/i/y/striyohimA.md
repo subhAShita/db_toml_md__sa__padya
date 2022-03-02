@@ -7,7 +7,7 @@ title = "स्त्रियो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रियो हि नाम खल्वेता निसर्गादेव पण्डिताः।  
 पुरुषाणां तु पाण्डित्यं शास्त्रेणैवोपदिश्यते॥

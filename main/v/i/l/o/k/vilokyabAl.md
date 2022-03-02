@@ -6,7 +6,7 @@ title = "विलोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विलोक्य बालामुखचन्द्रबिम्बं कण्ठे च मुक्तावलिहारताराः।  
 पुनर्निशाया भयभीतभीता सूर्योदये रोदिति चक्रवाकी॥

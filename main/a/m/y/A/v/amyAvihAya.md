@@ -5,7 +5,7 @@ title = "अन्या विहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्या विहाय पतिगृह- मविचिन्तितकुलकलङ्कजनगर्हाः।  
 रागोपरक्तहृदया यान्ति दिगन्तं मनुष्या आसज्य॥

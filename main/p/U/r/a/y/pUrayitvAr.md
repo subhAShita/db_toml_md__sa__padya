@@ -6,7 +6,7 @@ title = "पूरयित्वार्थिनामाशाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूरयित्वार्थिनामाशां प्रियं कृत्वा द्विषामपि।  
 पारं गत्वा श्रुतौघस्य धन्या वनमुपासते॥

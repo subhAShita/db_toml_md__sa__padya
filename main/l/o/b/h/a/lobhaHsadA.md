@@ -6,7 +6,7 @@ title = "लोभः सदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोभः सदा विचिन्त्यो लुब्धेभ्यः सर्वतो भयं दृष्टम्।  
 कार्याकार्यविचारो लोभविमूढस्य नास्त्येव॥

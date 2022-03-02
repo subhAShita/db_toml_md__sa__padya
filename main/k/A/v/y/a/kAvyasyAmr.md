@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9923", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 8",]
-jsonClass = "Subhaashita"
 topics = [ "काव्यम्",]
+jsonClass = "Subhaashita"
 title = "काव्यस्याम्रफलस्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यस्याम्रफलस्यापि कोमलस्येतरस्य च।  
 बन्धच्छायाविशेषेण रसोऽप्यन्यादृशो भवेत्॥

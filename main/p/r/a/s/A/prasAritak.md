@@ -6,7 +6,7 @@ title = "प्रसारितकरे मित्त्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रसारितकरे मित्त्रे जगदुद्द्योतकारिणि।  
 किं न कैरव लज्जा ते कुर्वतः कोशसंवृतिम्॥

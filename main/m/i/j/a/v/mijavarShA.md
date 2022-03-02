@@ -6,7 +6,7 @@ title = "निजवर्षाहितस्नेहा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजवर्षाहितस्नेहा बहुभक्तजनान्विताः।  
 सुकाला इव जायन्ते प्रजापुण्येन भूभृतः॥

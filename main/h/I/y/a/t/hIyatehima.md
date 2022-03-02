@@ -6,7 +6,7 @@ title = "हीयते हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हीयते हि मतिस्तात हीनैः सह समागमात् ।  
 समैश्च समतामेति , विशिष्टैश्च विशिष्टताम् ॥

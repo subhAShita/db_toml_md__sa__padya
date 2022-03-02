@@ -7,7 +7,7 @@ title = "यौवने वर्तमानानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यौवने वर्तमानानां मृष्टाभरणवाससाम्।  
 नारीणां स्वैरवृत्तीनां स्पृहयन्ति कुलस्त्रियः॥

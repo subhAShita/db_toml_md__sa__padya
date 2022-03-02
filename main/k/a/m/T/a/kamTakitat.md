@@ -5,7 +5,7 @@ title = "कण्टकिततनुशरीरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्टकिततनुशरीरा लज्जामुकुलायमाननयनेयम्।  
 तव कुमुदिनीव वाञ्छति नृचन्द्र बाला करस्पर्शम्॥

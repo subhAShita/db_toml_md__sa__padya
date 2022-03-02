@@ -6,7 +6,7 @@ title = "मुक्ताहार गुणीभूय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुक्ताहार गुणीभूय नोपसर्प्यः स्तनस्त्वया।  
 विभवे यस्य काठिन्यं व्यर्थं तदुपसर्पणम्॥

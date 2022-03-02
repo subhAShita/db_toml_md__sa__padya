@@ -5,7 +5,7 @@ title = "अतः समीक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतः समीक्ष्य कर्तव्यं विशेषात् संगतं रहः।  
 अज्ञातहृदयेष्वेवं वैरीभवति सौहृदम्॥

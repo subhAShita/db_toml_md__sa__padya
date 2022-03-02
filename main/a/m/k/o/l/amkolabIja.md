@@ -5,7 +5,7 @@ title = "अङ्कोल्लबीजमज्जानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्कोल्लबीजमज्जानां सूक्ष्मचूर्णं विधीयते।  
 तिलतैलेन तच्चूर्णं सम्यक्कृत्वा च भावयेत्॥

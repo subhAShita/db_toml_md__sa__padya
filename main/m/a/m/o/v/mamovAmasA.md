@@ -6,7 +6,7 @@ title = "नमो वाङ्मनसातीतमहिम्ने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमो वाङ्मनसातीतमहिम्ने परमेष्ठिने।  
 त्रिगुणाष्टगुणानन्तगुणनिर्गुणमूर्तये॥

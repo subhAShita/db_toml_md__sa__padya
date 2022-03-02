@@ -7,7 +7,7 @@ title = "सलीलमियमायाति कामिनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सलीलमियमायाति कामिनी गजगामिनी।  
 उन्नतं हि नखज्योतिः पुष्पैर्भुवमिवार्चती॥

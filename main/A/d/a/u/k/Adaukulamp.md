@@ -5,7 +5,7 @@ title = "आदौ कुलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ कुलं परीक्षेत ततो विद्यां ततो वयः।  
 शीलं धनं ततो रूपं देशं पश्चात् विवाहयेत्॥

@@ -6,7 +6,7 @@ title = "तव निर्वर्णयद्वर्णम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव निर्वर्णयद्वर्णं स्वर्णं वर्णयतो गिरा।  
 त्वत्कोशगेहान्निर्गत्य तीर्थेषु वसति ध्रुवम्॥

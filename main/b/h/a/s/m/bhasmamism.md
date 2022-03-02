@@ -6,7 +6,7 @@ title = "भस्मनि स्मररिपोरनुरागो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भस्मनि स्मररिपोरनुरागो हीयते न घनसारपरागः।  
 भूषणं यदि फणी न मणीनां काचिदप्यपचितिर्न च हेम्नः॥

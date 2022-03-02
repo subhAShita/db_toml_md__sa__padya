@@ -6,7 +6,7 @@ title = "वक्राः कपटस्निग्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वक्राः कपटस्निग्धा मलिनाः कर्णान्तिके प्रसज्जन्तः।  
 कं भेदयन्ति न सखे खलाश्च गणिकाकटाक्षाश्च॥

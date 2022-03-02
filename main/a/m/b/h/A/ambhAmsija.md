@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2597", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 465",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अम्भांसि जलजन्तूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्भांसि जलजन्तूनां दुर्गं दुर्गनिवासिनाम्।  
 स्वभूमिः श्वापदादीनां राज्ञां सैन्यं परं बलम्॥

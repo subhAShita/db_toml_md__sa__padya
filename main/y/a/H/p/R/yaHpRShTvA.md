@@ -6,7 +6,7 @@ title = "यः पृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः पृष्ट्वा कुरुते कार्यं प्रष्टव्यान्स्वान्हितान्गुरून्।  
 न तस्य जायते विघ्नः कस्मिंश्चिदपि कर्मणि॥

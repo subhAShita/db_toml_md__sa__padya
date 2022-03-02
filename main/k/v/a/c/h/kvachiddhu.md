@@ -6,7 +6,7 @@ title = "क्वचिद्धुक्का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्वचिद्धुक्का क्वचित्थुक्का क्वचिन्नासाग्रवर्तिनी।  
 एषा त्रिपथगा गङ्गा पुनाति भुवनत्रयम्॥

@@ -7,7 +7,7 @@ title = "रक्तोऽभिजायते भोग्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रक्तोऽभिजायते भोग्यो नारीणां शाटको यथा।  
 घृष्यते यो दशालम्बी नितम्बे विनिवेशितः॥

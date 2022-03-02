@@ -5,7 +5,7 @@ title = "अपां प्रवाहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपां प्रवाहो गाङ्गोऽपि समुद्रं प्राप्य तद्रसः।  
 भवत्यवश्यं तद् विद्वान् नाश्रयेदशुभात्मकम्॥

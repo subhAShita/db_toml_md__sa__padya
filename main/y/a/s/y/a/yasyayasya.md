@@ -6,7 +6,7 @@ title = "यस्य यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य यस्य हि यो भावस्तेन तेन हि तं नरम्।  
 अनुप्रविश्य मेधावी क्षिप्रमात्मवशं नयेत्॥

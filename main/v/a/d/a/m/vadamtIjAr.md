@@ -6,7 +6,7 @@ title = "वदन्ती जारवृत्तान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वदन्ती जारवृत्तान्तं पत्यौ धूर्ता सखीधिया।  
 पतिं बुद्ध्वा सखि ततः प्रबुद्धास्मीत्यपूरयत्॥

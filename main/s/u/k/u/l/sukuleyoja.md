@@ -6,7 +6,7 @@ title = "सुकुले योजयेत्कन्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुकुले योजयेत्कन्यां पुत्रं विद्यासु योजयेत्।  
 व्यसने योजयेच्छत्रुमिष्टं धर्मेण योजयेत्॥

@@ -6,7 +6,7 @@ title = "नश्यति विपुलमतेरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नश्यति विपुलमतेरपि बुद्धिः पुरुषस्य मन्दविभवस्य।  
 घृतलवणतैलतण्डुलवस्त्रेन्धनचिन्तया सततम्॥

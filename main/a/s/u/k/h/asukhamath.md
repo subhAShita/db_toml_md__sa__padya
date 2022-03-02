@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3773", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २० कुगणकनिन्दा// 3",]
-jsonClass = "Subhaashita"
 topics = [ "ज्योतिषिकः",]
+jsonClass = "Subhaashita"
 title = "असुखमथ सुखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असुखमथ सुखं वा कर्मणां पक्तिवेलास्व् अहह नियतमेते भुञ्जते देहभाजः।  
 तदिह पुरत एव प्राह मौहुर्तिकश्चेत् कथय फलममीषामन्ततः किं ततः स्यात्॥

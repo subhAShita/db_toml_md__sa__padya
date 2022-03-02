@@ -6,7 +6,7 @@ title = "पुस्तकं वनिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुस्तकं वनिता वित्तं परहस्तं गतं गतम् ।  
 अथ वा पुनरागच्छेत् जीर्णं भ्रष्टमेव च ॥

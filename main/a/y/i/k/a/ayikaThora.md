@@ -5,7 +5,7 @@ title = "अयि कठोर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि कठोर यशः किल ते प्रियं किमयशो ननु घोरमतःपरम्।  
 किमभवद्विपिने हरिणीदृशः कथय नाथ कथं बत मन्यसे॥

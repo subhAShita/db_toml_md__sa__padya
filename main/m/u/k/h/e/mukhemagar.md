@@ -6,7 +6,7 @@ title = "मुखेन गरलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखेन गरलं मुञ्चन्मूले वसति चेत्फणी।  
 फलसन्दोह गुरुणा तरुणा किं प्रयोजनम्॥

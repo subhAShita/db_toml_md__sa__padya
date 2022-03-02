@@ -6,7 +6,7 @@ title = "नरत्वं दुर्लभम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नरत्वं दुर्लभं लोके विद्या तत्र सुदुर्लभा।  
 कवित्वं दुर्लभं तत्र शक्तिस्तत्र सुदुर्लभा॥

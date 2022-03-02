@@ -6,7 +6,7 @@ title = "प्रभवः को"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रभवः को गङ्गाया नगपतिरतिसुभगशृङ्गधरः।  
 के सेव्यन्ते सेवकसार्थैरत्यर्थमर्थरतैः॥

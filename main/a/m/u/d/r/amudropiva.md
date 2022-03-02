@@ -5,7 +5,7 @@ title = "अमुद्रोऽपि वरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुद्रोऽपि वरं कूपः समुद्रेणापि तेन किम्।  
 सुस्वादु सलिलं यत्र पीयते पथिकैः पथि॥

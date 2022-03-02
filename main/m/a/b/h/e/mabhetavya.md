@@ -7,7 +7,7 @@ title = "न भेतव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न भेतव्यं न बोद्धव्यं न श्राव्यं वादिनो वचः ।  
 झटिति प्रतिवक्तव्यं सभासु विजिगीषुभिः ॥  

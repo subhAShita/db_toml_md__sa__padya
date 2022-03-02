@@ -6,7 +6,7 @@ title = "विपाकदारुणो राज्ञाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विपाकदारुणो राज्ञां रिपुरल्पोऽप्यरुन्तुदः।  
 उद्वेजयति सूक्ष्मोऽपि चरणं कण्टकाङ्कुरः॥

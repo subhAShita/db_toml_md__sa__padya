@@ -5,7 +5,7 @@ title = "अरण्यहरिणग्रामम् आचक्राम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरण्यहरिणग्रामम् आचक्राम हुताशनः।  
 इन्दोः क्रोडमृगं धर्तुम् इव धूमो नभो ययौ॥

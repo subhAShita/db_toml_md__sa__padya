@@ -5,7 +5,7 @@ title = "अबलेति परीवादो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अबलेति परीवादो वृथा हि हरिणीदृशाम्।  
 यासां नेत्रनिपातेन नटवद् घूर्ण्यते जगत्॥

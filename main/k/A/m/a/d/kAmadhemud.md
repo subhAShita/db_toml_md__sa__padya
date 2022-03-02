@@ -5,7 +5,7 @@ title = "कामधेनुधरादीनां दातारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामधेनुधरादीनां दातारः सुलभा भुवि।  
 दुर्लभः पुरुषो लोके सर्वभूतदयापरः॥

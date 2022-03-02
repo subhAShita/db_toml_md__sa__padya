@@ -5,7 +5,7 @@ title = "एवं स्वभावम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं स्वभावं ज्ञात्वासां प्रजापतिनिसर्गजम्।  
 परमं यत्नमातिष्ठेत् पुरुषो रक्षणं प्रति॥

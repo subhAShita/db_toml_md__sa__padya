@@ -6,7 +6,7 @@ title = "नोदन्वानर्थितामेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नोदन्वानर्थितामेति सदाम्भोभिः प्रपूर्यते।  
 आत्मा तु पात्रतां नेयः पात्रमायान्ति सम्पदः॥

@@ -7,15 +7,15 @@ title = "अगदार्कमयूखाः किम्"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-Are not the rays of the sun of medicine useless for him, whose eyes are ever pierced by the moonlight of a damsel's side-glance?
+अगदार्कमयूखाः किं न तस्य व्यर्थतां गताः।  
+कटाक्षकौमुदीविद्धे यस्य हि नयने चिरम्॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-अगदार्कमयूखाः किं न तस्य व्यर्थतां गताः।  
-कटाक्षकौमुदीविद्धे यस्य हि नयने चिरम्॥
+Are not the rays of the sun of medicine useless for him, whose eyes are ever pierced by the moonlight of a damsel's side-glance?
 </details>

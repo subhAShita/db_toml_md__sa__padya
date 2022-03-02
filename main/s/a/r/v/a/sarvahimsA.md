@@ -6,7 +6,7 @@ title = "सर्वहिंसानिवृत्ता ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वहिंसानिवृत्ता ये नराः सर्वं सहाश्च ये।  
 सर्वस्याश्रयभूताश्च ते नराः स्वर्गगामिनः॥

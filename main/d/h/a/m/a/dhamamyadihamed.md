@@ -6,7 +6,7 @@ title = "धनं यदिह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनं यदिह मे दत्से विधे मा देहि कर्हिचित्।  
 औदार्यं धनिनो देहि यन्मदीये हृदि स्थितम्॥

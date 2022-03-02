@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4155", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०२ चन्द्रान्योक्तयः// 3",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - चन्द्रः",]
+jsonClass = "Subhaashita"
 title = "अहो नक्षत्रराजस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो नक्षत्रराजस्य साभिमानं विचेष्टितम्।  
 परिक्षीणस्य वक्रत्वं संपूर्णस्य सुवृत्तता॥

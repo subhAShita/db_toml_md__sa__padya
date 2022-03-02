@@ -5,7 +5,7 @@ title = "एकमुत्कण्ठया व्याप्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकमुत्कण्ठया व्याप्तम् अन्यद् दयितया हृतम्।  
 चैतन्यमपरं धत्ते कियन्ति हृदयानि मे॥

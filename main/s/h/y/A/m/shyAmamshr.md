@@ -6,7 +6,7 @@ title = "श्यामम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामं श्रीकुचकुङ्कुमपिञ्जरितमुरो मुरद्विषो जयति।  
 दिनमुखनभ इव कौस्तुभविभाकरो यद्विभूषयति॥

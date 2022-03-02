@@ -6,7 +6,7 @@ title = "हे मल्लि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हे मल्लि हे मालति हे लवङ्गि न तादृशी क्वापि भवादृशीनाम्।  
 क्षणं समाधाय मधुव्रतं या विस्मारयेदम्बुजिनीवियोगम्॥

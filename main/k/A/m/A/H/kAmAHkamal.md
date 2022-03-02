@@ -5,7 +5,7 @@ title = "काणाः कमलपत्राक्षाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काणाः कमलपत्राक्षाः कदर्याः कल्पशाखिनः।  
 कातरा विक्रमादित्याः कविदृग्गोचरं गताः॥

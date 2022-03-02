@@ -5,7 +5,7 @@ title = "आलस्येन हता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलस्येन हता विद्या परहस्तगताः स्त्रियः।  
 अल्पबीजं हतं क्षेत्रं हतं सैन्यमनायकम्॥

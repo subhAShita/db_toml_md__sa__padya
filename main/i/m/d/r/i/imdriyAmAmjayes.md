@@ -5,7 +5,7 @@ title = "इन्द्रियाणां जये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणां जये शूरो धर्मं चरति पण्डितः।  
 सत्यवादी भवेद् वक्ता दाता भवति वा न वा॥

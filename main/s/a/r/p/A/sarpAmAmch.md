@@ -6,7 +6,7 @@ title = "सर्पाणां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्पाणां च खलानां च परद्रव्यापहारिणाम्।  
 अभिप्राया न सिध्यन्ति तेनेदं वर्तते जगत्॥

@@ -7,7 +7,7 @@ title = "मारयन्त्या जनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मारयन्त्या जनं सर्वं निरागसमिवाज्ञया।  
 मातङ्गानां गतिर्यादृक्तादृगासीदसंशयम्॥

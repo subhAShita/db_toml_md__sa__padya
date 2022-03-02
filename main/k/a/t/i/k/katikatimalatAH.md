@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8420", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०३ मधुकरः// 61",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - मधुकरः",]
+jsonClass = "Subhaashita"
 title = "कति कति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कति कति न लताः कलिताः संचरता चञ्चरीकरसिकेन।  
 नलिनि भवन्मधु मधुरं यत् पीतं तत् तदेव परिपीतम्॥

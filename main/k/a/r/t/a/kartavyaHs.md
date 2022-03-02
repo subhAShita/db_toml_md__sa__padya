@@ -5,7 +5,7 @@ title = "कर्तव्यः सञ्चयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्तव्यः संचयो नित्यं न तु कार्योऽतिसंचयः।  
 अतिसंचयशीलोऽयं धनुषा जम्बुको हतः॥

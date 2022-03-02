@@ -7,7 +7,7 @@ title = "सति प्रदीपे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सति प्रदीपे सत्यग्नौ सत्सु तारारवीन्दुषु।  
 विना मे मृगशावाक्ष्या तमोभूतमिदं जगत्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1806", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 108",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अन्यार्थमङ्गीकृतवारिपाणौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यार्थमङ्गीकृतवारिपाणौ विशङ्कमानास्तव दाननीरम्।  
 परस्परं दीनमुखा न के वा देवाः सुमेरुं शुशुचुः स्वभूमिम्॥

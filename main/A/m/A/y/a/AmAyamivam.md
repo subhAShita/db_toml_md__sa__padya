@@ -5,7 +5,7 @@ title = "आनायमिव मत्स्यानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनायमिव मत्स्यानां पञ्जरं शकुनेरिव।  
 समस्तपाशं मूढस्य बन्धनं वामलोचना॥

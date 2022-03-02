@@ -5,7 +5,7 @@ title = "अनुबन्धं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुबन्धं च संप्रेक्ष्य विपाकांश्चैव कर्मणाम्।  
 उत्थानमात्मनश्चैव धीरः कुर्वीत वा न वा॥

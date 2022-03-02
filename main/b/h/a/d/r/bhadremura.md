@@ -7,7 +7,7 @@ title = "भद्रे मुरलि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भद्रे मुरलि नमस्ते यामेकान्ते क्वचिद्धरिश्चुम्बन् ।  
 आनन्दतुन्दिलमनाः स्मरति न भुवनत्रयीभरणखेदम् ॥

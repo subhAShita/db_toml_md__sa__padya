@@ -7,7 +7,7 @@ title = "आढ्यस्त्यजति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आढ्यस्त्यजति चेद्भोगांस्तत्रास्त्येव गुणो महान् ।  
 दरिद्रैस्त्यज्यते भोग इति केयं विडम्बना ॥

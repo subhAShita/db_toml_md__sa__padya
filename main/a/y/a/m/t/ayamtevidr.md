@@ -5,7 +5,7 @@ title = "अयं ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं ते विद्रुमच्छायो मरुमार्ग इवाधरः।  
 करोति कस्य नो बाले पिपासाकुलितं मनः॥

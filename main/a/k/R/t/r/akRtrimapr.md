@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0104", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 7",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अकृत्रिमप्रेमरसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृत्रिमप्रेमरसा विलासालसगामिनी।  
 असारे दग्धसंसारे सारं सारङ्गलोचना॥

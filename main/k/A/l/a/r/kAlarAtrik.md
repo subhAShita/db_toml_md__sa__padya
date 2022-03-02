@@ -5,7 +5,7 @@ title = "कालरात्रिकरालेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालरात्रिकरालेयं स्त्रीति किं विचिकित्ससे।  
 तज्जगत्त्रितयं त्रातुं तात ताडय ताटकाम्॥

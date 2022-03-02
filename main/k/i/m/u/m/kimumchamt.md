@@ -6,7 +6,7 @@ title = "किं मुञ्चन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं मुञ्चन्ति पयोवाहाः कीदृशी हरिवल्लभा।  
 पूजायां किं पदं कोऽग्निः कः कृष्णेन हतो रिपुः॥

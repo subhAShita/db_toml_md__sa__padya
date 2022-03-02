@@ -5,7 +5,7 @@ title = "इतिहासपुराणानि शृणुयात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतिहासपुराणानि शृणुयात् तदनन्तरम्।  
 भुक्तवान् विहरेच् चैव स्त्रीभिरन्तःपुरे सह॥

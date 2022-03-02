@@ -6,7 +6,7 @@ title = "येन पाषाणखण्डस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येन पाषाणखण्डस्य मूल्यमल्पं वसुन्धरा।  
 अनस्तमितसारस्य तेजसस्तद्विजृम्भितम्॥

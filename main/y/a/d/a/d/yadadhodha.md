@@ -6,7 +6,7 @@ title = "यदधोऽधः क्षितौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदधोऽधः क्षितौ वित्तं निचखान मितम्पचः।  
 तदधोनिरयं गन्तुं चक्रे पन्थानमग्रतः॥

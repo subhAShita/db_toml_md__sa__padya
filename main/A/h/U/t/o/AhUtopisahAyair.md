@@ -7,7 +7,7 @@ title = "आहूतोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहूतोऽपि सहायैरेमीत्युक्त्वा विमुक्तनिद्रोऽपि।  
 गन्तुमना अपि पथिकः सङ्कोचं नैव शिथिलयति॥

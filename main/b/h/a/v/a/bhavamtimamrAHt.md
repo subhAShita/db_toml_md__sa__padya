@@ -6,7 +6,7 @@ title = "भवन्ति नम्राः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवन्ति नम्राः तरवः फलोद्गमैः  
 नवाम्बुभिः दूरविलम्बिनो घनाः ।  

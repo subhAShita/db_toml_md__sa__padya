@@ -5,7 +5,7 @@ title = "उदधेरिव रत्नानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदधेरिव रत्नानि तेजांसीव विवस्वतः।  
 स्तुतिभ्यो व्यतिरिच्यन्ते दूराणि चरितानि ते॥

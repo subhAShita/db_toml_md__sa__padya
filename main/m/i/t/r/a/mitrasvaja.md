@@ -6,7 +6,7 @@ title = "मित्रस्वजनबन्धूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मित्रस्वजनबन्धूनां बुद्धेर्धैर्यस्य चात्मनः।  
 आपन्निकषपाषाणे नरो जानाति सारताम्॥

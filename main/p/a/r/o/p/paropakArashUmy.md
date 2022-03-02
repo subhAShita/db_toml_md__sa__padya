@@ -6,7 +6,7 @@ title = "परोपकारशून्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परोपकारशून्यस्य धिङ्मनुष्यस्य जीवितम्।  
 जीवन्तु पशवो येषां चर्माप्युपकरिष्यति॥

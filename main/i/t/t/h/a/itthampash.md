@@ -5,7 +5,7 @@ title = "इत्थं पशुपतिपेशल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं पशुपतिपेशल- पाशकलीलाप्रयुक्तवक्रोक्तेः।  
 हर्षवशतरलतारकम् आननमव्याद् भवान्या वः॥

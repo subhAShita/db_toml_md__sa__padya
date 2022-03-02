@@ -7,7 +7,7 @@ title = "लीलयैव सुतनोस्तुलयित्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लीलयैव सुतनोस्तुलयित्वा गौरवाढ्यमपि लावणिकेन।  
 मानवञ्चनविदा वदनेन क्रीतमेव हृदयं दयितस्य॥

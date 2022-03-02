@@ -5,7 +5,7 @@ title = "अन्योन्यभेदो भ्रातॄणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्योन्यभेदो भ्रातॄणां सुहृदां वा बलान्तक।  
 भवत्यानन्दकृद्देव द्विषतां नात्र संशयः॥

@@ -7,7 +7,7 @@ title = "न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न वर्ण्यवस्तुमाहात्म्यान्महत्तां भजते कविः ।  
 तथा सति कवीन्द्रः स्यात्सर्वोऽद्रीभादि वर्णयन् ॥

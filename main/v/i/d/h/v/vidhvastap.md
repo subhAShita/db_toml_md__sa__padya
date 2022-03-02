@@ -6,7 +6,7 @@ title = "विध्वस्तपरगुणानां भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विध्वस्तपरगुणानां भवति खलानामतीव मलिनत्वम्।  
 अन्तरितशशिरुचामपि सलिलमुचां मलिनिमाभ्यधिकः॥

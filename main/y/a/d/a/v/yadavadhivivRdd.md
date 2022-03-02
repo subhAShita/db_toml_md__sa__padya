@@ -7,7 +7,7 @@ title = "यदवधि विवृद्धमात्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदवधि विवृद्धमात्रा विकसितकुसुमोत्करा शणश्रेणी।  
 पीतांशुकप्रियेयं तदवधि पल्लीपतेः पुत्री॥

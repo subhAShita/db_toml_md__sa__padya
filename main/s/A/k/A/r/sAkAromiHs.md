@@ -6,7 +6,7 @@ title = "साकारो निःस्पृहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साकारो निःस्पृहो वाग्मी नानाशास्त्रविचक्षणः।  
 परचित्तावगन्ता च राज्ञो दूतः स इष्यते॥

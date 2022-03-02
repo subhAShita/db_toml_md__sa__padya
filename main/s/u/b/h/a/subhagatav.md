@@ -6,7 +6,7 @@ title = "सुभग"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभग तवाननपङ्कजदर्शनसञ्जातनिर्भरप्रीतेः।  
 शमयति कुर्वन्दिवसः पुण्यवतः कस्य रमणीयः॥

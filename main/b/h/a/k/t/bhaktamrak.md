@@ -6,7 +6,7 @@ title = "भक्तं रक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्तं रक्तं सदाभक्तं निर्दोषं न परित्यजेत्।  
 रामस्त्यक्त्वा सतीं सीतां शोकशल्याकुलोऽभवत्॥

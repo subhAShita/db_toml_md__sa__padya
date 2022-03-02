@@ -5,7 +5,7 @@ title = "आकारपरिवृत्तिस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकारपरिवृत्तिस्तु बुद्धेः परिभवः पुनः।  
 आशाहानिरिवार्थित्वं परासुत्वमिवापरम्॥

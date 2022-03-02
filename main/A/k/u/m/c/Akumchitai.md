@@ -5,7 +5,7 @@ title = "आकुञ्चितैकजङ्घम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकुञ्चितैकजङ्घं दरावृतोर्ध्वोरु गोपितार्धोरु।  
 सुतनोः श्वसितक्रमनमदृ- उदरस्फुटनाभि शयनमिदम्॥

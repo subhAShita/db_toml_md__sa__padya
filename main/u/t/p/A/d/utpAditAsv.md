@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6621", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३३ उदारप्रशंसा// 36",]
-jsonClass = "Subhaashita"
 topics = [ "दाता", "दानम्",]
+jsonClass = "Subhaashita"
 title = "उत्पादिता स्वयमियम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पादिता स्वयमियं यदि तत् तनूजा तातेन वा यदि तदा भगिनी खलु श्रीः।  
 यद्यन्यसंगमवती च तदा परस्त्री तत्त्यागबद्धमनसः सुधियो भवन्ति॥

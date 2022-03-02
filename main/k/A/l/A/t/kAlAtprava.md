@@ -5,7 +5,7 @@ title = "कालात् प्रवर्तते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालात् प्रवर्तते बीजं कालाद् गर्भं प्रमुञ्चति।  
 कालो जनयते पुत्रं पुनः कालोऽपि संहरेत्॥

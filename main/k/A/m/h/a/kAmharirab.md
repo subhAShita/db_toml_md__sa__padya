@@ -5,7 +5,7 @@ title = "कां हरिरभरत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कां हरिरभरत् सूकररूपः कामरिरहितामिच्छति भूपः।  
 केनाकारि च मन्मथजननं केन विराजति तरुणीवदनम्॥

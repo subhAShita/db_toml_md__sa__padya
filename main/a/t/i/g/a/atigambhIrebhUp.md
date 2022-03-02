@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0538", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 370",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अतिगम्भीरे भूपे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिगम्भीरे भूपे कूप इव जनस्य दुःखतारस्य।  
 दधति समीहितसिद्धिं गुणवन्तः पार्थिवा घटकाः॥

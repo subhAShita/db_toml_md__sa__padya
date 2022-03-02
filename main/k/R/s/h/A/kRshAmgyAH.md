@@ -7,7 +7,7 @@ title = "कृशाङ्ग्याः कुचभारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृशाङ्ग्याः कुचभारेण दूरमुत्सारितौ भुजौ।  
 वहतः कलहायेव वाचालां वलयावलिम्॥

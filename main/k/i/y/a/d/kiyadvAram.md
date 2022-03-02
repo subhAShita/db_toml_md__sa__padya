@@ -6,7 +6,7 @@ title = "कियद् वारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कियद् वारं क्रौञ्चा इह न निहता व्याध-विशिखैः  
 परं काव्यं रामायणमिदमिहैकं समुदितम् ।  

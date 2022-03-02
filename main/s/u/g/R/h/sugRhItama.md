@@ -6,7 +6,7 @@ title = "सुगृहीतमलिनपक्षा लघवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुगृहीतमलिनपक्षा लघवः परभेदिनस्तीक्ष्णाः।  
 पुरुषा अपि विशिखा अपि गुणच्युताः कस्य न भयाय॥

@@ -6,7 +6,7 @@ title = "राजा वेश्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा वेश्या यमो वह्निः प्राघूर्णो बालयाचकौ।  
 परदुःखं न जानाति ह्यष्टमो ग्रामकण्टकः॥

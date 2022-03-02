@@ -5,7 +5,7 @@ title = "अतीव खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतीव खलु ते कान्ता वसुधा वसुधाधिप।  
 गतासुरपि यां गात्रैर् मां विहाय निषेवसे॥

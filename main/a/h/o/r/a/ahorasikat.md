@@ -7,15 +7,15 @@ title = "अहोऽरसिकतेयं ते"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-खाण्डवभेदन- Candy Crush
+अहोऽरसिकतेयं ते शिलाहृदयभामिनि।  
+स्थिते प्रियकरेऽग्रेऽसि मग्ना खाण्डवभेदने॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-अहोऽरसिकतेयं ते शिलाहृदयभामिनि।  
-स्थिते प्रियकरेऽग्रेऽसि मग्ना खाण्डवभेदने॥
+खाण्डवभेदन- Candy Crush
 </details>

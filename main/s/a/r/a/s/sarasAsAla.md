@@ -6,7 +6,7 @@ title = "सरसा सालङ्कारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरसा सालङ्कारा सुपदन्यासा सुवर्णमयमूर्तिः।  
 आर्या तथैव भार्या न लभ्यते पुण्यहीनेन॥

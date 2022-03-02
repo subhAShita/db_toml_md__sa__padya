@@ -6,7 +6,7 @@ title = "व्यज्यमानकलङ्कस्य वृद्धौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यज्यमानकलङ्कस्य वृद्धौ सति कलानिधेः।  
 आशास्महे वयं पूर्वां सर्वश्लाघ्यां कृशां दशाम्॥

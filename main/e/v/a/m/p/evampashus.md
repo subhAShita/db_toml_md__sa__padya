@@ -5,7 +5,7 @@ title = "एवं पशुश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 एवं पशुश्च मूर्कश्च निर्विवेकमती समौ॥

@@ -7,7 +7,7 @@ title = "सा धारयत्यधीराक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा धारयत्यधीराक्षी दुर्वहं स्तनमण्डलम्।  
 गर्वपर्वतमारूढश्चित्रं कुसुमकार्मुकः॥

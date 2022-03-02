@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8486", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०४ अद्भुतरसनिर्देशः// 16",]
-jsonClass = "Subhaashita"
 rasas = [ "अद्भुतः",]
+jsonClass = "Subhaashita"
 title = "कथमुपरि कलापिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथमुपरि कलापिनः कलापो विलसति तस्य तलेऽष्टमीन्दुखण्डम्।  
 कुवलययुगलं ततो विलोलं तिलकुसुमं तदधः प्रवालमस्मात्॥

@@ -6,7 +6,7 @@ title = "येनाहङ्कारयुक्तेन चिरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येनाहङ्कारयुक्तेन चिरं विलसितं पुरा।  
 दीनं वदति तत्रैव यः परेषां स निन्दितः॥

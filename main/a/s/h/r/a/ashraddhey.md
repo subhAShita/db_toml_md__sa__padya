@@ -5,7 +5,7 @@ title = "अश्रद्धेयं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्रद्धेयं न वक्तव्यं प्रत्यक्षमपि यद् भवेत्।  
 यथा वानरसंगीतं तथैव प्लवते शिला॥

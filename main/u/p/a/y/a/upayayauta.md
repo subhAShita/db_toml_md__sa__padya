@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7106", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 48",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपययौ तनुताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपययौ तनुतां मधुखण्डिता हिमकरोदयपाण्डुमुखच्छविः।  
 सदृशमिष्टसमागमनिर्वृतिं वनितयानितया रजनीवधूः॥

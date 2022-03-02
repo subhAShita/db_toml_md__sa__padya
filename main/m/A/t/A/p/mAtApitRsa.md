@@ -6,7 +6,7 @@ title = "मातापितृसहस्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मातापितृसहस्राणि पुत्रदारशतानि च।  
 तवानन्तानि यातानि कस्य ते कस्य वा भवान्॥

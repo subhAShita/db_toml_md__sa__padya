@@ -6,7 +6,7 @@ title = "प्राचीकुङ्कुमतिलकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राचीकुङ्कुमतिलकं पूर्वाचलरोहणैकमाणिक्यम्।  
 त्रिभुवनगृहैकदीपं वन्दे लोकैकलोचनं देवम्॥

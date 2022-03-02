@@ -7,7 +7,7 @@ title = "व्यतीत्य भावनावर्त्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यतीत्य भावनावर्त्म यश्चमत्कारभारभूः ।  
 हृदि सत्त्वोज्ज्वले बाढं स्वदते स रसो मतः ॥  

@@ -5,7 +5,7 @@ title = "अनिन्दा परकृत्येषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिन्दा परकृत्येषु स्वधर्मपरिपालनम्।  
 कृपणेषु दयालुत्वं सर्वत्र मधुरा गिरः॥

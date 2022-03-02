@@ -6,7 +6,7 @@ title = "द्वाविमावम्भसि क्षेप्यौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वाविमावम्भसि क्षेप्यौ गाढं बद्ध्वा गले शिलाम्।  
 धनिनं चाप्रदातारं दरिद्रं चातपस्विनम्॥

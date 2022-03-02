@@ -2,13 +2,13 @@
 topics = [ "नायिका", "वासकसज्जा", "प्रिय-सङ्गमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०९ नायकदर्शनम्// 1",]
 rasas = [ "शृङ्गारः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "न जाने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न जाने संमुखायाते प्रियाणि वदति प्रिये।  
 सर्वाण्यङ्गानि किं यान्ति नेत्रतामुत कर्णताम्॥

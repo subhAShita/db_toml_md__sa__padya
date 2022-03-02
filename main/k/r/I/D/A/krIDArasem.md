@@ -6,7 +6,7 @@ title = "क्रीडारसेन रहसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्रीडारसेन रहसि स्मितपूर्वमिन्दोः   
 लेखां विकृष्य विनिबध्य च मूर्ध्नि गौर्या ।  

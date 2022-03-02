@@ -6,7 +6,7 @@ title = "कृष्णमुखी न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृष्णमुखी न मार्जारी द्विजिह्वा न च सर्पिणी।  
 पञ्चभर्त्री न पाञ्चाली यो जानाति स पण्डितः॥

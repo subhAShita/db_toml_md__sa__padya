@@ -6,7 +6,7 @@ title = "न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कुर्यादभिचारोग्रवश्यादिकुहकक्रियाम्।  
 लक्ष्मणेनेन्द्रजित्कृत्याभिचारसमये हतः॥

@@ -6,7 +6,7 @@ title = "नदीनां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नदीनां च कुलानां च मुनीनां च महात्मनाम्।  
 परीक्षा न प्रकर्तव्या स्त्रीणां दुश्चरितस्य च॥

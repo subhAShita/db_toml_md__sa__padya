@@ -7,7 +7,7 @@ title = "दह्यमानेऽपि हृदये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दह्यमानेऽपि हृदये मृगाक्ष्या मन्मथाग्निना।  
 स्नेहस्तथैव यत्तस्थौ तदाश्चर्यमिवाभवत्॥

@@ -5,7 +5,7 @@ title = "अजाविगर्दभोष्ट्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजाविगर्दभोष्ट्राणां मार्जारमूषिकस्य च।  
 रजांस्येतानि पापानि सर्वतः परिवर्जयेत्॥

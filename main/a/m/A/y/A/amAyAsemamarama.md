@@ -6,7 +6,7 @@ title = "अनायासेन मरणम्,"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनायासेन मरणम्, विना दैन्येन जीवनम् ।  
 देहि मे कृपया कृष्ण, शरणागत-वत्सल ॥

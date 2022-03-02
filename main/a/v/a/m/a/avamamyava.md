@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3256", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४५ परस्परप्रसादः// 6",]
-jsonClass = "Subhaashita"
 topics = [ "परस्परप्रसादः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अवनम्य वक्षसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवनम्य वक्षसि निमग्नकुच- द्वितयेन गाढमुपगूढवता।  
 दयितेन तत्क्षणचलद्रशना- कलकिंकिणीरवमुदासि वधूः॥

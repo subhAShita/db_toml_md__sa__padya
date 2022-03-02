@@ -5,7 +5,7 @@ title = "उत्सृज्य जलसर्वस्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्सृज्य जलसर्वस्वं विमलाः सितमूर्तयः।  
 तत्यजुश्चाम्बरं मेघा विग्रहं योगिनो यथा॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3239", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३० तमोवर्णनम्// 18",]
-jsonClass = "Subhaashita"
 topics = [ "तमः",]
 rasas = [ "शृङ्गारः",]
-title = "अवधार्य"
+jsonClass = "Subhaashita"
+title = "अवधार्य कार्यगुरुतामभवन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवधार्य कार्यगुरुतामभवन् न भयाय सान्द्रतमसंतमसम्।  
 सुतनोः स्तनौ च दयितोपगमे तनुरोमराजिपथवेपथवे॥

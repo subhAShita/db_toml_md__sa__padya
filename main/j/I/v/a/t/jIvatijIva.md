@@ -7,7 +7,7 @@ title = "जीवति जीवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवति जीवति नाथे मृते मृता या मुदा युता मुदिते।  
 सहजस्नेहरसाला कुलवनिता केन तुल्या स्यात्॥

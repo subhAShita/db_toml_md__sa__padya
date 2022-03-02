@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8650", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 112",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "कमलभूतनया वदनाम्बुजे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलभूतनया वदनाम्बुजे वसतु ते कमला करपल्लवे।  
 वपुषि ते रमतां कमलाङ्गजः प्रतिदिनं हृदये कमलापतिः॥

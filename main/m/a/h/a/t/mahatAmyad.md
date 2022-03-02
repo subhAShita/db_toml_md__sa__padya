@@ -6,7 +6,7 @@ title = "महतां यदेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतां यदेव मूर्धसु तदेव नीचास्तृणाय मन्यन्ते।  
 लिङ्गं प्रणमन्ति बुधाः काकः पुनरासनीकुरुते॥

@@ -7,7 +7,7 @@ title = "सुप्तो वस्त्राञ्चलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुप्तो वस्त्राञ्चलं मातुर्गृह्णन् गाढेन मुष्टिना ।  
 भीतवद्भातु वश्चित्ते भवभीतिहरो हरिः ॥

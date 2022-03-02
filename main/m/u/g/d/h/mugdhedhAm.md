@@ -7,7 +7,7 @@ title = "मुग्धे धानुष्कता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुग्धे धानुष्कता केयमपूर्वा त्वयि दृश्यते।  
 यया विध्यसि चेतांसि गुणैरेव न सायकैः॥

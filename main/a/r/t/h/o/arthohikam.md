@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3036", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०३ करुणारसनिर्देशः// 14",]
-jsonClass = "Subhaashita"
 rasas = [ "करुणः",]
+jsonClass = "Subhaashita"
 title = "अर्थो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थो हि कन्या परकीय एव तामद्य संप्रेष्य परिग्रहीतुः।  
 जातो ममायं विशदः प्रकामं प्रत्यर्पितन्यास इवान्तरात्मा॥

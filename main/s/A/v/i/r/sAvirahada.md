@@ -7,7 +7,7 @@ title = "सा विरहदहनदूना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा विरहदहनदूना मृत्वा मृत्वापि जीवति वराकी।  
 सारीव कितव भवतानुकूलिता पातिताक्षेण॥

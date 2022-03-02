@@ -6,7 +6,7 @@ title = "सर्पस्य रत्ने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्पस्य रत्ने कृपणस्य वित्ते सत्याः कुचे केसरिणश्च केशे।  
 मानोन्नतानां शरणागते च मृतौ भवेदन्यकरप्रचारः॥

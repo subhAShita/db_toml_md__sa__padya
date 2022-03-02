@@ -7,7 +7,7 @@ title = "ज्योत्स्नेव नयनानन्दः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्योत्स्नेव नयनानन्दः सुरेव मदकारणम्।  
 प्रभुतेव समाकृष्टसर्वलोका नितम्बिनी॥

@@ -5,7 +5,7 @@ title = "अनयानुक्रमणिकया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनयानुक्रमणिकया मुक्तामणयो मयाभिहिताः।  
 एकैकोऽपि हि भास्वान् किं पुनरेषां निगद्यते निकरः॥

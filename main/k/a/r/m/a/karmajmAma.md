@@ -5,7 +5,7 @@ title = "कर्मज्ञानं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मज्ञानं च मोक्षाय कर्मण्यर्थोऽधिकारिता।  
 अतोऽर्थेनैव कैवल्यं न कैवल्येन लभ्यते॥

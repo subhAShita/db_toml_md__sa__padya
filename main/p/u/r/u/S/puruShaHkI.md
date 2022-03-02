@@ -6,7 +6,7 @@ title = "पुरुषः कीदृशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुरुषः कीदृशो वेत्ति प्रायेण सकलाः कलाः।  
 मध्यवर्णद्वयं त्यक्त्वा ब्रूहि कः स्यात्सुरालयः॥

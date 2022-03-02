@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0805", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 15",]
-jsonClass = "Subhaashita"
 topics = [ "कीर्तिः",]
-title = "अदः"
+jsonClass = "Subhaashita"
+title = "अदः समित्सम्मुखवीरयौवत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदः समित्संमुखवीरयौवत- त्रटद्भुजाकम्बुमृणालहारिणी।  
 द्विषद्गणस्त्रैणदृगम्बुनिर्झरे यशोमरालावलिरस्य खेलति॥

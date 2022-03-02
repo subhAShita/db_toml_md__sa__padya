@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4216", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१६ सङ्कीर्णान्योक्तयः// ५५ सङ्कीर्णाः// 93",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः",]
+jsonClass = "Subhaashita"
 title = "आः सर्वतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आः सर्वतः स्फुरतु कैरवमापिबन्तु ज्योत्स्नाकरम्भमुदरंभरयश्चकोराः।  
 यातो यदेष चरमाचलमूलचुम्बी पङ्केरुहप्रकरजागरणप्रदीपः॥

@@ -5,7 +5,7 @@ title = "आजानुलम्बिबाहुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आजानुलम्बिबाहुः कम्बुग्रीवो बली चतुर्दंष्ट्रः।  
 भाग्यनिधिः पृथुवक्षा लघुमधुराशी च पद्माक्षः॥

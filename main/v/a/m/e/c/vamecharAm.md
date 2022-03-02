@@ -6,7 +6,7 @@ title = "वने चरामो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वने चरामो वसु चाहरामः  
 नदीन् तरामो न भयं स्मरामः ।  

@@ -7,7 +7,7 @@ title = "स्वयम्भूः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वयम्भूः शम्भुरम्भोजलोचने त्वत्पयोधरः।  
 नखेन कस्य धन्यस्य चन्द्रचूडो भविष्यति॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5357", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०२ विषयोपहासः// 128",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "आलोचनं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलोचनं च वचनं च निगूहनं च यासां स्मरन्नमृतवत् सरसं कृशस् त्वम्।  
 तासां किमङ्ग पिशितास्रपुरीषपात्रं गात्रं स्मरन् मृगदृशां न निराकुलोऽसि॥

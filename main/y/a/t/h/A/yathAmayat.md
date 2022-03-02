@@ -6,7 +6,7 @@ title = "यथा नयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा नयति कैलासं नगं गानसरस्वती।  
 तथा नयति कैलासं न गङ्गा न सरस्वती॥

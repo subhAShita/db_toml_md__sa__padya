@@ -6,7 +6,7 @@ title = "आसन्नतामेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नतामेति मृत्युरायुर्याति दिने दिने।  
 आघातं नीयमानस्य वध्यस्येव पदे पदे॥

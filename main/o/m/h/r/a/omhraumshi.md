@@ -5,7 +5,7 @@ title = "ॐ ह्रौम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ॐ ह्रौं शिखास्थाने शंकराय नमः।  
 ॐ ह्रौं बाह्वोः केशवाय नमः।  

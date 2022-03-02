@@ -6,7 +6,7 @@ title = "दुर्भगः स्यात्प्रकृत्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्भगः स्यात्प्रकृत्या यो विभूत्यापि स तादृशः।  
 गोमयं श्रीनिवासोऽस्ति न तथापि मनोहरम्॥

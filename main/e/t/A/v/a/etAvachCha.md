@@ -5,7 +5,7 @@ title = "एतावच्छक्यमस्माभिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतावच्छक्यमस्माभिर् वक्तुं त्वं गुणवानिति।  
 रत्नाकरस्य रत्नौघपरिच्छेदे तु के वयम्॥

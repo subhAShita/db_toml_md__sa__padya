@@ -5,7 +5,7 @@ title = "एतदर्थे कुलीनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदर्थे कुलीनानां नृपाः कुर्वन्ति संग्रहम्।  
 आदिमध्यावसानेषु न ते गच्छन्ति विक्रियाम्॥

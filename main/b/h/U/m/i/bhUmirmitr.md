@@ -6,7 +6,7 @@ title = "भूमिर्मित्त्रं हिरण्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूमिर्मित्त्रं हिरण्यं वा विग्रहस्य फलत्रयम्।  
 नास्त्येकमपि यद्येषां न तत्कुर्यात्कथञ्चन॥

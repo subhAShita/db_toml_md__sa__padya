@@ -5,7 +5,7 @@ title = "आपदः क्षणमायान्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदः क्षणमायान्ति संपदः क्षणमेव च।  
 क्षणं जन्माथ मरणं मुने किमिव न क्षणम्॥

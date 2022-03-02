@@ -7,7 +7,7 @@ title = "राजन्कनकधाराभिस्त्वयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजन्कनकधाराभिस्त्वयि सर्वत्र वर्षति।  
 अभाग्यछत्रसंच्छन्ने मयि नायान्ति बिन्दवः॥

@@ -7,7 +7,7 @@ title = "युक्तं मध्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युक्तं मध्ये कृशा तन्वी कार्मुकीकरणाय यत्।  
 अत्रैव कुसुमास्त्रेण पीड्यते श्लिष्टमुष्टिना॥

@@ -5,7 +5,7 @@ title = "अस्माकं वदरीचक्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्माकं वदरीचक्रं बदरी च तवाङ्गणे।  
 वादरायणसम्बन्धाद् यूयं यूयं वयं वयम्॥

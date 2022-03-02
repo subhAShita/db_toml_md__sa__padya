@@ -6,7 +6,7 @@ title = "दोषजातमवधीर्य मानसे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषजातमवधीर्य मानसे धारयन्ति गुणमेव सज्जनाः।  
 क्षारभावमपनीय गृह्णते वारिधेः सलिलमेव वारिदाः॥

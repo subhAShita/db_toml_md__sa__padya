@@ -5,7 +5,7 @@ title = "कापुरुषः कुक्कुरश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कापुरुषः कुक्कुरश्च भोजनैकपरायणः।  
 लालितः पार्श्वमायाति वारितो नैव गच्छति॥

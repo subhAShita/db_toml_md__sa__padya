@@ -5,7 +5,7 @@ title = "कमितुरभिसृत्वरीणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमितुरभिसृत्वरीणां गौराङ्गीणामिहेन्दुधवलासु।  
 उड्डयमानानामिव रजनिषु परमीक्ष्यते छाया॥

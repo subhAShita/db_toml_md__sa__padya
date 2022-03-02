@@ -6,7 +6,7 @@ title = "स्वनाभिगन्धमज्ञात्वा यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्व-नाभि-गन्धमज्ञात्वा यथा कस्तूरिका-मृगः।  
 वनात् वनान्तरं गत्वा दुःखं हि लभते मृषा॥  

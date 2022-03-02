@@ -5,7 +5,7 @@ title = "अतिक्लेशे मनःस्थैर्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिक्लेशे मनःस्थैर्यं क्रमेण सहनं तथा।  
 जयलाभाय हेतू द्वौ सैन्यानामधिकौ विदुः॥

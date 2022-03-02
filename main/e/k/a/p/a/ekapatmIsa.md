@@ -5,7 +5,7 @@ title = "एकपत्नीसमासक्तैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकपत्नीसमासक्तैर् भवद्भिः संहतैर्मिथः।  
 स्थातव्यमप्रसादेन भेदमूलं हि योषितः॥

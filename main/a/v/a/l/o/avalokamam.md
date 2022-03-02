@@ -5,7 +5,7 @@ title = "अवलोकनमपि सुखयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवलोकनमपि सुखयति कुवलयदलचारुचपलनयनायाः।  
 किं पुनरलकचलद्द्युति- सरभसमालिङ्गनं तन्व्याः॥

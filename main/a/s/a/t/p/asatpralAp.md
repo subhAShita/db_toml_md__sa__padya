@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3678", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 177",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "असत्प्रलापः पारुष्यम्"
+jsonClass = "Subhaashita"
+title = "असत्प्रलापं पारुष्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असत्प्रलापं पारुष्यं पैशुन्यमनृतं तथा।  
 चत्वारि वाचा राजेन्द्र न जल्पेन् नानुचिन्तयेत्॥

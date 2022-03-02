@@ -6,7 +6,7 @@ title = "राजानमेव संश्रित्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजानमेव संश्रित्य विद्वान् याति परां गतिम्।  
 विना मलयमन्यत्र चन्दनो न प्ररोहति॥

@@ -5,7 +5,7 @@ title = "उपदिशति लोकवृत्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपदिशति लोकवृत्तं वितरति वित्तं विनोदयति चित्तम्।  
 उत्तम्भयति महत्त्वं विद्या हृद्या सुराजसेवेव॥

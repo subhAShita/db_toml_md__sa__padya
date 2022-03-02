@@ -5,7 +5,7 @@ title = "अविश्वासविधानाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविश्वासविधानाय महापातकहेतवे।  
 पितापुत्रविरोधाय हिरण्याय नमोऽस्तु ते॥

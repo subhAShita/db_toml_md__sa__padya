@@ -6,7 +6,7 @@ title = "नास्ति यज्ञः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति यज्ञः स्त्रियः किञ्चिन्न व्रतं नोपवासकम्।  
 या तु भर्तरि शुश्रूषा तया स्वर्गं जयत्यसौ॥

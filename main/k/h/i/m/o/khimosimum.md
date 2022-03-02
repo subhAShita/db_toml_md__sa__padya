@@ -6,7 +6,7 @@ title = "खिन्नोऽसि मुञ्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खिन्नोऽसि मुञ्च शैलं बिभृमो वयमिति वदत्सु शिथिलभुजः।  
 भरभुग्नविनतबाहुषु गोपेषु हसन्हरिर्जयति॥

@@ -6,7 +6,7 @@ title = "तत्काक त्वयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्काक त्वयि युक्ताः कटुवाग्वैवर्ण्यधूर्तताशुचिताः।  
 यदि विष्ठाकृमिपुष्टे तत्र न दोषा हि तच्चित्रम्॥

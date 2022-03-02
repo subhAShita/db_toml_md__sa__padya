@@ -6,7 +6,7 @@ title = "कोपप्रसादवस्तूनि ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोपप्रसादवस्तूनि ये विचिन्वन्ति सेवकाः।  
 आरोहन्ति शनैः पश्चाद्धुन्वन्तमपि पार्थिवम्॥

@@ -5,7 +5,7 @@ title = "आशालतावलयितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशालतावलयितं बद्धमूलमविद्यया।  
 को हि तापयितुं शक्तः मुखेन भवपादपम्॥

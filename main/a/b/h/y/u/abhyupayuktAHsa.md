@@ -6,7 +6,7 @@ title = "अभ्युपयुक्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्युपयुक्ताः सद्भिर्गतागतैरहरहः सुनिर्विण्णाः।  
 कृपणजनसंनिकर्षं संप्राप्यार्थाः स्वपन्तीव॥

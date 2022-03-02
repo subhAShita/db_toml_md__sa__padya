@@ -6,7 +6,7 @@ title = "अनुभावविभावानां वर्णना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुभावविभावानां वर्णना काव्यमुच्यते ।  
 तेषामेव प्रयोगस्तु नाट्यं गीतादि रञ्जितम् ॥

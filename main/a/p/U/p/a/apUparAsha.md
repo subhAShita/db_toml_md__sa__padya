@@ -7,7 +7,7 @@ title = "अपूपराशौ सुरभौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूपराशौ सुरभौ पुरस्स्थे  
 पादौ नमस्कुर्वति भक्तवृन्दे ।  

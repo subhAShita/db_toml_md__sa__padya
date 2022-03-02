@@ -7,7 +7,7 @@ title = "मधुरः सुधावदधरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुरः सुधावदधरः पल्लवतुल्योऽतिपेलवः पाणिः।  
 चकितमृगलोचनाभ्यां सदृशी चपले च लोचने तस्याः॥

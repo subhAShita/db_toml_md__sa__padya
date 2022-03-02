@@ -6,7 +6,7 @@ title = "क्वचित्क्वचिदयं यातु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्वचित्क्वचिदयं यातु स्थातुं प्रेमवशंवदः।  
 न विस्मरति तत्रापि राजीवं भ्रमरो हृदि॥

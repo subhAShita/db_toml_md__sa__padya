@@ -6,7 +6,7 @@ title = "न केनापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न केनापि श्रुतं दृष्टं वारिणा वारि शुष्यति।  
 अहो गोदावरीवारा भवसिन्धर्विशुष्यति॥

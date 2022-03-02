@@ -5,7 +5,7 @@ title = "का कथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का कथा बाणसंधाने ज्याशब्देनैव दूरतः।  
 हुंकारेणेव धनुषः स हि विघ्नान् व्यपोहति॥

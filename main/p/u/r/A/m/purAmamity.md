@@ -1,13 +1,13 @@
 +++
 topics = [ "नीतिः", "प्राचीनता", "परीक्षा", "आप्तवचनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 893",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "पुराणमित्येव न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुराणमित्येव न साधु सर्वं न चापि काव्यं नवनित्यवद्यम्।  
 सन्तः परीक्ष्यान्यतरद्भजन्ते मूढः परप्रत्ययनेयबुद्धिः॥

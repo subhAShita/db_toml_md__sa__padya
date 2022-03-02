@@ -5,7 +5,7 @@ title = "अध्रुवे हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अध्रुवे हि शरीरे यो न करोति तपोऽर्जनम्।  
 स पश्चात्तप्यते मूढो मृतो गत्वात्मनो गतिम्॥

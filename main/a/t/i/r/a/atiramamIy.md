@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0594", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 14",]
-jsonClass = "Subhaashita"
 topics = [ "कुकविः",]
+jsonClass = "Subhaashita"
 title = "अतिरमणीये काव्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिरमणीये काव्ये पिशुनोऽन्वेषयति दूशणान्येव।  
 अतिरमणीये वपुषि व्रणमेव हि मक्षिकानिकरः॥

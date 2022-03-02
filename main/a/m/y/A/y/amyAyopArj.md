@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1804", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 597",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अन्यायोपार्जितं द्रव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यायोपार्जितं द्रव्यं दशवर्षाणि तिष्ठति।  
 प्राप्ते चैकादशे वर्षे समूलं च विनश्यति॥

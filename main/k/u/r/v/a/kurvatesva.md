@@ -6,7 +6,7 @@ title = "कुर्वते स्वमुखेनैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्वते स्वमुखेनैव बहुधान्यस्य खण्डनम्।  
 नमः पतनशीलाय मुसलाय खलाय च॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2441", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 62",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अमलात्मसु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमलात्मसु प्रतिफलन्नभितस् तरुणीकपोलफलकेषु मुहुः।  
 विससार सान्द्रतरमिन्दुरुचाम् अधिकावभासितदिशां निकरः॥

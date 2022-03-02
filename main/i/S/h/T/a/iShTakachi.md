@@ -5,7 +5,7 @@ title = "इष्टकचिते समन्तात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इष्टकचिते समन्तात् पुरुषनिखातेऽवटे तरुर्जातः।  
 वामन एव हि धत्ते फलकुसुमं सर्वकालमिति॥

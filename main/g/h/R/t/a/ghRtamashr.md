@@ -6,7 +6,7 @@ title = "घृतं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घृतं न श्रूयते कर्णे दधि स्वप्नेऽपि दुर्लभम्।  
 मुग्धे दुग्धस्य का वार्ता तक्रं शक्रस्य दुर्लभम्॥

@@ -5,7 +5,7 @@ title = "कलौ कले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलौ कले खले मित्रे पुत्रे दुर्व्यसनान्विते।  
 तस्करेषु प्रवृद्धेषु लुब्धे राज्ञि धनेन किम्॥

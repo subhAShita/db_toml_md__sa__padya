@@ -5,7 +5,7 @@ title = "अधनं खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधनं खलु जीवधनं धनमर्धधनं महद्धनं धान्यम्।  
 अतिधनमेतत् सुन्दरि विद्या च तपश्च कीर्तिश्च॥

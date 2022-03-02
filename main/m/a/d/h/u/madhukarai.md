@@ -7,7 +7,7 @@ title = "मधुकरैरपवादकरैरिप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुकरैरपवादकरैरिप स्मृतिभुवः पथिका हरिणा इव।  
 कलतया वचसः परिवादिनीस्वरजिता रजिता वशमाययुः॥

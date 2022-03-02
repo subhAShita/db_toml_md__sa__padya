@@ -8,7 +8,7 @@ title = "चण्डीशचूडाभरण चन्द्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चण्डीशचूडाभरण चन्द्र लोकतमोपह।  
 विरहिप्राणहरण कदर्थय न मां वृथा॥

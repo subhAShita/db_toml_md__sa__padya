@@ -6,7 +6,7 @@ title = "कारुण्यं सम्विभागश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारुण्यं सम्विभागश्च यस्य भृत्येषु सर्वदा।  
 सम्भवेत्समहीपालस्त्रैलोक्यस्यापि रक्षणे॥

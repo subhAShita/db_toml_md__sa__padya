@@ -6,7 +6,7 @@ title = "गोत्रस्थितिं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गोत्रस्थितिं न मुञ्चन्ति सदा सन्नतिमाश्रिताः।  
 उदन्वन्तश्च सन्तश्च महासत्त्वतयानया॥

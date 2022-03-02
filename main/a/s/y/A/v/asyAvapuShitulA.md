@@ -5,7 +5,7 @@ title = "अस्या वपुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्या वपुषि तुलायां शैशवगुञ्जां च यौवनं हेम।  
 तुलयति कुतुकिनि कामे न नमति मध्यान्मनःसूची॥

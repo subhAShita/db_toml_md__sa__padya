@@ -6,7 +6,7 @@ title = "किं कुलेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं कुलेन विशालेन विद्याहीनस्य देहिनः।  
 अकुलीनोऽपि विद्यावान्देवैरपि स पूज्यते॥

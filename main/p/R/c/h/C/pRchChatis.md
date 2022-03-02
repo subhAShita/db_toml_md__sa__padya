@@ -6,7 +6,7 @@ title = "पृच्छति शिरसिरुहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृच्छति शिरसिरुहो मधुमथनं मधुमथनस्तं शिरसिरुहं च।  
 कः खलु चपलतया भुवि विदितः का ननु यानतया गवि गदिताः॥

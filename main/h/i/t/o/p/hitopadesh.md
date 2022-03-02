@@ -6,7 +6,7 @@ title = "हितोपदेशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हितोपदेशं शृणुयात्कुर्वीत च यथोदितम्।  
 विदुरोक्तमकृत्वाभूत्कौरवः शोकशल्यभाक्॥

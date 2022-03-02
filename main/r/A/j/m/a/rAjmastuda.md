@@ -6,7 +6,7 @@ title = "राज्ञस्तु दर्शनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राज्ञस्तु दर्शनं कुर्याज्ज्ञात्वावसरसौष्ठवम्।  
 गुणादिख्यापनात्पूर्वमुपनीतो महाशयैः॥

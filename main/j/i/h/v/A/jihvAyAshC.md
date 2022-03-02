@@ -8,7 +8,7 @@ title = "जिह्वायाश्छेदनं नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जिह्वायाश्छेदनं नास्ति न तालुपतनाद्भयम्।  
 निर्विशेषेण वक्तव्यं निर्लज्जः को न पण्डितः॥

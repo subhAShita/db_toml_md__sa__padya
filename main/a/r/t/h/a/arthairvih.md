@@ -5,7 +5,7 @@ title = "अर्थैर्विहीनः पुरुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थैर्विहीनः पुरुषो जीवन्नपि मृतोपमः।  
 धर्मार्थविद्यार्जनतो मतिर्यस्य निवर्तते॥

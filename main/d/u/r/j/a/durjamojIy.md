@@ -6,7 +6,7 @@ title = "दुर्जनो जीयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनो जीयते युक्त्या विग्रहेण न धीमता।  
 निपात्यते महावृक्षस्तत्समीपक्षितिक्षयात्॥

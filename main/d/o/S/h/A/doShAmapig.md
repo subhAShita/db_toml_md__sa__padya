@@ -6,7 +6,7 @@ title = "दोषानपि गुणीकर्तुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषानपि गुणीकर्तुं दोषीकर्तुं गुणानपि।  
 शक्तो वादी न तत्तथ्यं दोषा दोषा गुणा गुणाः॥

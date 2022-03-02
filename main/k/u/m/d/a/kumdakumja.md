@@ -6,7 +6,7 @@ title = "कुन्दकुञ्जममुं पश्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुन्दकुञ्जममुं पश्य सरसीरुहलोचने।  
 अमुना कुन्दकुञ्जेन सखि मे किं प्रयोजनम्॥

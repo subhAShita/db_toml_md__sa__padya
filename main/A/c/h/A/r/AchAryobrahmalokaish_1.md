@@ -7,7 +7,7 @@ title = "आचार्यो ब्रह्मलोकैशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचार्यो ब्रह्मलोकैशः प्राजापत्ये पिता प्रभुः ।  
 अतिथिस्त्विन्द्रलोकेशो देवलोकस्य चर्त्विजः ॥  

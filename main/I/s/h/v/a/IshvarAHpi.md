@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6263", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 675",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "ईश्वराः"
+jsonClass = "Subhaashita"
+title = "ईश्वराः पिशुनाञ्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईश्वराः पिशुनाञ् शश्वद् बिभ्रतीति किमद्भुतम्।  
 प्रायो निधय एवाहीन् द्विजिह्वान् दधतेतराम्॥

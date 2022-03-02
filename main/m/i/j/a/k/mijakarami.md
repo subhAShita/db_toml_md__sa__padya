@@ -6,7 +6,7 @@ title = "निजकरनिकरसमृद्ध्या धवलय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजकरनिकरसमृद्ध्या धवलय भुवनानि पार्वण शशाङ्क।  
 सुचिरं हन्त न सहते हतविधिरिह सुस्थितं कमपि॥

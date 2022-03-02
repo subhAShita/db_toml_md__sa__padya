@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9724", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 15",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कार्पासकृतकूर्पासशतैरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्पासकृतकूर्पासशतैरपि न शाम्यति।  
 शीतं शातोदरीपीनवक्षोजालिङ्गनं विना॥

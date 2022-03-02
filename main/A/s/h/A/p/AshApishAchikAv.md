@@ -5,7 +5,7 @@ title = "आशापिशाचिकाविष्टः पुरतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशापिशाचिकाविष्टः पुरतो यस्य कस्यचित्।  
 वन्दते निन्दति स्तौति रोदिति प्रहसत्यपि॥

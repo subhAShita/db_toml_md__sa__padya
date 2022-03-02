@@ -5,7 +5,7 @@ title = "अलं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलं वा बहुवादेन यत्र यत्रानुरज्यसे।  
 तत्र तत्रैव ते दुःखदावपावकपङ्क्तयः॥

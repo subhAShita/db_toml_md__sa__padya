@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3105", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 11",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अलकाश्च खलाश्चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलकाश्च खलाश्चैव मूर्ध्नि भीरुजनैर्धृताः।  
 उपर्युपरि सत्कारेऽप्याविष्कुर्वन्ति वक्रताम्॥

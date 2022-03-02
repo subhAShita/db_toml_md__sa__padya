@@ -5,7 +5,7 @@ title = "अन्नपानादिभिश्चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नपानादिभिश्चैव वस्त्रालंकारभूषणैः।  
 गन्धमाल्यैर्विचित्रैश्च गुरुं तत्र प्रपूजयेत्॥

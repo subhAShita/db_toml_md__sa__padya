@@ -5,7 +5,7 @@ title = "उष्णकाले जलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उष्णकाले जलं दद्याच् शीतकाले हुताशनम्।  
 प्रावृट्काले गृहं देयं सर्वकाले च भोजनम्॥

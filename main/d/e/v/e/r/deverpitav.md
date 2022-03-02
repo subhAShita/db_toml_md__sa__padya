@@ -6,7 +6,7 @@ title = "देवेऽर्पितवरणस्रजि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देवेऽर्पितवरणस्रजि बहुमाये वहति कैटभीरूपम्।  
 जयति सुरासुरहसिता लज्जाजिह्मेक्षणा लक्ष्मीः॥

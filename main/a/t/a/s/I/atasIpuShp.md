@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0520", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 01 समस्याख्यानम्// 19",]
-jsonClass = "Subhaashita"
 types = [ "समस्याख्यानम्",]
+jsonClass = "Subhaashita"
 title = "अतसीपुष्पसङ्काशं खम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतसीपुष्पसंकाशं खं वीक्ष्य जलदागमे।  
 ये वियोगेऽपि जीवन्ति न तेषां विद्यते भयम्॥

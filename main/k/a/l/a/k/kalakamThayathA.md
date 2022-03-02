@@ -6,7 +6,7 @@ title = "कलकण्ठ यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलकण्ठ यथा शोभा सहकारे भवद्गिरः।  
 खदिरे वा पलाशे वा किं तथा स्याद्विचारय॥

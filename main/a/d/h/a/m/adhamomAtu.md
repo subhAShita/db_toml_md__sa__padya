@@ -5,7 +5,7 @@ title = "अधमो मातुकारश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधमो मातुकारश्च धातुकारश्च मध्यमः।  
 धातुमातुक्रियाकार उत्तमः परिकीर्तितः॥

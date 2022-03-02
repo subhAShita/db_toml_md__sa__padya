@@ -6,7 +6,7 @@ title = "श्याममेव परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्याममेव परं रूपं पुरी मधुपुरी वरा।  
 वयः कैशोरकं ध्येयमाद्य एव परो रसः॥

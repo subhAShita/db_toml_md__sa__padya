@@ -5,7 +5,7 @@ title = "अस्तीत्येव कृषिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्तीत्येव कृषिं कुर्यात् अस्ति नास्तीति वाणिजम्।  
 नास्तीत्येव ऋणं दद्यात् नाहमस्मीति साहसम्॥

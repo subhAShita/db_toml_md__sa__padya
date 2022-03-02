@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9893", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 18",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
+jsonClass = "Subhaashita"
 title = "का लोकमाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का लोकमाता किमु देहमुख्यं रते किमादौ कुरुते मनुष्यः।  
 को दैत्यहन्ता वद वै क्रमेण गौरीमुखं चुम्बति वासुदेवः॥

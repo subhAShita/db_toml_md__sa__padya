@@ -6,7 +6,7 @@ title = "महामतिरपि प्राज्ञो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महामतिरपि प्राज्ञो न विश्वासं व्रजेद्रिपौ।  
 विश्वासात्त्रिदशेन्द्रेण दितेर्गर्भो विदारितः॥

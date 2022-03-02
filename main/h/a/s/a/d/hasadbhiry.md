@@ -7,7 +7,7 @@ title = "हसद्भिर्यत्कृतं कर्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हसद्भिर्यत्कृतं कर्म कलुषं कलुषात्मभिः।  
 एतत्परिणते काले क्रोशद्भिरनुभूयते॥

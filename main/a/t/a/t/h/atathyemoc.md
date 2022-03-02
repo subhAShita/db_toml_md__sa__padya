@@ -5,7 +5,7 @@ title = "अतथ्येनोच्यमानस्य कः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतथ्येनोच्यमानस्य कः कोपो यन्न तत्तथा।  
 तथ्येनापि हि कः कोपो यदनुक्तेऽपि मत्तथा॥

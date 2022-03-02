@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0673", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 42",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "अत्यर्थवक्रत्वमनर्थकं या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यर्थवक्रत्वमनर्थकं या शून्यापि सर्वान्यगुणैर्व्यनक्ति।  
 अस्पृश्यतादूषितया तया किं तुच्छश्वपुच्छच्छटयेव वाचा॥

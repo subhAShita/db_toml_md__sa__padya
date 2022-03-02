@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2299", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 168",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अभिमतफलदाता त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमतफलदाता त्वं च कल्पद्रुमश्च प्रकटमिह विशेषं कञ्चनोदाहरामः।  
 कथमिह मधुरोक्तिप्रेमसंमानमिश्रं तुलयति सुरशाखी देव दानं त्वदीयम्॥

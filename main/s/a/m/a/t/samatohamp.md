@@ -6,7 +6,7 @@ title = "सम्मतोऽहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्मतोऽहं प्रभोर्नित्यमिति मत्वा व्यतिक्रमेत्।  
 कृच्छ्रेष्वपि न मर्यादां स भवेद्राजवल्लभः॥

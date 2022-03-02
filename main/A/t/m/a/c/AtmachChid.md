@@ -5,7 +5,7 @@ title = "आत्मच्छिद्रं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मच्छिद्रं न जानाति परच्छिद्राणि पश्यति।  
 श्वच्छिद्रं यदि जानाति परच्छिद्रं न पश्यति॥

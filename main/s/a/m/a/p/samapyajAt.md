@@ -7,7 +7,7 @@ title = "सन्नप्यजातपक्षो यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्नप्यजातपक्षो यो नीडादुत्प्लुत्य निर्गतः।  
 अण्डजं तं न तन्माता जगन्मातैव रक्षति॥  

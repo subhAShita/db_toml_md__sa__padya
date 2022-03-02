@@ -7,7 +7,7 @@ title = "नीतानामाकुलीभावम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीतानामाकुलीभावं लुब्धैर्भूरिशिलीमुखैः।  
 सदृशे वनवृद्धानां कमलानां त्वदीक्षणे॥

@@ -6,7 +6,7 @@ title = "वेदान्तेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदान्तेषु यमाहुरेकपुरुषं व्याप्य स्थितं रोदसी यस्मिन्नीश्वर इत्यनन्यविषयः शब्दो यथार्थाक्षरः।  
 

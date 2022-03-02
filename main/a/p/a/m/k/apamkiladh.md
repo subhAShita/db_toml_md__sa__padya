@@ -5,7 +5,7 @@ title = "अपङ्किलधियः शुद्धाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपङ्किलधियः शुद्धाः साधुमानसवृत्तयः।  
 वमन्ति श्रुतिजीवातुं ध्वनिं नवरसास्पदम्॥

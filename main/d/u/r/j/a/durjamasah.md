@@ -6,7 +6,7 @@ title = "दुर्जनसहवासादपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनसहवासादपि शीलोत्कर्षं न सज्जनस्त्यजति।  
 प्रतिपर्वतपनवासी निःसृतमात्रः शशी शीतः॥

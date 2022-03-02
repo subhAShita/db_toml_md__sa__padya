@@ -5,7 +5,7 @@ title = "असिजीवी मषीजीवी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असिजीवी मषीजीवी देवलो ग्रामयाजकः।  
 धावकः पाचकश्चैव षड् विप्राः शूद्रजातयः॥

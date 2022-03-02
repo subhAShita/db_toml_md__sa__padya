@@ -6,7 +6,7 @@ title = "विबुधावलिसम्पूर्णा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विबुधावलिसम्पूर्णा सुखपूर्णदिगीश्वरा।  
 चतुराननसम्पूर्णा स्वर्गादपि सभाधिका॥

@@ -6,7 +6,7 @@ title = "न पश्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न पश्यति च जन्मान्धः कामान्धो नैव पश्यति।  
 न पश्यति मदोन्मत्तो ह्यर्थी दोषं न पश्यति॥

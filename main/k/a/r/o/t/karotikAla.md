@@ -5,7 +5,7 @@ title = "करोति कालः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोति कालः सकलं संहरेत् काल एव हि।  
 कालः स्थापयते विश्वं कालाधीनमिदं जगत्॥

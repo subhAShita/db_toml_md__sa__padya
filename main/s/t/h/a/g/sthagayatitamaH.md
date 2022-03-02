@@ -7,7 +7,7 @@ title = "स्थगयति तमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थगयति तमः शशाङ्कं चलति गिरिः स्रवति तारकापटलम्।  
 कथयति मन्ये काञ्चीपुरसीमनि किमपि सङ्क्षोभम्॥

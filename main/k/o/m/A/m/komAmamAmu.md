@@ -6,7 +6,7 @@ title = "को नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को नाम नानुवृत्तिं सुमहानपि धनवतः कुरुते।  
 वित्तेशभवनभित्तेः समीपमुपसेवते शम्भुः॥

@@ -6,7 +6,7 @@ title = "धिगस्तु योषितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धिगस्तु योषितो नाम शठाः स्वार्थपरास्सदा ।  
 न ब्रवीमि स्त्रियः सर्वा भरतस्यैव मातरम् ॥

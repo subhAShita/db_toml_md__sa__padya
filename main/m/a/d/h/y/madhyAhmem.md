@@ -7,7 +7,7 @@ title = "मध्याह्ने नूनमापोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मध्याह्ने नूनमापोऽपि तिग्मतापोपशान्तये।  
 दधुः कमलिनीपत्त्रमातपत्रमिवोपरि॥

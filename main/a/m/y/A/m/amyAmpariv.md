@@ -5,7 +5,7 @@ title = "अन्यान्परिवदन् साधुर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यान्परिवदन् साधुर् यथा हि परितप्यते।  
 तथा परिवदन्नन्यांस् तुष्टो भवति दुर्जनः॥

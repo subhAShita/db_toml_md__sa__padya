@@ -5,7 +5,7 @@ title = "उभाभ्यांएव पक्षाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उभाभ्यांएव पक्षाभ्यां यथा खे पक्षिणां गतिः।  
 तथा दैवेन युक्तं तु पौरुषं फलसाधकम्॥

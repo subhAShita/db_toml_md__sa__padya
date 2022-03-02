@@ -6,7 +6,7 @@ title = "विभवो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विभवो हि यथा लोके न शरीराणि देहिनाम्।  
 चाण्डालोऽपि नरः पूज्यो यस्यास्ति विपुलं धनम्॥

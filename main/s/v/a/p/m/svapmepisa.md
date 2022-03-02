@@ -6,7 +6,7 @@ title = "स्वप्नेऽपि समरेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वप्नेऽपि समरेषु त्वां विजयश्रीर्न मुञ्चति।  
 प्रभावप्रभवं कान्तं स्वाधीनपतिका यथा॥

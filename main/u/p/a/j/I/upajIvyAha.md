@@ -5,7 +5,7 @@ title = "उपजीव्या हता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपजीव्या हता कन्या स्वार्थे पाकक्रिया हता।  
 शूद्रभिक्षाहतो यागः कृपणस्य हतं धनं॥

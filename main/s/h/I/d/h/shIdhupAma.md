@@ -7,7 +7,7 @@ title = "शीधुपानविधुरासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शीधुपानविधुरासु निगृह्णन्मानमाशु शिथिलीकृतलज्जः।  
 सङ्गतासु दयितैरुपलेभे कामिनीषु मदनो नु मदो नु॥

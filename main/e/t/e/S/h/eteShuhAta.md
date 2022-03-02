@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7992", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्// ०३ मेघान्योक्तयः// 39",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - मेघः",]
+jsonClass = "Subhaashita"
 title = "एतेषु हा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतेषु हा तरुणमारुतधूयमान- दावानलैः कवलितेषु महीरुहेषु।  
 अम्भो न चेज् जलद मुञ्चसि मा विमुञ्च वज्रं पुनः क्षिपसि निर्दय कस्य हेतोः॥

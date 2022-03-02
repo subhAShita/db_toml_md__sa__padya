@@ -6,7 +6,7 @@ title = "वर्दनं वाथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्दनं वाथ संमानं खलानां प्रीतये कुतः।  
 फलन्त्यमृतसेकेऽपि न पथ्यानि विषद्रुमाः॥

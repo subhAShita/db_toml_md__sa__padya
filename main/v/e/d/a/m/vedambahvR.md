@@ -7,7 +7,7 @@ title = "वेदं बह्वृचमध्यगीषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेदं बह्वृचमध्यगीषि कवितामप्यादृषि व्यापृषि  
 न्याये व्याकरणं व्यजैषि विषमे वैशेषिके क्लेशिषि।  

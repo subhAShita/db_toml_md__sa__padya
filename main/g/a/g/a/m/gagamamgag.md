@@ -6,7 +6,7 @@ title = "गगनं गगनाकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गगनं गगनाकारं सागरः सागरोपमः।  
 गगनं सागरश्चेति द्वितयं भारतोपमम् ॥

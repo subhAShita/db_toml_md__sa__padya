@@ -6,7 +6,7 @@ title = "स ह्यमात्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स ह्यमात्यः सदा श्रेयान्काकिनीं यः प्रवर्धयेत्।  
 कोशः कोशवतः प्राणाः प्राणाः प्राणा न भूपतेः॥

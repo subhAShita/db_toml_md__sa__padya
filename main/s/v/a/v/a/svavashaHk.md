@@ -6,7 +6,7 @@ title = "स्ववशः करोति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्ववशः करोति कर्म प्रमादयुक्तस्तु परवशो भवति।  
 स्ववशो रोहति वृक्षं निपतत्यवशस्ततः पुरुषः॥

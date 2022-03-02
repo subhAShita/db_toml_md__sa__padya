@@ -6,7 +6,7 @@ title = "तत्कृतं यन्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्कृतं यन्न केनापि तद्दत्तं यन्न केनचित्।  
 तत्साधितमसाध्यं यद्विक्रमार्केण भूभुजा॥

@@ -5,7 +5,7 @@ title = "कपिकुलनखमुखखण्डित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपिकुलनखमुखखण्डित- तरुतलफलभोजनो वरं पुरुषः।  
 न पुनर्धनमदगर्वित- मुखभङ्गकदर्थिता वृत्तिः॥

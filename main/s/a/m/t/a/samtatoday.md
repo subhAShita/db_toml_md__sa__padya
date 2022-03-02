@@ -7,7 +7,7 @@ title = "सन्ततोदयसन्ध्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्ततोदयसन्ध्येव वदनेन्दोरनिन्दिता।  
 तदोष्ठमुद्रा लावण्यसमुद्रस्येव विद्रुमः॥

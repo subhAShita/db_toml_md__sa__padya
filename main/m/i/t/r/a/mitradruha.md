@@ -6,7 +6,7 @@ title = "मित्रद्रुहः कृतघ्नस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मित्रद्रुहः कृतघ्नस्य स्त्रीघ्नस्य पिशुनस्य च।  
 चतुर्णामपि चैतेषां निष्कृतिर्नैव विश्रुता॥

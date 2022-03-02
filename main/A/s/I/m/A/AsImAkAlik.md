@@ -5,7 +5,7 @@ title = "आसीमा कालिका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसीमा कालिका यस्य क्षुद्राङ्गं कुण्डलीकृतम्।  
 क्षुद्रवज्रकनामानं प्राह नागार्जुनो मुनिः॥

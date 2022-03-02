@@ -5,7 +5,7 @@ title = "अतिकलुषमाशुनश्वरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिकलुषमाशुनश्वरम् आपातस्फुरणमनभिलाषकरम्।  
 अपि हृष्यन्ति जनाः कथम् अवलम्ब्य ज्ञानखद्योतम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4938", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 02 प्रहेलिकाः// 10",]
-jsonClass = "Subhaashita"
 types = [ "प्रहेलिका",]
+jsonClass = "Subhaashita"
 title = "आपाण्डु पीनकठिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपाण्डु पीनकठिनं वर्तुलं सुमनोहरम्।  
 करैराकृष्यतेऽत्यर्थं किं वृद्धैरपि सस्पृहम्॥

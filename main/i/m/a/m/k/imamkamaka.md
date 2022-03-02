@@ -5,7 +5,7 @@ title = "इमं कनकवर्णाभम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इमं कनकवर्णाभं भूषणैः समलंकृतम्।  
 गृध्रवाक्यात् कथं पुत्रं त्यजध्वं पितृपिण्डदम्॥

@@ -6,7 +6,7 @@ title = "वन्दामहे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वन्दामहे महेशानचण्डकोदण्डखण्डनम्।  
 जानकीहृदयानन्दचन्दनं रघुनन्दनम्॥

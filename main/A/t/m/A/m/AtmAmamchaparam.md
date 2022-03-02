@@ -5,7 +5,7 @@ title = "आत्मानं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं च परं चैव त्रायते महतो भयात्।  
 क्रुध्यन्तमप्रतिक्रुध्यन् द्वयोरेष चिकित्सकः॥

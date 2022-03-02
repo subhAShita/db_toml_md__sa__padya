@@ -6,7 +6,7 @@ title = "सामादिसज्जितैः पाशैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सामादिसज्जितैः पाशैः प्रतीक्षन्ते दिवानिशम्।  
 भुञ्जते च यथाशक्ति जलजाञ्जलजा यथा॥

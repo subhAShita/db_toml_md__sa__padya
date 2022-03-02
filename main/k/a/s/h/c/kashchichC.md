@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9132", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 94",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
-title = "कश्चिच्छस्त्रापातमूढोऽपवोढुर्लब्ध्वा"
+jsonClass = "Subhaashita"
+title = "कश्चिच्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कश्चिच् छस्त्रापातमूढोऽपवोढुर् लब्ध्वा भूयश्चेतनामाहवाय।  
 व्यावर्तिष्ट क्रोशतः सख्युरुच्चैस् त्यक्तश्चात्मा का च लोकानुवृत्तिः॥

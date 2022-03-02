@@ -6,7 +6,7 @@ title = "गतानुगतिको लोकः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतानुगतिको लोकः कुट्टनीमुपदेशिनीम्।  
 प्रमाणयति नो धर्मे यथा गोघ्नमपि द्विजम्॥

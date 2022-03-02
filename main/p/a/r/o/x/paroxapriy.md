@@ -7,8 +7,7 @@ title = "परोक्षप्रिया इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
-परोक्षप्रिया इव हि देवा भवन्ति प्रत्यक्षद्विषः ।  
-
+परोक्षप्रिया इव हि देवा भवन्ति प्रत्यक्षद्विषः ।
 </details>

@@ -5,7 +5,7 @@ title = "एक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एव लघुर्यत्र आदितालः स कथ्यते।  
 विनोदे रासकस् तेन श्रोत् णां च सुखावहः॥

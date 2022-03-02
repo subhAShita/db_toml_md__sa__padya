@@ -7,7 +7,7 @@ title = "दिवसे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिवसे घटिकास्त्रिंशत्त्रिंशद्घटिकाः परं रजनौ।  
 लक्षं नगरयुवानस्तात विधातः किमाचरितम्॥

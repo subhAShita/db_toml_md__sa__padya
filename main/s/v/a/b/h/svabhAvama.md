@@ -6,7 +6,7 @@ title = "स्वभावं नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वभावं नैव मुञ्चन्ति सन्तः संसर्गतोऽसताम्।  
 न त्यजन्ति रुतं मञ्जु काकसंपर्कतः पिकाः॥

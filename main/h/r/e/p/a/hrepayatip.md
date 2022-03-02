@@ -6,7 +6,7 @@ title = "ह्रेपयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ह्रेपयति प्रियवचनैरादरमुपदर्शयन्खलीकुरुते।  
 उत्कर्षयंश्च लघयति मूर्खसुहृत्सर्वथा वर्ज्यः॥

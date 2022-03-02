@@ -6,7 +6,7 @@ title = "जीवन्त्यर्थक्षये नीचा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवन्त्यर्थक्षये नीचा याञ्चोपद्रववञ्चनैः।  
 कुलाभिमानमूकानां साधूनां नास्ति जीवनम्॥

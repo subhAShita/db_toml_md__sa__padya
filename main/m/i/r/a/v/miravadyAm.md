@@ -6,7 +6,7 @@ title = "निरवद्यानि पद्यानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निरवद्यानि पद्यानि यद्यनाढ्यस्य का क्षतिः।  
 भिक्षुकक्षाविनिक्षिप्तः किमिक्षुर्नीरसो भवेत्॥

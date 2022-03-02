@@ -6,7 +6,7 @@ title = "दानेन श्लाघ्यताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानेन श्लाघ्यतां यान्ति पशुपाषाणपादपाः।  
 दानमेव गुणः श्लाघ्यः किमन्यैर्गुणकोटिभिः॥

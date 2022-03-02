@@ -5,7 +5,7 @@ title = "कष्टे नोपार्जितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कष्टे नोपार्जितं वित्तं हेलया क्वापि निर्गतम्।  
 किं करोमि क्व गच्छामि निर्भाग्योऽहं भुवस्तले॥

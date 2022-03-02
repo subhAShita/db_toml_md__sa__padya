@@ -6,7 +6,7 @@ title = "वरं सखे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं सखे सत्पुरुषापमानितो न नीचसम्सर्गगुणैरलङ्कृतः।  
 वराश्वपादेन हतो विराजते न रासभस्योपरि संस्थितो नरः॥

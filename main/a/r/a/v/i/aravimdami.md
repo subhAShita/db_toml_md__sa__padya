@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2841", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१४ वियोगिनो विप्रलापाः// 15",]
-jsonClass = "Subhaashita"
 topics = [ "विलापः - वियोगे",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अरविन्दमिदं वीक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरविन्दमिदं वीक्ष्य खेलत्खञ्जनमञ्जुलम्।  
 स्मरामि वदनं तस्याश् चारु चञ्चललोचनम्॥

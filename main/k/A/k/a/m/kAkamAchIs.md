@@ -5,7 +5,7 @@ title = "काकमाचीशिफा कर्णे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकमाचीशिफा कर्णे बद्धा रात्रिज्वरापहा।  
 पाणिस्थं वृषवृन्दाकं द्यूते वितनुते जयम्॥

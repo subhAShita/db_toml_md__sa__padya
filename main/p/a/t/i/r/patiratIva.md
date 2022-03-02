@@ -7,7 +7,7 @@ title = "पतिरतीव धनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतिरतीव धनी सुभगो युवापरविलासवतीषु पराङ्मुखः।  
 शिशुरलङ्कुरुते भवनं सदा तदपि सा सुदती रुदती कुतः॥

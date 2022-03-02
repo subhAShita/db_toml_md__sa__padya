@@ -6,7 +6,7 @@ title = "दत्त्वा दिशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दत्त्वा दिशि दिशि दृष्टिं याचकचकितोऽवगुण्ठनं कृत्वा।  
 चौर इव कुटिलचारी पलायते कुटिलरथ्याभिः॥

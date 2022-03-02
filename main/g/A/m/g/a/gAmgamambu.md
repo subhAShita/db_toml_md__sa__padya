@@ -6,7 +6,7 @@ title = "गाङ्गमम्बु सितमम्बु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गाङ्गमम्बु सितमम्बु यामुनं कज्जलाभमुभयत्र मज्जतः।  
 राजहंस तव सैव शुभ्रता चीयते न च न चापचीयते॥

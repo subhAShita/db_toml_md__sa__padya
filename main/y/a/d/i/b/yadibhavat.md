@@ -6,7 +6,7 @@ title = "यदि भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि भवति धनेन धनी क्षितितलनिहितेन भोगरहितेन।  
 तस्माद्वयमपि धनिनस्तिष्ठति नः काञ्चनो मेरुः॥

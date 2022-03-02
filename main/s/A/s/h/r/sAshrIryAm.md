@@ -6,7 +6,7 @@ title = "सा श्रीर्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा श्रीर्या न मदं कुर्यात्स सुखी तृष्णयोज्झितः।  
 तन्मित्त्रं यत्र विश्वासः पुरुषः स जितेन्द्रियः॥

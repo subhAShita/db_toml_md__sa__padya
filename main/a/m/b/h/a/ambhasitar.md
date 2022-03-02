@@ -5,7 +5,7 @@ title = "अम्भसि तरणिसुतायाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्भसि तरणिसुतायाः स्तम्भिततरणिः स देवकीसूनुः।  
 आतरविरहितगोप्याः कातरमुखमीक्षते स्मेरः॥

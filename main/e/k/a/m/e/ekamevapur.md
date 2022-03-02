@@ -5,7 +5,7 @@ title = "एकमेव पुरस्कृत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकमेव पुरस्कृत्य दश जीवन्ति मानवाः।  
 विना तेन न शोभन्ते यथा संख्याङ्कबिन्दवः॥

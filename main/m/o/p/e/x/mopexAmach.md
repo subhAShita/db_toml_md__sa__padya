@@ -6,7 +6,7 @@ title = "नोपेक्षा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नोपेक्षा न च दाक्षिण्यं न प्रीतिर्न च सङ्गतिः।  
 तथापि हरते तापं लोकानामुद्यतो घनः॥

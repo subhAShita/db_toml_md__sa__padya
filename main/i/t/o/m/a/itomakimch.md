@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5846", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 31",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "इतो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतो न किंचित् परतो न किंचिद् यतो यतो यामि ततो न किंचित्।  
 विचार्यमाणं हि जगन् न किंचित् स्वात्मावबोधादधिकं न किंचित्॥

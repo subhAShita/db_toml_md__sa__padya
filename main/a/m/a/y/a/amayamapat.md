@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1244", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १९ नायकस्याग्रे दूत्युक्तयः// 7",]
-jsonClass = "Subhaashita"
 topics = [ "नायकस्याग्रे दूत्युक्तयः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अनयनपथे प्रिये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनयनपथे प्रिये न व्यथा यथा दृश्य एव दुष्प्रापे।  
 म्लानैव केवलं निशि तपनशिला वासरे ज्वलति॥

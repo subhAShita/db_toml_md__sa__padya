@@ -6,7 +6,7 @@ title = "बोद्धारो मत्सरग्रस्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बोद्धारो मत्सरग्रस्ताः प्रभवः स्मयदूषिताः।  
 अबोधोपहताश्चान्ये जीर्णभङ्गे सुभाषितम्॥

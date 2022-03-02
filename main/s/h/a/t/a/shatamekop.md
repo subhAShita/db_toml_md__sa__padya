@@ -6,7 +6,7 @@ title = "शतमेकोऽपि सन्धत्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शतमेकोऽपि सन्धत्ते प्राकारस्थो धनुर्घरः।  
 तस्माद्दुर्गं प्रशंसन्ति नीतिशास्त्रविदो जनाः॥

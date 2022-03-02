@@ -5,7 +5,7 @@ title = "अकर्तव्यं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकर्तव्यं न कर्तव्यं प्राणैः कण्ठगतैरपि।  
 कर्तव्यमेव कर्तव्यं प्राणैः कण्ठगतैरपि॥

@@ -6,7 +6,7 @@ title = "नाप्राप्यमभिवाञ्छन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाप्राप्यमभिवाञ्छन्ति नष्टं नेच्छन्ति शोचितुम्।  
 आपत्स्वपि न मुह्यन्ति नराः पण्डितबुद्धयः॥

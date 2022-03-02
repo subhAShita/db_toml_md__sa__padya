@@ -5,7 +5,7 @@ title = "अयि लङ्घितमर्याद"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि लङ्घितमर्याद स्मर स्मर हरानलम्।  
 दग्धं दग्धुमयुक्तं ते जनं विरहकातरम्॥

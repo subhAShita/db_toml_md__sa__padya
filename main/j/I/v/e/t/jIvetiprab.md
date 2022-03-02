@@ -6,7 +6,7 @@ title = "जीवेति प्रबुवन्प्रोक्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवेति प्रबुवन्प्रोक्तः कृत्यं कृत्यविचक्षणः।  
 करोति निर्विकल्पं यः स भवेद्राजवल्लभः॥

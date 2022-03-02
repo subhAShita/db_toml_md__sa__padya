@@ -6,7 +6,7 @@ title = "अतिपरिचयादवज्ञा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिपरिचयादवज्ञा सततगमनादनादरो भवति।  
 लोकः प्रयागवासी कूपे स्नानं समाचरति॥

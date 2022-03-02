@@ -6,7 +6,7 @@ title = "आरोप्यते शिला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरोप्यते शिला शैले यत्नेन महता यथा।  
 निपात्यते क्षणेनाधस्तथात्मा गुणदोषयोः॥

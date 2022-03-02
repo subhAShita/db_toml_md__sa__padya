@@ -7,7 +7,7 @@ title = "आर्षं धर्मोपदेशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्षं धर्मोपदेशं च वेदशास्त्राविरोधिना ।  
 यस्तर्केणानुसन्धत्ते स धर्मं वेद नैतरः ॥

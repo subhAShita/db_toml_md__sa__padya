@@ -6,7 +6,7 @@ title = "दुराराध्या हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुराराध्या हि राजानः पर्वता इव सर्वदा।  
 व्यालाकीर्णाः सुविषमाः कठिना दुःखसेविताः॥

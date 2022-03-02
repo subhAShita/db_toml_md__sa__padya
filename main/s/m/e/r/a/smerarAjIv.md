@@ -7,7 +7,7 @@ title = "स्मेरराजीवनयने नयने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्मेरराजीवनयने नयने किं निमीलिते।  
 पश्य निर्जितकन्दर्पं कन्दर्पवशगं प्रियम्॥

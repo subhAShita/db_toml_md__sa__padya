@@ -6,7 +6,7 @@ title = "न हीदृशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न हीदृशं सम्वननं त्रिषु लोकेषु विद्यते।  
 दया मैत्री च भूतेषु दानं च मधुरा च वाक्॥

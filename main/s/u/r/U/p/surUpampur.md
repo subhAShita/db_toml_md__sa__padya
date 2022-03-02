@@ -7,7 +7,7 @@ title = "सुरूपं पुरुषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुरूपं पुरुषं दृष्ट्वा भ्रातरं यदि वा सुतम्।  
 योनिः क्लिद्यति नारीणामामपात्रमिवाम्भसा॥

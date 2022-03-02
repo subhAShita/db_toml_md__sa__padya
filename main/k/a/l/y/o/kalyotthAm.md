@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9082", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७७ सतीवर्णनम्// 12",]
-jsonClass = "Subhaashita"
 topics = [ "सती",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कल्योत्थानपरा नित्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्योत्थानपरा नित्यं गुरुशुश्रूषणे रता।  
 सुसंमृष्टगृहा चैव गोशकृत्कृतलेपना॥

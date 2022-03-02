@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8501", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २८ ऊरू// 398",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "ऊरू",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कदली कदली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदली कदली करभः करभः करिराजकरः करिराजकरः।  
 भुवनत्रितयेऽपि बिभर्ति तुलाम् इदमूरुयुगं न चमूरुदृशः॥

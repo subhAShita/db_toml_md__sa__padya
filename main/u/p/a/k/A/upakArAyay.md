@@ -5,7 +5,7 @@ title = "उपकाराय या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकाराय या पुंसां न परस्य न चात्मनः।  
 पत्रसंचयसंभारैः किं तया भारविद्यया॥

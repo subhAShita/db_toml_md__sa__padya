@@ -5,7 +5,7 @@ title = "कंसो रावणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कंसो रावणो रामश्च राजा दुर्योधनस् तथा।  
 चत्वारोऽपि महामूर्खाः पञ्चमः शालिवाहनः॥

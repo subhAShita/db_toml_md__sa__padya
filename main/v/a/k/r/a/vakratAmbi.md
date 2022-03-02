@@ -6,7 +6,7 @@ title = "वक्रतां बिभ्रतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वक्रतां बिभ्रतो यस्य गुह्यमेव प्रकाशते।  
 कथं खलु समो न स्यात्पुच्छेन पिशुनः शुनः॥

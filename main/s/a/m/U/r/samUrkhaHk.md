@@ -6,7 +6,7 @@ title = "स मूर्खः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स मूर्खः कालमप्राप्य योऽपकर्तरि वर्तते।  
 कलिर्बलवता सार्धं कीटपक्षोद्गमो यथा॥

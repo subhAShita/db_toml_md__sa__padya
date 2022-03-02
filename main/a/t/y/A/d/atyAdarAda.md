@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0678", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 106",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अत्यादरादध्ययनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यादरादध्ययनं द्विजानाम् अर्थोपलब्ध्या फलवद्विधाय।  
 क्रतूनतुच्छानवितुं तवैषा मीमांसकाद्याधिकृतिः प्रसिद्धा॥

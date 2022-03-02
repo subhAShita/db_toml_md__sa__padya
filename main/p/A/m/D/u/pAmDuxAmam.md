@@ -7,7 +7,7 @@ title = "पाण्डु क्षामम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाण्डु क्षामं वदनं हृदयं सरसं तवालसं च वपुः।  
 आवेदयति नितान्तं क्षत्रियरोगं सखि हृदन्तः॥

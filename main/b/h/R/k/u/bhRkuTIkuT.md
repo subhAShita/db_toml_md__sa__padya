@@ -6,7 +6,7 @@ title = "भृकुटीकुटिलललाटः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भृकुटीकुटिलललाटः कण्टकिताङ्गः कटाक्षविकटाक्षः।  
 कवलयति पृथुलकवलैस्तण्डुलमचलं द्विजः क्रुद्धः॥

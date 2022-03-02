@@ -6,7 +6,7 @@ title = "उत्थाय हृदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थाय हृदि लीयन्ते दरिद्राणां मनोरथाः।  
 बालवैधव्यदग्धानां कुलस्त्रीणां कुचा इव॥

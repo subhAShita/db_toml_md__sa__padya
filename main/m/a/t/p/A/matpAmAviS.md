@@ -7,7 +7,7 @@ title = "मत्पाणाविष्टिके भूया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मत्पाणाविष्टिके भूया निरन्तरसमुद्यता ।  
 निर्मातुं राघवागारं हन्तुं वा तद्विरोधिनः ॥

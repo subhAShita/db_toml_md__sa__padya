@@ -7,7 +7,7 @@ title = "किं त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं त्वं निगूहसे दूति स्तनौ वक्त्रं च पाणिना।  
 खण्डिता एव शोभन्ते शूराधरपयोधराः॥

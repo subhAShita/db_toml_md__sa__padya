@@ -6,7 +6,7 @@ title = "अधीश्व पुत्रकाधीश्व,"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीश्व पुत्रकाधीश्व, दास्यामि तव मोदकम्।  
 यद्वान्यस्मै प्रदास्यामि, कर्णमुत्पाटयामि ते ॥

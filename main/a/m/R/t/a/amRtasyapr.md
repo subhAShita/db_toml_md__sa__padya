@@ -5,7 +5,7 @@ title = "अमृतस्य प्रवाहैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतस्य प्रवाहैः किं कायक्षालनसंभवैः।  
 चिरान्मित्रपरिष्वङ्गो योऽसौ मूल्यविवर्जितः॥

@@ -5,7 +5,7 @@ title = "ऋणसम्बन्धिनः सर्वे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणसंबन्धिनः सर्वे पुत्रदारं पशुस्तथा।  
 ऋणक्षये क्षयं यान्ति का तत्र परिदेवना॥

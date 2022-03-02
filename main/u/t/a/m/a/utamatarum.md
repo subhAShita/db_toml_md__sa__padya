@@ -5,7 +5,7 @@ title = "उत्तमतरुणप्रकृतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमतरुणप्रकृतिः पुलकादिकसूचितान्यतनुसक्तिः।  
 स्फुटसंनिहितविभावो निवार्यते केन शृ गारः॥

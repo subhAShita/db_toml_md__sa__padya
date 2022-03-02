@@ -6,7 +6,7 @@ title = "देव त्वद्दानपाथोधौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देव त्वद्दानपाथोधौ दारिद्र्यस्य निमज्जतः।  
 न कोऽपि हि करालम्बं दत्ते मत्तेभदायक॥

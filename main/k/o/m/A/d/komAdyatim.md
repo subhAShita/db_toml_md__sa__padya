@@ -6,7 +6,7 @@ title = "को माद्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को माद्यति मकरन्दैस्तनयं कमसूत जनकराजसुता।  
 कथय कृषीवल सस्यं पक्वं किमचीकरस्त्वमपि॥

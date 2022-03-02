@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9314", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५८ प्रभातवर्णनम्// 18",]
-jsonClass = "Subhaashita"
 topics = [ "प्रभातम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "का काबला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का काबला निधुवनश्रमपीडिताङ्गी निद्रां गता दयितबाहुलतानुबद्धा।  
 सा सा तु यातु भवनं मिहिरोद्गमोऽयं सम्केतवाक्यमिति काकचया वदन्ति॥

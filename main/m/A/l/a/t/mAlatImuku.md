@@ -6,7 +6,7 @@ title = "मालतीमुकुला याताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मालतीमुकुला याताः कुन्दा मन्दायितास्तथा।  
 पङ्कज त्वामिदॄं ब्रूमः कुत्र यातु मधुव्रतः॥

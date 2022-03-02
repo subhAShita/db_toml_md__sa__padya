@@ -5,7 +5,7 @@ title = "उदयगूढशशा कमरीचिभिस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयगूढशशा कमरीचिभिस् तमसि दूरमितः प्रतिसारिते।  
 अलकसंयमनादिव लोचने हरति मे हरिवाहनदि मुखम्॥

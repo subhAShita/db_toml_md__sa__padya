@@ -2,11 +2,11 @@
 topics = [ "लोक-फल्गुता",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "य कृत्वा"
+title = "यः कृत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः कृत्वा विश्व-रङ्गं रजनि-यवनिकं प्रोज्ज्वलद्‌-भानु-दीपम्  
 शश्वत्-सन्तुष्ट-संप्रेक्षकम् अखिल-जगद्‌-भ्रान्ति-नाट्यं वितत्य  ।  

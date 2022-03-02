@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3446", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 60",]
-jsonClass = "Subhaashita"
 topics = [ "दशावताराः",]
+jsonClass = "Subhaashita"
 title = "अव्याद्वो वामनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्याद्वो वामनो यस्य कौस्तुभप्रतिबिम्बिता।  
 कौतुकालोकिनी जाता जाठरीव जगत्त्रयी॥

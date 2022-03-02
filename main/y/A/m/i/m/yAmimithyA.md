@@ -6,7 +6,7 @@ title = "यानि मिथ्याभिभूतानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यानि मिथ्याभिभूतानां पतन्त्यश्रूणि रोदताम्।  
 तानि सन्तापकान्घ्नन्ति सपुत्रपशुबान्धवान्॥

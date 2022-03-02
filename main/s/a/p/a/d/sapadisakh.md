@@ -7,7 +7,7 @@ title = "सपदि सखीभिर्निभृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सपदि सखीभिर्निभृतं विरहवतीस्रातुमत्र भज्यन्ते।  
 सहकारमञ्जरीणां शिखोद्गमग्रन्थयः प्रथमे॥

@@ -5,7 +5,7 @@ title = "एवं मूढप्रभुर्वेत्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 एवं मूढप्रभुर्वेत्ति निग्रहं नाप्यनुग्रहम्॥

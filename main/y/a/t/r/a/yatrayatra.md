@@ -7,7 +7,7 @@ title = "यत्र यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र यत्र वलते शनैः शनैः सुभ्रुवो नयनकोणविभ्रमः।  
 तत्र तत्र शतपत्त्रधोरमी तोरणीभवति पुष्पधन्वनः॥

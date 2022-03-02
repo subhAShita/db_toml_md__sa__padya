@@ -7,7 +7,7 @@ title = "यन्नवे भाजने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यन्नवे भाजने लग्नः   
 संस्कारो नाऽन्यथा भवेत्।  

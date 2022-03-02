@@ -6,7 +6,7 @@ title = "नाविदग्धः प्रियम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाविदग्धः प्रियं ब्रूयात्स्फुटवक्ता न वञ्चकः।  
 निःस्पृहो नाधिकारी स्यान्नाकामी मण्डनप्रियः॥

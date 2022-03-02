@@ -6,7 +6,7 @@ title = "क्षणमात्रं ग्रहावेशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षणमात्रं ग्रहावेशो याममात्रं सुरामदः।  
 लक्ष्मीमदस्तु मूर्खाणामादेहमनुवर्तते ॥

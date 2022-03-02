@@ -5,7 +5,7 @@ title = "अहो मदावलेपोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो मदावलेपोऽयम् असाराणां दुरात्मनाम्।  
 कौरवाणां महीपत्वम् अस्माकं किल कालजम्॥

@@ -5,7 +5,7 @@ title = "कपटादपि रिपुहननम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपटादपि रिपुहननं कुर्यादिति नीतिरौशनसी।  
 हननमृते च गुरुमते बन्धादि विधीयते रिपोः कपटैः॥

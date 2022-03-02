@@ -8,7 +8,7 @@ title = "हंस प्रयच्छ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हंस प्रयच्छ मे कान्तां गतिरस्यास्त्वया हता।  
 विभावितैकदेशेन देयं यदभियुज्यते॥

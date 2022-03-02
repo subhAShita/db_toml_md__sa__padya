@@ -6,7 +6,7 @@ title = "ज्ञातिभिर्वर्ण्यते नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्ञातिभिर्वर्ण्यते नैव चोरेणापि न नीयते।  
 दाने नैव क्षयं याति विद्यारत्नं महाधनम्॥

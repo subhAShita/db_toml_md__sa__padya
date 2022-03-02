@@ -6,7 +6,7 @@ title = "मदोपशमनं शास्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मदोपशमनं शास्त्रं खलानां कुरुते मदम्।  
 चक्षुः-प्रकाशकं तेज उलूकानामिवान्धताम्॥

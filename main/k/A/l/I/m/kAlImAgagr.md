@@ -5,7 +5,7 @@ title = "कालीनागग्रहव्यग्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालीनागग्रहव्यग्रे श्रीकृष्णे यमुनातटे।  
 झंपयाधोमुखे जाते विपरीतं जगत्त्रयम्॥

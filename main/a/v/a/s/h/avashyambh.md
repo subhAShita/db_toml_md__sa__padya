@@ -5,7 +5,7 @@ title = "अवश्यं भाविनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवश्यं भाविनं नाशं भावित्वाद् विध्युपस्थितम्।  
 अयमेव हि ते कालः पूर्वमासीदनागतः॥

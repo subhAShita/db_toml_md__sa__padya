@@ -7,7 +7,7 @@ title = "यदवधि विलासभवनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदवधि विलासभवनं यौवनमुदियाय चन्द्रवदनायाः।  
 दहनं विनैव तदवधि यूनां हृदयानि दह्यन्ते॥

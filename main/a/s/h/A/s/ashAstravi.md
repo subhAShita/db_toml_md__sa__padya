@@ -5,7 +5,7 @@ title = "अशास्त्रविदुषां तेषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशास्त्रविदुषां तेषां न कार्यमहितं वचः।  
 अर्थशास्त्रानभिज्ञानां विपुलां श्रियमिच्छताम्॥

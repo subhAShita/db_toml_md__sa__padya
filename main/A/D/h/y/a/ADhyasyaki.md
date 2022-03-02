@@ -5,7 +5,7 @@ title = "आढ्यस्य किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आढ्यस्य किं च दानेन सुहितस्याशनेन किम्।  
 किं शशाङ्केन शीतालोः किं घनेन हिमागमे॥

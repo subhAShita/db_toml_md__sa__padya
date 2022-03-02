@@ -6,7 +6,7 @@ title = "अहेरिव गणाद्भीतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहेरिव गणाद्भीतः परान्नाच्च विषादिव।  
 राक्षसीभ्य इव स्त्रीभ्यः स विद्यामधिगच्छति॥

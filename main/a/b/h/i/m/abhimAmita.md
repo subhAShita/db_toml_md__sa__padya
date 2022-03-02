@@ -5,7 +5,7 @@ title = "अभिमानितभूतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमानितभूतेन सानुबन्धरसेन तु।  
 यतः सर्वेन्द्रियप्रीतिः स कामः प्रोच्यते बुधैः॥

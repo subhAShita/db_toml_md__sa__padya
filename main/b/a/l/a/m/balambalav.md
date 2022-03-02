@@ -6,7 +6,7 @@ title = "बलं बलवतामस्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलं बलवतामस्मि कामरागविवर्जितम्।  
 धर्माविरुद्धो भूतेषु कामोस्मि भरतर्षभ॥

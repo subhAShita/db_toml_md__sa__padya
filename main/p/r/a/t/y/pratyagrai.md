@@ -6,7 +6,7 @@ title = "प्रत्यग्रैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रत्यग्रैः पत्त्रनिचयैस्तरुर्यैरेव शोभितः।  
 जहाति जीर्णास्तानेव किंवा चित्रं कुजन्मनः॥

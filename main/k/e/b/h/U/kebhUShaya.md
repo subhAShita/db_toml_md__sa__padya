@@ -6,7 +6,7 @@ title = "के भूषयन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 के भूषयन्ति स्तनमण्डलानि कीदृश्युमा चन्द्रमसः कुतः श्रीः।  
 किमाह सीता दशकण्ठनीता हारामहादेवरतातमातः॥

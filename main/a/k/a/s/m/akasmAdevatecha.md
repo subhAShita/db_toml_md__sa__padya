@@ -5,7 +5,7 @@ title = "अकस्मादेव ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकस्मादेव ते चण्डि स्फुरिताधरपल्लवम्।  
 मुखं मुक्तारुचो धत्ते घर्माम्भःकणमञ्जरीः॥

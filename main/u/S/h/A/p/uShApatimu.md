@@ -5,7 +5,7 @@ title = "उषापतिमुखाम्भोजे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उषापतिमुखाम्भोजे नरीनर्ति सरस्वती।  
 ऋतुराजकवेरेव गायन्ती गुणगौरवम्॥

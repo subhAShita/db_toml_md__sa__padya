@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5916", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 155",]
-jsonClass = "Subhaashita"
 topics = [ "अनित्यता",]
-title = "इदं युगसहस्रस्य"
+jsonClass = "Subhaashita"
+title = "इदं युगसहस्रेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं युगसहस्रेषु भविष्यदभवद् दिनम्।  
 तदप्यद्यत्वमापन्नं का कथा मरणावधेः॥

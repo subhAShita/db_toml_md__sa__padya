@@ -7,7 +7,7 @@ title = "भृशमदूयत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भृशमदूयत याधरपल्लवक्षतिरनावरणा हिममारुतैः।  
 दशनरश्मिपटेन च सीत्कृतौर्निवसितेन सितेन सुनिर्ववौ॥

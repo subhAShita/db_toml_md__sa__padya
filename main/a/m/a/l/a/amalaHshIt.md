@@ -5,7 +5,7 @@ title = "अनलः शीतनाशाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनलः शीतनाशाय विषनाशाय गारुडम्।  
 विवेको दुःखनाशाय सर्वनाशाय दुर्मतिः॥

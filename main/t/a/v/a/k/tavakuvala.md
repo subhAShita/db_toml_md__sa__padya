@@ -7,7 +7,7 @@ title = "तव कुवलयाक्षि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव कुवलयाक्षि वक्षसि कुण्डलिता कापि काञ्चनी कान्तिः।  
 कुसुमेषोर्विजिगीषोर्भवति च भवतीह भूयसी कण्डुः॥

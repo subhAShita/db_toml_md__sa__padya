@@ -6,7 +6,7 @@ title = "कुरु गम्भीराशयताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुरु गम्भीराशयतां कल्लोलैर्जनय लोकविभ्रान्तिम्।  
 वीतपयोधरलक्ष्मीः कस्य न चरणैर्विलङ्घ्यसि॥

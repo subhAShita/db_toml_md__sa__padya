@@ -5,7 +5,7 @@ title = "अतिशौचमशौचं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिशौचमशौचं वा अतिनिन्दा अतिस्तुतिः।  
 अत्याचारमनाचारं षड्विधं मूर्खलक्षणम्॥

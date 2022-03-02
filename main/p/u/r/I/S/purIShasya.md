@@ -6,7 +6,7 @@ title = "पुरीषस्य च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुरीषस्य च रोषस्य हिंसायास्तस्करस्य च।  
 आद्याक्षराणि सङ्गृह्य वेधाश्चक्रे पुरोहितम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3511", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 17",]
-jsonClass = "Subhaashita"
 topics = [ "गणेशः",]
+jsonClass = "Subhaashita"
 title = "अशेषविघ्नप्रतिषेधदक्ष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशेषविघ्नप्रतिषेधदक्ष- मन्त्राक्षतानामिव दिङ्मुखेषु।  
 विक्षेपलीला करशीकराणां करोतु वः प्रीतिमिभाननस्य॥

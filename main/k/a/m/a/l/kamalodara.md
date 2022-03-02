@@ -5,7 +5,7 @@ title = "कमलोदरकोमलपादतलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलोदरकोमलपादतलं गणनापरिवर्जितबाहुबलम्।  
 प्रणमामि जगत्त्रयबोधिकरं गिरनारविभूषणनेमिजिनम्॥

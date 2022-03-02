@@ -5,7 +5,7 @@ title = "अयने विषुवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयने विषुवे चैव षडशीतिमुखेषु च।  
 चन्द्रसूर्योपरागे च दत्तमक्षयमश्नुते॥

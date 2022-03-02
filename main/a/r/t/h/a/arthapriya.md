@@ -5,7 +5,7 @@ title = "अर्थप्रियतयात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थप्रियतयात्मानम् अप्रियाय ददाति या।  
 कामात्मन्यपि निःस्नेहां कोऽनुरक्तेति मन्यते॥

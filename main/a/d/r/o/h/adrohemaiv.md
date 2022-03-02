@@ -7,7 +7,7 @@ title = "अद्रोहेणैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्रोहेणैव भूतानामल्पद्रोहेण वा पुनः ।  
 या वृत्तिस्तां समास्थाय विप्रो जीवेदनापदि ॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6305", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// ४१ कण्टकारिकाः// 188",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - कण्टकारिकाः",]
+jsonClass = "Subhaashita"
 title = "उचितं नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उचितं नाम नार ग्यां केतक्यामपि कण्टकाः।  
 रसगन्धोज्झिते किं ते कण्टकाः कण्टकारिके॥

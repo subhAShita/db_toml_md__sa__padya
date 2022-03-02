@@ -5,7 +5,7 @@ title = "उपद्रष्टानुमन्ता च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः।  
 परमात्मेति चाप्युक्तो देहेऽस्मिन् पुरुषः परः॥

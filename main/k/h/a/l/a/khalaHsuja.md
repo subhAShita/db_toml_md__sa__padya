@@ -6,7 +6,7 @@ title = "खलः सुजनपैशुन्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलः सुजनपैशुन्ये सर्वतोऽक्षिशिरोमुखः।  
 सर्वतःश्रुतिमांल्लोके सर्वमावृत्य तिष्ठति॥

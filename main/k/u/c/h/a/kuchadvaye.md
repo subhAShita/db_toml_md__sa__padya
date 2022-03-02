@@ -7,7 +7,7 @@ title = "कुचद्वये चकोराक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुचद्वये चकोराक्षी चिबुकप्रान्तचुम्बिनि।  
 मर्मोक्तिषु न शक्नोति स्थातुं लज्जानतानना॥

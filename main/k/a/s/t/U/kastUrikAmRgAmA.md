@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9178", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 164",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
-title = "कस्तूरिकामृगाणामण्डाद्गन्धगुणमखिलमादाय"
+jsonClass = "Subhaashita"
+title = "कस्तूरिकामृगाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्तूरिकामृगाणाम् अण्डाद् गन्धगुणमखिलमादाय।  
 यदि पुनरहं विधिः स्यां खलजिह्वायां निवेशयिष्यामि॥

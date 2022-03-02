@@ -7,7 +7,7 @@ title = "न स्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न स्म माति वपुषः प्रमदानामन्तरिष्टतमसङ्गमजन्मा।  
 यद्बहुर्बहिरवाप्य विकासं व्यानशे तनुरुहाण्यपि हर्षः॥

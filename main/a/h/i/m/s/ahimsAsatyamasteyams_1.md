@@ -5,7 +5,7 @@ title = "अहिंसा सत्यमस्तेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिंसा सत्यमस्तेयं शौचमिन्द्रियनिग्रहः।  
 एतं सामासिकं धर्मं चातुर्वर्ण्येऽब्रवीन्मनुः॥

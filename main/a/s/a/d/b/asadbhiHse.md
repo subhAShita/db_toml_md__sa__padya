@@ -5,7 +5,7 @@ title = "असद्भिः सेवितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असद्भिः सेवितो राजा स्वयं सन्नपि दूष्यते।  
 किं सेव्यो भोगिसंवीतो गन्धवानपि चन्दनः॥

@@ -2,11 +2,11 @@
 topics = [ "भावः", "भक्तिः", "तीर्थम्", "सद्भावः", "सहृदयः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "गङ्गादितीरेषु वसन्ति"
+title = "गङ्गादितीर्थेषु वसन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गंगादितीर्थेषु वसन्ति मत्स्याः देवालये पक्षिगणाश्च नित्यम्।  
 ते ज्ञानहीना न फलं लभन्ते तीर्थानि देवायतनानि भावः ॥

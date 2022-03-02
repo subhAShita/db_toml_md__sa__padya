@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8498", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 8",]
-jsonClass = "Subhaashita"
 topics = [ "धीरः",]
+jsonClass = "Subhaashita"
 title = "कदर्थितस्यापि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदर्थितस्यापि हि धैर्यवृत्तेर् न शक्यते धैर्यगुणः प्रमार्ष्टुम्।  
 अधोमुखस्यापि कृतस्य वह्नेर् नाधः शिखा यान्ति कदाचिदेव॥

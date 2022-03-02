@@ -5,7 +5,7 @@ title = "कविताकुन्दविकासन कृतिने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविताकुन्दविकासन- कृतिने विजितजनतानिदाघाय।  
 दलितोद्दामाघाय प्रणतिं कलयामि माघाय॥

@@ -1,13 +1,14 @@
 +++
 secondary_sources = [ "MSS_7741",]
-jsonClass = "Subhaashita"
-title = "एकोऽभून्नलिनात् ततश्च"
 topics = [ "प्रौढोक्तिः",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "एकोऽभून्नलिनात् ततश्च"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोऽभून्नलिनात् ततश्च पुलिनाद् वल्मीकतश्चापरस् ते सर्वे कवयो भवन्ति गुरवस् तेभ्यो नमस्कुर्महे।  
 अर्वाञ्चो यदि गद्यपद्यरचनैश् चेतश् चमत्कुर्वते तेषां मूर्ध्नि ददामि वामचरणं कर्णाटराजप्रिया॥

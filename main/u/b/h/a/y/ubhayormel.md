@@ -5,7 +5,7 @@ title = "उभयोर्मेलने प्रीतिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उभयोर्मेलने प्रीतिर् यदि स्यान् मेलनं तदा।  
 एकेन न हि हस्तेन जायते तालवादनम्॥

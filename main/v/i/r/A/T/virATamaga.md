@@ -6,7 +6,7 @@ title = "विराटनगरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विराटनगरे राजन्कीचकादुपकीचकम्।  
 अत्र क्रियापदं गुप्तं यो जानाति स पण्डितः॥

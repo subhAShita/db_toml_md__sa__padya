@@ -5,7 +5,7 @@ title = "अतिरूपाद् धृता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिरूपाद् धृता सीता अतिगर्वेण रावणः।  
 अतिदानाद् बलिर्बद्धो ह्यति सर्वत्र गर्हितम्॥

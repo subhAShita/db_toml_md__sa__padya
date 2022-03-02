@@ -6,7 +6,7 @@ title = "भारतं चेक्षुदण्डम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भारतं चेक्षुदण्डं च सिन्धुमिन्दु च वर्णय।  
 पादमेकं प्रदास्यामि प्रतिपर्वरसोदयः॥

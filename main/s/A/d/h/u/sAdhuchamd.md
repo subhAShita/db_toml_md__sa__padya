@@ -7,7 +7,7 @@ title = "साधु चन्द्रमसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधु चन्द्रमसि पुष्करैः कृतं मीलितं यदभिरामताधिके।  
 उद्यता जयिनि कामिनीमुखे तेन साहसमनुष्ठितं पुनः॥

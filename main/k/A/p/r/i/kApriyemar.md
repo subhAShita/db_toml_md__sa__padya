@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9517", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 55",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "का प्रियेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का प्रियेण रहिता वराङ्गना धाम्नि केन तनयेन नन्दिता।  
 कीदृशेन पुरुषेण पक्षिणां बन्धनं समभिलष्यते सदा॥

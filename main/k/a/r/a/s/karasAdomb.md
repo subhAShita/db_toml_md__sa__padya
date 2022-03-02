@@ -5,7 +5,7 @@ title = "करसादोऽम्बरत्यागस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करसादोऽम्बरत्यागस् तेजोहानिः सरागता।  
 वारुणीसङ्गजावस्था भानुनाप्यनुभूयते॥

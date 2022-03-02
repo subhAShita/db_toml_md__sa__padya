@@ -7,7 +7,7 @@ title = "ह्रीतया गलितनीवि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ह्रीतया गलितनीवि निरस्यन्नन्तरीयमवलम्बितकाञ्चि।  
 मण्डलीकृतपृथुस्तनभारं सस्वजे दयितया हृदयेशः॥

@@ -7,7 +7,7 @@ title = "दण्डो दमयतामस्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम्।  
 मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम्॥

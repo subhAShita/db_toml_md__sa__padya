@@ -6,7 +6,7 @@ title = "गौरीपतेर्गरीयो गरलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौरीपतेर्गरीयो गरलं गत्वा गले जीर्णम्।  
 जीर्यति कर्मे महतां दुर्वादो नाल्पमपि विशति॥

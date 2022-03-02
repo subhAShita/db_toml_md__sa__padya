@@ -5,7 +5,7 @@ title = "अपि ब्रह्मवधम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि ब्रह्मवधं कृत्वा प्रायश्चित्तेन शुध्यति।  
 तदर्थेन विचीर्णेन न कथंचित्सुहृद्द्रुहः॥

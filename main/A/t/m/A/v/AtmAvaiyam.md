@@ -5,7 +5,7 @@ title = "आत्मा वै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 आत्मा वै यमितो येन स यमस्तु विशिष्यते॥

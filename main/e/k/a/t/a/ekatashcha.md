@@ -5,7 +5,7 @@ title = "एकतश्चतुरो वेदाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकतश्चतुरो वेदाः साङ्गोपाङ्गाः सविस्तराः।  
 स्वाधीनास्ते नरश्रेष्ठ सत्यमेकं किलैकतः॥

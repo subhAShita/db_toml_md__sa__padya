@@ -5,7 +5,7 @@ title = "कलकण्ठ गणास्वाद्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलकण्ठ गणास्वाद्ये कामस्यास्त्रे निजाङ्कुरे।  
 निम्बवृत्तिभिरुद्गदीर्णे न चूतः परितप्यते॥

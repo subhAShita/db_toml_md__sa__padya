@@ -5,7 +5,7 @@ title = "कामक्रोधौ हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामक्रोधौ हि पुरुषम् अर्थेभ्यो व्यपकर्षतः।  
 तौ तु शत्रू विनिर्जित्य राजा विजयते महीम्॥

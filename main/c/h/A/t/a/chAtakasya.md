@@ -6,7 +6,7 @@ title = "चातकस्य खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चातकस्य खलु चञ्चुसम्पुटे नो पतन्ति किल वारिबिन्दवः।  
 सागरीकृतमहीतलस्य किं दोष एष जलदस्य दीयते॥

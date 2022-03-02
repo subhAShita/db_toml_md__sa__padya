@@ -6,7 +6,7 @@ title = "पिबन्तु मदिराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिबन्तु मदिराम् अमी परितुदन्तु देशान् अहो   
 हरन्तु पर-सुन्दरीम् अपलपन्तु वेदान् अपि ।  

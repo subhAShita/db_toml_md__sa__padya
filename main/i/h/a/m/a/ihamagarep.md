@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6173", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "व्यभिचारिणी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इह नगरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह नगरे प्रतिरथ्यं भुजंगसंबाधरुचिरसंचारे।  
 सुन्दरि मम मतमेतन् नकुलप्रतिपालनं श्रेयः॥

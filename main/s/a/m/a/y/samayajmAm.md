@@ -7,7 +7,7 @@ title = "समयज्ञानर्थवतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समयज्ञानर्थवतः प्रतिरूपान्वशे स्थितान्।  
 पतीनां नटमासाद्य नालं नार्यः प्रतीक्षितुम्॥

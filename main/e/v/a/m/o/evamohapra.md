@@ -5,7 +5,7 @@ title = "एवं मोहप्रभवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं मोहप्रभवो रागो न स्त्रीषु कस्य दुःखाय।  
 तास्वेव विवेकभृतां भवति विरागस् तु मोक्षाय॥

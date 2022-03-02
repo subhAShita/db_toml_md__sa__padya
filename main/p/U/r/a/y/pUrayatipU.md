@@ -6,7 +6,7 @@ title = "पूरयति पूर्णमेषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूरयति पूर्णमेषां तरङ्गिणीसंहतिः समुद्रमिव।  
 लक्ष्मीरधनस्य पुनर्लोचनमार्गेऽपि नायाति॥

@@ -6,7 +6,7 @@ title = "पतितोऽपि राहुवदने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतितोऽपि राहुवदने तरणिर्बोधयति पद्मखण्डानि।  
 भवति विपद्यपि महतामङ्गीकृतवस्तुनिर्वाहः॥

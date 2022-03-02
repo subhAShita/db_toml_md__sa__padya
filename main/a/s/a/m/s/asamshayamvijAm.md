@@ -5,7 +5,7 @@ title = "असंशयं विजानीहि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंशयं विजानीहि काले सर्वं फलिष्यति।  
 धृतिं धारय विस्रब्धं भवेत् सर्वं समञ्जसम्॥

@@ -6,7 +6,7 @@ title = "इतिहासपुराणज्ञः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतिहासपुराणज्ञः पदवाक्यप्रमाणवित् ।  
 अर्थोपकारवेदी च वेदार्थं ज्ञातुमर्हति ॥

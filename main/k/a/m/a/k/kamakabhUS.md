@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8553", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 939",]
 topics = [ "नीतिः", "उपयोगः", "उपयोग-विवेकः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "कनकभूषणसङ्ग्रहणोचितो यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कनकभूषणसंग्रहणोचितो यदि मणिस् त्रपुणि प्रतिबध्यते।  
 न स विरौति न चापि न शोभते भवति योजयितुर्वचनीयता॥

@@ -6,7 +6,7 @@ title = "धन्यासि यत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धन्यासि यत् कथयसि प्रियसंगमेन   
 नर्मस्मितं च वचनं च रसं च तस्य ।  

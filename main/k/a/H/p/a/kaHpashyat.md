@@ -5,7 +5,7 @@ title = "कः पश्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः पश्यति खुरमहसः संमुखमपि तेजसां सहस्रस्य।  
 कलितं शशभृद्धाम्नो यो मण्डलखण्डनं सहते॥

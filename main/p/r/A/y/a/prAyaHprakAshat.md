@@ -6,7 +6,7 @@ title = "प्रायः प्रकाशताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः प्रकाशतां याति मलिनः साधुबाधया।  
 नाग्रसिष्यत चेदर्कं कोऽज्ञास्यत्सिंहिकासुतम्॥

@@ -5,7 +5,7 @@ title = "इति पथि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इति पथि विनिवेशितात्मनो रिपुरपि गच्छति साधु मित्रताम्।  
 तदवनिपतिमत्सरादृते विनयगुणेन जगद् वशं नयेत्॥

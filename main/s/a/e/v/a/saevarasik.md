@@ -6,7 +6,7 @@ title = "स एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स एव रसिको लोके श्रुत्वा काव्यं परैः कृतम्।  
 उत्पद्यते च युगपद्वदनेऽक्ष्णोश्च यस्य वाः॥

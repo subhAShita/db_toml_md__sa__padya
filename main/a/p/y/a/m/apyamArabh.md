@@ -5,7 +5,7 @@ title = "अप्यनारभमाणस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्यनारभमाणस्य विभोरुत्पादिताः परैः।  
 व्रजन्ति गुणतामर्थाः शब्दा इव विहायसः॥

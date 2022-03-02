@@ -6,7 +6,7 @@ title = "ददत् जलमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ददत् जलमपि जलदो स वल्लभो भवति सकललोकानाम् ।  
 नित्यं प्रसारितकरो करोति मित्रो'पि सन्तापम् ॥

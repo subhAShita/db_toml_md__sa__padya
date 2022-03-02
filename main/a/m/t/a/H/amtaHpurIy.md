@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1593", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 145",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अन्तःपुरीयसि रणेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःपुरीयसि रणेषु सुतीयसि त्वं पौरं जनं तव सदा रमणीयते श्रीः।  
 दृष्टः प्रियाभिरमृतद्युतिदर्शमिन्द्र- संचारमत्र भुवि संचरसि क्षितीश॥

@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_9094", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०६ जगन्नाथपण्डितः// 13",]
 topics = [ "जगन्नाथपण्डितः", "प्रौढोक्तिः", "पाण्डित्यम्", "प्रेरणा",]
-jsonClass = "Subhaashita"
 sources = [ "जगन्नाथपण्डितः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "कवयति पण्डितराजे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवयति पण्डितराजे कवयन्त्यन्येऽपि विद्वांसः।  
 नृत्यति पिनाकपाणौ नृत्यन्त्यन्येऽपि भूतवेतालाः॥

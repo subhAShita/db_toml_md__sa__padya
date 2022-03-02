@@ -6,7 +6,7 @@ title = "त्रैलोक्ये नोपमैतस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रैलोक्ये नोपमैतस्याः सखे किमिति भाषसे।  
 अनन्तरा सा नादिर्वा न तृतीयेति मे मतिः॥

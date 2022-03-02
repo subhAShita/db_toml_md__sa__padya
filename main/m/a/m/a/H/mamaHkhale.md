@@ -6,7 +6,7 @@ title = "नमः खलेभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमः खलेभ्यः क इवाथवा न तानलं नमस्येदिह यो जिजीविषुः।  
 विनैव ये दोषमृषिप्रकाण्डवन्नयन्ति शापेन रसातलं नरान्॥

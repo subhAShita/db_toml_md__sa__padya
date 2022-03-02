@@ -5,7 +5,7 @@ title = "अविरतविरुतकपोतीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरतविरुतकपोतीम् अर्पितरसमावृणोति घनवलनः।  
 नवलतिकामतिकातर- तरलितमदिरद्वयीं मुदिरः॥

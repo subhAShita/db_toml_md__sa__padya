@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1523", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०७ तुरगप्रशंसा// 3",]
-jsonClass = "Subhaashita"
 topics = [ "तुरगप्रशंसा",]
-title = "अनूनवेगादयमद्वितीयश्छायातुरङ्गादपि"
+jsonClass = "Subhaashita"
+title = "अनूनवेगादयमद्वितीयश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनूनवेगादयमद्वितीयश् च्छायातुरङ्गादिव लज्जमानः।  
 खुरोद्धुतैर्वीर तुरङ्गमस्ते रजोभिरह्णनां पतिमावृणोति॥

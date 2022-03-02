@@ -6,7 +6,7 @@ title = "शङ्करशिरसि निवेशितपदेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शङ्करशिरसि निवेशितपदेति मा गर्वमुद्वहेन्दुकले।  
 फलमेतस्य भविष्यति तव चण्डीचरणरेणुमृजा॥

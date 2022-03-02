@@ -6,7 +6,7 @@ title = "बन्धुस्त्रीभृत्यवर्गस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बन्धुस्त्रीभृत्यवर्गस्य बुद्देः सत्त्वस्य चात्मनः।  
 आपन्निकषपाषाणे नरो जानाति सारताम्॥

@@ -6,7 +6,7 @@ title = "गुणग्रामाविसम्वादि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणग्रामाविसम्वादि नामापि हि महात्मनाम्।  
 यथा सुवर्णश्रीखण्डरत्नाकरसुधाकराः॥

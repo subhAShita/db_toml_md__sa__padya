@@ -6,7 +6,7 @@ title = "गुणमधिगतमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणमधिगतमपि धनवानचिरान्नाशयति रक्षति दरिद्रः।  
 मज्जयति रज्जुमम्भसि पूर्णः कुम्भो न खलु तुच्छः॥

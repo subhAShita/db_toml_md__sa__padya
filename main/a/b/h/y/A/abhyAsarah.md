@@ -5,7 +5,7 @@ title = "अभ्यासरहिता विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यासरहिता विद्या निरुद्योगा नृपश्रियः।  
 वेषयोषाश्च रागिण्यो हास्यायतनमङ्गने॥

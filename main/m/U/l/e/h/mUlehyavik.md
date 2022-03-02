@@ -5,7 +5,7 @@ title = "मूले ह्यविकृते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूले ह्यविकृते सदा सिक्ते प्रज्ञानवारिणा।  
 नयालवालः फलति प्रायः पौरुषपादपः॥

@@ -5,7 +5,7 @@ title = "अन्नदानं महादानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नदानं महादानं विद्यादानं महत्तरम्।  
 अन्नेन क्षणिका तृप्तिर् यावज्जीवं तु विद्यया॥

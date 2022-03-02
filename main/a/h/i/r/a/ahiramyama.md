@@ -5,7 +5,7 @@ title = "अहिरण्यमदासीकं गृहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिरण्यमदासीकं गृहं गोरसवर्जितम्।  
 प्रतिकूलकलत्रं च नरकस्यापरो विधिः॥

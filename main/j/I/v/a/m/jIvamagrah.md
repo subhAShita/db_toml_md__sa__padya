@@ -6,7 +6,7 @@ title = "जीवनग्रहणे नम्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवनग्रहणे नम्रा गृहीत्वा पुनरुन्नताः।  
 किं कनिष्ठाः किमु ज्येष्ठा घटीयन्त्रस्य दुर्जनाः॥

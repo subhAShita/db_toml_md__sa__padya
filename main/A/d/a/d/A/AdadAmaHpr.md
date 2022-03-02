@@ -5,7 +5,7 @@ title = "आददानः प्रतिदिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आददानः प्रतिदिनं कलाः सम्यङ् महीपतिः।  
 शुक्लपक्षे प्रविचरन् शशाङ्क इव वर्द्धते॥

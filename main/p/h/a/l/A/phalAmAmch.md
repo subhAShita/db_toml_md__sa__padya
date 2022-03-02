@@ -6,7 +6,7 @@ title = "फलानां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फलानां च दलानां च सन्तु ते ते विवेकिनः।  
 मकरन्दविशेषज्ञो मिलिन्दमपहाय कः॥

@@ -6,7 +6,7 @@ title = "सदागतिहयोच्छ्रायस्तमसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदागतिहयोच्छ्रायस्तमसो वश्यतां गतः।  
 अस्तमेष्यति दीपोऽयं विधुरेकः शिवे स्थितः॥

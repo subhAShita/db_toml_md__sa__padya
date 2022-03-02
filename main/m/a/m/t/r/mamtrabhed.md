@@ -6,7 +6,7 @@ title = "मन्त्रभेदेऽपि ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्त्रभेदेऽपि ये दोषा भवन्ति पृथिवीपतेः।  
 न शक्यास्ते समाधात्तुमिति नीतिविदां मतम्॥

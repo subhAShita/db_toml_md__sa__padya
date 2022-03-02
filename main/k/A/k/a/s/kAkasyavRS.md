@@ -5,7 +5,7 @@ title = "काकस्य वृष्टिहेतोर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकस्य वृष्टिहेतोर् नीडं दिक्षु प्रशस्यते तिसृषु।  
 दुर्भिक्षमरणहेतुर् भवति सयाम्येषु कोणेषु॥

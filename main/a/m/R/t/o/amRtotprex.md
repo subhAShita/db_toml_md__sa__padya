@@ -5,7 +5,7 @@ title = "अमृतोत्प्रेक्षणे चारुर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतोत्प्रेक्षणे चारुर् अशेषजनसज्जनः।  
 कविर्गरुडवन्मान्य इन्द्रवज्रादिवृत्तकृत्॥

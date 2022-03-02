@@ -6,7 +6,7 @@ title = "हस्ती चाङ्कुशहस्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हस्ती चाङ्कुशहस्तेन कशाहस्तेन वाजिनः।  
 शृङ्गी लगुडहस्तेन खड्गहस्तेन दुर्जनः॥

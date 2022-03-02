@@ -7,7 +7,7 @@ title = "न्यञ्चति वयसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न्यञ्चति वयसि प्रथमे समुदञ्चति तरुणिमनि सुदृशः।  
 दधति स्म मधुरिमाणं वाचो गतयश्च विभ्रमाश्च भृशम्॥

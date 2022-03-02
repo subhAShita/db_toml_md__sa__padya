@@ -6,7 +6,7 @@ title = "नाजारजः पितृद्वेषी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाजारजः पितृद्वेषी नाजारा भर्तृवैरिणी।  
 नालम्पटोऽधिकारी स्यान्नाकामी मण्डनप्रियः॥

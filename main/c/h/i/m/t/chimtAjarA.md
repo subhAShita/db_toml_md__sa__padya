@@ -6,7 +6,7 @@ title = "चिन्ता जरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चिन्ता जरा मनुष्याणामनध्वा वाजिनां जरा।  
 असम्भोगो जरा स्त्रीणां वस्त्राणामातपो जरा॥

@@ -6,7 +6,7 @@ title = "सूक्ष्माय शुचये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सूक्ष्माय शुचये तस्मै नमो वाक्तत्त्वतन्तवे।  
 विचित्रो यस्य विन्यासो विदधाति जगत्पटम्॥

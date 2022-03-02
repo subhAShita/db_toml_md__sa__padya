@@ -6,7 +6,7 @@ title = "कुदेशं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुदेशं च कुवृत्तिं च कुभार्यां कुनदीं तथा।  
 कुद्रव्यं च कुभोज्यं च वर्जयेत्तु विचक्षणः॥

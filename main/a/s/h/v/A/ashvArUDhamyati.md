@@ -5,7 +5,7 @@ title = "अश्वारूढं यतिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्वारूढं यतिं दृष्ट्वा खट्वारूढां रजस्वलाम्।  
 सकेशां विधवां दृष्ट्वा सचैलं स्नानमाचरेत्॥

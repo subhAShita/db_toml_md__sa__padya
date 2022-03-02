@@ -6,7 +6,7 @@ title = "मन्त्रबीजमिदं गुप्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्त्रबीजमिदं गुप्तं रक्षणीयं यथा तथा।  
 मनागपि न भिद्येत तद्भिन्नं न प्ररोहति॥

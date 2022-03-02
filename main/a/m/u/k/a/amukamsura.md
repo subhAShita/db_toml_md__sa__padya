@@ -5,7 +5,7 @@ title = "अणुकं सुरतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अणुकं सुरतं नाम दंपत्योः पार्श्वसंस्थयोः।  
 जायन्ते निबिडाश्लेषाः समीभूतशरीरयोः॥

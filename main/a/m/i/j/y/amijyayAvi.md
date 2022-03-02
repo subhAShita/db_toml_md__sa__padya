@@ -5,7 +5,7 @@ title = "अनिज्यया विवाहैश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिज्यया विवाहैश्च वेदस्योत्सादनेन च।  
 कुलान्यकुलतां यान्ति धर्मस्यातिक्रमेण च॥

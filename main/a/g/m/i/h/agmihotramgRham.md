@@ -6,7 +6,7 @@ title = "अग्निहोत्रं गृहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निहोत्रं गृहं क्षेत्रं मित्त्रं भार्यां सुतं शिशुम्।  
 रिक्तपाणिर्न पश्येत राजानं देवतां गुरुम्॥

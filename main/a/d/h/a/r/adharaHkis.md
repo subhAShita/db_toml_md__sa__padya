@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1048", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 8",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधरः किसलयरागः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरः किसलयरागः कोमलविटपानुकारिणौ बाहू।  
 कुसुममिव लोभनीयं यौवनमङ्गेषु संनद्धम्॥

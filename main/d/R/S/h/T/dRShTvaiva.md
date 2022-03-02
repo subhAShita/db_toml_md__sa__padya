@@ -6,7 +6,7 @@ title = "दृष्ट्वैव विकृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृष्ट्वैव विकृतं कायं वायुस्पर्शविवर्जितम्।  
 ये तु निर्व्याजमासक्तास्तेभ्योऽपि बिभिमो वयम्॥

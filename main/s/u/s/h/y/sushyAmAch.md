@@ -6,7 +6,7 @@ title = "सुश्यामा चन्दनवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुश्यामा चन्दनवती कान्ता तिलकभूषिता।  
 कस्यैषानङ्गभूः प्रीतिं भुजङ्गस्य करोति न॥

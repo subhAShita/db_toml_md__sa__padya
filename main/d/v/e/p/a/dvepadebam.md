@@ -6,7 +6,7 @@ title = "द्वे पदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वे पदे बन्धमोक्षाय  
 न ममेति ममेति च।  

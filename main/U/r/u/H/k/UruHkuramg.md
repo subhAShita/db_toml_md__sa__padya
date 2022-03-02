@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7293", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २८ ऊरू// 390",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "ऊरू",]
 rasas = [ "शृङ्गारः",]
-title = "ऊरुः"
+jsonClass = "Subhaashita"
+title = "ऊरुः कुरङ्गदृशश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊरुः कुरङ्गदृशश् चञ्चलचेलाञ्चलो भाति।  
 सपताकः कनकमयो विजयस्तम्भः स्मरस्येव॥

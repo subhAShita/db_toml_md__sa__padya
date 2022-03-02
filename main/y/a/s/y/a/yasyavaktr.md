@@ -6,7 +6,7 @@ title = "यस्य वक्त्रकुहरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य वक्त्रकुहरे सुभाषितं नास्ति नाप्यवसरे प्रजल्पति।   
 आगतः सदसि धीमतामसौ लेप्यनिर्मित इवावभासते॥

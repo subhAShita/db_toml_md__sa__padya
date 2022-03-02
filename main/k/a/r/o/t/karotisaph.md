@@ -5,7 +5,7 @@ title = "करोति सफलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 करोति सफलं जन्तोः कर्म यच्च करोति सः॥

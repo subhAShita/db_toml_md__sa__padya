@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3025", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 31",]
-jsonClass = "Subhaashita"
 topics = [ "काव्यम्",]
+jsonClass = "Subhaashita"
 title = "अर्थो गिरामपिहितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थो गिरामपिहितः पिहितश्च कश्चित् सौभाग्यमेति मरहट्टवधूकुचाभः।  
 नान्ध्रीपयोधर इवातितरां प्रकाशो नो गुर्जरीस्तन इवातितरां निगूढः॥

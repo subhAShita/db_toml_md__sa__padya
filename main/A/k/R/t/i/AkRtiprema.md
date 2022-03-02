@@ -5,7 +5,7 @@ title = "आकृतिप्रेमसरसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकृतिप्रेमसरसा विलासालसगामिनी।  
 विसारे हन्त संसारे सारं सारङ्गलोचना॥

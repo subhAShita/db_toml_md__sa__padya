@@ -6,7 +6,7 @@ title = "स्पृहयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्पृहयति भुजयोरन्तरमायतकरवालकररुहविदीर्णम्।  
 विजयश्रीर्वीराणां व्युत्पन्नप्रौढवनितेव॥

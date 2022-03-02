@@ -7,7 +7,7 @@ title = "कुतः कुवलयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुतः कुवलयं कर्णे करोषि कलभाषिणि।  
 किमपाङ्गमपर्याप्तमस्मिन्कर्मणि मन्यसे॥

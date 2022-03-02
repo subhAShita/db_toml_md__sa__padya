@@ -7,7 +7,7 @@ title = "साक्षादभूत्स्वयम्भूरथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साक्षादभूत्स्वयम्भूरथ मुक्तास्तिमिरनिकरभराः।  
 प्रणनाम शीतरोचिस्तवपाठं मेखला विदधे॥

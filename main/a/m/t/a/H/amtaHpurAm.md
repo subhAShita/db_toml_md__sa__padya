@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1592", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १७ राजसेवकः// 3",]
-jsonClass = "Subhaashita"
 topics = [ "राजसेवकः",]
+jsonClass = "Subhaashita"
 title = "अन्तःपुराणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःपुराणां विहितव्यवस्थः पदे पदेऽहं स्खलितानि रक्षन्।  
 जरातुरः संप्रति दण्डनीत्या सर्वं नृपस्यानुकरोमि वृत्तम्॥

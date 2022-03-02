@@ -6,7 +6,7 @@ title = "को हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को हि तुलामधिरोहति शुचिना दुग्धेन सहजमधुरेण।  
 तप्तं विकृतं मथितं तथापि यत्स्नेहमुद्गिरति॥

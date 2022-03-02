@@ -6,7 +6,7 @@ title = "न वेदान्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न वेदान्ते गाधा न च परिचितं शब्दशास्त्रं  
 न वा तर्के वेदे न च सरसता काव्यनिवहे ।  

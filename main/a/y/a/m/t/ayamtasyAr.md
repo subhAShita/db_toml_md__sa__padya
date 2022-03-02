@@ -5,7 +5,7 @@ title = "अयं तस्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं तस्या रथक्षोभाद् अंसेनांसो निपीडितः।  
 एकः कृती शरीरेऽस्मिञ् शेषमङ्गं भुवो भरः॥

@@ -6,7 +6,7 @@ title = "पत्तिः पत्तिमभीयाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पत्तिः पत्तिमभीयाय रणाय रथिनं रथी।  
 तुरङ्गस्थं तुरङ्गस्थो दन्तिस्थं दन्तिनि स्थितः॥

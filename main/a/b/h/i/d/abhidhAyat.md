@@ -5,7 +5,7 @@ title = "अभिधाय तदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिधाय तदा तदप्रियं शिशुपालोऽनुशयं परं गतः।  
 भवतोऽभिमनाः समीहते सरुषः कर्तुमुपेत्य माननाम्॥

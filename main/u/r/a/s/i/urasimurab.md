@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7227", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 96",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "उरसि मुरभिदः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उरसि मुरभिदः का गाढमालिङ्गितास्ते सरसिजमकरन्दामोदिता नन्दने का।  
 गिरिसमलघुवर्णैरर्णवाख्यातिसंख्यैर् गुरुभिरपि कृता का छन्दसां वृत्तिरस्ति॥

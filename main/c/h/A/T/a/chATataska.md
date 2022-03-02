@@ -6,7 +6,7 @@ title = "चाटतस्करदुर्वृत्तैस्तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चाटतस्करदुर्वृत्तैस्तथा साहसिकादिभिः।  
 पीड्यमानाः प्रजा रक्ष्याः कूटच्छद्मादिभिस्तथा॥

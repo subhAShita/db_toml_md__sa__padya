@@ -6,7 +6,7 @@ title = "शूराश्च कृतविद्याश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शूराश्च कृतविद्याश्च रूपवत्यश्च योषितः।  
 यत्र यत्र गमिष्यन्ति तत्र तत्र कृतादराः॥

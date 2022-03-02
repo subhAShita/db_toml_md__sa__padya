@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5717", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 61",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आहिते नु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहिते नु मधुना मधुरत्वे चेष्टितस्य गमिते नु विकासम्।  
 आबभौ नव इवोद्धतरागः कामिनीष्ववसरः कुसुमेषोः॥

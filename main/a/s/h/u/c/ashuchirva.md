@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3500", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०१ राजा// 10",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
-title = "अशुचिर्वचनाद्यस्य"
+jsonClass = "Subhaashita"
+title = "अशुचिर्वचनाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशुचिर्वचनाद् यस्यशुचिर्भवति पूरुषः।  
 शुचिश्चैवाशुचिः सद्यः कथं राजा न दैवतम्॥

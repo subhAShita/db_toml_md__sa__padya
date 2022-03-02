@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9920", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 11",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "काव्यमय्यो गिरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यमय्यो गिरो यावच् चरन्ति विशदा भुवि।  
 तावत् सारस्वतं स्थानं कविरासाद्य मोदते॥

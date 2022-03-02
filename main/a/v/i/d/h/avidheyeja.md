@@ -5,7 +5,7 @@ title = "अविधेये जने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविधेये जने पुंसां कोपः किमुपजायते।  
 विधेयेऽपि च कः कोपस् तन्निवेशितजीविते॥

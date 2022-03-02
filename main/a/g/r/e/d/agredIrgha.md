@@ -6,7 +6,7 @@ title = "अग्रे दीर्घतरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्रे दीर्घतरो ऽयमर्जुनतरुस्तस्याग्रतो वर्तनी  
 सा घोषं समुपैति तत्परिसरे देशे कलिन्दात्मजा।  

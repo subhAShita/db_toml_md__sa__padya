@@ -5,7 +5,7 @@ title = "असिधारां विषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असिधारां विषं वह्निं समत्वे यः प्रपश्यति।  
 मालासुधातुषाराणां स योगी कथ्यते बुधैः॥

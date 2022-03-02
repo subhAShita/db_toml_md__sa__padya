@@ -5,7 +5,7 @@ title = "इदमन्तरमुपकृतये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमन्तरमुपकृतये प्रकृतिचला यावदर्थिसंपदियम्।  
 विपदि नियतोदयायां पुनरुपकर्तुं कुतोऽवसरः॥

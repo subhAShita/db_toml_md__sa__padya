@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2293", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 8",]
-jsonClass = "Subhaashita"
 topics = [ "गणेशः",]
-title = "अभिप्रेतार्थसिद्ध्य्अर्थम्"
+jsonClass = "Subhaashita"
+title = "अभिप्रेतार्थसिद्ध्यर्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिप्रेतार्थसिद्ध्यर्थं पूजितो यः सुरैरपि।  
 सर्वविघ्नच्छिदे तस्मै गणाधिपतये नमः॥

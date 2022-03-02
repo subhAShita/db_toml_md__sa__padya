@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8429", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 159",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
-title = "कतिपयदिनपरमायुषि"
+jsonClass = "Subhaashita"
+title = "कतिपयदिवसस्थायिनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कतिपयदिवसस्थायिनि मदकारिणि यौवने दुरात्मानः।  
 विदधति तथापराधं जन्मैव यथा वृथा भवति॥

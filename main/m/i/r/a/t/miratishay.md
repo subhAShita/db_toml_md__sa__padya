@@ -6,7 +6,7 @@ title = "निरतिशयं गरिमाणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निरतिशयं गरिमाणं तेन जनन्याः स्मरन्ति विद्वांसः।  
 यत्कमपि वहति गर्भं महतामपि यो गुरुर्भवति॥

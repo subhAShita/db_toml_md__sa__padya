@@ -6,7 +6,7 @@ title = "हस्तादपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हस्तादपि न दातव्यं गृहादपि न दीयते।  
 परोपकरणार्थाय वचने किं दरिद्रता॥

@@ -6,7 +6,7 @@ title = "परिमलसुरभितनभसो बहवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिमलसुरभितनभसो बहवः कनकाद्रिपरिसरे तरवः।  
 तदपि सुराणां चेतसि निवसितमिव पारिजातेन॥

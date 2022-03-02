@@ -5,7 +5,7 @@ title = "अतिजीवति वित्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिजीवति वित्तेन सुखं जीवति विद्यया।  
 किंचिज्जीवति शिल्पेन ऋते कर्म न जीवति॥

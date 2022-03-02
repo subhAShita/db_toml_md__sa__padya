@@ -6,7 +6,7 @@ title = "नालसाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नालसाः प्राप्नुवन्त्यर्थान्न शठा न च मायिनः।  
 न च लोकरवाद्भीता न च शश्वत्प्रतीक्षिणः॥

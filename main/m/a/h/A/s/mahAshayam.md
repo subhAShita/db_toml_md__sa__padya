@@ -6,7 +6,7 @@ title = "महाशयमतिस्वच्छं नीरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महाशयमतिस्वच्छं नीरं सन्तापशान्तये।  
 खलवासादतिश्रान्ताः समाश्रयत हे जनाः॥

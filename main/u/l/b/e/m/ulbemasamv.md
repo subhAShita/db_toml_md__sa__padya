@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7249", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०३ गर्भवासप्रयुक्तं दुःखम्// 140",]
-jsonClass = "Subhaashita"
 topics = [ "जन्म", "गर्भवासः",]
-title = "उल्बेन"
+jsonClass = "Subhaashita"
+title = "उल्बेन संवृतस्तस्मिन्न्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उल्बेन संवृतस्तस्मिन्न् आर्द्रैश्च बहिरावृतः।  
 आस्ते कृत्वा शिरः कुक्षौ भुग्नपृष्ठशिरोधरः॥

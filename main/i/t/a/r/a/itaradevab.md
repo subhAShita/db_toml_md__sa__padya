@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5780", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 218",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "इतरदेव बहिर्मुखमुच्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतरदेव बहिर्मुखमुच्यते हृदि तु यत् स्फुरतीतरदेव तत्।  
 चरितमेतदधीरवितारकं धुरि पयःप्रतिबिम्बमिवासताम्॥

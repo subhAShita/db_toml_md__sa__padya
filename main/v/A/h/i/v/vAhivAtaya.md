@@ -7,7 +7,7 @@ title = "वाहि वात"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाहि वात यतः कान्ता तां स्पृष्ट्वा मामपि स्पृश ।  
 त्वयि मे गात्रसंस्पर्शश् चन्द्रे दृष्टिसमागमः ॥

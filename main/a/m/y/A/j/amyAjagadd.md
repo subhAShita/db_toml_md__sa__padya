@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1786", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०८ पण्डितप्रशंसा// 25",]
-jsonClass = "Subhaashita"
 topics = [ "पण्डितः",]
+jsonClass = "Subhaashita"
 title = "अन्या जगद्धितमयी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्या जगद्धितमयी मनसः प्रवृत्तिर् अन्यैव कापि रचना वचनावलीनाम्।  
 लोकोत्तरा च कृटिराकृतिरार्तहृद्या विद्यावतां सकलमेव गिरां दवीयः॥

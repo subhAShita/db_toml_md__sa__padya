@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8129", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०२ मध्याह्नः// 33",]
-jsonClass = "Subhaashita"
 topics = [ "मध्याह्नः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एष सूर्यांशुसन्तप्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष सूर्यांशुसंतप्तो मृगः कुतरुमाश्रितः।  
 साधुर्भाग्यपरिक्षीणो नीचं प्राप्येव सीदति॥

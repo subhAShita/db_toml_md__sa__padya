@@ -6,7 +6,7 @@ title = "राजन्नवघनश्याम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजन्नवघनश्याम निस्त्रिंशाकर्ष दुर्जय।  
 आकल्पं वसुधामेतां विद्विषोद्य रणे बहून्॥

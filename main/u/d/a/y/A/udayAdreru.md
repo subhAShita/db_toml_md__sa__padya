@@ -5,7 +5,7 @@ title = "उदयाद्रेरुड्डीनो दिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयाद्रेरुड्डीनो दिनं भ्रमित्वा पत गोऽयम्।  
 अद्य प्रदोषसमये वडवाज्वलने जुहोति देहं स्वम्॥

@@ -7,7 +7,7 @@ title = "न च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न च मेऽवगच्छति यथा लघुतां करुणां यथा च कुरुते स मयि।  
 निपुणं तथैनमवगम्य वदेरभिदूति काचिदिति सन्दिदिशे॥

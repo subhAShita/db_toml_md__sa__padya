@@ -5,7 +5,7 @@ title = "एक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एव हि भूतात्मा भूते भूते व्यवस्थितः।  
 एकधा बहुधा चैव दृश्यते जलचन्द्रवत्॥

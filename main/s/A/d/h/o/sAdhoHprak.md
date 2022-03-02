@@ -6,7 +6,7 @@ title = "साधोः प्रकोपितस्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधोः प्रकोपितस्यापि मनो नायाति विक्रियाम्।  
 नहि तापयितुं शक्यं सागराम्भस्तृणोल्कया॥

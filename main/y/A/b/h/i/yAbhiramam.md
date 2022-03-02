@@ -7,7 +7,7 @@ title = "याभिरनङ्गः साङ्गीकृतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 याभिरनङ्गः साङ्गीकृतः स्त्रियोऽस्त्रीकृताश्च ता येन।  
 वामाचरणप्रवणौ प्रणमत तौ कामिनीकामौ॥

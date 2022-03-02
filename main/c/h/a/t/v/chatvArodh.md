@@ -6,7 +6,7 @@ title = "चत्वारो धनदायादा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चत्वारो धनदायादा धर्माग्निनृपतस्कराः।  
 तेषां ज्येष्ठावमानेन त्रयः कुप्यन्ति बान्धवाः॥

@@ -7,7 +7,7 @@ title = "साहजिकरूपवत्या भवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साहजिकरूपवत्या भवति भवत्या विभूषणं भारः।  
 सर्वाङ्गसौरभिण्या दमनकवल्ल्याः किमालि कुसुमेन॥

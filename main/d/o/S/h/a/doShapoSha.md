@@ -6,7 +6,7 @@ title = "दोषपोषमभियाति परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषपोषमभियाति परं यो बाधमेति बहुसज्जनयोगात्।  
 संमतौ विमतिमात्रसहायो दुर्जनो भ्रम इवातिचकास्ति॥

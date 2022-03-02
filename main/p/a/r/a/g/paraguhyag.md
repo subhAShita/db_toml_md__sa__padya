@@ -6,7 +6,7 @@ title = "परगुह्यगुप्तिनिपुणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परगुह्यगुप्तिनिपुणं गुणमयमखिलैः समीहितं नितराम्।  
 ललिताम्बरमिव सज्जनमाखव इव दूषयन्ति खलाः॥

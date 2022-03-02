@@ -6,7 +6,7 @@ title = "येषु येषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येषु येषु दृढं बद्धा भावना दृष्टवस्तुषु।  
 तानि तानि विनष्टानि दृष्टानि किमिहोत्तमम्॥

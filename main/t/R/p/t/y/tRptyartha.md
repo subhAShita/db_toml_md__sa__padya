@@ -6,7 +6,7 @@ title = "तृप्त्यर्थं भोजनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृप्त्यर्थं भोजनं येषां सन्तानार्थं च मैथुनम्।  
 वाक्सत्यवचनार्थाय दुर्गाण्यतितरन्ति ते॥

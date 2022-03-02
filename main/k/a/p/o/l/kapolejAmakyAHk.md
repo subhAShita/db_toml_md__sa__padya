@@ -6,7 +6,7 @@ title = "कपोले जानक्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपोले जानक्याः करिकलभदन्तद्युतिमुषि स्मरस्मेरं गण्डोड्डमरपुलकं जटाजूटग्रन्थिं द्रढयसि रघूणां परिवृढः॥
 </details>

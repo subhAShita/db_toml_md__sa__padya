@@ -7,7 +7,7 @@ title = "त्वमिव पथिक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वमिव पथिक प्रियो मे विटपिस्तोमेषु गमयति क्लेशान्।  
 किमितोऽन्यत्कुशलं मे सम्प्रति यत्पान्थ जीवामि॥

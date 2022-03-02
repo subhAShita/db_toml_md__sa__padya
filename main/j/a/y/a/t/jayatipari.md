@@ -6,7 +6,7 @@ title = "जयति परिमुषितलक्ष्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयति परिमुषितलक्ष्मा भयादनुपसर्पतेव हरिणेन।  
 इह केसरिकरजाङ्कुरकुटिला हरमौलिविधुलेखा॥

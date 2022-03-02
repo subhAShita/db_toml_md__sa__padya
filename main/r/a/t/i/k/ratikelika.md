@@ -7,7 +7,7 @@ title = "रतिकेलिकलः कश्चिदेष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रतिकेलिकलः कश्चिदेष मन्मथमन्थरः।  
 पश्य सुभ्रु समाश्वस्तां कादम्बश्चुम्बति प्रियाम्॥

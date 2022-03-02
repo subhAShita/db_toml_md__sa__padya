@@ -6,7 +6,7 @@ title = "स्वयं कर्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वयं कर्म करोत्यात्मा स्वयं तत्फलमश्नुते।  
 स्वयं भ्रमति संसारे स्वयं तस्माद्विमुच्यते॥

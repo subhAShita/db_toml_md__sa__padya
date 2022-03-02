@@ -7,7 +7,7 @@ title = "मधुरया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुरया मधुबोधितमाधवीमधुसमृद्धिसमेधितमेधया।  
 मधुकराङ्गनया मुहुरुन्मदध्वनिभृता निभृताक्षरमुज्जगे॥

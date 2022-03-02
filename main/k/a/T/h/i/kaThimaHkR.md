@@ -5,7 +5,7 @@ title = "कठिनः कृशमूलश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कठिनः कृशमूलश्च दुर्लभो दक्षिणेतरः।  
 कश्चित् कल्याणगोत्रोऽपि मनुष्यैर्नोपजीव्यते॥

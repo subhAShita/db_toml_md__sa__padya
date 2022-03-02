@@ -6,7 +6,7 @@ title = "शत्रोः प्राणानिलाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शत्रोः प्राणानिलाः पञ्च वयं दश जयोऽत्र कः।  
 इति कोपादिवाताम्राः पान्तु वो नृहरेर्नखाः॥

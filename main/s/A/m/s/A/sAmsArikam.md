@@ -6,7 +6,7 @@ title = "सांसारिकमुखासक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सांसारिकमुखासक्तं ब्रह्मज्ञोऽस्मीति वादिनम्।  
 कर्मब्रह्मोभयभ्रष्टं तं त्यजेदन्त्यजं यथा॥

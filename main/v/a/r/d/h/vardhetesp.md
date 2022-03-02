@@ -6,7 +6,7 @@ title = "वर्धेते स्पर्धयेवोभौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्धेते स्पर्धयेवोभौ संपदा शतशाखया।  
 अङ्कुरोऽवस्करोद्भूतः पुरुषश्चाकुलोद्भवः॥

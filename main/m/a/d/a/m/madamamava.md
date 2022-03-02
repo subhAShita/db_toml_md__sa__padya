@@ -6,7 +6,7 @@ title = "मदनमवलोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मदनमवलोक्य निष्फलमनित्यतां बन्धुजीवकुसुमानाम्।  
 वनमुपगम्य भ्रमरः सम्प्रति जातो जपासक्तः।॥

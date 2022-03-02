@@ -6,7 +6,7 @@ title = "पात्रापात्रविवेकोऽस्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पात्रापात्रविवेकोऽस्ति धेनुपन्नगयोरिव।  
 तृणात्सञ्जायते क्षीरं क्षीरात्सञ्जायते विषम्॥

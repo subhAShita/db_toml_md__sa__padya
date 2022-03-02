@@ -6,7 +6,7 @@ title = "असार एष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असार एष संसारः सारं सारङ्गलोचनाः।  
 तदर्थं धनमिच्छन्ति तत्त्यागे तु धनेन किम्॥

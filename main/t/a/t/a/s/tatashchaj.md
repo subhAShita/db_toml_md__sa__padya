@@ -6,7 +6,7 @@ title = "ततश्च जीवनोपायो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ततश्च जीवनोपायो ब्राह्मणैर्विहितस्त्विह ।  
 मृतानां प्रेतकार्याणि न त्वन्यद्विद्यते क्वचित्‌ ॥

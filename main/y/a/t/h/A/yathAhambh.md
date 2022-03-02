@@ -7,7 +7,7 @@ title = "यथाऽहं भवता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथाऽहं भवता सृष्टो जात्या रूपेण चेश्वरः ।  
 स्वभावेन च संयुक्तस्तथेदं चेष्टितं मया ॥

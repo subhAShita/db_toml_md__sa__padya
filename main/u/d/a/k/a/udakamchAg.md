@@ -5,7 +5,7 @@ title = "उदकं चाग्निसंसृष्टकुम्भस"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदकं चाग्निसंसृष्टकुम्भस गाद्यथैव हि।  
 उद्वेगोद्वर्तनादौष्ण्यं भजते तद्वदेव हि॥

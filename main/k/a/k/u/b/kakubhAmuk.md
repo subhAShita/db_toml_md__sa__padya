@@ -5,7 +5,7 @@ title = "ककुभां मुखानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ककुभां मुखानि सहसोज्ज्वलयन् दधदाकुलत्वमधिकं रतये।  
 अदिदीपदिन्दुरपरो दहनः कुसुमेषुमत्रिनयनप्रभवः॥

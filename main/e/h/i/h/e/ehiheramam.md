@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8180", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०३ कर्मगुप्तम्// 28",]
-jsonClass = "Subhaashita"
 types = [ "कर्मगुप्तम्",]
+jsonClass = "Subhaashita"
 title = "एहि हे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एहि हे रमणि पश्य कौतुकं धूलिधूसरतनुं दिगम्बरम्।  
 सापि तद्वदनपङ्कजं पपौ भ्रातरुक्तमपि किं न बुघ्यते॥

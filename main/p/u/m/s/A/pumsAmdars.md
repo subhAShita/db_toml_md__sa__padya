@@ -7,7 +7,7 @@ title = "पुंसां दर्शय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुंसां दर्शय सुन्दरि मुखेन्दुमीषत्त्रपामपाकृत्य।  
 जायाजित इति रूढा जनश्रुतिर्मे यशो भवतु॥

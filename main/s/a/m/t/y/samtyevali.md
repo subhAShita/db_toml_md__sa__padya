@@ -6,7 +6,7 @@ title = "सन्त्येव लिखिताकाशा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्त्येव लिखिताकाशा महीयांसो महीरुहः।  
 तथापि जनताचित्तानन्दनश्चन्दनद्रुमः॥

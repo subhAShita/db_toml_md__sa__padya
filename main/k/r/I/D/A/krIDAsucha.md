@@ -6,7 +6,7 @@ title = "क्रीडासु च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्रीडासु च नरेन्द्राणां जले पुष्पितपङ्कजे।  
 स्नपयन्ति गजा हस्तैर्लग्नपुष्करपुष्करैः॥

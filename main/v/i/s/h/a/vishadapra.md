@@ -7,7 +7,7 @@ title = "विशदप्रभापरिगतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विशदप्रभापरिगतं विबभावुदयाचलव्यवहितेन्दुवपुः।  
 मुखमप्रकाशदशनं शनकैः सविलासहासमिव शक्रदिशः॥

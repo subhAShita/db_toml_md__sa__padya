@@ -6,7 +6,7 @@ title = "सुव्यवसायिनि शूरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुव्यवसायिनि शूरे क्लेशसहिष्णावनाकुलारम्भे।  
 मयि पृष्ठतो विलग्ने यास्यसि कमले वियद्दूरम्॥

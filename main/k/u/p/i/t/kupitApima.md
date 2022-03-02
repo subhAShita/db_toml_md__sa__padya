@@ -7,7 +7,7 @@ title = "कुपितापि मनःपतिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुपितापि मनःपतिना सह का सहकारविलोकनजातरसा।  
 तरसा रमते स्म न हा रमणी रमणीयतनुः सुतनुः सुरभौ॥

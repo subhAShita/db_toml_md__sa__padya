@@ -6,7 +6,7 @@ title = "रात्रौ रवेर्दिवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रात्रौ रवेर्दिवा चेन्दोरभावादिव स प्रभुः।  
 भूमौ प्रतापयशसी सृष्टवान्सततोदिते॥

@@ -6,7 +6,7 @@ title = "सोमकान्तो मणिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सोमकान्तो मणिः स्वच्छः सूर्यकान्तस्तथा न किम्।  
 उद्गारे तु विशेषोऽस्ति तयोरमृतवह्नयः॥

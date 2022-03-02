@@ -6,7 +6,7 @@ title = "जीवितं तदपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवितं तदपि जीवितमध्ये गण्यते सुकृतिभिः किमु पुंसाम्।  
 ज्ञानविक्रमकलाकुललज्जात्यागभोगरहितं विफलं यत्॥

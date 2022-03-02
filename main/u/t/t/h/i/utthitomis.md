@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6578", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// १० अधरः// 145",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "अधरः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उत्थितो निशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थितो निशि कलानिधिर्भवेद् एतदीयमुखतुल्यताप्तये।  
 प्रापितो मलिनभावमेतया लज्जया नभसि यात्यदृश्यताम्॥

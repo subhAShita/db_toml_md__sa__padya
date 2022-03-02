@@ -5,7 +5,7 @@ title = "अहं वो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहं वो रक्षितेत्युक्त्वा यो न रक्षति भूमिपः।  
 स संहत्य निहन्तव्यः श्वेव सोन्माद आतुरः॥

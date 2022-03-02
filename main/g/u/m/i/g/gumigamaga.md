@@ -1,13 +1,13 @@
 +++
 topics = [ "कुपण्डितः", "सुजीवनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 26",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
-title = "गुणिगण गणनारम्भे"
+jsonClass = "Subhaashita"
+title = "गुणिगणगणनारम्भे न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणिगणगणनारम्भे न पतति कठिनी सुसंभ्रमाद्यस्य।  
 तेनाम्बा यदि सुतिनी वद वन्ध्या कीदृशी भवति॥

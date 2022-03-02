@@ -6,7 +6,7 @@ title = "पातं जले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातं जले विष्णुपदपदापगायाः पातञ्जले चापि नयेऽवगाहम्।  
 आचक्षते शुद्धिदमा प्रसूतेरा च क्षते रागमधोक्षजे च॥

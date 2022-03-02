@@ -5,7 +5,7 @@ title = "अनुत्सूत्रपदन्यासा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुत्सूत्रपदन्यासा सद्वृत्तिः सन्निबन्धना।  
 शब्दविद्येव नो भाति राजनीतिरपस्पशा॥

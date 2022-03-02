@@ -7,7 +7,7 @@ title = "राकायामकलङ्कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राकायामकलङ्कं चेदमृतांशोर्भवेद्वपुः।  
 तस्या मुखं तदा साम्यपराभवमवाप्नुयात्॥

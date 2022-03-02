@@ -7,7 +7,7 @@ title = "यस्य भार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य भार्या शुचिर्दक्षा भर्तारमनुगामिनी।  
 नित्यं मधुरवक्त्री च सा रमा न रमा रमा॥

@@ -6,7 +6,7 @@ title = "पृष्ठतः सेवयेदर्कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृष्ठतः सेवयेदर्कं जठरेण हुताशनम्।  
 स्वामिनं सर्वभावेन परलोकममायया॥

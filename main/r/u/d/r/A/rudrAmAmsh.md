@@ -7,7 +7,7 @@ title = "रुद्राणां शङ्करश्चास्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम्।  
 वसूनां पावकश्चास्मि मेरुः शिखरिणामहम्॥

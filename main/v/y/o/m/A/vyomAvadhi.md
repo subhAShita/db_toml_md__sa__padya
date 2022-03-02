@@ -7,7 +7,7 @@ title = "व्योमावधिरयं नूनमयमेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्योमावधिरयं नूनमयमेव भुवोऽवधिः।  
 अपामवधिरेवायमिति को दर्दुरं विना॥

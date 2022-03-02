@@ -6,7 +6,7 @@ title = "क्षिप्रमायमनालोच्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षिप्रमायमनालोच्य व्ययानश्च स्ववाञ्छया।  
 परिक्षीयत एवासौ धनी वैश्रवणोपमः॥

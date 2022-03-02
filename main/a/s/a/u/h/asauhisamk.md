@@ -5,7 +5,7 @@ title = "असौ हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असौ हि संकेतसमुत्सुकाभिर् विलासिनीभिर्मदनातुराभिः।  
 सरोषदृष्टः स्फुरिताधराभिर् द्रुतं रविर्भीत इवास्तमेति॥

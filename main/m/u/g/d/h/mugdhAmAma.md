@@ -6,7 +6,7 @@ title = "मुग्धानामबुधानामरसानामथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुग्धानामबुधानामरसानामथ च वीतरागाणाम्।  
 मध्ये भ्रमति हताशा मम कवितैषा चिरकुमारी॥

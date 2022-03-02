@@ -7,7 +7,7 @@ title = "येनास्य पितरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येनास्य पितरो याता येन याताः पितामहाः ।  
 तेन यायात् सतां मार्गं तेन गच्छन्न रिष्यति ॥

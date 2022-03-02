@@ -6,7 +6,7 @@ title = "वृद्धोऽन्धः पतिरेष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 .  
 

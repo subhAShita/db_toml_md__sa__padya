@@ -6,7 +6,7 @@ title = "यद्वीर्यं कूर्मराजस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्वीर्यं कूर्मराजस्य यश्च शेषश्य विक्रमः।  
 पृथिव्या रक्षणे राजन्नेकत्र त्वयि तत्स्थितम्॥

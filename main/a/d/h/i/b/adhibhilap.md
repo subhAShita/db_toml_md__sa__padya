@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1107", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 9",]
-jsonClass = "Subhaashita"
 topics = [ "कुकविः",]
+jsonClass = "Subhaashita"
 title = "अधिभिल्लपल्लिगल्लम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिभिल्लपल्लिगल्लं स्याद्बल्लवपल्लवोऽपि वाचालः।  
 नागरनरवरपरिषदि कस्य मुखादक्षरं क्षरति॥

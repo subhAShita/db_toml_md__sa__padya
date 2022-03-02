@@ -5,7 +5,7 @@ title = "अन्धो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धो हि राजा भवति यस्तु शास्त्रविवर्जितः।  
 अन्धः पश्यति चारेण शास्त्रहीनो न पश्यति॥

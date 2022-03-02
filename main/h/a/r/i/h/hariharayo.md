@@ -7,7 +7,7 @@ title = "हरिहरयोरिह भेदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरिहरयोरिह भेदं  
 कलयति मूढो न वै विद्वान् ।  

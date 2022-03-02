@@ -5,7 +5,7 @@ title = "उत्तानफललुब्धानां वरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तानफललुब्धानां वरं राजोपजीविनः।  
 न तु तत्स्वामिनस्तीव्रपरिक्लेशैः फलन्ति ये॥

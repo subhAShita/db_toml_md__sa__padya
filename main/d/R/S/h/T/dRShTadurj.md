@@ -6,7 +6,7 @@ title = "दृष्टदुर्जनदौरात्म्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृष्टदुर्जनदौरात्म्यः सज्जने रज्यते जनः।  
 आरुह्य पर्वतं पान्थः सानौ निर्वृतिमेत्यलम्॥

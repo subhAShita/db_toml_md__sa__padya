@@ -6,7 +6,7 @@ title = "न सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न सा विद्या न तच्छीलं न तद्दानं न सा कला।  
 अर्थार्थिभिर्न तच्छौर्यं धनिनां यन्न कीर्त्यते॥

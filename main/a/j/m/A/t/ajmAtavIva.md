@@ -5,7 +5,7 @@ title = "अज्ञातवीवधासारतोयसस्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञातवीवधासारतोयसस्यो व्रजेत्तु यः परराष्ट्रं न भूयः स स्वराष्ट्रमधिगच्छति॥
 </details>

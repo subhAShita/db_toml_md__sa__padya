@@ -6,7 +6,7 @@ title = "येन शुक्लीकृता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येन शुक्लीकृता हंसाः शुकाश्च हरितीकृताः।  
 मयूराश्चित्रिता येन स ते वृत्तिं विधास्यति॥

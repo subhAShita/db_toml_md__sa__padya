@@ -6,7 +6,7 @@ title = "नृपाणां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नृपाणां च नराणां च केवलं तुल्यमूर्तिता।  
 आधिक्यं तु क्षमा धैर्यमाज्ञा दानं पराक्रमः॥

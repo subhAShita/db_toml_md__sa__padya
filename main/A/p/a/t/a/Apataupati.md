@@ -5,7 +5,7 @@ title = "आपत्तौ पतितानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपत्तौ पतितानां येषां वृद्धा न सन्ति शास्तारः।  
 ते शोच्या बन्धूनां जीवन्तोऽपीह मृततुल्याः॥

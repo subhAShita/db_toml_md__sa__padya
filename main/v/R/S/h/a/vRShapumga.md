@@ -5,7 +5,7 @@ title = "वृषपुङ्गवलक्ष्माणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृषपुंगवलक्ष्माणं शिखिपावकलोचनम्।  
 ससर्वमङ्गलं नौमि पार्वतीसखमीश्वरम्॥

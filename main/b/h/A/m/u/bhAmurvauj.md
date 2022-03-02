@@ -6,7 +6,7 @@ title = "भानुर्वौ जायते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भानुर्वौ जायते लक्ष्म्या सरस्वत्याथवा मता।  
 अत्र षष्ठीपदं गुप्तं मर्यादा दशवार्षिकी॥

@@ -6,7 +6,7 @@ title = "यदम्बुकणमादाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदम्बुकणमादाय प्राप्तोऽसि जलदोन्नतिम्।  
 तस्योपर्यम्बुधेर्गर्जा मलिनस्योचितैव ते॥

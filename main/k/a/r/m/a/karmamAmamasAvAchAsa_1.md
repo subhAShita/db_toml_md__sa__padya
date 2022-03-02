@@ -5,7 +5,7 @@ title = "कर्मणा मनसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणा मनसा वाचा सर्वभूतेषु सर्वदा।  
 अक्लेशजननं प्रोक्तं त्वहिंसा परमर्षिभिः॥

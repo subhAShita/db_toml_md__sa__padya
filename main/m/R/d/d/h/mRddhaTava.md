@@ -6,7 +6,7 @@ title = "मृद्धटवत्सुखभेद्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृद्धटवत्सुखभेद्यो दुःसंधानश्च दुर्जनो भवति।  
 सुजनस्तु कनकघटवद्दुर्भेद्यश्चाशुसंधेयः॥

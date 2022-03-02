@@ -5,7 +5,7 @@ title = "आसन्नसेवां नृपतेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नसेवां नृपतेः क्रीडाशस्त्राहिपावकैः।  
 कौशलेनातिमहता विनीतः सानुरुध्यते (?)॥

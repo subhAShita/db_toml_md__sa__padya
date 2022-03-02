@@ -7,7 +7,7 @@ title = "न शास्त्रमालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न शास्त्रमालोक्य वदेन्नाचरेन्न जपेदपि ।  
 न पश्येन्नोपदिश्याच्च न कुर्यान् नैव साधयेत् ॥  

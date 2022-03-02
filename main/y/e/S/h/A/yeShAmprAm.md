@@ -6,7 +6,7 @@ title = "येषां प्राणिवधः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येषां प्राणिवधः क्रीडा नर्म मर्मच्छिदो गिरः।  
 कार्यं परोपतापित्वं ते मृत्योरपि मृत्यवः॥

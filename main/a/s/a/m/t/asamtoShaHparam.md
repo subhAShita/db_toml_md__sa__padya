@@ -5,7 +5,7 @@ title = "असन्तोषः परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंतोषः परं पापम् इत्याह भगवान् हरिः।  
 लोभः पापस्य बीजोऽयं मोहो मूलं च तस्य वै।  

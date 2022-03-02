@@ -6,7 +6,7 @@ title = "न परस्यापराधेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न परस्यापराधेन परेषां दण्डमाचरेत्।  
 आत्मनावगतं कृत्वा बध्नीयात्पूजयेच्च वा॥

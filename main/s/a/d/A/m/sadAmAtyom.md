@@ -6,7 +6,7 @@ title = "सदामात्यो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदामात्यो न सिद्धः स्यात्समृद्धः सर्व एव हि।  
 सिद्धानामयमादेशः ऋद्धिश्चित्तविकारिणी॥

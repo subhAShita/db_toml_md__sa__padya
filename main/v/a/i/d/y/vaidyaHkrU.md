@@ -6,7 +6,7 @@ title = "वैद्यः क्रूरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैद्यः क्रूरो यमः क्रूरो वैद्यः क्रूरो यमादपि।  
 यमो हरत्यसूनेव वैद्यस्तु सवसूनसून्॥

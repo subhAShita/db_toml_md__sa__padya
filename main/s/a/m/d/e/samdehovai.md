@@ -6,7 +6,7 @@ title = "सन्देहो वैष्णवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्देहो वैष्णवे मार्गे न कार्योऽन्यैः कुदर्शनैः।  
 रामप्रभावमद्यापि पयोब्धौ पश्य सेतुना॥

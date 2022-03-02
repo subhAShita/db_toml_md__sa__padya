@@ -6,7 +6,7 @@ title = "त्वमेव चातकाधार"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वमेव चातकाधार इति केषां न गोचरः।  
 धिगम्भोधर तस्यापि कार्पण्योक्तिं प्रतीक्षसे॥

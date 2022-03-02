@@ -6,7 +6,7 @@ title = "पित्रोर्नित्यं प्रियम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पित्रोर्नित्यं प्रियं कुर्यादाचार्यस्य च सर्वदा।  
 तेषु हि त्रिषु तुष्टेषु तपः सर्वं समाप्यते॥

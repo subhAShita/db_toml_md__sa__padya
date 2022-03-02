@@ -5,7 +5,7 @@ title = "आलस्यं मदमोहौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलस्यं मदमोहौ च चापलं गोष्ठिरेव च।  
 स्तब्धता चाभिमानित्वं तथात्यागित्वमेव च।  

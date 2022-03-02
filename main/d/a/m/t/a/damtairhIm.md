@@ -6,7 +6,7 @@ title = "दन्तैर्हीनः शिलाभक्षी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दन्तैर्हीनः शिलाभक्षी निर्जीवो बहुमाषकः।  
 गुणस्यूतिसमृद्धोऽपि परपादेन गच्छति॥

@@ -6,7 +6,7 @@ title = "श्रीमता कथय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रीमता कथय कञ्चुक पूर्वं कानि कानि सुकृतानि कृतानि।  
 जन्म यापयसि येन समस्तं हारहृद्यहृदये हरिणाक्ष्याः॥

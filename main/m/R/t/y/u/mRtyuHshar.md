@@ -6,7 +6,7 @@ title = "मृत्युः शरीरगोप्तारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृत्युः शरीरगोप्तारं धनरक्षं वसुन्धरा।  
 दुश्चारिणी च हसति स्वपतिं पुत्रवत्सलम्॥

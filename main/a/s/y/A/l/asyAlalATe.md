@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4005", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// ०३ तिलकः// 46",]
-jsonClass = "Subhaashita"
 topics = [ "तिलकः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अस्या ललाटे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्या ललाटे रचिता सखीभिर् विभाव्यते चन्दनपत्रलेखा।  
 आपाण्डुरक्षामकपोलभित्ताव् अनङ्गबाणव्रणपट्टिकेव॥

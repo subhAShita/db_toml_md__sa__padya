@@ -7,7 +7,7 @@ title = "चतुर्थमायुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चतुर्थमायुषो भागमुषित्वाऽद्यं गुरौ द्विजाः ।  
 द्वितीयमायुषो भागं कृतदारो गृहे वसेत् ॥

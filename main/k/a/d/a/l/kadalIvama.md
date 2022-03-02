@@ -5,7 +5,7 @@ title = "कदलीवनमध्यस्थो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदलीवनमध्यस्थो वह्निर्मन्दपराक्रमः।  
 अविवेकिजनस्थाने गुणवान् किं करिष्यति॥

@@ -5,7 +5,7 @@ title = "अवश्यं पितुराचारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवश्यं पितुराचारं पुत्रः समनुवर्तते।  
 नहि केतकवृक्षस्य भवत्यामलकीफलम्॥

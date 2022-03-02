@@ -5,7 +5,7 @@ title = "आपदर्थे धनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदर्थे धनं रक्षेच् श्रीमतां कुत आपदः।  
 कदाचिच्चलते लक्ष्मीः संचितं च विनश्यति॥

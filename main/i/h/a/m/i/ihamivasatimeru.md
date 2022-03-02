@@ -7,7 +7,7 @@ title = "इह निवसति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह निवसति मेरुः शेखरः क्ष्माधराणाम्   
 इह विनिहितभाराः सागराः सप्त चान्ये।  

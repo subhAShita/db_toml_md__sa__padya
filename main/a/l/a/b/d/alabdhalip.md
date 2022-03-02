@@ -5,7 +5,7 @@ title = "अलब्धलिप्सा न्यायेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलब्धलिप्सा न्यायेन लब्धस्य च विवर्धनम्।  
 परिवृद्धस्य विधिवत् पात्रे संप्रतिपादनम्॥

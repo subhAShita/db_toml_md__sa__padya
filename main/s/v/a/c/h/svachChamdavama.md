@@ -6,7 +6,7 @@ title = "स्वच्छन्दवनजातेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वच्छन्दवनजातेन शाकेनापि प्रपूर्यते।  
 अस्य दग्धोदरस्यार्थे कः कुर्यात्पातकं महत्॥

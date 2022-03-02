@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8716", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 191",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "करप्रचेयामुत्तुङ्गः"
+jsonClass = "Subhaashita"
+title = "करप्रचेयामुत्तुङ्गप्रभुशक्तिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करप्रचेयामुत्तुङ्गप्रभुशक्तिं प्रथीयसीम्।  
 प्रज्ञाबलबृहन्मूलः फलत्युत्साहपादपः॥

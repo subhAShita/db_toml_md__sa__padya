@@ -5,7 +5,7 @@ title = "एवं सर्वजनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं सर्वजनानां दुःखकरं जठरशिखिनमतिविषमम्।  
 संतोषजलैरमलैः शमयन्ति यतीश्वरा ये ते॥

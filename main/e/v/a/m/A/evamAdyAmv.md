@@ -5,7 +5,7 @@ title = "एवमाद्यान् विजानीयात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमाद्यान् विजानीयात् प्रकाशांल्लोककण्टकान्।  
 विगूढचारिणश्चान्यान् अनार्यानार्यलि गिनः॥

@@ -7,7 +7,7 @@ title = "सङ्गमविरहवितर्के वरमिह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्गमविरहवितर्के वरमिह विरहो न सङ्गमस्तस्याः।  
 सङ्गे सैव तथैका त्रिभुवनमपि तन्मयं विरहे॥

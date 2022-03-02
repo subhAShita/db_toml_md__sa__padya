@@ -6,7 +6,7 @@ title = "तानि तानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तानि तानि कमलानि तज्जलं तानि षट्पदकुलानि ते खगाः।  
 सर्वमेकपद एव विच्युतं पङ्कसेषमचिरादभूत्सरः॥

@@ -6,7 +6,7 @@ title = "त्रयो वेदस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रयो वेदस्य कर्तारो भण्डधूर्तनिशाचराः ।  
 जर्भरीतुर्फरीत्यादि पण्डितानां वचः स्मृतम्‌ ॥  

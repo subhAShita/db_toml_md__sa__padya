@@ -7,7 +7,7 @@ title = "अथ चेत्त्वमिमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि।  
 ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि॥  

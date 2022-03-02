@@ -7,7 +7,7 @@ title = "कर्मभाटकलब्धानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मभाटकलब्धानां पत्नीपुत्रधनौकसाम् ।  
 कालो हि तत्त्वतः स्वामी मिथ्या स्वाम्यभ्रमो नृणाम् ॥

@@ -7,7 +7,7 @@ title = "जननीमुपलभ्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जननीमुपलभ्य यामिनीमधिकस्नेहदशाभिवर्धिताः ।  
 दिवसस्य लयं प्रपेदुषो गृहदीपा मुहुरर्भका इव ॥

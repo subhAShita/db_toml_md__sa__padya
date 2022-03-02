@@ -6,7 +6,7 @@ title = "प्रायः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः सरलचित्तानांजायते विपदागमः।  
 ऋजुर्याति यथा छेदं न वक्रः पादपस्तथा॥

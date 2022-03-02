@@ -6,7 +6,7 @@ title = "नित्यमाचरतः शौचम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नित्यमाचरतः शौचं कुर्वतः पितृतर्पणम्।  
 यस्य नोद्विजते चेतः शास्त्रं तस्य करोति किम्॥

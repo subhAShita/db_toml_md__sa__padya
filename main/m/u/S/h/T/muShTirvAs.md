@@ -7,7 +7,7 @@ title = "मुष्टिर् वासरमल्लस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुष्टिर् वासरमल्लस्य ध्वान्तवैरिविभेधनः।  
 आदित्यश् चक्रदम्पत्योः स्नेहग्रन्थिः पुनातु वः॥

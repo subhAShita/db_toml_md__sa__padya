@@ -5,7 +5,7 @@ title = "काले मृदुर्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले मृदुर्यो भवति काले भवति दारुणः।  
 राजा लोकद्वयापेक्षी तस्य लोकद्वयं भवेत्॥

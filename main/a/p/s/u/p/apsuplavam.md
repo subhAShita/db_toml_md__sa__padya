@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2205", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 194",]
 topics = [ "कालः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अप्सु प्लवन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्सु प्लवन्ते पाषाणा मानुषा घ्नन्ति राक्षसान्।  
 कपयः कर्म कुर्वन्ति कालस्य कुटिला गतिः॥

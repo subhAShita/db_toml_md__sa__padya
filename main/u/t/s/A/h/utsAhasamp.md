@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6667", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २६ लक्ष्मीस्वभावः// 25",]
 topics = [ "लक्ष्मीः", "उत्साहः", "दीर्घसूत्रता", "कौशलम्", "शौर्यम्",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "उत्साहसम्पन्नमदीर्घसूत्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्साहसंपन्नमदीर्घसूत्रं क्रियाविधिज्ञं व्यसनेष्वसक्तम्।  
 शूरं कृतज्ञं दृढसौहृदं च लक्ष्मीः स्वयं वाञ्छति वासहेतोः॥

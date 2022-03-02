@@ -5,7 +5,7 @@ title = "एतान्यनिगृहीतानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतान्यनिगृहीतानि व्यापादयितुमप्यलम्।  
 अविधेया इवादान्ता हयाः पथि कुसारथिम्॥

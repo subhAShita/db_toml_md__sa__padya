@@ -1,13 +1,14 @@
 +++
 secondary_sources = [ "MSS_7628", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 47",]
-jsonClass = "Subhaashita"
 rasas = [ "हास्यम्",]
-title = "एका भार्या"
 topics = [ "विष्णुः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "एका भार्या"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एका भार्या प्रकृतिमुखरा चञ्चला च द्वितीया पुत्रस्त्वेको भुवनविजयी मन्मथो दुर्निवारः।  
 शेषः शय्या शयनमुदधौ वाहनं पन्नगारिः स्मारं स्मारं स्वगृहचरितं दारुभूतो मुरारिः॥

@@ -6,7 +6,7 @@ title = "विद्ययैव समम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्ययैव समं कामं स्मर्तव्यं ब्रह्मवादिना।  
 आपद्यपि हि घोरायां न त्वेनामिरिणे वपेत्॥

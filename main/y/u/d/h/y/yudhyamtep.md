@@ -6,7 +6,7 @@ title = "युध्यन्ते पक्षिपशवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युध्यन्ते पक्षिपशवः पठन्ति शुकसारिकाः।  
 दातुं शक्नोति यो वित्तं स शूरः स च पण्डितः॥

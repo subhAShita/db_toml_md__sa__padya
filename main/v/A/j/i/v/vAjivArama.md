@@ -6,7 +6,7 @@ title = "वाजिवारणलोहानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाजिवारणलोहानां काष्ठपाषाणवाससाम्।  
 नारीपुरुषतोयानामन्तरं महदन्तरम्॥

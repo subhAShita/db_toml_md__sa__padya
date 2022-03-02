@@ -5,7 +5,7 @@ title = "अण्डाभ्यां लोमशाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अण्डाभ्यां लोमशाभ्यां तु जाताण्डो न हितः स्मृतः।  
 भरमाभावक्त्रपुच्छं च कृष्णनीलं परित्यजेत्।  

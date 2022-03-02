@@ -7,7 +7,7 @@ title = "नासामौक्तिकमबले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नासामौक्तिकमबले किमधरबिम्बेन विद्रुमं कुरुषे।  
 दृष्ट्या गुञ्जाबीजं शिव शिव भूयस्तदेव हसितेन॥

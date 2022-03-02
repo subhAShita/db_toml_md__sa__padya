@@ -6,7 +6,7 @@ title = "मधुपानप्रवृत्तास्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुपानप्रवृत्तास्ते सुहृद्भिः सह वैरिणः।  
 श्रुत्वा कुतोऽपि त्वन्नाम लेभिरे विषमां दशाम्॥

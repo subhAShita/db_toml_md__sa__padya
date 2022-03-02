@@ -5,7 +5,7 @@ title = "बन्धुभिर्बद्धसंयोगः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बन्धुभिर्बद्धसंयोगः सुजने चतुरश्रता।  
 तच्चित्तानुविधायित्वम् इति वृत्तं महात्मनाम्॥

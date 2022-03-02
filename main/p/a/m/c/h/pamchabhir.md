@@ -6,7 +6,7 @@ title = "पञ्चभिर्याति दासत्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्चभिर्याति दासत्वं पुराणैः कोऽपि मानवः।  
 कोऽपि लक्षैः कृती कोऽपि लक्षैरपि न लभ्यते॥

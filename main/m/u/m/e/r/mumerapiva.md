@@ -6,7 +6,7 @@ title = "मुनेरपि वनस्थस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुनेरपि वनस्थस्य स्वानि कर्माणि कुर्वतः।  
 तत्रापि सम्भवन्त्येते मित्त्रोदासीनशत्रवः॥

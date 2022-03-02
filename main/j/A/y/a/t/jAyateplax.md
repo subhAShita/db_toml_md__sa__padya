@@ -5,7 +5,7 @@ title = "जायते प्लक्षबीजाशात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जायते प्लक्षबीजाशात् कपोतादिव शाल्मलेः।  
 उद्वेगजननो नित्यं पश्चादपि भयावहः॥

@@ -7,7 +7,7 @@ title = "यासां नाम्नापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यासां नाम्नापि कामः स्यात् सङ्गमं दर्शनं विना।  
 तासां दृक्सङ्गमं प्राप्य यन्न द्रवति कौतुकम्॥

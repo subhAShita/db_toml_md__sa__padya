@@ -6,7 +6,7 @@ title = "बहिरतिनिर्मलरूपं वहतस्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहिरतिनिर्मलरूपं वहतस्ते दीप दैवतो जगति।  
 अवगतमचिरादान्तरमौज्ज्वल्यं कज्जलद्वारा॥

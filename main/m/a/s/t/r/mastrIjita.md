@@ -6,7 +6,7 @@ title = "न स्त्रीजितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न स्त्रीजितः प्रमूढः स्याद्गाढरागवशीकृतः।  
 पुत्रशोकाद्दशरथो जीवं जायाजितोऽत्यजत्॥

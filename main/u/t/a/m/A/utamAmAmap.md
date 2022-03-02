@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6487", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 37",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उत्तमानामपि स्त्रीणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमानामपि स्त्रीणां विश्वासो नैव विद्यते।  
 राजप्रियाः कैरविण्यो रमन्ते मधुपैः सह॥

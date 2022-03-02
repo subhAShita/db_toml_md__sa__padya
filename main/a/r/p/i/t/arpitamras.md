@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3076", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 30",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अर्पितं रसितवत्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्पितं रसितवत्यपि नाम- ग्राहमन्ययुवतेर्दयितेन।  
 उज्झति स्म मदमप्यपिबन्ती वीक्ष्य मद्यमितरा तु ममाद॥

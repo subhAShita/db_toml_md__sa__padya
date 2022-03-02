@@ -5,7 +5,7 @@ title = "इत्थं प्रज्ञैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं प्रज्ञैव नामेह प्रधानं लोकवर्तनम्।  
 जीवत्यर्थदरिद्रोऽपि धीदरिद्रो न जीवति॥

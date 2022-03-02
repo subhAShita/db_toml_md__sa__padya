@@ -7,7 +7,7 @@ title = "सहिष्ये विरहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहिष्ये विरहं नाथ देह्यदृश्याञ्जनं मम।  
 यदक्तनेत्रां कन्दर्पः प्रहर्तुं मां न शक्ष्यति॥

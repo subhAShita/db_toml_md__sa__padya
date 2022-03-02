@@ -6,7 +6,7 @@ title = "दुर्जनः सज्जनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनः सज्जनो भूयात् सज्जनः शान्तिमाप्नुयात्।  
 शान्तो मुच्येत बन्धेभ्यो मुक्तश्चान्यान् विमोचयेत्॥

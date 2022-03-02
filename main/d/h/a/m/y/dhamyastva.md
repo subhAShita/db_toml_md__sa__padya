@@ -8,7 +8,7 @@ title = "धन्यस्त्वमसि तमाल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धन्यस्त्वमसि तमाल स्पृष्टस्तन्व्या लतावदनया यत्।  
 अद्य स्थावरजन्मा जातस्त्वं जङ्गमादधिकः॥

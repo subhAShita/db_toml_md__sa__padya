@@ -5,7 +5,7 @@ title = "एकेनापि विनीतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि विनीतेन सुतेनोद्ध्रियते कुलम्।  
 गङ्गावतारणापारप्रथं पश्य भगीरथम्॥

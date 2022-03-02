@@ -6,7 +6,7 @@ title = "कामं सन्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामं सन्तु सहस्रशः कतिपये वृत्तान्त-धौरेयकाः  
 कामं वा गत-काल-सूक्ष्म-सुमहद्-व्याकार-बद्धव्रताः।  

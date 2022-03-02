@@ -7,7 +7,7 @@ title = "शिक्षा घ्राणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिक्षा घ्राणं तु वेदस्य हस्तौ कल्पान्प्रचक्षते।  
 गुदद्वारं न्यायशास्त्रं लिङ्गं वैशेषिकं स्मृतम्॥  

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6747", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 14",]
-jsonClass = "Subhaashita"
 topics = [ "कृपणः",]
-title = "उदारचरितस्त्यागी याचितः"
+jsonClass = "Subhaashita"
+title = "उदारचरितात् त्यागी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदारचरितात् त्यागी याचितः कृपणोऽधिकः।  
 एको धनं ततः प्राणान् अन्यः प्राणांस् ततो धनम्॥

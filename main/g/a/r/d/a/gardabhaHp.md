@@ -6,7 +6,7 @@ title = "गर्दभः पटहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गर्दभः पटहो दासी ग्रामण्यः पशवः स्त्रियः।  
 दण्डेनाक्रम्य भुञ्जीयान्न ते सम्मानभाजनम्॥

@@ -6,7 +6,7 @@ title = "यमाश्रित्य न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यमाश्रित्य न विश्रामं क्षुधार्ता यान्ति सेवकाः।  
 सोऽर्कवन्नृपतिस्त्याज्यः सदा पुष्पफलोऽपि सन्॥

@@ -6,7 +6,7 @@ title = "स्वात्मन्येव लयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वात्मन्येव लयं यातु तादृशो गुणिनां गुणः।  
 स्वयं प्रख्याप्यमानोऽपि यस्तृणाय न मन्यते॥

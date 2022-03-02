@@ -6,7 +6,7 @@ title = "पिब पयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिब पयः प्रसर क्षितिपान्तिकं कलय काञ्चन काञ्चनशृङ्खलाम्।  
 इदमवद्यतमं हि यदीहसे भषक सम्प्रति केसरिणस्तुलाम्॥

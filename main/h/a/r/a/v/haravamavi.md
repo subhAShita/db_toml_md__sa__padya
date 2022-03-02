@@ -6,7 +6,7 @@ title = "हरवन्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरवन्न विषमदृष्टिर्हरिवन्न विभो विधूतविततवृषः।  
 रविवन्न चातिदुःसहकरतापितभूः कदाचिदसि॥

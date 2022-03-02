@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2666", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १६ नायिकां प्रति सखीवचनम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "नायिकां प्रति सखीवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अयं विपाको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं विपाको वद कस्य यूनः कल्याणि कल्याणपरंपराणाम्।  
 यदक्षिकोणस्रवदच्छधारा हारावतारो गुणमन्तरेण॥

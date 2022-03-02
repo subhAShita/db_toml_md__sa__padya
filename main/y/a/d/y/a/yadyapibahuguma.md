@@ -6,7 +6,7 @@ title = "यद्यपि बहुगुणगम्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि बहुगुणगम्यं जीवनमेतस्य कूपमुख्यस्य।  
 जयति तथापि विवेको दानं पात्रानुमानेन॥

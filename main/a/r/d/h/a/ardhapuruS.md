@@ -5,7 +5,7 @@ title = "अर्धपुरुषे च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्धपुरुषे च मत्स्यः पारावतसंनिभश्च पाषाणः।  
 मृद्भवति तत्र नीला दीर्घं कालं च बहुतोयम्॥

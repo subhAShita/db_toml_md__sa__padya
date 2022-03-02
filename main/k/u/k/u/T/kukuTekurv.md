@@ -7,7 +7,7 @@ title = "कुक्कुटे कुर्वति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुक्कुटे कुर्वति क्वाणमाननं श्लिष्टयोस्तयोः।  
 दिवाकरकराक्रान्तं शशिकान्तमिवाबभौ॥

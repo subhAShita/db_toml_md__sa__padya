@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9205",]
-jsonClass = "Subhaashita"
 topics = [ "प्रणय-कलहः", "शिवः",]
 ratings = [ "vvasuki:5",]
-title = "कस्त्वं शूली"
+jsonClass = "Subhaashita"
+title = "कस् त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस् त्वं शूली, मृगय भिषजं नीलकण्ठः प्रियेऽहं केकामेकां वद, पशुपति,-र्नैवदृश्ये विषाणे।  
 मुग्धें स्थाणुः, स चरति कथं, जीवितेशः शिवाया गच्छाटव्यामिति हतवचाः पातु वश्चन्द्रचूडः॥

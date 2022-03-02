@@ -6,7 +6,7 @@ title = "भक्तं प्रतोलयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्तं प्रतोलयति वज्रमिवामरेन्द्रः  
 शाकं समुद्धरति शल्यमिवास्थिलग्नम्।  

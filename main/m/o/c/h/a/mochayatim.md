@@ -6,7 +6,7 @@ title = "मोचयति मीनमिथुनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मोचयति मीनमिथुनं पाशाद्दाशो गृहीतमपि सुचिरात् ।  
 निजदयितानेत्रद्वयमनुस्मरन्नधिकमार्द्रमनाः ॥

@@ -6,7 +6,7 @@ title = "नागविशेषे शेषे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नागविशेषे शेषे शेषेऽशेषेति संहृते जगति।  
 हंस्यसिकालं कालङ्का लङ्कालङ्घने स्तुतिर्भवतः॥

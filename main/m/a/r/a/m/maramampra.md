@@ -1,14 +1,14 @@
 +++
 topics = [ "अनित्यता", "मृत्युः", "कालः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 170",]
-jsonClass = "Subhaashita"
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "मरणं प्रकृतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मरणं प्रकृतिः शरीरिणां विकृतिर्जीवनमुच्यते बुधैः।  
 क्षणमप्यवतिष्ठते श्वसन्यदि जन्तुर्ननु लाभवानसौ॥

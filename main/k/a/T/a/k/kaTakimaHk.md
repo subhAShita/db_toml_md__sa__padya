@@ -5,7 +5,7 @@ title = "कटकिनः कटुकरसान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटकिनः कटुकरसान् करीरखदिरादिविटपतरुगुल्मान्।  
 उपभुञ्जाना करभी दैवादाप्नोति मधुरमधुजालम्॥

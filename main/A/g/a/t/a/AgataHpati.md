@@ -5,7 +5,7 @@ title = "आगतः पतिरितीरितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगतः पतिरितीरितं जनैः शृण्वती चकितमेत्य देहलीम्।  
 कौमुदीव शिशिरीकरिष्यते लोचने मम कदा मृगेक्षणा॥

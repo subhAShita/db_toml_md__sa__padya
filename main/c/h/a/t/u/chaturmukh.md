@@ -6,7 +6,7 @@ title = "चतुर्मुखो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चतुर्मुखो न च ब्रह्मा वृषारूढो न शङ्करः।  
 निर्जीवी च निराहारी अजस्रं धान्यभक्षणम्॥

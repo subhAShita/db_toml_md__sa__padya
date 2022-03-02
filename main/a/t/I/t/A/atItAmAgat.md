@@ -5,7 +5,7 @@ title = "अतीतानागतानर्थान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतीतानागतानर्थान् विप्रकृष्टतिरोहितान्।  
 विजानाति यदा योगी तदा संविदिति स्मृता॥

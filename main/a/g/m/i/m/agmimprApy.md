@@ -5,7 +5,7 @@ title = "अग्निं प्राप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निं प्राप्य यथा सद्यस् तूलराशिर्विनश्यति।  
 तथा गङ्गाजलेनैव सर्वपापं विनश्यति॥

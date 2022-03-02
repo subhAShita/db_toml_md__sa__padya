@@ -6,7 +6,7 @@ title = "न कुले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कुले वापि न शीले न वास्ति रूपेऽपि कश्चिदुत्कर्षः।  
 यत्पुष्णाति मिलिन्दानरविन्द महत्त्वमेतत्ते॥

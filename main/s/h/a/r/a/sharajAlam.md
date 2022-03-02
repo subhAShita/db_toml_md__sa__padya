@@ -6,7 +6,7 @@ title = "शरजालञ्चितमुखः कोऽन्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरजालञ्चितमुखः कोऽन्यः शक्तः परं गजात्।  
 हन्तुं प्राकारमुन्मथ्य रथांश्च नरकुञ्जरान्॥

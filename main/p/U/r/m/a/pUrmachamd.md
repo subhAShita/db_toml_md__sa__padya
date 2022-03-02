@@ -6,7 +6,7 @@ title = "पूर्णचन्द्रमुखी रम्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूर्णचन्द्रमुखी रम्या कामिनी निर्मलाम्बरा।  
 तनोति कस्य न स्वान्तमेकान्तमदनातुरम्॥

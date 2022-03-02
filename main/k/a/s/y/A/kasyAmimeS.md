@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_9259",]
-jsonClass = "Subhaashita"
 topics = [ "साहसः",]
 sources = [ "भल्लटः",]
 ratings = [ "vvasuki:5",]
-title = "कस्यानिमेषनयने विदिते"
+jsonClass = "Subhaashita"
+title = "कस्यानिमेषवितते नयने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्यानिमेषवितते नयने दिवौको- लोकादृते जगति ते अपि वै गृहीत्वा।  
 पिण्डे प्रसारितमुखेन तिमे किमेतद् दृष्टं न बालिश विशद्बडिशं त्वयान्तः॥

@@ -5,7 +5,7 @@ title = "कदलीकरभसमानां कलयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदलीकरभसमानां कलयति यो रूपकॢप्तिम् अतिरुचिराम्।  
 सोपायाद् दृढयोगं गमितोरसिकोपकरणविषयतया॥

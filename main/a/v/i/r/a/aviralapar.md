@@ -5,7 +5,7 @@ title = "अविरलपरागसैकत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरलपरागसैकत- मकरन्दतरङ्गिणीमनुवनान्तम्।  
 पिकयुवतिजानुदघ्नीं गाहन्ते मधुपयोषितस्तृषिताः॥

@@ -6,7 +6,7 @@ title = "जिते लक्ष्मीर्मृते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जिते लक्ष्मीर्मृते स्वर्गः कीर्तिश्च धरणीतले।  
 तस्माद्युद्धं विधातव्यं हन्तव्या परवाहिनी॥

@@ -6,7 +6,7 @@ title = "विष्णोः का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विष्णोः का वल्लभा देवी लोकत्रितयपावनी।  
 वर्णावाद्यन्तयोर्दत्त्वा कः शब्दस्तुल्यवाचकः॥

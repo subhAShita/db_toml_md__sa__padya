@@ -5,7 +5,7 @@ title = "तेजः क्षमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तेजः क्षमा धृतिः शौचम् अद्रोहो नातिमानिता।  
 भवन्ति संपदं दैवीम् अभिजातस्य भारत॥

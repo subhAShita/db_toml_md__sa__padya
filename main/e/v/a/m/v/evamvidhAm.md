@@ -5,7 +5,7 @@ title = "एवंविधान् गजाञ्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवंविधान् गजाञ् जात्यान् वनादानीय पार्थिवः।  
 विनये शिष्यवत् कुर्यात् पुत्रवत् परिपालयेत्॥

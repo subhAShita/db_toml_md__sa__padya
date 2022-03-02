@@ -6,7 +6,7 @@ title = "अन्नदानात्परं दानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नदानात्परं दानं विद्यादानमतः परम्।  
 अन्नेन क्षणिका तृप्तिर्यावज्जीवं च विद्यया॥

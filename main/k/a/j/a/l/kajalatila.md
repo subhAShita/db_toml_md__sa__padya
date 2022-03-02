@@ -5,7 +5,7 @@ title = "कज्जलतिलककलङ्कित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कज्जलतिलककलङ्कित- मुखचन्द्रे गलितसलिलकणकेशि।  
 नवविरहदहनतूलो जीवयितव्यस्त्वया कतमः॥

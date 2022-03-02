@@ -6,7 +6,7 @@ title = "तदा रम्याण्यरम्याणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तदा रम्याण्यरम्याणि प्रियाः शल्यं तदासवः।  
 तदैकाकी सबन्धुः सन्निष्टेन रहितो यदा॥

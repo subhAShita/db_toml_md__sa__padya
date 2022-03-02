@@ -5,7 +5,7 @@ title = "कर्म जीवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्म जीवं च संश्लिष्टं परिज्ञातात्मनिश्चयः।  
 विभिन्नीकुरुते साधुः सामायिकशलाकया॥

@@ -5,7 +5,7 @@ title = "उड्डीयाणं तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उड्डीयाणं तु सहजं कथितं गुरुणा सदा।  
 अभ्यसेदस्ततन्द्रस् तु वृद्धोऽपि तरुणो भवेत्॥

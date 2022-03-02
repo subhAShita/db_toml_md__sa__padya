@@ -6,7 +6,7 @@ title = "सत्यधर्मच्युतात् पुंसः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यधर्मच्युतात् पुंसः क्रुद्धादाशीविषादिव।  
 नास्तिकोऽपि ह्युद्विजते जनः किं पुनरास्तिकः॥

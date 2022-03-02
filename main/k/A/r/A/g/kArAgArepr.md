@@ -7,7 +7,7 @@ title = "कारागारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारागारे प्रसूतिर्निजपितृवरतिः शैशवं गोपगोष्ठे  
 राज्ञां मध्येऽपमानॊ विवसितवसतिः प्रत्यहं प्राणभीतिः ।  

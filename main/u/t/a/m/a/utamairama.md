@@ -5,7 +5,7 @@ title = "उत्तमैरननुज्ञातं कार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमैरननुज्ञातं कार्यं नेच्छेच् च तैः सह।  
 देवैः साकं सुधापानाद् राहोश् छिन्नं शिरो यतः॥

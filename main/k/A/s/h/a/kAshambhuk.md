@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9934", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 17",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
+jsonClass = "Subhaashita"
 title = "का शम्भुकान्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का शम्भुकान्ता किमु चन्द्रकान्तं कान्तामुखं किं कुरुते भुजंगः।  
 कः श्रीपतिः का विषमा समस्या गौरीमुखं चुम्बति वासुदेवः॥

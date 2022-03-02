@@ -5,7 +5,7 @@ title = "असत्याः सत्यसङ्काशाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असत्याः सत्यसंकाशाः सत्याश्चासत्यरूपिणः।  
 दृश्यन्ते विविधा भावास् तस्माद् युक्तं परीक्षणम्॥

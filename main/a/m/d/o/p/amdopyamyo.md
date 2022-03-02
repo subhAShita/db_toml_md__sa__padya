@@ -5,7 +5,7 @@ title = "अन्दोऽप्यन्योक्तपथो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्दोऽप्यन्योक्तपथो दण्डधृगन्योपचरणीयः।  
 राजत्वप्रतिहतैर् जनानुरागैर्भरति भूपः॥

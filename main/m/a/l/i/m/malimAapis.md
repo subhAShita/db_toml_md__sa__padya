@@ -7,7 +7,7 @@ title = "मलिना अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मलिना अपि संयमनात्कुटिला अपि सुमनसां समागमतः।  
 बाला अपि मुक्तानामनुषङ्गान्निर्जरत्वमुपयान्ति॥

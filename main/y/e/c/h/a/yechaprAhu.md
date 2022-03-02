@@ -6,7 +6,7 @@ title = "ये च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये च प्राहुर्दुरात्मानो दुराराध्या महीभुजः।  
 प्रमादालस्य जाड्यानि ख्यापितानि निजानि तैः॥

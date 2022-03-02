@@ -6,7 +6,7 @@ title = "स्वजातीयविघाताय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वजातीयविघाताय माहात्म्यं दृश्यते नृणाम्।  
 श्येनो विहङ्गमानेव हिनस्ति न भुजङ्गमान्॥

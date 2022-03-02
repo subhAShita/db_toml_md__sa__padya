@@ -6,7 +6,7 @@ title = "भोज त्वद्दानपाथोधौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोज त्वद्दानपाथोधौ दरिद्रस्य निमज्जतः।  
 न कोऽपि हि भुजालम्बं दत्ते मेऽभयदायकम्॥

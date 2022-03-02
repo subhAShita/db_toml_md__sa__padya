@@ -6,7 +6,7 @@ title = "वृद्धस्य वचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृद्धस्य वचनं ग्राह्यमापत्काले ह्युपस्थिते।  
 सर्वत्रैवं विचारेण नाहारे न च मैथुने॥

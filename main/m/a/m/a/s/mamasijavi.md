@@ -6,7 +6,7 @@ title = "मनसिजविजयास्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनसिजविजयास्त्रं नेत्रविश्रामपात्रं  
 तव मुखम् अनुकर्तुं तन्वि वाञ्छा द्वयोश् च /  

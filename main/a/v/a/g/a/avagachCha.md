@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3219", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 927",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अवगच्छति मूढचेतनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवगच्छति मूढचेतनः प्रियनाशं हृदि शल्यमर्पितम्।  
 स्थिरधीस्तु तदेव मन्यते कुशलद्वारतया समुद्धृतम्॥

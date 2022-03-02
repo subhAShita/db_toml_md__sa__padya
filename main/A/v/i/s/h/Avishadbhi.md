@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5398", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आविशद्भिरुटजाङ्गणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आविशद्भिरुटजाङ्गणं मृगैर् मूलसेकसरसैश्च वृक्षकैः।  
 आश्रमाः प्रविशदग्निधेनवो बिभ्रति श्रियमुदीरिताग्नयः॥

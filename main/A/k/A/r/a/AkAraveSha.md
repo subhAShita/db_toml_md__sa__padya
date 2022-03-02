@@ -5,7 +5,7 @@ title = "आकारवेषसौभाग्यैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकारवेषसौभाग्यैः कन्दर्पप्रतिमोऽपि सन्।  
 यासां संगममासाद्य प्राप्तः को वा न वञ्चनाम्॥

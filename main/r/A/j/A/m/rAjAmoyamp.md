@@ -6,7 +6,7 @@ title = "राजानो यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजानो यं प्रशंसन्ति यं प्रशंसन्ति वै द्विजाः।  
 साधवो यं प्रशंसन्ति स पार्थ पुरुषोत्तमः॥

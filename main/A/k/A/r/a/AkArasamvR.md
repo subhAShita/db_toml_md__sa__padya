@@ -5,7 +5,7 @@ title = "आकारसंवृतिः कार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकारसंवृतिः कार्या सुरक्तेनापि कामिना।  
 रक्तः परिभवं याति परिभूतः कथं प्रियः॥

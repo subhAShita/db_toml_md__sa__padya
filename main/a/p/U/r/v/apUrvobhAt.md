@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2114", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 7",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "अपूर्वो भाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूर्वो भाति भारत्याः काव्यामृतफले रसः।  
 चर्वणे सर्वसामान्ये स्वादुवित् केवलं कविः॥

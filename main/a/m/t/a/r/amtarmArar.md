@@ -5,7 +5,7 @@ title = "अन्तर्माररसार्द्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्माररसार्द्रा गुरुगुणबद्धानुकूलतां धत्ते।  
 निष्ठुरबाह्याकारा दृतिरिव पतिसंनिधौ नव्या॥

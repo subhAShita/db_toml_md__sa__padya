@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7029", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३७ कृतघ्ननिन्दा// 2",]
-jsonClass = "Subhaashita"
 topics = [ "कृतघ्नः",]
+jsonClass = "Subhaashita"
 title = "उपकारिणि विश्रब्धे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारिणि विश्रब्धे शुद्धमतौ यः समाचरति पापम्।  
 तं जनमसत्यसंधं भगवति वसुधे कथं वहसि॥

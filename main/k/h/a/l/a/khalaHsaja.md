@@ -6,7 +6,7 @@ title = "खलः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलः सज्जनकार्पासधक्षणैकहुताशनः।  
 परदुःखाग्निधमनमारुतः केन वर्ण्यताम्॥

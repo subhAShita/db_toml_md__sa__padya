@@ -6,7 +6,7 @@ title = "गुरुषु मिलितेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुषु मिलितेषु शिरसा प्रणमसि लघुषून्नता समेषु समा।  
 उचितज्ञासि तुले किं तुलयसि गुञ्जाफलैः कनकम्॥

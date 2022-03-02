@@ -5,7 +5,7 @@ title = "अहिंसा परमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिंसा परमो धर्मः अहिंसा परमा गतिः।  
 अहिंसा परमा प्रीतिस् त्वहिंसा परमं पदम्॥

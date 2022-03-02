@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2095", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १८ नायकं प्रति दूतीप्रेषणम्// 1",]
-jsonClass = "Subhaashita"
 topics = [ "नायकं प्रति दूतीप्रेषणम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपूजितैवास्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूजितैवास्तु गिरीन्द्रकन्या किं पक्षपातेन मनोभवस्य।  
 यद्यस्ति दूती सरसोक्तिदक्षा दासः पतिः पादतले वधूनाम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4716", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २४ वाल्मीकिः// 48",]
-jsonClass = "Subhaashita"
 topics = [ "वाल्मीकिः",]
+jsonClass = "Subhaashita"
 title = "आदिकवी चतुरास्यौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदिकवी चतुरास्यौ कमलजवल्मीकजौ वन्दे।  
 लोकश्लोकविधात्रोर् ययोर्भिदा लेशमात्रेण॥

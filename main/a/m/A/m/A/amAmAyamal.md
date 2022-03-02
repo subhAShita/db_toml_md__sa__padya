@@ -5,7 +5,7 @@ title = "अनाम्नायमला वेदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाम्नायमला वेदा ब्राह्मणस्याव्रतं मलम्।  
 मलं पृथिव्या वाहीकाः पुरुषस्यानृतं मलम्॥

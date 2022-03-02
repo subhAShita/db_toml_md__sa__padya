@@ -5,6 +5,7 @@ jsonClass = "Subhaashita"
 title = "अप्राकृतस्य"
 
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्राकृतस्य चारिताति-शयस्य भावैर्  
@@ -12,6 +13,8 @@ title = "अप्राकृतस्य"
 कोऽप्य् एष वीर-शिशुकाकृतिर् अप्रमेय-  
 सामर्थ्य-सार-समुदाय-मयः पदार्थः॥
 </details>
+
+
 
 <details><summary>Text</summary>
 

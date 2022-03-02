@@ -6,7 +6,7 @@ title = "मधुप इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुप इव मारुतेऽस्मिन्मा सौरभलोभमम्बुजिनि मंस्थाः।  
 लोकानामेव मुदे महितोऽप्यात्मामुनार्थितां नीतः॥

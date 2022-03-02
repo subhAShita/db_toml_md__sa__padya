@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0684", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २६ लक्ष्मीस्वभावः// 5",]
-jsonClass = "Subhaashita"
 topics = [ "लक्ष्मीः",]
-title = "अत्यार्यमतिदातारमतिशूरमतिव्रतम्"
+jsonClass = "Subhaashita"
+title = "अत्यार्यमतिदातारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यार्यमतिदातारम् अतिशूरमतिव्रतम्।  
 प्रज्ञाभिमानिनं चैव श्रीर्भयान्नोपसर्पति॥

@@ -5,7 +5,7 @@ title = "अर्थरक्षापरो भृत्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थरक्षापरो भृत्यः कृत्याकृत्यविवेकवित्।  
 सान्धिविग्रहिकः कार्यो राज्ञा नयविशारदः॥

@@ -6,7 +6,7 @@ title = "पङ्कज जलेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पङ्कज जलेषु वासः प्रीतिर्मधुपेषु कण्टकैः सङ्गः।  
 यद्यपि तदपि तवैतच्चित्रं मित्त्रोदये हर्षः॥

@@ -7,7 +7,7 @@ title = "मृगसम्बन्धिनी दृष्टिरसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृगसम्बन्धिनी दृष्टिरसौ यदि न सुभ्रुवः।  
 धावति श्रवणोत्तंसलीलादूर्वाङ्कुरे कुतः॥

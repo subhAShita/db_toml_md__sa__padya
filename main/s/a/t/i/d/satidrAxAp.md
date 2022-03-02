@@ -6,7 +6,7 @@ title = "सति द्राक्षाफले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सति द्राक्षाफले क्षीरे मृदामास्वादनं मुदे।  
 अहो मातुरियं रीतिः कृपणे गर्भवर्तिनि॥

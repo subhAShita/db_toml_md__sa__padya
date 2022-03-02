@@ -6,7 +6,7 @@ title = "नौकां वै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नौकां वै भजते तावद्यावत्पारं न गच्छति।  
 उत्तीर्णे तु नदीपारे नौकायाः किं प्रयोजनम्॥

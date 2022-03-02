@@ -5,7 +5,7 @@ title = "अनुपायेन कर्माणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुपायेन कर्माणि विपरीतानि यानि च क्रियमाणानि दुष्यन्ति हवींष्यप्रयतेष्विव॥
 </details>

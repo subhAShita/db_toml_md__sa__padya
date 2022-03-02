@@ -5,7 +5,7 @@ title = "अनुत्तमानुभावस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुत्तमानुभावस्य परैरपिहितौजसः।  
 अकार्यसुहृदोऽस्माकम् अपूर्वास्तव कीर्तयः॥

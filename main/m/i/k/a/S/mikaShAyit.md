@@ -7,7 +7,7 @@ title = "निकषायितुमीहे वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निकषायितुमीहे वा सुवर्णायितुमेव वा।  
 सुवर्णायितुमेवेहे निकषो न ह्यलङ्क्रिया॥

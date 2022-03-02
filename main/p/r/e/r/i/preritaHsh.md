@@ -7,7 +7,7 @@ title = "प्रेरितः शशधरेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेरितः शशधरेण करौघः संहतान्यपि नुनोद तमांसि।  
 क्षीरसिन्धुरिव मन्दरभिन्नः काननान्यविरलोच्चतरूणि॥

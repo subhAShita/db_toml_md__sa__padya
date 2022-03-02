@@ -6,7 +6,7 @@ title = "हतं ज्ञानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हतं ज्ञानं क्रियाहीनं हताश्चाज्ञानिनो नराः।  
 हतं चानायकं सैन्यमभर्तारो हताः स्त्रियः॥

@@ -5,7 +5,7 @@ title = "इन्द्रगोपैर्बभौ भूमिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रगोपैर्बभौ भूमिर् निचितैव प्रवासिनाम्।  
 अनङ्गबाणैर्हृद्भेदस्रुतलोहितबिन्दुभिः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2522", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// ३० चरणौ// 403",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "चरणौ",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अमूल्यस्य मम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमूल्यस्य मम स्वर्णतुलाकोटिद्वयं कियत्।  
 इति कोपादिवाताम्रं पादयुग्मं मृगीदृशः॥

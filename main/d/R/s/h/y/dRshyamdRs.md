@@ -7,7 +7,7 @@ title = "दृश्यं दृशाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृश्यं दृशां सहस्रैर्मनसामयुतैर्विभावनीयं च।  
 सुकृतशतकोटिभोग्यं किमपि वयः सुभ्रुवो जयति॥

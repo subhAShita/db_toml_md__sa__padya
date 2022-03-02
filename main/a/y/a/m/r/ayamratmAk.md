@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2660", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//०६ समुद्रान्योक्तयः// 6",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - समुद्रः",]
-title = "अयम्"
+jsonClass = "Subhaashita"
+title = "अयं रत्नाकरोऽम्भोधिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं रत्नाकरोऽम्भोधिर् इत्यसेवि धनाशया।  
 धनं दूरेऽस्तु वदनम् अपूरि क्षारवारिभिः॥

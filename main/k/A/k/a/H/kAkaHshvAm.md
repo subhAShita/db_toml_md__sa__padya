@@ -5,7 +5,7 @@ title = "काकः श्वानोऽकुलीनश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकः श्वानोऽकुलीनश्च बिडालः सर्प एव च।  
 अकुलीना च या नारी तुल्यास्ते परिकीर्तिताः॥

@@ -6,7 +6,7 @@ title = "मेधावी वाक्पटुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मेधावी वाक्पटुः प्राज्ञः परचित्तोपलक्षकः।  
 धीरो यथोक्तवादी च एष दूतो विधीयते॥

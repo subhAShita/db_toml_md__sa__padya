@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4525", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 103",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "आतन्वद्भिर्दिक्षु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आतन्वद्भिर्दिक्षु पत्राग्रनादं प्राप्तैर्दूरादाशु तीक्ष्णैर्मुखाग्रैः।  
 आदौ रक्तं सैनिकानामजीवैर् जीवैः पश्चात् पत्रिपूगैरपायि॥

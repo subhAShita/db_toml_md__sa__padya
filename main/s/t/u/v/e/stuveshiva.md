@@ -7,7 +7,7 @@ title = "स्तुवे शिवौ"
 
 +++
 
-<details><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुवे शिवौ ययोर् एक-  
 वपुर् वासानुशीलनात् ।  

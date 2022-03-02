@@ -6,7 +6,7 @@ title = "यः कुर्यात्सचिवायत्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः कुर्यात्सचिवायत्तां श्रियं तद्व्यसने सति।  
 सोऽन्धवज्जगतीपालः सीदेत्सञ्चारकैर्विना॥

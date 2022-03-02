@@ -5,7 +5,7 @@ title = "उपरि घनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरि घनं घनरटितं दूरे दयिता किमेतदापतितम्।  
 हिमवति दिव्यौषधयः शीर्षे सर्पः समाविष्टः॥

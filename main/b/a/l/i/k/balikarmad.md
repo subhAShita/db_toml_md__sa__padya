@@ -6,7 +6,7 @@ title = "बलिकर्णदधीचाद्याः पुरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलिकर्णदधीचाद्याः पुरा पञ्चत्वमागताः।  
 पञ्चत्वं न गताश्चित्रं त्वयि जीवति पञ्चमे॥

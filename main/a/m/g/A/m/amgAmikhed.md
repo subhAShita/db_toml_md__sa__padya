@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0292", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३८ प्रणयकलहे नायिकानुनयः// 12",]
-jsonClass = "Subhaashita"
 topics = [ "प्रणयकलहः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अङ्गानि खेदयसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गानि खेदयसि किं शिरीषकुसुमपरिपेलवानि मुधा।  
 अयमीहितकुसुमानां संपादयिता तवास्ति दासजनः॥

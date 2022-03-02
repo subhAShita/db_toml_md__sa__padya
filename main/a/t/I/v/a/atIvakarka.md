@@ -5,7 +5,7 @@ title = "अतीव कर्कशाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतीव कर्कशाः स्तब्धा हिंस्रजन्तुभिरावृताः।  
 दुरासदाश्च विषमा ईश्वराः पर्वता इव॥

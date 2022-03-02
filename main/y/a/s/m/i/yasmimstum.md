@@ -6,7 +6,7 @@ title = "यस्मिंस्तु निहते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिंस्तु निहते भद्र एधन्ते बहवः सुखम् ।  
 तस्मिन्हते शुभे नास्ति पातकञ्चोपपातकम् ॥

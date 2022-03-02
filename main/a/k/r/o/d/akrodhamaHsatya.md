@@ -5,7 +5,7 @@ title = "अक्रोधनः सत्यवादी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्रोधनः सत्यवादी भूतानामविहिंसकः।  
 अनसूयः सदाचारो दीर्घमायुरवाप्नुयात्॥

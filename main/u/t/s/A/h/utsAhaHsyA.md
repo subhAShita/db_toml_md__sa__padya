@@ -5,7 +5,7 @@ title = "उत्साहः स्याद्रसे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्साहः स्याद्रसे हास्ये ताले कन्दुकसंज्ञके।  
 वंशाभिवृद्धिकृत्पादस् त्रयोदशमिताक्षरः।  

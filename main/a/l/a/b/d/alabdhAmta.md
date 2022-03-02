@@ -5,7 +5,7 @@ title = "अलब्धान्तः प्रवेशस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलब्धान्तः प्रवेशस्य तारमाक्रन्दतो बहिः।  
 प्रभो करुणया कर्णे क्रियन्तां कृपणोक्तयः॥

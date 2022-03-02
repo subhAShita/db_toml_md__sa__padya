@@ -5,7 +5,7 @@ title = "इन्दोः कलाकलापेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दोः कलाकलापेन पङ्क्तिक्रमनिवेशिना।  
 सर्वदुःखापनोदाय बालकानां कृता भुजाः॥

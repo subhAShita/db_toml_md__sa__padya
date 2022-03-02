@@ -6,7 +6,7 @@ title = "आपदर्थं धनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदर्थं धनं रक्षेन्महतां कुत आपदः।  
 कदाचित्कुपितो देवः सञ्चितं चापि नश्यति॥

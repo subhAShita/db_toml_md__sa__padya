@@ -6,7 +6,7 @@ title = "गतास्ते दिवसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतास्ते दिवसा यत्र ह्यवज्ञा कल्पशाखिनाम्।  
 औदुम्बरफलेभ्योऽपि स्पृहयामोऽद्य जीवितुम्॥

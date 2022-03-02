@@ -5,7 +5,7 @@ title = "अन्धा इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धा इव बधिरा इव मूका इव मोहभाज इव।  
 पङ्गव इवानभिमते नृपतेर्निवसन्ति साधवः सदसि॥

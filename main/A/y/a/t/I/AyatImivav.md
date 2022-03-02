@@ -5,7 +5,7 @@ title = "आयतीमिव विध्वस्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयतीमिव विध्वस्ताम् आज्ञां प्रतिहतामिव।  
 दीप्तामिव दिशं काले पूजामपहतामिव॥

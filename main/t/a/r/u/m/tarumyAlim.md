@@ -6,7 +6,7 @@ title = "तरुण्यालिङ्गितः कण्ठे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरुण्यालिङ्गितः कण्ठे नितम्बस्थलमाश्रितः।  
 गुरूणां सन्निधानेऽपि कः कूजति मुहुर्मुहुः॥

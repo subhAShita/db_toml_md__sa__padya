@@ -5,7 +5,7 @@ title = "कलयतु हंसविलासगतिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलयतु हंसविलासगतिं स बकः सरसि वराकः।  
 नीरक्षीरविवेकविधौ तस्य कुतः परिपाकः॥

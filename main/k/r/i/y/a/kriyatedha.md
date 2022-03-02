@@ -6,7 +6,7 @@ title = "क्रियते धवलः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्रियते धवलः खलूच्चकैर्धवलैरेव सितेतरैरधः।  
 शिरसौघमधत्त शङ्करः सुरसिन्धोर्मधुजित्तमङ्घ्रिणा॥

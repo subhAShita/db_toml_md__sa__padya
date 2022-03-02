@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3831", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १३ वियोगिन्या अवस्थावर्णनम्// 5",]
-jsonClass = "Subhaashita"
 topics = [ "वियोगः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अस्तमितविषयसङ्गा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्तमितविषयसङ्गा मुकुलितनयनोत्पला मृदुश्वसिता।  
 ध्यायति किमप्यलक्ष्यं नित्यं योगाभियुक्तेव॥

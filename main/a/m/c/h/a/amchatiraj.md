@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0464", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३९ सख्यनुनयः// 7",]
-jsonClass = "Subhaashita"
 topics = [ "सख्यनुनयः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अञ्चति रजनिरुदञ्चति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अञ्चति रजनिरुदञ्चति तिमिरमिदं चञ्चति महोभूः।  
 उक्तं न त्यज युक्तं विरचय रक्तं मनस्तस्मिन्॥

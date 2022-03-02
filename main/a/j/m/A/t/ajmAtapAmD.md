@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0423", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 34",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "अज्ञातपाण्डित्यरहस्यमुद्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञातपाण्डित्यरहस्यमुद्रा ये काव्यमार्गे दधतेऽभिमानम्।  
 ते गारुडीयाननधीत्य मन्त्रान् हालाहलास्वादनमारभन्ते॥

@@ -7,7 +7,7 @@ title = "तत्पादनखरत्नानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्पादनखरत्नानां यदलक्तकमार्जनम्।  
 इदं श्रीखण्डलेपेन पाण्डुरीकरणं विधोः॥

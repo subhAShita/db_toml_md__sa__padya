@@ -6,7 +6,7 @@ title = "व्याकुलोऽपि विपत्पातैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्याकुलोऽपि विपत्पातैः स्मरेद्विष्णुं सदा हृदि।  
 शरतल्पगतो भीष्मः सस्मार गरुडध्वजम्॥

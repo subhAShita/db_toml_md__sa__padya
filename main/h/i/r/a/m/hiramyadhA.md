@@ -6,7 +6,7 @@ title = "हिरण्यधान्यरत्नानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हिरण्यधान्यरत्नानि गजेन्द्राश्चापि वाजिनः।  
 तथान्यदपि यत्किञ्चित्प्रजाभ्यः स्यान्महीपतेः॥

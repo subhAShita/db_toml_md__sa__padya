@@ -6,7 +6,7 @@ title = "गाङ्गयामुनयोगेन तुल्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गाङ्गयामुनयोगेन तुल्यं हारिहरं वपुः।  
 पातु नाभिगतं पद्मं यस्य तन्मध्यगं यथा॥

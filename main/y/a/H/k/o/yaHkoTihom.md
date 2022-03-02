@@ -6,7 +6,7 @@ title = "यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः कोटिहोमानलधूमजालैर्मलीमसीकृत्य दिशां मुखानि।  
 तत्कीर्तिभिः क्षालयति स्म शश्वदखण्डतारापतिपाण्डुराभिः॥

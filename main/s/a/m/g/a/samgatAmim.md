@@ -7,7 +7,7 @@ title = "सङ्गतानि मृगाक्षीणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्गतानि मृगाक्षीणां तडिद्विलसितान्यपि।  
 क्षणद्वयं न तिष्ठन्ति घनारब्धान्यपि स्वयम्॥

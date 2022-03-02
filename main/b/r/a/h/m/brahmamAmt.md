@@ -6,7 +6,7 @@ title = "ब्रह्म नान्तमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्म नान्तमपि क्लीबं मनः सान्तं न पश्यति।  
 किं चित्रं लोकजनकं वाक्कान्ता नैत्यकान्तकम्॥

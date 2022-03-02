@@ -5,7 +5,7 @@ title = "आपोशनं चासनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपोशनं चासनं च तैलाभ्यङ्गं तथैव च।  
 स्वयं करकृतं चैव आयुःश्रीपुत्रनाशनम्॥

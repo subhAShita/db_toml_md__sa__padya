@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4285", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आकाशवापीसितपुण्डरीकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकाशवापीसितपुण्डरीकं शाणोपलं मन्मथसायकानाम्।  
 पश्योदितं शारदमुत्पलाक्षि संध्याङ्गनाकन्दुकमिन्दुबिंबम्॥

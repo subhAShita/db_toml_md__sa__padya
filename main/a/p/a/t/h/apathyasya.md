@@ -5,7 +5,7 @@ title = "अपथ्यस्य च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपथ्यस्य च भुक्तस्य दन्तस्य चलितस्य च।  
 अमात्यस्य च दुष्टस्य समूलोद्धरणं सुखम्॥

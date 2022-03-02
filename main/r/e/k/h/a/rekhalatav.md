@@ -6,7 +6,7 @@ title = "रे खल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे खल तव खलु चरितं विदुषामग्रे विविच्य वक्ष्यामि।  
 अथवालं पापात्मन्कृतया कथयापि ते हतया॥

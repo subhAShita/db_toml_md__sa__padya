@@ -6,7 +6,7 @@ title = "राजनि विदुषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजनि विदुषां मध्ये वरसुरतानां समागमे स्त्रीणाम्।  
 साध्वसदूषितहृदयो वाक्पटुरपि कातरो भवति॥

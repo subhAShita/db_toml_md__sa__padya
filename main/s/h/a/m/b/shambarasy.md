@@ -7,7 +7,7 @@ title = "शम्बरस्य च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शम्बरस्य च या माया या माया नमुचेरपि।  
 बलेः कुम्भीनसेश्चैव सर्वास्ता योषितो विदुः॥

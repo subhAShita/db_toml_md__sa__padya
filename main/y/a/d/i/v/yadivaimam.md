@@ -6,7 +6,7 @@ title = "यदि वै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि वै मनसि प्रशान्तिरुच्चैः कुरु कल्पद्रुमदानकौशलम्।  
 न भवेदिति वा वद स्फुटं कलिकर्ण प्रतियामि मन्दिरम्॥

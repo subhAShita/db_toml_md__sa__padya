@@ -7,7 +7,7 @@ title = "बिम्बोष्ठ एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिम्बोष्ठ एव रागस्ते तन्वि पूर्वमदृश्यत।  
 अधुना हृदयेऽप्येष मृगशावाक्षि दृश्यते॥

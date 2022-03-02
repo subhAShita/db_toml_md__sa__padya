@@ -7,7 +7,7 @@ title = "रमणे चरणप्रान्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रमणे चरणप्रान्ते प्रणतिप्रवणेऽधुना।  
 वदामि सखि ते तत्त्वं कदाचिन्नोचिताः क्रुधः॥

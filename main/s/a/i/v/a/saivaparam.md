@@ -6,7 +6,7 @@ title = "सैव परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सैव परं न विनश्यति तनुरपि या श्रीर्निवेशिता सत्सु।  
 अवशिष्यते हिमांशोः सैव कला या स्थिता शम्भौ॥

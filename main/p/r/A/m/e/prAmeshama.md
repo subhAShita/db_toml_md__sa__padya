@@ -7,7 +7,7 @@ title = "प्राणेशमभिसरन्ती पथि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राणेशमभिसरन्ती पथि स्खलन्ती सुपिच्छिले मुग्धा।  
 अवलम्बनाय वारां धारासु करं प्रसारयति॥

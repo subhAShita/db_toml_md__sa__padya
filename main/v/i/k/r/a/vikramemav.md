@@ -6,15 +6,15 @@ title = "विक्रमेण विना"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-तैलपः = cocroach
+विक्रमेण विना पुंसां श्मश्रुणा केवलेन किं?  
+बीभत्सा भीरवः क्षुद्राः श्मश्रुमन्तो ऽपि तैलपाः॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-विक्रमेण विना पुंसां श्मश्रुणा केवलेन किं?  
-बीभत्सा भीरवः क्षुद्राः श्मश्रुमन्तो ऽपि तैलपाः॥
+तैलपः = cocroach
 </details>

@@ -5,7 +5,7 @@ title = "अमौक्तिकमसौवर्णम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमौक्तिकमसौवर्णं ब्राह्मणानां विभूषणम्।  
 देवतानां पित् णां च भागो येन प्रदीयते॥

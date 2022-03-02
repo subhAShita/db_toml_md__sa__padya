@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3027", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 868",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अर्थो नराणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थो नराणां पतिरङ्गनानां वर्षा नदीनामृतुराट् तरूणाम्।  
 स्वधर्मचारी नृपतिः प्रजानां गतं गतं यौवनमानयन्ति॥

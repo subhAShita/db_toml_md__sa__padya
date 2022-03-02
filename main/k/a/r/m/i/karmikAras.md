@@ -5,7 +5,7 @@ title = "कर्णिकारससौवीरगुप्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णिकारससौवीरगुप्तां त्रिकटुमाधवीम्।  
 यष्टीधान्यगुडक्षीरं दष्टो मत्तशुना पिबेत्॥

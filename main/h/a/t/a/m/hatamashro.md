@@ -6,7 +6,7 @@ title = "हतमश्रोत्रियं श्राद्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हतमश्रोत्रियं श्राद्धं हतो यज्ञस्त्वदक्षिणः।  
 हता रूपवती वन्घ्या हतं सैन्यमनायकम्॥

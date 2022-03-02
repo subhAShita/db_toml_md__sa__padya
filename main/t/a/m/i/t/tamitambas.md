@@ -7,7 +7,7 @@ title = "तन्नितम्बस्य निन्दन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तन्नितम्बस्य निन्दन्ति वृद्धिं परिजनाङ्गनाः।  
 काञ्चीनवनवग्रन्थिग्रथनेन कदर्थिताः॥

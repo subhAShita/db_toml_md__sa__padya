@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8621", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१३ स्थलचरान्योक्तयः// ०७ कपिः// 151",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - स्थलचरः", "अन्योक्तिः - कपिः",]
+jsonClass = "Subhaashita"
 title = "कपिरपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपिरपि च कापिशायन- मदमत्तो वृश्चिकेन संदष्टः।  
 अपि च पिशाचग्रस्तः किं ब्रूमो वैकृतं तस्य॥

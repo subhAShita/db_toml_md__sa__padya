@@ -5,7 +5,7 @@ title = "अ गस"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अ गस गात् तथा जीवो भजते प्राकृतान् गुणान्।  
 अह काराभिभूतः सन् भिन्नस्तेभ्योऽपि सोऽव्ययः॥

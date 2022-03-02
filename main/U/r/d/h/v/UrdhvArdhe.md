@@ -5,7 +5,7 @@ title = "ऊर्ध्वार्धे लक्षणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊर्ध्वार्धे लक्षणं यस्य नाधोऽर्धे लक्षणं भवेत्।  
 तं खड्गं मध्यमं प्राहुः प्रवीणमतयो बुधाः॥

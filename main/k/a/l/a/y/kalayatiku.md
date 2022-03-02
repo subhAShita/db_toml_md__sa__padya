@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8986", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 16",]
-jsonClass = "Subhaashita"
 topics = [ "समग्रस्त्रीस्वरूपम्",]
 rasas = [ "शृङ्गारः",]
-title = "कलयति कुवलयमालाललितम्"
+jsonClass = "Subhaashita"
+title = "कलयति कुवलयमाला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलयति कुवलयमाला- ललितं कुटिलः कटाक्षविक्षेपः।  
 अधरः किसलयलीला- माननमस्याः कलानिधिविलासम्॥

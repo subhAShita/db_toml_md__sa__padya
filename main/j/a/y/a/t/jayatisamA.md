@@ -6,7 +6,7 @@ title = "जयति स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयति स नाभिर्जगतां स्वनाभिरन्ध्रोद्भवज्जगद्बीजः।  
 दामोदरो निजोदरगह्वरनिर्विष्टजगदण्डः॥

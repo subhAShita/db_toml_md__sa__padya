@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6773", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 113",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "उदेति पूर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदेति पूर्वं कुसुमं ततः फलं घनोदयः प्राक् तदनन्तरं पयः।  
 निमित्तनैमित्तिकयोरयं क्रमस् तव प्रसादस्य पुरस्तु संपदः॥

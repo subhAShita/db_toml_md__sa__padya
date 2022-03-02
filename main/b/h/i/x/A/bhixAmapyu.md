@@ -7,7 +7,7 @@ title = "भिक्षामप्युदपात्रं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भिक्षामप्युदपात्रं वा सत्कृत्य विधिपूर्वकम् ।  
 वेदतत्त्वार्थविदुषे ब्राह्मणायोपपादयेत् ॥

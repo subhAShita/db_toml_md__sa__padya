@@ -2,13 +2,13 @@
 topics = [ "स्त्री-शरीरम्", "नेत्रे", "स्त्रीसौन्दर्यम्", "कामः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// 60",]
 rasas = [ "शृङ्गारः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
-title = "नूनम् आज्ञाकरस्"
+jsonClass = "Subhaashita"
+title = "नूनमाज्ञाकरस्तस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नूनमाज्ञाकरस्तस्याः सुभ्रुवो मकरध्वजः।  
 यतस्तन्नेत्रसञ्चारसूचितेषु प्रवर्तते॥

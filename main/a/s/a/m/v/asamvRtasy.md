@@ -5,7 +5,7 @@ title = "असंवृतस्य कार्याणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असंवृतस्य कार्याणि प्राप्तान्यपि विशेषतः।  
 निःसंशयं विपद्यन्ते भिन्नप्लव इवोदधौ॥

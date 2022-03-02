@@ -5,7 +5,7 @@ title = "अपराधिनि मयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपराधिनि मयि दण्डं संहरसि किमुद्यतं कुटिलकेशि।  
 वर्धयसि विलसितं त्वं दासजनायात्र कुप्यसि च॥

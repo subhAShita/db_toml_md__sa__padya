@@ -5,7 +5,7 @@ title = "आनीयते शरीरेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनीयते शरीरेण क्षीणोऽपि विभवः पुनः।  
 विभवः पुनरानेतुं शरीरं क्षीणमक्षमः॥

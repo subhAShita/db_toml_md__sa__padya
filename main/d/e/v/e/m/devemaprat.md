@@ -6,7 +6,7 @@ title = "देवेन प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देवेन प्रथमं जितो ऽसि शशभृल्लेखाभृतानन्तरं  
 बुद्धेनोद्धतबुद्धिना स्मर ततः कान्तेन पान्थेन मे ।  

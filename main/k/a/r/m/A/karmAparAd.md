@@ -5,7 +5,7 @@ title = "कर्मापराधात् सत्त्वानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मापराधात् सत्त्वानां विनाशे समुपस्थिते।  
 अनयो नयरूपेण बुद्धिमाक्रम्य तिष्ठति॥

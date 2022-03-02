@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9826", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 284",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "कालातिक्रमणं वृत्तेर्यो"
+jsonClass = "Subhaashita"
+title = "कालातिक्रमणं वृत्तेर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालातिक्रमणं वृत्तेर् यो न कुर्वीत भूपतिः।  
 कदाचित् तं न मुञ्चन्ति भर्त्सिता अपि सेवकाः॥

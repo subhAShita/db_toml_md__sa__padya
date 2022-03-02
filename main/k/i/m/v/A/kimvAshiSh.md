@@ -7,7 +7,7 @@ title = "किं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं वा शिष्यसहस्रेण गुरुनामोपजीविना ।  
 एकस्मै दीयतां विद्या यस्तां बृंहयितुं पटुः ॥

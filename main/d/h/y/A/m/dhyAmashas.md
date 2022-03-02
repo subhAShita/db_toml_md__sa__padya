@@ -6,7 +6,7 @@ title = "ध्यानशस्त्रं बकानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ध्यानशस्त्रं बकानां च वेश्यानां मोहशस्त्रकम्।  
 साधुत्वशस्त्रं मैन्दानां परप्राणार्थहारकम्॥

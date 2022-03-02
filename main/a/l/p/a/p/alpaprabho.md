@@ -5,7 +5,7 @@ title = "अल्पप्रभोस्तु सेवायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पप्रभोस्तु सेवायां भुक्तिमात्रं प्रयोजनम्।  
 अनुग्रहमजामूल्यं निग्रहं प्राणसंकटम्॥

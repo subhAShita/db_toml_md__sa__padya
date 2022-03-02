@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1108", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३१ अभिसारिकासञ्चारकथनम्// 6",]
-jsonClass = "Subhaashita"
 topics = [ "अभिसारिकासञ्चारः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधियामिनि गजगामिनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधियामिनि गजगामिनि कामिनि सौदामिनीव यं व्रजसि।  
 जलदेनेव न जाने कति कति सुकृतानि तेन विहितानि॥

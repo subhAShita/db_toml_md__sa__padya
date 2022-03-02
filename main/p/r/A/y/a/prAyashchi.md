@@ -7,7 +7,7 @@ title = "प्रायश्चित्तं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायश्चित्तं न गृह्णीतस्तन्वङ्ग्याः पतितौ स्तनौ।  
 अत एव तयोः स्पर्शे लोकोऽयं शिथिलादरः॥

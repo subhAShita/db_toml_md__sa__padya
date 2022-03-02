@@ -6,7 +6,7 @@ title = "न द्रव्याणामविज्ञाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न द्रव्याणामविज्ञाय विधिं धर्म्यं प्रतिग्रहेत्।  
 प्रातः प्रतिग्रहं कुर्यादवसीदन्नपि क्षुधा॥

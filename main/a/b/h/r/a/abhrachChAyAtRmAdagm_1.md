@@ -5,7 +5,7 @@ title = "अभ्रच्छाया तृणादग्निः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्रच्छाया तृणादग्निः पराधीनं च यत् सुखम्।  
 अज्ञानेषु च वैराग्यं क्षिप्रमेतद् विनश्यति॥

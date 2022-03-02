@@ -7,7 +7,7 @@ title = "न कीर्तिर्नो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कीर्तिर्नो वित्तं भवति मम काचिन्न पदवी   
 परायत्ता यात्रा प्रतिपदमहो जीवितमयी ।  

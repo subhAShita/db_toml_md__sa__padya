@@ -1,13 +1,13 @@
 +++
 topics = [ "नीतिः", "गुरुः", "सामीप्यम्", "दूरता", "राजा", "स्त्रीः",]
 secondary_sources = [ "MSS_0688", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 124",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अत्यासन्ना विनाशाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यासन्ना विनाशाय दूरस्था न फलप्रदाः।  
 सेव्या मध्यमभावेन राजावह्निर्गुरुः स्त्रियः॥

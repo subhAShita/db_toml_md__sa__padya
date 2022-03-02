@@ -5,7 +5,7 @@ title = "आत्मा जेयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मा जेयः सदा राज्ञा ततो जेयाश्च शत्रवः।  
 अजितात्मा नरपतिर् विजयेत कथं रिपून्॥

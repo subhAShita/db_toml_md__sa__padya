@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1783", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 154",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अन्यस्य लगति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यस्य लगति कर्णे जीवितमन्यस्य हरति बाण इव।  
 हृदयं दुनोति पिशुनः कण्टक इव पादलग्नोऽपि॥

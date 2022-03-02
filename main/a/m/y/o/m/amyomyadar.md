@@ -5,7 +5,7 @@ title = "अन्योन्यदर्शनकृतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्योन्यदर्शनकृतः समानरूपानुरागकुलवयसाम्।  
 केषांचिदेव मन्ये समागमो भवति पुण्यवताम्॥

@@ -6,7 +6,7 @@ title = "कहमस्मि गुहावक्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कहमस्मि गुहावक्ति प्रश्नेऽमुष्मिन्किमुत्तरम्।  
 कथमुक्तं न जानासि कदर्थयसि यत्सखि॥

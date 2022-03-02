@@ -5,7 +5,7 @@ title = "ऋतुर्मासद्वयेनैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋतुर्मासद्वयेनैव षण्मासैरयनं स्मृतम्।  
 अयनद्वितयं वर्षो देवानां वासरो निशा॥

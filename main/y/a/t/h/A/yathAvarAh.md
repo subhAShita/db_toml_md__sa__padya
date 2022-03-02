@@ -6,7 +6,7 @@ title = "यथा वराहस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा वराहस्य शुनश्च युध्यतो; स्तयोरभावे श्वपचस्य लाभः
 </details>

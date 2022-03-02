@@ -5,7 +5,7 @@ title = "उत्पन्नमिह लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पन्नमिह लोके वै जन्मप्रभृति मानवम्।  
 विविधान्युपवर्तन्ते दुःखानि च सुखानि च॥

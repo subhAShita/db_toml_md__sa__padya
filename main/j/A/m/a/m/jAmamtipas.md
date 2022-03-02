@@ -6,7 +6,7 @@ title = "जानन्ति पशवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जानन्ति पशवो गन्धाद्वेदाज्जानन्ति पण्डिताः।  
 चाराज्जानन्ति राजानश्चक्षुर्भ्यामितरे जनाः॥

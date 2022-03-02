@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0028", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// ०१ चन्द्रकलावर्णनम्// 123",]
-jsonClass = "Subhaashita"
 topics = [ "चन्द्रकला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अकलङ्कचन्द्रकलया कलिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकलङ्कचन्द्रकलया कलिता सा भाति वारुणी तरुणी।  
 भालस्थलीव शम्भोः संध्याध्यानोपविष्टस्य॥

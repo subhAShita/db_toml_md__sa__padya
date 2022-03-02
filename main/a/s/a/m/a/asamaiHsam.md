@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3712", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 374",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "असमैः समीयमानः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असमैः समीयमानः समैश्च परिहीयमाणसत्कारः।  
 अधुरि विनियुज्यमानस् त्रिभिरर्थपतिं त्यजति भृत्यः॥

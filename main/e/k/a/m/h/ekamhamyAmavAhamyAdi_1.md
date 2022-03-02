@@ -5,7 +5,7 @@ title = "एकं हन्यान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं हन्यान् न वा हन्याद् इषुर्मुक्तो धनुष्मता।  
 सराष्ट्रं सप्रजं हन्ति राजानं मन्त्रिनिश्चयः॥

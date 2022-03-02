@@ -5,7 +5,7 @@ title = "अहो दैन्यमहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो दैन्यमहो कष्टं पारक्यैः क्षणभङ्गुरैः।  
 यन्नोपकुर्यादस्वार्थैर् मर्त्यः स्वज्ञातिविग्रहैः॥

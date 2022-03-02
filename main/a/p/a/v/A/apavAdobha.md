@@ -5,7 +5,7 @@ title = "अपवादो भवेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपवादो भवेद् येन येन विप्रत्ययो भवेत्।  
 नरके गम्यते येन तद् बुधः कथमाचरेत्॥

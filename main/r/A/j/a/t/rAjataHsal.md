@@ -6,7 +6,7 @@ title = "राजतः सलिलादग्नेश्चोरतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजतः सलिलादग्नेश्चोरतः स्वजनादपि।  
 भयमर्थवतां नित्यं मृत्योः प्राणभृतामिव॥

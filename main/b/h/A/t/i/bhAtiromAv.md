@@ -7,7 +7,7 @@ title = "भाति रोमावली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भाति रोमावली तस्याः पयोधरभरोन्नतौ।  
 जाता रत्नशलाकेव श्रोणिवैढूर्यभूमितः॥

@@ -5,7 +5,7 @@ title = "अनिशं नयनाभिरामया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिशं नयनाभिरामया रमया संमदिनो मुखस्य ते।  
 निशि निःसरदिन्दिरं कथं तुलयामः कलयापि पङ्कजम्॥

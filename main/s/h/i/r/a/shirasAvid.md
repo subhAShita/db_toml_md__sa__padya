@@ -6,7 +6,7 @@ title = "शिरसा विधृता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिरसा विधृता नित्यं तथा स्नेहेन पालिताः।  
 केशा अपि विरज्यन्ते निःस्नेहाः किं न सेवकाः॥

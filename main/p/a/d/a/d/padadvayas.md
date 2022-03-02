@@ -6,7 +6,7 @@ title = "पदद्वयस्य सन्धानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पदद्वयस्य संधानं कर्तुमप्रतिभाः खलाः।  
 तथापि परकाव्येषु दुष्करेष्वप्यसंभ्रमाः॥

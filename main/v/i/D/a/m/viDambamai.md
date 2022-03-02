@@ -6,7 +6,7 @@ title = "विडम्बनैव पुंसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विडम्बनैव पुंसि श्रीः परप्रणयपांसुले।  
 कान्तिं कामिह कुर्वीत कुणौ कटककल्पना॥

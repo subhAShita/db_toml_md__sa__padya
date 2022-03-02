@@ -5,7 +5,7 @@ title = "का गणना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का गणना विषयवशे पुंसि वराके वराङ्गना स्पृहया।  
 व्याजेन वीक्षमाणा ध्यानधियां स्पृशति सज्ज्ञानम्॥

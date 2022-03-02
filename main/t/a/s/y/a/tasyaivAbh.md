@@ -6,7 +6,7 @@ title = "तस्यैवाभ्युदयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्यैवाभ्युदयो भूयाद्भानोर्यस्योदये सति।  
 विकासभाजो जायन्ते गुणिनः कमलाकराः॥

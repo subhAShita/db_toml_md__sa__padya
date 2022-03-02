@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5495", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५८ प्रभातवर्णनम्// 5",]
-jsonClass = "Subhaashita"
 topics = [ "प्रभातम्",]
 rasas = [ "शृङ्गारः",]
-title = "आश्लेषशेषा"
+jsonClass = "Subhaashita"
+title = "आश्लेषशेषा रतिरङ्गनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आश्लेषशेषा रतिरङ्गनानाम् आमोदशेषा कुचकुङ्कुमश्रीः।  
 तूणीरशेषः कुसुमायुधोऽपि प्रभातशेषा रजनी बभूव॥

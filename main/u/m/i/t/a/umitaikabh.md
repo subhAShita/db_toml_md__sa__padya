@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6944", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//12 जातिवर्णनम्// २६ लेखनकर्त्री// 39",]
-jsonClass = "Subhaashita"
 topics = [ "लेखनकर्त्री",]
-title = "उन्नमितैकभ्रूलतमाननमस्याः"
+jsonClass = "Subhaashita"
+title = "उन्नमितैकभ्रूलतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नमितैकभ्रूलतम् आननमस्याः पदानि रचयन्त्याः।  
 कण्टकितेन प्रथयति मय्यनुरागं कपोलेन॥

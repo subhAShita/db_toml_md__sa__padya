@@ -6,7 +6,7 @@ title = "सन्तः स्वतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तः स्वतः प्रकाशन्ते गुणा न परतो नृणाम्।  
 आमोदो नहि कस्तूर्याः शपथेन विभाव्यते॥

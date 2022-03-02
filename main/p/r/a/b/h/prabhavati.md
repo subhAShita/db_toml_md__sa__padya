@@ -7,7 +7,7 @@ title = "प्रभवति मनसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रभवति मनसि विवेको विदुषामपि शास्त्रसम्भवस्तावत्।  
 निपतन्ति दृष्टिविशिखा यावन्नेन्दीवराक्षीणाम्॥

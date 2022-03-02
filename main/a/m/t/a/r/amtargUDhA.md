@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1625", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 25",]
-jsonClass = "Subhaashita"
 topics = [ "काव्यम्",]
-title = "अन्तर्गूढानर्थानव्यञ्जयतः"
+jsonClass = "Subhaashita"
+title = "अन्तर्गूढानर्थान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्गूढानर्थान् अव्यञ्जयतः प्रसादरहितस्य।  
 संदर्भस्य नदस्य च न रसः प्रीत्यै रसज्ञानाम्॥

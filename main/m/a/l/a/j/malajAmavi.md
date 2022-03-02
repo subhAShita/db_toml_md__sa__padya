@@ -7,7 +7,7 @@ title = "न लज्जा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न लज्जा न विनीतत्वं न दाक्षिण्यं न भीरुता।  
 प्रार्थनाभाव एवैकः सतीत्वे कारणं स्त्रियाः॥

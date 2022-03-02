@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1417", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 433",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अनिष्टादिष्टलाभेऽपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिष्टादिष्टलाभेऽपि न गतिर्जायते शुभा।  
 यत्रास्ते विषसंसर्गोऽमृतं तदपि मृत्यवे॥

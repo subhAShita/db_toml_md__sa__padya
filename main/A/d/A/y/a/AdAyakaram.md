@@ -5,7 +5,7 @@ title = "आदाय करमाढ्येभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदाय करमाढ्येभ्यः कीकटेष्वपि वर्षसि।  
 प्रपीय वारि सिन्धुभ्यः स्थलेष्विव घनाघनः॥

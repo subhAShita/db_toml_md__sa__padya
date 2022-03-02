@@ -7,7 +7,7 @@ title = "जलधर निर्लज्जस्त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जलधर निर्लज्जस्त्वं यन्मां दयितस्य वेश्म गच्छन्तीम्।  
 स्तनितेन भीषयित्वा धाराहस्तैः परामृशसि॥

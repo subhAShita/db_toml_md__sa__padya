@@ -6,7 +6,7 @@ title = "उद्योगे नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्योगे नास्ति दारिद्र्यं जपतो नास्ति पातकम् ।  
 मौनेन कलहो नास्ति नास्ति जागरिते भयम् ॥

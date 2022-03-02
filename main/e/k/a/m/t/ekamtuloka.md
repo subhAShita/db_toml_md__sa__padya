@@ -5,7 +5,7 @@ title = "एकन्तु लोकवेदेभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकन्तु लोकवेदेभ्यः सारमाकृष्य कथ्यते।  
 प्राणात्ययेऽपि न त्याज्यो न्याय्यो धर्मश्लथः पथः॥

@@ -6,7 +6,7 @@ title = "विधे पिधेहि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विधे पिधेहि शीतांशुं यावन्नायाति मे प्रियः।  
 आगते दयिते कुर्याः शतचन्द्रं नभस्तलम्॥

@@ -6,7 +6,7 @@ title = "भो भो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भो भो दिक्पतयः प्रयात परतः खं मुञ्चता७म्भोमुचः  
 पातालं व्रज मेदिनि प्रविशत क्षोणीतलं क्ष्माभृतः /  

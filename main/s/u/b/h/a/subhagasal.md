@@ -7,7 +7,7 @@ title = "सुभगसलिलावगाहाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभगसलिलावगाहाः पाटलसंसर्गसुरभिवनवाताः।  
 प्रच्छायसुलभनिद्रा दिवसाः परिणामरमणीयाः॥

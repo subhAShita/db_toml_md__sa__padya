@@ -5,7 +5,7 @@ title = "अपात्रे पात्रताबुद्धिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपात्रे पात्रताबुद्धिः पात्रे बुद्धिरपात्रता।  
 ऋणानुबन्धरूपेण दातुरुत्पद्यते मतिः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4052", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 24",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "अहमपि परेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहमपि परेऽपि कवयस् तथापि महदन्तरं परिज्ञेयम्।  
 ऐक्यं रलयोर्यद्यपि तत् किं करभायते कलभः॥

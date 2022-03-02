@@ -6,7 +6,7 @@ title = "हेलाविदलितकरिकुल कण्ठीरव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हेलाविदलितकरिकुल कण्ठीरव कीदृशः प्रकोपोऽयम्।  
 लोले बालशृगाले केवलकोलाहलाधारे॥

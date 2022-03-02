@@ -6,7 +6,7 @@ title = "आगच्छतामपूर्णानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगच्छतामपूर्णानां पूर्णानामपि गच्छताम्।  
 यदध्वनि न सङ्घट्टा घटानां किं सरोवरम्॥

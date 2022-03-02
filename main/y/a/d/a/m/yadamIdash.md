@@ -6,7 +6,7 @@ title = "यदमी दशन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदमी दशन्ति दशना रसना तत्स्वादमनुभवति।  
 प्रकृतिरियं विमलानां क्लिश्यन्ति यदन्यकार्येषु॥

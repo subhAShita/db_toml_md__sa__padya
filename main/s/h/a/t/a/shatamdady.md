@@ -6,7 +6,7 @@ title = "शतं दद्यान्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शतं दद्यान्न विवदेदिति विज्ञस्य संमतम्।  
 विना हेतुमपि द्वन्द्वमेतन्मूर्खस्य लक्षणम्॥

@@ -5,7 +5,7 @@ title = "उत्तमर्णमुखं पश्यन्न्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमर्णमुखं पश्यन्न् अधमर्णो ह्रिया नमन्।  
 मृत्युजीवितयोर्युद्धसंभ्रमं परिलोकते॥

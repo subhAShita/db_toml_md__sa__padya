@@ -5,7 +5,7 @@ title = "उक्तं परस्यामिषताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उक्तं परस्यामिषताम् अनुक्तं यात्यदृश्यताम्।  
 हृदये शल्यतां धत्ते निधने धनिनां धनम्॥

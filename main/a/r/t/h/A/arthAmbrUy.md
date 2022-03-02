@@ -5,7 +5,7 @@ title = "अर्थान् ब्रूयान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थान् ब्रूयान् न चासत्सु गुणान् ब्रूयान् न चात्मनः।  
 आदद्यान् न च साधुभ्यो नासत्पुरुषमाश्रयेत्॥

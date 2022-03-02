@@ -5,7 +5,7 @@ title = "अयि चातक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि चातक चञ्चुपुटात् स्खलयति जलदोदबिन्दुमनिलश्चेत्।  
 द्विज एव भाग्यहीनो जीवनदाता कृती जलदः॥

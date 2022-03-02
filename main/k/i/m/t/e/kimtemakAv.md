@@ -6,7 +6,7 @@ title = "किं तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं तेन काव्यमधुना प्लाविता रसनिर्झरैः।  
 जडात्मानोऽपि नो यस्य भवन्त्यङ्कुरितान्तराः॥

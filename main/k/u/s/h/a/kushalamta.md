@@ -7,7 +7,7 @@ title = "कुशलं तस्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुशलं तस्या जीवति कुशलं पृच्छामि जीवतीत्युक्तम्।  
 पुनरपि तदेव कथयसि मृता नु कथयामि या श्वसिति॥

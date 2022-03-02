@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6168", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०८ पण्डितप्रशंसा// 23",]
-jsonClass = "Subhaashita"
 topics = [ "पण्डितः",]
+jsonClass = "Subhaashita"
 title = "इह तुरगशतैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह तुरगशतैः प्रयान्तु मूर्खा धनरहिता विबुधाः प्रयान्तु पद्भ्याम्।  
 गिरिशिखरगतापि काकपङ्क्तिः पुलिनगतैर्न समत्वमेति हंसैः॥

@@ -6,7 +6,7 @@ title = "समुद्रावरणा भूमिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समुद्रावरणा भूमिः प्राकारावरणं गृहम्।  
 नरेन्द्रावरणा देशाश्चरित्रावरणाः स्त्रियः॥

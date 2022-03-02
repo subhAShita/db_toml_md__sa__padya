@@ -6,7 +6,7 @@ title = "परितप्यत एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परितप्यत एव नोत्तमः परितप्तोऽप्यपरः सुसंवृतिः।  
 परवृद्धिभिराहितव्यथः स्फुटनिर्भिन्नदुराशयोऽधमः॥

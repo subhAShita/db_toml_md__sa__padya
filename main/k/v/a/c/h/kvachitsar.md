@@ -6,7 +6,7 @@ title = "क्वचित्सर्पोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्वचित्सर्पोऽपि मित्रत्वमीयान्नैव खलः क्वचित्।  
 न शेषशायिनोऽप्यस्य वशे दुर्योधनो हरेः॥

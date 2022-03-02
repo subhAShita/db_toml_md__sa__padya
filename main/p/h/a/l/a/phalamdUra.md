@@ -6,7 +6,7 @@ title = "फलं दूरतरेऽप्यास्ताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फलं दूरतरेऽप्यास्तां पुष्णासि कुसुमैर्जनान्।  
 इतरे तरवो मन्ये करीर तव किङ्कराः॥

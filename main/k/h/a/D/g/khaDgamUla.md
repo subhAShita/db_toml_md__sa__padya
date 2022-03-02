@@ -6,7 +6,7 @@ title = "खड्गमूलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गमूलं भवेद्राज्यमस्त्रीमूलं स्थिरं भवेत्।  
 प्रजामूलं भवेदर्था वैरमूलं विनश्यति॥

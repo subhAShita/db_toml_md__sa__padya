@@ -7,7 +7,7 @@ title = "तस्याः श्रवणमार्गेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्याः श्रवणमार्गेण चलिते यदि लोचने।  
 कुतः प्रकामधवले धत्तः कृष्णानुरक्तताम्॥

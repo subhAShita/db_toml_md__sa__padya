@@ -6,7 +6,7 @@ title = "लक्ष्मणेत्युत्तरं यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लक्ष्मणेत्युत्तरं यत्र प्रश्नः स्यादत्र कीदृशः।  
 ग्रीष्मे द्विरदवृन्दाय वनाली कीदृशी हिता॥

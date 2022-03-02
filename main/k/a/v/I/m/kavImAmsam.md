@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9124", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 151",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "कवीनां सन्तापो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवीनां संतापो भ्रमणमभितो दुर्गतिरिति त्रयाणांपञ्चत्वं रचयसि न तच् चित्रमधिकम्।  
 चतुर्णां वेदानां व्यरचि नवता वीर भवता द्विषत्सेनालीनाभयुतमपि लक्षं त्वमकृथाः॥

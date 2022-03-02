@@ -7,7 +7,7 @@ title = "कुर्वता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्वता मुकुलिताक्षियुगानामङ्गसादमवसादितवाचाम्।  
 ईर्ष्ययेव हरता ह्रियमासां तद्गुणः स्वयमकारि मदेन॥

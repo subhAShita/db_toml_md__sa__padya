@@ -5,7 +5,7 @@ title = "अञ्जलिं शपथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अञ्जलिं शपथं सान्त्वं प्रणम्य शिरसा वदेत्।  
 अश्रुप्रपातनं चैव कर्तव्यं भूतिमिच्छता॥

@@ -5,7 +5,7 @@ title = "उपोदकी समायाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपोदकी समायाति तिन्तिडीमन्त्रिणा सह।  
 पलायध्वं पलायध्वं रे रे शाकविडम्बकाः॥

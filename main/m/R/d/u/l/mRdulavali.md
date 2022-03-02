@@ -7,7 +7,7 @@ title = "मृदुलवलिललितमध्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृदुलवलिललितमध्यं पृथुलकुचं चारु विपुलभूजघनम्।  
 पुन्नागस्पृहणीयं स्फुरति वनं यौवनं च नारीणाम्॥

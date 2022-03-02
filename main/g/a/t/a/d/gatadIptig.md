@@ -7,7 +7,7 @@ title = "गतदीप्तिगभस्तिमालिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतदीप्तिगभस्तिमालिनो  
 विलुठद्वीचिषु बिम्बमम्बुधेः ।  

@@ -7,7 +7,7 @@ title = "श्यामासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामासु प्रेतभूमिज्वलनचटचटारावदत्तावधाना  
 हुङ्कृत्योत्सारयन्ती चरणपरिसराज्जम्बुकानामनीकम् ।  

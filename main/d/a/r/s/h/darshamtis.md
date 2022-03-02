@@ -7,7 +7,7 @@ title = "दर्शन्ति शरन्नद्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दर्शन्ति शरन्नद्यः पुलिनानि शनैः शनैः।  
 नवसङ्गमसव्रीडा जघनानीव योषितः॥

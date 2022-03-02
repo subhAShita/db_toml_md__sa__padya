@@ -5,7 +5,7 @@ title = "करोऽतिताम्रो रामाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोऽतिताम्रो रामाणां तन्त्रीताडनविभ्रमम्।  
 करोति सेर्ष्यं कान्ते च श्रवणोत्पलताडनम्॥

@@ -6,7 +6,7 @@ title = "बलिः पातालनिलयोऽधः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलिः पातालनिलयोऽधः कृतश्चित्रमत्र किम्।  
 अधःकृतो दिविस्थोऽपि चित्रं कल्पद्रुमस्त्वया॥

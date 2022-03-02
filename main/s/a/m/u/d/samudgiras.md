@@ -6,7 +6,7 @@ title = "समुद्गिरसि किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समुद्गिरसि किं वाचः पुंस्कोकिल सुकोमलाः।  
 श्वभ्रेऽस्मिञ्जडपाषाणगुरुनिर्घोषभैरवे॥

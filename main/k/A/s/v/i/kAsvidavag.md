@@ -5,7 +5,7 @@ title = "कास्विद् अवगुण्ठनवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कास्विद् अवगुण्ठनवती नातिपरिस्फुटशरीरलावण्या।  
 मध्ये तपोधनानां किसलयमिव पाण्डुपत्राणाम्॥

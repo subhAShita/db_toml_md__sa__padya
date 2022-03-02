@@ -5,7 +5,7 @@ title = "अतिसज्जनदुर्गतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिसज्जनदुर्गतिः खलपङ्क्तिसमुन्नतिः।  
 युवतिस्तनविच्युतिरिति किं विधिनिर्मितिः॥

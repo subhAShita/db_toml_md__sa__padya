@@ -5,7 +5,7 @@ title = "अतुष्टं स्वेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतुष्टं स्वेषु दारेषु चपलं चपलेन्द्रियम्।  
 नयन्ति निकृतिप्रज्ञं परदाराः पराभवम्॥

@@ -5,7 +5,7 @@ title = "अतिवृष्टिरनावृष्टिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिवृष्टिरनावृष्टिः शलभाः मूषKआः शुकाः।  
 असत्करश्च दण्डश्च परचक्राणि तस्कराः॥

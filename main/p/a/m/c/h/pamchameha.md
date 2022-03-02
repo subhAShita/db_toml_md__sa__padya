@@ -6,7 +6,7 @@ title = "पञ्चमेऽहनि षष्ठे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्चमेऽहनि षष्ठे वा शाकं पचति यो गृहे।  
 अनृणी चाप्रवासी च स वारिचर मोदते॥

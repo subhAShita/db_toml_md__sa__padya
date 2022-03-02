@@ -7,7 +7,7 @@ title = "चत्वारिंशद्वत्सराणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चत्वारिंशद्वत्सराणां साष्टानाञ्च परे यदि।  
 स्त्रिया वियुज्यते कश्चित्स तु रण्डाश्रमी मतः॥

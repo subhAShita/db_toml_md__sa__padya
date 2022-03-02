@@ -6,7 +6,7 @@ title = "बिम्बाकारं सुधाधारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिम्बाकारं सुधाधारं कान्तावदनपङ्कजम्।  
 अत्र क्रियापदं गुप्तं मर्यादा दशवार्षिकी॥

@@ -7,7 +7,7 @@ title = "न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न भयान्नाप्यनुक्रोशान्नार्थहेतोः कथञ्चन।  
 न ज्ञातिकुलसम्बन्धात्स्त्रियस्तिष्ठन्ति भर्तृषु॥

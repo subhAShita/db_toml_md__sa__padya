@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5087", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 12",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आयाता मधुरजनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयाता मधुरजनी मधुरजनीगीतिहृद्येयम्।  
 अङ्कुरितः स्मरविटपी स्मर विट पीनस्तनीमबलाम्॥

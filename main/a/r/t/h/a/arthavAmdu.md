@@ -5,7 +5,7 @@ title = "अर्थवान् दुष्कुलीनोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थवान् दुष्कुलीनोऽपि लोके पूज्यतमो नरः।  
 शशिनस्तुल्यवंशोऽपि निर्धनः परिभूयते॥

@@ -6,7 +6,7 @@ title = "सरलप्रियं गुणाढ्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरलप्रियं गुणाढ्यं लम्बितमालं विचित्रतिलकं च।  
 वनमिव वपुस्तवैतत्कथमवनं नृप जनस्यास्य॥

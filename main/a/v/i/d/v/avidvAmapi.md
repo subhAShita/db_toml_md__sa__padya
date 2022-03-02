@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3352", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 237",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अविद्वानपि भूपालो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविद्वानपि भूपालो विद्यावृद्धोपसेवया।  
 परां श्रियमवाप्नोतिजलासन्नतरुर्यथा॥

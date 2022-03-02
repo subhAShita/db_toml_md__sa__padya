@@ -6,7 +6,7 @@ title = "पुष्पैरपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुष्पैरपि न योद्धव्यं किं पुनर्निशितैः शरैः।  
 जये भवति सन्देहः प्रधानपुरुषक्षयः॥

@@ -6,7 +6,7 @@ title = "दातव्यमिति यद्दानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दातव्यमिति यद्दानं दीयतेऽनुपकारिणे।  
 देशे काले च पात्रे च तद्दानं सात्त्विकं विदुः॥

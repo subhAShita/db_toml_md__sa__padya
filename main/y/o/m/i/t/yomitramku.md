@@ -6,7 +6,7 @@ title = "यो मित्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यो मित्त्रं कुरुते मूढ आत्मनोऽसदृशं कुधीः।  
 हीनं वाप्यधिकं वापि हास्यतां यात्यसौ जनः॥

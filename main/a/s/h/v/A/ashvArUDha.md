@@ -5,7 +5,7 @@ title = "अश्वारूढं पयःपानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्वारूढं पयःपानं गजारूढं तु मैथुनम्।  
 शिबिकीमर्दनं चैव पादचारी तु भोजनम्॥

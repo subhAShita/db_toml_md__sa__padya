@@ -5,7 +5,7 @@ title = "काकवराकमरालमवैषि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकवराकमरालमवैषि न जर्जरिताऽर्जुनतार्य कुतः।  
 विक्रमवैरिवधूजनलोचन- कज्जलवज्जलमज्जनतः॥

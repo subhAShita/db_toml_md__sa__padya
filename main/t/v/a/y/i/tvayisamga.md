@@ -6,7 +6,7 @@ title = "त्वयि सङ्गरसम्प्राप्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वयि सङ्गरसम्प्राप्ते धनुषासादिताः शराः।  
 शरैररिशिरस्तेन भूस्तया त्वं त्वया यशः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3861", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 258",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अस्त्यप्रतिसमाधेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्त्यप्रतिसमाधेयं स्तनद्वन्द्वस्य दूषणम्।  
 स्फुटतां कञ्चुकानां यन् नायात्यावरणीयताम्॥

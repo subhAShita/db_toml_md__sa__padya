@@ -5,7 +5,7 @@ title = "उपकारिणमपि पूज्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारिणमपि पूज्यं हन्ति महान्तं खलोऽत्रपोऽवसरे।  
 धृष्टद्युम्नो मध्ये- वीरं हतवान् गुरुं शान्तम्॥

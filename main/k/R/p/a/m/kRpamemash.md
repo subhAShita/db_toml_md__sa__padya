@@ -6,7 +6,7 @@ title = "कृपणेन शवेनेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृपणेन शवेनेव मृतेनापि न दीयते।  
 मांसं वर्धयता तेन काकस्योपकृतिः कृताः॥

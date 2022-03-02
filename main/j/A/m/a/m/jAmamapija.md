@@ -6,7 +6,7 @@ title = "जानन्नपि जनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जानन्नपि जनो दैवात्प्रकरोति विगर्हिचित्।  
 न कर्म गर्हितं लोके कस्यचिद्रोचते कृतम्॥

@@ -5,7 +5,7 @@ title = "अन्यायकरभोगैश्च यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यायकरभोगैश्च यो हि जीवति नित्यशः।  
 विरागादेव लोकानां भ्रंशते स हि पार्थिवः॥

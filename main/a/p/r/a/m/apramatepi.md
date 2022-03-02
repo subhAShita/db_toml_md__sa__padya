@@ -5,7 +5,7 @@ title = "अप्रमत्तेऽपि पुरुषे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रमत्तेऽपि पुरुषे हितकार्यावलम्बिनि।  
 दैवमुन्मार्गरसिकम् अन्यथैव प्रमद्यते॥

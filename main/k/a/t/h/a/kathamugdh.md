@@ -5,7 +5,7 @@ title = "कथं मुग्धे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं मुग्धे कथं वक्रे कान्तायास् ते विलोचने।  
 कथं जनानुरागाय कथं जनविपत्तये॥

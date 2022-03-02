@@ -7,7 +7,7 @@ title = "निद्रितस्य बत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निद्रितस्य बत शम्बरद्विषो जागराय किमु वारिवाहकः।  
 ऊर्जितं दधदतीव गर्जितं सम्भ्रमन्नभसि सम्भ्रमाद्ययौ॥

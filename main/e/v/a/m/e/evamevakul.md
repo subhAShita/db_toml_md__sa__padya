@@ -5,7 +5,7 @@ title = "एवमेव कुले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमेव कुले जाताः पावकोपमतेजसः।  
 क्षमावन्तो निराकाराः काष्ठेऽग्निरिव शेरते॥

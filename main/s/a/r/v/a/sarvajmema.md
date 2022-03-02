@@ -6,7 +6,7 @@ title = "सर्वज्ञेन त्वया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वज्ञेन त्वया किञ्चिन्नास्त्यविज्ञातमीदृशम्।  
 मिथ्यावचस्तथा च त्वमसत्यं वेत्सि न क्वचित्॥

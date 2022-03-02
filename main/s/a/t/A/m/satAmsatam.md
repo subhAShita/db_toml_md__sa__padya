@@ -6,7 +6,7 @@ title = "सतां स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सतां स तनुतामिष्टं धूर्जटिर्यस्य मूर्धनि ।  
 हंसः सुरसरिद्वारिविहारी प्लवते शशी ॥

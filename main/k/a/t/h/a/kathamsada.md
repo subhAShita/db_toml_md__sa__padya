@@ -5,7 +5,7 @@ title = "कथं स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं स दन्तरहितः सूर्यः सूरिभिरुच्यते।  
 यो मीनराशिं मुक्तैव मेषं भोक्तुं समुद्यतः॥

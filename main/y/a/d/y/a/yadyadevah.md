@@ -6,7 +6,7 @@ title = "यद्यदेव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यदेव हि वाञ्छेत ततो वाञ्छा प्रवर्तते।  
 प्राप्त एवार्थतः सोऽर्थो यतो वाञ्छा निवर्तते॥

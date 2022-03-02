@@ -5,7 +5,7 @@ title = "अष्टाविमानि हर्षस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टाविमानि हर्षस्य नवनीतानि भारत।  
 वर्तमानानि दृश्यन्ते तान्येव सुसुखान्यपि॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2970", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 641",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अर्थानामर्जनं कार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थानामर्जनं कार्यं वर्धनं रक्षणं तथा।  
 भक्ष्यमाणो निरादायः सुमेरुरपि हीयते॥

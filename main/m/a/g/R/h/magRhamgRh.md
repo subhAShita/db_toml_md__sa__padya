@@ -7,7 +7,7 @@ title = "न गृहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यते।  
 गृहं तु गृहिणीहीनं कान्तारादतिरिच्यते॥

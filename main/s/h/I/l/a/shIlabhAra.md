@@ -6,7 +6,7 @@ title = "शीलभारवती कान्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शीलभारवती कान्ता पुष्पभारवती लता।  
 अर्थबारवती वाणी भजते कामपि श्रियम्॥

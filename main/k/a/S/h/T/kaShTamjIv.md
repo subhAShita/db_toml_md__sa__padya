@@ -5,7 +5,7 @@ title = "कष्टं जीवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कष्टं जीवति गणको गणिका कथकश्च सेवको वैद्यः।  
 दिवसे दिवसे मरणं परजनमनरञ्जनी वृत्तिः॥

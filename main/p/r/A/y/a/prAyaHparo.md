@@ -6,7 +6,7 @@ title = "प्रायः परोपतापाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः परोपतापाय दुर्जनः सततोद्यतः।  
 अवश्यकरणीयत्वान्न कारणमपेक्षते॥

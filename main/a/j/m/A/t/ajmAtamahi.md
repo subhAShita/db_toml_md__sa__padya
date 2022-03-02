@@ -5,7 +5,7 @@ title = "अज्ञातमहिमा वाणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञातमहिमा वाणी शिवं स्तौतु रसोन्मदा।  
 रसातिरेकादौचित्यभङ्गः स्त्रीणां क्व लभ्यते॥

@@ -6,7 +6,7 @@ title = "दूरस्थाः पर्वता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरस्थाः पर्वता रम्या वेश्या च मुखमण्डने।  
 युद्धस्य वार्ता रम्या च त्रीणि रम्याणि दूरतः॥

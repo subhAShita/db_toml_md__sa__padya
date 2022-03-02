@@ -6,7 +6,7 @@ title = "स्थिरा शैली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थिरा शैली गुणवतां खलबुद्ध्या न बाध्यते।  
 रत्नदीपस्य हि शिका वात्ययापि न नाश्यते॥

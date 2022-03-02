@@ -5,7 +5,7 @@ title = "सत्येनोत्पद्यते धर्मो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्येनोत्पद्यते धर्मो दयादानैर्विवर्धते।  
 क्षमया स्थाप्यते धर्मः क्रोधलोभैर्विनश्यति॥

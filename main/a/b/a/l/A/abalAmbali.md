@@ -5,7 +5,7 @@ title = "अबलां बलिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अबलां बलिना नीतां दशामिमां मकरकेतुना रक्ष।  
 आपत्पतितोद्धृतये भवति हि शुभजन्मनां जन्म॥

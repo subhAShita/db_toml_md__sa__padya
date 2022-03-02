@@ -6,7 +6,7 @@ title = "न जातु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न जातु कामः कामानामुपभोगेन शाम्यति।  
 हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते॥

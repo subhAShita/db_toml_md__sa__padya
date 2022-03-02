@@ -6,7 +6,7 @@ title = "सम्प्रति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्प्रति न कल्पतरवो न सिद्धयो नापि देवता वरदाः।  
 जलद त्वयि विश्राम्यति सृष्टिरियं भुवन लोकस्य॥

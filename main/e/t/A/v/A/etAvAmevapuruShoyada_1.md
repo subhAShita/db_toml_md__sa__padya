@@ -5,7 +5,7 @@ title = "एतावानेव पुरुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतावानेव पुरुषो यदमर्षी यदक्षमी।  
 क्षमवान् निरमर्षश्च नैव स्त्री न पुनः पुनः॥

@@ -5,7 +5,7 @@ title = "इत्येतत् तपसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्येतत् तपसो देवा महाभाग्यं प्रचक्षते।  
 सर्वस्यास्य प्रपश्यन्तस् तपसः पुण्यमुद्भवम्॥

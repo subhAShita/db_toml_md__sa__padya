@@ -5,7 +5,7 @@ title = "उद्ययौ दीर्घिकागर्भान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्ययौ दीर्घिकागर्भान् मुकुलं मेचकोत्पलम्।  
 नारीलोचनचातुर्यश कासंकुचितं यथा॥

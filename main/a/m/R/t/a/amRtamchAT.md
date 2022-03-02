@@ -5,7 +5,7 @@ title = "अनृतं चाटुवादश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनृतं चाटुवादश्च धनयोगो महानयम्।  
 सत्यं वैदुष्यमित्येष योगो दारिद्र्यकारकः॥

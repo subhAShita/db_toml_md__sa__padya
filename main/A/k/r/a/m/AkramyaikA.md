@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4332", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 84",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "आक्रम्यैकामग्रपादेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आक्रम्यैकामग्रपादेन जङ्घाम् अन्यामुच्चैराददानः करेण।  
 सास्थिस्वानं दारुवद्दारुणात्मा कञ्चिन्मध्यात् पाटयामास दन्ती॥

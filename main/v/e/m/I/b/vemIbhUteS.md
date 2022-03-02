@@ -6,7 +6,7 @@ title = "वेणीभूतेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेणीभूतेषु केशेष्वतसिफणिधिया द्रष्टुमागत्य केकी    
 पश्चादारभ्य योद्धं प्रतिशिखिमनसा तेषु विस्रंसितेषु ।  

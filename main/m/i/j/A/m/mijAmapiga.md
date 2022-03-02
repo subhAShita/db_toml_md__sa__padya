@@ -6,7 +6,7 @@ title = "निजानपि गजान्भोजम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजानपि गजान्भोजं ददानं प्रेक्ष्य पार्वती।  
 गजेन्द्रवदनं पुत्रं रक्षत्यथ पुनः पुनः॥

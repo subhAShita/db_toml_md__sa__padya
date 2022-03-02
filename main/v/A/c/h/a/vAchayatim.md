@@ -6,7 +6,7 @@ title = "वाचयति नान्यलिखितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाचयति नान्यलिखितं लिखितमनेनापि वाचयति नान्यः।  
 अयमपरोऽस्य विशेषः स्वयमपि लिखितं स्वयं न वाचयति॥

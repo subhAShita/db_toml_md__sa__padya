@@ -6,7 +6,7 @@ title = "देहे पातिनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देहे पातिनि का रक्षा यशो रक्ष्यमपातवत्।  
 नरः पतितकायोऽपि यशःकायेन जीवति॥

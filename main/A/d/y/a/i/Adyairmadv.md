@@ -5,7 +5,7 @@ title = "आद्यैर्मद्विहितैः पद्यैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आद्यैर्मद्विहितैः पद्यैः कियद्भिरपरैरपि।  
 युता पद्धतिरेषास्तु सज्जनानन्ददायिनी॥

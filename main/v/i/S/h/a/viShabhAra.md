@@ -6,7 +6,7 @@ title = "विषभारसहस्रेण गर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषभारसहस्रेण गर्वं नायाति वासुकिः।  
 वृश्चिको बिन्दुमात्रेण ऊर्ध्वं वहति कण्टकम्॥

@@ -5,7 +5,7 @@ title = "आचारप्रेरको राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचारप्रेरको राजा ह्येतत् कालस्य कारणम्।  
 यदि कालह् प्रमाणं हि कस्माद् धर्मोऽस्ति कर्तृषु॥

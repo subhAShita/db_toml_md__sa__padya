@@ -6,7 +6,7 @@ title = "नमस्यामो देवान्ननु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमस्यामो देवान्ननु हतविधेस्तेऽपि वशगा  
 विधिर्वन्द्यः सोऽपि प्रतिनियतकर्मैकफलदः।  

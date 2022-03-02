@@ -7,7 +7,7 @@ title = "चक्रीकृतभुजलतिकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चक्रीकृतभुजलतिकं वक्रीकृतवक्त्रमुन्नमद्ग्रीवम्।  
 नो हरति कस्य हृदयं हरिणदृशो जृम्भणारम्भः॥

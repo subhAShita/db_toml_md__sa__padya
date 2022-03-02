@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9034", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 90",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "कलुषं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलुषं च तवाहितेष्वकस्मात् सितपङ्केरुहसोदरश्रि चक्षुः।  
 पतितं च महीपतीन्द्र तेषां वपुषि प्रस्फुटमापदां कटाक्षैः॥

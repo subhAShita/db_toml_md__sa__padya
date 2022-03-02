@@ -6,7 +6,7 @@ title = "यथा खनन्खनित्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा खनन्खनित्रेण नरो वार्यधिगच्छति।  
 तथा गुरुगतां विद्यां शुश्रूषुरधिगच्छति॥

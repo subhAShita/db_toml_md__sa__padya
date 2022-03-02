@@ -5,7 +5,7 @@ title = "एष्टव्या बहवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष्टव्या बहवः पुत्रा यद्येकोऽपि गयां व्रजेत्।  
 यत्रासौ प्रथितो लोकेष्व् अक्षय्यकरणो वटः॥

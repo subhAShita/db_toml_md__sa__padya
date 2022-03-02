@@ -7,7 +7,7 @@ title = "व्यजनं व्यजनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यजनं व्यजनं जलं जलं घनसारो घनसार इत्यपि।  
 अवरोधगृहेषु सुभ्रुवां कुररीणामिव कारतो ध्वनिः॥

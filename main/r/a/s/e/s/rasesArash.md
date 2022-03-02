@@ -7,7 +7,7 @@ title = "रसे सारश्चमत्कारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रसे सारश्चमत्कारो यं विना न रसो रसः ।  
 तच्चमत्कारसारत्वे सर्वत्रैवाद्भुतो रसः ॥

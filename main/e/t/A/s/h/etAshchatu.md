@@ -5,7 +5,7 @@ title = "एताश् चतुष्टयकला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एताश् चतुष्टयकला द्वात्रिंशत् क्रमधृताः समस्ता वा।  
 संसारवञ्चकानां विद्या विद्यावतामेव॥

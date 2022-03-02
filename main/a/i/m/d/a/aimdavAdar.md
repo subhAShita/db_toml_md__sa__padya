@@ -5,7 +5,7 @@ title = "ऐन्दवादर्चिषः कामी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऐन्दवादर्चिषः कामी शिशिरं हव्यवाहनम्।  
 अबलाविरहक्लेशविह्वलो गणयत्ययम्॥

@@ -5,7 +5,7 @@ title = "आरक्ततामेति मुखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरक्ततामेति मुखं जिह्वा वा श्यामतां यदा।  
 तदा प्राज्ञो विजानीयान् मृत्युमासन्नमात्मनः॥

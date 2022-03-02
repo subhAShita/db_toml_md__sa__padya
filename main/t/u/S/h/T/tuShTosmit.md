@@ -7,7 +7,7 @@ title = "\"तुष्टोऽस्मि तात"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 "तुष्टोऽस्मि तात पठितौ भवतेतिहासौ  
 तत्कथ्यतामिह तयोरुपदेशसारम्" ।  

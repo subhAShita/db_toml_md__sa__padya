@@ -6,7 +6,7 @@ title = "धनेषु जीवितव्येषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनेषु जीवितव्येषु स्त्रीषु भोजनवृत्तिषु।  
 अतृप्ता मानवाः सर्वे याता यास्यन्ति यान्ति च॥

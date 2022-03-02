@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2112", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 15",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अपूर्वेयं धनुर्विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूर्वेयं धनुर्विद्या भवता शिक्षिता कुतः।  
 मार्गणौघः समायाति गुणो जाति दिगन्तरम्॥

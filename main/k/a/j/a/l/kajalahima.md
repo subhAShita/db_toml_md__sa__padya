@@ -5,7 +5,7 @@ title = "कज्जलहिमकनकरुचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कज्जलहिमकनकरुचः सुपर्णवृषहंसवाहनाः शं वः।  
 जलनिधिगिरिकमलस्था हरिहरकमलासना ददतु॥

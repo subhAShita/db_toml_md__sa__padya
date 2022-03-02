@@ -7,7 +7,7 @@ title = "सौवर्णकङ्कणश्रेण्या भाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौवर्णकङ्कणश्रेण्या भाति तद्बाहुकन्दली।  
 तूणचम्पकमौर्व्येव पुष्पचापेन वेष्टिता॥

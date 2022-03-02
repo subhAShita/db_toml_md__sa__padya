@@ -5,7 +5,7 @@ title = "अनुकूले सति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुकूले सति धातरि भवत्यनिष्टादपीष्टमविलम्बम्।  
 पीत्वा विषमपि शंभुर् मृत्युंजयतामवाप तत्कालम्॥

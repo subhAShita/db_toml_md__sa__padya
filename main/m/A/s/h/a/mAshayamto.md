@@ -7,7 +7,7 @@ title = "नाशयन्तो घनध्वान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाशयन्तो घनध्वान्तं तापयन्तो वियोगिनः।  
 पतन्ति शशिनः पादा भासयन्तः क्षमातलम्॥

@@ -6,7 +6,7 @@ title = "स्नायं स्नायमनारतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नायं स्नायमनारतं धनवतामग्रे निरीहव्रताः  
 प्रायो मृत्तिलदर्भसंग्रहरताः सम्मोहयन्तो जगत्।  

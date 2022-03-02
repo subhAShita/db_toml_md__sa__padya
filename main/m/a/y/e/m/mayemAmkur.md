@@ -6,7 +6,7 @@ title = "नयेनाङ्कुरितं शौर्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नयेनाङ्कुरितं शौर्यं जयाय न तु केवलम्।  
 अन्ययुक्तं विषं भुक्तं पथ्यं स्यादन्यथा मृतिः॥

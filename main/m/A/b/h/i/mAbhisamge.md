@@ -7,7 +7,7 @@ title = "नाभिसङ्गेन गौराङ्ग्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाभिसङ्गेन गौराङ्ग्याः शोभते रोममञ्जरी।  
 कन्दर्पहेमकटकाल्लाक्षाधारेव निर्गता॥

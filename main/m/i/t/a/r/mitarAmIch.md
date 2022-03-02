@@ -6,7 +6,7 @@ title = "नितरां नीचोऽस्मीति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नितरां नीचोऽस्मीति त्वं खेदं कूप मा कदापि कृथाः।  
 अत्यन्तसरसहृदयो यतः परेषां गुणग्रहीतासि॥

@@ -6,7 +6,7 @@ title = "नदीतीरेषु ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नदीतीरेषु ये वृक्षा यस्य नारी निरङ्कुशा।  
 मन्त्रिहीनो भवेद्राजा तस्य राज्यं विनश्यति॥

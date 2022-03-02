@@ -6,7 +6,7 @@ title = "लब्धोदयोऽपि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लब्धोदयोऽपि हि खलः प्रथमं स्वजनं नयति सुपरितापम्।  
 उद्गच्छन्दवदहनो जन्मभुवं दारु निर्दहति॥

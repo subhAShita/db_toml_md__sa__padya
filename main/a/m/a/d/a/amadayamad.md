@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2421", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 52",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अमदयन्मधुगन्धसनाथया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमदयन्मधुगन्धसनाथया किसलयाधरसंगतया मनः।  
 कुसुमसंभृतया नवमल्लिका स्मितरुचा तरुचारुविलासिनी॥

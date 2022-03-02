@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9691", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २३ कायस्थनिन्दा// 2",]
-jsonClass = "Subhaashita"
 topics = [ "कायस्थः",]
+jsonClass = "Subhaashita"
 title = "कायस्थेनोदरस्थेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कायस्थेनोदरस्थेन मातुरामिषशङ्कया।  
 अन्त्राणि यन्न भुक्तानि तस्य हेतुरदन्तता॥

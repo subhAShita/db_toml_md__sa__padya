@@ -5,7 +5,7 @@ title = "कयासि कामिन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कयासि कामिन् सुरतापराधात् पादानतः कोपनयावधूतः।  
 तस्याः करिष्यामि दृढानुतापं प्रवालशय्याशरणं शरीरम्॥

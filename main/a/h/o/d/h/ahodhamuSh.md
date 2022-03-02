@@ -5,7 +5,7 @@ title = "अहो धनुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो धनुषि नैपुण्यं मन्मथस्य महात्मनः।  
 शरीरमक्षतं कृत्वा भिनत्त्यन्तर्गतं मनः॥

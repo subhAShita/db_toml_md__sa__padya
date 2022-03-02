@@ -5,7 +5,7 @@ title = "काव्यं यद्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यं यद्यपि रसिकं प्रीतिकरं भवति नैकरसबद्धम्।  
 सुरतमनाहितकलहं हरिणदृशो नाभिनन्दयति॥

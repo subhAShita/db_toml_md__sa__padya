@@ -5,7 +5,7 @@ title = "अज्ञानेनावृतो लोको"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञानेनावृतो लोको मात्सर्यान्न प्रकाशते।  
 लोभात् त्यजति मित्राणि सङ्गात् स्वर्गं न गच्छति॥

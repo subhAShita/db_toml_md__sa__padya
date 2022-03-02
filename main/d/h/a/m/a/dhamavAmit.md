@@ -6,7 +6,7 @@ title = "धनवानिति हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनवानिति हि मदो मे किं गतविभवो विषादमुपयामि।  
 करनिहतकन्दुकसमाः पातोत्पाता मनुष्याणाम्॥

@@ -5,7 +5,7 @@ title = "उत्तमकुलेऽपि जातः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमकुलेऽपि जातः सेवां विदधाति नीचलोकस्य।  
 वदति च वाचं नीचाम् उदरेश्वरपीडितो मर्त्यः॥

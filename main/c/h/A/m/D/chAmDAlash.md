@@ -6,7 +6,7 @@ title = "चाण्डालश्च दरिद्रश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चाण्डालश्च दरिद्रश्च द्वावेतौ सदृशाविह।  
 चाण्डालस्य न गृह्णन्ति दरिद्रो न प्रयच्छति॥

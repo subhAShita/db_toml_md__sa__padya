@@ -5,7 +5,7 @@ title = "अनङ्गीकृतकामानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनङ्गीकृतकामानाम् अनुमानार्हवर्ष्मणाम्।  
 ध्र्तनिर्मलतीर्थानां भूतिलेपो विभूषणम्॥

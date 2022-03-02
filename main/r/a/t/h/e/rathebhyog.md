@@ -6,7 +6,7 @@ title = "रथेभ्यो गजवाजिभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रथेभ्यो गजवाजिभ्यः सङ्ग्रामे वीरसङ्कराः।  
 पतिताः पात्यमानाश्च दृश्यन्तेऽर्जुनताडिताः॥

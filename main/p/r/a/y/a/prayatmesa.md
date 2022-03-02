@@ -6,7 +6,7 @@ title = "प्रयत्ने समके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रयत्ने समके केचिदेव स्युः फलभागिनः।  
 क्षीरोदमथनाद्देवैरमृतं प्रापि नासुरैः॥

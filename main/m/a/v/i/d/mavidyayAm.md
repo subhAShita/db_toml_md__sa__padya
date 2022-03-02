@@ -6,7 +6,7 @@ title = "न विद्यया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विद्यया नैव कुलेन गौरवं जनानुरागो धनिकेषु सर्वदा।  
 कपालिना मौलिधृतापि जाह्नवी प्रयाति रत्नाकरमेव सत्वरम्॥

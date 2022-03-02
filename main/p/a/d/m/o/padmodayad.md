@@ -6,7 +6,7 @@ title = "पद्मोदयदिनाधीशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पद्मोदयदिनाधीशः सदागतिसमीरणः।  
 भूभृदावलिदम्भोलिरेक एव भवान्भुवि॥

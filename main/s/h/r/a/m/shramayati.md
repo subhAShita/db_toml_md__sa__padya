@@ -7,7 +7,7 @@ title = "श्रमयति शरीरमधिकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रमयति शरीरमधिकं भ्रमयति चेतः करोति सन्तापम्।  
 मोहं मुहुश्च कुरुते विषविषमं वीक्षणं तस्याः॥

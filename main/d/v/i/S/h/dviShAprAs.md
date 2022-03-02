@@ -6,7 +6,7 @@ title = "द्विषा प्रासहृतप्राणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विषा प्रासहृतप्राणो वाजिपृष्ठदृढासनः।  
 हस्तोद्धृतमहाप्रासो भटो जीवन्निवाभ्रमत्॥

@@ -6,7 +6,7 @@ title = "दीपनिर्वाणगन्धं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीपनिर्वाणगन्धं च सुहृद्वाक्यमरुन्धतीम्।  
 न जिघ्रन्ति न शृण्वन्ति न पश्यन्ति गतायुषः॥

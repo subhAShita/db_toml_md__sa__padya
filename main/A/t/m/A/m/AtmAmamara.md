@@ -6,7 +6,7 @@ title = "आत्मानमरणिं कृत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानमरणिं कृत्वा प्रणवं चोत्तरारणिम् ।  
 ज्ञाननिर्मथनाभ्यासात्पापं दहति पण्डितः ॥

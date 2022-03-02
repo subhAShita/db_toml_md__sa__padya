@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9475", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "सुरतकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कान्ते कलितचोलान्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्ते कलितचोलान्ते दीपे वैरिणि दीप्यति।  
 आसीदसितपद्माक्ष्याः पक्षो नयनमुद्रणम्॥

@@ -5,7 +5,7 @@ title = "उन्नतानां सुवंशानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नतानां सुवंशानां द्वैधं तावन्न जायते।  
 यावत् कुठारधारेव योषिद् विशति नान्तरम्॥

@@ -7,7 +7,7 @@ title = "भक्तिश्रद्धारसो गुप्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्तिश्रद्धारसो गुप्तो जपपूजाध्वरादिषु।  
 गतेषु तेषु तन्नाशः पात्राभावे जलं यथा ॥

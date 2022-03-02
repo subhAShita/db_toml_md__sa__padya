@@ -6,7 +6,7 @@ title = "इतिहासपुराणाभ्यां वेदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतिहासपुराणाभ्यां वेदं समुपबृंहयेत् ।  
 बिभेत्यल्पश्रुताद्वेदो मामयं प्रहरेदिति ॥

@@ -5,7 +5,7 @@ title = "इडा च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इडा च पिङ्गला चैव सुषुम्णा च सरस्वती।  
 गान्धारी हस्तिजिह्वा च पूषा चैव निगद्यते॥

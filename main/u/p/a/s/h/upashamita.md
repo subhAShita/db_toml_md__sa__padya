@@ -5,7 +5,7 @@ title = "उपशमितमेघनादम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपशमितमेघनादं प्रज्वलितदशाननं रमितरामम्।  
 रामायणमिव सुभगं दीपदिनं हरतु वो दुरितम्॥

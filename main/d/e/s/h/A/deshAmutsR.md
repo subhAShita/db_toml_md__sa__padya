@@ -6,7 +6,7 @@ title = "देशानुत्सृज्य गच्छन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देशानुत्सृज्य गच्छन्ति सिंहाः सत्पुरुषा गजाः।  
 तत्रैव निधनं यान्ति काकाः कापुरुषा मृगाः॥

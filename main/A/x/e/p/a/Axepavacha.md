@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4353", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०१ राजा// 13",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "आक्षेपवचनं तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आक्षेपवचनं तस्य न वक्तव्यं कदाचन।  
 अनुकूलं प्रियं चास्य वक्तव्यं जनसंसदि॥

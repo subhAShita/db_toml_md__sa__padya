@@ -2,11 +2,11 @@
 topics = [ "स्वशक्तिः", "लोभः", "तृप्तिः", "विधिः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "यद्धात्रा"
+title = "यद् धात्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद् धात्रा निज-भाल-पट्ट-लिखितं स्तोकं महद् वा धनं  
 तत् प्राप्नोति मरु-स्थले ‌ऽपि नितरां मेरौ ततो नाधिकम् ।  

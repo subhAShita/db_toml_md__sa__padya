@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1398", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 3",]
-jsonClass = "Subhaashita"
 topics = [ "धीरः",]
+jsonClass = "Subhaashita"
 title = "कृतं पुरुषशब्देन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतं पुरुषशब्देन जातिमात्रावलम्बिना।  
 योऽङ्गीकृतगुणैः श्लाध्यः सविस्मयमुदाहृतः॥

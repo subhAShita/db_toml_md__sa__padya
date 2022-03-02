@@ -6,7 +6,7 @@ title = "वागर्थाविव सम्पृक्तौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वागर्थाविव सम्पृक्तौ शतकोटिप्रविस्तरम्।  
 तुरासाहं पुरोधाय नेमुः सर्वे सुराः शिवौ॥

@@ -5,7 +5,7 @@ title = "अयं स्वार्थः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं स्वार्थः परार्थोऽयम् इत्येवं वा न कल्पयेत्।  
 विबुधा नैव मन्यन्ते स्वं परं वा पृथक् पृथक्।  

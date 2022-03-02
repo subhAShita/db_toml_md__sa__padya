@@ -5,7 +5,7 @@ title = "अथानन्दकरं वक्ष्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथानन्दकरं वक्ष्ये षडर्तूनां च वर्णनम्।  
 यद्रसास्वादमुदिता विभान्ति विबुधालयः॥

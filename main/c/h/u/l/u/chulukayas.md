@@ -8,7 +8,7 @@ title = "चुलुकयसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चुलुकयसि चन्द्रदीधितिमविरलमश्नासि नूनमङ्गारान्।  
 अधिकरणमुष्णमनयोः किमिह चकोरावधारयसि॥

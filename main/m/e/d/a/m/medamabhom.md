@@ -7,7 +7,7 @@ title = "नेदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नेदं नभोमण्डलमम्बुराशिर्नैताश्च तारा नवफेनभङ्गाः।  
 नायं शशी कुण्डलितः फणीन्द्रो नासौ कलङ्कः शयितो मुरारिः॥

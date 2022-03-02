@@ -5,7 +5,7 @@ title = "आशासरसीं शोषय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशासरसीं शोषय तपसा तन्मध्यस्थः पोषय मनसा।  
 कायक्लेशं शोधय परुषं शिथिलय परमब्रह्मणि कलुषम्॥

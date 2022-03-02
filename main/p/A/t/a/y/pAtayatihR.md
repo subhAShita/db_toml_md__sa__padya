@@ -7,7 +7,7 @@ title = "पातयति हृदयदेशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातयति हृदयदेशे प्रियजनगर्भे पुनः पुनर्मुग्धा।  
 वर्णितमदनातङ्का बाष्पवतीं भावमन्थरां दृष्टिम्॥

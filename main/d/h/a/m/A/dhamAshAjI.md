@@ -6,7 +6,7 @@ title = "धनाशा जीविताशा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनाशा जीविताशा च गुर्वी प्राणभृतां सदा।  
 वृद्धस्य तरुणी भार्या प्राणेभ्योऽपि गरीयसी॥

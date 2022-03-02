@@ -5,7 +5,7 @@ title = "अर्थानर्थान्तरे बुद्धिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थानर्थान्तरे बुद्धिर् निश्चितापि न शोभते।  
 घातयन्ति हि कर्याणि दूताः पण्डितमानिनः॥

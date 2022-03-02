@@ -6,7 +6,7 @@ title = "धनिनोऽपि निरुन्मादा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनिनोऽपि निरुन्मादा युवानोऽपि न चञ्चलाः।  
 प्रभवोऽप्यप्रमत्तास्ते महामहिमशालिनः॥

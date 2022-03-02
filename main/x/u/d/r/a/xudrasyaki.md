@@ -6,7 +6,7 @@ title = "क्षुद्रस्य किल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षुद्रस्य किल दोषेण दोषवानेव हन्यते ।  
 दोषवान्भूपतिर्हन्ति सर्वमात्मविवर्जितम् ॥

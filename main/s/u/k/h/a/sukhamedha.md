@@ -5,7 +5,7 @@ title = "सुखमेधन्ति बहवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुखमेधन्ति बहवो यस्मिंस्तु निहते सति।  
 तस्मिन् हते नास्ति भद्रे पातकं नोपपातकम्॥

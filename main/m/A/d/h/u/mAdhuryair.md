@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०६ जगन्नाथपण्डितः// 14",]
-jsonClass = "Subhaashita"
 topics = [ "जगन्नाथपण्डितः",]
+jsonClass = "Subhaashita"
 title = "माधुर्यैरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माधुर्यैरपि धुर्यैर्द्राक्षाक्षीरेक्षुमाक्षिकादीनाम्।  
 वन्घ्यैव माधुरीयं पण्डितराजस्य कवितायाः॥

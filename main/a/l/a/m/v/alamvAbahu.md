@@ -5,7 +5,7 @@ title = "अलं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलं वा बहु यो ब्रूते हितवाक्यावमानिनः।  
 स तस्माल्लभते दोषं कपेः सूचीमुखो यथा॥

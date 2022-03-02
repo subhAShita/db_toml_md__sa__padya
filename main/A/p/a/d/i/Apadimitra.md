@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4918", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 755",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "आपदि मित्त्रपरीक्षा"
+jsonClass = "Subhaashita"
+title = "आपदि मित्रपरीक्षा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदि मित्रपरीक्षा शूरपरीक्षा रणाङ्गणे भवति।  
 विनये वंशपरीक्षा स्त्रियः परीक्षा तु निर्धने पुंसि॥

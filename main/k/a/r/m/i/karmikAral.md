@@ -5,7 +5,7 @@ title = "कर्णिकारलताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णिकारलताः फुल्लकुसुमाकुलषट्पदाः।  
 सकज्जलशिखा रेजुर् दीपमाला इवोज्ज्वलाः॥

@@ -2,13 +2,13 @@
 topics = [ "विलापः - वियोगे", "प्रिय-वियोगः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१४ वियोगिनो विप्रलापाः// 5",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "यदि स्मरामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि स्मरामि तन्वङ्गीं जीविताशा कुतो मम।  
 अथ विस्मृत्य जीवामि जीवितव्यसनेन किम्॥

@@ -6,7 +6,7 @@ title = "न मेऽस्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न मेऽस्ति विद्या न तथास्ति मेधा  
 न वास्ति बुद्धिः प्रतिभोज्ज्वला च।  

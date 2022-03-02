@@ -7,7 +7,7 @@ title = "दूरलग्नपरिमेयरश्मिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरलग्नपरिमेयरश्मिना वारुणी दिगरुणेन भानुना।  
 भाति केसरवतेव मण्डिता बन्धुजीवतिलकेन कन्यका॥

@@ -5,7 +5,7 @@ title = "अन्तस्तिमिरनाशाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तस्तिमिरनाशाय शाब्दबोधो निरर्थकः।  
 न नश्यति तमो नाम कृतया दीपवार्तया॥

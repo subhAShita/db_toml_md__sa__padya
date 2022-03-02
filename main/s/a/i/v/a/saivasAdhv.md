@@ -7,7 +7,7 @@ title = "सैव साध्वी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सैव साध्वी सुभक्तश्च सुस्नेहः सरसोज्ज्वलः।  
 पाकः सञ्जायते यस्याः करादप्युदरादपि॥

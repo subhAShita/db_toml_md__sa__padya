@@ -6,7 +6,7 @@ title = "सविता विधवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सविता विधवति विधुरपि सवितरति तथा दिनन्ति यामिन्यः।  
 यामिनयन्ति दिनानि च सुखदुःखवशीकृते मनसि॥

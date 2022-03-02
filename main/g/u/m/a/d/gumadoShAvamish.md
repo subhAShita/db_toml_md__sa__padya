@@ -6,7 +6,7 @@ title = "गुणदोषावनिश्चित्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणदोषावनिश्चित्य विधिर्न ग्रहनिग्रहे।  
 स्वनाशाय यथा न्यस्तो दर्पात्सर्पमुखे करः॥

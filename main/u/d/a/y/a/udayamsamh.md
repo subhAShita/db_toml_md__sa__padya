@@ -5,7 +5,7 @@ title = "उदयं संहता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयं संहता एव संहता एव च क्षयम्।  
 प्रयान्तः स्पृहणीयत्वं तन्त्रिणः कस्य नागमन्॥

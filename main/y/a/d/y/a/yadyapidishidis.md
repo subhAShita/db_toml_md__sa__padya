@@ -6,7 +6,7 @@ title = "यद्यपि दिशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि दिशि दिशि तरवः परिमलबहुलाश्च पारिजाताद्याः।  
 तदपि रसालोऽप्येकः कोकिलहृदये सदा वसति॥

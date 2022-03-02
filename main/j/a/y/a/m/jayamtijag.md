@@ -6,7 +6,7 @@ title = "जयन्ति जगताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयन्ति जगतां मातुस्तनकुङ्कुमबिन्दवः।  
 मुकुन्दाश्लेषसंक्रान्तकौस्तुभश्रीविडम्बिनः॥

@@ -5,7 +5,7 @@ title = "अमोघा वासरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमोघा वासरे विद्युद् अमोघं निशि गर्जितम्।  
 अमोघा मुनीनां वाणी अमोघं देवदर्शनम्॥

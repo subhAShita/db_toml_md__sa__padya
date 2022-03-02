@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8687", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 32",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कम्बुकण्ठि चरणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कम्बुकण्ठि चरणः शनैश्चरो राहुरेष तव केशकलापः।  
 न च्युतं तदपि यौवनमेतत् सा पयोधरगुरोरनुकम्पा॥

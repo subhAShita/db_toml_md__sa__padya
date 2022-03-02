@@ -5,7 +5,7 @@ title = "कषायरागवचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कषायरागवचनं वीतरागोऽधरस्तव।  
 विहारः कण्ठदेशश्च दूति प्रव्रजितासि किम्॥

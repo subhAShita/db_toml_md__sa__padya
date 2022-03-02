@@ -5,7 +5,7 @@ title = "अनारोग्यमनायुष्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनारोग्यमनायुष्यम् अस्वर्ग्यं चातिभोजनम्।  
 अपुण्यं लोकविद्विष्टं तस्मात् तत् परिवर्जयेत्॥

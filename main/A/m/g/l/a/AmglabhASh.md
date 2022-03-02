@@ -7,7 +7,7 @@ title = "आङ्ग्लभाषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आङ्ग्लभाषा क्रिकेट्क्रीडा द्वयमेतन्न मे मुदे ।  
 सहे कथञ्चित् प्रथमं परस्मै दूरतो नमः ॥

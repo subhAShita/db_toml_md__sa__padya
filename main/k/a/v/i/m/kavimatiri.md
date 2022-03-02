@@ -5,7 +5,7 @@ title = "कविमतिरिव बहुलोहा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविमतिरिव बहुलोहा सुघटितचक्रा प्रभातवेलेव।  
 हरमूर्तिरिव हसन्ती भाति विधूमानलोपेता॥

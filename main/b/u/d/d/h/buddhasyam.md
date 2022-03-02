@@ -7,7 +7,7 @@ title = "बुद्धस्य नाशयद्भिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुद्धस्य नाशयद्भिः प्रतिमां भुवनोन्नतां म्लेच्छैः ।  
 नश्वरमखिलमितीदं बौद्धं सत्यापितं तत्त्वम् ॥

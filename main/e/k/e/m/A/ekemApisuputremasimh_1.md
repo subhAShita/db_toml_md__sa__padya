@@ -5,7 +5,7 @@ title = "एकेनापि सुपुत्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेनापि सुपुत्रेण सिंही स्वपिति निर्भयम्।  
 सहैव दशभिः पुत्रैर् भारं वहति गर्दभी॥

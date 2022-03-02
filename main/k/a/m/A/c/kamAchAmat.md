@@ -5,7 +5,7 @@ title = "कणाचामतुषाङ्गारान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कणाचामतुषाङ्गारान् यत्नेन परिरक्षसि।  
 मूषकापहृतं कोषे रत्नराशिं न पश्यसि॥

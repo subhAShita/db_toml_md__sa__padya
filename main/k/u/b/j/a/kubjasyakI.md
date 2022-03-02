@@ -6,7 +6,7 @@ title = "कुब्जस्य कीटखातस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुब्जस्य कीटखातस्य दावनिष्कुषितत्वचः।  
 तरोरप्यूषरस्थस्य वरं जन्म न चार्थिनः॥

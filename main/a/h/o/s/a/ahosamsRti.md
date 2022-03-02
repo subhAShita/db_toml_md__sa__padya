@@ -5,7 +5,7 @@ title = "अहो संसृतिवेश्येयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो संसृतिवेश्येयं रागाद्युद्दीपनोद्यता।  
 रसमुत्पाद्य सर्वेषाम् अन्ते वैरस्यकारिणी॥

@@ -5,7 +5,7 @@ title = "कश् चुम्बति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कश् चुम्बति कुलपुरुषो वेश्याधरपल्लवं मनोज्ञमपि।  
 चारभटचौरचेटक- नटविटनिष्ठीवनशरावम्॥

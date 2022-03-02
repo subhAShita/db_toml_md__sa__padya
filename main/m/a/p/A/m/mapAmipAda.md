@@ -6,7 +6,7 @@ title = "न पाणिपादचपलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न पाणिपादचपलो न नेत्रचपलो मुनिः ।  
 न च वागङ्गचपल इति शिष्टस्य गोचरः ॥

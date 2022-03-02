@@ -6,7 +6,7 @@ title = "नष्टे वारिजविपिने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नष्टे वारिजविपिने कष्टे नष्टेऽथ मालतीनिकरे।  
 तत्किं जीवति लोके मूलकमकरन्दबिन्दुना यदलिः॥

@@ -5,7 +5,7 @@ title = "एक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एव चरेद् धर्मं नास्ति धर्मे सहायता।  
 केवलं विधिमासाद्य सहायः किं करिष्यति॥

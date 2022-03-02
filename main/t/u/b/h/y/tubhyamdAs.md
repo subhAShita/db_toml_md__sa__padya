@@ -6,7 +6,7 @@ title = "तुभ्यं दासेर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुभ्यं दासेर दासीयं बदरी यदि रोचते।  
 एतावता हि किं द्राक्षा न साक्षादमृतप्रिया॥

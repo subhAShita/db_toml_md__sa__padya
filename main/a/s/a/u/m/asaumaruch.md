@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3802", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 15",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "असौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असौ मरुच्चुम्बितचारुकेसरः प्रसन्नताराधिपमण्डलाग्रणीः।  
 वियुक्तरामातुरदृष्टिवीक्षितो वसन्तकालो हनुमानिवागतः॥

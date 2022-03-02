@@ -7,7 +7,7 @@ title = "किं तया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं तया दन्तकण्ठोष्ठमूर्धतालुप्रसूतया ।  
 प्रौढयापि सरस्वत्या जायते हृदयान्न या ॥

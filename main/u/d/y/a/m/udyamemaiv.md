@@ -5,7 +5,7 @@ title = "उद्यमेनैव कार्याणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यमेनैव कार्याणि सिध्यन्ति न मनोरथैः।  
 नहि सुप्तस्य सिंहस्य विशन्ति वदने मृगाः॥

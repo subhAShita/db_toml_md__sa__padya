@@ -7,7 +7,7 @@ title = "कोऽत्र भूमिवलये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोऽत्र भूमिवलये जनान्मुधा तापयन्सुचिरमेति सम्पदम्।  
 वेदयन्निति दिनेन भानुमानाससाद चरमाचलं ततः॥

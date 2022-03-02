@@ -6,7 +6,7 @@ title = "लोक एष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोक एष गतलोचनत्रपः कस्य वा न विवृणोति वाच्यताम्।  
 लोचनोत्सवमशेषजीवनं यत्कलङ्कयति चन्द्रमण्डलम्॥

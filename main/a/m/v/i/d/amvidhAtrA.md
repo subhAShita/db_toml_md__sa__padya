@@ -5,7 +5,7 @@ title = "अन्नं विधात्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नं विधात्रा विहितं मर्त्यानां जीवधारणम्।  
 तदनादृत्य मतिमान् प्रार्थयेन्न तु किंचन॥

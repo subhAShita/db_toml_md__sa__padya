@@ -6,7 +6,7 @@ title = "पिता रक्षति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिता रक्षति कौमारे भर्ता रक्षति यौवने।  
 पुत्रस्तु स्थाविरे भावे न स्त्री स्वातन्त्र्यमर्हति॥

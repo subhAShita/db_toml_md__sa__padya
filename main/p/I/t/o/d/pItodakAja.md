@@ -6,7 +6,7 @@ title = "पीतोदका जग्धतृणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः ।  
 अनन्दा नाम ते लोका ये स गच्छति ता ददत् ॥

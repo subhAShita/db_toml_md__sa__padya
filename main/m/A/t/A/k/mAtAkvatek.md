@@ -7,7 +7,7 @@ title = "माता क्व"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माता क्व ते क्व च पिता  
 दिशेति सकुतूहलैर्गणैरुक्तः ।  

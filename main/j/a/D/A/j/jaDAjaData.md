@@ -7,7 +7,7 @@ title = "जडाज्जडतरे वस्तुन्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जडाज्जडतरे वस्तुन्यपि चैतन्यमुल्लसत् ।  
 दृष्टान्तयन्निव स्तम्भान्नृसिंहोऽवतु निर्गतः ॥

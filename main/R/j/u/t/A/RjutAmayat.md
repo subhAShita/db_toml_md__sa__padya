@@ -5,7 +5,7 @@ title = "ऋजुतां नयतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋजुतां नयतः स्मरामि ते शरमुत्सङ्गनिषण्णधन्वनः।  
 मधुना सह सस्मितां कथां नयनोपान्तविलोकितं च यत्॥

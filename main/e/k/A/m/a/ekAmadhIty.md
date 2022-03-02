@@ -5,7 +5,7 @@ title = "एकामधीत्य विद्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकामधीत्य विद्यां बिभेति बहुविद्यपरिषदं प्राप्तः।  
 क्वासन्नशस्त्रनिकरः कुत्रैकशरः पुनः पुरुषः॥

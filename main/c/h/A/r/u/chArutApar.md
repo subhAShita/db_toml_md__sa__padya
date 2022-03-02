@@ -6,7 +6,7 @@ title = "चारुता परदारार्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चारुता परदारार्थं धनं लोकोपतप्तये।  
 प्रभुत्वं साधुनाशाय खले खलतरा गुणाः॥

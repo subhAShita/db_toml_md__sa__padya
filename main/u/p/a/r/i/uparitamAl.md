@@ -5,7 +5,7 @@ title = "उपरि तमालतरोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरि तमालतरोः सखि परिणतशरदिन्दुमण्डलः कोऽपि।  
 तत्र च मुरलीखुरली कुलमर्यादामधो नयति॥

@@ -6,7 +6,7 @@ title = "कुतः सेवाविहीनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुतः सेवाविहीनानां चामरोद्भूतसम्पदः।  
 उद्दण्डधवलच्छत्त्रवाजिवारणवाहिनी॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3204", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 877",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "अल्पीयसामेव"
+jsonClass = "Subhaashita"
+title = "अल्पीयसामेव निवासभूमि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अल्पीयसामेव निवासभूमि- त्यागाद्विपत्तिर्महतां न जातु।  
 रत्नाकरात् सन्मणयोऽभियान्ति राज्ञां शिरः काकमुखानि भेकाः॥

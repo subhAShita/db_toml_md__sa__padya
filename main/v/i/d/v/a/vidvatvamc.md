@@ -6,7 +6,7 @@ title = "विद्वत्त्वं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्वत्त्वं च नृपत्वं च नैव तुल्यं कदाचन।  
 स्वदेशे पूज्यते राजा विद्वान्सर्वत्र पूज्यते॥

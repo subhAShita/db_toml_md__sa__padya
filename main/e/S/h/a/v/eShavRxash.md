@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8126", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 15",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एष वृक्षशिखरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष वृक्षशिखरे कृतास्पदो जातरूपरसगौरमण्डलः।  
 हीयमानमहरत्ययातपं पीवरोरु पिबतीव बर्हिणः॥

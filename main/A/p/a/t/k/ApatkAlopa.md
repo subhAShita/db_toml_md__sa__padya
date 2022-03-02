@@ -5,7 +5,7 @@ title = "आपत्कालोपयुक्तासु कलासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपत्कालोपयुक्तासु कलासु स्यात् कृतश्रमः।  
 नृत्यवृत्तिर्विराटस्य किरीटी भवनेऽभवत्॥

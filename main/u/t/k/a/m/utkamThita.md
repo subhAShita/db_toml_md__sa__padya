@@ -5,7 +5,7 @@ title = "उत्कण्ठित मनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्कण्ठित मनो बाला सुदूरस्था नवं वयः।  
 विधिर्वामो रिपुः कामो हा हा दुःखपरम्परा॥

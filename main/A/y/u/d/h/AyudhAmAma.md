@@ -7,7 +7,7 @@ title = "आयुधानामहं वज्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुधानामहं वज्रं धेनूनामस्मि कामधुक्।  
 प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः॥

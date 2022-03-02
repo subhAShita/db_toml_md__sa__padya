@@ -5,7 +5,7 @@ title = "अनाहूतप्रविष्टस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाहूतप्रविष्टस्य दृष्टस्य क्रुद्धचक्षुषा।  
 स्वयमेवोपविष्टस्य वरं मृत्युर्न भोजनम्॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4003", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०१ केशपाशः// 15",]
-jsonClass = "Subhaashita"
 topics = [ "+केशपाशः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अस्या यदास्येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्या यदास्येन पुरस्तिरश्च तिरस्कृतं शीतरुचान्धकारम्।  
 स्फुटस्फुरद्भङ्गिकचच्छलेन तदेव पश्चादिदमस्ति बद्धम्॥

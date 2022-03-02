@@ -6,7 +6,7 @@ title = "द्यूतं यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्यूतं यो यमदूताभं हालां हालाहलोपमाम्।  
 पश्येद्दारान्वृथाकारान्स भवेद्राजवल्लभः॥

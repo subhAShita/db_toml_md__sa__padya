@@ -7,7 +7,7 @@ title = "सा स्तनाञ्जलिबन्धेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा स्तनाञ्जलिबन्धेन मन्मथं प्रथमागतम्।  
 करोतीवोन्मुखं बाला बान्धवं यौवनश्रियः॥

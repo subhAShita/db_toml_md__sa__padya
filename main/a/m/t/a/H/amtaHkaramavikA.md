@@ -5,7 +5,7 @@ title = "अन्तःकरणविकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःकरणविकारं गुरुपरिजनसंकटेऽपि कुलटानाम्।  
 जानन्ति तदभियुक्ता भ्रूभङ्गापाङ्गमधुरदृष्टेन॥

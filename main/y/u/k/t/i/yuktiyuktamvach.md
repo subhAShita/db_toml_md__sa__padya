@@ -7,7 +7,7 @@ title = "युक्तियुक्तं वचो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युक्तियुक्तं वचो ग्राह्यं बालादपि शुकादपि।  
 युक्तिहीनं वचस् त्याज्यं वृद्धादपि शुकादपि॥

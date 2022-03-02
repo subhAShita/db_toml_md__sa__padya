@@ -6,7 +6,7 @@ title = "अविच्छिन्ना येषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविच्छिन्ना येषां वहति सरणिः सर्वविदिता,    
 न यत्रार्यो लोकः परिचय-कथालाप-विमुखः।  

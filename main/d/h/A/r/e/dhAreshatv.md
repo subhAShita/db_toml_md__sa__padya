@@ -6,7 +6,7 @@ title = "धारेश त्वत्प्रतापेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धारेश त्वत्प्रतापेन पराभूतस्त्विषां पतिः।  
 सुवर्णपात्रव्याजेन देव त्वामेव सेवते॥

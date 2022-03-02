@@ -5,7 +5,7 @@ title = "आशा भङ्गकरी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशा भङ्गकरी पुंसाम् अजेयारातिसंनिभा।  
 तस्मादाशां त्यजेत् प्राज्ञो यदीच्छेच् शाश्वतं सुखम्॥

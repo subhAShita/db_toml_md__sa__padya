@@ -5,7 +5,7 @@ title = "ऋतुमत्यां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋतुमत्यां तु तिष्ठन्त्यां स्वेच्छादानं विधीयते।  
 तस्मादुद्वाहयेन् नग्नां मनुः स्वायंभुवोऽब्रवीत्॥

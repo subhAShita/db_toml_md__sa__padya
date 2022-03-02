@@ -5,7 +5,7 @@ title = "इह लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह लोके हि धनिनां परोऽपि स्वजनायते।  
 स्वजनोऽपि दरिद्राणां तत्क्षणाद् दुर्जनायते॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0759", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अथ मन्मथवाहिनीपरागः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ मन्मथवाहिनीपरागः किमपि ज्योतिरुदस्फुरत् पुरस्तात्।  
 तिमिरस्य जरा चकोरकूरं कुलडाकेलिबनीदवानलार्चिः॥

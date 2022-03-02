@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7110", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०४ वर्षापथिकाः// 82",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा", "वर्षायात्री",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपरि घनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरि घनं घनपटलं तिर्यग्गिरयोऽपि नर्तितमयूराः।  
 क्षितिरपि कन्दलधवला दृष्टिं पथिकः क्व पातयतु॥

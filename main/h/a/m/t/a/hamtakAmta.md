@@ -7,7 +7,7 @@ title = "हन्त कान्तमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हन्त कान्तमपि तं दिदृक्षते मानसं मम न साधु यत्यते।  
 इन्दुरिन्दुमुखि मन्दमारुतश्चन्दनं च वितनोति वेदनाम्॥

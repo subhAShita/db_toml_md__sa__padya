@@ -7,7 +7,7 @@ title = "पततु तवोरसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पततु तवोरसि सततं दयिताधम्मिल्लमल्लिकानिकरः।  
 रतरसरभसकचग्रहलुलितालकवल्लरीगलितः॥

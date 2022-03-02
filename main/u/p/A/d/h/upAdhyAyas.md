@@ -5,7 +5,7 @@ title = "उपाध्यायश्च वैद्यश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपाध्यायश्च वैद्यश्च प्रतिभूर्भुक्तनायिका।  
 सूतिका दूतिकाश्चैव सिद्धे कार्ये तृणोपमाः॥

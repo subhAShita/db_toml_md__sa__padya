@@ -6,7 +6,7 @@ title = "निर्दयं खड्गभिन्नेभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्दयं खड्गभिन्नेभ्यः कवचेभ्यः समुच्छ्रितैः।  
 आसन्व्योमदिशस्तूलैः पलितैरिव पाण्डुराः॥

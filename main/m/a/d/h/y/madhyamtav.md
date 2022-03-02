@@ -7,7 +7,7 @@ title = "मध्यं तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मध्यं तव सरोजाक्षि पयोधरभरार्दितम्।  
 अस्ति नास्तीति सन्देहः कस्य चित्ते न भाषते॥

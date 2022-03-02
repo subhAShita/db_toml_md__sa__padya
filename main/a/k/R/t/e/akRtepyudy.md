@@ -5,7 +5,7 @@ title = "अकृतेऽप्युद्यमे पुंसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृतेऽप्युद्यमे पुंसाम् अन्यजन्मकृतं फलम्।  
 शुभाशुभं समभ्येति विधिना संनियोजितम्॥

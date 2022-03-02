@@ -5,7 +5,7 @@ title = "अपरित्यक्तमात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपरित्यक्तमात्मानम् इच्छता पण्ययोषिताम्।  
 नित्यौपयोगिकं द्रव्यम् आत्मसारं प्रदर्शयेत्॥

@@ -6,7 +6,7 @@ title = "चातकस्त्रिचतुरान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चातकस्त्रिचतुरान् पयःकणान्याचते जलधरं पिपासया।  
 सोऽपि पूरयति विश्वमम्भसा हन्त हन्त महतामुदाहता॥

@@ -6,7 +6,7 @@ title = "हर्षक्रोधौ समौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हर्षक्रोधौ समौ यस्य शास्त्रार्थे प्रत्ययः सदा।  
 नित्यं भृत्यानपेक्षा च तस्य स्याद्धनदा धरा॥

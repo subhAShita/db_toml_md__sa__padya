@@ -7,7 +7,7 @@ title = "स्तनतटमिदमुत्तुङ्गम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनतटमिदमुत्तुङ्गं निम्नो मध्यः समुन्नतं जघनम्।  
 विषमे मृगशावाक्ष्या वपुषि नवे क इव न स्खलति॥

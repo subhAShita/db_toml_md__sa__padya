@@ -6,7 +6,7 @@ title = "धारयित्वा त्वयात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धारयित्वा त्वयात्मानं महात्यागधनाधुना।  
 मोचिता बलिकर्णाद्याः स्वयशोगुप्तकर्मणः॥

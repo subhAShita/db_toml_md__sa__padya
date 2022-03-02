@@ -7,7 +7,7 @@ title = "कवीन्द्रैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवीन्द्रैः कालिदासाद्यैरनाथा विहिता वयम् ।  
 इति किं रुद्यते दोषाः सत्यप्याधुनिके कवौ ॥

@@ -5,7 +5,7 @@ title = "कर्मण्येवाधिकारस् ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मण्येवाधिकारस् ते मा फलेषु कदाचन।  
 मा कर्मफलहेतुर्भूर् मा ते सङ्गोऽस्त्वकर्मणि॥

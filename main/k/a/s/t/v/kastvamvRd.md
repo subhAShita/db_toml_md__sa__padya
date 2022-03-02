@@ -6,7 +6,7 @@ title = "कस्त्वं वृद्ध"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्त्वं वृद्ध खलेश्वरोऽहमिह किं घोरे वने वर्तसे  
 सिंहव्याघ्रवृकादिभिः प्रकृतिभिः खाद्योऽहमित्याशयः।  

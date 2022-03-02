@@ -6,7 +6,7 @@ title = "न हायनैर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न हायनैर्न पलितैर्न वित्तेन न बन्धुभिः।  
 ऋषयश्चक्रिरे धर्मं योऽनूचानः स नो महान्॥

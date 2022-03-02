@@ -6,7 +6,7 @@ title = "वेत्ता कोकिल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेत्ता कोकिल एव ज्ञाता च रसाल एव नियतमिदम्।  
 यः पञ्चममुद्गायति यस्यास्थिषु पुलकमुकुलानि॥

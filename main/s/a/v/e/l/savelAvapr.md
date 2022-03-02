@@ -6,7 +6,7 @@ title = "स वेलावप्रवलयाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स वेलावप्रवलयां परिखीकृतसागराम् ।  
 अनन्यशासनामुर्वीं शशासैकपुरीमिव ॥

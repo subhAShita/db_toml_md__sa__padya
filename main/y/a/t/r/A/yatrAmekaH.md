@@ -6,7 +6,7 @@ title = "यत्रानेकः क्वचिदपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्रानेकः क्वचिदपि गृहे तत्र तिष्ठत्यथैको  
 यत्राप्येकस्तदनु बहवस्तत्र नैकोऽपि चान्ते ।  

@@ -6,7 +6,7 @@ title = "नारिकेलसमाकारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नारिकेलसमाकारा दृश्यन्तेऽपि हि सज्जनाः।  
 अन्ये बदरिकाकारा बहिरेव मनोहराः॥

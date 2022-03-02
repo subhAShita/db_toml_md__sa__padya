@@ -7,7 +7,7 @@ title = "न दानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न दानेन न मानेन नार्जवेन न सेवया।  
 न शस्त्रेण न शास्त्रेण सर्वथा विषणाः स्त्रियः॥

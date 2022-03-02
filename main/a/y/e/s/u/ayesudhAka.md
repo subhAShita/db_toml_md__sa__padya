@@ -5,7 +5,7 @@ title = "अये सुधाकैरविणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अये सुधाकैरविणि व्यधायि मुधा सुधाधामनि बन्धुभावः।  
 जनापवादः परितः प्रयातः समागमो हन्त न जातु जातः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0179", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//06 मात्राच्युतकादयः// ०३ विसर्गच्युतकम्// 6",]
-jsonClass = "Subhaashita"
 types = [ "विसर्गच्युतकम्",]
+jsonClass = "Subhaashita"
 title = "अगस्त्यस्य मुनेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगस्त्यस्य मुनेः शापाद् ब्रह्मस्यन्दनमास्थितः।  
 महासुखात् परिभ्रष्टो नहुषः सर्पतां गतः॥

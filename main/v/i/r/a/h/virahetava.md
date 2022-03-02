@@ -7,7 +7,7 @@ title = "विरहे तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरहे तव तन्वङ्गी कथं क्षपयतु क्षपाम्।  
 दारुणव्यवसायस्य पुरस्ते भणितेन किम्॥

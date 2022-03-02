@@ -5,7 +5,7 @@ title = "कामः क्रोधश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामः क्रोधश्च लोभश्च मोहो हर्षो मदस्तथा।  
 षड्वर्गमुत्सृजेदेनं यस्मिंस्त्यक्ते सुखी नृपः॥

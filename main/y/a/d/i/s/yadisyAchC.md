@@ -7,7 +7,7 @@ title = "यदि स्याच्छीतलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि स्याच्छीतलो वह्निश्चन्द्रमा दहनात्मकः।  
 सुस्वादः सागरः स्त्रीणां तत्सतीत्वं प्रजायते॥

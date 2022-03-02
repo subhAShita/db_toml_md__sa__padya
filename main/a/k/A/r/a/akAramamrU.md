@@ -5,7 +5,7 @@ title = "अकारणं रूपमकारणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकारणं रूपमकारणं कुलं महत्सु नीचेषु च कर्म शोभते।  
 इदं हि रूपं परिभुतपूर्वकं तदेव भूयो बहुमानमागतं॥

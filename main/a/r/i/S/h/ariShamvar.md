@@ -5,7 +5,7 @@ title = "अरिषङ्वर्ग एवायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरिषङ्वर्ग एवायम् अस्यास्तात पदानि षट्।  
 तेषामेकमपि च्छिन्दन् खञ्जय भ्रमरीं श्रियम्॥

@@ -7,7 +7,7 @@ title = "मनोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनोऽपि शङ्कमानाभिर्बालाभिरुपजीव्यते।  
 अषडक्षीणषाड्गुण्यमन्त्री मकरकेतनः॥

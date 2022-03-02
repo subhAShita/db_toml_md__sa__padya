@@ -6,7 +6,7 @@ title = "विद्या विवादाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्या विवादाय धनं मदाय शक्तिः परेषां परिपीडनाय।  
 खलस्य साधोर्विपरीतमेतज्ज्ञानाय दानाय च रक्षणाय॥

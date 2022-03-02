@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6703", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 233",]
 topics = [ "सज्जनः", "कवित्वम्", "प्राज्ञता",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "उदन्वच्छिन्ना भूः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदन्वच्छिन्ना भूः स च निधिरपां योजनशतं सदा पान्थः पूषा गगनपरिमाणं कलयति।  
 इति प्रायो भावाः स्फुरदवधिमुद्रामुकुलिताः सतां प्रज्ञोन्मेषः पुनरयमसीमा विजयते॥

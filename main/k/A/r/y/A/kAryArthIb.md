@@ -5,7 +5,7 @@ title = "कार्यार्थी बन्धुजनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्यार्थी बन्धुजनः कार्यैर्बहुभिर्भवन्ति मित्राणि।  
 दाराः सुताश्च सुलभा धनमेकं दुर्लभं लोके॥

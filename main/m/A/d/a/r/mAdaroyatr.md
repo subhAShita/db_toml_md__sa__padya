@@ -7,7 +7,7 @@ title = "नादरो यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नादरो यत्र देवानां प्रदेशः स विनश्यति ।  
 न प्रवाहादिभिस्तद्वद्धर्मशून्यतया यथा ॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4732", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 09 विष्णुः// 2",]
-jsonClass = "Subhaashita"
 topics = [ "विष्णुः",]
+jsonClass = "Subhaashita"
 title = "आदिमध्यान्तरहितं दशाहीनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदिमध्यान्तरहितं दशाहीनं पुरातनम्।  
 अद्वितीयमहं वन्दे मद्वस्त्रसदृशं हरिम्॥

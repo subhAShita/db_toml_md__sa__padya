@@ -5,7 +5,7 @@ title = "अनेन सिध्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेन सिध्यति ह्येतन्ममाप्येष पराक्रमः।  
 एवं ज्ञात्वा चरेद्यस्तु सफलास्तस्य बुद्धयः॥

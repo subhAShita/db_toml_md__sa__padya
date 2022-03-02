@@ -7,7 +7,7 @@ title = "अग्निहोत्रमुखा वेदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निहोत्रमुखा वेदा गायत्री च्छन्दसां मुखम्।  
 राजा मुखं मनुष्याणां नदीनां सागरो मुखम्॥    

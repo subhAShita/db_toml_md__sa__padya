@@ -5,7 +5,7 @@ title = "अनिधाय मुखे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिधाय मुखे पत्रं पूगं खादति यो नरः।  
 सप्तजन्मदरिद्रत्वम् अन्ते विष्णुस्थितिश्च न॥

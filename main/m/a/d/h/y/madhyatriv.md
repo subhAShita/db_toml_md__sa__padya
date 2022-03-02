@@ -7,7 +7,7 @@ title = "मध्यत्रिवलीत्रिपथे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मध्यत्रिवलीत्रिपथे पीवरकुचचत्वरे च चपलदृशाम्।  
 छलयति मदनपिशाचः पुरुषं हि मनागपि स्खलितम्॥

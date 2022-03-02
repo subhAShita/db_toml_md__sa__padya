@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4532", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 79",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
-title = "आताम्राभारोषभाजः"
+jsonClass = "Subhaashita"
+title = "आताम्राभा रोषभाजः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आताम्राभा रोषभाजः कटान्ताद् आशूत्खाते मार्गणे धूर्गतेन।  
 निश्च्योतन्ती नागराजस्य जज्ञे दानस्याहो लोहितस्येव धारा॥

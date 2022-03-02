@@ -6,7 +6,7 @@ title = "प्रत्यूहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रत्यूहः सर्वसिद्धीनामुत्तापः प्रथमः किल।  
 अतिशीतलमप्यम्भः किं भिनत्ति न भूभृतः॥

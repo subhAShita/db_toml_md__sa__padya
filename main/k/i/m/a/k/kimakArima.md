@@ -7,7 +7,7 @@ title = "किमकारि मन्दमतिना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमकारि मन्दमतिना रतिपतिना कामतन्त्रनिपुणेन।  
 स्यूतासि हरिणनयने हन्त हृदि स्नेहतन्तुना न तनौ॥

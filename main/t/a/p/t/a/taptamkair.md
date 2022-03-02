@@ -6,7 +6,7 @@ title = "तप्तं कैर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तप्तं कैर्न तपोभिः फलितं तद्गोपबालानाम्।  
 लोचनयुगले यासामञ्जनमासीन्निरञ्जनं ब्रह्म॥

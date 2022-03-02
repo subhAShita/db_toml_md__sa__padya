@@ -7,7 +7,7 @@ title = "प्रतिपक्षो यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रतिपक्षो यदि वक्षोरुहपरिणाहः कुरङ्गनयनायाः।  
 आकाशवासतपसः श्रीफल विफलस्तवायासः॥

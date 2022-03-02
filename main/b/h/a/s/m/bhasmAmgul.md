@@ -6,7 +6,7 @@ title = "भस्माङ्गुलिर्बकोड्डायी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भस्माङ्गुलिर्बकोड्डायी बालशौची तथा हिही।  
 धारावर्ती चक्रवर्ती षडेते पुरषाधमाः॥

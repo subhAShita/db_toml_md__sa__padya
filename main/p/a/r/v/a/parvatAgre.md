@@ -6,7 +6,7 @@ title = "पर्वताग्रे रथो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पर्वताग्रे रथो याति भूमौ तिष्ठति सारथिः।  
 चलते वायुवेगेन पदमेकं न गच्छति॥

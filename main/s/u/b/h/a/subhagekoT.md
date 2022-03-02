@@ -7,7 +7,7 @@ title = "सुभगे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभगे कोटिसङ्ख्यत्वमुपेत्य मदनाशुगैः।  
 वसन्ते पञ्चता त्यक्ता पञ्चतासीद्वियोगिनाम्॥

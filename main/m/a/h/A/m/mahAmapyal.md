@@ -6,7 +6,7 @@ title = "महानप्यल्पतां याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महानप्यल्पतां याति निर्गुणे गुणविस्तरः।  
 आधाराधेयभावेन गजेन्द्र इव दर्पणे॥

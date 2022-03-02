@@ -7,7 +7,7 @@ title = "अक्रूरो यम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्रूरो यम एवासौ रथोऽयं मदसैरिभः ।  
 कंसादेशो महापाशो राधाया जीवितं हरिः ॥

@@ -7,7 +7,7 @@ title = "प्राणानामनिलेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राणानामनिलेन वृत्तिरुचिता सत्कल्पवृक्षो वने  
 तोये काञ्चनपद्मरेणुकपिशे धर्माभिषेकक्रिया।  

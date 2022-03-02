@@ -7,7 +7,7 @@ title = "सूत्रेष्वेव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सूत्रेष्वेव हि तत्सर्वं यद्वृत्तौ यच्च वार्तिके ।  
 सूत्रं योनिरिहार्थानां सर्वं सूत्रे प्रतिष्ठितम् ॥

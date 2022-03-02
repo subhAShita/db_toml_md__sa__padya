@@ -5,7 +5,7 @@ title = "एतेषामनुकूलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतेषामनुकूलो दक्षिणधृष्टौ शठश्चेति।  
 भेदचतुष्टयमेषां वदाम्युदाहरणमेकैकम्॥

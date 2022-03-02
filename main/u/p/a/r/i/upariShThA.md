@@ -5,7 +5,7 @@ title = "उपरिष्ठा यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरिष्ठा यदा नारी रमते कामुकं नरम्।  
 विपरीतं रतं ज्ञेयं सर्वकामिजनप्रियम्॥

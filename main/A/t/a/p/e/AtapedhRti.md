@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4528", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २७ चक्रवाकावस्थाख्यानम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "चक्रवाकः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आतपे धृतिमता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आतपे धृतिमता सह वध्वा यामिनीविरहिणा विहगेन।  
 सेहिरे न किरणा हिमरश्मेर् दुःखिते मनसि सर्वमसह्यम्॥

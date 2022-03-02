@@ -6,7 +6,7 @@ title = "दुर्जनगम्या नार्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनगम्या नार्यः प्रायेणापात्रभृद्भवति राजा।  
 कृपणानुसारि च धनं मेघो गिरिजलधिवर्षी च॥

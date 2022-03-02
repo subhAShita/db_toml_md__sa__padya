@@ -5,7 +5,7 @@ title = "इत्यनर्थाय शब्दैकपरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्यनर्थाय शब्दैकपरो तात्पर्यविज् जडः।  
 ... ... ... ... ... ...॥

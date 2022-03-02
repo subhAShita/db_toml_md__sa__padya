@@ -7,7 +7,7 @@ title = "नूनमयं मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नूनमयं मे पापः कान्ताविरहो रसायनीभूतः।  
 वर्षसहस्राभ्यधिकान्नयामि कथमन्यथा दिवसान्॥

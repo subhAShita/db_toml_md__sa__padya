@@ -7,7 +7,7 @@ title = "अद्यैव शर्व"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्यैव शर्व सर्वज्ञ  
 यत्तव स्तोत्रमारभे ।  

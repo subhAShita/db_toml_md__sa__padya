@@ -6,7 +6,7 @@ title = "नावज्ञा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नावज्ञा नाप्यवैदग्ध्यमुदधेर्महिमैव सः।  
 यत्तीरपङ्कमग्नानि महारत्नानि शेरते॥

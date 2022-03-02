@@ -6,7 +6,7 @@ title = "अपुत्रस्य गृहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपुत्रस्य गृहं शून्यं सन्मित्त्ररहितस्य च।  
 मूर्खस्य च दिशः शून्याः सर्वशून्या दरिद्रता॥

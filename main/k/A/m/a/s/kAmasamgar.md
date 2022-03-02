@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9618", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५५ सुरतनिवृत्तिः// 6",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "सुरतनिवृत्तिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कामसङ्गरविधौ मृगीदृशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामसङ्गरविधौ मृगीदृशः प्रौढपेषणधरे पयोधरे।  
 स्वेदराजिरुदियाय सर्वतः पुष्पवृष्टिरिव पुष्पधन्वनः॥

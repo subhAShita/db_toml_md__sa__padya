@@ -5,7 +5,7 @@ title = "आशापाशशतैर्बद्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशापाशशतैर्बद्धा वासनाभरवाहिनः।  
 कायात् कायमुपायान्ति वृक्षाद् वृक्षमिवाण्डजाः॥

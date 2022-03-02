@@ -5,7 +5,7 @@ title = "उत वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत वा तृणवान् मार्गः समो गम्यः प्रशस्यते।  
 सुशोध्यस् त्रिविधो मार्गः षड्विधं च स्वकं बलम्॥

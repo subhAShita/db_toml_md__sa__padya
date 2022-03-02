@@ -6,7 +6,7 @@ title = "त्यजति च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यजति च गुणान्सुदूरं तनुमपि दोषं निरीक्ष्य गृह्णाति।  
 मुक्त्वालङ्कृतकेशान्यूकामिव वानरः पिशुनः॥

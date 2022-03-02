@@ -6,7 +6,7 @@ title = "दानं सत्त्वाश्रितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दानं सत्त्वाश्रितं कुर्यान्न पश्चात्तापवान्भवेत्।  
 बलिनात्मार्पितो बन्धे दानशेषस्य शुद्धये॥

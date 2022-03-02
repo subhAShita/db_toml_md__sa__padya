@@ -5,7 +5,7 @@ title = "अन्तकोऽपि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तकोऽपि हि जन्तूनाम् अन्तकालमपेक्षते।  
 न कालनियमः कश्चिद् उत्तमर्णस्य विद्यते॥

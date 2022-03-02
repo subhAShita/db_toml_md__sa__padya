@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3035", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 53",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "अर्थोऽस्ति चेन्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थोऽस्ति चेन्न पदशुद्धिरथास्ति सापि नो रीतिरस्ति यदि सा घटना कुतस्त्या।  
 साप्यस्ति चेन्न नववक्रगतिस्तदेतद् व्यर्थं विना रसमहो गहनं कवित्वम्॥

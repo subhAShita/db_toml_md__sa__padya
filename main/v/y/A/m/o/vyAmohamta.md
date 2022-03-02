@@ -6,7 +6,7 @@ title = "व्यामोहं तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यामोहं तव भिन्दुन्तु छिन्दन्तु दुरितानि च।  
 कर्तृगुप्तमिमं श्लोकं य जानन्ति विचक्षणाः॥

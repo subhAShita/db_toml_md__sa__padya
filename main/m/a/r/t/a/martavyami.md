@@ -6,7 +6,7 @@ title = "मर्तव्यमिति यद्दुःखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मर्तव्यमिति यद्दुःखं पुरुषस्योपजायते।  
 शक्यते नानुमानेन परेण परिवर्णितुम्॥

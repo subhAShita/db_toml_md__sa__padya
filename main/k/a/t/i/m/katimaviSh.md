@@ -6,7 +6,7 @@ title = "कति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कति न विषया निभालिताः कति वा भूमिभुजो न शीलिताः।  
 धरणीधर तावकान्गुणानवधार्याजगणं गुरुं लघुम्॥

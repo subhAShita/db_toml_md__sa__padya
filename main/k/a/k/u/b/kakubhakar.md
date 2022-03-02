@@ -5,7 +5,7 @@ title = "ककुभकरीरावेक त्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ककुभकरीरावेक- त्र संयुतौ ककुभबिल्वौ वा।  
 हस्तत्रयेऽम्बु पश्चान् नरैर्भवत्येकविंशत्या॥

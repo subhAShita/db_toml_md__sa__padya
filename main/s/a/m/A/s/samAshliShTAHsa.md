@@ -7,7 +7,7 @@ title = "समाश्लिष्टाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समाश्लिष्टाः समाश्लेषैश्चुम्बिताश्चुम्बनैरपि।  
 दष्टाश्च दशनैः कान्तं दासीकुर्वन्ति योषितः॥

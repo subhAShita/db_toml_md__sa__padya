@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1429", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 61",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "अनुकूलविधायिदैवतो विजयी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुकूलविधायिदैवतो विजयी स्यान् ननु कीदृशो नृपः।  
 विरहिण्यपि जानकी वने निवसन्ती मुदमादधौ कुतः॥

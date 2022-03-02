@@ -5,7 +5,7 @@ title = "एष एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एष एव मनस्तापः पङ्के मग्नस्य दन्तिनः।  
 पतते यत् समुद्धर्तुं ज्ञातयो निभृतस्मिताः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6504", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 701",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "उत्तमोऽप्यधमस्य"
+jsonClass = "Subhaashita"
+title = "उत्तमोऽप्यधमस्य स्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमोऽप्यधमस्य स्याद् याच्ञानम्रकरः क्वचित्।  
 कौस्तुभादीनि रत्नानि ययाचे हरिरम्बुधिम्॥

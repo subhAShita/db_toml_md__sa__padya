@@ -5,7 +5,7 @@ title = "आकाशात् पतितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकाशात् पतितं तोयं यथा गच्छति सागरम्।  
 सर्वदेवनमस्कारः केशवं प्रति गच्छति॥

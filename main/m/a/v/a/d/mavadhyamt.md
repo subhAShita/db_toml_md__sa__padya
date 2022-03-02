@@ -6,7 +6,7 @@ title = "न वध्यन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न वध्यन्ते ह्यविश्वस्ता बलिभिर्दुर्बला अपि।  
 विश्वस्तास्त्वेव वध्यन्ते बलिनो दुर्बलैरपि॥

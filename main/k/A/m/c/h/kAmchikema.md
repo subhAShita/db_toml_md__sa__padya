@@ -5,7 +5,7 @@ title = "काञ्चिकेन समालोड्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काञ्चिकेन समालोड्य भक्षयेत् प्रातरन्वहम्।  
 षण्मासयोगतो हन्ति पलितं वलिभिः सह।  

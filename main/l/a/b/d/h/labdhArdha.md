@@ -6,7 +6,7 @@ title = "लब्धार्धचन्द्र ईशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लब्धार्धचन्द्र ईशः कृतकंसभयं च पौरुषं विष्णोः।  
 ब्रह्मापि नाभिजातः केनोपमिमीमहे नृप भवन्तम्॥

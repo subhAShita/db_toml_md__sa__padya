@@ -6,7 +6,7 @@ title = "मकरीविरचनभङ्ग्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मकरीविरचनभङ्ग्या राधाकुचकलशपीडनव्यसनी।  
 ऋजुमपि रेखां लुम्पन्बल्लववेषो हरिर्जयति॥

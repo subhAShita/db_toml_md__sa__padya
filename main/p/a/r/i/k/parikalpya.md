@@ -7,7 +7,7 @@ title = "परिकल्प्य करसहस्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिकल्प्य करसहस्रं रवेः प्रियतमामुखं परामर्ष्टुम्  
 युगलमलं मम मनुते सरसिजवदने विधिर्जडधीः

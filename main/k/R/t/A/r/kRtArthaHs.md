@@ -6,7 +6,7 @@ title = "कृतार्थः स्वामिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतार्थः स्वामिनं द्वेष्टि कृतदारस्तु मातरम्।  
 जातापत्या पतिं द्वेष्टि गतरोगश्चिकित्सकम्॥

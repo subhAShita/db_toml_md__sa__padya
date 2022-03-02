@@ -5,7 +5,7 @@ title = "अभिनवसेवकविनयैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिनवसेवकविनयैः प्राघुणकोक्तैर्विलासिनीरुदितैः।  
 धूर्तजनवचननिकरैर् इह कश्चिदवञ्चितो नास्ति॥

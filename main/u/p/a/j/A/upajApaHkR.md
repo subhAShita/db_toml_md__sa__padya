@@ -5,7 +5,7 @@ title = "उपजापः कृतस्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपजापः कृतस्तेन तानाकोपवतस्त्वयि।  
 आशु दीपयिताल्पोऽपि साग्नीनेधानिवानिलः॥

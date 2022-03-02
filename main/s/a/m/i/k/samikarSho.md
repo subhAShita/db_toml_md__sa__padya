@@ -6,7 +6,7 @@ title = "सन्निकर्षोऽत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्निकर्षोऽत्र मर्त्यानामनादरणकारणम्।  
 गाङ्गं हित्वा यथान्याम्भस्तत्रत्यो याति शुद्धये॥

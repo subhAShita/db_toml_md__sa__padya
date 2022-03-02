@@ -6,7 +6,7 @@ title = "भग्नकुम्भशकलेन वै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भग्नकुम्भशकलेन वै मलं बालकस्य जननी व्यपोहति।  
 तद्वदोष्ठवदनेन दुर्जनो मातृतः शतगुणाधिको भवेत्॥

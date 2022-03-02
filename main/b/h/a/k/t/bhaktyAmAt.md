@@ -7,7 +7,7 @@ title = "भक्त्या मातुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्त्या मातुः पितुश्चैव गुरूणां पूजनेन च  
 ब्रह्मचर्येण तपसा सत्येन नियमेन च।  

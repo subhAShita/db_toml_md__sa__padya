@@ -5,7 +5,7 @@ title = "अवलम्बितविष्णुपदः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवलम्बितविष्णुपदः कर्षितजनचक्षुरतुलगतिः।  
 पत्रमयोऽपि पदार्थः पतङ्गतामेति गुणयोगात्॥

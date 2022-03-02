@@ -7,15 +7,15 @@ title = "प्रायेण सङ्क्षेपरुचीन्"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-संग्रह (1,00,000 verses for as many issues) was not available even to Hari .
+प्रायेण सङ्क्षेपरुचीन् अल्पविद्यापरिग्रहान् ।  
+सम्प्राप्य वैयाकरणान् संग्रहे ऽस्तमुपागते ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-प्रायेण सङ्क्षेपरुचीन् अल्पविद्यापरिग्रहान् ।  
-सम्प्राप्य वैयाकरणान् संग्रहे ऽस्तमुपागते ॥
+संग्रह (1,00,000 verses for as many issues) was not available even to Hari .
 </details>

@@ -5,7 +5,7 @@ title = "अथ कालाग्निरुद्रस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ कालाग्निरुद्रस्य तृतीयनयनोत्थिता।  
 ज्वाला दहति तत्सर्वं निर्वाणं ब्रह्मणो यतः॥

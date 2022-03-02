@@ -6,7 +6,7 @@ title = "सालसं मुखरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सालसं मुखरं क्रूरं स्तब्धं व्यसनिनं शठम्।  
 असन्तुष्टमभक्तं च त्यजेद्भृत्यं नराधिपः॥

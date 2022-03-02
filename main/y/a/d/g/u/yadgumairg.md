@@ -6,7 +6,7 @@ title = "यद्गुणैर्ग्रथितैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्गुणैर्ग्रथितैः शुद्धैरमितैर्ब्रह्मगोलकः।  
 विधत्ते कीर्तिकन्यायाः क्रीडाकन्दुककौशलम्॥

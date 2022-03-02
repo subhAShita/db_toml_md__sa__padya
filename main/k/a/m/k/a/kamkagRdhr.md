@@ -5,7 +5,7 @@ title = "कङ्कगृध्रसृगालेषु दंशेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कङ्कगृध्रसृगालेषु दंशेषु मशकेषु च।  
 पन्नगेषु च जायन्ते नराः क्रोधपरायणाः॥

@@ -6,7 +6,7 @@ title = "नदीनां नखिनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नदीनां नखिनां चैव शृङ्गिणां शस्त्रपाणिनाम्।  
 विश्वासो नैव कर्तव्यः स्त्रीषु राजकुलेषु च॥

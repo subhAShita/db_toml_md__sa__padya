@@ -6,7 +6,7 @@ title = "श्रुतं कृतधियाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रुतं कृतधियां सङ्गाज्जायते विनयः श्रुतात्।  
 लोकानुरागो विनयान्न किं लोकानुरागतः॥

@@ -7,7 +7,7 @@ title = "यदि स्यात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि स्यात् पावकः शीतः प्रोष्णो वा शशलाञ्छनः।  
 स्त्रीणां तदा सतीत्वं स्याद्यदि स्याद्दुर्जनो हितः॥

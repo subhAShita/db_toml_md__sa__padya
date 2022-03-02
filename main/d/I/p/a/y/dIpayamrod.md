@@ -6,7 +6,7 @@ title = "दीपयन्रोदसीरन्ध्रमेष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीपयन्रोदसीरन्ध्रमेष ज्वलति सर्वतः।  
 प्रतापस्तव राजेन्द्र वैरिवंशदवानलः॥

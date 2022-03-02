@@ -5,7 +5,7 @@ title = "अपचिक्रमिषुः पूर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपचिक्रमिषुः पूर्वं सेनां स्वां परिसान्त्वयन्।  
 विलङ्घयित्वा सत्रेण ततः स्वयमुपक्रमेत्॥

@@ -6,7 +6,7 @@ title = "मूर्खः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खः स्वल्पव्ययत्रासात्सर्वनाशं करोति हि।  
 कः सुधीः सन्त्यजेद्भाण्डं शुल्कस्यैवातिसाध्वसात्॥

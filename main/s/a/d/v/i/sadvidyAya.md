@@ -6,7 +6,7 @@ title = "सद्विद्या यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सद्विद्या यदि का चिन्ता वराकोदरपूरणे।  
 शुकोऽप्यशनमाप्नोति राम रामेति च ब्रुवन्॥

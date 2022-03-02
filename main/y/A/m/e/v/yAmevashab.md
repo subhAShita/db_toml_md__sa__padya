@@ -6,7 +6,7 @@ title = "यानेव शब्दान्वयमालपामो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यानेव शब्दान्वयमालपामो  
 यानेव चार्थान्वयमुल्लिखामः ।  

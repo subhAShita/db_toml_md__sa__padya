@@ -6,7 +6,7 @@ title = "परिपीड्य करद्वयेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिपीड्य करद्वयेन गाढं परपुंसा परिचुम्बिताननापि।  
 मुरली महनीयवंशजाता मुहुराक्रन्दममन्दमातनोति॥

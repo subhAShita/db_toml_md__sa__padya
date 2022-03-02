@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7995", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७५ शिशिरवर्णनम्// ०१ शिशिरसमयस्वभावाख्यानम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "शिशिरः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एते समुल्लसद्भासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते समुल्लसद्भासो राजन्ते कुन्दकोरकाः।  
 शीतभीता लताकुन्दम् आश्रिता इव तारकाः॥

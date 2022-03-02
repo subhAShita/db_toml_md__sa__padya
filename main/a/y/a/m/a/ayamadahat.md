@@ -5,7 +5,7 @@ title = "अयं मम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं मम दहत्यङ्गम् अम्भोजदलसंस्तरः।  
 हुताशनप्रतिनिधिर् दाहात्मा ननु युज्यते॥

@@ -6,7 +6,7 @@ title = "केवलं व्यसनस्योक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केवलं व्यसनस्योक्तं भेषजं नयपण्डितैः।  
 तस्योच्छेदसमारम्भो विषादपरिवर्जनम्॥

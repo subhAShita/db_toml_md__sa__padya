@@ -6,7 +6,7 @@ title = "पारिजाततरुं यावन्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पारिजाततरुं यावन्न लभेत मधुव्रतः।  
 भ्रमणं तावदेवास्य कुञ्जे कुञ्जे तरौ तरौ॥

@@ -6,7 +6,7 @@ title = "अस्थिरं जीवितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्थिरं जीवितं लोके अस्थिरे धनयौवने।  
 अस्थिरा पुत्रदाराश्च धर्मः कीर्तिर्द्वयं स्थिरम्॥

@@ -5,7 +5,7 @@ title = "आरूढस्वामिकोऽश्वः स्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरूढस्वामिकोऽश्वः स्याद् वित्तचिन्तितसिद्धये।  
 सर्वेषां सुरतक्रीडा दृष्टादौ भोगलब्धये॥

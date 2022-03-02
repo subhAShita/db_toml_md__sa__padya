@@ -7,7 +7,7 @@ title = "दीपयन्नथ नभः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीपयन्नथ नभः किरणौघैः कुङ्कुमारुणपयोधरगौरः।  
 हेमकुम्भ इव पूर्वपयोधेरुन्ममज्ज शनकैस्तुहिनांशुः॥

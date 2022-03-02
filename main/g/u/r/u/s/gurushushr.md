@@ -6,7 +6,7 @@ title = "गुरुशुश्रूषया विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा।  
 अथवा विद्यया विद्या चतुर्थी नोपलभ्यते॥

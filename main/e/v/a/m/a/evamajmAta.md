@@ -5,7 +5,7 @@ title = "एवमज्ञातहृदया मूर्खाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमज्ञातहृदया मूर्खाः कृत्वा विपर्ययम्।  
 घ्नन्ति स्वार्थं परार्थं च तादृग् ददति चोऽत्तरम्॥

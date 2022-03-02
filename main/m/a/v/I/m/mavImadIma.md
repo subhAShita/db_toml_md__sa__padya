@@ -6,7 +6,7 @@ title = "नवीनदीनभावस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवीनदीनभावस्य याचकस्यातिमानिनः।  
 वचोजीवितयोरासीत्पुरोनिःसरणे रणः॥

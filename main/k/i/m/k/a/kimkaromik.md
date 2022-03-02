@@ -6,7 +6,7 @@ title = "किं करोमि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं करोमि क्व गच्छामि कमुपैमि दुरात्मना।  
 दुर्भरेणोदरेणाहं प्राणैरपि विडम्बितः॥

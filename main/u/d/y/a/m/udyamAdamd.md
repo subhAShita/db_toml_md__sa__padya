@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6873", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 56",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "उद्यन्नादम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यन्नादं धन्विभिर्निष्ठुराणि स्थूलान्युच्चैर्मण्डलत्वं दधन्ति।  
 आस्फाल्यन्ते कार्मुकाणि स्म कामं हस्त्यारोहैः कुञ्जराणां शिरांसि॥

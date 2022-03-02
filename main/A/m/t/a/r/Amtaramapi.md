@@ -5,7 +5,7 @@ title = "आन्तरमपि बहिरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आन्तरमपि बहिरिव हि व्यञ्जयितुं रसमशेषतः सततम्।  
 असती सत्कविसूक्तिः काचघटीति त्रयं वेद॥

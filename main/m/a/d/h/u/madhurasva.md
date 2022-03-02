@@ -6,7 +6,7 @@ title = "मधुरस्वना धृतोर्णा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुरस्वना धृतोर्णा मण्याभरणा सुशोभना सुदती।  
 मत्स्कन्धोचितदण्डा भिक्षो दयितास्ति किं न मे वीणा॥

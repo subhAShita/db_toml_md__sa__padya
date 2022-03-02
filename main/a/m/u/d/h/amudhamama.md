@@ -5,7 +5,7 @@ title = "अणु धनमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अणु धनमपि न त्याज्यं मम भवता ज्ञापिते सत्यम्।  
 वित्तं जीवितमग्र्यं जीवितहानिर्धनत्यागः॥

@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 03 अपह्नुतयः// 7",]
 types = [ "अपह्नुतिः",]
-jsonClass = "Subhaashita"
 topics = [ "रतिः", "मत्कुणः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "रागी भिनत्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रागी भिनत्ति निद्रां तल्पं न जहाति निष्ठुरं दशति।  
 चतुरे किं प्राणेशो नहि नहि सखि मत्कुणव्रातः॥

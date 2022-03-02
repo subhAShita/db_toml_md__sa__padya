@@ -7,7 +7,7 @@ title = "कुलीना रूपवत्यश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुलीना रूपवत्यश्च नाथवत्यश्च योषितः।  
 मर्यादासु न तिष्ठन्ति स दोषः स्त्रीषु नारद॥

@@ -5,7 +5,7 @@ title = "अपरोपगमारम्भम् उन्नाटयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपरोपगमारम्भम् उन्नाटयति वल्लभम्।  
 दरिद्रजरतीवार्ता शिशिरे सायमातपम्॥

@@ -7,7 +7,7 @@ title = "वार्त्ताहर नमस्तुभ्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वार्त्ताहर नमस्तुभ्यं कवीन्द्रोऽसि न वञ्चकः।  
 वार्त्ताच्छलेऽपि यत्काव्ये मूषको दिग्गजायते॥

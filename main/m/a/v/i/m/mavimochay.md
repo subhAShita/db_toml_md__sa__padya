@@ -6,7 +6,7 @@ title = "न विमोचयितुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विमोचयितुं शक्यः क्षमां महान्मोचितो यदि कथञ्चित्।  
 मन्दरगिरिरिव हि तलं निवर्तते न तु स समवाप्य॥

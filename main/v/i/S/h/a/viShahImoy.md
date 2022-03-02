@@ -6,7 +6,7 @@ title = "विषहीनो यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषहीनो यथा नागो मदहीनो यथा गजः।  
 सर्वेषां वश्यतां याति दुर्गहीनस्तथा नृपः॥

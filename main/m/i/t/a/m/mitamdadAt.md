@@ -6,7 +6,7 @@ title = "मितं ददाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मितं ददाति हि पिता मितं भ्राता मितं सुतः।  
 अमितस्य हि दातारं भर्तारं का न शोचति॥

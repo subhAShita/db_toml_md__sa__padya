@@ -5,7 +5,7 @@ title = "ऋणपापसमुद्धाराद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणपापसमुद्धाराद् ऋणोद्धारो वरः स्मृतः।  
 परलोके दहेत् पापम् ऋणाग्निरिह तत्र च॥

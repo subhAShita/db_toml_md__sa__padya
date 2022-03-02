@@ -7,7 +7,7 @@ title = "जल्पन्ति सार्धमन्येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जल्पन्ति सार्धमन्येन पश्यन्त्यन्यं सविभ्रमम्।  
 हृदये चिन्तयन्त्यन्यं प्रियः को नाम योषिताम्॥

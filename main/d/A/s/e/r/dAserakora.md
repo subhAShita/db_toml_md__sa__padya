@@ -6,7 +6,7 @@ title = "दासेरको रसत्येष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दासेरको रसत्येष युक्तं भारेऽधिरोहति।  
 उत्तार्यमाणोऽपि पुनर्यत्तत्र किमु कुर्महे॥

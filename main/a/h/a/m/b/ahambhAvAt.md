@@ -5,7 +5,7 @@ title = "अहम्भावात्ययो जातु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहंभावात्ययो जातु सुकरो न कथंचन।  
 चेतनायामहम्भावो भौतिक्यां विजितः सकृत्।  

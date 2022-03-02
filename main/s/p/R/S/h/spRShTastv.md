@@ -7,7 +7,7 @@ title = "स्पृष्टस्त्वयैव दयिते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्पृष्टस्त्वयैव दयिते स्मरपूजाव्यापृतेन हस्तेन।  
 उद्भिन्नापरमृदुतरकिसलय इव लक्ष्यतेऽशोकः॥

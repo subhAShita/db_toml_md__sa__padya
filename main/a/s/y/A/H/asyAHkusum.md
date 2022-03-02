@@ -6,7 +6,7 @@ title = "अस्याः कुसुमशय्यापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्याः कुसुमशय्यापि कोमलाङ्ग्या रुजाकरी।  
 साधिशेते कथं देवी ज्वलान्तीमधुना चिताम्॥

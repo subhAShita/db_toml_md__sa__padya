@@ -6,7 +6,7 @@ title = "संसाररात्रिदुःस्वप्ने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संसाररात्रिदुःस्वप्ने शून्ये देहमये भ्रमे।  
 आस्थां चेदनुबध्नामि तन्मूर्खो नास्ति मत्परः॥

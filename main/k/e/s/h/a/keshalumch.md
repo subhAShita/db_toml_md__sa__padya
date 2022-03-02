@@ -6,7 +6,7 @@ title = "केशलुञ्चनसाम्येऽपि हन्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केशलुञ्चनसाम्येऽपि हन्त पश्यैतदन्तरम्।  
 उपस्थाः कीटमश्नन्ति घृतभक्तं दिगम्बराः॥

@@ -6,7 +6,7 @@ title = "स्वदेशजं कुलाचारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वदेशजं कुलाचारं विशुद्धमथवा शुचिम्।  
 मन्त्रज्ञमव्यसनिनं व्यभिचारविवर्जितम्॥

@@ -6,7 +6,7 @@ title = "अधः करोषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधः करोषि रत्नानि मूर्ध्ना धारयसे तृणम्।  
 दोषस्तवैष जलधे रत्नं रत्नं तृणं तृणम्॥

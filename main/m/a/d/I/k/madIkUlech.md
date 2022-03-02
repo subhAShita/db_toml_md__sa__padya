@@ -6,7 +6,7 @@ title = "नदीकूले च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नदीकूले च ये वृक्षाः परहस्तगतं धनम्।  
 कार्यं स्त्रीगोचरं यत्स्यात्सर्वं तद्विफलं भवेत्॥

@@ -6,7 +6,7 @@ title = "कुत आगत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुत आगत्य घटते विघट्य क्व नु याति च।  
 न लक्ष्यते गतिश्चित्रा घनस्य च धनस्य च॥

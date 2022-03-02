@@ -7,7 +7,7 @@ title = "बहिर्न लोला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहिर्न लोला दृगपाङ्गमूलादुपैति कूलादिव सागरोर्भिः।  
 न वा सतीनामभिलाषबन्धं व्यनक्ति गन्धं कलिकेव चेतः॥

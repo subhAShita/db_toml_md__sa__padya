@@ -6,7 +6,7 @@ title = "को दुःखी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को दुःखी सर्वकार्येषु किं भृशार्थस्य वाचकम्।  
 यो यस्माद्विरतो नित्यं ततः किं स करिष्यति॥

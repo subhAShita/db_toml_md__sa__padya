@@ -6,7 +6,7 @@ title = "भूप्रदक्षिणषट्केन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूप्रदक्षिणषट्केन काशीयात्राऽयुतेनच।  
 सेतुस्नानशतैर्यच्च तत्फलं मातृवन्दने॥

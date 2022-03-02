@@ -6,7 +6,7 @@ title = "स्वाधीनेऽपि कलत्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वाधीनेऽपि कलत्रे नीचः परदारलम्पटो भवति।  
 सम्पूर्णेऽपि तटाके काकः कुम्भोदकं पिबति॥

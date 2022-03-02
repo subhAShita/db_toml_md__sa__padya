@@ -6,7 +6,7 @@ title = "विद्यायां दुर्मदो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्यायां दुर्मदो येषां  
 कार्पण्यं विभवे सति।  

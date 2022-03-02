@@ -6,7 +6,7 @@ title = "स्नेहेन भूतिदानेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नेहेन भूतिदानेन कृतः स्वच्छोऽपि दुर्जनः।  
 दर्पणश्चान्तिके तिष्ठन्करोत्येकमपि द्विधा॥

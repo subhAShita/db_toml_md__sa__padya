@@ -5,7 +5,7 @@ title = "कषायमुक्तं कथितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कषायमुक्तं कथितं चरित्रं कषायवृद्धावुपघातमेति।  
 यदा कषायः शममेति पुंसस् तदा चरित्रं पुनरेति पूतम्॥

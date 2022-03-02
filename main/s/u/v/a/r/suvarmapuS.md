@@ -6,7 +6,7 @@ title = "सुवर्णपुष्पां पृथिवीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवर्णपुष्पां पृथिवीं चिन्वन्ति पुरुषास्त्रयः।  
 शूरश्च कृतविद्यश्च यश्च जानाति सेवितुम्॥

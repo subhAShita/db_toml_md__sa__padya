@@ -5,7 +5,7 @@ title = "कन्यादात्रे तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कन्यादात्रे तु ह्यधनं दस्यवे सधनं नरम्।  
 गुप्तं जिघांसवे नैव विज्ञातमपि दर्शयेत्॥

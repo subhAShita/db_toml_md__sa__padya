@@ -5,7 +5,7 @@ title = "आबद्धातिकठोरै रश्मिभरैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आबद्धातिकठोरै रश्मिभरैः पीडिताश्मचयैः।  
 आमर्दितापि चरणैः परमिह मधुरैव चूर्णितापि सिता॥

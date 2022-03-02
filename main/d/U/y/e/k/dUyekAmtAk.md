@@ -6,7 +6,7 @@ title = "दूये कान्ताकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूये कान्ताकरं वीक्ष्यमणिकङ्कणवर्जितम्।  
 अतः परं परं दूये मणिकं कणवर्जितम्॥

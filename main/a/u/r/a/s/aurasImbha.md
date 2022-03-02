@@ -5,7 +5,7 @@ title = "औरसीं भगिनीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औरसीं भगिनीं वापि भार्यां वाप्यनुजस्य यः।  
 प्रचरेत नरः कामात् तस्य दण्डो वधः स्मृतः॥

@@ -6,7 +6,7 @@ title = "गन्धर्वनगराकारः संसारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गन्धर्वनगराकारः संसारः क्षणभङ्गुरः।  
 मनसो वासनैवेयमुभयोर्भेदसाधनम्॥

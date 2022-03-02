@@ -6,7 +6,7 @@ title = "मन्त्रो योध"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्त्रो योध इवाधीरः सर्वाङ्गैः सम्वृतैरपि।  
 चिरं न सहते स्थातुं परेभ्यो भेदशङ्कया॥

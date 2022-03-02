@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0021", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४० कलहान्तरिताप्रलापाख्यानम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "प्रणयकलहः", "वाग्रोधः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अकरोः किमु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकरोः किमु नेत्रशोणिमानं किमकार्षीः करपल्लवावरोधम्।  
 कलहं किमधाः क्रुधा रसज्ञे हितमर्थं न विदन्ति दैवदष्टाः॥

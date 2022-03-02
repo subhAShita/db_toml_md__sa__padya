@@ -7,7 +7,7 @@ title = "स्वादनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वादनेन सुतनोरविचारादोष्ठतः समचरिष्ट रसोऽत्र।  
 अन्यमन्यदिव यन्मधु यूनः स्वादमिष्टमतनिष्ट तदेव॥

@@ -6,7 +6,7 @@ title = "कृत्वापि कोशपानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृत्वापि कोशपानं भ्रमरयुवा पुरत एव कमलिन्याः।  
 अभिलषति बकुलकलिकां मधुलिहि मलिने कुतः सत्यम्॥

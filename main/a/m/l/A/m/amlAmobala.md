@@ -5,7 +5,7 @@ title = "अम्लानो बलवाञ्शूरश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्लानो बलवाञ्शूरश् छायेवानुगतः सदा।  
 सत्यवादी मृदुर्दान्तः स राजवसतिं वसेत्॥

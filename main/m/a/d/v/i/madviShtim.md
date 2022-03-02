@@ -6,7 +6,7 @@ title = "न द्विष्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न द्विष्ति न याचन्ते परनिन्दां न कुर्वते।  
 अनाहूता न चायान्ति तेनाश्मानोऽपि देवताः॥

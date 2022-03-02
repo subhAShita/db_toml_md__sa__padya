@@ -6,7 +6,7 @@ title = "अपमानं पुरस्कृत्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपमानं पुरस्कृत्य मानं कृत्वा च पृष्ठके।  
 स्वकार्यमुद्धरेत्प्राज्ञः कार्यध्वंसो हि मूर्खता॥

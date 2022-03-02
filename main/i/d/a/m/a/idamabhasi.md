@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5908", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३० तमोवर्णनम्// 27",]
-jsonClass = "Subhaashita"
 topics = [ "तमः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इदं नभसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं नभसि भीषणभ्रमदुलूककोलाहले निशाचरविलासिनीनिवहदत्तनेत्रोत्सवे।  
 परिस्फुरति निर्भरप्रचुरपङ्कमग्नोल्लसद्- वराहकुलमांसलं प्रबलबन्दमन्धं तमः॥

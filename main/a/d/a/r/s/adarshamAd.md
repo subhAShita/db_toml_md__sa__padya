@@ -5,7 +5,7 @@ title = "अदर्शनादापतितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदर्शनादापतितः पुनश्चादर्शनं गतः।  
 न त्वासौ वेद न त्वं तं कः सन् कमनुशोचसि॥

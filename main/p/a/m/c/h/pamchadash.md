@@ -6,7 +6,7 @@ title = "पञ्चदशीरजनिसमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्चदशीरजनिसमा तारामणिभूषणापि कोकिलवाक्।  
 चन्द्रसमा गतवसना हस्तगता स्त्री न मे वीणा॥

@@ -5,7 +5,7 @@ title = "अयं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं हि देहिनो देहो द्रव्यज्ञानक्रियात्मकः।  
 देहिनो विविधक्लेशसंतापकृदुदाहृतः॥

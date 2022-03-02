@@ -7,7 +7,7 @@ title = "प्रज्ञा विवेकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रज्ञा विवेकं लभते भिन्नैरागमदर्शनैः ।  
 कियद्वा  शक्यमुन्नेतुं स्वतर्कमनुधावता ?

@@ -5,7 +5,7 @@ title = "अथ केन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 (अर्जुन उवाच) अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः।  
 अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः॥

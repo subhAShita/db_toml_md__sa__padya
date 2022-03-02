@@ -6,7 +6,7 @@ title = "तुलामारुह्य रविणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुलामारुह्य रविणा वृश्चिके निहितं पदम्।  
 भवता शिरसि न्यस्तमनत्नेनैव भोगिनाम्॥

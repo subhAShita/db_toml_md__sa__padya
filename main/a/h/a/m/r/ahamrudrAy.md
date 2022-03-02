@@ -7,7 +7,7 @@ title = "अहं रुद्राय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्तवा उ।  
 अहं जनाय समदं कृणोम्यहं द्यावापृथिवी आ विवेश ॥

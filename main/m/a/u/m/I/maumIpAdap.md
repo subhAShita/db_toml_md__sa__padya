@@ -6,7 +6,7 @@ title = "मौनी पादप्रहारेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मौनी पादप्रहारेऽपि न क्षमी नीच एव सः।  
 आकृष्टशस्त्रो मित्रेऽपि न तेजस्वी खलो हि सः॥

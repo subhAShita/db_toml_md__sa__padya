@@ -6,7 +6,7 @@ title = "विद्याविधिविहीनेन किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्याविधिविहीनेन किं कुलीनेन देहिनाम्।  
 अकुलीनोऽपि यो विद्वान्दैवतैरपि पूज्यते॥

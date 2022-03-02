@@ -5,7 +5,7 @@ title = "कान्तः कटाक्षपातेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तः कटाक्षपातेन भ्रामयन्नयनद्वयम्।  
 सुगन्धिमारुतो तात शृङ्गाररससेवितः॥

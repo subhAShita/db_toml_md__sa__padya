@@ -5,7 +5,7 @@ title = "काव्यं यशसेऽर्थकृते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यं यशसेऽर्थकृते व्यवहारविदे शिवेतरक्षतये।  
 सद्यः परनिर्वृतये कान्तासम्मिततयोपदेशयुजे॥

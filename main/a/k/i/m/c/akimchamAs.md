@@ -5,7 +5,7 @@ title = "अकिञ्चनाश्च दृश्यन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकिंचनाश्च दृश्यन्ते पुरुषाश्चिरजीविनः।  
 समृद्धे च कुले जाता विनश्यन्ति पतंगवत्॥

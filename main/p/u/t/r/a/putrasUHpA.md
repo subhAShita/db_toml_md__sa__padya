@@ -6,7 +6,7 @@ title = "पुत्रसूः पाककुशला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुत्रसूः पाककुशला पवित्रा च पतिव्रता।  
 पद्माक्षी पञ्चपैर्नारी भुवि सय्याति गौरवम्॥

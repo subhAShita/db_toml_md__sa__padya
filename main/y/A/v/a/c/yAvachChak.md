@@ -6,7 +6,7 @@ title = "यावच्छकलितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यावच्छकलितो वायुरेकीभवितुमर्हति।  
 तावदेव तुरङ्गोऽयमाजगाम जगाम च॥

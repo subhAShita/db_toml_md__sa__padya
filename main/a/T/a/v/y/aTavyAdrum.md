@@ -5,7 +5,7 @@ title = "अटव्या द्रुमपुष्पाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अटव्या द्रुमपुष्पाणि दूरस्था अपि बान्धवाः।  
 कान्ता चालेख्यरूपा च ते काले न प्रतिष्ठिताः॥

@@ -6,7 +6,7 @@ title = "नाक्षराणि पठता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाक्षराणि पठता किमपाठि पाठितोऽपि किमु विस्मृत एव।  
 इत्थमर्थिजनसंशयदोलाखेलनां खलु चकार नकारः॥

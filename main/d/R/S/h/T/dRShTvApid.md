@@ -6,7 +6,7 @@ title = "दृष्ट्वापि दृश्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृष्ट्वापि दृश्यते दृश्यं श्रुत्वापि श्रूयते पुनः।  
 सत्यं न साधुवृत्तस्य दृश्यते पुनरुक्तता॥

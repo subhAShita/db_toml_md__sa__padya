@@ -6,7 +6,7 @@ title = "पुंस्कोकिलकुलस्यैते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुंस्कोकिलकुलस्यैते नितान्तमधुरारवैः।  
 सहकारद्रुमा रम्या वसन्ते कामपि श्रियम्॥

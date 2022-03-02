@@ -6,7 +6,7 @@ title = "सिद्धमन्त्रौषधं धर्मम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सिद्धमन्त्रौषधं धर्मं गृहच्छिद्रं च मैथुनम्।  
 कुभुक्तिं कुश्रुतं चैव वचनं न प्रकाशयेत्॥

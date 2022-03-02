@@ -6,7 +6,7 @@ title = "ये ऽमी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये ऽमी ते मुकुलोद्गमाद् अनुदिनं त्वाम् आश्रिताः षट्पदाः   
 ते भ्राम्यन्ति फलाद् बहिर् बहिर् अहो दृष्ट्वा न संभाषसे ।  

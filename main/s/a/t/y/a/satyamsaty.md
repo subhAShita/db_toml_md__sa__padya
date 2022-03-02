@@ -6,7 +6,7 @@ title = "सत्यं सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं सत्यं मुनेर्वाक्यं नादत्तमुपतिष्ठते।  
 अम्बुभिः पूरिता पृथ्वी चातकस्य मरुस्थली॥

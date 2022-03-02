@@ -7,7 +7,7 @@ title = "अपश्यन्निव मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपश्यन्निव मा पश्य ब्रूहि दोषानशङ्कितम् ।  
 ताटस्थ्यादधिका लोके न काचिदवधीरणा ॥

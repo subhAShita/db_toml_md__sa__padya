@@ -5,7 +5,7 @@ title = "आकिञ्चन्यं सुखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आकिंचन्यं सुखं लोके पथ्यं शिवमनामयम्।  
 अनमित्रमथो ह्येतद् दुर्लभं सुलभं सताम्॥

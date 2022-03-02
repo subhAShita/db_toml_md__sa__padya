@@ -5,7 +5,7 @@ title = "इदं लब्धमिदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं लब्धमिदं नष्टम् इदं लप्स्ये मनोरथम्।  
 इदं चिन्तयतामेव जीर्णमायुः शरीरिणाम्॥

@@ -6,7 +6,7 @@ title = "चन्द्राननार्धदेहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चन्द्राननार्धदेहाय चन्द्रांशुसितमूर्तये।  
 चन्द्रार्कानलनेत्राय चन्द्रार्धशिरसे नमः॥

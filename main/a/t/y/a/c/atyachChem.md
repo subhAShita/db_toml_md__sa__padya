@@ -6,7 +6,7 @@ title = "अत्यच्छेनाविरुद्धेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यच्छेनाविरुद्धेन सुवृत्तेनातिचारुणा।  
 अन्तर्भिन्नेन सम्प्राप्तं मौक्तिकेन निबन्धनम्॥

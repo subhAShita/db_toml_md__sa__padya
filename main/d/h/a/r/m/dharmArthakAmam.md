@@ -6,7 +6,7 @@ title = "धर्मार्थकाममोक्षाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मार्थकाममोक्षाणां यस्यैकोऽपि न विद्यते।  
 अजागलस्तनस्येव तस्य जन्म निरर्थकम्॥

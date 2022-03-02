@@ -6,7 +6,7 @@ title = "दीप्यन्तां ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीप्यन्तां ये दीप्त्यै घटिता मणयश्च वीरपुरुषाश्च।  
 तेजः स्वविनाशाय तु भवति तृणानामिल लघूनाम्॥

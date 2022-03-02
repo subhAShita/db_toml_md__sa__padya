@@ -6,7 +6,7 @@ title = "स्वाम्युक्ते यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वाम्युक्ते यो न यतते स भृत्यो भृत्यपाशकः।  
 तज्जीवनमपि व्यर्थमजागलकुचाविव॥

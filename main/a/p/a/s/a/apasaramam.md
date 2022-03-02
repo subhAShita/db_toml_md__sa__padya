@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1958", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०२ हंसः// 8",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - हंसः",]
-title = "अपसरणमेव शरणम्"
+jsonClass = "Subhaashita"
+title = "अपसरणमेव युक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपसरणमेव युक्तं मौनं वा तत्र राजहंसस्य।  
 कटु रटति निकटवर्ती वाचाटष्टिट्टिभो यत्र॥

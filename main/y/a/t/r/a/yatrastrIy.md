@@ -7,7 +7,7 @@ title = "यत्र स्त्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र स्त्री यत्र कितवो बालो यत्र प्रशासिता।  
 राजन्निर्मूलतां याति तद्गृहं भार्गवोऽब्रवीत्॥

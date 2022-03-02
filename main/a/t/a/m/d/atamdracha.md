@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0517", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 5",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अतन्द्रचन्द्राभरणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतन्द्रचन्द्राभरणा समुद्दीपितमन्मथा।  
 तारकातरला श्यामा सानन्दं न करोति कम्॥

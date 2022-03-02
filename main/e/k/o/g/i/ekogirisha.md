@@ -5,7 +5,7 @@ title = "एको गिरिशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको गिरिशः स्वामी गणता तुल्यैव वल्लभत्वं च।  
 किं कुर्मः कर्मगतौ शुष्यति भृङ्गी विनायकः पीनः॥

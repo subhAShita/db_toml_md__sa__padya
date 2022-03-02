@@ -6,7 +6,7 @@ title = "किं चान्यैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं चान्यैः सुकुलाचारैः सेव्यतामेति पूरुषः।  
 धनहीनः स्वपत्नीभिस्त्यज्यते किं पुनः परैः॥

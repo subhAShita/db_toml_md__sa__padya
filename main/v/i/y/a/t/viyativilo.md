@@ -7,7 +7,7 @@ title = "वियति विलोलति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वियति विलोलति जलदः स्खलति विधुश्चलति कूजति कपोतः।  
 निष्पतति तारकाततिरान्दोलति वीचिरमरवाहिन्याः॥

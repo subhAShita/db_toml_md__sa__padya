@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8674", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 12",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कमले कमलोत्पत्तिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमले कमलोत्पत्तिः श्रूयते न च दृश्यते।  
 बाले तव मुखाम्भोजे दृष्टमिन्दीवरद्वयम्॥

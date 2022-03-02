@@ -7,7 +7,7 @@ title = "स्थितेऽपि साधुसङ्घाते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थितेऽपि साधुसङ्घाते नीचो नीचं गवेषते ।  
 गत्वा देवकुलद्वारं शुनको लेढि पादुकाम् ॥

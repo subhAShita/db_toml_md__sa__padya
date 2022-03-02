@@ -6,7 +6,7 @@ title = "तावद्गर्जन्ति मण्डूकाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावद्गर्जन्ति मण्डूकाः कूपमाश्रित्य निर्भयाः।  
 यावत्करिकराकारः कृष्णसर्पो न विद्यते॥

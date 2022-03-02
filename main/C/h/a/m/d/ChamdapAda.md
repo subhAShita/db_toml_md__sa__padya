@@ -2,11 +2,11 @@
 topics = [ "वेदाङ्गाः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "छन्द पादौ"
+title = "छन्दः पादौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छन्दः पादौ तु वेदस्य   
 हस्तौ कल्पोऽथ पठ्यते ।  

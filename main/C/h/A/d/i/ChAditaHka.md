@@ -7,7 +7,7 @@ title = "छादितः कथमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छादितः कथमपि त्रपयान्तर्यः प्रियं प्रति चिराय रमण्याः।  
 वारुणीमदविशङ्कमताविश्चक्षुषोऽभवदसाविव रागः॥

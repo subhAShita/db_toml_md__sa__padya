@@ -5,7 +5,7 @@ title = "अमित्रो न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमित्रो न विमोक्तव्यः कृपणं बह्वपि ब्रुवन्।  
 कृपा तस्मिन् न कर्तव्या हन्यादेवापकारिणम्॥

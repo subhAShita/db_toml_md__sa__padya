@@ -6,7 +6,7 @@ title = "जातिमात्रेण किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जातिमात्रेण किं कश्चिद्धन्यते पूज्यते क्वचित्।  
 व्यवहारं परिज्ञाय वध्यः पूज्योऽथवा भवेत्॥

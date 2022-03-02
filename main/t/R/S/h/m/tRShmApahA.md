@@ -6,7 +6,7 @@ title = "तृष्णापहारी विमलो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णापहारी विमलो द्विजावासो जनप्रियः।  
 ह्रदः पद्मकरः किं तु बुधस्त्वं स जलाश्रयः॥

@@ -7,7 +7,7 @@ title = "ब्राह्मणाय धनुर्देयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्राह्मणाय धनुर्देयं खड्गं वै क्षत्रियाय च।  
 वैश्याय दापयेत्कुन्तं गदां शूद्राय दापयेत्॥

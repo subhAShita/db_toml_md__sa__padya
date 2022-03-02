@@ -5,7 +5,7 @@ title = "कर्मणा येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणा येन तेनेह मृदुना दारुणेन वा।  
 उद्धरेद् दीनमात्मानं समर्थो धर्ममाचरेत्॥

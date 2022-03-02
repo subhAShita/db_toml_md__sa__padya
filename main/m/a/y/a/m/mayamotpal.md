@@ -7,7 +7,7 @@ title = "नयनोत्पलचलधारां दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नयनोत्पलचलधारां दृष्ट्वा वारान्निधिभ्रान्त्या।  
 वडवानल इव भगवान्वसति तनौ कृशतनोस्तापः॥

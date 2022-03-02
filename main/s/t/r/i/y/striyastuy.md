@@ -7,7 +7,7 @@ title = "स्त्रियस्तु यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रियस्तु यः कामयते सन्निकर्षं च गच्छति।  
 ईषत्प्रकुरुते सेवां तं तमिच्छन्ति योषितः॥

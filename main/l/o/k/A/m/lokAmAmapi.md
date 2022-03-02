@@ -7,7 +7,7 @@ title = "लोकानामपि दातारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोकानामपि दातारं कर्तारं मानसान्त्वयोः।  
 रक्षितारं न मृष्यन्ति भर्तारं परमस्त्रियः॥

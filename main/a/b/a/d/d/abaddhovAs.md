@@ -6,8 +6,7 @@ title = "अबद्धो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
-अबद्धो वा सुबद्धो वा कुन्तीपुत्रो विनायकः।  
-
+अबद्धो वा सुबद्धो वा कुन्तीपुत्रो विनायकः।
 </details>

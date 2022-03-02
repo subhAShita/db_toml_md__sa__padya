@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2404", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//११ दावानलान्योक्तयः// 4",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - दावानलः",]
+jsonClass = "Subhaashita"
 title = "अभ्युन्नतेऽपि जलदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्युन्नतेऽपि जलदे जगदेकसार- साधारणप्रणयहारिणि हा यदेते।  
 उल्लासलास्यललितं तरवो न यान्ति हे दावपावक स तावक एव दोषः॥

@@ -6,7 +6,7 @@ title = "क्षमा शत्रौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षमा शत्रौ च मित्त्रे च यतीनामेव भूषणम्।  
 अपराधिषु सत्त्वेषु नृपाणां सैव दूषणम्॥

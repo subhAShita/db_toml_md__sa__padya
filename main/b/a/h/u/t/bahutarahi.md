@@ -6,7 +6,7 @@ title = "बहुतरहिते रसातल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहुतरहिते रसातल उत्तिष्ठन्ते हि सुमनसस्तपसि।  
 कान्तारैर्जनवेगं विषह्य सद्रसफलास्तु विरलाः स्युः॥

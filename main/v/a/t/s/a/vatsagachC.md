@@ -6,7 +6,7 @@ title = "वत्स गच्छ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वत्स गच्छ मम वाचिकमेतद्रामचन्द्रचरणे कथयेथाः।  
 आवयोरिव भवेदनुरागो नावयोरिव विधिः प्रतिकूलः॥

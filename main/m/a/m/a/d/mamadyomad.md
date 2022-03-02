@@ -6,7 +6,7 @@ title = "न नद्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न नद्यो मदवाहिन्यो न च मांसमया नगाः।  
 न च नारीमयं विश्वं कथं नीलपटः सुखी॥

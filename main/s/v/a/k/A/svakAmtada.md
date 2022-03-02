@@ -6,7 +6,7 @@ title = "स्वकान्तदवकान्तारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वकान्तदवकान्तारो यद्वैरिसुदृशामभूत्।  
 जघनस्तनमुच्चैर्यो व्यलिखत्कण्टकैर्नखैः॥

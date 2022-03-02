@@ -5,7 +5,7 @@ title = "कालो याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालो याति गलत्यायुः क्षीयन्ते च मनोरथाः।  
 सुकृतं च कृतं किंचित् सतां संस्मरणोचितम्॥

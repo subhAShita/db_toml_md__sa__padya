@@ -6,7 +6,7 @@ title = "मृगेन्द्रं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृगेन्द्रं वा मृगारिं वा सुखं व्याहरतां जनः।  
 तस्योभयमपि व्रीडा क्रीडादलितदन्तिनः॥

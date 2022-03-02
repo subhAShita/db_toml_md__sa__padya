@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4813", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// 167",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "मुखम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आननं मृगशावाक्ष्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आननं मृगशावाक्ष्या वीक्ष्य लोलालकावृतम्।  
 भ्रमद्भ्रमरसंभारं स्मरामि सरसीरुहम्॥

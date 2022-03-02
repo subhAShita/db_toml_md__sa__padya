@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6000", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 24",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इन्दुरिन्दुरिति किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दुरिन्दुरिति किं दुराशया बिन्दुरेष पयसो विलोक्यते।  
 नन्विदं विजयते मृगीदृशः श्यामकोमलकपोलमाननम्॥

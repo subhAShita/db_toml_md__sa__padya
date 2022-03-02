@@ -5,7 +5,7 @@ title = "अदृष्टपूर्वः कण्ठोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदृष्टपूर्वः कण्ठोऽयं कान्ताया भुवन्त्रये।  
 यस्माद्विणानिनादस्य समुद्भूतिर्विभाव्यते॥

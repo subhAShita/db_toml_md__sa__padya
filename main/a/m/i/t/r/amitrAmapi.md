@@ -5,7 +5,7 @@ title = "अमित्रानपि कुर्वीत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमित्रानपि कुर्वीत मित्रान्युपचयावहान्।  
 अहिते वर्तमानानि मित्राण्यपि परित्यजेत्॥

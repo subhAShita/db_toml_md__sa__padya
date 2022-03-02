@@ -7,7 +7,7 @@ title = "दुराशेव दरिद्रस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुराशेव दरिद्रस्य तृष्णेव कृपणस्य च।  
 अहो न विरमत्येषा हन्त हेमन्तयामिनी॥

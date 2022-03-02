@@ -6,7 +6,7 @@ title = "विप्रार्थेषु धनक्षीणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विप्रार्थेषु धनक्षीणं स्वदारगतयौवनम्।  
 स्वामिकार्ये हतप्राणमन्ते तिष्ठति माधवः॥

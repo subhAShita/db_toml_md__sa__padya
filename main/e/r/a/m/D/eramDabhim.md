@@ -5,7 +5,7 @@ title = "एरण्डभिण्डार्कनलैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एरण्डभिण्डार्कनलैः प्रभूतैरपि संभृतैः।  
 दारुकृत्यं यथा नास्ति तथा नाज्ञैः प्रयोजनम्॥

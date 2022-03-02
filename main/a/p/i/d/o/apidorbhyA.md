@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2031", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २६ लक्ष्मीस्वभावः// 19",]
-jsonClass = "Subhaashita"
 topics = [ "लक्ष्मीः",]
+jsonClass = "Subhaashita"
 title = "अपि दोर्भ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि दोर्भ्यां परिबद्धा बद्धापि गुणैरनेकधा निपुणैः।  
 निर्गच्छति क्षणादिव जलधिजलोत्पत्तिपिच्छिला लक्ष्मीः॥

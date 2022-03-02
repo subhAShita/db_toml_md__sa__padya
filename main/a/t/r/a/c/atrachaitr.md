@@ -5,7 +5,7 @@ title = "अत्र चैत्रसमये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्र चैत्रसमये निरन्तराः प्रोषिताहृदयकीर्णपावकाः।  
 वान्ति कामुकमनोविमोहना व्याललोलमलयाचलानिलाः॥

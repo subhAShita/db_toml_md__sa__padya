@@ -5,7 +5,7 @@ title = "अप्राप्येऽपि यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्राप्येऽपि यथा कामे धर्मे चिन्ता न किं तथा।  
 अलाभेऽपि द्वयोरेका भयदा शिवदापरा॥

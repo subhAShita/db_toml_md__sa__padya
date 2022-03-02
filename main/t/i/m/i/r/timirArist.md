@@ -6,7 +6,7 @@ title = "तिमिरारिस्तमो हन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तिमिरारिस्तमो हन्ति तेन शङ्कितमानसाः।  
 वयं काका वयं काका रटन्तीति प्रगे द्विकाः॥

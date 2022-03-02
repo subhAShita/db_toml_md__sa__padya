@@ -6,7 +6,7 @@ title = "यत्रायुद्धे ध्रुवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्रायुद्धे ध्रुवं मृत्युर्युद्धे जीवितसंशयः।  
 तमेव कालं युद्धस्य प्रवदन्ति मनीषिणः॥

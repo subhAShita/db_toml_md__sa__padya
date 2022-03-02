@@ -5,7 +5,7 @@ title = "कः खे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः खे चरति कः शब्दं चोरं दृष्ट्वा करोति च।  
 कैरवाणामरिः को वा कोपानामालयश्च कः॥

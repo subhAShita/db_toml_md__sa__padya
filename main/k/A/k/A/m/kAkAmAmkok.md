@@ -5,7 +5,7 @@ title = "काकानां कोकिलानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकानां कोकिलानां च सीमाभेदः कथं भवेत्।  
 यदि विश्वसृजा साक्षं न कृता कर्णशष्कुली॥

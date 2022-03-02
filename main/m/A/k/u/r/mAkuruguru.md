@@ -6,7 +6,7 @@ title = "मा कुरु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा कुरु गुरुतागर्वं लघुरन्यो नास्ति सागर त्वत्तः।  
 जलसङ्ग्रहमन्यस्मात्त्वयि सति कुर्वन्ति पोतस्थाः॥

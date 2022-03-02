@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8711", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 271",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "करतलयुगपरिणद्धे कुचकलशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करतलयुगपरिणद्धे कुचकलशे कुङ्कुमारुणे तस्याः।  
 सिन्दूरिते करिपतेः कुम्भे नक्षत्रमालेव॥

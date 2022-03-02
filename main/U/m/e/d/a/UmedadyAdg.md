@@ -5,7 +5,7 @@ title = "ऊने दद्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊने दद्याद् गुरूनेव यावत् सर्वलघुर्भवेत्।  
 प्रस्तारोऽयं समाख्यातश् छन्दोविचितिवेदिभिः॥

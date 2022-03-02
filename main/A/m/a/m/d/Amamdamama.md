@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4832", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१४ वियोगिनो विप्रलापाः// 23",]
-jsonClass = "Subhaashita"
 topics = [ "विलापः - वियोगे",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आनन्दममन्दमिमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनन्दममन्दमिमं कुवलयदललोचने ददासि त्वम्।  
 विरहस्त्वयैव जनितस् तापयतितरां शरीरं मे॥

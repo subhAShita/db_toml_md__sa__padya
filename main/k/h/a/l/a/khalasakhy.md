@@ -6,7 +6,7 @@ title = "खलसख्यं प्राङ्मधुरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलसख्यं प्राङ्मधुरं नयोऽन्तराले निदाघदिनमन्ते।  
 एकादिमध्यपरिणतिरमणीया साधुजनमैत्री॥

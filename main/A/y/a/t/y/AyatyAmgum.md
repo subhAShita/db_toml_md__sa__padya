@@ -5,7 +5,7 @@ title = "आयत्यां गुणदोषज्ञस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयत्यां गुणदोषज्ञस् तदात्वे क्षिप्रनिश्चयः।  
 अतीते कार्यशेषज्ञः शत्रुभिर्नाभिभूयते॥

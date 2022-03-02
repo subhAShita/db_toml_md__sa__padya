@@ -5,7 +5,7 @@ title = "आदित्यादिग्रहाः सर्वे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदित्यादिग्रहाः सर्वे नक्षत्राणि च राशयः।  
 आयुः कुर्वन्तु ते नित्यं यस्यैषा जन्मपत्रिका॥

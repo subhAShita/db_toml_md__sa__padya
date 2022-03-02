@@ -6,7 +6,7 @@ title = "भ्रातः पञ्जरलावक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रातः पञ्जरलावक मा कुरु सन्तोषमन्यनिधनेन।  
 प्रातस्तवैव धातुः स्वामित्वं किं न जानासि॥

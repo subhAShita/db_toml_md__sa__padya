@@ -7,7 +7,7 @@ title = "न हयैर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न हयैर्न च मातङ्गैर्न रथैर्न च पत्तिभिः।  
 स्त्रीणामपाङ्गदृष्ट्यैव जीयते जगतां त्रयम्॥

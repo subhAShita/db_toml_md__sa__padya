@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0035", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०३ गर्भवासप्रयुक्तं दुःखम्// 141",]
-jsonClass = "Subhaashita"
 topics = [ "जन्म", "गर्भवासः",]
+jsonClass = "Subhaashita"
 title = "अकल्पः स्वाङ्गचेष्टायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकल्पः स्वाङ्गचेष्टायां शकुन्त इव पञ्जरे।  
 अनुच्छ्वसन्स्मरन् पूर्वं गर्भे किं नाम विन्दते॥

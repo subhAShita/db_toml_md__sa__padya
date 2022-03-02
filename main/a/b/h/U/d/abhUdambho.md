@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2362", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 250",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अभूदम्भोराशेः सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभूदम्भोराशेः सह वसतिरासीत् कमलया गुणानामाधारो नयनफलमिन्दुः प्रथयति।  
 कथं सिंहीसूनुस्तमपि तुदति प्रौढदशनैर् गुणानामास्वादं पिशुनरसना किं रसयति॥

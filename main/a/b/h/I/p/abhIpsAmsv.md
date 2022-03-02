@@ -5,7 +5,7 @@ title = "अभीप्सां स्वात्मनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभीप्सां स्वात्मनो रक्षाऽविरतं सुस्थिरं तथा।  
 यत्नमातिष्ठ धैर्येण ततः सिद्धिर्भवेद् ध्रुवम्॥

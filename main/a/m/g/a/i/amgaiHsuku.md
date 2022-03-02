@@ -5,7 +5,7 @@ title = "अङ्गैः सुकुमारतरैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गैः सुकुमारतरैः सा कुसुमानां श्रियं प्रहरति।  
 विकलयति कुसुमबाणो बाणालीभिर्मम प्राणान्॥

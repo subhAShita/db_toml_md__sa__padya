@@ -6,7 +6,7 @@ title = "मा धनानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा धनानि कृपणः खलु जीवंस्तृष्‌णयार्पयतु जातु परस्मै।  
 तत्र नैष कुरुते मम चित्रं यत्तु नार्पयति तानि मृतोऽपि॥

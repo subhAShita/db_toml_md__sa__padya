@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4939",]
-jsonClass = "Subhaashita"
 topics = [ "जरा", "कामः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "आपाण्डुराः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपाण्डुराः शिरसिजास्त्रिवली कपोले दन्तावली विगलिता न च मे विषादः।  
 एणीदृशो युवतयः पथि मां विलोक्य तातेति भाषणपराः खलु वज्रपातः॥

@@ -6,7 +6,7 @@ title = "त्यागो गुणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यागो गुणो वित्तवतां वित्तं त्यागवतां गुणः।  
 परस्परवियुक्तौ तु वित्तत्यागौ विडम्बना॥

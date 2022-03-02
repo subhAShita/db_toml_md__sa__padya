@@ -6,7 +6,7 @@ title = "मुण्डे मुण्डे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुण्डे मुण्डे मतिर्भिन्ना  
 कुण्डे कुण्डे नवम् पयः।  

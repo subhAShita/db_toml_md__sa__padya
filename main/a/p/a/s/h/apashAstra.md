@@ -5,7 +5,7 @@ title = "अपशास्त्रधनो राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपशास्त्रधनो राजा संचयं नाधिगच्छति।  
 अस्थाने चास्य तद्वित्तं सर्वमेव विनश्यति॥

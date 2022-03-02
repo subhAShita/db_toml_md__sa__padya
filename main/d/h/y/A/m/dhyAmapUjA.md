@@ -6,7 +6,7 @@ title = "ध्यानपूजादिकं लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ध्यानपूजादिकं लोके द्रष्टर्येव करोति यः।  
 पारमार्थिकधीहीनः स दम्भाचार उच्यते॥

@@ -6,7 +6,7 @@ title = "प्रकाशे सर्वतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकाशे सर्वतः क्षीणे तमस्याच्छादयिष्यति।  
 हठात् ध्यायामि तां सद्यः सन्ध्यां सद्ब्राह्मणो यथा॥

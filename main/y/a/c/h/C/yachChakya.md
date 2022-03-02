@@ -6,7 +6,7 @@ title = "यच्छक्यं ग्रसितुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यच्छक्यं ग्रसितुं ग्रासं ग्रस्तं परिणमेच्च यत्।  
 हितं च परिणामे स्यात्तत्कार्यं भूतिमिच्छता॥

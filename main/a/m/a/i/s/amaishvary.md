@@ -5,7 +5,7 @@ title = "अनैश्वर्ये तृषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनैश्वर्ये तृषा भार्या पथि क्षेत्रे त्रिधा कृषिः।  
 लम्बकः साक्षिणश्चैव पञ्चानर्था असंकृताः॥

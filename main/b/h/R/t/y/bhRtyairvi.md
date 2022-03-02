@@ -6,7 +6,7 @@ title = "भृत्यैर्विना स्वयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भृत्यैर्विना स्वयं राजा लोकानुग्रहकार्यपि।  
 मयूखैरिव दीप्तांशुस्तेजस्व्यपि न शोभते॥

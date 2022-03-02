@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0343", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २७ व्यासः// 56",]
-jsonClass = "Subhaashita"
 topics = [ "व्यासः",]
+jsonClass = "Subhaashita"
 title = "अचतुर्वदनो ब्रह्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचतुर्वदनो ब्रह्मा द्विबाहुरपरो हरिः।  
 अभाललोचनः शंभुर् भगवान् बादरायणः॥

@@ -7,7 +7,7 @@ title = "नवीनकविरीहते रचयितुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवीनकविरीहते रचयितुं सभारञ्जनं  
 करोति पुनरुक्तिभिः प्रतिपदं सभारं जनम् ॥

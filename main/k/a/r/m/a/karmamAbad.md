@@ -5,7 +5,7 @@ title = "कर्मणा बध्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणा बध्यते जन्तुर् विद्यया तु प्रमुच्यते।  
 तस्मात् कर्म न कुर्वन्ति यतयः पारदर्शिनः॥

@@ -7,7 +7,7 @@ title = "कितव प्रपञ्चिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कितव प्रपञ्चिता सा भवता मन्दाक्षमन्दसञ्चारा।  
 बहुदायैरपि सम्प्रति पाशकसारीव नायाति॥

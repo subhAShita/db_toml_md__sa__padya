@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9360", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 71",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "काचो मणिर्मणिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काचो मणिर्मणिः काचो येषां तेऽन्ये हि देहिनः।  
 सन्ति ते सुधियो येषां काचः काचो मणिर्मणिः॥

@@ -5,7 +5,7 @@ title = "एकत्रापि हते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकत्रापि हते जन्तौ पापं भवति दारुणम्।  
 न सूक्ष्मानेकजन्तूनां घातिनो मधुपस्य किम्॥

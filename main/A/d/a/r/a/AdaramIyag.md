@@ -5,7 +5,7 @@ title = "आदरणीयगुणा सखि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदरणीयगुणा सखि महता निहितासि तेन शिरसि त्वम्।  
 तव लाघवदोषोऽयं सौधपताकेव यच्चलसि॥

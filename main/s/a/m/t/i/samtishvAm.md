@@ -6,7 +6,7 @@ title = "सन्ति श्वान"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्ति श्वान इवासंख्या जातिभाजो गृहे गृहे।  
 उत्पादका न बहवः कवयः शरभा इव॥

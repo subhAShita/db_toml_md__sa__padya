@@ -7,7 +7,7 @@ title = "कुसुमायुधकोदण्डे हस्तौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुसुमायुधकोदण्डे हस्तौ विस्तीर्णचक्षुषः।  
 अशोकपल्लवास्त्राणां प्रतिहस्तत्वमागतौ॥

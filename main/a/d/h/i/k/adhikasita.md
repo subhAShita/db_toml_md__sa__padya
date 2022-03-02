@@ -7,7 +7,7 @@ title = "अधिकसितैस्तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिकसितैस्तव हसितैरसितायतलोचने परास्तेयम् ।  
 पतति महीधरशिखराज्जलधारा जातलज्जेव ॥

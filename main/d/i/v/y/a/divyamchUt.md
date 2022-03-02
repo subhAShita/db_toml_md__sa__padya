@@ -6,7 +6,7 @@ title = "दिव्यं चूतरसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिव्यं चूतरसं पीत्वा गर्वं नो याति कोकिलः।  
 पीत्वा कर्दमपानीयं बेको रटरटायते॥

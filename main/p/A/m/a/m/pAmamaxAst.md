@@ -6,7 +6,7 @@ title = "पानमक्षास्तथा नार्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पानमक्षास्तथा नार्यो मृगया गीतवादिते।  
 एतानि युक्त्या सेवेत प्रसङ्गो ह्यत्र दोषवान्॥

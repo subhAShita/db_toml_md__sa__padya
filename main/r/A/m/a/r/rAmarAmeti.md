@@ -6,7 +6,7 @@ title = "रामरामेऽतिरामेऽतिरमे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रामरामेऽतिरामेऽतिरमे रामे मनोरमे।  
 सहस्रनामतत्तुल्यं रामनाम वरानेन॥

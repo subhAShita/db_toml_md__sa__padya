@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5993", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 22",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इन्दुः किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दुः किं क्व कलङ्कः सरसिजमेतत् किमम्बु कुत्र गतम्।  
 ललितसविलासवचनैर् मुखमिति हरिणाक्षि निश्चितं परतः॥

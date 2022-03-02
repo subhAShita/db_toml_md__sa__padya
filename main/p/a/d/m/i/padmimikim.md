@@ -6,7 +6,7 @@ title = "पद्मिनि किमिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पद्मिनि किमिति क्रीडसि मधुपैर्लज्जालवोऽपि न हि किं ते।  
 हर हर विस्मृत्योक्तं क्व नु लज्जा सवितृरक्तायाः॥

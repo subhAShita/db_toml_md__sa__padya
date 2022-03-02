@@ -7,7 +7,7 @@ title = "समृद्धकुसुमा वाटी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समृद्धकुसुमा वाटी रिक्ता पुष्पकरण्डिका ।  
 निवेदयत एतस्या गृहिण्या विरहव्यथाम् ॥

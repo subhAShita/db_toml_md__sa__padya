@@ -5,7 +5,7 @@ title = "अस्याः कर्णावतंसेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्याः कर्णावतंसेन जितं सर्वं विभूषणम्।  
 तथैव शोभतेऽत्यर्थम् अस्याः श्रवणकुण्डलम्॥

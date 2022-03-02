@@ -6,7 +6,7 @@ title = "ख्यातिं गमयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ख्यातिं गमयति सुजनः सुकविर्विदधाति केवलं काव्यम्।  
 पुष्णाति कमलमम्भो लक्ष्म्या तु रविर्नियोजयति॥

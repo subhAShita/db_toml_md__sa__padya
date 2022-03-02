@@ -7,7 +7,7 @@ title = "प्रशान्ते नूपुरारावे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रशान्ते नूपुरारावे श्रूयते मेखलाध्वनिः।  
 कान्ते नूनं रतिश्रान्ते कामिनी पुरुषायते॥

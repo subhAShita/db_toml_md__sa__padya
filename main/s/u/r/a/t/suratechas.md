@@ -7,7 +7,7 @@ title = "सुरते च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुरते च समाधौ च माया यत्र न लीयते।  
 ध्यानेनापि हि किं तेन किं तेन सुरतेन वा॥

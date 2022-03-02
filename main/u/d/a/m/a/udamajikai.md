@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6705", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 55",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उदमज्जि कैटभजितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदमज्जि कैटभजितः शयनाद् अपनिद्रपाण्डुरसरोजरुचा।  
 प्रथमप्रबुद्धनदराजसुता- वदनेन्दुनेव तुहिनद्युतिना॥

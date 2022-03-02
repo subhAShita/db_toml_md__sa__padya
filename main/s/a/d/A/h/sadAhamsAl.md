@@ -6,7 +6,7 @@ title = "सदा हंसालसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदा हंसालसं बिभ्रन्मानसं प्रचलज्जलम्।  
 भूभृन्नाथोऽपि नायाति यस्य साम्यं हिमालयः॥

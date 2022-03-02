@@ -6,7 +6,7 @@ title = "वेधा द्वेधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेधा द्वेधा भ्रमं चक्रे कान्तासु कनकेषु च।  
 तासु तेष्वप्यनासक्तः साक्षाद्भर्गो नराकृतिः॥

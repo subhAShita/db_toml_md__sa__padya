@@ -6,7 +6,7 @@ title = "सैव सैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सैव सैव सरसी रमणीया यत्र यत्र वलते तव रागः।  
 राजहंस रसिक स्मरणीया श्रीमता तदपि मानसकेलिः॥

@@ -6,7 +6,7 @@ title = "न स्वर्गो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः ।  
 नैव वर्णाश्रमादीनां क्रियाश्च फलदायिकाः ॥

@@ -6,7 +6,7 @@ title = "यदि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि न स्यान्नरपतिः सम्यङ्नेता ततः प्रजा।  
 अकर्णधारा जलधौ विप्लवेतेह नौरिव॥

@@ -6,7 +6,7 @@ title = "कल्पयति येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्पयति येन वृत्तिं येन च लोके प्रशस्यते सद्भिः।  
 स गुणस्तेन च गुणिना रक्ष्यः सम्वर्धनीयश्च॥

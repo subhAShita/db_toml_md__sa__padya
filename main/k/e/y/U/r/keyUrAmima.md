@@ -6,7 +6,7 @@ title = "केयूराणि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केयूराणि न भूषयन्ति पुरुषं हारा न चंद्रोज्ज्वला  
 न स्नानं न विलेपनं न कुसुमं नालंकृताः मूर्धजाः ।  

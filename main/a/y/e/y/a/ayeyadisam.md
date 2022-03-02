@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2811", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ४९ रूपनारायणः// 176",]
-jsonClass = "Subhaashita"
 topics = [ "राजा", "रूपनारायणः",]
+jsonClass = "Subhaashita"
 title = "अये यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अये यदि समीहसे परपुरावरोधं प्रभो तदाकलय मद्वचः किमपि दर्पनारायण।  
 प्रतीपनृपनागरीनयननीरकल्लोलिनी- समुत्तरणचातुरीं तुरगराजिमध्यापय॥

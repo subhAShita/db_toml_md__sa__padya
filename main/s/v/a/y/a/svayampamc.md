@@ -6,7 +6,7 @@ title = "स्वयं पञ्चमुखः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वयं पञ्चमुखः पुत्रौ गजाननषडाननौ।  
 दिगम्बरः कथं जीवेदन्नपूर्णा न चेद्गृहे॥

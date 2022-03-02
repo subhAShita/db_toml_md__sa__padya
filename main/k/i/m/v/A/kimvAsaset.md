@@ -6,7 +6,7 @@ title = "किं वाससेत्यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं वाससेत्यत्र विचारणीयम्  
 वासः प्रधानं खलु योग्यतायै ।  

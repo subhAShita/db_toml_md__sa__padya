@@ -6,7 +6,7 @@ title = "यौवनं जरया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यौवनं जरया ग्रस्तमारोग्यं व्याधिभिर्हतम्।  
 जीवितं मृत्युरभ्येति तृष्णैका निरुपद्रवा॥

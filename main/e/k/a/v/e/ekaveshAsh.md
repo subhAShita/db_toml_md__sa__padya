@@ -5,7 +5,7 @@ title = "एकवेशाश्रयाज् जातेर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकवेशाश्रयाज् जातेर् वर्णस्यापि प्रगोपनम्।  
 यथा हस्तिपदेऽन्येषां लीयन्ते चरणा अपि॥

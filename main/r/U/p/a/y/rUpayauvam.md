@@ -6,7 +6,7 @@ title = "रूपयौवनसम्पन्ना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रूपयौवनसम्पन्ना विशालकुलसंभवाः।  
 विद्याहीना न शोभन्ते निर्गन्धाः किंशुका इव॥

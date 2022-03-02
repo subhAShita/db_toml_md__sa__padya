@@ -5,7 +5,7 @@ title = "अगा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगा गाङ्गाङ्गकाकाकगाहकाघककाकहा।  
 अहाहाङ्क खगाङ्कागकङ्कागखगकाकक॥

@@ -6,7 +6,7 @@ title = "जडभूतविकारेषु चैतन्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जडभूतविकारेषु चैतन्यं यत्तु दृश्यते ।  
 ताम्बूलपूगचूर्णानां योगाद् राग इवोत्थितम् ॥

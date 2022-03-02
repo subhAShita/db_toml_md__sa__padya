@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0118", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 01 समस्याख्यानम्// 15",]
-jsonClass = "Subhaashita"
 types = [ "समस्याख्यानम्",]
+jsonClass = "Subhaashita"
 title = "अक्रत्वङ्गमतस्तक्रं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्रत्वङ्गमतस्तक्रं न शतक्रतुना हुतम्।  
 नादत्तमिति वाक्यार्थात् तक्रं शक्रस्य दुर्लभम्॥

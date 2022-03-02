@@ -5,7 +5,7 @@ title = "अहोऽतिबलवद्दैवं विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहोऽतिबलवद्दैवं विना तेन महात्मना।  
 यदसामर्थ्ययुक्तेऽपि नीचवर्गे जयप्रदम्॥

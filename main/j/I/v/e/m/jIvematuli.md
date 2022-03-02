@@ -7,7 +7,7 @@ title = "जीवेन तुलितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवेन तुलितं प्रेम सखि मूढेन वेधसा।  
 लघुर्जीवो ययौ कण्ठं गुरुप्रेम हृदि स्थितम्॥

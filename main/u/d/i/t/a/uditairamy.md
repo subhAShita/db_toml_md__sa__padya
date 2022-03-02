@@ -5,7 +5,7 @@ title = "उदितैरन्यपुष्टानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदितैरन्यपुष्टानाम् आरुतैर्मे हतं मनः।  
 उदितैरपि ते दूति मारुतैरपि दक्षिणैः॥

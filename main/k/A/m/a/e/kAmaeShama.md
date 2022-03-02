@@ -5,7 +5,7 @@ title = "काम एष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काम एष महाशत्रुस् तमेकं निर्जयेद् दृढम्।  
 जितकामा महात्मानस् तैर्जितं निखिलं जगत्॥

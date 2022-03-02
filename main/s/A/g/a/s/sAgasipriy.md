@@ -7,7 +7,7 @@ title = "सागसि प्रियतमे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सागसि प्रियतमे कृतकोपा याङ्घ्रियुग्मपतितेऽपि न तुष्टा।  
 सैव मद्यपरिलुप्तविवेका तं तथैव परितोषयति स्म॥

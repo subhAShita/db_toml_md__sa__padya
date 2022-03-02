@@ -5,7 +5,7 @@ title = "इत्येवं योषितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्येवं योषितो राजन् भेदस्य व्यसनस्य च।  
 पराभवस्य च पदं सेवेताशङ्कितोऽथ ताः॥

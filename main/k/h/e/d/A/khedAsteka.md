@@ -6,7 +6,7 @@ title = "खेदास् ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खेदास् ते कथम् ईदृशः प्रियतमे त्वन्नेत्रवह्नेर् विभो  
 कस्माद् वेपितम् एतद् इन्दुवदने भोगीन्द्रभीतेर् भव ।  

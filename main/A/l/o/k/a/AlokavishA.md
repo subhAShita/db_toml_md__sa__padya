@@ -5,7 +5,7 @@ title = "आलोकविशाला मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलोकविशाला मे सहसा तिमिरप्रवेशविच्छिन्ना।  
 उन्मीलितापि दृष्टिर् निमीलितेवान्धकारेण॥

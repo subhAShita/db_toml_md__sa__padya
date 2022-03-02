@@ -7,7 +7,7 @@ title = "वयमिह पदविद्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वयमिह पदविद्यां तन्त्रमान्वीक्षिकीं वा  
 यदि पथि विपथे वा वर्तयामः स पन्थाः।  

@@ -5,7 +5,7 @@ title = "अभिनषति वैनतेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिनषति वैनतेयं चामरसहितः ससत्यभामो यः।  
 नारायणः स साक्षाद् विबुधसमर्च्यः सदा जयतु॥

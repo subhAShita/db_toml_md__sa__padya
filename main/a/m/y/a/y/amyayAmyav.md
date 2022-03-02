@@ -2,13 +2,13 @@
 secondary_sources = [ "MSS_1775", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 31",]
 topics = [ "पानगोष्ठी", "जारता", "संशयः", "मदः",]
 rasas = [ "शृङ्गारः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अन्ययान्यवनितागतचित्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्ययान्यवनितागतचित्तं चित्तनाथमभिशङ्कितवत्या।  
 पीतभूरिसुरयापि न मेदे निर्वृतिर्हि मनसो मदहेतुः॥

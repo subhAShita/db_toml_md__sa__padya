@@ -5,7 +5,7 @@ title = "अप्रदाता समृद्धोऽसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रदाता समृद्धोऽसौ दरिद्रश्च महामनाः।  
 अश्रुतश्च समुन्नद्धस् तमाहुर्मूढचेतसम्॥

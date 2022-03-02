@@ -5,7 +5,7 @@ title = "एतत् तद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतत् तद् दुर्जयं लोके पुत्रदारमयं विषम्।  
 जायन्ते च म्रियन्ते च यत् पीत्वा मोहिताः प्रजाः॥

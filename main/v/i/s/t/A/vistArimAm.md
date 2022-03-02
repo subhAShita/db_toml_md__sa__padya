@@ -7,7 +7,7 @@ title = "विस्तारिणा मुहुस्तस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विस्तारिणा मुहुस्तस्याः श्रोणीबिम्बेन पीडिता।  
 त्रुटिता त्रुटितास्मीति पूत्करोतीव मेखला॥

@@ -5,7 +5,7 @@ title = "अपि स्वल्पमसत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि स्वल्पमसत्यं यः पुरो वदति भूभुजाम्।  
 देवानां च विनाशः स्याद् ध्रुवं तस्य गुरोरपि॥

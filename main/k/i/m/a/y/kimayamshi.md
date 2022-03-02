@@ -6,7 +6,7 @@ title = "किमयं शिवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमयं शिवः किमु शिवाऽथ शिवा-  
 विति यत्र वन्दनविधौ भवति ।  

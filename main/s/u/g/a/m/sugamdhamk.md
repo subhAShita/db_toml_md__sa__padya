@@ -6,7 +6,7 @@ title = "सुगन्धं केतकीपुष्पम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुगन्धं केतकीपुष्पं कण्टकैः परिवेष्टितम्।  
 यथा पुष्पं तथा राजा दुर्जनैः परिवेष्टितः॥

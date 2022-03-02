@@ -6,7 +6,7 @@ title = "शून्यमाकीर्णतामेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शून्यमाकीर्णतामेति तुल्यं व्यसनमुत्सवैः।  
 विप्रलम्भोऽपि लाभाय सति प्रियसमागमे॥

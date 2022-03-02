@@ -6,7 +6,7 @@ title = "अत्तुमम्ब तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्तुमम्ब तव पाकमद्भुतं  
 वाञ्छितं स्म करपञ्चकं मम ।  

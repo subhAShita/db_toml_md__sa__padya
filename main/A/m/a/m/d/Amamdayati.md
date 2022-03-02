@@ -5,7 +5,7 @@ title = "आनन्दयति कोऽत्यर्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनन्दयति कोऽत्यर्थं सज्जनानेव भूतले।  
 प्रबोधयति पद्मानि तमांसि च निहन्ति कः॥

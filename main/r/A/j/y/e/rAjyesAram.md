@@ -6,7 +6,7 @@ title = "राज्ये सारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राज्ये सारं वसुधा वसुधायामपि पुरं पुरे सौधम्।  
 सौधे तल्पं तल्पे वराङ्गनानङ्गसर्वस्वम्॥

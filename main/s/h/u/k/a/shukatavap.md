@@ -6,7 +6,7 @@ title = "शुक तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शुक तव पठनं व्यसनं न गुणः स गुणाभासः।  
 समजनि येनामरणं शरणं पञ्जरवासः॥

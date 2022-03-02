@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0226", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 26",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अग्रसानुषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्रसानुषु नितान्तपिशङ्गैर् भूरुहान्मृदुकरैरवलम्ब्य।  
 अस्तशैलगहनं नु विवस्वान् आविवेश जलधिं नु महीं नु॥

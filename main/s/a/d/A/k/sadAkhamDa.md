@@ -6,7 +6,7 @@ title = "सदा खण्डनयोग्याय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदा खण्डनयोग्याय तुषपूर्णाशयाय च।  
 नमोऽस्तु बहुबीजायखलायोलूखलाय च॥

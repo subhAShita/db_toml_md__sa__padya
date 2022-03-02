@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6216", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७९ वेश्यागर्हणम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "वेश्या",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इह सर्वस्वफलिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह सर्वस्वफलिनः कुलपुत्रमहाद्रुमाः।  
 निष्फलत्वमलं यान्ति वेश्याविहगभक्षिताः॥

@@ -6,7 +6,7 @@ title = "वितर वारिद"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वितर वारिद वारि दवातुरे चिरपिपासितचातकपोतके।  
 प्रचलिते मरुति क्षणमन्यथा क्व च भवान्क्व पयः क्व च चातकः॥

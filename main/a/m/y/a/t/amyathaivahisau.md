@@ -5,7 +5,7 @@ title = "अन्यथैव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यथैव हि सौहार्दं भवेत्स्वच्छान्तरात्मनः।  
 प्रवर्ततेऽन्यथा वाणी शाठ्योपहतचेतसः॥

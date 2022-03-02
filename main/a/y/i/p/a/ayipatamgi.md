@@ -5,7 +5,7 @@ title = "अयि पतङ्गि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि पतङ्गि लवङ्गलतावने पिब मधूनि विधूय मधुव्रतान्।  
 इह वने च वनेचरसंकुले न च सतामसातां च निरूपणम्॥

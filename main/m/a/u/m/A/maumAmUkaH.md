@@ -6,7 +6,7 @@ title = "मौनान्मूकः प्रवचनपटुर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मौनान्मूकः प्रवचनपटुर् वाचको जल्पको वा  
 धृष्टः पार्श्वे वसति च तथा दूरतश्चाप्रगल्भः ।  

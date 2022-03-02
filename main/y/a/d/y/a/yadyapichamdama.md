@@ -6,7 +6,7 @@ title = "यद्यपि चन्दनविटपी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि चन्दनविटपी विधिना फलकुसुमवर्जितो विहितः।  
 निजवपुषैव परेषां तथापि सन्तापमपहरति॥

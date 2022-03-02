@@ -6,7 +6,7 @@ title = "धीराणां भूषणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धीराणां भूषणं विद्या मन्त्रिणां भूषणं नृपः।  
 भूषणं च पतिः स्त्रीणां शीलं सर्वस्य भूषणम्॥

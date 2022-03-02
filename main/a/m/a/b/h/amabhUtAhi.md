@@ -6,7 +6,7 @@ title = "अन्नभूता हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नभूता हि महतां लघवो यत्नशालिनाम् ।  
 यथेष्टं विनियोज्यन्ते तेन कर्मसु लोष्टवत् ॥

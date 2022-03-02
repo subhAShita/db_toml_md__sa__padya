@@ -6,7 +6,7 @@ title = "महानपि सुधीरोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महानपि सुधीरोऽपि बहुरत्नयुतोऽपि सन्।  
 विरसः कुपरीवारो नदीनः केन सेव्यते॥

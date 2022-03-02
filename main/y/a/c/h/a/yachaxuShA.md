@@ -7,7 +7,7 @@ title = "यच्चक्षुषा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यच्चक्षुषा न पश्यति येन चक्षूँषि पश्यति ।  
 तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥  

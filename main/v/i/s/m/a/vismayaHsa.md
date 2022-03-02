@@ -6,7 +6,7 @@ title = "विस्मयः सर्वथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विस्मयः सर्वथा हेयः प्रत्यूहः सर्वकर्मणाम्।  
 तस्माद्विस्मयमुत्सृज्य साध्यसिद्धिर्विधीयताम्॥

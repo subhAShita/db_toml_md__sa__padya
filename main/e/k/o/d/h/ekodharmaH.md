@@ -5,7 +5,7 @@ title = "एको धर्मः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एको धर्मः परं श्रेयः क्षमैका शान्तिरुत्तमा।  
 विद्यैका परमा दृष्टिर् अहिंसैका सुखावहा॥

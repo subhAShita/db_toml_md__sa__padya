@@ -6,7 +6,7 @@ title = "प्रेम सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रेम सत्यं तयोरेव ययोर्योगवियोगयोः।  
 वत्सरा वासरीयन्ति वासरीयन्ति वत्सराः॥

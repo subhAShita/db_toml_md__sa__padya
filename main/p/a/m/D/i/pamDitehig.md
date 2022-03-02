@@ -6,7 +6,7 @@ title = "पण्डिते हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पण्डिते हि गुणाः सर्वे मूर्खे दोषाश्च केवलाः।  
 तस्मान्मूर्खसहस्रेभ्यः प्राज्ञ एको विशिष्यते॥

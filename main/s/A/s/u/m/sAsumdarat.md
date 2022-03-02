@@ -7,7 +7,7 @@ title = "सा सुन्दर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा सुन्दर तव विरहे सुतनुरियन्मनात्रलोचना सपदि।  
 एतावतीमवस्थां याता दिवसैरियन्मात्रैः॥

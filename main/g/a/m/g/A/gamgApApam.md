@@ -6,7 +6,7 @@ title = "गङ्गा पापम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गङ्गा पापं शशी तापं दैन्यं कल्पतरुस्तथा।  
 पापं तापं च दैन्यं च हन्ति सन्तो महाशयाः॥

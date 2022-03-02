@@ -5,7 +5,7 @@ title = "आज्ञापयिष्यसि पदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आज्ञापयिष्यसि पदं दास्यसि दयितस्य शिरसि किं त्वरसे।  
 असमयमानिनि मुग्धे मा कुरु भग्नाङ्कुरं प्रेम॥

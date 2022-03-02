@@ -5,7 +5,7 @@ title = "एकसार्थप्रयातानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकसार्थप्रयातानां सर्वेषां तत्र गामिनाम्।  
 यस्य कालः प्रयात्यग्रे तत्र का परिदेवना॥

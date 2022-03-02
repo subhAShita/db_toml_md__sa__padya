@@ -6,7 +6,7 @@ title = "सर्पः क्रूरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्पः क्रूरः खलः क्रूरः सर्पात्क्रूरतरः खलः।  
 मन्त्रेण शाम्यते सर्पो न खलः शाम्यते कदा॥

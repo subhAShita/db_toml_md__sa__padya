@@ -5,7 +5,7 @@ title = "कर्मणा मोहनीयेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणा मोहनीयेन मोहितं सकलं जगत्।  
 धन्या मोहं समुत्सार्य तपस्यन्ति महाधियः॥

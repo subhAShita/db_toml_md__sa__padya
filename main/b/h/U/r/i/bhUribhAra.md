@@ -6,7 +6,7 @@ title = "भूरिभारभराक्रान्तो बाधति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूरिभारभराक्रान्तो बाधति स्कन्ध एष ते।  
 न तथा बाधते स्कन्धो यथा बाधति बाधते॥

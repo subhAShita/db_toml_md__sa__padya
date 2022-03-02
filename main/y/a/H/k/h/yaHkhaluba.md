@@ -7,7 +7,7 @@ title = "यः खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः खलु बहुविधदोषं मित्रं पालयति स खलु पालयति।  
 न हि परिपालनकृत्यं गुणवति मित्रे भवति किंचित्॥

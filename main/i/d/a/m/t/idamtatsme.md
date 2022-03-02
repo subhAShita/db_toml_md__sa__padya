@@ -5,7 +5,7 @@ title = "इदं तत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदं तत् स्नेहसर्वस्वं सममाढ्यदरिद्रयोः।  
 अचन्दनमनौशीरं हृदयस्यानुलेपनम्॥

@@ -6,7 +6,7 @@ title = "नास्ति कामसमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्ति कामसमो व्याधिर्नास्ति मोहसमो रिपुः।  
 नास्ति क्रोधसमो वह्निर्नास्ति ज्ञानात्परं सुखम्॥

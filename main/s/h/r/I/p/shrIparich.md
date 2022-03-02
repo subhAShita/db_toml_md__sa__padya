@@ -6,7 +6,7 @@ title = "श्रीपरिचयाज्जडा अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रीपरिचयाज्जडा अपि भवन्त्यभिज्ञा विदग्धचरितानाम्।  
 उपदिशति कामिनीनां यौवनमद एव ललितानि॥

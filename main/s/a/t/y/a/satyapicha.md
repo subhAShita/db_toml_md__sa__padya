@@ -6,7 +6,7 @@ title = "सत्यपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यपि च सुकृतकर्मणि दुर्नीतिश्चेच्छ्रियं हरत्येव।  
 तैलैः सदोपयुक्तां दीपशिखां दलति वातालिः॥

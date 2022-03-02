@@ -5,7 +5,7 @@ title = "कर्पूरं चन्दनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्पूरं चन्दनं कुष्ठं तुलसी सर्जसंभवम्।  
 मुस्तं शिलारसं चैव धत्तूरमगुरुस् तथा॥

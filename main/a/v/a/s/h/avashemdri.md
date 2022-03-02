@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3276", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 438",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अवशेन्द्रियचित्तानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवशेन्द्रियचित्तानां हस्तिस्नानमिव क्रिया।  
 दुर्भगाभरणप्रायो ज्ञानं भारः क्रियां विना॥

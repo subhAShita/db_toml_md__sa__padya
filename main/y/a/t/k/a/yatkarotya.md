@@ -6,7 +6,7 @@ title = "यत्करोत्यरतिं क्लेशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्करोत्यरतिं क्लेशं तृष्णां मोहं प्रजागरम्।  
 न तद्धनं कदर्याणां हृदये व्याधिरेव सः॥

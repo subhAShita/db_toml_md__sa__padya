@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7002", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 38",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "उपकर्तुं प्रियम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकर्तुं प्रियं वक्तुं कर्तुं स्नेहमनुत्तमम्।  
 सज्जनानां स्वभावोऽयं केनेन्दुः शिशिरीकृतः॥

@@ -5,7 +5,7 @@ title = "एवंवादिनि देवर्षौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवंवादिनि देवर्षौ पार्श्वे पितुरधोमुखी।  
 लीलाकमलपत्राणि गणयामास पार्वती॥

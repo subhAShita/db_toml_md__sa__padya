@@ -6,7 +6,7 @@ title = "हा तात"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हा तात तातेति सवेदनार्तः क्वणञ्छकृन्मूत्रकफानुलिप्तः।  
 वरं मृतः किं भवने किमाजौ सन्दष्टदन्तच्छदभीमवक्त्रः॥

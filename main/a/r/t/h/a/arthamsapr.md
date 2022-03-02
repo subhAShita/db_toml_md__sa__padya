@@ -5,7 +5,7 @@ title = "अर्थं सप्रतिबन्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थं सप्रतिबन्धं प्रभुरधिगन्तुं सहायवानेव।  
 दृश्यं तमसि न पश्यति दीपेन विना सचक्षुरपि॥

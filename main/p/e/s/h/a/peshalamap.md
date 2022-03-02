@@ -6,7 +6,7 @@ title = "पेशलमपि खलवचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पेशलमपि खलवचनं दहतितरां मानसं सुतत्त्वविदाम्।  
 परुषमपि सुजनवाक्यं मलयजरसवत् प्रमोदयति॥

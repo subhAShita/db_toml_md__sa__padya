@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3110", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०७ तुरगप्रशंसा// 7",]
-jsonClass = "Subhaashita"
 topics = [ "तुरगप्रशंसा",]
+jsonClass = "Subhaashita"
 title = "अलक्षितगतागतैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलक्षितगतागतैः कुलवधूकटाक्षैरिव क्षणानुनयशीतलैः प्रणयकेलिकोपैरिव।  
 सुवृत्तमसृणोन्नतैर्मृगदृशामुरोजैरिव त्वदीयतुरगैरिदं धरणिचक्रमाक्रम्यते॥

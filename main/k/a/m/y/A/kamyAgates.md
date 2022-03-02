@@ -5,7 +5,7 @@ title = "कन्यागते सवितरि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कन्यागते सवितरि तिष्ठन्ति पितरो गृहे।  
 शून्यं प्रेतपुरं तत्र यावद् वृश्चिकदर्शनम्॥

@@ -6,7 +6,7 @@ title = "तृप्तियोगः परेणापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृप्तियोगः परेणापि महिम्ना न महात्मनाम्।  
 पूर्णश्चन्द्रोदयाकाङ्क्षी दृष्टान्तोऽत्र महार्णवः॥

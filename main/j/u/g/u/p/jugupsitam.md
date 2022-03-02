@@ -7,7 +7,7 @@ title = "जुगुप्सितमधाद्वेधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जुगुप्सितमधाद्वेधा द्वयमेव मृगेक्षणे! ।  
 इन्दोः कलङ्कितं बिम्बं त्वन्मुखेन च तत्तुला ॥

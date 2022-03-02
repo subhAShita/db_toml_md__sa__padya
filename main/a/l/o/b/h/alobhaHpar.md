@@ -5,7 +5,7 @@ title = "अलोभः परमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलोभः परमं वित्तम् अहिंसा परमं तपः।  
 अमाया परमा विद्या निरवद्या मनीषिणाम्॥

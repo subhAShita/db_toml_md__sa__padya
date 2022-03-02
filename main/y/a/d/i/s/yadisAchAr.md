@@ -6,10 +6,9 @@ title = "यदि सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि सा चारुसर्वाङ्गी चित्ते वसति मे प्रिया ।  
 तत्कथं शून्यचित्तोऽहम् अहो विधिविपर्ययः ।  
-।  
-
+।
 </details>

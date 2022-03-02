@@ -6,7 +6,7 @@ title = "सहयज्ञाः प्रजाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।  
 अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥  

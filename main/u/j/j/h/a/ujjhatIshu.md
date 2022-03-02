@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6386", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 35",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
-title = "उज्झती शुचमिवाशु"
+jsonClass = "Subhaashita"
+title = "उज्झती शुचिमिवाशु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उज्झती शुचिमिवाशु तमिस्राम् अन्तिकं व्रजति तारकराजे।  
 दिक्प्रसादगुणमण्डनमूहे रश्मिहासविशदं मुखमैन्द्री॥

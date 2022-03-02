@@ -5,7 +5,7 @@ title = "अन्यैः साकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यैः साकं विरोधेन वयं पञ्चोत्तरं शतम्।  
 परस्परविरोधेन वयं पञ्च च ते शतम्॥

@@ -6,7 +6,7 @@ title = "येषां न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येषां न विद्या न तपो न दानं ज्ञानं न शीलं न गुणो न धर्मः।  
 ते मृत्युलोके भुवि भारभूता मनुष्यरूपेण मृगाश्चरन्ति॥

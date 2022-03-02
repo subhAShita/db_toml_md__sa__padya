@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2051", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १३ वियोगिन्या अवस्थावर्णनम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "वियोगः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपि मरणमुपैति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि मरणमुपैति सा मृगाङ्के विलसति कैव कथा रसान्तरस्य।  
 अयि कथमधुना दधाति शान्तिं विषमशरज्वरतीव्रदेहदाहः॥

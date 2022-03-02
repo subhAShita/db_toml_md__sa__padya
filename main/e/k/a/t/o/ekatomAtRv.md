@@ -5,7 +5,7 @@ title = "एकतो मातृवात्सल्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकतो मातृवात्सल्यं परतो गुणकोटयः।  
 अनयोः समतां वक्तुं नालं ब्रह्मादयः सुराः॥

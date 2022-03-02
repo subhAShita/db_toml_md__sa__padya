@@ -7,7 +7,7 @@ title = "दृश्यन्ते मानसोत्तंसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृश्यन्ते मानसोत्तंसा राजहंसाः क्वचिद्यदि।  
 गतौ चरणयोस्तस्याः प्रक्ष्यते यावदन्तरम्॥

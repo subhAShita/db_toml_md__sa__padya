@@ -6,7 +6,7 @@ title = "वचस्तत्रैव वक्तव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वचस्तत्रैव वक्तव्यं यत्रोक्तं सफलं भवेत्।  
 स्थायीभवति चात्यन्तं रङ्गः शुक्लपटे यथा॥

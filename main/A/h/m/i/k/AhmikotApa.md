@@ -5,7 +5,7 @@ title = "आह्निकोत्तापदग्धानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आह्निकोत्तापदग्धानां त्रयाणां जगतां बत।  
 तपनार्चिषि शान्ते तद् भस्मेदं तिमिरं तु न॥

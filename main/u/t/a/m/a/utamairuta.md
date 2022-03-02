@@ -5,7 +5,7 @@ title = "उत्तमैरुत्तमैर्नित्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमैरुत्तमैर्नित्यं संबन्धानाचरेत् सह।  
 निनीषुः कुलमुत्कर्षम् अधमानधमांस् त्यजेत्॥

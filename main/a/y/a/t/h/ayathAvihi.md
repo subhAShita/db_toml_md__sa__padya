@@ -5,7 +5,7 @@ title = "अयथाविहितानां यन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयथाविहितानां यन् मनोज्ञतासंपादौ न स्तः।  
 कथयाम्यतस्तरूणां रोपविधानं यथोद्दिष्टम्॥

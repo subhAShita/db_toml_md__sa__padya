@@ -5,7 +5,7 @@ title = "एवं चात्यक्तशीलानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं चात्यक्तशीलानां ससत्त्वानां जितक्रुधाम्।  
 तुष्ट्यैवाचिन्तिता एव स्वयमायान्ति संपदः॥

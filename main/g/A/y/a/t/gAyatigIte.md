@@ -7,7 +7,7 @@ title = "गायति गीते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गायति गीते शंसति वंशे वादयति सा विपञ्चीषु।  
 पाठयति पञ्जरशुकं तव सन्देशाक्षरं रामा॥

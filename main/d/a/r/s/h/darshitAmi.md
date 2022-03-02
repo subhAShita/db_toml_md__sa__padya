@@ -6,7 +6,7 @@ title = "दर्शितानि कलत्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दर्शितानि कलत्राणि गृहे भुक्तमशङ्कितम्।  
 कथितानि रहस्यानि सौहृदं किमतः परम्॥

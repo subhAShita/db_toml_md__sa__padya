@@ -5,7 +5,7 @@ title = "अभियुक्तो बलवता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभियुक्तो बलवता तिष्ठन् दुर्गे प्रयत्नवान्।  
 तद्बलीयस्तराह्वानं कुर्वीतात्मविमुक्तये॥

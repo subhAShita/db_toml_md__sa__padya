@@ -6,7 +6,7 @@ title = "यस्मिन्वंशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिन्वंशे समुत्पन्नस्तमेव निजचेष्टितैः।  
 दूषयत्यचिरेणैव घुणकीट इवाधमः॥

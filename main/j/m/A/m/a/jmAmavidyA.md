@@ -6,7 +6,7 @@ title = "ज्ञानविद्याविहीनस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्ञानविद्याविहीनस्य विद्याजालं निरर्थकम्।  
 कण्ठसूत्रं विना नारी अनेकाभरणैर्युता॥

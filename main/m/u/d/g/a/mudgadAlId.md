@@ -6,7 +6,7 @@ title = "मुद्गदाली धृतव्याली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुद्गदाली धृतव्याली कवीन्द्र वितुषा कथम्।  
 भक्तवल्लभसंयोगाज्जाता विगतकञ्चुकी॥

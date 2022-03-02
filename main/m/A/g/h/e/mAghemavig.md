@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ३२ कविवृन्दम्// 64",]
-jsonClass = "Subhaashita"
 topics = [ "कविवृन्दम्",]
+jsonClass = "Subhaashita"
 title = "माघेन विघ्नितोत्साहा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माघेन विघ्नितोत्साहा नोत्सहन्ते पदक्रमे।  
 स्मरन्तो भारवेरेव कवयः कपयो यथा॥

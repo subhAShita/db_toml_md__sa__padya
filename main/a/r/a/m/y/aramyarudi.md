@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2832", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 55",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "अरण्यरुदितं कृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरण्यरुदितं कृतं शवशरीरमुद्वर्तितं स्थलेऽब्जमवरोपितं सुचिरमूषरे वर्षितम्।  
 श्वपुच्छमवनामितं बधिरकर्णजापः कृतः कृतान्धमुखमण्डना यदबुधो जनः सेवितः॥

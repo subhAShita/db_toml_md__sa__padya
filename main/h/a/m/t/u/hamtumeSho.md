@@ -6,7 +6,7 @@ title = "हन्तुं मेषोऽपसरति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हन्तुं मेषोऽपसरति मृगेन्द्रः सङ्कुचत्यपि।  
 बुद्धिमन्तः सहन्ते च निधाय हृदि किञ्चन॥

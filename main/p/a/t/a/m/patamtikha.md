@@ -6,7 +6,7 @@ title = "पतन्ति खड्गधारासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतन्ति खड्गधारासु विशन्ति मकरालयम्।  
 किं न कुर्वन्ति सुभगे कष्टमर्थार्थिनो जनाः॥

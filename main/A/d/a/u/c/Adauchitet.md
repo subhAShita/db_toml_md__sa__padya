@@ -5,7 +5,7 @@ title = "आदौ चित्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ चित्ते ततः काये सतां संजायते जरा।  
 असतां च पुनः काये नैव चित्ते कदाचन॥

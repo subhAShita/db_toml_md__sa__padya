@@ -5,7 +5,7 @@ title = "आढ्यराजकृतोत्साहैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आढ्यराजकृतोत्साहैर् हृदयस्थैः स्मृतैरपि।  
 जिह्वान्तःकृष्यमाणेव न कवित्वे प्रवर्तते॥

@@ -6,7 +6,7 @@ title = "तं वेधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तं वेधा विदधे नूनं महाभूतसमाधिना ।  
 तथा हि सर्वे तस्यासन्परार्थैकफला गुणाः ॥२९

@@ -6,7 +6,7 @@ title = "शिवयोः सुधाहरिद्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिवयोः सुधा-हरिद्रा-  
 दीप्तिमतोः सारभृज् जगत्-पित्रोः।  

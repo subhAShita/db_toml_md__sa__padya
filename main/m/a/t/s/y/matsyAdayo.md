@@ -6,7 +6,7 @@ title = "मत्स्यादयोऽपि जानन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मत्स्यादयोऽपि जानन्ति नीरक्षीरविवेचनम्।  
 प्रसिद्धिरेव हंसस्य यशः पुण्यैरवाप्यते॥

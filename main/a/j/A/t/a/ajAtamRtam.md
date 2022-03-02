@@ -5,7 +5,7 @@ title = "अजातमृतमूर्खाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजातमृतमूर्खाणां वरमाद्यौ न चान्तिमः।  
 सकृद्दुःखकरावाद्याव् अन्तिमस् तु पदे पदे॥

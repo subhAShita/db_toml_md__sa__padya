@@ -6,7 +6,7 @@ title = "काशंशङ्का पाशंशम्पा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काशं-शङ्का. पाशं-शम्पा. .)  
 

@@ -6,7 +6,7 @@ title = "नीचेषु यावनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीचेषु यावनी वाणी का कः स्याच्छुभदो जने।  
 शम्भोरावरणं किं कं भजन्ते व्याधयो जनम्॥

@@ -6,7 +6,7 @@ title = "अदुर्गो विषयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदुर्गो विषयः कस्य नारेः परिभवास्पदम्।  
 अदुर्गोऽनाश्रयो राजा पोतच्युतमनुष्यवत्॥

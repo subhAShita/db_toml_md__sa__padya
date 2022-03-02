@@ -5,7 +5,7 @@ title = "अभूवन्नद्भुतोष्माणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभूवन्नद्भुतोष्माणः शीतव्याप्ते जगत्त्रये।  
 कुचोत्सङ्गाः कृशाङ्गीणां स्थानं मन्मथतेजसः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2515", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 121",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अमुष्य विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुष्य विद्या रसनाग्रनर्तकी त्रयीव नीताङ्गगुणेन विस्तरम्।  
 अगाहताष्टादशतां जिगीषया नवद्वयद्वीपपृथग्जयश्रियाम्॥

@@ -5,7 +5,7 @@ title = "अरण्ये पुष्पिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरण्ये पुष्पिता वृक्षा दूरस्थाने च बान्धवाः।  
 समृद्धेनापि किं तेन यः काले नोपतिष्ठति॥

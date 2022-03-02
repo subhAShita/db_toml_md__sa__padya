@@ -5,7 +5,7 @@ title = "कङ्कहंसशशादानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कङ्कहंसशशादानां मत्स्यादक्रौञ्चकेकिनाम्।  
 गृध्राणां कुक्कुटानां च पक्षा एतेषु शोभनाः॥

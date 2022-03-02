@@ -6,7 +6,7 @@ title = "मयि जीवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मयि जीवति बीजाढ्ये किमन्ये बीजपूरकाः।  
 इति सञ्चिन्त्य मनसा विदद्रे दाडिमीफलम्॥

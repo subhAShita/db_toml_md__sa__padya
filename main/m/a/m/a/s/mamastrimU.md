@@ -6,7 +6,7 @@ title = "नमस्त्रिमूर्तये तुभ्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमस्त्रिमूर्तये तुभ्यं प्राक्सृष्टेः केवलात्मने।  
 गुणत्रयविभागाय पश्चाद्भेदमुपेयुषे॥

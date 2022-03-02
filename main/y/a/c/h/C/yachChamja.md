@@ -6,7 +6,7 @@ title = "यच्छञ्जलमपि जलदो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यच्छञ्जलमपि जलदो वल्लभतामेति सर्वलोकस्य।  
 नित्यं प्रसारितकरः सवितापि भवत्यचक्षुष्यः॥

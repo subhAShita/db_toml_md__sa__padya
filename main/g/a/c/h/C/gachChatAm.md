@@ -6,7 +6,7 @@ title = "गच्छतामिह जन्तूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गच्छतामिह जन्तूनां व्यर्थं पाथेयकल्पनम्‌ ।  
 गेहस्थकृतश्राद्धेन पथि तृप्तिरवारिता ॥

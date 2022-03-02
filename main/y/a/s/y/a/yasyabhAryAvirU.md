@@ -7,7 +7,7 @@ title = "यस्य भार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य भार्या विरूपा च कश्मला कलहप्रिया।  
 अधिकाधिकभक्षा च सा जरा न जरा जरा॥

@@ -5,7 +5,7 @@ title = "अबला अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अबला अपि वीरेशान् यत्साहाय्यमुपाश्रिताः।  
 पराभवन्ति दृक्कोणपातेनैव स मन्मथः॥

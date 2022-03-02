@@ -6,7 +6,7 @@ title = "सज्जनस्य हृदयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सज्जनस्य हृदयं नवनीतं यद्वदन्ति कवयस्तदलीकम्।  
 अन्यदेहविलसत् परितापात् सज्जनो द्रवति नो नवनीतम्॥

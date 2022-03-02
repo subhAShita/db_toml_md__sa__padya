@@ -6,7 +6,7 @@ title = "न क्षुधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न क्षुधा पीड्यते यस्तु निद्रया न कदाचन।  
 न च शीतातपाद्यैश्च स भृत्योऽर्हो महीभुजाम्॥

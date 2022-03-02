@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7838", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 104",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "एतद्यशःक्षीरधिपूरगाहि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतद्यशःक्षीरधिपूरगाहि पतत्यगाधे वचनं कवीनाम्।  
 एतद्गुणानां गणनाङ्कपातः प्रत्यर्थिकीर्तीः खटिकाः क्षिणोति॥

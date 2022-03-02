@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4992", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५२ नववधूसङ्गमः// 2",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "नववधूसङ्गमः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आभाति बालिकेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आभाति बालिकेयं पाणिस्पर्शेन पुलकितावयवा।  
 अभिनववसन्तसङ्गाद् आविर्मुकुलेव बालचूतलता॥

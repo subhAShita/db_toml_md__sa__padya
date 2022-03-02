@@ -6,7 +6,7 @@ title = "यदैव भर्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदैव भर्ता जानीयान्मन्त्रमूलपरां स्त्रियम्।  
 उद्विजेत तदैवास्याः सर्पाद्वेश्मगतादिव॥

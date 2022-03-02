@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4685", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०७ विचारः// 233",]
-jsonClass = "Subhaashita"
 topics = [ "तत्त्वज्ञानम्",]
+jsonClass = "Subhaashita"
 title = "आदरेण यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदरेण यथा स्तौति धनवन्तं धनेच्छया।  
 तथा चेद् विश्वकर्तारं को न मुच्येत बन्धनात्॥

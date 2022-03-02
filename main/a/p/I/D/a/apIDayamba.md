@@ -5,7 +5,7 @@ title = "अपीडयन् बलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपीडयन् बलं शत्रूञ् जिगीषुरभिषेणयेत्।  
 सुखसाध्यं द्विषां सैन्यं दीर्घप्रयाणपीडितम्॥

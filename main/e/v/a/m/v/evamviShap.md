@@ -5,7 +5,7 @@ title = "एवं विषप्रयोगेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं विषप्रयोगेण शत्रूणां क्षुद्रधातकम्।  
 क्षीणेन क्रियते यत् तु विषदण्डः स उच्यते॥

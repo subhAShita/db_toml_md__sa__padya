@@ -6,7 +6,7 @@ title = "व्यसनं प्राप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यसनं प्राप्य यो मोहात्केवलं परिदेवयेत्।  
 क्रन्दनं वर्धयत्येव तस्यान्तं नाधिगच्छति॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8181",]
-jsonClass = "Subhaashita"
 topics = [ "स्नेहः",]
 ratings = [ "vvasuki:5",]
-title = "एह्यागच्छ गृहाण"
+jsonClass = "Subhaashita"
+title = "एह्यागच्छ समाविशासनमिदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एह्यागच्छ समाविशासनमिदं कस्माच् चिराद् दृश्यसे का वार्त्तेति सुदुर्बलोऽसि कुशलं प्रीतोऽस्मि ते दर्शनात्।  
 एवं ये समुपागतान् प्रणयिनः प्रत्यालपन्त्यादरात् तेषां युक्तमशङ्कितेन मनसा हर्म्याणि गन्तुं सदा॥

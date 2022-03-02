@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3394", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 251",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अविवेकि कुचद्वन्द्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविवेकि कुचद्वंद्वं हन्तु नाम जगत्त्रयम्।  
 श्रुतिप्रणयिनोरक्ष्णोर् अयुक्तं जनमारणम्॥

@@ -5,7 +5,7 @@ title = "आविष्ट इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आविष्ट इव दुःखेन तद्गतेन गरीयसा।  
 समन्वितः करुणया परया दीनमुद्धरेत्॥

@@ -5,7 +5,7 @@ title = "अतिभीरुमतिक्लीबम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिभीरुमतिक्लीबं दीर्घसूत्रं प्रमादिनम्।  
 व्यसनाद् विषयाक्रान्तं न भजन्ति नृपं प्रजाः॥

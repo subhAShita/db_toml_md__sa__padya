@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3510", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 94",]
-jsonClass = "Subhaashita"
 topics = [ "दशावताराः",]
+jsonClass = "Subhaashita"
 title = "अशेषलङ्कापतिसैन्यहन्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशेषलङ्कापतिसैन्यहन्ता श्रीरामसेवाचरणैककर्ता।  
 अनेकदुःखाहतलोकगोप्ता त्वसौ हनूमांस्तव सौख्यकर्ता॥

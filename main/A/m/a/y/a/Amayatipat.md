@@ -5,7 +5,7 @@ title = "आनयति पथिकतरुणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनयति पथिकतरुणं हरिण इह प्रापयन्निवात्मानम्।  
 उपकलमगोऽपि कोमल- कलमावलिकवलनोत्तरलः॥

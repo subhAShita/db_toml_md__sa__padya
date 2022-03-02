@@ -6,7 +6,7 @@ title = "दर्पणार्पितमालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दर्पणार्पितमालोक्य मायास्त्रीरूपमात्मनः।  
 आत्मन्येवानुरक्तो वः शिवं दिशतु केशवः॥

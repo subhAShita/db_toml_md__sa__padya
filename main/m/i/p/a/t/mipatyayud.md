@@ -6,7 +6,7 @@ title = "निपत्य युधि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निपत्य युधि वेगेन मिषतां सर्वधन्विनाम्।  
 शत्रुं निहत्य यात्येकः शूरो वाजिप्रभावतः॥

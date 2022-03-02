@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0527", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 111",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "अतिकुपिता अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिकुपिता अपि सुजना योगेन मृदूभवन्ति न तु नीचाः।  
 हेम्नः कठिनस्यापि द्रवणोपायोऽस्ति न तृणानाम्॥

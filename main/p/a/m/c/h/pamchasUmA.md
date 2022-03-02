@@ -7,7 +7,7 @@ title = "पञ्च सूना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्च सूना गृहस्थस्य चुल्ली पेषण्युपस्करः ।  
 कण्डनी चौदकुम्भश्च बध्यते यास्तु वाहयन् ॥

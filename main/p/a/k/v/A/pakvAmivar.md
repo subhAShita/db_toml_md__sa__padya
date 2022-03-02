@@ -6,7 +6,7 @@ title = "पक्वान्नमिव राजेन्द्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पक्वान्नमिव राजेन्द्र सर्वसाधारणाः स्त्रियः।  
 परोक्षे च समक्षे च रक्षितव्याः प्रयत्नतः॥

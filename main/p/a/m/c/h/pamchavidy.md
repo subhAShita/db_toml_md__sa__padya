@@ -6,7 +6,7 @@ title = "पञ्च विद्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पञ्च विद्यां न गृह्णन्ति   
 लुब्धाश्चण्डाश्च ये नराः।  

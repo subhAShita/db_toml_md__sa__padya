@@ -5,7 +5,7 @@ title = "एकाकी निःस्पृहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकाकी निःस्पृहः शान्तः पाणिपात्रो दिगम्बरः।  
 कदा शंभो भविष्यामि कर्मनिर्मूलनक्षमः॥

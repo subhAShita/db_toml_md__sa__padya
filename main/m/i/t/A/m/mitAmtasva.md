@@ -6,7 +6,7 @@ title = "नितान्तस्वच्छहृदयं सखि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नितान्तस्वच्छहृदयं सखि प्रेयान्समागतः।  
 त्वां चिराद्दर्शनप्रीत्या यः समालिङ्ग्य रम्स्यते॥

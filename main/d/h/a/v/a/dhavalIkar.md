@@ -7,7 +7,7 @@ title = "धवलीकरोति हरितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धवलीकरोति हरितो मलिनीकुरुते मनः सपत्नीनाम्।  
 अस्या हास्यविकासो मम तु मनो रक्तमाचरति॥

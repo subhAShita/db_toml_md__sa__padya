@@ -6,7 +6,7 @@ title = "न हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।  
 तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥

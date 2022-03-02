@@ -5,7 +5,7 @@ title = "काव्यं सुधा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यं सुधा रसज्ञानां कामिनां कामिनी सुधा।  
 धनं सुधा सलोभानां शान्तिः सन्यसिनां सुधा॥

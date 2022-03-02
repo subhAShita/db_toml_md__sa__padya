@@ -6,7 +6,7 @@ title = "निजपदगतिगुणरञ्जितजगताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजपदगतिगुणरञ्जितजगतां करिणां च सत्कवीनां च।  
 वहतामपि महिमानं शोभायै सज्जना एव॥

@@ -7,7 +7,7 @@ title = "पादसंवाहने वज्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पादसंवाहने वज्री केशसंमार्जने फणी।  
 अहो भाग्यं पुरन्ध्रीणां दधिसंमन्थने रविः॥

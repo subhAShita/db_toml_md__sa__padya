@@ -5,7 +5,7 @@ title = "करोतु करटः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोतु करटः शब्दं सर्वदा प्राङ्गणे वसन्।  
 न शृणोति बुधः प्रीत्या शृणोति पिकभाषितम्॥

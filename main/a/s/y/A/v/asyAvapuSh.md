@@ -5,7 +5,7 @@ title = "अस्या वपुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्या वपुषि तारुण्यं शैशवं वा कृतास्पदम्।  
 जातिः कापालिकस्येव न केनाप्यवधार्यते॥

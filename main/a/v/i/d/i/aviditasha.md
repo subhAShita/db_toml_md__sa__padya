@@ -5,7 +5,7 @@ title = "अविदितशषसविशेषा वाणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविदितशषसविशेषा वाणी निःसरति वक्त्रतो येषाम्।  
 गुदवदनविवरभेदो रदनैरनुमीयते तेषाम्॥

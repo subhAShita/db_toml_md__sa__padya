@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9666", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 19",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कामेन कामम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामेन कामं प्रहिता जवेन प्रावृट् चचाल त्रिजगद् विजेतुम्।  
 किं चन्द्रबिम्बं दधि भक्षयत्नी संधारयन्ती हरितः शुभाय॥

@@ -7,7 +7,7 @@ title = "त्यक्तो विन्ध्यगिरिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यक्तो विन्ध्यगिरिः पिता भगवती मातेव रेवानदी  
 ते ते स्नेहनिबन्धबन्धुरधियस्तुल्योदया दन्तिनः ।  

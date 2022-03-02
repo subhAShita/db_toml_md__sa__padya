@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3325", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३० तमोवर्णनम्// 2",]
-jsonClass = "Subhaashita"
 topics = [ "तमः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अविज्ञातविशेषस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविज्ञातविशेषस्य सर्वतेजोऽपहारिणः।  
 स्वामिनो निर्विवेकस्य तमसश्च किमन्तरम्॥

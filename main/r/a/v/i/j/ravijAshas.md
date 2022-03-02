@@ -6,7 +6,7 @@ title = "रविजा शशिकुन्दाभा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रविजा शशिकुन्दाभा तापहारी जगत्प्रिया।  
 वर्धते वनसङ्गेन न तापी यमुनापि न॥

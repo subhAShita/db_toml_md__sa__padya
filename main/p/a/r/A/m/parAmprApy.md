@@ -6,7 +6,7 @@ title = "परान्नं प्राप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परान्नं प्राप्य दुर्बुद्धे मा प्राणेषु दयां कुरु।  
 दुर्लभानि परान्नानि प्राणा जन्मनि जन्मनि॥

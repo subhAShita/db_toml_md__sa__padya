@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9505", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 24",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
+jsonClass = "Subhaashita"
 title = "का पाण्डुपत्नी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 का पाण्डुपत्नी गृहभूषणं किं को रामशत्रुः किमगस्त्यजन्म।  
 कः सूर्यपुत्रो विपरीतपृच्छा कुन्तीसुतो रावणकुम्भकर्णाः॥

@@ -6,7 +6,7 @@ title = "देवराजो मया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देवराजो मया दृष्टो वारिवारणमस्तके।  
 भक्षयित्वार्कपर्णानि विषं पीत्वा क्षयं गतः॥

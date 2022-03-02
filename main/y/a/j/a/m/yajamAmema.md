@@ -6,7 +6,7 @@ title = "यजमानेन कः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यजमानेन कः स्वर्गहेतुः सम्यग्विधीयते।  
 विहायाद्यन्तयोर्वर्णौ गोत्वं कुत्र स्थितं वद॥

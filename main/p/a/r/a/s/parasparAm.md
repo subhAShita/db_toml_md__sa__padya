@@ -6,7 +6,7 @@ title = "परस्परानुरक्ता ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परस्परानुरक्ता ये योधाः शार्ङ्गधनुर्धराः।  
 सन्नद्धास्तुरगारूढास्ते जयन्ति रणे रिपून्॥

@@ -6,7 +6,7 @@ title = "को नयतिजगदशेषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 को नयतिजगदशेषं क्षयमथ बिभराम्बभूव कं विष्णुः।  
 नीचः कुत्र सगर्वः पाणिनिसूत्रं च कीदृक्षम्॥

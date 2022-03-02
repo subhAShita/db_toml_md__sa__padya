@@ -6,7 +6,7 @@ title = "प्रलयसहायकरा इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रलयसहायकरा इति गोलानाचम्य सकलभूमिरुहाम्।  
 विलसति दवदहनावलिरिह जलवाहः परं शरणम्॥

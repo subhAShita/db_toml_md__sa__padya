@@ -6,7 +6,7 @@ title = "पातु वो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातु वो निकषग्रावा मतिहेम्नः सरस्वती।  
 प्राज्ञेतरपरिच्छेदं वचसैव करोति या॥

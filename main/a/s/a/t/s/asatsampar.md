@@ -5,7 +5,7 @@ title = "असत्सम्पर्कदोषेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असत्संपर्कदोषेण अधस्ताद् यान्ति साधवः।  
 मार्गस्तिमिरदोषेण समोऽपि विषमायते॥

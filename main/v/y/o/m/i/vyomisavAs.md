@@ -6,7 +6,7 @@ title = "व्योम्नि स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्योम्नि स वासं कुरुते चित्रं निर्माति सुन्दरं पवने।  
 रचयति रेखाः सलिले चरति खले यस्तु सत्कारम्॥

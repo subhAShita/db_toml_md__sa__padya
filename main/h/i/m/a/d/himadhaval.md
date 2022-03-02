@@ -7,7 +7,7 @@ title = "हिमधवलदन्तकेशी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हिमधवलदन्तकेशी मन्दद्युतितारका बृहत्तिमिरा।  
 द्विगुणीभूता रजनी वृद्धेव शनैः शनैर्याति॥

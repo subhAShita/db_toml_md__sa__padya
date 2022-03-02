@@ -6,7 +6,7 @@ title = "न चोरहार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न चोरहार्यं न च राजहार्यं न भ्रातृभाज्यं न च भारकारि।  
 व्यये कृते वर्धत एव नित्यं विद्याधनं सर्वधनप्रधानम्॥

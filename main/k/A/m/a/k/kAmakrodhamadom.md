@@ -5,7 +5,7 @@ title = "कामक्रोधमदोन्मत्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामक्रोधमदोन्मत्ताः स्त्रीणां ये वशवर्तिनः।  
 न ते जलेन शुध्यन्ति स्नानतीर्थशतैरपि॥

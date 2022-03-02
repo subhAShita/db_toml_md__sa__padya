@@ -6,7 +6,7 @@ title = "मधुकर मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुकर मा कुरु शोकं विचर करीरद्रुमस्य कुसुमेषु।  
 घनतुहिनपातदलिता कथं नु सा मालती मिलति॥

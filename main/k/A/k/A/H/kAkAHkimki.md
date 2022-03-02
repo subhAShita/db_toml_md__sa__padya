@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9308", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०८ शुकः// 183",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - शुकः",]
+jsonClass = "Subhaashita"
 title = "काकाः किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकाः किं किं न कुर्वन्ति क्रोङ्कारं यत्र तत्र वा।  
 शुक एव परं वक्ति नृपहस्तोपलालितः॥

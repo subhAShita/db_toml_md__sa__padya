@@ -6,7 +6,7 @@ title = "वीशो गरुडो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीशो गरुडो वाहनं यस्य.)  
 [पक्षे] गजेन्द्रपीडाहारकः.

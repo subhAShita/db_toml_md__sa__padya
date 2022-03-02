@@ -6,7 +6,7 @@ title = "प्रत्यहं प्रत्यवेक्षेत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रत्यहं प्रत्यवेक्षेत नरश्चरितमात्मनः।  
 किं नु मे पशुभिस्तुल्यं किं नु सत्पुरुषैरिति॥

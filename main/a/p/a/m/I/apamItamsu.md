@@ -5,7 +5,7 @@ title = "अपनीतं सुनीतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपनीतं सुनीतेन योऽर्थं प्रत्यानिनीषते।  
 मतिमास्थाय सुदृढां तदकापुरुषव्रतम्॥

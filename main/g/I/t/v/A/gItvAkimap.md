@@ -6,7 +6,7 @@ title = "गीत्वा किमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गीत्वा किमपि व्याधः शृङ्गं जग्राह तरुणहरिणस्य।  
 तमथ समीक्ष्योद्यतकरमेणीमपि लज्जिता व्याधी॥

@@ -7,7 +7,7 @@ title = "रे रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे रे घरट्ट मा रोदीः कं कं न भ्रामयन्त्यमूः।  
 कटाक्षवीक्षणादेव कराकृष्टस्य का कथा॥

@@ -6,7 +6,7 @@ title = "हे गोदावरि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हे गोदावरि देवि तावकतटोद्देशे कलिङ्गः कवि-  
 र्वाग्देवीं बहुदेशदर्शनसखीं त्यक्त्वा विरक्तिं गतः।  

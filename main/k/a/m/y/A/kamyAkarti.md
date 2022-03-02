@@ -5,7 +5,7 @@ title = "कन्याकर्तितसूत्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कन्याकर्तितसूत्रेण बद्धापामार्गमूलिका।  
 ऐहाहिकज्वरं हन्ति शिखायामतिवेगतः॥

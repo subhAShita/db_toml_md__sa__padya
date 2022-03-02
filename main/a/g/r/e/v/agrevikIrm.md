@@ -5,7 +5,7 @@ title = "अग्रे विकीर्णकुरबक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्रे विकीर्णकुरबक- फलजालकहीयमानसहकारम्।  
 परिणामाभिमुखमृतोर् उत्सुकयति यौवनं चेतः॥

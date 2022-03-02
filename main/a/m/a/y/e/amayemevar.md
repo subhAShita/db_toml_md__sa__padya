@@ -5,7 +5,7 @@ title = "अनयेनेव राज्यश्रीर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनयेनेव राज्यश्रीर् दैन्येनेव मनस्विता।  
 मम्लौ साथ विषादेन पद्मिनीव हिमाम्भसा॥

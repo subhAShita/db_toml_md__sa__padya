@@ -5,7 +5,7 @@ title = "अनागतं भयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनागतं भयं दृष्ट्वा नीतिशास्त्रविशारदः।  
 अवसन्मूषकस्तत्र कृत्वा शतमुखं बिलम्॥

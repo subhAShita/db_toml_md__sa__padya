@@ -5,7 +5,7 @@ title = "आभोगे च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आभोगे च पदैकं स्यात् किंचिदुच्चं द्वितीयकम्।  
 प्रभुनामाङ्कितं चैतत् कनिष्ठस्येति लक्षणम्॥

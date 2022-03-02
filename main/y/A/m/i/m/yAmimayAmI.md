@@ -7,7 +7,7 @@ title = "यामि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यामि न यामीति धवे वदति पुरस्तात्क्षणेन तन्वङ्ग्याः।  
 गलितानि पुरोवलयान्यपराणि तथैव दलितानि॥

@@ -6,7 +6,7 @@ title = "पश्यति परस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पश्यति परस्य युवतिं सकाममपि तन्मनोरथं कुरुते।  
 ज्ञात्वैव तदप्राप्तिं व्यर्थं मनुजो हि पापभाग्भवति॥

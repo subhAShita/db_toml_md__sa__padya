@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0113", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 28",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अकृशं कुचयोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृशं कुचयोः कृशं वलग्ने विततं चक्षुषि विस्तृतं नितम्बे।  
 अरुणाधरमाविरस्तु चित्ते करुणाशालि कपालिभागधेयम्॥

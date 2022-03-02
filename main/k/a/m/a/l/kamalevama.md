@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8676", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 83",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "कमलेव मतिर्मतिरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलेव मतिर्मतिरिव कमला तनुरिव विभा विभेव तनुः।  
 धरणीव धृतिर्धूतिरिव धरणी सततं विभाति बत यस्य॥

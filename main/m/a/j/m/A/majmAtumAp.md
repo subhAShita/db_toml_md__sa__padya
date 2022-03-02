@@ -6,7 +6,7 @@ title = "न ज्ञातुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न ज्ञातुं नाप्यनुज्ञातुं नेक्षितुं नाप्युपेक्षितुम्।  
 स्वजनः स्वजने जातं विपत्पातं समीहते॥

@@ -5,7 +5,7 @@ title = "अतिथिः पूजितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिथिः पूजितो यस्य ध्यायते मनसा शभम्।  
 न तत् क्रतुशतेनापि तुल्यमाहुर्मनीषिणः॥

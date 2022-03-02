@@ -6,7 +6,7 @@ title = "जितरोषरया महाधियः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जितरोषरया महाधियः सपदि क्रोधजितो लघुर्जनः।  
 विजितेन जितस्य दुर्मतेर्मतिमद्भिः सह का विरोधिता॥

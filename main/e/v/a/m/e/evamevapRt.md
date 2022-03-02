@@ -7,7 +7,7 @@ title = "एवमेव पृथग्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमेव पृथग् दृष्ट्वा धर्मार्थौ काममेव च ।  
 न धर्मपर एव स्यान्न चार्थपरमो नरः।  

@@ -1,12 +1,12 @@
 +++
 topics = [ "नीतिः",]
-secondary_sources = ["MSS_1562", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 41",]
+secondary_sources = [ "MSS_1562", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 41",]
 jsonClass = "Subhaashita"
 title = "अनेन मर्त्यदेहेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेन मर्त्यदेहेन यल्लोकद्वयशर्मदम्।  
 विचिन्त्य तदनुष्ठेयं हेयं कर्म ततोऽन्यथा॥

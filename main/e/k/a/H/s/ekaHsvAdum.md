@@ -5,7 +5,7 @@ title = "एकः स्वादु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकः स्वादु न भुञ्जीत एकश्चार्थान् न चिन्तयेत्।  
 एको न गच्छेदध्वानं नैकः सुप्तेषु जागृयात्॥

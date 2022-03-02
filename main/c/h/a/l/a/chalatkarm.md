@@ -6,7 +6,7 @@ title = "चलत्कर्णानिलोद्धूत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चलत्-कर्णानिलोद्धूत-  
 सिन्दूरारुणिताम्बरः।  

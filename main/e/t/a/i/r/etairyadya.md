@@ -5,7 +5,7 @@ title = "एतैर्यद्यद् समादिष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतैर्यद्यद् समादिष्टं शुभं वा यदि वाशुभम्।  
 कर्तव्यं नियतं भीतैर् अप्रमत्तैर्बुभूषुभिः॥

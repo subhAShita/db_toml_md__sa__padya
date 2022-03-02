@@ -6,7 +6,7 @@ title = "धनिनोऽप्यदानभोगा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनिनोऽप्यदानभोगा गण्यन्ते धुरि महादरिद्राणाम्।  
 हन्ति न यतः पिपासामतः समुद्रोऽपि मरुरेव॥

@@ -6,7 +6,7 @@ title = "निकटस्थं गरीयांसमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निकटस्थं गरीयांसमपि लोको न मन्यते।  
 पवित्रमपि यन्मर्त्या न नमस्यन्ति जाह्नवीम्॥

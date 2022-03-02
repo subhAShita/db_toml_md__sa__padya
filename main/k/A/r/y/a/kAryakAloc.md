@@ -5,7 +5,7 @@ title = "कार्यकालोचिता पापैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्यकालोचिता पापैर् मतिबुद्धिर्विहीयते।  
 सानुकूला तु वैदैवात् पुंसः सर्वत्र जायते॥

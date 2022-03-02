@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6829", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १९ नायकस्याग्रे दूत्युक्तयः// 21",]
-jsonClass = "Subhaashita"
 topics = [ "नायकस्याग्रे दूत्युक्तयः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उद्धूयेत नतभ्रूः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्धूयेत नतभ्रूः पक्ष्मनिपातोद्भवैः पवनैः।  
 इति निर्निमेषमस्या विरहवयस्या विलोकते वदनम्॥

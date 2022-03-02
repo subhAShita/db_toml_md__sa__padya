@@ -6,7 +6,7 @@ title = "यस्मिञ्जीवति सिंहे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिञ्जीवति सिंहे वनमिदमासीद्दुरासदं द्विरदैः।  
 घटयन्ते कटिसूत्रं तस्य सटाभिः शबरशिशवः॥

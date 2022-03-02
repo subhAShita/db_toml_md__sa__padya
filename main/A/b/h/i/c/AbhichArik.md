@@ -5,7 +5,7 @@ title = "आभिचारिकहोमैस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आभिचारिकहोमैस्तु मन्त्रैः षट्कर्मसाधकः।  
 यन्त्रलेखनकैरुग्रैर् उपांशुजपनादिभिः॥

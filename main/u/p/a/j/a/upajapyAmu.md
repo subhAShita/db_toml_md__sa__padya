@@ -5,7 +5,7 @@ title = "उपजप्यानुपजपेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपजप्यानुपजपेद् बुध्येतैव च तत्कृतम्।  
 युक्ते च दैवे युध्येत जयप्रेप्सुरपेतभीः॥

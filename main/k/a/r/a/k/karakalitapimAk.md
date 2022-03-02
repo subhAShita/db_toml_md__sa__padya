@@ -5,7 +5,7 @@ title = "करकलितपिनाक नाकनाथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करकलितपिनाक नाकनाथ द्बिषदुरुमानसशूल शूलपाणे।  
 भव वृषभविमान मानशौण्ड त्रिजगदकारणतारक प्रसीद॥

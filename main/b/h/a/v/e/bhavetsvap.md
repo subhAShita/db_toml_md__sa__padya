@@ -6,7 +6,7 @@ title = "भवेत्स्वपरराष्ट्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवेत्स्वपरराष्ट्राणां कार्याकार्यावलोकने।  
 चारचक्षुर्महीभर्तुर्यस्य नास्त्यन्ध एव सः॥

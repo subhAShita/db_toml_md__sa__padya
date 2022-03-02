@@ -6,7 +6,7 @@ title = "प्रकटं मृदु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकटं मृदु नाम जल्पतः परुषं सूचयतोऽर्थमन्तरा।  
 शकुनादिव मार्गवर्तिभिः पुरुषादुद्विजितव्यमीदृशात्॥

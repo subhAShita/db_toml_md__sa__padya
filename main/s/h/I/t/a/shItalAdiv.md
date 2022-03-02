@@ -7,7 +7,7 @@ title = "शीतलादिव सन्त्रस्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शीतलादिव सन्त्रस्तं प्रावृषेण्यान्नभस्वतः।  
 नभो बभार नीरन्ध्रं जीमूतकुलकम्बलम्॥

@@ -6,7 +6,7 @@ title = "वरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं दारिद्र्यमन्यायप्रभवाद्विभवादिह।  
 कृशताभिमता देहे पीनता न तु शोफतः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5403", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 21",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आवृणोति यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवृणोति यदि सा मृगीदृशी स्वाञ्चले कुचकाञ्चनाचलम्।  
 भूय एव बहिरेति गौरवाद् उन्नतो न सहते तिरस्क्रियाम्॥

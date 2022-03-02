@@ -6,7 +6,7 @@ title = "यत्स्मृत्वैव पराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्स्मृत्वैव परां यान्ति सन्तः संतापसंततिम्।  
 तदसन्तो हसन्तोऽपि हेलयैव हि कुर्वते॥

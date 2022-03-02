@@ -6,7 +6,7 @@ title = "किं वर्ण्यताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं वर्ण्यतां कुचद्वन्द्वमस्याः कमलचक्षुषः।  
 आसमुद्रकरग्राही भवान्यत्र करप्रदः॥

@@ -6,7 +6,7 @@ title = "मा गा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा गा इत्यपमङ्गलं व्रजसखे स्नेहेन दीनं वचः।  
 तिष्ठेति प्रभुता यथामति चरेत्यैवम् ह्युदासीनता ।  

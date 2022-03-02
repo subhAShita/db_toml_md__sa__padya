@@ -5,7 +5,7 @@ title = "काङ्क्षितेनाप्यलब्धेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काङ्क्षितेनाप्यलब्धेन भोगार्हे नवयौवने।  
 जराजीर्णशरीरस्य भारेणेव धनेन किम्॥

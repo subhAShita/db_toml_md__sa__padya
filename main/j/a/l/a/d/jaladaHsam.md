@@ -6,7 +6,7 @@ title = "जलदः समुद्रसेवामाचरति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जलदः समुद्रसेवामाचरति समग्रभुवनभरणाय।  
 कुरुते तामपि हतमतिरात्मम्भरिरनिशमौर्वाग्निः॥

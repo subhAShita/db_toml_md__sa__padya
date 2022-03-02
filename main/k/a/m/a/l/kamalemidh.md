@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8675", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १३ वियोगिन्या अवस्थावर्णनम्// 10",]
-jsonClass = "Subhaashita"
 topics = [ "वियोगः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कमले निधाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमले निधाय कमलं कलयन्ती कमलवासिनं कमले।  
 कमलयुगादुद्भूतं कमलं कमलेन वारयति॥

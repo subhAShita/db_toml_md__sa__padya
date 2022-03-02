@@ -5,7 +5,7 @@ title = "आत्मना सङ्गृहीतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मना संगृहीतेन शत्रुणा शत्रुमुद्धरेत्।  
 पदलग्नं करस्थेन कण्टकेनैव कण्टकम्॥

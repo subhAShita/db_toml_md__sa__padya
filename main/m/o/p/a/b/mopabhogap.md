@@ -6,7 +6,7 @@ title = "नोपभोगपरानर्थान्कोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नोपभोगपरानर्थान्कोऽपि सञ्चिनुते चिरम्।  
 आखवः किमलङ्कारानात्मन्याहृत्य कुर्वते॥

@@ -5,7 +5,7 @@ title = "आसन्नतरतामेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसन्नतरतामेति मृत्युर्जन्तोर्दिने दिने।  
 आघातं नीयमानस्य वध्यस्येव पदे पदे॥

@@ -5,7 +5,7 @@ title = "कालः पचति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालः पचति भूतानि कालः संहरति प्रजाः।  
 निर्दहन्तं प्रजाः कालं कालः शमयते पुनः॥

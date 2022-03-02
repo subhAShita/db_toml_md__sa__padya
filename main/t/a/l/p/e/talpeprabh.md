@@ -7,7 +7,7 @@ title = "तल्पे प्रभुरिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तल्पे प्रभुरिव गुरुरिव मनसिजशास्त्रे श्रमे भुजिष्येव।  
 गेहे श्रीरिव गुरुजनपुरतो मूर्तेव सा व्रीडा॥

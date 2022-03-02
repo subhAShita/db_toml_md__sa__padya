@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1241", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 28",]
-jsonClass = "Subhaashita"
 topics = [ "काव्यम्",]
+jsonClass = "Subhaashita"
 title = "अनभ्रवृष्टिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनभ्रवृष्टिः श्रवणामृतस्य सरस्वती विभ्रमजन्मभूमिः।  
 वैदर्भरीतिः कृतिनामुदेति सौभाग्यलाभप्रतिभूः पदानाम्॥

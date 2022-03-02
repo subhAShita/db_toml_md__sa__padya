@@ -7,7 +7,7 @@ title = "सर्वव्याख्याविकल्पानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वव्याख्याविकल्पानां द्वयमेव प्रयोजनम् ।  
 पूर्वत्रापरितोषो वा विषयव्याप्तिरेव वा ॥

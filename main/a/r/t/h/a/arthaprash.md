@@ -5,7 +5,7 @@ title = "अर्थप्रश्नकृतौ लोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थप्रश्नकृतौ लोके सुलभौ तौ गृहे गृहे।  
 दाता चोत्तरदश्चैव दुर्लभौ पुरुषौ भुवि॥

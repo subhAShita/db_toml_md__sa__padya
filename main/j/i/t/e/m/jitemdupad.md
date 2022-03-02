@@ -7,7 +7,7 @@ title = "जितेन्दुपद्मलावण्यं कः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जितेन्दुपद्मलावण्यं कः कान्तावदनं जयेत्।  
 मुक्त्वा तदेव सुरतश्रमजिह्मितलोचनम्॥

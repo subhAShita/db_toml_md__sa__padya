@@ -5,7 +5,7 @@ title = "कायेन त्रिविधम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कायेन त्रिविधं चैव वाचा चैव चतुर्विधम्।  
 मनसा त्रिविधं नित्यं दशाधर्मपथांस् त्यजेत्॥

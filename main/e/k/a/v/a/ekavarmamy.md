@@ -5,7 +5,7 @@ title = "एकवर्णं यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकवर्णं यथा दुग्धं बहुवर्णासु धेनुषु।  
 तथा धर्मस्य वैचित्र्ये तत्त्वमेकं परं पुनः॥

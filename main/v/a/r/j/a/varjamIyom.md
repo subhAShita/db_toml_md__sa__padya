@@ -6,7 +6,7 @@ title = "वर्जनीयो मतिमता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्जनीयो मतिमता दुर्जनः सख्यवैरयोः।  
 श्वा भवत्यपकाराय लिहन्नपि दशन्नपि॥

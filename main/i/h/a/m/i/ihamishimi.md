@@ -5,7 +5,7 @@ title = "इह निशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह निशि निबिडनिरन्तर- कुचकुम्भद्वितयदत्तहृदयभरा।  
 रमणगुणकृष्यमाणा संतरति तमस्तरङ्गिणीं कापि॥

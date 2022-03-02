@@ -7,7 +7,7 @@ title = "सम्पन्न रमणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्पन्न रमणी शीलसम्पन्नरमणीं विना।  
 इत्यूढवान्नरमणी रमणीं रुक्मिणीं हरिः॥

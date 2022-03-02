@@ -5,7 +5,7 @@ title = "उद्गता मथनक्षोभात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्गता मथनक्षोभात् फेनराजिः पयोदधेः।  
 तारकावलिरित्यज्ञैर् इयं सखि निवेद्यते॥

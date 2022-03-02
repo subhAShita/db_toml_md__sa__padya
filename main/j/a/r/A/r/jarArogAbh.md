@@ -7,7 +7,7 @@ title = "जरारोगाभिपन्नं तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जरारोगाभिपन्नं तु कुणपं जाह्नवी जले।  
 धैर्येण तृणवत् त्यक्त्वा प्रविशेदमरावतीम्॥

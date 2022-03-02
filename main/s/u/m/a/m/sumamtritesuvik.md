@@ -7,15 +7,15 @@ title = "सुमन्त्रिते सुविक्रान्ते"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-In a well planned, well surpassed, well done, well considered (act), fruits will emerge, o strong-arm, and fortune will be auspicious.
+सुमन्त्रिते सुविक्रान्ते सुकृतेसुविचारिते।  
+सिद्ध्यन्त्यर्था महाबाहो दैवं चात्र प्रदक्षिणम् ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-सुमन्त्रिते सुविक्रान्ते सुकृतेसुविचारिते।  
-सिद्ध्यन्त्यर्था महाबाहो दैवं चात्र प्रदक्षिणम् ॥
+In a well planned, well surpassed, well done, well considered (act), fruits will emerge, o strong-arm, and fortune will be auspicious.
 </details>

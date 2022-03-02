@@ -5,7 +5,7 @@ title = "एवं वशीकृतस्वात्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं वशीकृतस्वात्मा नित्यं स्मितमुखो भवेत्।  
 त्यजेद् भ्रकुटिसंकोचं पूर्वाभाषी जगत्सुहृत्॥

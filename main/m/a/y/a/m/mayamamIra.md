@@ -7,7 +7,7 @@ title = "नयननीरज किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नयननीरज किं भवता कृतं मुखशशी यदयं रिपुराश्रितः।  
 इति वचो वितरीतुमिवोन्मुखं वरतनोः स्तनचक्रयुगं बभौ॥

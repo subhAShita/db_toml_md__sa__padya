@@ -5,7 +5,7 @@ title = "इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इति विस्मृतान्यकरणीयमात्मनः सचिवावलम्बितधुरं धराधिपम्।  
 परिवृद्धरागमनुबन्धसेवया मृगया जहार चतुरेव कामिनी॥

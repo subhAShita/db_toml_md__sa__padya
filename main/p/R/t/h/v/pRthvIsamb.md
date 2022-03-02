@@ -6,7 +6,7 @@ title = "पृथ्वीसम्बोधनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृथ्वीसंबोधनं कीदृक्कविना परिकीर्तितम्।  
 केनेदं मोहितं विश्वं प्रायः केनाप्यते यशः॥

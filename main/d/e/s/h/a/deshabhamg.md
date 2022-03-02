@@ -7,7 +7,7 @@ title = "देशभङ्गे प्रवासे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देशभङ्गे प्रवासे वा   
 व्याधिषु व्यसनेष्वपि ।  

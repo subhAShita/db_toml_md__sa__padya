@@ -5,7 +5,7 @@ title = "कर्माण्यारभमाणानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्माण्यारभमाणानां दुःखहत्यै सुखाय च।  
 पश्येत् पाकविपर्यासं मिथुनीचारिणां नृणाम्॥

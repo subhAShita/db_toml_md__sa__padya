@@ -7,7 +7,7 @@ title = "नासां कश्चिदगम्योऽस्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नासां कश्चिदगम्योऽस्ति नासां च वयसि स्थितिः।  
 विरूपं रूपवन्तं वा पुमानित्येव भुञ्जते॥

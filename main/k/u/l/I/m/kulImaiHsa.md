@@ -6,7 +6,7 @@ title = "कुलीनैः सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुलीनैः सह सम्पर्कं पण्डितैः सह मित्त्रताम्।  
 ज्ञातिभिश्च समं मेलं कुर्वाणो न विनश्यति॥

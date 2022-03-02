@@ -7,7 +7,7 @@ title = "आपदि \"किमर्थमाप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपदि "किमर्थमाप-  
 न्ममैव जाते"ति पृच्छ्यते लोकैः ।  

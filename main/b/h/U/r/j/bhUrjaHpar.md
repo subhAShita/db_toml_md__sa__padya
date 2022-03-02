@@ -6,7 +6,7 @@ title = "भूर्जः परोपकृतये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूर्जः परोपकृतये निजकवचविकर्तनं सहते।  
 परबन्धाय तु शणः प्रेक्षध्वमिहान्तरं कीदृक्॥

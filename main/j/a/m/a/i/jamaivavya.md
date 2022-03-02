@@ -6,7 +6,7 @@ title = "जन्मैव व्यर्थथाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जन्मैव व्यर्थथां नीतं भवभोगप्रलोभिना।  
 काचमूल्येन विक्रीतो हन्त चिन्तामणिर्मया।॥

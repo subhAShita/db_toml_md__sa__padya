@@ -5,7 +5,7 @@ title = "अयं मन्दद्युतिर्भास्वान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं मन्दद्युतिर्भास्वान् अस्तं प्रति यियासति।  
 उदयः पतनायेति श्रीमतो बोधयन् नरान्॥

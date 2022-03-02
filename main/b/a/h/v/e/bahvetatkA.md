@@ -6,7 +6,7 @@ title = "बह्वेतत् कामयानस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बह्वेतत् कामयानस्य शक्यमेतेन जीवितुम्।  
 यदहं सा च वामोरूः एकां धरणिमाश्रितौ ॥ (रामायणम्)

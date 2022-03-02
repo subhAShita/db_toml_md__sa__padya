@@ -6,7 +6,7 @@ title = "यद्यपि तरणेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि तरणेः किरणैः सकलमिदं विश्वमुज्ज्वलं विदधे।  
 तदपि न पश्यति घूकः पुराकृतं भुज्यते कर्म॥

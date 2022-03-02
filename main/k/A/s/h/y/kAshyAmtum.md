@@ -5,7 +5,7 @@ title = "काश्यां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काश्यां तु मरणान्मुक्तिर् जननात् कमलालये।  
 दर्शनादभ्रसरसः स्मरणादरुणाचले॥

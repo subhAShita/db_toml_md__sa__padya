@@ -7,7 +7,7 @@ title = "तस्यास्तुङ्गस्तनच्छाया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्यास्तुङ्गस्तनच्छाया चकास्ति त्रिवलीतटे।  
 लीना तिमिरलेखेव वदनेन्दोरगोचरे॥

@@ -6,7 +6,7 @@ title = "कुरुते गङ्गासागरगमनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुरुते गङ्गासागरगमनं व्रतपरिपालनमथवा दानम् ।  
 ज्ञानविहिनः सर्वमतेन मुक्तिं न भजति जन्मशतेन ॥

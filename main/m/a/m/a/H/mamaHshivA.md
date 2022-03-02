@@ -6,7 +6,7 @@ title = "नमः शिवाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमः शिवाय निःशेषक्लेशप्रशमशालिने।  
 त्रिगुणग्रन्थिदुर्भेदभवबन्धविभेदिने॥

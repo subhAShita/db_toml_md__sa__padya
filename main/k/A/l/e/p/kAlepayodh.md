@@ -6,7 +6,7 @@ title = "काले पयोधराणामपतितया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले पयोधराणामपतितया नैव शक्यते स्थातुम्।  
 उत्कण्ठितासि बाले नहि नहि सखि पिच्छिलः पन्थाः॥

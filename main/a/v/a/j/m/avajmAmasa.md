@@ -5,7 +5,7 @@ title = "अवज्ञानसहस्रैस्तु दोषाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवज्ञानसहस्रैस्तु दोषाः कष्टतरा धने।  
 धने सुखकला या च सापि दुःखैर्विधीयते॥

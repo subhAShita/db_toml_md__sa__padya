@@ -6,7 +6,7 @@ title = "हीनसेवा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हीनसेवा न कर्तव्या कर्तव्यो महदाश्रयः।  
 पयोऽपि शौण्डिकीहस्ते वारुणीत्यभिधीयते॥

@@ -6,7 +6,7 @@ title = "न विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विना परवादेन रमते दुर्जनो जनः।  
 काकः सर्वरसान्भुक्त्वा विना मेध्यं न तृप्यति॥

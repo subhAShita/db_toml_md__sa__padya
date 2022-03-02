@@ -6,7 +6,7 @@ title = "विषमगता अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषमगता अपि न बुधाः परिभवमिश्रां श्रियं हि वाञ्छन्ति।  
 न पिबन्ति भौममम्भः सरजसमिति चातका एते॥

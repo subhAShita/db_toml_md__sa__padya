@@ -6,7 +6,7 @@ title = "घृतकुम्भसमा नारी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घृतकुम्भसमा नारी तप्ताङ्गारसमः पुमान्।  
 तस्माद्धृतं च वह्निं च नैकत्र स्थापयेद्बुधः॥

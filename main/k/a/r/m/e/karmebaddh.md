@@ -5,7 +5,7 @@ title = "कर्णे बद्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णे बद्धा रवौ श्वेततुरंगरिपुमूलिका।  
 सर्वज्वरहरा श्वेतमन्दारस्य च मूलिका॥

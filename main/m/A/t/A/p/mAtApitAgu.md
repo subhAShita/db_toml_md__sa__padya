@@ -6,7 +6,7 @@ title = "माता पिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माता पिता गुरुर्भ्राता भार्या पुत्रः पुरोहितः।  
 नादण्ड्यो नाम राज्ञोऽस्ति स्वधर्मे यो न तिष्ठति॥

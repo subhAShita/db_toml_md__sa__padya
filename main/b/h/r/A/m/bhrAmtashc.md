@@ -6,15 +6,15 @@ title = "भ्रान्तश्चिरमशेषो ग्रामो"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-Friends! I have scoured the entire village a hundred times – I am yet to see a pestle that matches the mortar in my home in size.
+भ्रान्तश्चिरमशेषो ग्रामो मया सख्यः शतवारम्।  
+गेहोलूखलपरिमाणेन मामि (लट्) मुषलमेव न दृष्टम्॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-भ्रान्तश्चिरमशेषो ग्रामो मया सख्यः शतवारम्।  
-गेहोलूखलपरिमाणेन मामि (लट्) मुषलमेव न दृष्टम्॥
+Friends! I have scoured the entire village a hundred times – I am yet to see a pestle that matches the mortar in my home in size.
 </details>

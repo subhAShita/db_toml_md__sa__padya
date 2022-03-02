@@ -5,7 +5,7 @@ title = "कामुके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामुके नूतनासङ्गगाढालिङ्गनकातरे।  
 गणिका गेहगणनां करोति ध्यानमास्थिता॥

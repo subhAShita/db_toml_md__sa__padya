@@ -5,7 +5,7 @@ title = "आतरलाघवहेतोर् मुरहर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आतरलाघवहेतोर् मुरहर तरिं तवावलम्बे।  
 अपणं पणमिह कुरुषे नाविकपुरुषे न विश्वासः॥

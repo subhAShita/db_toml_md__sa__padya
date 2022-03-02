@@ -6,7 +6,7 @@ title = "न विषयभोगो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न विषयभोगो भाग्यं योग्यं खलु यत्र जन्तुमात्रमपि।  
 ब्रह्मेन्द्ररुद्रमृग्यं भाग्यं विषयेषु वैराग्यम्॥

@@ -5,7 +5,7 @@ title = "आचाराल्लभते धर्मम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचाराल्लभते धर्मम् आचाराल्लभते धनम्।  
 आचाराच्छ्रियमाप्नोति आचारो हन्त्यलक्षणम्॥

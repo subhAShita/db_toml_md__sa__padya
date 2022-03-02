@@ -5,7 +5,7 @@ title = "अंहः संहरदखिलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अंहः संहरदखिलं सकृदुदयादेव सकललोकस्य।  
 तरणिरिव तिमिरजलधिं जयति जगन्मङ्गलं हरेर्नाम॥

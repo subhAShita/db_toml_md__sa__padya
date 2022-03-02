@@ -6,7 +6,7 @@ title = "तरुकुलसुषमापहराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरुकुलसुषमापहरां जनयन्तीं जगति जीवजातार्तिम्।  
 केन गुणेन भवानीतात हिमानीमिमां वहसि॥

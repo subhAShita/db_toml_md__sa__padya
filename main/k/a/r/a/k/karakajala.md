@@ -5,7 +5,7 @@ title = "करकजलपूतभूतल निहितपदो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करकजलपूतभूतल- निहितपदो विहितविकृतहुंकारः।  
 अपि वितथमन्त्रगणना- व्यग्रसमग्राङ्गुलीपर्वा॥

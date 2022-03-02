@@ -7,7 +7,7 @@ title = "यक्षं विरहिणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यक्षं विरहिणं कञ्चित्त्रासयामास तेजसा।  
 यक्ष एव विलोमेन संल्लग्नोऽभूद्विधौ क्षयः॥

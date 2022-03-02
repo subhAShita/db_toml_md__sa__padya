@@ -1,11 +1,11 @@
 +++
 secondary_sources = [ "MSS_7952",]
 jsonClass = "Subhaashita"
-title = "एते चान्ये च"
+title = "एते चान्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते चान्ये च बहवः प्रयोगाः पारदारिकाः।  
 देशे देशे प्रवर्तन्ते राजभिः संप्रवर्तिताः॥

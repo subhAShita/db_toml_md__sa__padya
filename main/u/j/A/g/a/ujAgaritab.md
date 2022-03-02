@@ -5,7 +5,7 @@ title = "उज्जागरितभ्रामित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उज्जागरितभ्रामित- दन्तुरदलरुद्धमधुकरप्रकरे।  
 काञ्चनकेतकि मा तव विकसतु सौरभ्यसंभारः॥

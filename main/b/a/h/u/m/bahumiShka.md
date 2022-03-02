@@ -6,7 +6,7 @@ title = "बहुनिष्कपटद्रोही"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहुनिष्कपटद्रोही बहुधान्योपघातकः।  
 रन्ध्रान्वेषी च सर्वत्र दूषको मूषको यथा॥

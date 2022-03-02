@@ -6,7 +6,7 @@ title = "न क्वापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न क्वापि रामाहितसंशयाया विना नमात्वं जनकात्मजायाः।  
 पुरः सुराणाङ्कपुरःसराणामङ्गारपूर्णं कमलं प्रफुल्लम्॥

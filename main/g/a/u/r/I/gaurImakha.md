@@ -6,7 +6,7 @@ title = "गौरीनखरसादृश्यश्रद्धया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौरीनखरसादृश्यश्रद्धया शशिनं दधौ।  
 इहैव गोप्यते कर्ता वर्षेणापि न लभ्यते॥

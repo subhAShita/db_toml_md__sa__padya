@@ -6,7 +6,7 @@ title = "प्रायः खलप्रकृतयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः खलप्रकृतयो नापरिभूता हिताय कल्पन्ते।  
 पुष्प्यत्यधिकमशोको गणिकाचरणप्रहारेण॥

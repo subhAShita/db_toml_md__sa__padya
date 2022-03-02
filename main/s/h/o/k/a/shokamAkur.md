@@ -6,7 +6,7 @@ title = "शोकं मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शोकं मा कुरु कुक्कुरु सत्त्वेष्वहमधम इति मुधा साधो।  
 कष्टादपि कष्टतरं दृष्ट्वा श्वानं कृतघ्ननामानम्॥

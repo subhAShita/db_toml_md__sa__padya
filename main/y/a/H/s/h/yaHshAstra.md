@@ -6,7 +6,7 @@ title = "यः शास्त्रविधिमुत्सृज्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः।  
 न स सिद्धिमवाप्नोति न सुखं न परां गतिम्॥  

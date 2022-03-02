@@ -7,7 +7,7 @@ title = "सूतो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सूतो वा सूतपुत्रो वा यो वा को वा भवाम्यम्।  
 दैवायत्तं कुले जन्म ममायत्तं तु पौरुषम्॥

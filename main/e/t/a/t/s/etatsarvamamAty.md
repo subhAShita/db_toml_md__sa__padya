@@ -5,7 +5,7 @@ title = "एतत् सर्वममात्यादि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतत् सर्वममात्यादि राजा नयपुरःसरः।  
 नयत्युन्नतिमुद्युक्तो व्यसनी क्षयमेव च॥

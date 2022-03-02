@@ -8,7 +8,7 @@ title = "भुवनमोहनजेन किमेनसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भुवनमोहनजेन किमेनसा तव परेत बभूव पिशाचता।  
 यदधुना विरहाधिमलीमसामभिभवन्भ्रमसि स्मर मद्विधाम्॥

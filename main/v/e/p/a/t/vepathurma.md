@@ -6,7 +6,7 @@ title = "वेपथुर्मलिनं वक्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेपथुर्मलिनं वक्त्रं दीना वाग्गद्गदः स्वरः।  
 मरणे यानि चिह्नानि तानि चिह्नानि याचके॥

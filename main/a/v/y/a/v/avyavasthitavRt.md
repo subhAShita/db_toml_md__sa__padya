@@ -5,7 +5,7 @@ title = "अव्यवस्थितवृत्तानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्यवस्थितवृत्तानाम् अभिन्नश्रुतिचक्षुषाम्।  
 अधर्मार्जितभोगानाम् आशीरप्यहितोचिता॥

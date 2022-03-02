@@ -5,7 +5,7 @@ title = "अकृतस्यागमो नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृतस्यागमो नास्ति कृते नाशो न विद्यते।  
 अकस्मादेव लोकोऽयं तृष्णे दासीकृतस्त्वया॥

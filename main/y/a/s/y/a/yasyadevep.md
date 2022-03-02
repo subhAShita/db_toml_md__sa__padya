@@ -7,7 +7,7 @@ title = "यस्य देवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ।  
 तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः  ॥

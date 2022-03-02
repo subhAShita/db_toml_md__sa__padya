@@ -6,7 +6,7 @@ title = "कोटिद्वयस्य लाभेऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोटिद्वयस्य लाभेऽपि नतं सद्वंशजं धनुः।  
 असद्वंश्यः शरः स्तब्धो लक्षलाभाभिकाङ्क्षया॥

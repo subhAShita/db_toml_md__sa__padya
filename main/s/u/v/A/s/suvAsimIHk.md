@@ -7,7 +7,7 @@ title = "सुवासिनीः कुमारीश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवासिनीः कुमारीश्च रोगिणो गर्भिणीः स्त्रियः ।  
 अतिथिभ्योऽग्र एवैतान् भोजयेदविचारयन् ॥

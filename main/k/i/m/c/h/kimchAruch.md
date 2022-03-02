@@ -6,7 +6,7 @@ title = "किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं चारुचारित्रविलासशून्याः कुर्वन्ति भूपाः कविसंग्रहेण।  
 किं जातु गुञ्जाफलभूषणानां सुवर्णकारेण वनेचराणाम्॥

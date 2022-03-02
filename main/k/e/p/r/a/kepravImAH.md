@@ -6,7 +6,7 @@ title = "के प्रवीणाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 के प्रवीणाः कुतो हीनं जीर्णं वासोंऽशुमांश्च कः।  
 निराकरिष्णवो बाह्यं योगाचाराश्च कीदृशाः॥

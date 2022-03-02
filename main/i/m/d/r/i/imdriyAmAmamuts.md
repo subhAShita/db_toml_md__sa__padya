@@ -5,7 +5,7 @@ title = "इन्द्रियाणामनुत्सर्गो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणामनुत्सर्गो मृत्युना न विशिष्यते।  
 अत्यर्थं पुनरुत्सर्गः सादयेद् दैवतान्यपि॥

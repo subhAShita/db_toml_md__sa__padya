@@ -6,7 +6,7 @@ title = "मूलभृत्यान्परित्यज्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूलभृत्यान्परित्यज्य नागन्तून्प्रतिमानयेत्।  
 नातः परतरो दोषो राज्यभेदकरो यतः॥

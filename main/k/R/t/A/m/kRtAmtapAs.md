@@ -6,7 +6,7 @@ title = "कृतान्तपाशबद्धानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतान्तपाशबद्धानां दैवोपहतचेतसाम्।  
 बुद्धयः कुब्जगामिन्यो भवन्ति महतामपि॥

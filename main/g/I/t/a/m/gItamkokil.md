@@ -6,7 +6,7 @@ title = "गीतं कोकिल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गीतं कोकिल ते मुदा रसविदः शृण्वन्ति कर्णामृतम्  
 नो किञ्चिद् वितरन्ति ते तरु-दलैर् एव स्वयं जीवसि ।  

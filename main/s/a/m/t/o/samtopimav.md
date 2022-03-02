@@ -6,7 +6,7 @@ title = "सन्तोऽपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तोऽपि न विराजन्ते हीनार्थस्येतरे गुणाः।  
 आदित्य इव भूतानां श्रीर्गुणानां प्रकाशिनी॥

@@ -5,7 +5,7 @@ title = "कामक्रोधं तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामक्रोधं तथा लोभं स्वादु शृङ्गारकौतुके।  
 अतिनिद्रातिसेवे च विद्यार्थी ह्यष्ट वर्जयेत्॥

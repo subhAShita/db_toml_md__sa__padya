@@ -5,7 +5,7 @@ title = "उत्साहशक्तिहीनत्वाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्साहशक्तिहीनत्वाद् वृद्धो दीर्घामयस् तथा।  
 स्वैरेव परिभूयेते द्वावप्येतावसंशयम्॥

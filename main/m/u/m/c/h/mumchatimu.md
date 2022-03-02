@@ -6,7 +6,7 @@ title = "मुञ्चति मुञ्चति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुञ्चति मुञ्चति कोषं भजति च भजति प्रकम्पमरिवर्गः।  
 हम्मीरवीरखड्गे त्यजति त्यजति क्षमामाशु॥

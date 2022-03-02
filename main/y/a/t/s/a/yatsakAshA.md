@@ -6,7 +6,7 @@ title = "यत्सकाशान्न लाभः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्सकाशान्न लाभः स्यात्केवलाः स्युर्विपत्तयः।  
 स स्वामी दूरतस्त्याज्यो विशेषादनुजीविभिः॥

@@ -5,7 +5,7 @@ title = "उच्चासनगतो नीचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उच्चासनगतो नीचः नीच एव न चोत्तमः।  
 प्रसादशिखरस्थोऽपि काकः किं गरुडायते॥

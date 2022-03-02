@@ -5,7 +5,7 @@ title = "उज्झितवृषयोगा अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उज्झितवृषयोगा अपि रतिसमये नरविशेषनिरपेक्षाः।  
 कृष्णौकाभिरता अपि हिरण्यकशिपुप्रियाः सततम्॥

@@ -7,7 +7,7 @@ title = "कुचकुम्भौ समालम्ब्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुचकुम्भौ समालम्ब्य तरन्ती कान्तिनिम्नगाम्।  
 भ्रमादितस्ततो दृष्ट्वा दृष्टिर्नाभौ निमज्जति॥

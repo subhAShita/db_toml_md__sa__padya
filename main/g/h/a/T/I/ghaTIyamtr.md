@@ -7,7 +7,7 @@ title = "घटीयन्त्रायते हारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घटीयन्त्रायते हारो नाभिकूपे मृगीदृशः।  
 संसेक्तुमिव लावण्यपयसा यौवनद्रुमम्॥

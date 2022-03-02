@@ -5,7 +5,7 @@ title = "ऋणत्रयं द्विजातीनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणत्रयं द्विजातीनां जन्मनः प्रभृति स्थितम्।  
 ऋणान्तरभृतां पुंसां जीवनं जीवनं विना॥

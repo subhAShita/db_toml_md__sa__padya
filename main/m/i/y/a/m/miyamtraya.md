@@ -7,7 +7,7 @@ title = "नियन्त्रयतु को"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नियन्त्रयतु को वा नः कवीनुच्छिन्नशृङ्खलान् ।  
 विधेरेव ललाटेषु लिखामः कलमैर्लिपिम् ॥

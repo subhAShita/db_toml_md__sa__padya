@@ -5,7 +5,7 @@ title = "आर्ये कर्मणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्ये कर्मणि युञ्जानः पापे वा पुनरीश्वरः।  
 व्याप्य भूतानि चरते न चायमिति लक्ष्यते॥

@@ -7,7 +7,7 @@ title = "निगदितनयविपरीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निगदित-नय-विपरीतं    
 देशविरुद्धं वदन्ति विद्वांसः तत्परिहार्यम् ।  

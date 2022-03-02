@@ -5,7 +5,7 @@ title = "अनास्वादितसम्भोगाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनास्वादितसंभोगाः पतन्तु तव शत्रवः।  
 बालवैधव्यदग्धानां कुलस्त्रीणां स्तना इव॥

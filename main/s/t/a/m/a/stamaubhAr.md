@@ -7,7 +7,7 @@ title = "स्तनौ भारार्पणव्यग्रौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनौ भारार्पणव्यग्रौ काञ्ची कलकलोन्मुखी।  
 कस्यां दिशि न मध्यस्य तस्याः कार्श्यं सहेतुकम्॥

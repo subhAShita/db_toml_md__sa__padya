@@ -6,7 +6,7 @@ title = "कौ शङ्करस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौ शङ्करस्य वलयावपयोधरः कः कीदृक्परस्य नियतं वशमेति  
 

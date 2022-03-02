@@ -6,7 +6,7 @@ title = "कलाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलाभ्यां चूडालङ्कृतशशिकलाभ्यां निजतपः-  
 फलाभ्यां भक्तेषु प्रकटितफलाभ्यां भवतु मे  

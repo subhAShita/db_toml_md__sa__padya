@@ -6,7 +6,7 @@ title = "रूढस्य सिन्धुतटमनु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रूढस्य सिन्धुतटमनु तस्य तृणस्यापि जन्म कल्याणम्।  
 यत्सलिलमज्जदाकुलजनस्य हस्तावलम्बनं भवति॥

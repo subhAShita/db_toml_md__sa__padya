@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0372", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१५ वियोगिन्या विप्रलापाः// 7",]
-jsonClass = "Subhaashita"
 topics = [ "विलापः - वियोगे",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अजनि प्रतिदिनमेषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजनि प्रतिदिनमेषा कर्दमशेषा मदङ्गसङ्गेन।  
 प्रतिनिशमपूरि पम्पा दक्षिणसंपातिभिः सलिलैः॥

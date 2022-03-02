@@ -5,7 +5,7 @@ title = "अष्टादश तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टादश तथा मध्ये हीने चैव चतुर्दश।  
 सप्ताङ्गुलः खुरः प्रोक्त उत्तमाश्वस्य पण्डितैः॥

@@ -6,7 +6,7 @@ title = "धर्म एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः ।  
 तस्माद् धर्मो न हन्तव्यो मा नो धर्मो हतोऽवधीत् ॥

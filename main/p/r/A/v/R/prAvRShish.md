@@ -6,7 +6,7 @@ title = "प्रावृषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रावृषि शैलश्रेणीनितम्बमुज्झन्दिगन्तरं भ्रमसि।  
 चपलान्तर घन किं तव वचनीयं पवनवश्योऽसि॥

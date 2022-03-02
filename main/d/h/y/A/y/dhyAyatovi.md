@@ -6,7 +6,7 @@ title = "ध्यायतो विषयान्पुंसः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।  
 सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥

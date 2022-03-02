@@ -3,11 +3,11 @@ topics = [ "सज्जनः", "आक्षेपः", "व्रतम्", 
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 182",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "व्रते विवादं,"
+title = "व्रते विवादम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्रते विवादं विमतिं विवेके सत्येऽतिशङ्कां विनये विकारम्।  
 गुणेऽवमानं कुशले निषेधं धर्मे विरोधं न करोति साधुः॥

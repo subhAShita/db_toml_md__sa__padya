@@ -5,7 +5,7 @@ title = "काम्याः क्रियास्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काम्याः क्रियास् तथा कामान् मानुषानभिवाञ्छति।  
 स्त्रियो दानफलं विद्यां मायां कुप्यं धनं दिवम्॥

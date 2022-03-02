@@ -6,7 +6,7 @@ title = "धातुवादेषु वित्ताशा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धातुवादेषु वित्ताशा मोक्षाशा कौलिके मते।  
 जामातरि च पुत्राशा त्रयमेतन्निरर्थकम्॥

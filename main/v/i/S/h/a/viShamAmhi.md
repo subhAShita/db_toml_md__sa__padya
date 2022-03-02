@@ -6,7 +6,7 @@ title = "विषमां हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषमां हि दशां प्राप्य   
 दैवं गर्हयते नरः ।  

@@ -6,7 +6,7 @@ title = "पटुत्वं सत्यवादित्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पटुत्वं सत्यवादित्वं कथायोगेन बुध्यते।  
 अस्तब्धत्वमचापल्यं प्रत्यक्षेणावगम्यते॥

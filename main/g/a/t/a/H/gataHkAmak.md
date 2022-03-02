@@ -6,7 +6,7 @@ title = "गतः कामकथोन्मादो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतः कामकथोन्मादो गलितो यौवनज्वरः।  
 गतो मोहश्च्युता तृष्णा कृतं पुण्याश्रमे मनः॥

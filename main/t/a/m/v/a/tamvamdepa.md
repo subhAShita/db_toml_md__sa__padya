@@ -6,7 +6,7 @@ title = "तं वन्दे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तं वन्दे पद्मसद्मानमुपवीतच्छटाछलात्।  
 गङ्गा स्रोतस्त्रयेणैव यं सदैव निषेवते॥

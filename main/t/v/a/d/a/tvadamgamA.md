@@ -7,7 +7,7 @@ title = "त्वदङ्गमार्दवे दृष्टे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वदङ्गमार्दवे दृष्टे कस्य चित्ते न भासते।  
 मालतीशशभृल्लेखाकदलीनां कठोरता॥

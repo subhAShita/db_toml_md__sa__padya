@@ -6,7 +6,7 @@ title = "खड्गा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गा रुधिरसंलिप्ताश्चण्डाम्शुकरभासुराः।  
 इतस्ततोऽपि वीराणां वैद्युतं वैभवं दधुः॥

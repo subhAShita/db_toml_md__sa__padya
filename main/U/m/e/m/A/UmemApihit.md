@@ -5,7 +5,7 @@ title = "ऊनेनापि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊनेनापि हि तुच्छेन वैरिणापि कथंचन।  
 मैत्री बुद्धिमता कार्या आपद्यपि निवर्तते॥

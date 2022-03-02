@@ -5,7 +5,7 @@ title = "अतिरुपवती सीता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिरुपवती सीता अतिगर्वी च रावणः।  
 अतीव बलवान् रामो लङ्कायेन क्षयं गता॥

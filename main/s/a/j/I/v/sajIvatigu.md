@@ -6,7 +6,7 @@ title = "स जीवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स जीवति गुणा यस्य धर्मो यस्य स जीवति।  
 गुणधर्मविहीनो यो निष्फलं तस्य जीवितम्॥

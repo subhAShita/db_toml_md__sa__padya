@@ -6,7 +6,7 @@ title = "याचमानजनमानसवृत्तेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 याचमानजनमानसवृत्तेः पूरणाय बत जन्म न यस्य।  
 तेन भूमिरतिभारवतीयं न द्रुमैर्न गिरिभिर्न समुद्रैः॥

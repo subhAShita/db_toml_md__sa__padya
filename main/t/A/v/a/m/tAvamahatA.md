@@ -6,7 +6,7 @@ title = "तावन्महतां महती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावन्महतां महती यावत्किमपि हि न याच्यते लोकम्।  
 बलिमनुयाचनसमये श्रीपतिरपि वामनो जातः॥

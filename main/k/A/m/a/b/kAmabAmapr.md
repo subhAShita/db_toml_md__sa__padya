@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9608", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// ०१ स्मितम्// 207",]
-jsonClass = "Subhaashita"
 topics = [ "स्मितम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कामबाणप्रहारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामबाणप्रहारेण मूर्च्छितानि पदे पदे।  
 जीवन्ति युवचेतांसि युवतीनां स्मितामृतैः॥

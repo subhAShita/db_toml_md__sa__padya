@@ -5,7 +5,7 @@ title = "इदमम्लानमानाया लग्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमम्लानमानाया लग्नं स्तनतटे तव।  
 छाद्यतामुत्तरीयेण नवं नखपदं सखि॥

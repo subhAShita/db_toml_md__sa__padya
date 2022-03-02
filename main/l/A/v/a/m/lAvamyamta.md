@@ -6,7 +6,7 @@ title = "लावण्यं तदसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लावण्यं तदसौ कान्तिस्तद्रूपं स वचःक्रमः।  
 तदा सुधास्पदमभूदधुना तु ज्वरो महान्॥

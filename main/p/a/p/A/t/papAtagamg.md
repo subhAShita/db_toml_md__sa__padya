@@ -7,7 +7,7 @@ title = "पपात गङ्गा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पपात गङ्गा हरमौलिसङ्गादन्धन्तमोभूतमपेतबन्धम्।  
 तडिल्लता चञ्चलतामहासीदस्पन्दमासीदरविन्दयुग्मम्॥

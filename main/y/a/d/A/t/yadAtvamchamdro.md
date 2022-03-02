@@ -6,7 +6,7 @@ title = "यदा त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदा त्वं चन्द्रो ऽभूर् अविकलकलापेशलवपुस्  
 तदाऽहं जाताऽऽर्द्रा शशधरमणीनां प्रतिकृतिः /  

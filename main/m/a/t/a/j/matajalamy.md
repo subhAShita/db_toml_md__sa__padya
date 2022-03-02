@@ -7,7 +7,7 @@ title = "न तज्जलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न तज्जलं यन्न सुचारुपङ्कजं न पङ्कजं तद्यदलीनषट्पदम्।  
 न षट्पदोऽसौ कलगुञ्जितो न यो न गुञ्जितं तन्न जहार यन्मनः॥

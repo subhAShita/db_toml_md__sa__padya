@@ -6,7 +6,7 @@ title = "सरोरुहानां सदृशा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरोरुहानां सदृशा कान्तिर्यस्य.)  
 

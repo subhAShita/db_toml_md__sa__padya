@@ -6,7 +6,7 @@ title = "जयति जटाकिञ्जल्कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयति जटाकिञ्जल्कं गङ्गामधु मुण्डवलयबीजमयम्।  
 गलगरलपङ्कसम्भवमम्भोरुहमाननं शम्भोः॥

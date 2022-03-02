@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7719", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 04 कूटानि// 19",]
-jsonClass = "Subhaashita"
 types = [ "कूटम्",]
+jsonClass = "Subhaashita"
 title = "एकोना विंशतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोना विंशतिः स्त्रीणां स्नानार्थं सरयूं गता।  
 विंशतिः पुनरायाता एको व्याघ्रेण भक्षितः॥

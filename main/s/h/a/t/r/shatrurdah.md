@@ -6,7 +6,7 @@ title = "शत्रुर्दहति संयोगे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शत्रुर्दहति संयोगे वियोगे मित्त्रमप्यहो।  
 उभयोर्दुःखदायित्वं को भेदः शत्रुमित्त्रयोः॥

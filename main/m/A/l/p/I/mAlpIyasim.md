@@ -6,7 +6,7 @@ title = "नाल्पीयसि निबध्नन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाल्पीयसि निबध्नन्ति पदमुन्नतचेतसः।  
 येषां भुवनलाभेऽपि निःसीमानो मनोरथाः॥

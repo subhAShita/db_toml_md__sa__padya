@@ -6,7 +6,7 @@ title = "चित्रास्वाती गतावर्षाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चित्रास्वाती गतावर्षाः प्रसूता गतयौवना।  
 प्रवासी गतसौख्यश्च याचना गतगौरवा॥

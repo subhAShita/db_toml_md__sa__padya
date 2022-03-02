@@ -5,7 +5,7 @@ title = "उपचरिताप्यतिमात्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपचरिताप्यतिमात्रं पण्यवधूः क्षीणसंपदः पुंसः।  
 पातयति दृशं व्रजतः स्पृहया परिधानमात्रेऽपि॥

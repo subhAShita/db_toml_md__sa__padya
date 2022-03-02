@@ -6,7 +6,7 @@ title = "जातमात्रं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जातमात्रं न यः शत्रुं व्याधिं वा प्रशमं नयेत्।  
 अतिपुष्टाङ्गयुक्तोऽपि स पश्चात्तेन हन्यते॥

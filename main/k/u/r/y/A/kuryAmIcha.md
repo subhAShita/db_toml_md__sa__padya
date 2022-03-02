@@ -6,7 +6,7 @@ title = "कुर्यान्नीचजनाभ्यस्तां न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्यान्नीचजनाभ्यस्तां न याञ्चां मानहारिणीम्।  
 बलिप्रार्थनया प्राप लघुतां पुरुषोत्तमः॥

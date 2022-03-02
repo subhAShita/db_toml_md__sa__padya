@@ -6,7 +6,7 @@ title = "य एवादिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 य एवादिः स एवान्तो मध्ये भवति मध्यमः।  
 य एतन्नाभिजानीयात्तृणमात्रं न वेत्ति सः॥

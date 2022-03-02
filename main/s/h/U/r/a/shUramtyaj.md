@@ -6,7 +6,7 @@ title = "शूरं त्यजामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शूरं त्यजामि वैधव्यादुदारं लज्जया पुनः।  
 सापत्न्यात्पण्डितमपि तस्मात्कृपणमाश्रये॥

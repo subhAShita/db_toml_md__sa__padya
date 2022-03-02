@@ -6,7 +6,7 @@ title = "तृणानि भूमिरुदकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृणानि भूमिरुदकं वाक्चतुर्थी च सूनृता।  
 एतान्यपि सतां गेहे नोच्छिद्यन्ते कदाचन॥

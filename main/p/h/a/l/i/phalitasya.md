@@ -6,7 +6,7 @@ title = "फलितस्य रसालशाखिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फलितस्य रसालशाखिनः फलदानव्यसनैकशालिनः।  
 विनिपत्य ददातु कः फलं श्रमसुप्ताध्वगपाणिपल्लवे॥

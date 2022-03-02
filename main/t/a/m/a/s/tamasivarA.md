@@ -6,7 +6,7 @@ title = "तमसि वराकश्चौरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तमसि वराकश्चौरो हाहाकारेण याति सन्त्रस्तः।  
 गायनचौः कपटो हा हा कृत्वा न याति लक्ष्यं च॥

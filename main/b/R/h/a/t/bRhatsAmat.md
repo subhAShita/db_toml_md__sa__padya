@@ -7,7 +7,7 @@ title = "बृहत्साम तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बृहत्साम तथा साम्नां गायत्री छन्दसामहम्।  
 मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः॥

@@ -6,7 +6,7 @@ title = "स्वभावकठिनस्यास्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वभावकठिनस्यास्य कृत्रिमां बिभ्रतो नतिम्।  
 गुणोऽपि परहिंसायै चापस्य च खलस्य च॥

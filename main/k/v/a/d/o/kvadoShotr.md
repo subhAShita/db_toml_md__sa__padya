@@ -6,7 +6,7 @@ title = "क्व दोषोऽत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्व दोषोऽत्र मया लभ्य इति संचिन्त्य चेतसा।  
 खलः काव्येषु साधूनां श्रवणाय प्रवर्तते॥

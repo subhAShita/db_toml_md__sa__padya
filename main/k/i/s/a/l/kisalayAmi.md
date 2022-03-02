@@ -6,7 +6,7 @@ title = "किसलयानि कुतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किसलयानि कुतः कुसुमानि वा क्व च फलानि तथा नववीरुधाम्।  
 अयमकारणकारुणिको न चेद्वितरतीह पयांसि पयोधरः॥

@@ -6,7 +6,7 @@ title = "वस्त्रहीनस्त्वलङ्कारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वस्त्रहीनस्त्वलङ्कारो घृतहीनं च भोजनम्।  
 स्तनहीना च या नारी विद्याहीनं च जीवनम्॥

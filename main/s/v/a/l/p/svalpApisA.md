@@ -6,7 +6,7 @@ title = "स्वल्पापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वल्पापि साधुसम्पद्भोग्या महतां न पृथ्व्यपि खलश्रीः।  
 सारसमेव पयस्तृषमपहरति न वारिधेर्जातु॥

@@ -7,7 +7,7 @@ title = "विद्वान् वसति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्वान् वसति विद्वत्सु मूर्खेषु मूर्ख एव हि।  
 वायस ईहते कुत्र कदाचित्कोकिलायितुम्॥

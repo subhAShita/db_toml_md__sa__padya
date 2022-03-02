@@ -6,7 +6,7 @@ title = "लोहितायति चादित्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोहितायति चादित्ये त्वरमाणो धनञ्जयः।  
 पञ्चविंशतिसाहस्रान्निजघान महारथान्॥

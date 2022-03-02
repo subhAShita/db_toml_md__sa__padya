@@ -5,7 +5,7 @@ title = "अनिर्वेदो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्वेदो हि सततं सर्वार्थेषु प्रवर्तकः।  
 करोति सफलं जन्तोः कर्म यच्च करोति सः॥

@@ -6,7 +6,7 @@ title = "ये श्रमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये श्रमं हर्तुमीहन्ते महतां चिरसंभृतम्।  
 वन्द्यास्तेऽसरलात्मानो दुर्जनाः सज्जना इव॥

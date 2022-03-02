@@ -6,7 +6,7 @@ title = "क्षणमप्यनुगृह्णाति यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षणमप्यनुगृह्णाति यं दृष्टिस्तेऽनुरागिणी।  
 ईर्ष्ययेव त्यजत्याशु तं नरेन्द्र दरिद्रता॥

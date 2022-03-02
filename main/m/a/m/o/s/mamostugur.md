@@ -7,7 +7,7 @@ title = "नमोऽस्तु गुरवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमोऽस्तु गुरवे तस्मै वटमूलनिवासिने ।  
 स्वोपदेष्टव्यतत्त्वस्य स्वतो रूपमधिष्ठितः ॥

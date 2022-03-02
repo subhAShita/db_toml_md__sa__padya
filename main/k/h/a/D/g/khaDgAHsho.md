@@ -6,7 +6,7 @@ title = "खड्गाः शोणितसन्दिग्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गाः शोणितसन्दिग्धा नृत्यन्तो वीरपाणिषु।  
 रजोघने रणेऽनन्ते विद्युतां विभ्रमं दधुः॥

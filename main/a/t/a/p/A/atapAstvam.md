@@ -7,7 +7,7 @@ title = "अतपास्त्वनधीयानः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतपास्त्वनधीयानः प्रतिग्रहरुचिर्द्विजः ।  
 अम्भस्यश्मप्लवेनैव सह तेनैव मज्जति ॥  

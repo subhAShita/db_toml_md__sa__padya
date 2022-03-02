@@ -6,7 +6,7 @@ title = "ऋणशेषश्चाग्निशेषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणशेषश्चाग्निशेषः शत्रुशेषस्तथैव च।  
 पुनः पुनः प्रवर्तन्ते तस्माच्छेषं न रक्षयेत्॥

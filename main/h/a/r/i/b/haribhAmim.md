@@ -6,7 +6,7 @@ title = "हरिभामिनि सिन्धुसम्भवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरिभामिनि सिन्धुसंभवे कमले किं कथयामि ते गुणान्।  
 अनुरज्यसि हा जडे जने गुणगौरे पुरुषे विरज्यसि॥

@@ -6,7 +6,7 @@ title = "यदचेतनोऽपि पादैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदचेतनोऽपि पादैः स्पृष्टः प्रज्वलति सवितुरिनकान्तः।  
 तत्तेजस्वी पुरुषः परकृतनिकृतिं कथं सहते॥

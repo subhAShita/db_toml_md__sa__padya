@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9227", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 29",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
-title = "कस्मिन्वसन्ति वद"
+jsonClass = "Subhaashita"
+title = "कस्मिन् वसन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्मिन् वसन्ति वद मीनगणा विकल्पं किं वापदं वदति किं कुरुते विवस्वान्।  
 विद्युल्लतावलयवान् पथिकाङ्गनानाम् उद्वेजको भवति कः खलु वारिवाहः॥

@@ -7,7 +7,7 @@ title = "नमो गुहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमो गुहाय भक्तेभ्यः प्रत्यहं यस्य शंसति ।  
 "विबुध्यध्वं तमो नष्ट"मिति ध्वज-नखायुधः ॥

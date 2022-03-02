@@ -6,7 +6,7 @@ title = "येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येन भिन्नकरिकुम्भविस्खलन्मौक्तिकावलिभिरञ्चिता मही।  
 अद्य तेन हरिणान्तिके कथं कथ्यतां नु हरिणा पराक्रमः॥

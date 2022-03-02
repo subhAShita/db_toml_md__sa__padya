@@ -6,7 +6,7 @@ title = "विक्रीतं निजमात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विक्रीतं निजमात्मानं वस्त्रैः संस्कुरुते जडः।  
 परेभ्यः स्वशरीरस्य के वा भूषां वितन्वते॥

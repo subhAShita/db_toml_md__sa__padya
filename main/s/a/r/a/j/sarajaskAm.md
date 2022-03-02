@@ -6,7 +6,7 @@ title = "सरजस्कां पाण्डुवर्णाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरजस्कां पाण्डुवर्णां कण्टकप्रकराङ्किताम्।  
 केतकीं सेवसे हन्त कथं रोलम्ब निस्त्रप॥

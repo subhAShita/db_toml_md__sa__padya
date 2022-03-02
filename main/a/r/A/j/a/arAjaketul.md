@@ -5,7 +5,7 @@ title = "अराजके तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अराजके तु लोकेऽस्मिंस् तस्माद् राजा विधीयताम्।  
 राजा राज्ये चिरं रक्षां कृत्वा स्वर्गमवाप्नुयात्॥

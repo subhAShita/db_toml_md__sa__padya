@@ -5,7 +5,7 @@ title = "आत्म्यौपम्येन सर्वत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्म्यौपम्येन सर्वत्र समं पश्यति योऽर्जुन।  
 सुखं वा यदि वा दुःखं स योगी परमो मतः॥

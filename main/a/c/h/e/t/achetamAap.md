@@ -5,7 +5,7 @@ title = "अचेतना अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचेतना अपि प्रायो मैत्रीमेवानुबध्यते।  
 स्ववृद्धात् क्षीयते क्षीरात् क्षीरात् प्रागेव वारिणा॥

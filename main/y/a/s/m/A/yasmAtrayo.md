@@ -7,7 +7,7 @@ title = "यस्मात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मात् त्रयोऽप्याश्रमिणो ज्ञानेनान्नेन चान्वहम् ।  
 गृहस्थेनैव धार्यन्ते तस्माज् ज्येष्ठाश्रमो गृही ॥  

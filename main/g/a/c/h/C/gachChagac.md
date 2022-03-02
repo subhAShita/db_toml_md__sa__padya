@@ -2,13 +2,13 @@
 topics = [ "नायक-संलापः", "प्रणयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ६५ नायकं प्रति नायिकोक्तयः// 1",]
 rasas = [ "शृङ्गारः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "गच्छ गच्छसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गच्छ गच्छसि चेत् कान्त पन्थानः सन्तु ते शिवाः।  
 ममापि जन्म तत्रैव भूयाद्यत्र गतो भवान्॥

@@ -7,7 +7,7 @@ title = "वृत्तं भञ्जय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृत्तं भञ्जय निर्दयं कलुषय स्वैरं गुणानुल्बणा-  
 नेतस्या अवतारय द्रुतमलङ्कारान् रसं शोषय ।  

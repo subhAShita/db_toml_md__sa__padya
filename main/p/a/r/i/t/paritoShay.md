@@ -6,7 +6,7 @@ title = "परितोषयिता न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परितोषयिता न कश्चन स्वगतो यस्य गुणोऽस्ति देहिनः।  
 परदोषकथाभिरल्पकः स्वजनं तोषयितुं किलेच्छति॥

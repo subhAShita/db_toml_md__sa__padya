@@ -5,7 +5,7 @@ title = "आराधयति यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आराधयति यं देवं तमुत्कृष्टतरं वदेत्।  
 तन्न्यूनतां नैव कुर्याज् जोषयेत् तस्य सेवनम्॥

@@ -6,7 +6,7 @@ title = "निकटस्थं दहत्यग्निर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निकटस्थं दहत्यग्निर्न तु दूरापसर्पितम्।  
 कुलं दहति राजाग्निः सपशुद्रव्यबान्धवम्॥

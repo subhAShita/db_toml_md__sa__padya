@@ -6,7 +6,7 @@ title = "कोकिल कलमालपैरलमलमालोकसे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोकिल कलमालपैरलमलमालोकसे रसालं किम्।  
 शरनिकरभरितशरधिः शबरः सरतीह परिसरे सधनुः॥

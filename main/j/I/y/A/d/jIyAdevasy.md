@@ -6,15 +6,15 @@ title = "जीयाद्देवस्य"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-Kama was reborn as Pradyumna from Rukmini, Kama = love
+जीयाद्देवस्य कंसारेर्भैष्मकीहरणोद्यमः ।  
+यस्यैक एव कन्दर्पः कारणं कार्यमप्यभूत् ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-जीयाद्देवस्य कंसारेर्भैष्मकीहरणोद्यमः ।  
-यस्यैक एव कन्दर्पः कारणं कार्यमप्यभूत् ॥
+Kama was reborn as Pradyumna from Rukmini, Kama = love
 </details>

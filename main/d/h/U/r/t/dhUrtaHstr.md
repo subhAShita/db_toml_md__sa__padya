@@ -6,7 +6,7 @@ title = "धूर्तः स्त्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धूर्तः स्त्री वा शिशुर्यस्य मन्त्रिणः स्युर्महीपतेः।  
 अनीतिपवनक्षिप्तः कार्याब्दौ स निमज्जति॥

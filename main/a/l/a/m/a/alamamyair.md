@@ -5,7 +5,7 @@ title = "अलमन्यैरुपालम्भैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलमन्यैरुपालम्भैः कीर्तितैश्च व्यतिक्रमैः।  
 पेशलं चानुरूपं च कर्तव्यं हितमात्मनः॥

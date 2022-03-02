@@ -5,7 +5,7 @@ title = "आलस्यं प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलस्यं प्रथमं पश्चाद् व्याधिपीडा प्रजायते।  
 प्रमादः संशयस्थाने चित्तस्येहानवस्थितिः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8431", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ४८ रुद्रः// 171",]
-jsonClass = "Subhaashita"
 topics = [ "राजा", "रुद्रः",]
+jsonClass = "Subhaashita"
 title = "कतिपयदिवसैः क्षयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कतिपयदिवसैः क्षयं प्रयायात् कनकगिरिः कृतवासरावसानः।  
 इति मुदमुपयाति चक्रवाकी वितरणशालिनि वीररुद्रदेवे॥

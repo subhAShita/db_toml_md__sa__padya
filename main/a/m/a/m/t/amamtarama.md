@@ -5,7 +5,7 @@ title = "अनन्तरमरिं वद्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनन्तरमरिं वद्याद् अरिसेविनमेव च अरेरनन्तरं मित्रम् उदासीनं तयोः परम्॥
 </details>

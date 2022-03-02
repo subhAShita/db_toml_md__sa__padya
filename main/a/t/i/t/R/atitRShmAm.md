@@ -5,7 +5,7 @@ title = "अतितृष्णा न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतितृष्णा न कर्तव्या तृष्णां नैव परित्यजेत्।  
 अतितृष्णाभिभूतस्य शिखा भवति मस्तके॥

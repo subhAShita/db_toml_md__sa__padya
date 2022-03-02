@@ -7,7 +7,7 @@ title = "पपात मेरोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पपात मेरोः सुरसिन्धुधारा ववर्ष तारागणमन्धकारः।  
 बभूव भृङ्गावलिरप्यकम्पा शशाम शम्पालतिकाविलासः॥

@@ -6,7 +6,7 @@ title = "बन्धुः को"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बन्धुः को नाम दुष्टानां कुप्येत्को नातियाचितः।  
 को न तृप्यति वित्तेन कुकृत्ये को न पण्डितः॥

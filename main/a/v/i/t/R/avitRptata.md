@@ -5,7 +5,7 @@ title = "अवितृप्ततया तथापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवितृप्ततया तथापि मे हृदयं निर्णयमेव धावति।  
 अवसाययितुं क्षमाः सुखं न विधेयेषु विशेषसंपदः॥

@@ -7,7 +7,7 @@ title = "न मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न मे दुःखं प्रिया दूरे न मे दुःखं हृतेति सा।  
 एतदेवानुशोचामि वयोऽस्या ह्यतिवर्तते॥

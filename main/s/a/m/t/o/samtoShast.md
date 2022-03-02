@@ -6,7 +6,7 @@ title = "सन्तोषस्त्रिषु कर्तव्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तोषस्त्रिषु कर्तव्यः स्वदारे भोजने धने।  
 त्रिषु चैव न कर्तव्यो दाने तपसि पाठने॥

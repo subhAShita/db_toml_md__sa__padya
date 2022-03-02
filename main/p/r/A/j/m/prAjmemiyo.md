@@ -6,7 +6,7 @@ title = "प्राज्ञे नियोज्यमाने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राज्ञे नियोज्यमाने तु सन्ति राज्ञस्त्रयो गुणाः।  
 यशः स्वर्गनिवासश्च विपुलश्च धनागमः॥

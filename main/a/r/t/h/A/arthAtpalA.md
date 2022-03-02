@@ -5,7 +5,7 @@ title = "अर्थात् पलायते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थात् पलायते ज्ञानं मार्जारान्मूषिको यथा।  
 वकवत् ज्ञायतामर्थः सिंहवच्च जयेद्रिपुम्॥

@@ -5,7 +5,7 @@ title = "कर्मेन्धनं समाश्रित्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मेन्धनं समाश्रित्य दृढा सद्भावनाहुतिः।  
 धर्मध्यानाग्निना कार्या दीक्षितेनाग्निकारिका॥

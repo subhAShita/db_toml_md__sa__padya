@@ -5,7 +5,7 @@ title = "अतिपक्वकपित्थेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिपक्वकपित्थेन लिप्तपात्रे सुयामितम्।  
 दुग्धमस्तुविहीनं स्याच् चन्द्रबिम्बोपमं दधि॥

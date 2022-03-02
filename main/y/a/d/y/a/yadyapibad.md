@@ -6,7 +6,7 @@ title = "यद्यपि बद्धः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि बद्धः शैलैर्यद्यपि गिरिमथनमुषितसर्वस्वः।  
 तदपि परभीतभूधररक्षायां दीक्षितो जलधिः॥

@@ -6,7 +6,7 @@ title = "तृणं ब्रह्मविदः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृणं ब्रह्मविदः स्वर्गस्तृणं शूरस्य जीवितम्।  
 जिताक्षस्य तृणं नारी निस्पृहस्य तृणं जगत्॥

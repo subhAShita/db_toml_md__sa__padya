@@ -5,7 +5,7 @@ title = "एत एवासयस्तीक्ष्णाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एत एवासयस्तीक्ष्णाः कृन्तन्त्यायूंषि देहिनाम्।  
 एतानि मानवान् घ्नन्ति न मृत्युर्भद्रमस्तु ते॥

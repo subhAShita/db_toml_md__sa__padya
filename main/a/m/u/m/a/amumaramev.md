@@ -5,7 +5,7 @@ title = "अनुमरणे व्यवसायम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुमरणे व्यवसायं स्त्रीधर्मे कः करोति सविवेकः।  
 संसारमुक्त्युपायं दण्डग्रहणं व्रतं हित्वा॥

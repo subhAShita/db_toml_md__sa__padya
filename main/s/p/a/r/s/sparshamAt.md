@@ -7,7 +7,7 @@ title = "स्पर्शमात्रफला ग्रन्थाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्पर्शमात्रफला ग्रन्थाः समयाभावतोऽधुना ।  
 पुत्रवन्नेत्रहीनस्य सन्तीत्येव सुखं मम ॥

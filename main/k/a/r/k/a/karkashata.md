@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8804", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// १५ नैयायिकनिन्दा// 3",]
-jsonClass = "Subhaashita"
 topics = [ "नैयायिकः",]
-title = "कर्कशतर्कविचारव्यग्रः"
+jsonClass = "Subhaashita"
+title = "कर्कशतर्कविचार व्यग्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्कशतर्कविचार- व्यग्रः किं वेत्ति काव्यहृदयानि।  
 ग्राम्य इव कृषिविलग्नश् चञ्चलनयनावचोरहस्यानि॥

@@ -7,7 +7,7 @@ title = "ट विटैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ट [पक्षे] विटैः.
 

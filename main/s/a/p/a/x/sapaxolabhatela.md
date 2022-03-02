@@ -6,7 +6,7 @@ title = "सपक्षो लभते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सपक्षो लभते लक्षं गुणमुक्तोऽपि मार्गणः।  
 न लक्षस्थो विपक्षः स्याद्गुणैरापूर्यते यदि॥

@@ -6,7 +6,7 @@ title = "जम्बूफलानि पक्वानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जम्बूफलानि पक्वानि पतन्ति विमले जले।  
 कपिकम्पितशाखाभ्यो गुलुगुग्गुलुगुग्गुलू॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8661A", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 09 विष्णुः// 12",]
-jsonClass = "Subhaashita"
 topics = [ "विष्णुः",]
-title = "कमलाकुचकनकाचलजलधरमाभीरसुन्दरीमदनम्"
+jsonClass = "Subhaashita"
+title = "कमलाकुचकनकाचल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलाकुचकनकाचल- जलधरमाभीरसुन्दरीमदनम्।  
 अधिततशेषफणावलि- कमलवनीभृङ्गमच्युतं वन्दे॥

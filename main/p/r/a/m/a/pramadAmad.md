@@ -6,7 +6,7 @@ title = "प्रमदा मदिरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रमदा मदिरा लक्ष्मीर्विज्ञेया त्रिविधा सुरा।  
 दृष्ट्वैवोन्मादयत्येका पीता चान्यातिसञ्चयात्॥

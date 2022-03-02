@@ -6,7 +6,7 @@ title = "वज्रं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वज्रं च राजतेजश्च द्वयमेवातिभीषणम्।  
 एकमेकत्र पतति पतत्यन्यत्समन्ततः॥

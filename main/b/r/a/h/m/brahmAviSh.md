@@ -6,7 +6,7 @@ title = "ब्रह्मा विष्णुदिने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्मा विष्णुदिने याति विष्णू रुद्रस्य वासरे।  
 ईश्वरस्य तथा सोऽपि कः कालं लङ्घितुं क्षमः॥

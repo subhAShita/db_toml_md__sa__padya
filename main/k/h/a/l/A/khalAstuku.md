@@ -6,7 +6,7 @@ title = "खलास्तु कुशलाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलास्तु कुशलाः साधु हितप्रत्यूहकर्मणि।  
 निपुणाः फणिनः प्राणानपहर्तुं निरागसाम्॥

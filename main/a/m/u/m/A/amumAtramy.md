@@ -5,7 +5,7 @@ title = "अणुमात्रं यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अणुमात्रं यथा शल्यं शरीरे दुःखदायकम्।  
 तथातिसू . . संयुक्तं मनः संसारदायकम्॥

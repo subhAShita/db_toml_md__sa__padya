@@ -6,7 +6,7 @@ title = "वक्रैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वक्रैः क्रूरतरैर्लुब्धैर्न कुर्यात्प्रीतिसङ्गतिम्।  
 वसिष्ठस्याहरद्धेनुं विश्वामित्त्रो निमन्त्रितः॥

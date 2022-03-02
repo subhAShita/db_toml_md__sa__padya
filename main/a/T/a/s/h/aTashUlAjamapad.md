@@ -6,7 +6,7 @@ title = "अट्टशूला जनपदाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अट्टशूला जनपदाः शिवशूलाश्चतुष्पथाः।  
 प्रमदाः केशशूलिन्यो भविष्यन्ति कलौ युगे॥

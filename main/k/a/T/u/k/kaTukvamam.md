@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8347", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 174",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "कटु क्वणन्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कटु क्वणन्तो मलदायकाः खला- स्तुदन्त्यलं बन्धनशृङ्खला इव।  
 मनस्तु साधुध्वनिभिः पदे पदे हरन्ति सन्तो मणिनूपुरा इव॥

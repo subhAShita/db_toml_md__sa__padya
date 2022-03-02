@@ -5,7 +5,7 @@ title = "अहं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहं च देवनन्दी च कुशाग्रीयधियावुभौ।  
 नैव शब्दाम्बुधेः पारं किमन्ये जडबुद्धयः॥

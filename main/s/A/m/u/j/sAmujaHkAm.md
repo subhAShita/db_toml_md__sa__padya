@@ -6,7 +6,7 @@ title = "सानुजः काननम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सानुजः काननं गत्वा नैकषेयाञ्जघान कः।  
 मध्ये वर्णत्रयं दत्त्वा रावणः कीदृशो वद॥

@@ -6,7 +6,7 @@ title = "जम्भारिरेव जानाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जम्भारिरेव जानाति रम्भासंयोगविभ्रमम्।  
 घटीचेटीविटः किंस्विज्जानात्य मरकामिनीम्॥

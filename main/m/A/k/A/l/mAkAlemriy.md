@@ -6,7 +6,7 @@ title = "नाकाले म्रियते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाकाले म्रियते जन्तुर्विद्धः शरशतैरपि।  
 कुशकण्टकविद्धोऽपि प्राप्तकालो न जीवति॥

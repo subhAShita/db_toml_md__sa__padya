@@ -7,7 +7,7 @@ title = "मुक्ताः पतन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुक्ताः पतन्ति भूमौ बालाः कलयन्ति केवलां मुक्तिम्।  
 चुम्बत्यम्बरमवनिं विपरीते किं न विपरीतम्॥

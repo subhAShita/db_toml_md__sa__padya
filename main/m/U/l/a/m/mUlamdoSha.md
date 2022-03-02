@@ -6,7 +6,7 @@ title = "मूलं दोषस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूलं दोषस्य हिंसादेरर्थकामौ स्म मा मुषः।  
 तौ हि तत्त्वावबोधस्य दुरुच्छेदावुपप्लवौ॥

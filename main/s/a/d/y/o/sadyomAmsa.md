@@ -6,7 +6,7 @@ title = "सद्योमांसं नवान्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सद्योमांसं नवान्नं च बाला स्त्री क्षीरभोजनम्।  
 घृतमुष्णोदकं चैव सद्यः प्राणहराणि षट्॥

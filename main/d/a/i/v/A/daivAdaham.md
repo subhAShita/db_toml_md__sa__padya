@@ -7,7 +7,7 @@ title = "दैवादहमत्र तया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दैवादहमत्र तया चपलायतनेत्रया वियुक्तश्च।  
 अविरलविलोलजलदः कालः समुपागतश्चायम्॥

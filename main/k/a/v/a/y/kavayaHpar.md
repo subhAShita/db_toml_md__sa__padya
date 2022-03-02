@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9092", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 5",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "कवयः परितुष्यन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवयः परितुष्यन्ति नेतरे कविसूक्तिभिः।  
 नह्यकूपारवत् कूपा वर्धन्ते विधुकान्तिभिः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3375", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अविरलकमलविकासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरलकमलविकासः सकलालिमदश्च कोकिलानन्दः।  
 रम्योऽयमेति संप्रति लोकोत्कण्ठाकरः कालः॥

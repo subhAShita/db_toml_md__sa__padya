@@ -5,7 +5,7 @@ title = "अर्धप्रोथस्थिता रेखा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्धप्रोथस्थिता रेखा दृश्यन्ते यस्य वाजिनः।  
 तस्य मृत्युः समुद्दिष्टो दशमं प्राप्य वत्सरम्॥

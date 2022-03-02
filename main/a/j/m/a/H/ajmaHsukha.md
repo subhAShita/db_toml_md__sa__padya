@@ -7,7 +7,7 @@ title = "अज्ञः सुखमाराध्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञः सुखमाराध्यः सुखतरमाराध्यते विशेषज्ञः।  
 ज्ञानलवदुर्विदग्धं ब्रह्मापि नरं न रञ्जयति॥

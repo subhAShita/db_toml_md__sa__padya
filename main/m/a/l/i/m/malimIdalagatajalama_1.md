@@ -6,9 +6,8 @@ title = "नलिनीदलगतजलमतितरलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नलिनीदलगतजलमतितरलं  
-तद्वज्जीवितमतिशयचपलम् ।  
-
+तद्वज्जीवितमतिशयचपलम् ।
 </details>

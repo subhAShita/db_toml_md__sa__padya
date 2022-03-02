@@ -6,7 +6,7 @@ title = "स्थायिनोऽर्थे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थायिनोऽर्थे प्रवर्तन्ते भावाः सञ्चारिणो यथा।  
 रसस्यैकस्य भूयांसस्तथा नेतुर्महीभृतः॥

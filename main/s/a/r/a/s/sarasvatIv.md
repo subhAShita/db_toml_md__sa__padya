@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २५ विजया// 53",]
-jsonClass = "Subhaashita"
 topics = [ "विजया",]
+jsonClass = "Subhaashita"
 title = "सरस्वतीव कार्णाटी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरस्वतीव कार्णाटी विजयाङ्का जयत्यसौ।  
 या वैदर्भगिरां वासः कालिदासादनन्तरम्॥

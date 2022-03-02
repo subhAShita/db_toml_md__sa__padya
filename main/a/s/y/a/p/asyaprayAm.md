@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3962", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०९ राजयात्रावर्णनम्// 5",]
-jsonClass = "Subhaashita"
 topics = [ "राजयात्रा",]
+jsonClass = "Subhaashita"
 title = "अस्य प्रयाणेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्य प्रयाणेषु समग्रशक्तेर् अग्रेसरैर्वाजिभिरुत्थितानि।  
 कुर्वन्ति सामन्तशिखामणीनां प्रभाप्ररोहास्तमयं रजांसि॥

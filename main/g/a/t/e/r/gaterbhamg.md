@@ -6,7 +6,7 @@ title = "गतेर्भङ्गः स्वरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतेर्भङ्गः स्वरो हीनो गात्रे स्वेदो महद्भयम्।  
 मरणे यानि चिह्नानि तानि चिह्नानि याचके॥

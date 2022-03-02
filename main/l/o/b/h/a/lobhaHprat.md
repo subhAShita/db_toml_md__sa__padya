@@ -6,7 +6,7 @@ title = "लोभः प्रतिष्ठा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोभः प्रतिष्ठा पापस्य प्रसूतिर्लोभ एव च।  
 द्वेषक्रोधादिजनको लोभः पापस्य कारणम्॥

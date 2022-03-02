@@ -7,7 +7,7 @@ title = "त्वयि दृष्ट"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वयि दृष्ट एव तस्या निर्वाति मनो मनोभवज्वलितम्।  
 आलोके हि हिमांशोर्विकसति कुमुदं कुमुद्वत्याः॥

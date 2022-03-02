@@ -6,7 +6,7 @@ title = "व्यालम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यालं बालमृणालतन्तुभिरसौ रोद्धुं समुज्जृम्भते  
 छेत्तुं वज्रमणिं शिरीषकुसुमप्रान्तेन सन्नह्यति I  

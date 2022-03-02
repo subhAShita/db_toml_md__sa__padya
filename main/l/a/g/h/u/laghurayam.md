@@ -6,7 +6,7 @@ title = "लघुरयमाह न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लघुरयमाह न लोकः कामं गर्जन्तमपि पतिं पयसाम्।  
 सर्वमलज्जाकरमिह यत्कुर्वन्तीह परिपूर्णाः॥

@@ -6,7 +6,7 @@ title = "सैव युक्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सैव युक्ता पुनर्युङ्क्ते   
 निद्रा देहं सुखाऽऽयुषा ।  

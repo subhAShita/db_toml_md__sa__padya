@@ -6,7 +6,7 @@ title = "नृपतिनिजाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नृपतिनिजाम तवाद्भुतचरणार्पणबहलपीडाभिः।  
 रचयति बहिरिव रसनामरुणध्वजकैतवादवनिः॥

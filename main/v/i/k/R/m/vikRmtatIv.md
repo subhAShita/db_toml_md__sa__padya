@@ -6,7 +6,7 @@ title = "विकृन्ततीव मर्माणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विकृन्ततीव मर्माणि देहं शोषयतीव मे।  
 दहतीवान्तरात्मानं क्रूरः शोकाग्निरुत्थितः॥

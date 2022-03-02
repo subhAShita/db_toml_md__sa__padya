@@ -7,7 +7,7 @@ title = "स्थूणायामतिसङ्कटेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थूणायामतिसङ्कटेन विकटां कण्ठीरवास्याकृतिं  
 निक्षिप्य प्रभुरम्बुजातकलिकान्तःपत्रपालीमिव।  

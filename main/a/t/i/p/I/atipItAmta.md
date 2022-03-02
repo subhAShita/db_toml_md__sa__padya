@@ -5,7 +5,7 @@ title = "अतिपीतां तमोराजीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिपीतां तमोराजीं तनीयान् सोढुमक्षमः।  
 वमतीव शनैरेष प्रदीपः कज्जलच्छलात्॥

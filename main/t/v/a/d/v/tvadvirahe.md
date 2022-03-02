@@ -7,7 +7,7 @@ title = "त्वद्विरहे विस्तारितरजनौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वद्विरहे विस्तारितरजनौ जनितेन्दुचन्दनद्वेषे।  
 बिसिनीव माघमासे विना हुताशेन सा दग्धा॥

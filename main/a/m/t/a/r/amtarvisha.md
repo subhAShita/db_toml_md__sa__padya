@@ -5,7 +5,7 @@ title = "अन्तर्विशति मार्जारी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्विशति मार्जारी शुनी वा राजवेश्मनि।  
 बहिःस्थस्य गजेन्द्रस्य किमर्थः परिहीयते॥

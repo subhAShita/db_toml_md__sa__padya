@@ -6,7 +6,7 @@ title = "ते धन्यास्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ते धन्यास्ते महात्मानस्तेषां लोके स्थितं यशः।  
 यैर्निबद्धानि काव्यानि ये वा काव्येषु कीर्तिताः॥

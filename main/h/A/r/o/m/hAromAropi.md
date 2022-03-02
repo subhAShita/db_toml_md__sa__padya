@@ -7,7 +7,7 @@ title = "हारो नारोपितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हारो नारोपितः कण्ठे मया विश्लषभीरुणा।  
 इदानीमन्तरे जाताः पर्वताः सरितो द्रुमाः॥

@@ -5,7 +5,7 @@ title = "अधर्मः सुरसस्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मः सुरसस्तस्य चोत्कटैर्मधुरायते।  
 यादृशैश्च फलैश्चैव सुफलो लोभपादपः॥

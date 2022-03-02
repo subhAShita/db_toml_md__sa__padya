@@ -6,7 +6,7 @@ title = "या हठादिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या हठादिव निष्कृष्टा किं तयापि प्रशंसया? ।  
 पङ्कवद्भाति सा नूनमस्थाने चन्दनं यथा ॥

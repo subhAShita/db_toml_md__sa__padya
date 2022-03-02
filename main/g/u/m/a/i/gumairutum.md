@@ -6,7 +6,7 @@ title = "गुणैरुत्तुङ्गतां याति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणैरुत्तुङ्गतां याति नोत्तुङ्गेनासनेन वै ।  
 प्रासादशिखरस्थोऽपि काको न गरुडायते॥

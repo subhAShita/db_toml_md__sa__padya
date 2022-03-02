@@ -6,7 +6,7 @@ title = "यद्यपि स्वच्छभावेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि स्वच्छभावेन दर्शयत्युदधिर्मणीन्।  
 तथापि जानुदघ्नोऽयमिति चेतसि मा कृथाः॥

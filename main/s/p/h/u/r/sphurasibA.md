@@ -7,7 +7,7 @@ title = "स्फुरसि बाहुलते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्फुरसि बाहुलते किमनर्थकं त्वमपि लोचनभावमहो गता।  
 तमहमागतमप्यपराधिनं न परिरब्धुमलं न च वीक्षितुम्॥

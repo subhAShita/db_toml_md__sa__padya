@@ -6,7 +6,7 @@ title = "येषां निमेषोन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येषां निमेषोन् मेषाभ्यां जगतां प्रलयोदयौ।  
 तादृशाः पुरुषा याता मादृशां गणनैव का॥

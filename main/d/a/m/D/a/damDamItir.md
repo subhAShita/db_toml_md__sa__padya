@@ -5,7 +5,7 @@ title = "दण्डनीतिर्यदा सम्यङ्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दण्डनीतिर्यदा सम्यङ् नेतारमधितिष्ठति।  
 तदा विद्याविदः शेषा विद्याः सम्यगुपासते॥ ...

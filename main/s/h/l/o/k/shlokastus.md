@@ -6,7 +6,7 @@ title = "श्लोकस्तु श्लोकताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्लोकस्तु श्लोकतां याति यत्र तिष्ठन्ति साधवः।  
 लकारो लुप्यते तत्र यत्र तिष्ठन्त्यसाधवः॥

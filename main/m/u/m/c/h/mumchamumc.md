@@ -6,7 +6,7 @@ title = "मुञ्च मुञ्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुञ्च मुञ्च सलिलं दयानिधे नास्ति नास्ति समयो विलम्बने।  
 अद्य चातककुले मृते पुनर्वारि वारिधर किं करिष्यसि॥

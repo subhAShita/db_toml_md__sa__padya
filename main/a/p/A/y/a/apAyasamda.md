@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1995", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 836",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अपायसन्दर्शनजाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपायसंदर्शनजां विपत्तिम् उपायसंदर्शनजां च सिद्धिम्।  
 मेधाविनो नीतिविधिप्रयुक्तां पुरः स्फुरन्तीमिव दर्शयन्ति॥

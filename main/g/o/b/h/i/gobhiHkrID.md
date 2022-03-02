@@ -6,7 +6,7 @@ title = "गोभिः क्रीडितवान्कृष्ण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गोभिः क्रीडितवान्कृष्ण इति गोसमबुद्धिभिः।  
 क्रीडत्यद्यापि सा लक्ष्मीरहो देवी पतिव्रता॥

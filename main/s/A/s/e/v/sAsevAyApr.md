@@ -6,7 +6,7 @@ title = "सा सेवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा सेवा या प्रभुहिता ग्राह्या वाक्यविशेषतः।  
 आश्रयेत्पार्थिवं विद्वांस्तद्द्वारेणैव नान्यथा॥

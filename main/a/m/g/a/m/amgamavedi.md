@@ -5,7 +5,7 @@ title = "अङ्गणवेदिर्वसुधा कुल्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गणवेदिर्वसुधा कुल्या जलधिः स्थली च पातालम्।  
 वल्मीकश्च सुमेरुः कृतप्रतिज्ञस्य धीरस्य॥

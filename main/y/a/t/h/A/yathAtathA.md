@@ -6,7 +6,7 @@ title = "यथा तथापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा तथापि यः पूज्यो यत्र तत्रापि योऽर्चितः।  
 योऽपि वा सोऽपि वा योऽसौ देवस्तस्मै नमोऽस्तु ते॥

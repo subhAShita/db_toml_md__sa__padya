@@ -7,7 +7,7 @@ title = "किं गतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं गतेन यदि सा न जीवति प्राणिति प्रियतमा तथापि किम्।  
 इत्युदीक्ष्य नवमेघमालिकां न प्रयाति पथिकः स्वमन्दिरम्॥

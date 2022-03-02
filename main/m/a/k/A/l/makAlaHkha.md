@@ -6,7 +6,7 @@ title = "न कालः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न कालः खड्गमुद्यम्य शिरः कृन्तति कस्यचित्।  
 कालस्य बलमेतावद्विपरीतार्थदर्शनम्॥

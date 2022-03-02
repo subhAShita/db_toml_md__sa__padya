@@ -7,7 +7,7 @@ title = "शङ्किताय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शङ्किताय कृतबाष्पनिपातामीर्ष्यया विमुखितां दयिताय।  
 मानिनीमभिमुखाहितचित्तां शंसति स्म घनरोमविभेदः॥

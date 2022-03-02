@@ -5,7 +5,7 @@ title = "अलं परिग्रहेणेह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलं परिग्रहेणेह दोषवान् हि परिग्रहः।  
 कृमिर्हि कोशकारस्तु बध्यते स्वपरिग्रहात्॥

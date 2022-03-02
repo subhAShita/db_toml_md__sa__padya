@@ -6,7 +6,7 @@ title = "शरदम्बुधरच्छायागत्वर्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरदम्बुधरच्छायागत्वर्यो यौवनश्रियः।  
 आपातरम्या विषयाः पर्यन्तपरितापिनः॥

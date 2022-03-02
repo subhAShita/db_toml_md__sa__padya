@@ -5,7 +5,7 @@ title = "अपथेन प्रववृते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपथेन प्रववृते न जातूपचितोऽपि सः।  
 वृद्धौ नदीमुखेनैव प्रस्थानं लवणाम्भसः॥

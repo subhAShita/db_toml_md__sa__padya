@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1654", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 22",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अन्तर्विषमया ह्येता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्विषमया ह्येता बहिश्चैव मनोरमाः।  
 गुञ्जाफलसमाकारा योषितः केन निर्मिताः॥

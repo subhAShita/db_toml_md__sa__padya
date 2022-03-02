@@ -6,7 +6,7 @@ title = "मुखं पद्मदलाकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखं पद्मदलाकारं वाचा चन्दनशीतला।  
 हृदयं क्रोधसंयुक्तं त्रिविधं धूर्तलक्षणम्॥

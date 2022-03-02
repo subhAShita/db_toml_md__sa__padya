@@ -6,7 +6,7 @@ title = "स्थान एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थान एव नियोज्यन्ते भृत्याश्चाभरणानि च।  
 नहि चूडामणिः पादे नूपुरं मूर्ध्नि धार्यते॥

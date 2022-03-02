@@ -5,7 +5,7 @@ title = "अर्धपीतमदिरा मणिपारी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्धपीतमदिरा मणिपारी शोभतां कथमतीव तरुण्याः।  
 चुम्बितैरधिकपाटलभासा पूरिताधरमयूखभरेण॥

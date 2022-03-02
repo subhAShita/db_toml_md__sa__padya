@@ -7,7 +7,7 @@ title = "स्तनौ तुङ्गौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनौ तुङ्गौ समारूढे चापन्यस्तभरे स्मरे।  
 कोदण्डाटनिमुद्रेव जाता नाभी न तद्भ्रुवः॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3108", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 17",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अलक्तको यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलक्तको यथा रक्तो निष्पीड्य पुरुषस् तथा।  
 अबलाभिर्बलाद् रक्तः पादमूले निपात्यते॥

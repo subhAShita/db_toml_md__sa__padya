@@ -5,7 +5,7 @@ title = "करयोः कलहायमानयोर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करयोः कलहायमानयोर् उभयोरेव पयोधरोपरि।  
 वलयावलयो बलाबलं बहुवेलं पतयालवो जगुः॥

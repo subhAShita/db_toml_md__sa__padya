@@ -6,7 +6,7 @@ title = "दक्षः श्रियमधिगच्छति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दक्षः श्रियमधिगच्छति पथ्याशी कल्यतां सुखमरोगी।  
 उद्युक्तो विद्यान्तं धर्मार्थयशांसि च विनीतः॥

@@ -6,7 +6,7 @@ title = "वपुः परीणाहगुणेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वपुः- परीणाहगुणेन तेभ्यो यशस्विनः किं मणयो भवन्ति।  
 तथापि चूडासु महीपतीनां त एव खेलन्ति न गण्डशैलाः॥

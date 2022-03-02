@@ -5,7 +5,7 @@ title = "औषधानां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औषधानां च मन्त्राणां बुद्धेश्चैव महात्मनाम्।  
 असाध्यं नास्ति लोकेऽत्र किंचिद् ब्रह्माण्डमध्यगम्॥

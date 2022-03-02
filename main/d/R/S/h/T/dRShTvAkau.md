@@ -6,7 +6,7 @@ title = "दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दृष्ट्वा कौस्तुभमप्सरोगणमपि प्रक्रान्तवादा मिथो  
 गीर्वाणाः कति वा न सन्ति भुवने भारा दिवः केवलम् ।  

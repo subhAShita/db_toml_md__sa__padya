@@ -6,7 +6,7 @@ title = "नलिकागतमपि कुटिलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नलिकागतमपि कुटिलं न भवति सरलं शुनः पुच्छम्।  
 तद्वत्खलजनहृदयं बोधितमपि नैव याति माधुर्यम्॥

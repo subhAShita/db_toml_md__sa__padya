@@ -7,7 +7,7 @@ title = "अरूक्षमुपदेष्टव्यो जनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरूक्षमुपदेष्टव्यो जनः कापथमाश्रितः ।  
 नाकर्णयति चेन्नः किमुपदेष्टा पुनर्विधिः ॥

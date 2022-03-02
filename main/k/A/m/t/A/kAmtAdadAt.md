@@ -5,7 +5,7 @@ title = "कान्ता ददाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्ता ददाति मदनं मदनः संतापमसममनुपशयम्।  
 संतापो मरणमहो तथापि शरणं नृणां सैव॥

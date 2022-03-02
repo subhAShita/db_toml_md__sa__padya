@@ -6,7 +6,7 @@ title = "किमाराध्यं सदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमाराध्यं सदा पुण्यं कश्च सेव्यः सदागमः।  
 को ध्येयो भगवान्विष्णुः किं काम्यं परमं पदम्॥

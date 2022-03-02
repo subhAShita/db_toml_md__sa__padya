@@ -7,7 +7,7 @@ title = "पतत्यविरतं वारि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतत्यविरतं वारि नृत्यन्ति च कलापिनः।  
 अद्य कान्तः कृतान्तो वा दुःखस्यान्तं करिष्यति॥

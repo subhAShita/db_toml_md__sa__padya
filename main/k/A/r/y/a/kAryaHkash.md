@@ -5,7 +5,7 @@ title = "कार्यः कश्चिद्वरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्यः कश्चिद्वरो दूतः सकुलश्चतुरोऽपि च।  
 कुलशीलविहीनस्तु सिर्द्धि नाशयति ध्रुवम्॥

@@ -6,7 +6,7 @@ title = "नमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमः स्वतन्त्रचिच्छक्तिमुद्रितस्वविभूतये।  
 अव्यक्तव्यक्तरूपाय कस्मैचिन्मन्त्रमूर्तये॥

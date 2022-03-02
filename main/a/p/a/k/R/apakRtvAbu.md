@@ -5,7 +5,7 @@ title = "अपकृत्वा बुद्धिमतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपकृत्वा बुद्धिमतो दूरस्थोऽस्मीति नाश्वसेत्।  
 दीर्घौ बुद्धिमतो बाहू याभ्यां हिंसति हिंसितः॥

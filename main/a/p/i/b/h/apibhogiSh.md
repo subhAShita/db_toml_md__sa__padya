@@ -5,7 +5,7 @@ title = "अपि भोगिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि भोगिषु मणिधारिण एव निहंसि नतु यद्द्विषोऽपि परान्।  
 तत्तव गरुड स्थाने दानवसंहारिवाहस्य॥

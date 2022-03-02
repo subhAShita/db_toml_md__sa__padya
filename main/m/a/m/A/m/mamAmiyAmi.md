@@ -6,7 +6,7 @@ title = "नमामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमामि यामिनीनाथलेखालङ्कृतकुन्तलाम् ।  
 भवानीं भवसन्तापनिर्वापणसुधानदीम् ॥

@@ -6,7 +6,7 @@ title = "धनं तावदसुलभम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनं तावदसुलभं लब्धं कृच्छ्रेण रक्ष्यते।  
 लब्धनाशो यथा मृत्युस्तस्मादेतन्न चिन्तयेत्॥

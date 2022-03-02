@@ -5,7 +5,7 @@ title = "आदाय धनमनल्पम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदाय धनमनल्पं ददानया सुभग तावकं वासः।  
 मुग्धा रजकगृहिण्या कृता दिनैः कतिपयैर्निःस्वा॥

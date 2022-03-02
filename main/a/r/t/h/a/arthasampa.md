@@ -5,7 +5,7 @@ title = "अर्थसम्पद्विमोहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थसंपद्विमोहाय बहुशोकाय चैव हि।  
 तस्मादर्थमनर्थक्यं श्रेयोऽर्थी दूरतस्त्यजेत्॥

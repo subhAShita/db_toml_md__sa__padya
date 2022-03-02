@@ -5,7 +5,7 @@ title = "कण्टारिकाया अन्योक्तिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्टारिकाया अन्योक्तिः सणान्योक्तिरुदाहृता।  
 धत्तूरपादपान्योक्तिर् अवधेया तृणोक्तयः॥

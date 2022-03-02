@@ -6,7 +6,7 @@ title = "दधौ हरिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दधौ हरिः कं शुचि कीदृगभ्रं पृच्छत्यकः किं कुरुते सशोकः।  
 श्लोकं विधायापि किमित्युदारः कविर्न तोषं समुपैति भूयः॥

@@ -6,7 +6,7 @@ title = "अनायासेन मरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनायासेन मरणं विना दैन्येन जीवनम् ।  
 देहान्ते तव सायुज्यं देहि मे पार्वतीपते ॥

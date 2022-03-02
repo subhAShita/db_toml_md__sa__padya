@@ -6,7 +6,7 @@ title = "अव्यवसायिनमलसं दैवपरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्यवसायिनमलसं दैवपरं साहसाच्च परिहीनम्।  
 प्रमदा पतिमिव वृद्धं नेच्छति लक्ष्मीरुपस्थातुम्॥

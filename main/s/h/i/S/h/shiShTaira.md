@@ -6,7 +6,7 @@ title = "शिष्टैरप्यविशेषज्ञ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिष्टैरप्यविशेषज्ञ उग्रश्च कृतनायकः।  
 त्यज्यते किं पुनर्नान्यैर्यश्चाप्यात्मम्भरिर्नरः॥

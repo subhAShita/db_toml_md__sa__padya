@@ -7,7 +7,7 @@ title = "बाल्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाल्ये कौरवकैतवाग्निकणिकादीप्तस्तदीयो गुणः  
 लाक्षागेहविदाहवञ्चनमरुत्सम्प्राणितार्चिश्चिरम् ।  

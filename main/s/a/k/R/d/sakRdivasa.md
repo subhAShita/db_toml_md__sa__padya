@@ -7,7 +7,7 @@ title = "सकृदिव समर्प्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सकृदिव समर्प्य बाले मम हस्ते मदनघर्मतप्तस्य।  
 अपहरसे कुचकुम्भं तृषितकरादमृतकुम्भमिव॥

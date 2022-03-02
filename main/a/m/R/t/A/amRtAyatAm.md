@@ -5,7 +5,7 @@ title = "अमृतायतामिति वदेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमृतायतामिति वदेत् पीते भुक्ते क्षुते च शतं जीव।  
 छोटिकया सह जृम्भा- समये स्यातां चिरायुरानन्दौ॥

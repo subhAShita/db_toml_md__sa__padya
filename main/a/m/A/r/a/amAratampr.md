@@ -5,7 +5,7 @@ title = "अनारतं प्रतिदिशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनारतं प्रतिदिशं प्रतिदेशं जले स्थले।  
 जायन्ते च म्रियन्ते च बुद्बुदा इव वारिणि॥

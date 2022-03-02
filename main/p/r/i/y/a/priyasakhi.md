@@ -7,7 +7,7 @@ title = "प्रियसखि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रियसखि न तथा पटीरपङ्को न च नलिनीदलमारुतोऽपि शीतः।  
 शमयति मम देहदाहमन्तः सपदि कथा हि यथा नरेन्द्रसूनोः॥

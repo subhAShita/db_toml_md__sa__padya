@@ -7,7 +7,7 @@ title = "वदनेन निर्जितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वदनेन निर्जितं तव निलीयते चन्द्रबिम्बमम्बुधरे।  
 अरविन्दमपि च सुन्दरि निलीयते पाथसां पूरे॥

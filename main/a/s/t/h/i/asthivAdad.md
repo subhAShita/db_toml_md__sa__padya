@@ -6,7 +6,7 @@ title = "अस्थिवाद्दधिवच्चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्थिवाद्दधिवच्चैव कुष्ठवत्पिष्टवत्तथा।  
 राजन्स्तव यशो भाति शरच्चन्द्रमरीचिवत्॥

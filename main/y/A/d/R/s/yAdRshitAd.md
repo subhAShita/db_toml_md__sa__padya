@@ -6,7 +6,7 @@ title = "यादृशि तादृशि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यादृशि तादृशि वित्तसनाथे पञ्च पिशाचशतानि वसन्ति।  
 यानि पुनर्निवसन्ति महीशे तानि न केनचिदाकलितानि॥

@@ -6,7 +6,7 @@ title = "कुसुमस्तबकानम्राः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुसुमस्तबकानम्राः सन्त्येव परितो लताः।  
 ततापि भ्रमरश्रान्तिं हरत्येकैव मालती॥

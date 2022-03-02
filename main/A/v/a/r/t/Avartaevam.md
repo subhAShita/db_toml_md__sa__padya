@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5373", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 20",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आवर्त एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवर्त एव नाभिस्ते नेत्रे नीलसरोरुहे।  
 तरङ्गा वलयस्तेन त्वं लावण्याम्बुवापिका॥

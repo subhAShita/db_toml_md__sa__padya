@@ -6,7 +6,7 @@ title = "त्यज चक्रवाकि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यज चक्रवाकि शोकं बधान धैर्यं सहस्व समयममुम्।  
 जयमेव वासरमणिर्हरिष्यते शापमूर्छां ते॥

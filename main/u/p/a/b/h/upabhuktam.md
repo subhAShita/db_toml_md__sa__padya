@@ -5,7 +5,7 @@ title = "उपभुक्तं यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपभुक्तं यथा वासः स्रजो वा मृदिता यथा।  
 एवं राज्यात् परिभ्रष्टः समर्थोऽपि निरर्थकः॥

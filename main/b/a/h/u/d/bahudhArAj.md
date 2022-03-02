@@ -6,7 +6,7 @@ title = "बहुधा राज्यलाभेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहुधा राज्यलाभेन यस्तोषस्तव भूपते।  
 बहुधाराज्यलाभेन स तोषो मम भूपते॥

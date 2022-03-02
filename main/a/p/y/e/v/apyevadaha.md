@@ -5,7 +5,7 @@ title = "अप्येव दहनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्येव दहनं स्पृष्ट्वा वने तिष्ठन्ति पादपाः।  
 राजदोषपरामृष्टास् तिष्ठन्ते नापराधिनः॥

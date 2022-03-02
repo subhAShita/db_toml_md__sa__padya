@@ -6,7 +6,7 @@ title = "राजा पश्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा पश्यति कर्णाभ्यां युक्त्या पश्यन्ति पण्डिताः।  
 पशुः पश्यति गन्धेन भूतैः पश्यन्ति बर्बराः॥

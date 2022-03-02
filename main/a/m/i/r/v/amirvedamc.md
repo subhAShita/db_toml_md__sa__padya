@@ -7,7 +7,7 @@ title = "अनिर्वेदं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्वेदं च दाक्ष्यं च मनसश्चापराजयम् ।  
 कार्यसिद्धिकराण्याहुः तस्मादेतद् ब्रवीम्यहम् ॥

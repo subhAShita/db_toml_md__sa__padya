@@ -7,7 +7,7 @@ title = "न शास्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न शास्त्रम् अस्तीत्य् एतावत्    
 प्रयोगे कारणं भवेत्।  

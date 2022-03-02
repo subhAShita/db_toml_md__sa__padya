@@ -6,7 +6,7 @@ title = "राजानं प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजानं प्रथमं विन्देत्ततो भार्यां ततो धनम्।  
 राजन्यसति लोकेऽस्मिन्कुतो भार्या कुतो धनम्॥

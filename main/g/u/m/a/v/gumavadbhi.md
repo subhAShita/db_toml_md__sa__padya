@@ -6,7 +6,7 @@ title = "गुणवद्भिः सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणवद्भिः सह संगममुच्चैःपदमाप्तुमुत्सुका लक्ष्मीः।  
 वीरकरवालवसतिर्ध्रुवमसिधाराव्रतं चरति॥

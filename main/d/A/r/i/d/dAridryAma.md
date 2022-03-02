@@ -6,7 +6,7 @@ title = "दारिद्र्यान्मरणाद्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दारिद्र्यान्मरणाद्वा मरणं संरोचते न दारिद्र्यम्।  
 अल्पक्लेशं मरणं दारिद्र्यमनन्तरं दुःखम्॥

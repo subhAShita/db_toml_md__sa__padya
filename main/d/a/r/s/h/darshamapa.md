@@ -7,7 +7,7 @@ title = "दर्शनपथमुपयाता यदवधि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दर्शनपथमुपयाता यदवधि मदिरायतेक्षणा सहसा।  
 तदवधि हृदयेनाहं मदनेषुभयादिवोन्मुक्तः॥

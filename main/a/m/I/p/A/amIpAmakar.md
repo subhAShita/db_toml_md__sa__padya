@@ -5,7 +5,7 @@ title = "अमी पानकरम्भाभाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमी पानकरम्भाभाः सप्तापि जलराशयः।  
 त्वद्यशोराज हंसस्य पञ्जरं भुवनत्रयम्॥

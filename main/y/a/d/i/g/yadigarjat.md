@@ -7,7 +7,7 @@ title = "यदि गर्जति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि गर्जति वारिधरो गर्जतु तन्नाम निष्ठुराः पुराषाः।  
 अयि विद्युत्प्रमदानां त्वमपि च दुःखं न जानासि॥

@@ -6,7 +6,7 @@ title = "दुःखेन श्लिष्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुःखेन श्लिष्यते भिन्नं श्लिष्टं दुःखेन भिद्यते।  
 भिन्नश्लिष्टा तु या प्रीतिः सा दुःखैकप्रदायिनी॥

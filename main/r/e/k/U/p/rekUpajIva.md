@@ -6,7 +6,7 @@ title = "रे कूप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रे कूप जीवनागार यदि दातृत्वमिच्छसि।  
 तदा त्वं गुणवत्पात्रमेकं वा सन्निधौ कुरु॥

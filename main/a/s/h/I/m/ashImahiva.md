@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3497", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "अशीमहि वयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशीमहि वयं भिक्षाम् आशावासो वसीमहि।  
 शयीमहि महीपृष्ठे कुर्वीमहि किमीश्वरैः॥

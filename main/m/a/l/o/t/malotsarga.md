@@ -6,7 +6,7 @@ title = "मलोत्सर्गं गजेन्द्रस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मलोत्सर्गं गजेन्द्रस्य मूर्ध्नि काकः करोति चेत्।  
 कुलानुरूपं तत्तस्य यो गजो गज एव सः॥

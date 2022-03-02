@@ -5,7 +5,7 @@ title = "ऋषिसेना विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋषिसेना विना वेदम् अप्रिया सहगामिनी।  
 देवसेना विना दात् न् अविष्णुः पृथिवीपतिः॥

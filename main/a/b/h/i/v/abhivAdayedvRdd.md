@@ -7,7 +7,7 @@ title = "अभिवादयेद् वृद्धांश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिवादयेद् वृद्धांश्च दद्याच्चैवासनं स्वकम् ।  
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतोऽन्वियात् ॥

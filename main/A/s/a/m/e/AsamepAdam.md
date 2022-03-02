@@ -5,7 +5,7 @@ title = "आसने पादमारोप्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसने पादमारोप्य यो भुङ्क्ते स द्विजाधमः।  
 मुखेन धमते चान्नं तुल्यं गोमांसभक्षणम्॥

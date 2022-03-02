@@ -6,7 +6,7 @@ title = "यद्वद्वनमसिंहं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्वद्वनमसिंहं च यद्वद्राष्ट्रमपार्थिवम्।  
 यद्वच्छौर्यमशस्त्रं तु तद्वत्सैन्यमकुञ्जरम्॥

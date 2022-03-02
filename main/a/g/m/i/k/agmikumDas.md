@@ -5,7 +5,7 @@ title = "अग्निकुण्डसमा नारी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निकुण्डसमा नारी घृतकुम्भसमो नरः।  
 संगमेन परस्त्रीणां कस्य नो चलते मनः॥

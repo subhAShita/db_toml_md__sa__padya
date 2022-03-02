@@ -6,7 +6,7 @@ title = "लज्जावतः कुलीनस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लज्जावतः कुलीनस्य याचितुं धनमिच्छतः।  
 कण्ठे पारावतस्येव वाक्करोति गतागतम्॥

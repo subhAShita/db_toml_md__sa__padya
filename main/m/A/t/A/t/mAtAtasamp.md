@@ -6,7 +6,7 @@ title = "मा तात"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा तात सम्पदामग्रमारूढोऽस्मीति विश्वसीः।  
 दूरारोहपरिभ्रम्शविनिपातो हि दारुणः॥

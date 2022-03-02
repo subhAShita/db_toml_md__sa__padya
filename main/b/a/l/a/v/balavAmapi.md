@@ -6,7 +6,7 @@ title = "बलवानपि निस्तेजाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलवानपि निस्तेजाः कस्य नाभिभवास्पदम्।  
 निःशङ्कं दीयते लोकैः पश्य भस्मचये पदम्॥

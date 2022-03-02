@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5167", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१६ करौ// ०२ हस्तरेखा// 243",]
-jsonClass = "Subhaashita"
 topics = [ "हस्तरेखा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आयूरेखां चकारास्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयूरेखां चकारास्याः करे द्राघीयसीं विधिः।  
 शौण्डीर्यगर्वनिर्वाहप्रत्याशां च मनोभुवः॥

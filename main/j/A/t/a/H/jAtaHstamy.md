@@ -6,7 +6,7 @@ title = "जातः स्तन्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जातः स्तन्यं न जग्राह कण्ठीरवकिशोरकः।  
 चक्षुर्व्यापारयामास कुञ्जे कुञ्जरशालिनि॥

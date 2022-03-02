@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7389", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 01 समस्याख्यानम्// 6",]
-jsonClass = "Subhaashita"
 types = [ "समस्याख्यानम्",]
-title = "ऋषेर् अस्याश्रमे"
+jsonClass = "Subhaashita"
+title = "ऋषेरस्याश्रमे पुण्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋषेरस्याश्रमे पुण्ये शापसंत्रस्तमानसः।  
 मुद्बोधतोऽपि प्रायोऽयं मृगात् सिंहः पलायते॥

@@ -5,7 +5,7 @@ title = "आसनं प्राणसंरोधो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसनं प्राणसंरोधो ध्यानं चैव समाधिकः।  
 एतच् चटुष्टयं विद्धि सर्वयोगेषु संमतम्॥

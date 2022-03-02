@@ -6,7 +6,7 @@ title = "ग्रीष्मकाले दिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ग्रीष्मकाले दिनं दीर्घं शीतकाले तु शर्वरी।  
 परोपतापिनः सर्वे प्रायशो दीर्घजीविनः॥

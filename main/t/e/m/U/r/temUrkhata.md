@@ -6,7 +6,7 @@ title = "ते मूर्खतरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ते मूर्खतरा लोके येषां धनमस्ति नास्ति च त्यागः।  
 केवलमर्जनरक्षणवियोगदुःखान्यनुभवन्ति॥

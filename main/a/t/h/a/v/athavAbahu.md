@@ -7,7 +7,7 @@ title = "अथवा बहुनैतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथवा बहुनैतेन किं ज्ञातेन तवार्जुन।  
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्॥

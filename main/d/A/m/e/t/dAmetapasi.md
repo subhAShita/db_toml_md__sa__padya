@@ -6,7 +6,7 @@ title = "दाने तपसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दाने तपसि शौर्ये च  
 विज्ञाने विनये नये ॥   

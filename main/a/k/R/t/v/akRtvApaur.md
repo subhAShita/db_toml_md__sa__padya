@@ -5,7 +5,7 @@ title = "अकृत्वा पौरुषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृत्वा पौरुषं या श्रीः किं तयालसभाग्यया।  
 कुरङ्गोऽपि समश्नाति दैवादुपनतं तृणम्॥

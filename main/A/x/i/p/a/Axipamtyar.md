@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4347", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 19",]
-jsonClass = "Subhaashita"
 topics = [ "नायक-संलापः", "चाटुवचनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आक्षिपन्त्यरविन्दानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आक्षिपन्त्यरविन्दानि मुग्धे तव मुखश्रियम्।  
 कोषदण्डसमग्राणां किमेषामस्ति दुष्करम्॥

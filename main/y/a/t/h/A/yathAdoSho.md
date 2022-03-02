@@ -6,7 +6,7 @@ title = "यथा दोषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा दोषो विभात्यस्य जनस्य न तथा गुणः।  
 प्रायः कलङ्क एवेन्दोः प्रस्फुटो न प्रसन्नता॥

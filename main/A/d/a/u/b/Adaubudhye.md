@@ -5,7 +5,7 @@ title = "आदौ बुध्येत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ बुध्येत पणितः पणमानश्च कारणम्।  
 ततो वितर्क्योभयतो मतः श्रेयस् ततो व्रजेत्॥

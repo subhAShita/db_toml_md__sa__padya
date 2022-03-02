@@ -6,7 +6,7 @@ title = "न तथेच्छन्त्यकल्याणाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न तथेच्छन्त्यकल्याणाः परेषां वेदितुं गुणान्।  
 यथैषां ज्ञातुमिच्छन्ति नैर्गुण्यं पापचेतसः॥

@@ -5,7 +5,7 @@ title = "अन्तो नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तो नास्ति पिपासायाः संतोषः परमं सुखम्।  
 तस्मात् संतोषमेवेह धनं पश्यन्ति पण्डिताः॥

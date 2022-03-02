@@ -5,7 +5,7 @@ title = "अनाहूतः प्रविशति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाहूतः प्रविशति अपृष्टो बहु भाषते।  
 विश्वसित्यप्रमत्तेषु मूढचेता नराधमः॥

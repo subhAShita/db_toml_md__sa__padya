@@ -6,7 +6,7 @@ title = "सुभाषितेन गीतेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुभाषितेन गीतेन युवतीनां च लीलया।  
 मनो न भिद्यते यस्य स योगी ह्यथवा पशुः॥

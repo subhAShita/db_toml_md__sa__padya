@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1333", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 4",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
-title = "अनायासकृशं मध्यमशङ्कतरले"
+jsonClass = "Subhaashita"
+title = "अनायासकृशं मध्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनायासकृशं मध्यम् अशङ्कतरले दृशौ।  
 अभूषणमनोहारि वपुर्वयसि सुभ्रुवः॥

@@ -6,7 +6,7 @@ title = "रक्ष पात्रगतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रक्ष पात्रगतं स्नेहं प्रदीप श्रीविवर्धनम्।  
 प्रयास्यन्ति विना तेन भस्मत्वं यद्भवद्गुणाः॥

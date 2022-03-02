@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2294", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 25",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अभिभवति मनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिभवति मनः कदम्बवायौ मदमधुरे च शिखण्डिनां निनादे।  
 जन इव न धृतेश्चचाल जिष्णुर् न हि महतां सुकरः समाधिभङ्गः॥

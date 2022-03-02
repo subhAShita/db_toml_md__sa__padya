@@ -6,7 +6,7 @@ title = "जितधूमसमूहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जितधूमसमूहाय जितव्यजनवायवे।  
 मशकाय मया कायः सायमारभ्य दीयते॥

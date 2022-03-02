@@ -7,7 +7,7 @@ title = "स्तनाभोगे पतन्भाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनाभोगे पतन्भाति कपोलात्कुटिलोऽलकः।  
 शशाङ्कबिम्बतो मेरौ लम्बमान इवोरगः॥

@@ -6,7 +6,7 @@ title = "न मया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न मया गोरसाभिज्ञं चेतः कस्मात्प्रकुप्यसि।  
 अस्थानरुदितैरेतैरलमालोहितेक्षणे॥

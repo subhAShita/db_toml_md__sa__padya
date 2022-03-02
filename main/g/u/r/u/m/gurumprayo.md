@@ -6,7 +6,7 @@ title = "गुरुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुं प्रयोजनोद्देशादर्जयन्ति न भक्तितः।  
 दुग्धदात्रीति गौर्गेहे पोष्यते न तु धर्मतः॥

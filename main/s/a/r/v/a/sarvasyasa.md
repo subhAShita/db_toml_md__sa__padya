@@ -6,7 +6,7 @@ title = "सर्वस्य सर्वदापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वस्य सर्वदापि स्पर्शनयोगेन तापमपनेतुम्।  
 सुजनस्य व्यजनस्य च शक्तिमसङ्गृह्णतः पश्य॥

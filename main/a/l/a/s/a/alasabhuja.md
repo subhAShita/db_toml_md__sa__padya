@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3152", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १२ अरिपलायनम्// 11",]
-jsonClass = "Subhaashita"
 topics = [ "अरिपलायनम्",]
+jsonClass = "Subhaashita"
 title = "अलसभुजलताभिर्नादृतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलसभुजलताभिर्नादृतो नागरीभिर् भवनदमनकानां नातिथिर्वा बभूव।  
 त्वदरिनगरमध्ये संचरंश्चैत्रजन्मा जरदजगरपीतः क्षीयते गन्धवाहः॥

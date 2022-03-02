@@ -6,7 +6,7 @@ title = "अविदितगुणापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविदितगुणापि सुकवेर्भणितिः कर्णेषु वमति मधुधाराम्।  
 अनधिगतपरिमलापि हि हरति दृशं मालतीमाला॥

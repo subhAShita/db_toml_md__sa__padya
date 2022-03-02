@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6985", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 19",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उन्मीलितं तूलिकयेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्मीलितं तूलिकयेव चित्रं सूर्यांशुभिर्भिन्नमिवारविन्दम्।  
 बभूव तस्याश्चतुरश्रशोभि वपुर्विभक्तं नवयौवनेन॥

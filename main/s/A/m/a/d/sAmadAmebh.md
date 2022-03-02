@@ -6,7 +6,7 @@ title = "सामदाने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सामदाने भेददण्डावित्युपायचतुष्टयम्।  
 हस्त्यश्वरथपादातं सेनाङ्गं स्याच्चतुष्टयम्॥

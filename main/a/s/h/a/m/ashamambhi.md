@@ -7,7 +7,7 @@ title = "अशनं भिक्षाधीनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशनं भिक्षाधीनं हरितः परिधानमनुचराः प्रेताः ।  
 पितृकाननमावासो नृत्यसि कथमीश सानन्दम् ॥

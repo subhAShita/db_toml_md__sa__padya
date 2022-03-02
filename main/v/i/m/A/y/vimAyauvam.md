@@ -6,7 +6,7 @@ title = "विनायौवनमागर्णे गच्छन्तौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विनायौवनमागर्णे गच्छन्तौ लपितं मया।  
 हरेः कृत्यं दर्शयतां पश्येत्युक्ते न दृश्यते॥

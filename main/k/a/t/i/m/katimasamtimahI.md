@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8427", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१५ वृक्षान्योक्तयः// ०३ चन्दनः// 47",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - वृक्षः", "अन्योक्तिः - चन्दनः",]
+jsonClass = "Subhaashita"
 title = "कति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कति न सन्ति महीषु महीरुहः सुरभिपुष्परसालफलालयः।  
 सुरभयन्ति न केऽपि च भूरुहान् इति यशोऽस्ति परं तव चन्दन॥

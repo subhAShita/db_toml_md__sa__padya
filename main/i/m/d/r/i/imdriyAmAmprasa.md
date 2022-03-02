@@ -5,7 +5,7 @@ title = "इन्द्रियाणां प्रसङ्गेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्द्रियाणां प्रसङ्गेन दोषमृच्छत्यसंशयम्।  
 संनियम्य तु तान्येव ततः सिद्धिं नियच्छति॥

@@ -6,7 +6,7 @@ title = "तीव्रे तपसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तीव्रे तपसि लीनानामिन्द्रियाणां न विश्वसेत्।  
 विश्वामित्त्रोऽपि सोत्कण्ठं कण्ठे जग्राह मेनकाम्॥

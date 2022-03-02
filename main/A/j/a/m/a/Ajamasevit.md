@@ -5,7 +5,7 @@ title = "आजन्मसेवितं दानैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आजन्मसेवितं दानैर् मानैश्च परिपोषितम्।  
 तीक्ष्णवाक्यान्मित्रमपि तत्कालं याति शत्रुताम्।  

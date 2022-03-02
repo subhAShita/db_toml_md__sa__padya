@@ -6,7 +6,7 @@ title = "प्राणातिपातः स्तैन्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राणातिपातः स्तैन्यं च परदाराभिमर्शनम्।  
 त्रीणि पापानि कायेन नित्यशः परिवर्जयेत्॥

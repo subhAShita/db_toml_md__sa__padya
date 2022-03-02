@@ -6,7 +6,7 @@ title = "परापकारनिरतैर्दुर्जनैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परापकारनिरतैर्दुर्जनैः सह संहतिः।  
 वदामि भवतस्तत्त्वं न विधेया कदाचन॥

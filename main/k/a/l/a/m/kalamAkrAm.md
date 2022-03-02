@@ -5,7 +5,7 @@ title = "कलमाक्रान्तविश्वस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलमाक्रान्तविश्वस्य मषीकृष्णस्य भोगिनः।  
 आसन्नबन्धनस्यान्ते दिविरस्य धनेन किम्॥

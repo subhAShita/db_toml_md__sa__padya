@@ -5,7 +5,7 @@ title = "कष्टा वेधव्यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कष्टा वेधव्यथा कष्टो नित्यं च वहनक्लमः।  
 श्रवणानामलंकारः कपोलस्य तु कुण्डलम्॥

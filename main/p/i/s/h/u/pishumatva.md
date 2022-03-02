@@ -6,7 +6,7 @@ title = "पिशुनत्वमेव विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिशुनत्वमेव विद्या परदूषणमेव भूषणं येषाम्।  
 परदुःखमेव सौख्यं शिव शिव ते केन वेधसा सृष्टाः॥

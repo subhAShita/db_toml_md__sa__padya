@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1974", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 178",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
-title = "अपान्निधिम्"
+jsonClass = "Subhaashita"
+title = "अपां निधिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपां निधिं वारिभिरर्चयन्ति दीपेन सूर्यं प्रतिबोधयन्ति।  
 ताभ्यां तयोः किं परिपूर्णता स्याद् भक्त्या हि तुष्यन्ति महानुभावाः॥

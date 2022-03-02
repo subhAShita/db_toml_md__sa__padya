@@ -5,7 +5,7 @@ title = "अपसारसमायुक्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपसारसमायुक्तं नयज्ञैर्दुर्गमुच्यते।  
 अपसारपरित्यक्तं दुर्गव्याजेन बन्धनम्॥

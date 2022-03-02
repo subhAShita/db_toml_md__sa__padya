@@ -5,7 +5,7 @@ title = "कथं राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथं राजा स्थितो धर्मे परदारान् परामृशेत्।  
 रक्षणीया विशेषेण राजदारा महाबल॥

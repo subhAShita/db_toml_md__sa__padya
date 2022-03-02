@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3680", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 912",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "असत्यता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असत्यता निष्ठुरताकृतज्ञता भयं प्रमादोऽलसता विषादिता।  
 वृथाभिमानोऽपि च दीर्घसूत्रता तथाङ्गनाक्षादि विनाशनं श्रियः॥

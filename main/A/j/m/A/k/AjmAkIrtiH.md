@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4502", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 394",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "आज्ञा कीर्तिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आज्ञा कीर्तिः पालनं ब्राह्मणानां दानं भोगो मित्रसंरक्षणं च।  
 येषामेते षड्गुणा न प्रवृत्ताः कोऽर्थस् तेषां पार्थिवोपाश्रयेण॥

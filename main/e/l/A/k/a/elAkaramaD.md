@@ -5,7 +5,7 @@ title = "एलाकरणढेकीभिर् वर्तन्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एलाकरणढेकीभिर् वर्तन्या डूमडेन च।  
 लम्भरासैकतालीभिः शुद्धसूडोऽष्टभिः स्मृतः॥

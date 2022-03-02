@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8962", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//12 जातिवर्णनम्// १५ पारावतः// 22",]
-jsonClass = "Subhaashita"
 topics = [ "पारावतः",]
+jsonClass = "Subhaashita"
 title = "कलक्वणितगर्भेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलक्वणितगर्भेण कण्ठेनाघूर्णितेक्षणः।  
 पारावतः परिभ्रम्य रिरंसुश्चुम्बति प्रियाम्॥

@@ -5,7 +5,7 @@ title = "करजपदविभूषिता यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करजपदविभूषिता यथा त्वं सुदति दशनविक्षताधरा च।  
 गतिरपि चरणावलग्नमन्दा त्वमसि मृगसमाक्षि कामदत्ता॥

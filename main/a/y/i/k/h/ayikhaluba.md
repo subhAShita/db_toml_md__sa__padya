@@ -5,7 +5,7 @@ title = "अयि खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि खलु बधिराधिराज कीरं तुदसि शलाकनिपातनेन मोहात्।  
 अनिशमपि सुधानिधानवाणीं रचयतु मौनमुखोऽस्तु वा समस्ते॥

@@ -6,7 +6,7 @@ title = "तल्पीकृताहिरगणितगरुडो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तल्पीकृताहिरगणितगरुडो हाराभिहतविधिर्जयति।  
 फणशतपीतश्वासो रागान्धायाः श्रियः केलिः॥

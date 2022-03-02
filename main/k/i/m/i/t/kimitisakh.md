@@ -7,7 +7,7 @@ title = "किमिति सखे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमिति सखे परदेशे गमयसि दिवसान्धनाशया लुब्धः।  
 वर्षति मौक्तिकनिकरं तव भवनद्वारि काञ्चनी वल्ली॥

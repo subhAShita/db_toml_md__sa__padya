@@ -6,7 +6,7 @@ title = "किंशुके शुक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किंशुके शुक मा तिष्ठ चिरं भाविफलेच्छया।  
 बाह्यरङ्गप्रसङ्गेन के के नानेन वञ्चिताः॥

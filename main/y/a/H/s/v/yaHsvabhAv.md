@@ -6,7 +6,7 @@ title = "यः स्वभावो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः स्वभावो हि यस्यास्ति स नित्यं दुरतिक्रमः।  
 श्वा यदि क्रियते राजा स किं नाश्नात्युपानहम्॥

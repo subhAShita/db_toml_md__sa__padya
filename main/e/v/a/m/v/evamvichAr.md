@@ -5,7 +5,7 @@ title = "एवं विचारश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं विचारश् चिन्ता च सारं राज्येऽधिकं नु किम्।  
 ... ... ... ... ... ...॥

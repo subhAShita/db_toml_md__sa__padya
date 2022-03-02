@@ -5,7 +5,7 @@ title = "एकैकस्योपकारस्य प्राणान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकैकस्योपकारस्य प्राणान् दास्यामि ते कपे।  
 प्रत्यहं क्रियमाणस्य शेषस्य ऋणिनो वयम्॥

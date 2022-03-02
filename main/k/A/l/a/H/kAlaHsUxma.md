@@ -5,7 +5,7 @@ title = "कालः सूक्ष्मगतिर्नित्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालः सूक्ष्मगतिर्नित्यं द्विविधश्चेह भाव्यते।  
 स्थूलसंग्रहचारेण सूक्ष्माचारान्तरेण च॥

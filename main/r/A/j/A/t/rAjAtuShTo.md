@@ -6,7 +6,7 @@ title = "राजा तुष्टोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा तुष्टोऽपि भृत्यानां मानमात्रं प्रयच्छति।  
 तेऽपि सम्मानमात्रेण प्राणैः प्रत्युपकुर्वते॥

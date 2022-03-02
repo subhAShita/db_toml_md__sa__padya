@@ -5,7 +5,7 @@ title = "कदपत्यं वरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदपत्यं वरं मन्ये सदपत्याच्छुचां पदात्।  
 निर्विद्येत गृहान्मर्त्यो यत् क्लेशनिवहा गृहाः॥

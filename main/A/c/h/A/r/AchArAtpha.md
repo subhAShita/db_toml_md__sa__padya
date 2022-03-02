@@ -5,7 +5,7 @@ title = "आचारात् फलते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचारात् फलते धर्म आचारात् फलते धनम्।  
 आचाराच्छ्रियमाप्नोति आचारो हन्त्यलक्षणम्॥

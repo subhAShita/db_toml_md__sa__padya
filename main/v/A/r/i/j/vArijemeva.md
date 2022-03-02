@@ -6,7 +6,7 @@ title = "वारिजेनेव सरसी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वारिजेनेव सरसी शशिनेव निशीथिनी।  
 यौवनेनेव वनिता नयेन श्रीर्मनोहरा॥

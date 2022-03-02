@@ -6,7 +6,7 @@ title = "प्रस्वेदमलदिग्धेन वहता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रस्वेदमलदिग्धेन वहता मूत्रशोणितम्।  
 व्रणेन विकृतेनेदं सर्वमन्धीकृतं जगत्॥

@@ -6,7 +6,7 @@ title = "जयन्ति ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयन्ति ते पञ्चमनादमित्रचित्रोक्तिसंदर्भविभूषणेषु।  
 सरस्वती यद्वदनेषु नित्यमाभाति वीणामिव वादयन्ती॥

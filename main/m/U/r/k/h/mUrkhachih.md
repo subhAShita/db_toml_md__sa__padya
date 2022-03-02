@@ -6,7 +6,7 @@ title = "मूर्खचिह्नानि षडिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खचिह्नानि षडिति गर्वो दुर्वचनं मुखे।  
 विरोधी विषवादी च कृत्याकृत्यं न मन्यते॥

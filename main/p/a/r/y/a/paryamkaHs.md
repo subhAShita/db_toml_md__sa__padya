@@ -7,7 +7,7 @@ title = "पर्यङ्कः स्वास्तरणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पर्यङ्कः स्वास्तरणः पतिरनुकूलो मनोहरं सदनम्।  
 तृणमिव लघु मन्यन्ते कामिन्यश्चौर्यरतिलुब्धाः॥

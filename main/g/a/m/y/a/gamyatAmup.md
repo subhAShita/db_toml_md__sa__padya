@@ -7,7 +7,7 @@ title = "गम्यतामुपगते नयनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गम्यतामुपगते नयनानां लोहितायति सहस्रमरीचौ।  
 आससाद विरहय्य धरित्रीं चक्रवाकहृदयान्यभितापः॥

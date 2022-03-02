@@ -6,7 +6,7 @@ title = "घनसमये शिखिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घनसमये शिखिषु स्यान्नृत्यं कीदृक्षु किं घनात्पतति।  
 प्रावृषि कस्य न गमनं मानसगमनाय कीदृशा हंसाः॥

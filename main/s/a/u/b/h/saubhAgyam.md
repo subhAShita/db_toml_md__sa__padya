@@ -6,7 +6,7 @@ title = "सौभाग्यं विरलस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौभाग्यं विरलस्य स्यात्समकर्मगुणेष्वपि।  
 षड्विंशदायुधा पृथ्वी खड्गायत्तैव दृश्यते॥

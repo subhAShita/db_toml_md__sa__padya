@@ -6,7 +6,7 @@ title = "खलेषु सत्सु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलेषु सत्सु निर्याता वयमर्जयितुं गुणान्।  
 इयं सा तस्करग्रामे रत्नक्रयविडम्बना॥

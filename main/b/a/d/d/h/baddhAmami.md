@@ -7,7 +7,7 @@ title = "बद्धा मणिमयकाञ्ची"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बद्धा मणिमयकाञ्ची तस्याः परिणाहशालिनि नितम्बे।  
 पङ्क्तिरिव सारसानां सुरसरितः पुलनमण्डलाभोगे॥

@@ -5,7 +5,7 @@ title = "आसामुपरि दद्याच्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसामुपरि दद्याच् च पानीयस्य विचक्षणः।  
 एवं यामद्वयं कुर्यात् ततस् त्वासां न दापयेत्॥

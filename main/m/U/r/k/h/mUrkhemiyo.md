@@ -6,7 +6,7 @@ title = "मूर्खे नियोज्यमाने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खे नियोज्यमाने तु त्रयो दोषा महीपतेः।  
 अयशश्चार्थनाशश्च नरके गमनं तथा॥

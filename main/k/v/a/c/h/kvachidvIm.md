@@ -6,7 +6,7 @@ title = "क्वचिद् वीणावादः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्वचिद् वीणावादः क्वचिदपि हाहेति रुदितं  
 क्वचिन्नारी रम्या क्वचिदपि जराजर्जरवपुः।  

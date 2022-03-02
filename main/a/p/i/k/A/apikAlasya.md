@@ -5,7 +5,7 @@ title = "अपि कालस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि कालस्य यः कालः सोऽपि कालमपेक्षते।  
 कर्तुं जगन्ति हन्तुं वा कालस्तेन जगत्प्रभुः॥

@@ -5,7 +5,7 @@ title = "कचभारात् कुचभारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कचभारात् कुचभारः कुचभाराद् भीतिमेति कचभारः।  
 कचकुचभाराज् जघनं कोऽयं चन्द्रानने चमत्कारः॥

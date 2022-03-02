@@ -6,7 +6,7 @@ title = "वचनैरसतां महीयसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वचनैरसतां महीयसो न खलु व्येति गुरुत्वमुद्धतैः।  
 किमपैति रजोभिरौर्वरैरवकीर्णस्य मणेर्महार्घता॥

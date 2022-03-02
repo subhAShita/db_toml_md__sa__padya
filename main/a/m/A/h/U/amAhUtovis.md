@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1366", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 476",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अनाहूतो विशेद्यस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाहूतो विशेद्यस्तु अपृष्टो बहु भाषते।  
 आत्मानं मन्यते प्रीतं भूपालस्य स दुर्मतिः॥

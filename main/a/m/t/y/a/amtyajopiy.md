@@ -5,7 +5,7 @@ title = "अन्त्यजोऽपि यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्त्यजोऽपि यदा साक्षी विवादे संप्रजायते।  
 न तत्र युज्यते दिव्यं किं पुनर्वनदेवताः॥

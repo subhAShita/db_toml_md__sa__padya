@@ -7,7 +7,7 @@ title = "मुखसरोजरुचम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखसरोजरुचं मदपाटलामनुचकार चकोरदृशां यतः।  
 धृतनवातमपुत्सुकतामतो न कमलं कमलम्भयदम्भसि॥

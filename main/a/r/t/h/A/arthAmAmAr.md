@@ -5,7 +5,7 @@ title = "अर्थानामार्जनं कार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थानामार्जनं कार्यं वर्धनं रक्षणं तथा।  
 भक्ष्यमाणो निरादायः क्षीयते हिमवानपि॥

@@ -5,7 +5,7 @@ title = "कन्दाग्रात् प्रोत्थितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कन्दाग्रात् प्रोत्थितः प्राणः सदा वहति देहिनाम्।  
 हृद्गतं जीवमाश्वास्य बहिर्गत्वा निवर्तते॥

@@ -5,7 +5,7 @@ title = "कलमधुररक्तकण्ठी शयने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलमधुररक्तकण्ठी शयने मदिरालसा समदना च।  
 वक्त्रापरवक्त्राभ्याम् उपतिष्ठतु वारमुख्या त्वाम्॥

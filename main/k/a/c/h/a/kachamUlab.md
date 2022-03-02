@@ -5,7 +5,7 @@ title = "कचमूलबद्धपन्नग"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कचमूलबद्धपन्नग- निश्वासविषाग्निधूमहतमध्यम्।  
 ऐशानमिव कपालं स्फुटलक्ष्मा स्फुरति शशिबिम्बम्॥

@@ -7,7 +7,7 @@ title = "विलसत्याननं तस्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विलसत्याननं तस्या नासाग्रस्थितमौक्तिकम्।  
 आलक्षितबुधाश्लेषं राकेन्दोरिव मण्डलम्॥

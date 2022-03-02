@@ -6,7 +6,7 @@ title = "नौश्च दुर्जनजिह्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नौश्च दुर्जनजिह्वा च प्रतिकूलविसर्पिणी।  
 परप्रतारणायैव दारुणा केन निर्मिता॥

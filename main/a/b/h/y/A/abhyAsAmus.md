@@ -5,7 +5,7 @@ title = "अभ्यासानुसरी विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यासानुसरी विद्या बुद्धिः कर्मानुसारिणी।  
 उद्योगानुसरी लक्ष्मीः फलं भाग्यानुसारि च॥

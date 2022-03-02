@@ -6,7 +6,7 @@ title = "देहीति वक्तुकामस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देहीति वक्तुकामस्य यद्दुःखमुपजायते।  
 दाता चेत्तद्विजानीयाद्दद्यात्स्वपिशितान्यपि॥

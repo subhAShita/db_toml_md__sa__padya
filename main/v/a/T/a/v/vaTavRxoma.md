@@ -6,7 +6,7 @@ title = "वटवृक्षो महानेष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वटवृक्षो महानेष मार्गमावृत्य तिष्ठति।  
 तावत्त्वया न गन्तव्यं यावन्नान्यत्र गच्छति॥

@@ -5,7 +5,7 @@ title = "अधरं किल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरं किल बिम्बनामकं फलमस्मादिति भव्यमन्वयम्।  
 लभतेऽधरबिम्बमित्यदः पदमस्या रदनच्छदं वदत्॥

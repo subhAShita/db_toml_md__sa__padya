@@ -5,7 +5,7 @@ title = "करिणश्च हस्तिकर्णैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करिणश्च हस्तिकर्णैर् निर्देश्या वाजिनोऽश्वकर्णेन।  
 गावश्च पाटलाभिः कदलीभिरजाविकं भवति॥

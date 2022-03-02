@@ -5,7 +5,7 @@ title = "अयमिह मुग्धो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमिह मुग्धो मधुपः परिहृतसहकारमञ्जरीपुञ्जः।  
 असरलमरसमसारं शाखोटकविटपमनुसरति॥

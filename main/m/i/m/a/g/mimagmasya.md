@@ -6,7 +6,7 @@ title = "निमग्नस्य पयोराशौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निमग्नस्य पयोराशौ पर्वतात्पतितस्य च।  
 तक्षकेनापि दष्टस्य आयुर्मर्माणि रक्षति॥

@@ -6,7 +6,7 @@ title = "प्रतिगृहकोणं गुणिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रतिगृहकोणं गुणिनो लूताकीटा इव स्फुरन्ति शतम्।  
 तद्भासकः स्वगोभिः को वा रविरिव गुणज्ञोऽस्ति॥

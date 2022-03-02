@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0176",]
-jsonClass = "Subhaashita"
 topics = [ "कुब्राह्मणः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अगस्तितुल्याश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगस्तितुल्याश्च घृताब्धिशोषणे दम्भोलितुल्या वटकाद्रिभेदने।  
 शाकावलीकाननवह्निरूपास् त एव भट्टा इतरे भटाश्च॥

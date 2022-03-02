@@ -7,7 +7,7 @@ title = "हेममञ्जीरमालाभ्यां भाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हेममञ्जीरमालाभ्यां भाति जङ्गालताद्वयम्।  
 लावण्यशाखिनः स्थानं कुङ्कुमेनेव वेष्टितम्॥

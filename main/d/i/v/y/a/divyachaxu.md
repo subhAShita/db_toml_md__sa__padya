@@ -7,7 +7,7 @@ title = "दिव्यचक्षुरहं जातः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिव्यचक्षुरहं जातः सरागेणापि चक्षुषा।  
 इहस्थो येन पश्यामि देशान्तरगतां प्रियाम्॥

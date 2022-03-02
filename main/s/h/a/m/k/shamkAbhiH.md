@@ -6,7 +6,7 @@ title = "शङ्काभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शङ्काभिः सर्वमाक्रान्तमन्नं पानं च भूतले।  
 प्रवृत्तिः कुत्र कर्तव्या जीवितव्यं कथं न वा॥

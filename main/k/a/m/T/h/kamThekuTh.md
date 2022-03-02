@@ -6,7 +6,7 @@ title = "कण्ठे कुठारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्ठे कुठारः कमठे ठकारः शेषे ढकारस्तपने चकारः॥
 </details>

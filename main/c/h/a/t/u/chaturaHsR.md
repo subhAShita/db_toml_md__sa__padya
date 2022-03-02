@@ -7,7 +7,7 @@ title = "चतुरः सृजतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चतुरः सृजतः पूर्वमुपायास्तेन वेधसा।  
 न सृष्टः पञ्चमः कोऽपि गृह्यन्ते येन योषितः॥

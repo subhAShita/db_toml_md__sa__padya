@@ -5,7 +5,7 @@ title = "ऋणदाता च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋणदाता च दैवज्ञः श्रोत्रियः सुजला नदी।  
 यत्र ह्येते न विद्यन्ते न तत्र दिवसं वसेत्॥

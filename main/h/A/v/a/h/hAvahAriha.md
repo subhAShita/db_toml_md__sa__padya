@@ -7,7 +7,7 @@ title = "हावहारि हसितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हावहारि हसितं वचनानां कौशलं दृशि विकारविशेषाः।  
 चक्रिरे भृशमृजोरपि वध्वाः कामिनेव तरुणेन मदेन॥

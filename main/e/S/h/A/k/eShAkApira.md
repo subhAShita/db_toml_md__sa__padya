@@ -7,7 +7,7 @@ title = "एषा कापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एषा कापि रहोभाषा या प्रीतिरिति कथ्यते ।  
 पाणिनिस्त्वं प्रिये तस्याः पतञ्जलिरहं पुनः ॥

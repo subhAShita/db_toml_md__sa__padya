@@ -7,7 +7,7 @@ title = "ज्योत्स्नाचयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्योत्स्नाचयः पयःपूरस्तारकाः कैरवाणि च।  
 राजति व्योमकासारराजहंसः सुधाकरः॥

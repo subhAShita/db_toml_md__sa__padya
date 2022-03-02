@@ -6,7 +6,7 @@ title = "अर्चकस्य प्रभावेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्चकस्य प्रभावेण शिला भवति शङ्करः
 </details>

@@ -6,7 +6,7 @@ title = "निद्रां विदूरयसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निद्रां विदूरयसि शास्त्ररसं रुणत्सि  
 सर्वेन्द्रियार्थमसमर्थविधिं विधत्से ।  

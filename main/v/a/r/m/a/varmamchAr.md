@@ -7,7 +7,7 @@ title = "वर्णं चारु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्णं चारु वदैवमक्षरगणानेवं क्रमाद्योजय  
 स्पष्टं सन्दृभ वाक्यमेवमसकृत्पद्यानि सद्यः सृज।  

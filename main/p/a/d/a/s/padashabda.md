@@ -7,7 +7,7 @@ title = "पदशब्दलीनहृदयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पदशब्दलीनहृदयो रूपालङ्कारभावनानिपुणः।  
 कविरिव सचिन्तमुद्रस्तरुणि तवार्थे परं स युवा॥

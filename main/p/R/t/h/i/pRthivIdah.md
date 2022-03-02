@@ -6,7 +6,7 @@ title = "पृथिवी दह्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृथिवी दह्यते यत्र मेरुश्चापि विशीर्यते।  
 सुशोषं सागरजलं शरीरे तत्र का कथा॥

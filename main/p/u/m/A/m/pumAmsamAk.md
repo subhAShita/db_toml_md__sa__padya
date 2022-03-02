@@ -6,7 +6,7 @@ title = "पुमांसमाकुलं क्रूरा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुमांसमाकुलं क्रूरा पतितं दुर्दशावटे।  
 जीवन्तमेव कुष्णाति काकीव कुकुटुम्बिनी ॥  

@@ -6,7 +6,7 @@ title = "स्तनमण्डलमाश्रित्य नखस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्तनमण्डलमाश्रित्य नखस्य वरयोषिताम्।  
 कदाकर्णयते गीतं रमया सह रङ्गराट्॥

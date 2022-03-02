@@ -5,7 +5,7 @@ title = "अलघुता जठरस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलघुता जठरस्य कुचौ गता चरणचञ्चलता नयने गता।  
 सखि विलोकय मे तनुचेष्टितं विनिमयप्रगतं नवयौवनम्॥

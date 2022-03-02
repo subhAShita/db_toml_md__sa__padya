@@ -6,7 +6,7 @@ title = "भट्टिर् नष्टो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भट्टिर् नष्टो भारविश् चापि नष्टः  
 भिक्कुर् नष्टो भीमसेनोऽपि नष्टः ।  

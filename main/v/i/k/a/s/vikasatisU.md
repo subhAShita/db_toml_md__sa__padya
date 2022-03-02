@@ -7,7 +7,7 @@ title = "विकसति सूर्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विकसति सूर्ये विकसति मुकुलति चास्तं गते तस्मिन्।  
 शिशिरे निःस्वकुटुम्बः पङ्कजलीलां समुद्वहति॥

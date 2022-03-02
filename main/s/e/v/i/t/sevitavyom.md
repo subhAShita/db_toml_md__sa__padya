@@ -6,7 +6,7 @@ title = "सेवितव्यो महावृक्षः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सेवितव्यो महावृक्षः फलच्छायासमन्वितः।  
 यदि दैवात्फलं नास्ति छाया केन निवार्यते॥

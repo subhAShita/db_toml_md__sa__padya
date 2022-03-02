@@ -5,7 +5,7 @@ title = "अहिर्बिडालो जामाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिर्बिडालो जामाता एडका च सपुत्रिणी।  
 आत्मभाग्यं न पश्यन्ति भागिनेयस्तु पञ्चमः॥

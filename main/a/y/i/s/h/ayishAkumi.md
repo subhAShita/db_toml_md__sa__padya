@@ -5,7 +5,7 @@ title = "अयि शाकुनिक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि शाकुनिक कृतोऽञ्जलिर् इतरे न कतीह जीवनोपायाः।  
 हत्वा शुकान् किमेतद् विपिनमसारस्वतं कुरुषे॥

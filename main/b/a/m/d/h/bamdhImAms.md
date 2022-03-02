@@ -6,7 +6,7 @@ title = "बन्धीनां सुहृदाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बन्धीनां सुहृदां चैव भृत्यानां स्त्रीजनस्य च।  
 अव्यक्तेष्वपराधेषु चिरकारी प्रशस्यते॥

@@ -5,7 +5,7 @@ title = "अपि यत्सुकरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि यत्सुकरं कर्म तदप्येकेन दुष्करम्।  
 बिशेषतोऽसहायेन किमु राज्यं महोदयम्॥

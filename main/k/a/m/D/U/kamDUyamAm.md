@@ -5,7 +5,7 @@ title = "कण्डूयमानः खलु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्डूयमानः खलु दक्षिणेन हस्तेन भालं भषणो ददाति।  
 प्रभाविनम्रीकृतराजचक्रं राज्याभिषेके वरपट्टबन्धम्॥

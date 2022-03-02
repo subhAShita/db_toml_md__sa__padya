@@ -5,7 +5,7 @@ title = "आत्मरक्षिततन्त्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मरक्षिततन्त्राणां सुपरीक्षितकारिणाम्।  
 आपदो नोपपद्यन्ते पुरुषाणां स्वदोषजाः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0620", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 28",]
-jsonClass = "Subhaashita"
 topics = [ "कृपणः",]
-title = "अतिसञ्चयकर्तॄणाम्"
+jsonClass = "Subhaashita"
+title = "अतिसञ्चयलुब्धानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिसंचयलुब्धानां वित्तमन्यस्य कारणम्।  
 अन्यैः संचीयते यत्नाद् अन्यैश्च मधु पीयते॥

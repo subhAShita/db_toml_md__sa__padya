@@ -5,7 +5,7 @@ title = "अष्टधा देवतायोनिस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टधा देवतायोनिस् तिर्यग्योनिश्च पञ्चधा।  
 एकधा मानुषी योनिर् इमे भूताश्चतुर्दश॥

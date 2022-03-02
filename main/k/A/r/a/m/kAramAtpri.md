@@ -5,7 +5,7 @@ title = "कारणात् प्रियतामेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारणात् प्रियतामेति द्वेष्यो भवति कारणात्।  
 अर्थार्थी जीवलोकोऽयं न कश्चित् कस्यचित् प्रियः॥

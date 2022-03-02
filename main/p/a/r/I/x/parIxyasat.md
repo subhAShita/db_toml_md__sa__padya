@@ -6,7 +6,7 @@ title = "परीक्ष्य सत्कुलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परीक्ष्य सत्कुलं विद्यां शीलं शौर्यं सुरूपताम्।  
 विधिर्ददाति निपुणः कन्यामिव दरिद्रताम्॥

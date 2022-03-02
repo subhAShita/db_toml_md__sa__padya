@@ -7,7 +7,7 @@ title = "दाक्षिण्यं नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दाक्षिण्यं नाम बिम्बोष्ठि नायकानां कुलव्रतम्।  
 तन्मे दीर्घाक्षि ये प्राणास्ते त्वदाशानिबन्धनाः॥

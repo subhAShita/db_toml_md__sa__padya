@@ -6,7 +6,7 @@ title = "नालम्बते दैष्टिकताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नालम्बते दैष्टिकतां न निषीदति पौरुषे।  
 शब्दार्थौ सत्कविरिव द्वयं विद्वानपेक्षते॥

@@ -6,7 +6,7 @@ title = "पदानि क्रतुतुल्यानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पदानि क्रतुतुल्यानि आहवेष्वनिवर्तिनाम्।  
 राजा सुकृतमादत्ते हतानां विपलायिनाम्॥

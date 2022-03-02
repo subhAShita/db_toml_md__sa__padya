@@ -6,7 +6,7 @@ title = "रविः करसहस्रेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रविः करसहस्रेण दशाशापरिपूरकः।  
 त्वमेकेन करेणैव सहस्राशाप्रपूरकः॥

@@ -5,7 +5,7 @@ title = "अर्थमनर्थं भावय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थमनर्थं भावय नित्यं नास्ति ततः सुखलेशः सत्यम्।  
 पुत्रादपि धनभाजां भीतिः सर्वत्रैषा विहिता रीतिः॥

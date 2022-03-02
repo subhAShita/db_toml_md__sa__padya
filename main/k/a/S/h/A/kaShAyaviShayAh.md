@@ -5,7 +5,7 @@ title = "कषायविषयाहारत्यागो यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कषायविषयाहारत्यागो यत्र विधीयते।  
 उपवासः स विज्ञेयः शेषं लङ्घनकं विदुः॥

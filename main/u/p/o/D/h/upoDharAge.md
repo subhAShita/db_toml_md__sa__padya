@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7192", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 19",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपोढरागेण विलोलतारकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपोढरागेण विलोलतारकं तथा गृहीतं शशिना निशामुखम्।  
 यथा समस्तं तिमिरांशुकं तया पुरोऽपि रागाद् गलितं न लक्षितम्॥

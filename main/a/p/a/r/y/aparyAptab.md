@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1947", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//२५ नितम्बः// 374",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "नितम्बः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपर्याप्तभुजायामः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपर्याप्तभुजायामः सखेदोऽस्याः सखीजनः।  
 श्रोण्यां कथंचित् कुरुते रशनादामबन्धनम्॥

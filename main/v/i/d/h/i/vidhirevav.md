@@ -6,7 +6,7 @@ title = "विधिरेव विशेषगर्हणीयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विधिरेव विशेषगर्हणीयः करट त्वं रट कस्तवापराधः।  
 सहकारतरौ चकार यस्ते सह वासं सरलेन कोकिलेन॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9228", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 34",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
-title = "कस्मिन्स्वपिति कंसारिः"
+jsonClass = "Subhaashita"
+title = "कस्मिन् स्वपिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्मिन् स्वपिति कंसारिः कावृत्तिरधमा नृणाम्।  
 किं ब्रूते पितरं बालः किं दृष्ट्वा रमते मनः॥

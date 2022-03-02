@@ -6,7 +6,7 @@ title = "यथा सुंवर्णम्म्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा सुंवर्णंं पुटपाकशोधितं  
 त्यक्त्वा मलं स्वात्मगुणं समृच्छति ।  

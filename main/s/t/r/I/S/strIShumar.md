@@ -7,7 +7,7 @@ title = "स्त्रीषु न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रीषु न रागः कार्यो रक्तं पुरुषं स्त्रियः परिभवन्ति।  
 रक्तैव हि रन्तव्या विरक्तभावा तु हातव्या॥

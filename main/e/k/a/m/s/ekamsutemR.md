@@ -5,7 +5,7 @@ title = "एकं सुते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकं सुते मृगारिणी बहून् सूते वृकी सुतान्।  
 उत्तारः प्रलयं यान्ति नाद्यमानाः कथंचन॥

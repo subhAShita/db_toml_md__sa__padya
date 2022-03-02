@@ -5,7 +5,7 @@ title = "अपक्वमपि चूतस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपक्वमपि चूतस्य फलं द्रवति वेगतः।  
 गुडशुण्टीप्रलेपेन विधृतं शश्वदातपे॥

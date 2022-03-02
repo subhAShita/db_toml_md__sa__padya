@@ -7,7 +7,7 @@ title = "निष्कासयन्त्यनेके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निष्कासयन्त्यनेके सागरसरिदम्बुपूरपरिपतितम्।  
 हृदयह्रदे निमग्नामिन्दुमुखीं मा बहिः कुरुताम्॥

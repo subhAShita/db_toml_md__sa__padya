@@ -7,7 +7,7 @@ title = "पद्भ्यां स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पद्भ्यां स कुरुते पापं यः कलिङ्गान्प्रपद्यते   
 ऋषयो निष्कृतिं तस्य प्राहुर्वैश्वानरं हविः

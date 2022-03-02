@@ -5,7 +5,7 @@ title = "कर्मभिः स्वैरवाप्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मभिः स्वैरवाप्तस्य जन्मनः पितरौ यथा।  
 राज्ञं तथान्ये राज्यस्य प्रवृत्तावेव कारणम्॥

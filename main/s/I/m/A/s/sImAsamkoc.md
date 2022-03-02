@@ -6,7 +6,7 @@ title = "सीमा सङ्कोचमायाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सीमा सङ्कोचमायाति वह्नौ चर्म इवाहितम्।  
 स्थिते यस्मिन्स तु त्याज्यो भृत्यो राज्यं समीहता॥

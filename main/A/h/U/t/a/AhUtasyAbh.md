@@ -5,7 +5,7 @@ title = "आहूतस्याभिषेकाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहूतस्याभिषेकाय निसृष्टस्य वनाय च।  
 न मया लक्षितस् तस्य स्वल्पोऽप्याकारविभ्रमः॥

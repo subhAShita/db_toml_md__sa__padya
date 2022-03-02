@@ -5,7 +5,7 @@ title = "अकृपणमशठमचपलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृपणमशठमचपलं योगिनमविषादिनं बुधं शूरम्।  
 यदि नाश्रयति नरं श्रीः श्रीरेव हि वञ्चिता भवति॥

@@ -5,7 +5,7 @@ title = "कालातिक्रमणे ह्येव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालातिक्रमणे ह्येव भक्तवेतनयोर्भृताः।  
 भर्तुः कुप्यन्ति दुष्यन्ति सोऽनर्थः सुमहान् स्मृतः॥

@@ -6,7 +6,7 @@ title = "यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा प्रभुकृतान्मानाद्युध्यन्ते भुवि मानवाः।  
 न तथा बहुभिर्दत्तैर्द्रविणैरपि भूपते॥

@@ -5,7 +5,7 @@ title = "असाधना वित्तहीना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असाधना वित्तहीना बुद्धिमन्तः सुहृन्मताः।  
 साधयन्त्याशु कार्याणि काककूर्ममृगाखुवत्॥

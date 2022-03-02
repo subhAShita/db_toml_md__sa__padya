@@ -5,7 +5,7 @@ title = "कालस्यैव वशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालस्यैव वशो सर्वं दुर्गं दुर्गतरं च यत्।  
 काले क्रुद्धे कथं कालात् त्राणं नोऽद्य भविष्यति॥

@@ -5,7 +5,7 @@ title = "कलाकलापसम्पन्ना उपकर्तुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलाकलापसम्पन्ना उपकर्तुः परञ्मुखाः।  
 न भवन्ति महात्मानः सरसः शिखिनो यथा॥

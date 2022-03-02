@@ -6,7 +6,7 @@ title = "यः सम्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः सम्मानं समाधत्ते भृत्यानां क्षितिपोऽधिकम्।  
 वित्ताभावेऽपि तं दृष्ट्वा ते त्यजन्ति न कर्हिचित्॥

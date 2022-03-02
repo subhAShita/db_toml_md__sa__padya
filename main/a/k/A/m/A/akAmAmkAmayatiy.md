@@ -5,7 +5,7 @@ title = "अकामान् कामयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकामान् कामयति यः कामयानान् परिद्विषन्।  
 बलवन्तं च यो द्वेष्टि तमाहुर्मूढचेतसम्॥

@@ -5,7 +5,7 @@ title = "जराशोकसमाविष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जराशोकसमाविष्टं रोगायतनमातुरम्।  
 रजस्वलमनित्यं च भूतावासमिमं त्यजेत्॥

@@ -5,7 +5,7 @@ title = "अभिप्रायानुसारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिप्रायानुसारेण प्रकटीकुरुते प्रियम्।  
 अहो महाप्रभावानां भूपतीनां वसुंधरा॥

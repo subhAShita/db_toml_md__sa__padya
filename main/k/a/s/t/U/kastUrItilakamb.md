@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9182", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// ०३ तिलकः// 42",]
-jsonClass = "Subhaashita"
 topics = [ "तिलकः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कस्तूरीतिलकं बाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्तूरीतिलकं बाले भाले मा कुरु मा कुरु।  
 अद्य साम्यं भजामीति जृम्भते शशलाञ्छनः॥

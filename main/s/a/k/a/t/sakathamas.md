@@ -7,7 +7,7 @@ title = "स कथम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स कथं न स्पृहणीयो विषयरतैस्तन्नितम्बविन्यासः।  
 शान्तात्मनापि विहितं विश्वसृजा गौरवं यत्र॥

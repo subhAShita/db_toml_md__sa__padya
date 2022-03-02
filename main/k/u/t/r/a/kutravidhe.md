@@ -6,7 +6,7 @@ title = "कुत्र विधेयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुत्र विधेयो यत्नो विद्याभ्यासे सदौषधे दाने।  
 अवधीरणा क्व कार्या खलपरयोषित्परधनेषु॥

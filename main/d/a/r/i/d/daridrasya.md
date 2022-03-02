@@ -6,7 +6,7 @@ title = "दरिद्रस्य परा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दरिद्रस्य परा मूर्तिस्तृष्णा न द्रविणाल्पता।  
 जरद्गवधनः शम्भुस्तथापि परमेश्वरः॥

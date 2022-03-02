@@ -6,7 +6,7 @@ title = "भोगिनः कञ्चुकासक्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोगिनः कञ्चुकासक्ताः क्रूराः कुटिलगामिनः।  
 सुदुष्टा मन्त्रसाध्याश्च राजानः पन्नगा इव॥

@@ -6,7 +6,7 @@ title = "नृणां धुरि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नृणां धुरि स एवैको यः कश्चित्त्यागपाणिना।  
 निर्मार्ष्टि प्रार्थनापांसुधूसरं मुखमर्थिनाम्॥

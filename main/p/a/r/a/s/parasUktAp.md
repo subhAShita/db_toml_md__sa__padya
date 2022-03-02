@@ -6,7 +6,7 @@ title = "परसूक्तापहारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परसूक्तापहारेण स्वसुभाषितवादिना ।  
 उत्कर्षः ख्याप्यते यस्याः किं तया चौरविद्यया ॥

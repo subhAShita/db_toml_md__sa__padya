@@ -5,7 +5,7 @@ title = "असाधु परिगन्तव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असाधु परिगन्तव्यं न च साधु च संवलम्।  
 संवलं कुरु यत्नेन मरणं ध्रुवनिश्चयम्॥

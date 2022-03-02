@@ -7,7 +7,7 @@ title = "शक्तः परजने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शक्तः परजने दाता स्वजने दुःखजीविनि ।  
 मध्वापातो विषास्वादः स धर्मप्रतिरूपकः॥

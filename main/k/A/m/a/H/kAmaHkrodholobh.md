@@ -6,7 +6,7 @@ title = "कामः क्रोधो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामः क्रोधो लोभदम्भाद्यसूयाऽ  
 हंकारेर्ष्यामत्सराद्यास्तु घोराः  

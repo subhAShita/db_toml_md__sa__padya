@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9926", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 40",]
-jsonClass = "Subhaashita"
 topics = [ "कुपण्डितः",]
+jsonClass = "Subhaashita"
 title = "काव्यामृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यामृतं दुर्जनराहुनीतं प्राप्यं भवेन् नो सुमनोजनस्य।  
 सच्चक्रमव्याजविराजमान- तैक्ष्ण्यप्रकर्षं यदि नाम न स्यात्॥

@@ -8,7 +8,7 @@ title = "धनस्य यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनस्य यस्य राजतो भयं न यस्य चोरतः।  
 मृतं च यन्न मुञ्चति समर्जयस्व तद्धनम्॥  

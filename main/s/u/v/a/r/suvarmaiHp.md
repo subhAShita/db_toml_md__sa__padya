@@ -6,7 +6,7 @@ title = "सुवर्णैः पट्टचेलैश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुवर्णैः पट्टचेलैश्च शोभा स्याद्वारयोषिताम्।  
 पराक्रमेण दानेन राजन्ते राजनन्दनाः॥

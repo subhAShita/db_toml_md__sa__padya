@@ -5,7 +5,7 @@ title = "अनावृतनवद्वारपञ्जरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनावृतनवद्वारपञ्जरे विहगानिलः।  
 यत्तिष्ठति तदाश्चर्यं वियोगे तस्य का कथा॥

@@ -7,7 +7,7 @@ title = "मध्येन सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मध्येन सा वेदिविलग्नमध्या वलित्रयं चारु बभार बाला।  
 आरोहणार्थं नवयौवनेन कामस्य सोपानमिव प्रयुक्तम्॥

@@ -7,7 +7,7 @@ title = "निर्माणकौशलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्माणकौशलं धातुश्चन्द्रिका लोकचक्षुषाम्।  
 क्रीडागृहमनङ्गस्य सेयमिन्दीवरेक्षणा॥

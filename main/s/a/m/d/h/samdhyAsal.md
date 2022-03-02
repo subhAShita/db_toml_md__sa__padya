@@ -6,7 +6,7 @@ title = "सन्ध्यासलिलाञ्जलिमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्ध्यासलिलाञ्जलिमपि कङ्कणफणिपीयमानमविजानन्।  
 गौरीमुखार्पितमना विजयाहसितः शिवो जयति॥

@@ -7,7 +7,7 @@ title = "वृष्णीनां वासुदेवोऽस्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः।  
 मुनीनामप्यहं व्यासः कवीनामुशना कविः॥

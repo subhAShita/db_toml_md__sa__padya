@@ -6,7 +6,7 @@ title = "जीवित इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवित इव कण्ठगते सूक्ते दुःखासिका कवेस्तावत्।  
 नयनविकासविधायी सचेतनाभ्यागमो यावत्॥

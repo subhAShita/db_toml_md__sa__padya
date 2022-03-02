@@ -7,7 +7,7 @@ title = "विरचिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरचिता मधुनोपवनश्रियामभिनवा इव पत्त्रविशेषकाः।  
 मधुलिहां मधुदानविशारदाः कुरबका रवकारणतां ययुः॥

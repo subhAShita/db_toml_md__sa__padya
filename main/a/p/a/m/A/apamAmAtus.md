@@ -5,7 +5,7 @@ title = "अपमानात् तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपमानात् तु संभूतं मानेन प्रशमं नयेत्।  
 सामपूर्व उपायो वा प्रणामो वाभिमानजे॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6819", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 35",]
-jsonClass = "Subhaashita"
 topics = [ "पानगोष्ठी",]
 rasas = [ "शृङ्गारः",]
-title = "उद्धतैरिव"
+jsonClass = "Subhaashita"
+title = "उद्धतैरिव परस्परस"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्धतैरिव परस्परस गाद् ईरितान्युभयतः कुचकुम्भैः।  
 योषितामतिमदेन जुघूर्णुर् विभ्रमातिशयपुंषि वपूंषि॥

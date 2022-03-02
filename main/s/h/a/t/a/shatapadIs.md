@@ -6,7 +6,7 @@ title = "शतपदी सति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शतपदी सति पादशते क्षमा यदि न गोष्पदमप्यतिवर्तितुम्।  
 किमियता द्विपदस्य हनूमतो जलनिधेः क्रमणे विवदामहे॥

@@ -5,7 +5,7 @@ title = "आतुरे नियमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आतुरे नियमो नास्ति बाले वृद्धे तथैव च।  
 पराचाररते चैव एष धर्मः सनातनः॥

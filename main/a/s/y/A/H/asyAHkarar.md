@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3971", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// ०१ कटाक्षः// 103",]
-jsonClass = "Subhaashita"
 topics = [ "कटाक्षः",]
 rasas = [ "शृङ्गारः",]
-title = "अस्याः"
+jsonClass = "Subhaashita"
+title = "अस्याः कररुहखण्डित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्याः कररुहखण्डित- काण्डपटप्रकटनिर्गता दृष्टिः।  
 पटविगलितनिष्कलुषा स्वदते पीयूषधारेव॥

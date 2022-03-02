@@ -6,7 +6,7 @@ title = "हरेर्लीलावराहस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरेर्लीलावराहस्य दंष्ट्रादण्डः स पातु वः।  
 हेमाद्रिकलसा यत्र धात्री छत्रश्रियं दधौ॥

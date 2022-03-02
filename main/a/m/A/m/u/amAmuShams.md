@@ -5,7 +5,7 @@ title = "अमानुषं सत्त्वमन्तर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमानुषं सत्त्वमन्तर् योगिनं प्रविशेद्यदि।  
 वाय्वग्निधारणा चैनं देहसंस्थं विनिर्दहेत्॥

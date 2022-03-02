@@ -7,7 +7,7 @@ title = "समय एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समय एव करोति बलाबलं प्रणिगदन्त इतीव शरीरिणाम्।  
 शरदि हंसरवाः परुषीकृतस्वरमयूरमयू रमणीयताम्॥

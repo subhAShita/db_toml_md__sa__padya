@@ -5,7 +5,7 @@ title = "अनया जघनाभोगभरमन्थरयानया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनया जघनाभोगभरमन्थरयानया।  
 अन्यतोऽपि व्रजन्त्या मे हृदये निहितं पदम्॥

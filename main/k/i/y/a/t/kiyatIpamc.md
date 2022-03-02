@@ -6,7 +6,7 @@ title = "कियती पञ्चसहस्री"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कियती पञ्चसहस्री कियती लक्षाप्यकोटिरपि कियती।  
 औदार्योन्नतमनसां रत्नवसी वसुमती कियती॥

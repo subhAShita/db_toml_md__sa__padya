@@ -6,7 +6,7 @@ title = "जातस्य नदीतीरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जातस्य नदीतीरे तस्यापि तृणस्य जन्मसाफल्यम्।  
 यत्सलिलमज्जनाकुलजनहस्तालम्बनम् भवति ॥

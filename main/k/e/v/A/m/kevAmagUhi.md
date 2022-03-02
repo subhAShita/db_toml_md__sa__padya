@@ -7,7 +7,7 @@ title = "के वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 के वा न गूहिता भावाः केभ्यो वा न मया हरे ।  
 एकत्र भवतः स्नेहे निर्विशङ्कं मिलन्त्विति ॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8827", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 01 परब्रह्म// 4",]
-jsonClass = "Subhaashita"
 topics = [ "परब्रह्म",]
-title = "कर्णिकादिष्विव"
+jsonClass = "Subhaashita"
+title = "कर्णिकादिष्विव स्वर्णम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णिकादिष्विव स्वर्णम् अर्णवादिष्विवोदकम्।  
 भेदिष्वभेदि यत् तस्मै परस्मै महसे नमः॥

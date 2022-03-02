@@ -7,7 +7,7 @@ title = "सखि हे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सखि हे पश्य रसमयं जलधरसमयं समुन्नद्धम्।  
 विलसति कापि बलाका कापि बलाका मुदं धत्ते॥

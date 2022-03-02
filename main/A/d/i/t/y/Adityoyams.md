@@ -5,7 +5,7 @@ title = "आदित्योऽयं स्थितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदित्योऽयं स्थितो मूढाः स्नेहं कुरुत मा भयम्।  
 बहुरूपो मुहूर्तश्च जीवेतापि कदाचन॥

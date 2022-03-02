@@ -6,7 +6,7 @@ title = "माता यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माता यदि विषं दद्याद्विक्रीणाति पिता सुतम्।  
 राजा हरति सर्वस्वं तत्र का परिदेवना॥

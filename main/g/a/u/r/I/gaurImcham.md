@@ -6,7 +6,7 @@ title = "गौरीं चम्पककलिकामपहाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौरीं चम्पककलिकामपहाय भ्रान्तदुर्बुद्धे।  
 शाल्मलिकुसुमदलेषु स्वैरं गुञ्जन्न लज्जसे मधुप॥

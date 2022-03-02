@@ -6,7 +6,7 @@ title = "आत्मा त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मा त्वं गिरिजा मतिः सहचराः प्राणाः शरीरं गृहं  
 पूजा ते विषयोपभोगरचना निद्रा समाधिस्थितिः ।  

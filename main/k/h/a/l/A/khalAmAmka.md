@@ -3,11 +3,11 @@ topics = [ "दुर्जनः", "प्रतीकारः", "दण्ड
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 6",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "खलानां कण्टकानाञ्च"
+title = "खलानां कण्टकानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलानां कण्टकानां च द्विविधैव प्रतिक्रिया।  
 उपानन्मुखभङ्गो वा दूरतो वा विसर्जनम्॥

@@ -6,7 +6,7 @@ title = "न धर्मशास्त्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न धर्मशास्त्रं पठतीति कारणं   
 न चाऽपि वेदाध्ययनं दुरात्मनः।  

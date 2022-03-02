@@ -5,7 +5,7 @@ title = "अतः परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतः परं प्रवक्ष्यामि शराणां लक्षणां शुभम्।  
 स्थूलं न चातिसूक्ष्मं च न पक्वं न कुभूमिजम्।  

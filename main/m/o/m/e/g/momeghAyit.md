@@ -6,7 +6,7 @@ title = "नो मेघायितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नो मेघायितम् अर्थवारिविरहक्लिष्टे ऽर्थशस्ये मया  
 नो ऽद्वृत्तप्रतिपक्षपर्वतकुले निर्घातवातायितम् ।  

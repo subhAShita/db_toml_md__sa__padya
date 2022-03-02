@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5694", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 245",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "आहवेषु च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहवेषु च ये शूराः स्वाम्यर्थे त्यक्तजीविताः।  
 भर्तृभक्ताः कृतज्ञाश्च ते नराः स्वर्गगामिनः॥

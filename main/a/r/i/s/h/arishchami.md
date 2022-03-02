@@ -5,7 +5,7 @@ title = "अरिश्च मित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरिश्च मित्रं भवति मित्रं चापि प्रदुष्यति।  
 अनित्यचित्तः पुरुषस् तस्मिन् को नाम विश्वसेत्॥

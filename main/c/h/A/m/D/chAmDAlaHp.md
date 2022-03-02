@@ -6,7 +6,7 @@ title = "चाण्डालः पक्षिणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चाण्डालः पक्षिणां काकः पशूनां चैव कुक्कुरः।  
 कोपो मुनीनां चाण्डालः चाण्डालः सर्वनिन्दकः॥

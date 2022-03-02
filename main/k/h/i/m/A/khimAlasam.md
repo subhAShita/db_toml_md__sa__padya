@@ -7,7 +7,7 @@ title = "खिन्नालसनयनान्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खिन्नालसनयनान्तं खिन्नालिकलग्नकुन्तलस्तबकम्।  
 वदनमवलुप्ततिलकं मदनं नेदयति दवयति धृतिं मे॥

@@ -7,7 +7,7 @@ title = "गतप्राया रात्रिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतप्राया रात्रिः कृशतनु शशी शीर्यत इव  
 प्रदीपो ऽयं निद्रावशम् उपगतो घूर्णत इव ।  

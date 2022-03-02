@@ -5,7 +5,7 @@ title = "आसीमान्तान् निवर्तन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आसीमान्तान् निवर्तन्ते सुहृदः सह बन्धुभिः।  
 सुकृतं दुष्कृतं वापि गच्छन्तमनुगच्छति॥

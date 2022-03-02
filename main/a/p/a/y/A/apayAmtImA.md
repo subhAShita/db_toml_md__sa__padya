@@ -5,7 +5,7 @@ title = "अपयान्तीनामधुना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपयान्तीनामधुना संकेतनिकेतनान्मृगाक्षीणाम्।  
 वासस एव न केवलम् अभवन्मनसोऽपि परिवर्तः॥

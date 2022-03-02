@@ -6,7 +6,7 @@ title = "न मणेरितोऽधिका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न मणेरितोऽधिका भा नो मृदुता न प्रकाशसमता वा।  
 अचिरस्थितिरिति दीपो न हि बहुमूल्योऽभवत्प्रायः॥

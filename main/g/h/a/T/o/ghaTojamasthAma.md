@@ -6,7 +6,7 @@ title = "घटो जन्मस्थानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घटो जन्मस्थानं मृगपरिजनो भूर्जवसनं ।  
 वने वासः कंदादिकमशनमेवंविधगुणः॥   

@@ -6,7 +6,7 @@ title = "तातेन कथितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तातेन कथितं पुत्र लेखं लिख ममाज्ञया।  
 न तेन लिखितो लेखः पितुराज्ञा न लोपिता॥

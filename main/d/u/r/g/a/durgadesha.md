@@ -6,7 +6,7 @@ title = "दुर्गदेशप्रविष्टोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्गदेशप्रविष्टोऽपि शूरोऽभ्येति पराभवम्।  
 गाढपङ्कनिमग्नाङ्गो मातङ्गोऽप्यवसीदति॥

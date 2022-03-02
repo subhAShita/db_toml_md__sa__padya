@@ -5,7 +5,7 @@ title = "कालिदास कलावास"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालिदास कलावास दासवच् चालितो यदि।  
 राजमार्गे व्रजन्नत्र परेषां तत्र का त्रपा॥

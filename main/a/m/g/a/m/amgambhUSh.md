@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0272", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "समग्रस्त्रीस्वरूपम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अङ्गं भूषणनिकरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गं भूषणनिकरो भूषयतीत्येष लौकिको वादः।  
 अङ्गानि भूषणानां कामपि सुषमामजीजनंस्तस्याः॥

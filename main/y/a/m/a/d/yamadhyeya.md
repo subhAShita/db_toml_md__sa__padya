@@ -6,7 +6,7 @@ title = "यन्मध्ये यच्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यन्मध्ये यच्च पर्यन्ते यदापाते मनोरमम्।  
 सर्वमेवापवित्रं तद्विनाशामेध्यदूषितम्॥

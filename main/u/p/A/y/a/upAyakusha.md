@@ -5,7 +5,7 @@ title = "उपायकुशलं वैद्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपायकुशलं वैद्यं भृत्यसंदूषणे रतम्।  
 शूरमैश्वर्यकामं च यो न हन्ति स वध्यते॥

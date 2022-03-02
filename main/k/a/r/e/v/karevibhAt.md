@@ -5,7 +5,7 @@ title = "करे विभाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करे विभाति तन्वङ्ग्या रणद्वलयसंहतिः।  
 मनःकुरङ्गबन्धाय पाशालीव मनोभुवः॥

@@ -7,7 +7,7 @@ title = "सुमुखः सुलभः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुमुखः सुलभः स्वच्छः शुद्धान्तश्छिन्नसंशयः।  
 इङ्गिताकारचेष्टावित् दूरीकृतसुदुर्जनः॥  

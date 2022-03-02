@@ -6,7 +6,7 @@ title = "मूकः परापवादे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूकः परापवादे परदारनिरीक्षणेऽप्यन्धः।  
 पङ्गुः परधनहरणे स जयति लोकत्रये पुरुषः॥

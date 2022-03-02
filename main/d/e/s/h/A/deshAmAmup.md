@@ -6,7 +6,7 @@ title = "देशानामुपरि क्ष्मापा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देशानामुपरि क्ष्मापा आतुराणां चिकित्सकाः।  
 वणिजो ग्राहकाणां च मूर्खाणामपि पण्डिताः॥

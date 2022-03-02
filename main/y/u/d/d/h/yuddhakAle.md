@@ -6,7 +6,7 @@ title = "युद्धकालेऽग्रगो यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युद्धकालेऽग्रगो यः स्यात्सदा पृष्ठानुगः पुरे।  
 प्रभोर्द्वाराश्रितो हर्म्ये स भवेद्राजवल्लभः॥

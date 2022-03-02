@@ -7,7 +7,7 @@ title = "गर्जति वारिदपटले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गर्जति वारिदपटले वर्षति नयनारविन्दमबलायाः।  
 भुजवल्लिमूलसेके विरहलता पल्लवं सूते॥

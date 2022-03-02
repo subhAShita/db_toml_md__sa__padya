@@ -5,7 +5,7 @@ title = "आत्मनानर्थयुक्तेन पापे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनानर्थयुक्तेन पापे निविशते मनः।  
 स कर्म कलुषं कृत्वा क्लेशे महति धीयते॥

@@ -5,7 +5,7 @@ title = "कां तपस्वी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कां तपस्वी गतोऽवस्थाम् इति स्मेराविव स्तनौ।  
 वन्दे गौरीघनाश्लेषभवभूतिसिताननौ॥

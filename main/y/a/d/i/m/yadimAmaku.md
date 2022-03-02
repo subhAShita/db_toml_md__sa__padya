@@ -6,7 +6,7 @@ title = "यदि नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि नाम कुले जन्म तत्किमर्थं दरिद्रता।  
 दरिद्रत्वेऽपि मूर्खत्वमहो दुःखपरम्परा॥

@@ -5,7 +5,7 @@ title = "उपकारफलं मित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारफलं मित्रम् अपकारोऽरिलक्षणम्।  
 ... ... ... ... ... ... ... ... ... ...॥

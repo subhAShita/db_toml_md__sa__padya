@@ -6,7 +6,7 @@ title = "गुरुसमीरसमीरितभूधरा इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुसमीरसमीरितभूधरा इव गजा गगनं विजगाहिरे।  
 गुरुतरा बहुवारिभराद्धना भुवमतीव नमन्त इवाभवन्॥

@@ -6,7 +6,7 @@ title = "सीमन्तिनीषु का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सीमन्तिनीषु का शान्ता राजा कोऽभूद्गुणोत्तमः।  
 विद्वद्भिः का सदा वन्द्या अत्रैवोक्तं न बुध्यते॥

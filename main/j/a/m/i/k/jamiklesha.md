@@ -6,7 +6,7 @@ title = "जन्मनि क्लेशबहुले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जन्मनि क्लेशबहुले किं नु दुःखमतः परम्।  
 इच्छासम्पद्यतो नास्ति यच्चेच्छा न निवर्तते॥

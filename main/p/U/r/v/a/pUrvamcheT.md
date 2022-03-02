@@ -6,7 +6,7 @@ title = "पूर्वं चेटी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूर्वं चेटी ततो वेटी पश्चाद्भवति कुट्टिनी।  
 सर्वोपायपरिभ्रष्टा वेश्या भवति तापसी॥

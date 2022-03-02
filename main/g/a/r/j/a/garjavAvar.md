@@ -7,7 +7,7 @@ title = "गर्ज वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गर्ज वा वर्ष वा मेघ मुञ्च वा शतशोऽशनिम्।  
 न शक्या हि स्त्रियो रोद्धुं प्रस्थिता दयितं प्रति॥

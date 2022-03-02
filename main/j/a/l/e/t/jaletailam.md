@@ -6,7 +6,7 @@ title = "जले तैलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जले तैलं खले गुह्यं पात्रे दानं मनागपि।  
 प्राज्ञे शास्त्रं स्वयं याति विस्तारं वस्तुशक्तितः॥

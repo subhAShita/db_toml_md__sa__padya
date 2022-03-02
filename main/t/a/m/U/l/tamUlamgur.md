@@ -6,7 +6,7 @@ title = "तन्मूलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तन्मूलं गुरुतायास्तत्सौख्यं तद्यशस्तदौर्जित्यम्।  
 तत्सौभाग्यं पुंसां यदेतदप्रार्थनं नाम॥

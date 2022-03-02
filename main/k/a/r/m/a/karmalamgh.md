@@ -5,7 +5,7 @@ title = "कर्णलङ्घिगुणोत्कर्षा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्णलङ्घिगुणोत्कर्षा वदान्या धन्विनो यथा।  
 निष्फलान् न विमुञ्चन्ति मार्गणान् समितौ स्थिता॥

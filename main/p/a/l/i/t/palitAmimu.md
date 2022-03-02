@@ -6,7 +6,7 @@ title = "पलितानि मुखेन्दुरोचिषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पलितानि मुखेन्दुरोचिषां शकलानीति विभावय प्रिये   
 अत एव वितन्वते तमां तरुणीलोचनपद्ममेलनम्

@@ -6,7 +6,7 @@ title = "स्फीतोऽयं जठरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्फीतोऽयं जठरः स्तनौ गुरुतरौ श्यामे च मे चूचुके  
 को रोगो वद वैद्यराज।  

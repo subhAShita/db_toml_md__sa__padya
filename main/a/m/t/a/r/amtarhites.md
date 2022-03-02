@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1656", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५८ प्रभातवर्णनम्// 12",]
-jsonClass = "Subhaashita"
 topics = [ "प्रभातम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अन्तर्हिते शशिनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तर्हिते शशिनि सैव कुमुद्वती मे दृष्टिं न नन्दयति संस्मरणीयशोभा।  
 इष्टप्रवासजनितान्यबलाजनेन दुःखानि नूनमतिमात्रदुरुद्वहानि॥

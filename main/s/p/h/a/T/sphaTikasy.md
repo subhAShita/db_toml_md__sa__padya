@@ -6,7 +6,7 @@ title = "स्फटिकस्य गुणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्फटिकस्य गुणो योऽसौ स एवायाति दोषताम्।  
 धत्ते स्वच्छतया छायां यतो मलवतामपि॥

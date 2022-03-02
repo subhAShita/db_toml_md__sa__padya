@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6107", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०१ केशपाशः// 13",]
-jsonClass = "Subhaashita"
 topics = [ "+केशपाशः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इयं मुखाम्भोरुहसन्निधाने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं मुखाम्भोरुहसंनिधाने विलम्बिधम्मिल्लततिच्छलेन।  
 समागतां सादरमेव बाला द्विरेफमालामुत वा दधाति॥

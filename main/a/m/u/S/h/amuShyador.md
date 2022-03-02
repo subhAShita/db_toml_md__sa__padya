@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2512", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०३ युववर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "युवा", "यौवनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अमुष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुष्य दोर्भ्यामरिदुर्गलुण्ठने ध्रुवं गृहीतार्गलदीर्घपीनता।  
 उरःश्रिया तत्र च गोपुरस्फुरत्- कपाटदुर्धर्षतिरःप्रसारिता॥

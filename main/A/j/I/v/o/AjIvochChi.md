@@ -5,7 +5,7 @@ title = "आजीवोच्छित्तये यासाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आजीवोच्छित्तये यासां प्रीतिद्वेषावुभौ हि तौ।  
 कथं नु खलु तौ तासां स्यातामुपरि कस्यचित्॥

@@ -7,7 +7,7 @@ title = "अर्भकार्तिदमनोद्धुरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्भकार्तिदमनोद्धुरं हरिं  
 संस्तवीमि सहसाविमृश्य यः।  

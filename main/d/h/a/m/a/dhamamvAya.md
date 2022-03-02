@@ -6,7 +6,7 @@ title = "धनं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनं वा यशो वा नवं यौवनं वा  
 यद् एवेप्सितं तत् तद् इष्टं गृहाण ।  

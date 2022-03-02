@@ -6,7 +6,7 @@ title = "बककोयष्टिभिर्जुष्टे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बककोयष्टिभिर्जुष्टे पल्वले मानसं कुतः।  
 मोदते हि मरालस्य सन्मानसविहारिणः॥

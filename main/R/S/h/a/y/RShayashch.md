@@ -5,7 +5,7 @@ title = "ऋषयश्चैव देवाश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋषयश्चैव देवाश्च सत्यमेव हि मेनिरे।  
 सत्यवादी हि लोकेऽस्मिन् परमं गच्छति क्षयम्॥

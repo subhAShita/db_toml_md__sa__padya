@@ -7,7 +7,7 @@ title = "मलाज्जातो मातुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मलाज्जातो मातुः पितुरपि वशान्नष्टनृमुखो   
 रथो मूषी लम्बं जठरमथ भग्नश्च रदनः।  

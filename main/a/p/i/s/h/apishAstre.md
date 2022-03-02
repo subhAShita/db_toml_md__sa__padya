@@ -5,7 +5,7 @@ title = "अपि शास्त्रेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि शास्त्रेषु कुशला लोकाचारविवर्जिताः।  
 सर्वे ते हास्यतां यान्ति यथा ते मूर्खपण्डिताः॥

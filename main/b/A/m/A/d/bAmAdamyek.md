@@ -7,7 +7,7 @@ title = "बाणादन्ये कवयः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाणादन्ये कवयः काणाः खलु सरसगद्यसरणीषु।  
 इति जगति रूढमयशो वामनबाणोऽपमार्ष्टि वत्सकुलः॥

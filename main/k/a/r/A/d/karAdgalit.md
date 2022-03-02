@@ -5,7 +5,7 @@ title = "कराद्गलितखाद्यस्य का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कराद्गलितखाद्यस्य का हानिः करिणो भवेत्।  
 पिपीलिका तु तेनैव बिभर्ति स्वकुटुम्बकम्॥

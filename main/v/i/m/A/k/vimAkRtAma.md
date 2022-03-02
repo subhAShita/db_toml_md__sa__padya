@@ -7,7 +7,7 @@ title = "विनाकृता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विनाकृता महाप्राणैरल्पप्राणावशेषिता ।  
 श्वसिष्यसि कियत्कालं मातः कर्णाटभारति ॥

@@ -6,7 +6,7 @@ title = "वद वल्लभ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वद वल्लभ सर्वत्र साधुर्भवति कीदृशः।  
 गोविन्देनानसि क्षिप्ते नन्दवेश्मनि काभवत्॥

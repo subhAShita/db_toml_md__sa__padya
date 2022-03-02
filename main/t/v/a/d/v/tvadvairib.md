@@ -6,7 +6,7 @@ title = "त्वद्वैरिभवनलिखिताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वद्वैरिभवनलिखितां सीतामाहर्तुमुद्धृत्य।  
 कपिकौणपमण्डलयोः शिवशिव भूयो भवन्ति सम्रम्भाः॥

@@ -6,7 +6,7 @@ title = "लक्ष्मीर्यास्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लक्ष्मीर्यास्यति गोविन्दे वीरश्रीर्वीरमेष्यति।  
 गते मुञ्जे यशःपुञ्जे निरालम्बा सरस्वती॥

@@ -6,7 +6,7 @@ title = "नष्टमपात्रे दानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नष्टमपात्रे दानं नष्टं हितमफलबुद्ध्यवज्ञाने।  
 नष्टो गुणोऽगुणज्ञे नष्टं दाक्षिण्यमकृतज्ञे॥

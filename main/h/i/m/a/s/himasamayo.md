@@ -6,7 +6,7 @@ title = "हिमसमयो वनवह्निर्जवनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हिमसमयो वनवह्निर्जवनः पवनस्तडिल्लताविभवः।  
 हन्त सहन्ते यावत्तावद्द्रुम कुरु परोपकृतिम्॥

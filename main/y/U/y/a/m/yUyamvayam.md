@@ -6,7 +6,7 @@ title = "यूयं वयं,वयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यूयं वयं,वयं युयम्' इत्यासीन् मतिर् आवयोः।  
 किं जातम् अधुना येन 'यूयं यूयं,' 'वयं वयम्' ॥

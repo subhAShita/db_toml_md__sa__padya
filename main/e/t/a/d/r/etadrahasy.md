@@ -5,7 +5,7 @@ title = "एतद् रहस्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतद् रहस्यं परमम् एतच्च परमं पदम्।  
 एषा गतिर्विरक्तानाम् एषोऽसौ परमः शिवः॥

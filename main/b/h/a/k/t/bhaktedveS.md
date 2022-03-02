@@ -6,7 +6,7 @@ title = "भक्ते द्वेषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भक्ते द्वेषो जडे प्रीतिररुचिर्गुरुलङ्घनम्।  
 मुखे च कटुता नित्यं धनिनां ज्वरिणामिव॥

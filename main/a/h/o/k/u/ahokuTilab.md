@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4132", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 87",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अहो कुटिलबुद्धीनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो कुटिलबुद्धीनां दुर्ग्राह्यमसतां मनः।  
 अन्यद्वचसि कण्ठेऽन्यद् अन्यदोष्ठपुटे स्थितम्॥

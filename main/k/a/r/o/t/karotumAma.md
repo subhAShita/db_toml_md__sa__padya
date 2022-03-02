@@ -5,7 +5,7 @@ title = "करोतु नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोतु नाम नीतिज्ञो व्यवसायमितस्ततः।  
 फलं पुनस् तदेव स्याद् यद् विधेर्मनसि स्थितम्॥

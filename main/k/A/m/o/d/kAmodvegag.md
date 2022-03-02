@@ -5,7 +5,7 @@ title = "कामोद्वेगगृहीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामोद्वेगगृहीतं धूर्तैरुपहस्यमानशृङ्गारम्।  
 दारिद्र्यहतं यौवनम् अबुधानां केवलं विपदे॥

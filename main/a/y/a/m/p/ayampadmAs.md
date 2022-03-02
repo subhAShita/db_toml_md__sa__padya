@@ -5,7 +5,7 @@ title = "अयं पद्मासनासीनश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं पद्मासनासीनश् चक्रवाको विराजते।  
 युगादौ भगवान् वेधा विनिर्मित्सुरिव प्रजाः॥

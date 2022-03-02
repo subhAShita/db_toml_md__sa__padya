@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9543", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 110",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "कामं नृपाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामं नृपाः सन्तु सहस्रशोऽन्ये राजन्वतीमाहुरनेन भूमिम्।  
 नक्षत्रताराग्रहसंकुलापि ज्योतिष्मती चान्द्रमसैव रात्रिः॥

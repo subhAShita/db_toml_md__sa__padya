@@ -5,7 +5,7 @@ title = "इति वदति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इति वदति सखीजनेऽनुरागाद् दयिततमामपरश् चिरं प्रतीक्ष्य।  
 तदनुगमवशादनायतानि न्यधित मिमान इवावनीं पदानि॥

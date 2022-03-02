@@ -5,7 +5,7 @@ title = "अकारणं व्याकरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकारणं व्याकरणं तन्त्रीशब्दोऽप्यकारणम्।  
 अकारणं त्रयो वेदास् तण्डुलास्तत्र कारणम्॥

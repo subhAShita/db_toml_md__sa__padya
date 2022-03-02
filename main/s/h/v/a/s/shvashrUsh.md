@@ -7,7 +7,7 @@ title = "श्वश्रूश्वशुरयोः पादौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्वश्रूश्वशुरयोः पादौ तोषयन्ती पतिव्रता।  
 मातापितृपरा नित्यं या नारी सा प्रतिव्रता॥

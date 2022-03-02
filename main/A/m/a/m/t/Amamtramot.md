@@ -5,7 +5,7 @@ title = "आमन्त्रणोत्सवा विप्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आमन्त्रणोत्सवा विप्रा गावो नवतृणोत्सवाः।  
 पत्युत्साहयुता नार्यः अहं कृष्ण रणोत्सवः॥

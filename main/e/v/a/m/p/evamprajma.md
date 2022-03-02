@@ -5,7 +5,7 @@ title = "एवं प्रज्ञैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं प्रज्ञैव परमं बलं न तु पराक्रमः।  
 यत्प्रभावेण निहतः शशकेनापि केसरी॥

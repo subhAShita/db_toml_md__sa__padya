@@ -7,7 +7,7 @@ title = "वश्यभावेन सुमनाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वश्यभावेन सुमनाः सुव्रता सुसमाहिता।  
 अनन्यचित्ता सुमुखी भर्तुः सा धर्मचारिणी॥

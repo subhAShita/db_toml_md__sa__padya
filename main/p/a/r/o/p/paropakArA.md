@@ -6,7 +6,7 @@ title = "परोपकाराय फलन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परोपकाराय फलन्ति वृक्षाः परोपकाराय वहन्ति नद्यः।  
 परोपकाराय दुहन्ति गावः परोपकारार्थमिदं शरीरम्॥

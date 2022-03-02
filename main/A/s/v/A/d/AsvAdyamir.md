@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5681", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 15",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आस्वाद्य निर्विशेषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्वाद्य निर्विशेषं विरहिवधूनां मृदूनि मांसानि।  
 करकामिषेण मन्ये निःष्ठीवति नीरदोऽस्थीनि॥

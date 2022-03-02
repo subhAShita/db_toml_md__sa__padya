@@ -7,7 +7,7 @@ title = "यस्य न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्य न सविधे यदिता दवदहनस्तुहिनदीधितिस्तस्य।  
 यस्य च सविधे दयिता दवदहनस्तुहिनदीधितिस्तस्य॥

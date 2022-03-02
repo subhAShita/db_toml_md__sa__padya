@@ -6,7 +6,7 @@ title = "यं मातापितरौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यं मातापितरौ क्लेशं सहेते सम्भवे नृणाम्।  
 न तस्य निष्कृतिः शक्या कर्तुं वर्षशतैरपि॥

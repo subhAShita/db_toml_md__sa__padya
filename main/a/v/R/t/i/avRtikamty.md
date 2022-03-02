@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3415", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 29",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "अवृत्तिकं त्यजेद्देशम्"
+jsonClass = "Subhaashita"
+title = "अवृत्तिकं त्यजेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवृत्तिकं त्यजेद् देशं वृत्तिं सोपद्रवां त्यजेत्।  
 त्यजेन् मायाविनं मित्रं धनं प्राणहरं त्यजेत्॥

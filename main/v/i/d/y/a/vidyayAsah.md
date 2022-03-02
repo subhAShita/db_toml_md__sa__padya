@@ -6,7 +6,7 @@ title = "विद्यया सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्यया सह मर्तव्यं कुशिष्याय न दापयेत्।  
 तथापि दीयते विद्या पश्चात्सञ्जायते रिपुः॥

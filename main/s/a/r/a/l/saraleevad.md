@@ -7,7 +7,7 @@ title = "सरले एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरले एव दोर्लेखे यदि चञ्चलचक्षुषः।  
 अमुग्धाभ्यो मृणालीभ्यः कथमाजह्रतुः श्रियम्॥

@@ -7,7 +7,7 @@ title = "कष्टं जीवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कष्टं जीवति गणिका गणकोऽपि च राजसेवको वैद्यः।  
 दिवसे दिवसे मरणं परस्य यच्चित्तरञ्जनं वृत्तिः॥

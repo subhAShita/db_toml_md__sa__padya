@@ -5,7 +5,7 @@ title = "उष्णमन्नं घृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उष्णमन्नं घृतं मद्यं तरुणी क्षीरभोजनम्।  
 वापीकपवटच्छाया षड्कं तत् बलवर्धनम्॥

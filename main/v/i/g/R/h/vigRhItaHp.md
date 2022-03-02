@@ -6,7 +6,7 @@ title = "विगृहीतः पदाक्रान्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विगृहीतः पदाक्रान्तो भूयो भूयश्च खण्डितः।  
 माधुर्यमेवावहति सुश्लोक इव सज्जनः॥

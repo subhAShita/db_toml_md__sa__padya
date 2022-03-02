@@ -6,7 +6,7 @@ title = "साधयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधयति यत्प्रयोजनमत्रस्तत्तस्य काकतालीयम्।  
 दैवात्कथमप्यक्षरमुत्किरति घुणोऽपि काष्ठेषु॥

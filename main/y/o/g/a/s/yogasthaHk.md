@@ -6,7 +6,7 @@ title = "योगस्थः कुरु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।  
 सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥

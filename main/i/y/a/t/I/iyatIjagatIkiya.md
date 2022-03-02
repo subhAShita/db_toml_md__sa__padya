@@ -6,7 +6,7 @@ title = "इयती जगती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयती जगती कियती भविता नमिता न न यामिति याति हयः।  
 वियदङ्गणरिङ्गणरङ्गणभूर्विमृशन्निव नर्तनमातनुते॥

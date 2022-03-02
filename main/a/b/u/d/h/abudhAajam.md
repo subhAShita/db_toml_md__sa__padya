@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2224", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 736",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अबुधा अजङ्गमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अबुधा अजंगमा अपि कयापि गत्या परं पदमवाप्ताः।  
 मन्त्रिण इति कीर्त्यन्ते नयबलगुटिका इव जनेन॥

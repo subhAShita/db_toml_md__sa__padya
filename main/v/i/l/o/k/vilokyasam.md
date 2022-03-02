@@ -7,7 +7,7 @@ title = "विलोक्य सङ्गमे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विलोक्य सङ्गमे रागं पश्चिमाया विवस्वतः।  
 कृतं कृष्णं प्राच्या नहि नार्यो विनेर्ष्यया॥

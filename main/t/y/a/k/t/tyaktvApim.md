@@ -6,7 +6,7 @@ title = "त्यक्त्वापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यक्त्वापि निजप्राणान्परहितविघ्नं खलः करोत्येव।  
 कवले पतिता सद्यो वमयति खलु मक्षिकान्नभोक्तारम्॥

@@ -5,7 +5,7 @@ title = "औरसानपि पुत्रान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औरसानपि पुत्रान् हि त्यजन्त्यहितकारिणः।  
 समर्थान् संप्रगृह्णन्ति जनानपि नराधिपाः॥

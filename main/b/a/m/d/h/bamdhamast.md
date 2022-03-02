@@ -6,7 +6,7 @@ title = "बन्धनस्थो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बन्धनस्थो हि मातङ्गः सहस्रभरणक्षमः।  
 अपि स्वच्छन्दचारी श्वा स्वोदरेणापि दुःखितः॥

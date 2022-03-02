@@ -7,7 +7,7 @@ title = "ये नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये नाम केचिदिह नः प्रथयन्त्यवज्ञां  
 जानन्ति ते किमपि तान्प्रति नैष यत्नः ।  

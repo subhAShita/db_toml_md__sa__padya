@@ -7,7 +7,7 @@ title = "शिखिनि कूजति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिखिनि कूजति गर्जति तोयदे स्फुटति जातिलताकुसुमाकरे।  
 अहह पान्थ न जीवति ते प्रिया नभसि मासि न यासि गृहं यदि॥

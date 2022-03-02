@@ -7,7 +7,7 @@ title = "व्रीडावेलारुद्धम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्रीडावेलारुद्धं सागरसलिलमिव योषितां हृदयम्।  
 रागेन्दुरुदयमानो भूयो भूयस्तरङ्गयति॥

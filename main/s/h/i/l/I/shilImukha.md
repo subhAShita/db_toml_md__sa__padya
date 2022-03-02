@@ -6,7 +6,7 @@ title = "शिलीमुखैस्त्वया वीर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिलीमुखैस्त्वया वीर दुर्वारैर्निर्जितो रिपुः।  
 बिभेत्यत्यन्तमलिनो वनेऽपि कुसुमाकुले॥

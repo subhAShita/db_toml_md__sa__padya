@@ -6,7 +6,7 @@ title = "अङ्गं गलितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गं गलितं पलितं मुण्डं दशनविहीनं जातं तुण्डम्।  
 वृद्धो याति गृहीत्वा दण्डं तदपि न मुञ्चत्याशा पिण्डम्॥

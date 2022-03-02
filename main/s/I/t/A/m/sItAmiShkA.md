@@ -7,7 +7,7 @@ title = "सीता निष्कासिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सीता निष्कासिता पूर्वमयोध्यानगराद्बहिः ।  
 निष्कास्यतेऽधुना रामो दुर्वारा कर्मणो गतिः ॥

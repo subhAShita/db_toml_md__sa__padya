@@ -6,7 +6,7 @@ title = "बहवः पङ्गवोऽपीह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहवः पङ्गवोऽपीह नराः शास्त्रण्यधीयते।  
 विरला रिपुखड्गाग्रधारापातसहिष्णवः॥

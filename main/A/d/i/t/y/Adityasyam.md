@@ -5,7 +5,7 @@ title = "आदित्यस्य नमस्कारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदित्यस्य नमस्कारं ये कुर्वन्ति दिने दिने।  
 जन्मान्तरसहस्रेषु दारिद्र्यं नोपजायते॥

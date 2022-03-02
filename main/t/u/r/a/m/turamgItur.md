@@ -6,7 +6,7 @@ title = "तुरङ्गी तुरगारूढम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुरङ्गी तुरगारूढं प्रासेनाहत्य वक्षसि।  
 पततस्तस्य नाज्ञासीत्प्रासघातं स्वके हृदि॥

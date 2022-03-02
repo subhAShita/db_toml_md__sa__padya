@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3577", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 173",]
-jsonClass = "Subhaashita"
 topics = [ "अनित्यता",]
+jsonClass = "Subhaashita"
 title = "अष्टकुलाचलसप्तसमुद्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टकुलाचलसप्तसमुद्रा ब्रह्मपुरंदरदिनकररुद्राः।  
 न त्वं नाहं नायं लोकस् तदपि किमर्थं क्रियते शोकः॥

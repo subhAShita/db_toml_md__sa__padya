@@ -6,7 +6,7 @@ title = "दुर्जनहुताशतप्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनहुताशतप्तं काव्यसुवर्णं विशुद्धिमायाति।  
 दर्शयितव्यं तस्मान्मत्सरिमनसः प्रयत्नेन॥

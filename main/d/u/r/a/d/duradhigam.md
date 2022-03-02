@@ -6,7 +6,7 @@ title = "दुरधिगमः परभागो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुरधिगमः परभागो यावत्पुरुषेण पौरुषं न कृतम्।  
 जयति तुलामधिरूढो भास्वानपि जलदपटलानि॥

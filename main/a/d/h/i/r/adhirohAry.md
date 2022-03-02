@@ -5,7 +5,7 @@ title = "अधिरोहार्य पादाभ्याम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधिरोहार्य पादाभ्यां पादुके हेमभूषिते।  
 एते हि सर्वलोकस्य योगक्षेमं विधास्यतः॥

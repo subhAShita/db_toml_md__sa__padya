@@ -6,7 +6,7 @@ title = "कोऽप्यन्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोऽप्यन्यः कल्पवृक्षोऽयमेकोऽस्ति क्षितिमण्डले।  
 यत्पाणिपल्लवोऽप्येकः कुरुतेऽधः सुरद्रुमम्॥

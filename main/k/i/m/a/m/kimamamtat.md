@@ -6,7 +6,7 @@ title = "किमनन्ततया ख्यातम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमनन्ततया ख्यातं पादेन व्यङ्गमाह्वय।  
 जनानां लोचनानन्दं के तन्वन्ति घनात्यये॥

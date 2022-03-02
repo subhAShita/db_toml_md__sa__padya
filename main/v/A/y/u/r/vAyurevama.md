@@ -6,7 +6,7 @@ title = "वायुरेव महाभूतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वायुरेव महाभूतं वदन्तु निखिला जनाः।  
 आयुरेवैष भूतानामिति मन्यामहे वयम्॥

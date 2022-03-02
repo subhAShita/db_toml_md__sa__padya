@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3074", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०६ प्रोषितभर्तृका// 80",]
-jsonClass = "Subhaashita"
 topics = [ "नायिका", "प्रोषितभर्तृका",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अर्पयति प्रतिदिवसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्पयति प्रतिदिवसं प्रियस्य पथि लोचने बाला।  
 निक्षिपति कमलमालाः कोमलमिव कर्तुमध्वानम्॥

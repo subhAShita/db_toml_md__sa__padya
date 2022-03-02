@@ -6,7 +6,7 @@ title = "नराणां नापितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नराणां नापितो धूर्तः पक्षिणां चैव वायसः।  
 चतुष्पदां शृगालस्तु स्वेच्छाचारी तपस्विनाम्॥

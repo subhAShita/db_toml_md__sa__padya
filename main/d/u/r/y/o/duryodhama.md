@@ -6,7 +6,7 @@ title = "दुर्योधनः समर्थोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्योधनः समर्थोऽपि दुर्मन्त्री प्रलयं गतः।  
 राज्यमेकश्चकारोच्चैः सुमन्त्री चन्द्रगुप्तकः॥

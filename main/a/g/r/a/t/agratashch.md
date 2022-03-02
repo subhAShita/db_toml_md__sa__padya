@@ -5,7 +5,7 @@ title = "अग्रतश्चतुरो वेदान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्रतश्चतुरो वेदान् पृष्ठतः सशरं धनुः।  
 उभाभ्यां च समर्थोऽहं शापादपि शरादपि॥

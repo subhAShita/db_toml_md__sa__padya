@@ -3,11 +3,11 @@ secondary_sources = [ "MSS_8322", "सुभाषितरत्नभाण्
 topics = [ "विष्णुः", "सम्भोगशृङ्गारः", "रतिः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "कचकुचचिबुकाग्रे पाणिषु"
+title = "कचकुचचुबुकाग्रे पाणिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कचकुचचुबुकाग्रे पाणिषु व्यापृतेषु प्रथमजलधिपुत्रीसंगमेऽनङ्गधाम्नि।  
 ग्रथितनिबिडनीवीबन्धनिर्मोचनार्थं चतुरधिककराशः पातु वश्चक्रपाणिः॥

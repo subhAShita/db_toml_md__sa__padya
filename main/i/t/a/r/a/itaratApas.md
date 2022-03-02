@@ -6,7 +6,7 @@ title = "इतरतापशतानि यदृच्छया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इतरतापशतानि यदृच्छया वितर तानि सहे चतुरानन।  
 अरसिकेषु कवित्वनिवेदनं शिरसि मा लिख मा लिख मा लिख॥

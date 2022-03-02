@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6719", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ६० सूर्योदयवर्णनम्// 5",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्योदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उदयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदयति विततोर्ध्वरश्मिरज्जा- वहिमरुचौ हिमधाम्नि याति चास्तम्।  
 वहति गिरिरयं विलम्बिघण्टा- द्वयपरिवारितवारणेन्द्रलीलाम्॥

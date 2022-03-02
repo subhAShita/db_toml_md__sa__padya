@@ -7,7 +7,7 @@ title = "बाल्यान् मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाल्यान् मे कृष्ण ते तृष्णा युवत्वे युवतां गता।  
 वार्धके वर्धिता, नैषा मरिष्यति मरिष्यति॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6117", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १० नायिकादर्शनम्// 9",]
-jsonClass = "Subhaashita"
 topics = [ "नायिकादर्शनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इयं सुस्तनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं सुस्तनी मस्तकन्यस्तकुम्भा कुसुम्भारुणं चारु वासो वसाना।  
 समस्तस्य लोकस्य चेतःप्रवृत्तिं गृहीत्वा घटे न्यस्य यातीव भाति॥

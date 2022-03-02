@@ -5,7 +5,7 @@ title = "उपकारेण वीरस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारेण वीरस्तु प्रतिकारेण युज्यते।  
 अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः॥

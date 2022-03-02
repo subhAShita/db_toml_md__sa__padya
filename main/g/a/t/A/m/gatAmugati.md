@@ -5,7 +5,7 @@ title = "गतानुगतिको मूर्खः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गतानुगतिको मूर्खः शास्त्रोन्मादश्च पण्डितः।  
 नित्यक्षीबश्च वेश्यानां जङ्गमाः कल्पपादपाः॥

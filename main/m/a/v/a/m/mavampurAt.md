@@ -6,7 +6,7 @@ title = "नवं पुरातनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नवं पुरातनं वापि  
 लेखं पश्यन्ति पण्डिताः ।  

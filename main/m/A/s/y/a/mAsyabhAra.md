@@ -6,7 +6,7 @@ title = "नास्य भारग्रहे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्य भारग्रहे शक्तिर्न च वाहगुणः क्वचित्।  
 देवागारे बलीवर्दस्तथाप्यश्नाति भोजनम्॥

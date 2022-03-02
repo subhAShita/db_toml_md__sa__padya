@@ -6,7 +6,7 @@ title = "अभिमुखनिहतस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमुखनिहतस्य सतस्तिष्ठतु तावज्जयोऽथवा स्वर्गः।  
 उभयबलसाधुवादश्रवणसुखस्यैव नास्त्यन्तः॥

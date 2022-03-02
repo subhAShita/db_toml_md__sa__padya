@@ -5,7 +5,7 @@ title = "एते हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एते हि कामकलिताः परिमललीनालिवलयहुंकारैः।  
 सूचितदानाः करिणो बध्यन्ते क्षिप्रमबलाभिः॥

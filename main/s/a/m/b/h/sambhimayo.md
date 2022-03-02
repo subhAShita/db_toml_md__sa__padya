@@ -7,7 +7,7 @@ title = "सम्भिन्नयोरमुष्या वयसोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्भिन्नयोरमुष्या वयसोः पयसोरिवाङ्गेषु।  
 अनयो रसद्विभेदं मानसजन्मा परं वेद॥

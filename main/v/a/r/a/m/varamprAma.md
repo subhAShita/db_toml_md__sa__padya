@@ -6,7 +6,7 @@ title = "वरं प्राणपरित्यागः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं प्राणपरित्यागः शिरसो वापि कर्तनम्।  
 न तु स्वामिपदावाप्तिपातकेच्छोरुपेक्षणम्॥

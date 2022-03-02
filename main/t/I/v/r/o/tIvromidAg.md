@@ -6,7 +6,7 @@ title = "तीव्रो निदाघसमयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तीव्रो निदाघसमयो बहुपथिकजनश्च मारवः पन्थाः।  
 मार्गस्थिततरुरेकः कियतां सन्तापमपहरति॥

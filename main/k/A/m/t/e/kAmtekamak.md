@@ -5,7 +5,7 @@ title = "कान्ते कनकजम्बीरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्ते कनकजम्बीरं करे किमपि कुर्वति।  
 आगारलिखिते भानौ बिन्दुमिन्दुमुखी ददौ॥

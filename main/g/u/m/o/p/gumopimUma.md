@@ -6,7 +6,7 @@ title = "गुणोऽपि नूनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणोऽपि नूनं दोषाय दुषिधातोः खलस्य च।  
 सन्मार्गसिद्धये वृद्धिर्मृजेः साधुजनस्य च॥

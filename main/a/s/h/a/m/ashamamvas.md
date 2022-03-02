@@ -5,7 +5,7 @@ title = "अशनं वसनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशनं वसनं वासो यस्य काश्याममार्गतः।  
 कीकटेन समा काशी गङ्गाप्यङ्गारवाहिनी॥

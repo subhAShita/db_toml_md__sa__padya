@@ -6,7 +6,7 @@ title = "गर्जितबधिरीकृतककुभा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गर्जितबधिरीकृतककुभा किमपि कृतं न घनेन।  
 कियती चातकचञ्चुपुटी सापि भृता न जलेन॥

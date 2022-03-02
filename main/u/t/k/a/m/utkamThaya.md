@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6404", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 8",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उत्कण्ठयति मेघानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्कण्ठयति मेघानां माला वृन्दं कलापिनाम्।  
 यूनां चोत्कण्ठयत्येष मानसं मकरध्वजः॥

@@ -5,7 +5,7 @@ title = "कलावतः सैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलावतः सैव कला ययाधःक्रियते भवः।  
 बह्वीभिश्च कलाभिः किं याभिरङ्कः प्रदर्श्यते॥

@@ -7,7 +7,7 @@ title = "लोलदृष्टि वदनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोलदृष्टि वदनं दयितायाश्चुम्बति प्रियतमे रभसेन।  
 व्रीडया सह विनीवि नितम्बादंशुकं शिथिलतामुपपेदे॥

@@ -5,7 +5,7 @@ title = "आत्मनश्चपलो नास्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनश्चपलो नास्ति कुतोऽन्येषां भविष्यति।  
 तस्मात् सर्वाणि कार्याणि चपलो हन्त्यसंशयम्॥

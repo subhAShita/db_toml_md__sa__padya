@@ -7,7 +7,7 @@ title = "तपस्यन्तः सन्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तपस्यन्तः सन्तो विदधति यदन्तःकरणसा-  
 द्रमन्ते वल्लव्यो व्रजभुवि यदीयैर्विलसितैः ।  

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3711", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 354",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "असमाप्तजिगीषस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असमाप्तजिगीषस्य स्त्रीचिन्ता का मनस्विनः।  
 अनाक्रम्य जगत् कृत्स्नं नो संध्यां भजते रविः॥

@@ -6,7 +6,7 @@ title = "त्वत्कीर्तिराजहंस्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वत्कीर्तिराजहंस्या वैरिवधूवदनभाजनस्थमपि।  
 पीतं हासक्षीरं व्यक्तीकृतमश्रुनीरं च॥

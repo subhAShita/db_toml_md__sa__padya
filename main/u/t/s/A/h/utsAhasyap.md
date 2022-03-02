@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6668", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 319",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "उत्साहस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्साहस्य प्रभोर्मन्त्रस्यैवं शक्तित्रयं जगुः।  
 आत्मनः सुहृदश्चैव तन्मित्रस्योदयास् त्रयः॥

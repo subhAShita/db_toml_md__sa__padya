@@ -5,7 +5,7 @@ title = "कश्चिदाश्रयसौन्दर्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कश्चिदाश्रयसौन्दर्याद् धत्ते शोभामसज्जनः।  
 प्रमदालोचनन्यस्तं मलीमसमिवाञ्जनम्॥

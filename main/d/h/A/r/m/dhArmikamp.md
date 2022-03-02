@@ -6,7 +6,7 @@ title = "धार्मिकं पालनपरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धार्मिकं पालनपरं सम्यक्परपुरञ्जयम्।  
 राजानमभिमन्यन्ते प्रजापतिमिव प्रजाः॥

@@ -6,7 +6,7 @@ title = "माता शत्रुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 माता शत्रुः पिता वैरी येन बालो न पाठितः।  
 न शोभते सभामध्ये हंसमध्ये बको यथा॥

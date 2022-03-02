@@ -5,7 +5,7 @@ title = "एवं करणसामर्थ्यात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं करणसामर्थ्यात् संयम्यात्मानमात्मना।  
 नयापनयविद् राजा कुर्वीत हितमात्मनः॥

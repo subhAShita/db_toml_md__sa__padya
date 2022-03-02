@@ -7,7 +7,7 @@ title = "अक्षराणामकारोऽस्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च।  
 अहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः॥

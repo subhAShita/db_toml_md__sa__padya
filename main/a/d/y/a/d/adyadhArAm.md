@@ -6,7 +6,7 @@ title = "अद्य धारा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्य धारा निराधारा निरालम्बा सरस्वती।  
 पण्डिताः खण्डितास्सर्वे भोजराजे दिवङ्गते॥  

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3179", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 21",]
-jsonClass = "Subhaashita"
 topics = [ "समग्रस्त्रीस्वरूपम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अलीकरूपो यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलीकरूपो यदि मध्यभागः पयोधराकारभृतश्च केशाः।  
 उत्सङ्गशोभापि सरोरुहाक्ष्याः करस्य शोभां कलयेन्न कस्मात्॥

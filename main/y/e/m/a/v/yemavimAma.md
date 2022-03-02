@@ -6,7 +6,7 @@ title = "येन विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 येन विना न जीव्यत अनुनीयते स कृतापराधोऽपि।  
 प्राप्तेऽपि नगरदाहे भण कस्य न वल्लभोऽग्निः ॥

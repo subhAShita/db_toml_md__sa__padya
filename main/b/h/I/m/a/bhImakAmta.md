@@ -2,11 +2,11 @@
 topics = [ "राजा",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "भीमकान्तैर्नृपगुणै स"
+title = "भीमकान्तैर्नृपगुणैः स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भीमकान्तैर्नृपगुणैः स बभूवोपजीविनाम् ।  
 अधृष्यश्चाभिगम्यश्च यादोरत्नैरिवार्णवः ॥

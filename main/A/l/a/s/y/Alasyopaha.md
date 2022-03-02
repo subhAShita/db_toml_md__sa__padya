@@ -6,7 +6,7 @@ title = "आलस्योपहता विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलस्योपहता विद्या परहस्तगताः स्त्रियः।  
 अल्पबीजं हतं क्षेत्रं हतं सैन्यमनायकम्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0713", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५६ वेङ्कटपतिः// 190",]
-jsonClass = "Subhaashita"
 topics = [ "राजा", "वेङ्कटपतिः",]
+jsonClass = "Subhaashita"
 title = "अत्र मन्मथमिवातिसुन्दरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्र मन्मथमिवातिसुन्दरं दानवारिमिव दिव्यतेजसम्।  
 शैलराजमिव धैर्यशालिनं वेद्मि वेङ्कटपतिं महीपतिम्॥

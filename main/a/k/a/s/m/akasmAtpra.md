@@ -5,7 +5,7 @@ title = "अकस्मात् प्रक्रिया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकस्मात् प्रक्रिया नॄणां अकस्माच्चापकर्षणम्।  
 शुभाशुभे महत्त्वं च प्रकर्तुं बुद्धिलाघवात्॥

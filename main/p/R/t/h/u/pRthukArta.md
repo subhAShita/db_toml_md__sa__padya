@@ -6,7 +6,7 @@ title = "पृथुकार्तस्वरपात्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृथुकार्तस्वरपात्रं भूषितनिःशेषपरिजनं देव।  
 विलसत्करेणुगहनं संप्रति सममावयोः सदनम्॥

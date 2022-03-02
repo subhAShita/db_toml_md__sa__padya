@@ -6,7 +6,7 @@ title = "दूरेऽपि परस्यागसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरेऽपि परस्यागसि पटुर्जनो नात्मनः समीपेऽपि।  
 स्वं व्रणमक्षि न पश्यति शशिनि कलङ्कं निरूपयति॥

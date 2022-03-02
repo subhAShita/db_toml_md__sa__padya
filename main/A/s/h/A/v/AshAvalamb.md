@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5448", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 35",]
-jsonClass = "Subhaashita"
 topics = [ "तृष्णा",]
+jsonClass = "Subhaashita"
 title = "आशावलम्बोपचिता न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशावलम्बोपचिता न कस्य तृष्णालतानर्थफलं प्रसूते।  
 दिने दिने लब्धरुचिर्विवस्वान् मीनं च मेषं च वृषं च भुङ्क्ते॥

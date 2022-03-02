@@ -7,7 +7,7 @@ title = "सौन्दर्यपात्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौन्दर्यपात्रे वक्त्रेन्दौ कुरङ्गासङ्गभीतया।  
 सूचितौ श्रोत्रपाशाभ्यां पाशाविव मृगीदृशा॥

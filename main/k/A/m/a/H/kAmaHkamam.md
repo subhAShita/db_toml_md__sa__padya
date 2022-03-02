@@ -5,7 +5,7 @@ title = "कामः कमनीयतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामः कमनीयतया किमपि निकामं करोति संमोहम्।  
 विषमिव विषमं सहसा मधुरतया जीवनं हरति॥

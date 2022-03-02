@@ -7,7 +7,7 @@ title = "निजांशुकावृतां प्राचीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निजांशुकावृतां प्राचीं चुम्बत्यर्केऽतिरागिणीम्।  
 लज्जयेव ययौ क्वापि श्यामा मीलितलोचना॥

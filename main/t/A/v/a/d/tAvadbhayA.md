@@ -6,7 +6,7 @@ title = "तावद्भयाद्धि भेतव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावद्भयाद्धि भेतव्यं यावद्भयमनागतम्।  
 आगतं तु भयं वीक्ष्य प्रहर्तव्यमभीतवत्॥

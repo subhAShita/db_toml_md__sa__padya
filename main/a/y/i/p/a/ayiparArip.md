@@ -5,7 +5,7 @@ title = "अयि परारि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि परारि परुन्मलयानिला ववुरमी जगुरेव च कोकिलाः।  
 कलमलोत्कलितं तु न मे मनः सखि बभूव वृथैव यथैषमः॥

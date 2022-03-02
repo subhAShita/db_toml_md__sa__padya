@@ -5,7 +5,7 @@ title = "उत्पतेत् सरुजाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पतेत् सरुजाद् देशाद् व्याधिदुर्भिक्षपीडितात्।  
 अन्यत्र वस्तुं गच्छेद् वा वसेद् वा नित्यमानितः॥

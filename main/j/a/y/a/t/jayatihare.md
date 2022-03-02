@@ -7,7 +7,7 @@ title = "जयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जयति हरेर्वनमालाकौस्तुभपाषाणपरिचितं हृदयम् ।  
 सुजनेषु दुर्जनेषु च युगपन्मृदुलं च कठिनं च ॥

@@ -5,7 +5,7 @@ title = "कनकरसमसृणवर्तित"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कनकरसमसृणवर्तित- हयगन्धामूलमिश्रपर्युषितम्।  
 माहिषमिह नवनीतं गतबीजे कनकफलमध्ये

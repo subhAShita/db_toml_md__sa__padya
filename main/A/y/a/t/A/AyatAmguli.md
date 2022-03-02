@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5066", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०३ विहारः// 26",]
-jsonClass = "Subhaashita"
 topics = [ "विहारः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आयताङ्गुलिरभूदतिरिक्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयताङ्गुलिरभूदतिरिक्तः सुभ्रुवां क्रशिमशालिनि मध्ये।  
 श्रोणिषु प्रियकरः पृथुलासु स्पर्शमाप सकलेन तलेन॥

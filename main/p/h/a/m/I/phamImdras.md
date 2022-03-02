@@ -6,7 +6,7 @@ title = "फणीन्द्रस्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फणीन्द्रस्ते गुणान्वक्तुं लिखितुं हैहयाधिपः।  
 द्रष्टुमाखण्डलः शक्तः क्वाहमेष क्व ते गुणाः॥

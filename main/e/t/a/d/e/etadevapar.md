@@ -5,7 +5,7 @@ title = "एतदेव परम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदेव परं शौर्यं यत् परप्राणरक्षणम्।  
 नहि प्राणहरः शूरः शूरः प्राणप्रदोऽर्थिनाम्॥

@@ -5,7 +5,7 @@ title = "अन्यदुप्तं जातमन्यद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यदुप्तं जातमन्यद् इत्येतन्नोपपद्यते।  
 उप्यते यद्धि यद्बीजं तत्तदेव प्ररोहति॥

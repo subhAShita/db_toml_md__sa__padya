@@ -7,7 +7,7 @@ title = "सोमः शौचम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सोमः शौचं ददौ तासां गन्धर्वाश्च शुभां गिरम्।  
 अग्निः सर्वाङ्गकान्तित्वं तस्मान्निष्कसमाः स्त्रियः॥

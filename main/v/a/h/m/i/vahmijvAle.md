@@ -6,7 +6,7 @@ title = "वह्निज्वालेव गृहिणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वह्निज्वालेव गृहिणी रक्षणीया प्रयत्नतः।  
 वृद्धिक्षयविकाराभ्यां स्वाश्रयक्षेममिच्छता॥

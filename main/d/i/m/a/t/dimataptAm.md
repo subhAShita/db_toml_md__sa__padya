@@ -7,7 +7,7 @@ title = "दिनतप्तां सुताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिनतप्तां सुतां वीक्ष्य भूमिं माता विभावरी ।  
 ओषधीशौषधेर्धारामवर्षत्कौमुदीं सिताम्॥

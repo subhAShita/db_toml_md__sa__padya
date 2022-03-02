@@ -6,7 +6,7 @@ title = "यथामिषं जले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथामिषं जले मत्स्यैर्भक्ष्यते श्वापदैर्भुवि।  
 आकाशे पक्षिभिश्चैव तथा सर्वत्र वित्तवान्॥

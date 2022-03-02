@@ -6,7 +6,7 @@ title = "युक्तः प्रमाद्यसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युक्तः प्रमाद्यसि हितादपेतः परितप्यसे।  
 यदि नेष्टात्मनः पीडा मा सञ्जि भवता जने॥

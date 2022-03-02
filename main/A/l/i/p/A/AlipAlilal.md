@@ -5,7 +5,7 @@ title = "आलि पालिललितौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलि पालिललितौ तव भातः कर्णिकारसखकर्णि कपोलौ।  
 पद्मजेन रतिपञ्चबाणयोर् दर्पणाविव सुवर्णनिर्मितौ॥

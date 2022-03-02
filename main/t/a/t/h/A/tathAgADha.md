@@ -7,7 +7,7 @@ title = "तथा गाढम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तथा गाढं प्रकाशस्ते  
 शम्भो द्योतयते जगत् ।

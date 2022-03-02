@@ -5,7 +5,7 @@ title = "करोतु तादृशीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोतु तादृशीं प्रीतिं यादृशी नीरपङ्कयोः।  
 रविणा शोषिते नीरे पङ्गदेहो विशीर्यते॥

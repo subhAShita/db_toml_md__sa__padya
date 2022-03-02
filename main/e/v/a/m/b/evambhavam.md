@@ -5,7 +5,7 @@ title = "एवं भवन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं भवन्ति वेश्याः स्वार्थैकरता व्यपेतसद्भावाः।  
 अभिलषितविषयसिद्धेः का हानिस् तदपि युष्माकम्॥

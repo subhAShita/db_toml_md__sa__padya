@@ -7,7 +7,7 @@ title = "मा गा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा गा गिरीश! गर्वं गलगतमिति ते हलाहलं गरलम् ।  
 कवितामर्वाचीनां किञ्चिद्रसने समाधेहि ॥

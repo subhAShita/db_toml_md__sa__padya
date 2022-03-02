@@ -6,7 +6,7 @@ title = "वाहितं चाश्ववाणिज्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाहितं चाश्ववाणिज्यं राजसेवा तपोवनम्।  
 धीराश्चत्वारि कुर्वन्ति कृषिं कुर्वन्ति कातराः॥

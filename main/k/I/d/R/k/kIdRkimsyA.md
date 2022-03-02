@@ -6,7 +6,7 @@ title = "कीदृक्किं स्यान्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कीदृक्किं स्यान्न मत्स्यानां हितं स्वेच्छाविहारिणाम्।  
 गुणैः परेषामत्यर्थं मोदते कीदृशः पुमान्॥

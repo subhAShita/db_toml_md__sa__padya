@@ -7,7 +7,7 @@ title = "योऽम्भस्तातस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योऽम्भस्तातस्य कूपोऽयमिति कौपं पिबेत्कटु ।  
 त्यक्त्वा गाङ्गं पुरःस्थं तं कोऽनुशासति रागिणम् ॥२,१८.४ ॥

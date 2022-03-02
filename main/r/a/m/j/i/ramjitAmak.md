@@ -6,7 +6,7 @@ title = "रञ्जिता न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रञ्जिता न ककुभो निवेशिता नार्चिषो बत चकोरचञ्चुषु।  
 कष्टमिन्दुरुदये निपीयते दारुणेन तमसा बलीयसा॥

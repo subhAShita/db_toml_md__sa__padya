@@ -6,7 +6,7 @@ title = "यः परस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः परस्य विषमं विचिन्तयेत्प्राप्नुयात्स कुमतिः स्वयं हि तत्।  
 पूतना हरिवधार्थमाययौ प्राप सैव वधमात्मनस्ततः॥

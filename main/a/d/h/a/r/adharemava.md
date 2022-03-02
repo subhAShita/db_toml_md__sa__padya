@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1060", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 29",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधरे नववीटिकानुरागो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरे नववीटिकानुरागो नयने कज्जलमुज्ज्वलं दुकूलम्।  
 इदमाभरणं नितम्बनीनाम् इतरद्भूषणमङ्गदूषणाय॥

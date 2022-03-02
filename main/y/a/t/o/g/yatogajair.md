@@ -6,7 +6,7 @@ title = "यतो गजैर्विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यतो गजैर्विना राज्ञां राज्यशोभा न जायते।  
 जयप्रतापौ सैन्यस्य रक्षा तस्मादिहोच्यते॥

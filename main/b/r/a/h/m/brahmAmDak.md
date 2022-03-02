@@ -6,7 +6,7 @@ title = "ब्रह्माण्डकुम्भकारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्माण्डकुम्भकारं भुजगाकारं जनार्दनं नौमि।  
 स्फारे यत्फणचक्रे धरा शरावश्रियं वहति॥

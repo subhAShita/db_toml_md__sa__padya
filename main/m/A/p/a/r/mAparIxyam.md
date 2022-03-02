@@ -6,7 +6,7 @@ title = "नापरीक्ष्य नयेद्दण्डम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नापरीक्ष्य नयेद्दण्डं न च मन्त्रं प्रकाशयेत्।  
 विसृजेन्नैव लुब्धेभ्यो विश्वसेन्नापकारिषु॥

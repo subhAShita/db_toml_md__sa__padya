@@ -5,7 +5,7 @@ title = "आदरं राजसदसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदरं राजसदसि धनेन लभते नरः।  
 सुभटः शत्रुसंग्रामे विक्रमेण यथा जयम्॥

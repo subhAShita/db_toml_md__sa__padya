@@ -6,7 +6,7 @@ title = "वारणेन्द्रो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वारणेन्द्रो भवेत्कीदृक्प्रीतये भृङ्गसंहतेः।  
 यद्यवश्यं तदास्मै किमकरिष्यमहं धनम्॥

@@ -7,7 +7,7 @@ title = "गौराङ्ग्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौराङ्ग्या भुजलावण्यमीलितं हेमकङ्कणम्।  
 कण्ठाश्लेषे वयस्याभिः काठिन्यादन्वमीयत॥

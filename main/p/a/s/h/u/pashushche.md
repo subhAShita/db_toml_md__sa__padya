@@ -6,7 +6,7 @@ title = "पशुश्चेन्निहतः स्वर्गम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पशुश्चेन्निहतः स्वर्गं ज्योतिष्टोमे गमिष्यति ।  
 स्वपिता यजमानेन तत्र कस्मान्न हिंस्यते ॥

@@ -7,7 +7,7 @@ title = "सुन्दरी सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुन्दरी सा भवत्येवं विवेकः केन जायते।  
 प्रभामात्रं हि तरलं दृश्यते नात्र संशयः॥

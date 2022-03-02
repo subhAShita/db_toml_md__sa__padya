@@ -6,7 +6,7 @@ title = "गुरोरप्यवलिप्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरोरप्यवलिप्तस्य कार्याकार्यमजानतः।  
 उत्पथप्रतिपन्नस्य न्याय्यं भवति शासनम्॥

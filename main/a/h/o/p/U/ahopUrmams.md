@@ -5,7 +5,7 @@ title = "अहो पूर्णम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो पूर्णं सरः स्पष्टम् असि नात्र विचारणा।  
 लुठन्तस्त्वयि यत् सर्वे स्नान्ति जातु कथंचन॥

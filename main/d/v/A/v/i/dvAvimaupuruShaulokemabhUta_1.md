@@ -6,7 +6,7 @@ title = "द्वाविमौ पुरुषौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्वाविमौ पुरुषौ लोके न भूतौ न भविष्यतः।  
 प्रार्थितं यश्च कुरुते यश्च नार्थयते परम्॥

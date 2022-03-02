@@ -5,7 +5,7 @@ title = "अयि मन्मथचूतमञ्जरि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि मन्मथचूतमञ्जरि श्रवणायतलोचने प्रिये।  
 अपहृत्य मनः क्व यासि मे किमराजकमत्र वर्तते॥

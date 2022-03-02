@@ -6,7 +6,7 @@ title = "समरे हेमरेखाङ्कम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समरे हेमरेखाङ्कं बाणं मुञ्चति राघवे।  
 सरावणोऽपि मुमुचे मध्येरीतिधरं शरम्॥

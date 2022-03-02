@@ -7,7 +7,7 @@ title = "न का"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न का निशि स्वप्नगतं ददर्श तं जगाद गोत्रस्खलिते च का न तम्।  
 तदात्मताध्यातधवा रते च का चकार वा न स्वमनोभवोद्भवम्॥

@@ -5,7 +5,7 @@ title = "एकस्य जन्मनोऽर्थे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकस्य जन्मनोऽर्थे मूढाः कुर्वन्ति यानि पापानि।  
 जनयन्ति तानि दुःखं तेषां जन्मान्तरसहस्रम्॥

@@ -5,7 +5,7 @@ title = "अहिंसा सत्यवचनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिंसा सत्यवचनं सर्वभूतानुकम्पनम्।  
 शमो दानं यथाशक्ति गार्हस्थ्यो धर्म उत्तमः॥

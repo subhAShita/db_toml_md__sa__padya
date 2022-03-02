@@ -5,7 +5,7 @@ title = "अन्यायः प्रौढवादेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यायः प्रौढवादेन नीयते न्यायतां यया।  
 न्यायश्चान्यायतां लोभात् किं तया क्षुद्रविद्यया॥

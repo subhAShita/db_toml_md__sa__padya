@@ -6,7 +6,7 @@ title = "लीलामुकुलितनयनं किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लीलामुकुलितनयनं किं सुखशयनं समातनुषे।  
 परिणामविषमहरिणा करिनायक वर्धते वैरम्॥

@@ -6,7 +6,7 @@ title = "किमिच्छति नरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमिच्छति नरः काश्यां भूपानां को रणे हितः।  
 को वन्द्यः सर्वदेवानां दीयतामेकमुत्तरम्॥

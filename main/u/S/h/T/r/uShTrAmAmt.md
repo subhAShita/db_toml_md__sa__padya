@@ -6,7 +6,7 @@ title = "उष्ट्राणां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उष्ट्राणां तु विवाहेषु   
 गीतं गायन्ति गर्दभाः।  

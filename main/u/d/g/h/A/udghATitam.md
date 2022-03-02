@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6793", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "उद्घाटितनवद्वारे पञ्जरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्घाटितनवद्वारे पञ्जरे विहगोऽनिलः।  
 यत् तिष्ठति तदाश्चार्यं प्रयाणे विस्मयः कुतः॥

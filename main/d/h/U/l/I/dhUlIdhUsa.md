@@ -6,7 +6,7 @@ title = "धूलीधूसरतनवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धूलीधूसरतनवो राज्यस्थितिरचनकल्पितैकनृपाः।  
 कृतमुखवाद्यविकाराः क्रीडन्ति सुनिर्भरं बालाः॥

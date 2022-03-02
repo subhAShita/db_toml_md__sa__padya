@@ -7,7 +7,7 @@ title = "यत्र न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र न वदनविकारः सद्भावसमर्पणं न गात्राणाम्।  
 तस्मिन्नुद्धतमभावे पशुकर्मणि पशव एव रज्यन्ते॥

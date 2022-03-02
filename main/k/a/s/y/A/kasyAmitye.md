@@ -5,7 +5,7 @@ title = "कस्यानित्येष्वनित्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्यानित्येष्वनित्यस्य स्नेहो भवितुमर्हति।  
 येन जन्मसहस्राणि द्रष्टव्यो न पुनः प्रियः॥

@@ -6,7 +6,7 @@ title = "तृणं चाहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृणं चाहं वरं मन्ये नरादनुपकारिणः।  
 घासो भूत्वा पशून्पाति भीरून्पाति रणाङ्गणे॥

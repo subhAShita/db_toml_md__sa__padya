@@ -5,7 +5,7 @@ title = "अश्वः सुप्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्वः सुप्तो गजो मत्तो गावः प्रथमसूतिकाः।  
 अन्तःपुरगतो राजा दूरतः परिवर्जयेत्॥

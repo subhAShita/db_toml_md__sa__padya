@@ -7,7 +7,7 @@ title = "तव तन्वि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव तन्वि तरुणपुण्यादम्बरमणिमकरसङ्क्रमो जातः।  
 अधिवेणि भवति नियमः फलमविलम्बेन भावि कामस्य॥

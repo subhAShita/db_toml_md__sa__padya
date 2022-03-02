@@ -6,7 +6,7 @@ title = "यस्तु सञ्चरते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्तु सञ्चरते देशान् सेवते यस्तु पण्डितान् ।  
 तस्य विस्तारिता बुद्धिस्तैलबिन्दुरिवाम्भसि ॥

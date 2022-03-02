@@ -6,7 +6,7 @@ title = "कविभिर्नृपसेवासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविभिर्नृपसेवासु वित्तालङ्कारकारिणी।  
 वाणी वेश्येव लोभेन परोपकरणीकृता॥

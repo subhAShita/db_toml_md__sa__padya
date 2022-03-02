@@ -7,7 +7,7 @@ title = "एवमेव मनुष्येन्द्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमेव मनुष्येन्द्र धर्मं त्यक्त्वाऽल्पकं नरः।  
 बृहन्तं धर्ममाप्नोति बुधानामेष निश्चयः॥

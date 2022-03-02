@@ -6,7 +6,7 @@ title = "तावत्सन्ति सहाया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावत्सन्ति सहाया यावज्जन्तुर्न कृच्छ्रमाप्नोति।  
 अभिपतति शिरसि मृत्यौ कं कः शक्तः परित्रातुम्॥

@@ -6,7 +6,7 @@ title = "आज्ञाभङ्गो नरेन्द्राणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आज्ञाभङ्गो नरेन्द्राणां विप्राणां मानखण्डनम्।  
 पृथक्शय्या च नारीणामशस्त्रवध उच्यते॥

@@ -7,7 +7,7 @@ title = "पवनः पवतामस्मि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पवनः पवतामस्मि रामः शस्त्रभृतामहम्।  
 झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी॥

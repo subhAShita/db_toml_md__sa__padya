@@ -5,7 +5,7 @@ title = "अजाधूलिरिव त्रस्तैर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजाधूलिरिव त्रस्तैर् मार्जनीरेणुवज्जनैः।  
 दीपखट्वोत्थच्छायेव त्यज्यते निर्धनो जनः॥

@@ -7,7 +7,7 @@ title = "त्वं दूति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वं दूति निरगाः कुञ्जं न तु पापीयसो गृहम्।  
 किंशुकाभरणं देहे दृश्यते कथमन्यथा॥

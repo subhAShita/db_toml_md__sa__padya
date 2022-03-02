@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1949", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 56",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अपवादादभीतस्य समस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपवादादभीतस्य समस्य गुणदोषयोः।  
 असद्वृत्तेरहो वृत्तं दुर्विभावं विधेरिव॥

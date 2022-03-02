@@ -6,7 +6,7 @@ title = "वृथाज्वलितकोपाग्नेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृथाज्वलितकोपाग्नेः परुषाक्षरवादिनः।  
 दुर्जनस्यौषधं नास्ति किञ्चिदन्यदनुत्तरात्॥

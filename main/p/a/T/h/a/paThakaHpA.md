@@ -6,7 +6,7 @@ title = "पठकः पाठकश्चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पठकः पाठकश्चैव ये चान्ये शास्त्रपाठकाः।  
 सर्वे व्यसनिनो ज्ञेया यः क्रियावान्स पण्डितः॥

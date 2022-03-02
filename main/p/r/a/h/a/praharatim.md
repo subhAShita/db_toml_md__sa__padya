@@ -6,7 +6,7 @@ title = "प्रहरति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रहरति न पञ्चबाणः केवलमबले निमेषोऽपि।  
 वर्षति परं न देवः क्षणदायी विप्रयोगं ते॥

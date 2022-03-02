@@ -6,7 +6,7 @@ title = "धर्मार्थकामतत्त्वज्ञो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मार्थकामतत्त्वज्ञो नैकान्तकरुणो भवेत्।  
 नहि हस्तस्थमप्यन्नं क्षमावान्भक्षितुं क्षमः॥

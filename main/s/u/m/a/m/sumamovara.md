@@ -6,7 +6,7 @@ title = "सुमनोवररत्नानां धारणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुमनोवररत्नानां धारणं दिव्यरूपकृत्।  
 पापालक्ष्मीप्रशमनं चन्दनाद्यनुलेपनम्॥

@@ -6,7 +6,7 @@ title = "न गुणा)"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न गुणा) क्वापि पूज्यन्ते सत्स्वीकारो हि गौरवम्।  
 पीतिमा गुणसाम्येऽपि हरिद्रास्वर्णयोरिव॥

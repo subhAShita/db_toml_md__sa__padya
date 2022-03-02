@@ -6,7 +6,7 @@ title = "अदाता पुरुषस्त्यागी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदाता पुरुषस्त्यागी धनं संत्यज्य गच्छति।  
 दातारं कृपणं मन्ये मृतोऽप्यर्थं न मुञ्चति॥

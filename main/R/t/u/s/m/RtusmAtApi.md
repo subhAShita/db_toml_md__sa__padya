@@ -5,7 +5,7 @@ title = "ऋतुस्नाता पिबेन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋतुस्नाता पिबेन् नारी श्वेतकण्टारिकाजटाम्।  
 पयसा पुत्रसंभूतिस् तस्याः संजायते ध्रुवम्॥

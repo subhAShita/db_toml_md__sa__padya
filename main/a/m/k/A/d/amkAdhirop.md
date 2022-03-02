@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0255", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४२ तेजस्विप्रशंसा// 8",]
-jsonClass = "Subhaashita"
 topics = [ "तेजः",]
-title = "अङ्काधिरोपितमृगश्चन्द्रमा"
+jsonClass = "Subhaashita"
+title = "अङ्काधिरोपितमृगश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्काधिरोपितमृगश् चन्द्रमा मृगलाञ्छनः।  
 केसरी निष्ठुरक्षिप्तमृगयूथो मृगाधिपः॥

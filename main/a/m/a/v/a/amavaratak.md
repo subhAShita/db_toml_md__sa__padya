@@ -5,7 +5,7 @@ title = "अनवरतकनकवितरण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनवरतकनकवितरण- जललवभृतकरतरङ्गितार्थिततेः।  
 भणितिरिव मतिर्मतिरिव चेष्टा चेष्टेव कीर्तिरतिविमला॥

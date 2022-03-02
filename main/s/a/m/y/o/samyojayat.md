@@ -6,7 +6,7 @@ title = "संयोजयति विद्यैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संयोजयति विद्यैव नीचगापि नरं सरित्।  
 समुद्रमिव दुर्धर्षं नृपं भाग्यमतः परम्॥

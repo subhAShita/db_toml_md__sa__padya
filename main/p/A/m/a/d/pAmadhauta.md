@@ -7,7 +7,7 @@ title = "पानधौतनवयावकरागम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पानधौतनवयावकरागं सुभ्रुवो निभृतचुम्बनदक्षाः।  
 प्रेयसामधररागरसेन स्वं किलाभरमुपालि ररञ्जुः॥

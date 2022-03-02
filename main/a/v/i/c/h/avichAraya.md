@@ -5,7 +5,7 @@ title = "अविचारयतो युक्तिकथनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविचारयतो युक्तिकथनं तुषखण्डनम्।  
 नीचेषूपकृतं राजन् बालुकास्विव मूत्रितम्॥

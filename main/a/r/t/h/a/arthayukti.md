@@ -5,7 +5,7 @@ title = "अर्थयुक्तिमविज्ञाय यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थयुक्तिमविज्ञाय यः शुभे कुरुते मतिम्।  
 मित्रे वा यदि वा शत्रौ तस्यापि चलिता मतिः॥

@@ -6,7 +6,7 @@ title = "न यज्वानोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न यज्वानोऽपि गच्छन्ति तां गतिं नैव योगिनः।  
 यां यान्ति प्रोज्झितप्राणाः स्वाम्यर्थे सेवकोत्तमाः॥

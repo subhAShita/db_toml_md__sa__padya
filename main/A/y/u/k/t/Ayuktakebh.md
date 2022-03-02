@@ -5,7 +5,7 @@ title = "आयुक्तकेभ्यश्चोरेभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुक्तकेभ्यश्चोरेभ्यः परेभ्यो राजवल्लभात्।  
 पृथिवीपतिलोभाच्च प्रजानां पञ्चधा भयम्॥

@@ -6,7 +6,7 @@ title = "यः स्तोकेनापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः स्तोकेनापि सन्तोषं कुरुते मन्दधीर्जनः।  
 तस्य भाग्यविहीनस्य दत्ता श्रीरपि मार्ज्यते॥

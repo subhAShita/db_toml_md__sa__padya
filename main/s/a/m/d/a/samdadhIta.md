@@ -6,7 +6,7 @@ title = "सन्दधीत न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्दधीत न चानार्यैर्विगृह्णीयान्न बन्धुभिः।  
 नाभक्तं चारयेच्चारं कुर्यात्कार्यमपीडया॥

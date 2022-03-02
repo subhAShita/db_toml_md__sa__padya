@@ -6,7 +6,7 @@ title = "शब्दशक्त्यैव कुर्वाणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शब्दशक्त्यैव कुर्वाणा सर्वदानवनिर्वृतिम्।  
 काव्यविद्या श्रुतिगता स्यान्मृतस्यापि जीवनी॥

@@ -7,7 +7,7 @@ title = "जगति नैशमशीतकरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जगति नैशमशीतकरः करैर्वियति वारिदवृन्दमयं तमः।  
 जलजराजिषु नैद्रमदिद्रवन्न महतामहताः क्व च नारयः॥

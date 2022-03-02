@@ -6,7 +6,7 @@ title = "अधना धनमिच्छन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधना धनमिच्छन्ति वादमिच्छन्ति गर्विताः।  
 मानवाः स्वर्गमिच्छन्ति मोक्षमिच्छन्ति देवताः॥

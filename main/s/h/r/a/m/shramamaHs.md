@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 35",]
 rasas = [ "हास्यम्",]
-jsonClass = "Subhaashita"
 topics = [ "आचारः", "दम्भः", "श्रमणः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "श्रमणः श्रावकवध्वाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रमणः श्रावकवध्वाः सुरतविधौ दशति नाधरं दत्तम्।  
 मदिराक्षिमांसभक्षणमस्मत्समये निषिद्धमिति॥

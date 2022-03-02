@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2659", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 45",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "अयं मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं मे वाग्गुम्फो विशदपदवैदग्ध्यमधुरः स्फुरद्बन्धो वन्ध्यः परहृदि कृतार्थः कविहृदि।  
 कटाक्षो वामाक्ष्या दरदलितनेत्रान्तगलितः कुमारे निःसारः स तु किमपि यूनः सुखयति॥

@@ -7,7 +7,7 @@ title = "पूर्वापराविरोधेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूर्वापराविरोधेन कोऽन्वर्थोऽभिमतो भवेत् ।  
 इत्याद्यमूहनं तर्कः शुष्कतर्कं तु वर्ज्जयेत् ॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7303", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 8",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "ऊर्जितं सज्जनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊर्जितं सज्जनं दृष्ट्वा द्वेष्टि नीचः पुनः पुनः।  
 कवलीकुरुते स्वस्थं विधुं दिवि विधुंतुदः॥

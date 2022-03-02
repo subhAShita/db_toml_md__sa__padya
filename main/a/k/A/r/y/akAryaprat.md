@@ -5,7 +5,7 @@ title = "अकार्यप्रतिषेधश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकार्यप्रतिषेधश्च कार्याणां च प्रवर्तनम्।  
 प्रदानं च प्रदेयानाम् अदेयानामसंग्रहः॥

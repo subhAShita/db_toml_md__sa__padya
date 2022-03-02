@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0489", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 227",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "अणुरपि मणिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अणुरपि मणिः प्राणत्राणक्षमो विषभक्षिणां शिशुरपि रुषा सिंहीसूनुः समाह्वयते गजान्।  
 तनुरपि तरुस्कन्धोद्भूतो दहत्यनलो वनं प्रकृतिमहतां जात्यं तेजो न मूर्तिमपेक्षते॥

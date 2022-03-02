@@ -6,7 +6,7 @@ title = "शनिरशनिश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शनिरशनिश्च तमुच्चैर्निहन्ति कुप्यसि नरेन्द्र यस्मै त्वम्।  
 यत्र प्रसीदसि पुनः स भात्युदारोऽनुदारश्च॥

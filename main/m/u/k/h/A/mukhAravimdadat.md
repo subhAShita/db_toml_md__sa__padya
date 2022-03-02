@@ -7,7 +7,7 @@ title = "मुखारविन्ददत्तश्रीः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखारविन्ददत्तश्रीः सुतनोररुणोऽधरः।  
 कुरुते हारमाणिक्यप्रदीपान्पाण्डुरत्विषः॥

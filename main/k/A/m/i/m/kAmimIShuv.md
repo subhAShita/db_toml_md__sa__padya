@@ -5,7 +5,7 @@ title = "कामिनीषु विवाहेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिनीषु विवाहेषु गवां मुक्तौ तथैव च।  
 ब्राह्मणानां विपत्तौ च शपथैर्नास्ति पातकम्॥

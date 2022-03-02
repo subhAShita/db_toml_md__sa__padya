@@ -5,7 +5,7 @@ title = "सुचिरं कुसुमेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुचिरं कुसुमेषु परिभ्रमता न च मालति कापि तथा मिलिता।  
 मधुपेन पुनर्मधुपानविधौ हृदये न यथा भवती कलिता॥

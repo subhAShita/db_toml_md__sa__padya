@@ -6,7 +6,7 @@ title = "चादय इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चादय इति यत्र स्यादुत्तरमथ तत्र कीदृशः प्रश्नः।  
 कथय त्वरितं के स्युर्नौकाया वाहनोपायाः॥

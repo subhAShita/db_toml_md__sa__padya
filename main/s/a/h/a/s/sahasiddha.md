@@ -6,7 +6,7 @@ title = "सहसिद्धमिदं महताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहसिद्धमिदं महतां धनेष्वनास्था गुणेषु कृपणत्वम्।  
 परदुःखे कातरता महच्च धैर्यं स्वदुःखेषु॥

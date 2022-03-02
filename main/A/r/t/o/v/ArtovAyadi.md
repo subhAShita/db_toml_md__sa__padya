@@ -5,7 +5,7 @@ title = "आर्तो वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्तो वा यदि वा त्रस्तः परेषां शरणागतः।  
 अरिः प्राणान् परित्यज्य रक्षितव्यः कृतात्मना॥

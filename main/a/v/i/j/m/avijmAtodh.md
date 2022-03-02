@@ -5,7 +5,7 @@ title = "अविज्ञातो धृतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविज्ञातो धृतः खङ्गः शुभसंपत्तिनाशकः।  
 विज्ञातः सकलैश्वर्यदायको भवति प्रभोः।  

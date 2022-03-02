@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6197", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 5",]
-jsonClass = "Subhaashita"
 topics = [ "व्यभिचारिणी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इह वटवृक्षे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह वटवृक्षे यक्षः प्रतिवसति दिवापि यत्र भयशङ्का।  
 तस्मिन्नभिनववध्वा नीता वीतोदयाः क्षणदाः॥

@@ -6,7 +6,7 @@ title = "मन्दः पापग्रहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्दः पापग्रहः क्रौर्याद् अनिष्टः शुभकर्मणाम् ।  
 पिशुनः शनितुल्योपि चित्रं यदशनिर् नृणाम्  ॥

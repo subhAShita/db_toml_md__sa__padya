@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9019", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 992",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "कलासीमा काव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलासीमा काव्यं सकलगुणसीमा वितरणं भये सीमा मृत्युः सकलसुखसीमा सुवदना।  
 तपःसीमा मुक्तिः सकलकृतिसीमाश्रितभृतिः प्रिये सीमाह्लादः श्रवणसुखसीमा हरिकथा॥

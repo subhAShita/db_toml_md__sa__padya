@@ -6,7 +6,7 @@ title = "वयं काका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वयं काका वयं काका जल्पन्तीति प्रगे द्विकाः।  
 तिमिरारिस्तमो हन्यादिति शङ्कितमानसाः॥

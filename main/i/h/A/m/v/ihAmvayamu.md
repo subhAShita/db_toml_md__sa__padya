@@ -7,7 +7,7 @@ title = "इहान्वयमुखेनैव सर्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इहान्वयमुखेनैव सर्वं व्याख्यायते मया ।  
 नामूलं लिख्यते किञ्चिन्नानपेक्षितमुच्यते ॥

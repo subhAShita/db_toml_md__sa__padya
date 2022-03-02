@@ -6,7 +6,7 @@ title = "तृणादपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृणादपि लघुस्तूलस्तूलादपि च याचकः।  
 वायुना किं न नीतोऽसौ मामयं प्रार्थयेदिति॥

@@ -5,7 +5,7 @@ title = "कविरेव कवेर्वेत्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविरेव कवेर्वेत्ति काव्यकर्मणि कौशलम्।  
 शेषाहिरेव जानाति भुवो भारस्य निश्चयम्॥

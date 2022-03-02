@@ -5,7 +5,7 @@ title = "कालश्चालयति प्रायः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालश्चालयति प्रायः पण्डितान् पामरानपि।  
 तं चेच् चिकीर्षसि वशे तितिक्षैव महौषधम्॥

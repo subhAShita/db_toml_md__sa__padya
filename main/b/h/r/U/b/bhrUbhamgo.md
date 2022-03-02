@@ -6,7 +6,7 @@ title = "भ्रूभङ्गो गणितश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रूभङ्गो गणितश् चिरं नयनयोर् अभ्यस्तम् आमीलनं  
 रोद्धुं शिक्षितम् आदरेण हसितं मौने ऽभियोगः कृतः /  

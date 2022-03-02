@@ -6,7 +6,7 @@ title = "गुरुपत्न्यां निशाधीशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुपत्न्यां निशाधीशो ब्राह्मण्यां पाकशासनः।  
 गतः पञ्चेषु लक्ष्यत्वं का कथान्यस्य देहिनः॥

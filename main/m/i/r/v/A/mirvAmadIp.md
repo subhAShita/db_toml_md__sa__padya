@@ -6,7 +6,7 @@ title = "निर्वाणदीपे किमु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्वाणदीपे किमु तैलदानं चौरे गते वा किमु सावधानम्।  
 वयोगते किं वनिताविलासः पयोगते किं खलु सेतुबन्धः॥

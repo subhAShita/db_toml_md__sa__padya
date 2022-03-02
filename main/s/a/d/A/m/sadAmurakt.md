@@ -6,7 +6,7 @@ title = "सदानुरक्तप्रकृतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदानुरक्तप्रकृतिः प्रजापालनतत्परः।  
 विनीतात्मा हि नृपतिर्भूयसीं श्रियमश्नुते॥

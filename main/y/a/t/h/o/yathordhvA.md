@@ -7,7 +7,7 @@ title = "यथोर्ध्वाक्षः पिबत्यम्बु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथोर्ध्वाक्षः पिबत्यम्बु पथिको विरलाङ्गुलिः।  
 तथा प्रपापालिकापि धारां वितनुते तनुम्॥

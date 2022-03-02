@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3534", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// ०२ अश्रूणि// 113",]
-jsonClass = "Subhaashita"
 topics = [ "अश्रूणि",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अश्रुच्छलेन सुदृशो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्रुच्छलेन सुदृशो हुतपावकधूमकलुषाक्ष्याः।  
 अप्राप्य मानमङ्गे विगलति लावण्यवारिपूर इव॥

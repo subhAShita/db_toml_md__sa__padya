@@ -5,7 +5,7 @@ title = "आजननादामरणा दभ्यस्यतु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आजननादामरणा- दभ्यस्यतु वायसस्तपस्यतु वा।  
 एकामपि काकलिकां कोकिलकान्तेव नाकलयेत्॥

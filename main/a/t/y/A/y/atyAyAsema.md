@@ -5,7 +5,7 @@ title = "अत्यायासेन नात्मानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यायासेन नात्मानं कुर्यादतिसमुच्छ्रयम्।  
 पातो यथा हि दुःखाय नोच्छ्रायः सुखकृत् तथा॥

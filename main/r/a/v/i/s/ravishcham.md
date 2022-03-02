@@ -6,7 +6,7 @@ title = "रविश्चन्द्रो घना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रविश्चन्द्रो घना वृक्षा नदी गावश्च सज्जनाः।  
 एते परोपकाराय युगे दैवेन निर्मिताः॥

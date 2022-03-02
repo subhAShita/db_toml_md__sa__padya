@@ -6,7 +6,7 @@ title = "साधारणतरुबुद्ध्या न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधारणतरुबुद्ध्या न मया बद्धस्तवालवालोऽपि।  
 लज्जयसि मामिदानीं चम्पक भुवनाधिवासिभिः कुसुमैः॥

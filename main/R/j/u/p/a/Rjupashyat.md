@@ -5,7 +5,7 @@ title = "ऋजु पश्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋजु पश्यति यः सर्वं चक्षुषानुपिबन्निव।  
 आसीनमपि तूष्णीकम् अनुरज्यन्ति तं प्रजाः॥

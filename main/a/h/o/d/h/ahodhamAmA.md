@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4151", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 53",]
-jsonClass = "Subhaashita"
 topics = [ "कृपणः",]
+jsonClass = "Subhaashita"
 title = "अहो धनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो धनानां महती विदग्धता सुखोषितानां कृपणस्य वेश्मनि।  
 व्रजन्ति न त्यागदशां न भोग्यतां परां च कांचित् प्रथयन्ति निर्वृतिम्॥

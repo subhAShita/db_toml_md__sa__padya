@@ -7,7 +7,7 @@ title = "यत्र पतत्यबलानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्र पतत्यबलानां दृष्टिर्निशिताः पतन्ति तत्र शराः।  
 तच्चापरोपितशरो धावत्यासां पुरः स्मरो मन्ये॥

@@ -6,7 +6,7 @@ title = "पपात पाथःकणिका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पपात पाथःकणिका न भूमाववाप शान्तिं ककुभां न तापः।  
 दृष्ट्वैव जीवातुरयं तडित्वान्कृषीवलानां मुदमाततान॥

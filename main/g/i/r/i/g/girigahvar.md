@@ -6,7 +6,7 @@ title = "गिरिगह्वरेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गिरिगह्वरेषु गुरुगर्वगुम्फितो गजराजपोत न कदापि सञ  
 ्चर।  

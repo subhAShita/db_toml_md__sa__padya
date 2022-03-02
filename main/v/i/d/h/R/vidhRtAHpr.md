@@ -7,7 +7,7 @@ title = "विधृताः प्रियस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विधृताः प्रियस्य केशाः कण्ठे लग्नं भुजे वलितम्।  
 मज्जन्त्या रससिन्धौ किं किं न कृतं तया सुदृशा॥

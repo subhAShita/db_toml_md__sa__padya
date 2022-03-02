@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3402", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 401",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "अविश्रामं वहेद्भारम्"
+jsonClass = "Subhaashita"
+title = "अविश्रामं वहेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविश्रामं वहेद् भारं शीतोष्णं च न विन्दति।  
 ससंतोषस्तथा नित्यं त्रीणि शिक्षेत गर्दभात्॥

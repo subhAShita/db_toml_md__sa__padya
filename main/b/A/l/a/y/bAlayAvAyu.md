@@ -7,7 +7,7 @@ title = "बालया वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बालया वा युवत्या वा वृद्धया वापि योषिता।  
 न स्वातन्त्र्येण कर्तव्यं किञ्चित्कार्यं गृहेष्वपि॥

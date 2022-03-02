@@ -7,7 +7,7 @@ title = "श्रोत्रपीयूषगण्डूषैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रोत्रपीयूषगण्डूषैः काकलीकलगीतिभिः।  
 कण्ठः कुण्ठितचातुर्यो विपञ्चीपञ्चमध्वनेः॥

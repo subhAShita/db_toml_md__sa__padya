@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4212", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ११ छान्दसनिन्दा// 1",]
-jsonClass = "Subhaashita"
 topics = [ "वैदिकः",]
-title = "आः कष्टमप्रहृष्टाः"
+jsonClass = "Subhaashita"
+title = "आः कष्टमप्रःऋष्टाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आः कष्टमप्रःऋष्टाः शिष्टा अपि वित्तचापलाविष्टाः।  
 अध्यापयन्ति वेदान् आदाय चिराय मासि मासि भृतिम्॥

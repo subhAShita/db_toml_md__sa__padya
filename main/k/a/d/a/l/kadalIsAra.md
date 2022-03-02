@@ -5,7 +5,7 @@ title = "कदलीसारनिःसारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदलीसारनिःसारे मृगतृष्णेव चञ्चले।  
 स्थावरे जंगमे सर्वे भूतग्रामे चतुर्विधे॥

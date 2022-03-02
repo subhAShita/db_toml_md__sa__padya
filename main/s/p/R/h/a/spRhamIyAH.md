@@ -6,7 +6,7 @@ title = "स्पृहणीयाः कस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्पृहणीयाः कस्य न ते सुमतेः सरलाशया महात्मानः।  
 त्रयमपि येषां सदृशं हृदयं वचनं तथाचारः॥

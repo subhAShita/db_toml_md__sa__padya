@@ -6,7 +6,7 @@ title = "युक्त्या परोक्षम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युक्त्या परोक्षं बाधेत विपक्षक्षपणक्षमः।  
 शोषयत्यचिरेणैव प्रान्तरस्थमलं पयः॥

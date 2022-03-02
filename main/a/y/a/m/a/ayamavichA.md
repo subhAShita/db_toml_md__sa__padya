@@ -5,7 +5,7 @@ title = "अयमविचारितचारुतया संसारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमविचारितचारुतया संसारो भाति रमणीयः।  
 अत्र पुनः परमार्थदृशां न किमपि सारमणीयः॥

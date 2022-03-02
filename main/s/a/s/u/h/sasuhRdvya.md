@@ -6,7 +6,7 @@ title = "स सुहृद्व्यसने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स सुहृद्व्यसने यः स्यात्स पुत्रो यस्तु भक्तिमान्।  
 स भृत्यो यो विधेयज्ञः सा भार्या यत्र निर्वृतिः॥

@@ -5,7 +5,7 @@ title = "कलिमायान्तमुत्प्रेक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलिमायान्तमुत्प्रेक्ष्य विलीयन्ते सुरा अपि।  
 तदाश्रितस्य धर्मादेः का कथा जीवने पुनः॥

@@ -6,7 +6,7 @@ title = "आत्मनः परितोषाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनः परितोषाय कवेः काव्यं तथापि तत् ।  
 स्वामिनो देहलीदीपसमं अन्योपकारकं ॥

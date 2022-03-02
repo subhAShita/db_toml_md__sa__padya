@@ -5,7 +5,7 @@ title = "अस्ते शिवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्ते शिवा पश्चिमायां परचक्रभयाय सा।  
 शुभा कुबेरदिश्यस्ते ग्रामान्तः शून्यकारिणी॥

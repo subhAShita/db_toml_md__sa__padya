@@ -6,7 +6,7 @@ title = "लुब्धमर्थेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लुब्धमर्थेन गृह्णीयात्क्रुद्धमञ्जलिकर्मणा।  
 मूर्खं छन्दानुवृत्त्या च तत्त्वार्थेन च पण्डितम्॥

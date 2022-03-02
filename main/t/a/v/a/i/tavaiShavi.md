@@ -7,7 +7,7 @@ title = "तवैष विद्रुमच्छायो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तवैष विद्रुमच्छायो मरुमार्ग इवाधरः।  
 करोति कस्य नो मुग्धे पिपासाकुलितं मनः॥

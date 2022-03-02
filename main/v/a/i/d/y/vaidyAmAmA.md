@@ -6,7 +6,7 @@ title = "वैद्यानामातुरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वैद्यानामातुरः श्रेयान्व्यसनी मौनियोगिनाम्।  
 विदुषां जीवनं मूर्खः सद्वर्णो जीवनं सताम्॥

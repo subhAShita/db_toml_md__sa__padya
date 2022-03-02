@@ -6,7 +6,7 @@ title = "मृदुभिर्बहुभिः शूरः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृदुभिर्बहुभिः शूरः पुम्भिरेको न बाध्यते।  
 कपोतपोतकैरेकः श्येनो जातु न बाध्यते॥

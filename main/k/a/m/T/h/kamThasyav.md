@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8397", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१४ कण्ठः// 211",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "कण्ठः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कण्ठस्य विदधे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्ठस्य विदधे कान्तिं मुक्ताभरणता यथा।  
 तस्याः स्वभावरम्यस्य मुक्ताभरणता तथा॥

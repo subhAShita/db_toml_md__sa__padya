@@ -5,7 +5,7 @@ title = "आवर्जितालकालि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवर्जितालकालि श्वासोत्कम्पस्तनार्पितैकभुजम्।  
 शयनं रतिविवशतनोः स्मरामि शिथिलांशुकं तस्याः॥

@@ -5,7 +5,7 @@ title = "अर्पयन्त्यर्थिने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्पयन्त्यर्थिने प्राणान् न प्रणाममरातये।  
 न नास्तीत्युत्तरं जातु सुहृदे सुमनोजनाः॥

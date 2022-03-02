@@ -6,7 +6,7 @@ title = "निमेषमात्रमपि ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निमेषमात्रमपि ते वयो गच्छन्न तिष्ठति।  
 तस्माद्देहेष्वनित्येषु कीर्तिमेकामुपार्जय॥

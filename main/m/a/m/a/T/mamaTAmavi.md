@@ -6,7 +6,7 @@ title = "न नटा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न नटा न विटा न गायका  
 न परद्रोहनिबद्धबुद्धयः।  

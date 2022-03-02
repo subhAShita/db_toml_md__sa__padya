@@ -5,7 +5,7 @@ title = "अनागतं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनागतं हि बुध्येत यच्च कार्यं पुरः स्थितम्।  
 न तु बुद्धिक्षयात् किंचिद् अतिक्रामेत् प्रयोजनम्॥

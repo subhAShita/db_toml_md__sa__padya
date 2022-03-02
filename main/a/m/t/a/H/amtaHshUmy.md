@@ -6,7 +6,7 @@ title = "अन्तःशून्या वयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःशून्या वयं सर्वे बहिर्विषयसङ्कटाः ।  
 कृती कश्चिद्बहिःशून्यो विश्वमन्तःस्थमीक्षते ॥

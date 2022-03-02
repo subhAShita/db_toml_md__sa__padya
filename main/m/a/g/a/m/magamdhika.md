@@ -6,7 +6,7 @@ title = "न गन्धिकमपेक्षते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न गन्धिकमपेक्षते विकसनाय पुष्पावली  
 वनेऽप्युपवनेऽप्यसौ समतया समुन्मीलति ।  

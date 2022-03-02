@@ -6,7 +6,7 @@ title = "स्थाने शमवताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्थाने शमवतां शक्त्या  
 व्यायामे वृद्धिरङ्गिनाम्।  

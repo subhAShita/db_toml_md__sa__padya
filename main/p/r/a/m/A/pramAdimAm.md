@@ -6,7 +6,7 @@ title = "प्रमादिनां तथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रमादिनां तथा चौरा भिक्षुका गृहमेधिनाम्।  
 गणिकाः कामुकानां च सर्वलोकस्य शिल्पिनः॥

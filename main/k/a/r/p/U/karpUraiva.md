@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8876", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०१ मनसिजप्रशंसा// 5",]
-jsonClass = "Subhaashita"
 topics = [ "कामदेवः", "कामः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "कर्पूर इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्पूर इव दग्धोपि शक्तिमान् यो जने जने।  
 नमोऽस्त्ववार्यवीर्याय तस्मै मकरकेतवे॥

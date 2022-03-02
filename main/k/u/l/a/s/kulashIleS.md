@@ -5,7 +5,7 @@ title = "कुलशीलेषु सम्पन्नो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुलशीलेषु सम्पन्नो नीतिधर्मेषु पण्डितः।  
 तथैव पूज्यते राजा चतुरस्रः प्रकीर्तितः॥

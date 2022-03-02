@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6837", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 238",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
-title = "उद्भासिताखिलखलस्य"
+jsonClass = "Subhaashita"
+title = "उद्भासिताखिलखलस्य विशृ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्भासिताखिलखलस्य विशृ खलस्य प्राग्जातविस्मृतनिजाधमकर्मवृत्तेः।  
 दैवादवाप्तविभवस्य गुणद्विषोऽस्य नीचस्य गोचरगतैः सुखमास्यते कैः॥

@@ -5,7 +5,7 @@ title = "अन्धः स्यादन्धवेलायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्धः स्यादन्धवेलायां बाधिर्यमपि चाश्रयेत्।  
 कुर्यात् तृणमयं चापं शयीत मृगशायिकाम्॥

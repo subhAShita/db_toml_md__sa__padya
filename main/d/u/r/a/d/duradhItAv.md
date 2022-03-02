@@ -6,7 +6,7 @@ title = "दुरधीता विषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुरधीता विषं विद्या अजीर्णे भोजनं विषम्।  
 विषं गोष्ठी दरिद्रस्य वृद्धस्य तरुणी विषम्॥

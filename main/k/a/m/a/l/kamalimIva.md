@@ -5,7 +5,7 @@ title = "कमलिनीवनकेलिकलारसी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलिनीवनकेलिकलारसी गुणवशीकृतकैरविणीगुणः।  
 अलिरसौ तव सौरभलोभतः पतति केतकिकण्टकसंकटे॥

@@ -6,7 +6,7 @@ title = "शूरोऽसि कृतविद्योऽसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शूरोऽसि कृतविद्योऽसि दर्शनीयोऽसि पुत्रक।  
 कुले तस्मिन् प्रजातोऽसि गजो यत्र न हन्यते॥

@@ -6,7 +6,7 @@ title = "तदपकृतं विधिनार्थिषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तदपकृतं विधिनार्थिषु यत्सन्तः स्वल्पसम्पदो विहिताः।  
 तुच्छे पयसि घनानां सीदति बत जीवलोकोऽयम्॥

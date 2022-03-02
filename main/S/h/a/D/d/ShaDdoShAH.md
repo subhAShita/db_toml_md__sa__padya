@@ -6,7 +6,7 @@ title = "षड्दोषाः पुरुषेणेह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 षड्दोषाः पुरुषेणेह हातव्या भूतिमिच्छता।  
 निद्रा तन्द्रा भयं क्रोध आलस्यं दीर्घसूत्रता॥

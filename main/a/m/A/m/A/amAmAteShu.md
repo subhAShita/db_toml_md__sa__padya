@@ -7,7 +7,7 @@ title = "अनाम्नातेषु धर्मेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाम्नातेषु धर्मेषु कथं स्यादिति चेद्भवेत् ।  
 यं शिष्टा ब्राह्मणा ब्रूयुः स धर्मः स्यादशङ्कितः  ॥

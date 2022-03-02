@@ -5,7 +5,7 @@ title = "कः पौरवे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः पौरवे वसुमतीं शासति शासितरि दुर्विनीतानाम्।  
 अयमाचरत्यविनयं मुग्धासु तपस्विकन्यासु॥

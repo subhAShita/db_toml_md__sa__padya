@@ -7,7 +7,7 @@ title = "नामृतं न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नामृतं न विषं किञ्चिदेकां मुक्त्वा नितम्बिनीम्।  
 यस्याः सङ्गेन जीव्येत म्रियेत च वियोगतः॥

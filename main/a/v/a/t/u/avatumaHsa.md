@@ -6,7 +6,7 @@ title = "अवतु नः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवतु नः सवितुस्तुरगावली समतिलङ्घिततुङ्गपयोधरा।  
 स्फुरितमध्यगतारुणनायका मरकतैकलतेव नभश्रियः॥

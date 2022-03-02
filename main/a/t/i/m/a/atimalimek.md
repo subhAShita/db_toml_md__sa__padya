@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0588", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 126",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अतिमलिने कर्तव्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिमलिने कर्तव्ये भवति खलानामतीव निपुणा धीः।  
 तिमिरे हि कौशिकानां रूपं प्रतिपद्यते दृष्टिः॥

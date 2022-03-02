@@ -6,7 +6,7 @@ title = "हरेः पदाहतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हरेः पदाहतिः श्लाघ्या न श्लाघ्यं खररोहणम्।  
 स्पर्धापि विदुषा युक्ता न युक्ता मूर्खमित्रता॥

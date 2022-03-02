@@ -6,7 +6,7 @@ title = "उपचरितव्याः सन्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपचरितव्याः सन्तो यद्यपि कथयन्ति नैकमुपदेशम्।  
 यास्तेषां स्वैरकथास्ता एव भवन्ति शास्त्राणि॥

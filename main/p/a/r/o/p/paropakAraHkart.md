@@ -6,7 +6,7 @@ title = "परोपकारः कर्तव्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परोपकारः कर्तव्यः प्राणैरपि धनैरपि।  
 परोपकारजं पुण्यं न स्यात्क्रतुशतैरपि॥

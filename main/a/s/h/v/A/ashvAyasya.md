@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3563", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०९ तुरगाः// 50",]
-jsonClass = "Subhaashita"
 topics = [ "अश्वः",]
+jsonClass = "Subhaashita"
 title = "अश्वा यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्वा यस्य जयस्तस्य यस्याश्वास्तस्य मेदिनी।  
 अश्वा यस्य यशस् तस्य यस्याश्वास् तस्य काञ्चनम्॥

@@ -7,7 +7,7 @@ title = "या कथञ्चन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या कथञ्चन सखीवचनेन प्रागभिप्रियतमं प्रजगल्भे।  
 व्रीडजाड्यमभजन्मधुपा सा स्वां मदात्प्रकृतिमेति हि सर्वः॥

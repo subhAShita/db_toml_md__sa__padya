@@ -6,7 +6,7 @@ title = "प्रकृतिप्रत्ययोपेतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकृतिप्रत्ययोपेतः सद्वृत्तः साधुसंमतः।  
 अर्थार्पणसमर्थश्च सुश्लोक इव सज्जनः॥

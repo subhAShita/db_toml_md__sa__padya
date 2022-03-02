@@ -7,7 +7,7 @@ title = "चरणकमलं तदीयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चरणकमलं तदीयं लाक्षाबालातपेन संवलितम्।  
 अध्यास्त भृङ्गमालावलिभिर्मणिखचितनूपुरव्याजात्॥

@@ -6,7 +6,7 @@ title = "सामध्वनावृग्यजुषी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सामध्वनावृग्यजुषी नाधीयीत कदा चन ।  
 वेदस्याधीत्य वाऽप्यन्तमारण्यकमधीत्य च ॥  

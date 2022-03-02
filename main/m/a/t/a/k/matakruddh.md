@@ -7,7 +7,7 @@ title = "मत्तक्रुद्धातुराणां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मत्तक्रुद्धातुराणां च न भुञ्जीत कदा चन ।  
 केशकीटावपन्नं च पदा स्पृष्टं च कामतः ॥  

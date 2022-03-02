@@ -5,7 +5,7 @@ title = "अयं रसालः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं रसालः सुकृतैकसालः प्रवालमालोल्लसदालवालः।  
 मुदः प्रदाता भविता कथं मे वराङ्गनेत्यश्रुमुखी शुशोच॥

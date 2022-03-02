@@ -6,7 +6,7 @@ title = "श्यामा मन्थरगामिन्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामा मन्थरगामिन्यः पीनोन्नतपयोधराः।  
 महिष्यश्च महिष्यश्च सन्ति पुण्यवतां गृहे॥

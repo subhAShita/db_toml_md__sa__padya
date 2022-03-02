@@ -5,7 +5,7 @@ title = "कथनेन विनाप्याशाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कथनेन विनाप्याशां पूरयन्ति हि साधवः।  
 प्रतिगेहं भासते हि विवस्वान् कथनं विना॥

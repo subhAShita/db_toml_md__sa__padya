@@ -6,7 +6,7 @@ title = "नारसिंहाकृतिं वीक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नारसिंहाकृतिं वीक्ष्य वने मत्तमतङ्गजः।  
 अत्र क्रियापदं गुप्तं यो जानाति स पण्डितः॥

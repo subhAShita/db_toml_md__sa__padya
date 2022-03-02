@@ -7,7 +7,7 @@ title = "सुमुखेन वदन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुमुखेन वदन्ति वल्गुना प्रहरन्त्येव शितेन चेतसा।  
 मधु तिष्ठति वाचि योषितां हृदये हालहलं महद्विषम्॥

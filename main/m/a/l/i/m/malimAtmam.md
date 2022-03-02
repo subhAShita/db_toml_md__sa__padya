@@ -6,7 +6,7 @@ title = "मलिनात्मना विरागः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मलिनात्मना विरागः प्रकटीकृत एव कोकिलकलेन।  
 जीवनदानामुन्नतिसमये वाचंयमीभवता॥

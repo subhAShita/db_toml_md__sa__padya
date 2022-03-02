@@ -5,7 +5,7 @@ title = "अकपर्द्दकस्य विफलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकपर्द्दकस्य विफलं जनुरिति जानीमहे महेशोऽपि।  
 शिरसि कृतेन कपर्द्दी भवति जटाजूटकेनापि॥

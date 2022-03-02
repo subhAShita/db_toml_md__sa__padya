@@ -6,7 +6,7 @@ title = "सरस्वतिप्रसादं मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरस्वतिप्रसादं मे स्थितिं चित्तसरस्वति।  
 सरस्वति कुरु क्षेत्रकुरुक्षेत्रसरस्वति॥

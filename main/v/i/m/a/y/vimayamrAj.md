@@ -6,7 +6,7 @@ title = "विनयं राजपुत्रेभ्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विनयं राजपुत्रेभ्यः पण्डितेभ्यः सुभाषितम्।  
 अनृतं द्यूतकारेभ्यः स्त्रीभ्यः शिक्षेत कैतवम्॥

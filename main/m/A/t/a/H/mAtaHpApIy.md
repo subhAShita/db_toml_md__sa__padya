@@ -6,7 +6,7 @@ title = "नातः पापीयसीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नातः पापीयसीं काञ्चिदवस्थां शम्बरोऽब्रवीत्।  
 यस्यां नैवाद्य न प्रातर्भोजनं तात विद्यते॥

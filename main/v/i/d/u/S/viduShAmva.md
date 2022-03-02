@@ -6,7 +6,7 @@ title = "विदुषां वदनाद्वाचः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विदुषां वदनाद्वाचः सहसा यान्ति नो बहिः।  
 याताश्चेन्न पराञ्चन्ति द्विरदानां रदा इव॥

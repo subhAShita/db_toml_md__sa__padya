@@ -6,7 +6,7 @@ title = "संसदि तदेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संसदि तदेव भूषणमुपकारकमवसरे धनं मुख्यम्।  
 सूक्तं दधति सुवर्णं कल्याणमनर्घमिह धन्याः॥

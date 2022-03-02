@@ -6,7 +6,7 @@ title = "विद्यया शस्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्यया शस्यते लोके पूज्यते चोत्तमैः सदा।  
 विद्याहीनो नरः प्राज्ञः सभायां नैव शोभते॥

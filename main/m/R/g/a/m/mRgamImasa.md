@@ -8,7 +8,7 @@ title = "मृगमीनसज्जनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मृगमीनसज्जनानां तृणजलसंतोषविहितवृत्तीनाम्।  
 लुब्धकधीवरपिशुना निष्कारणवैरिणो जगति॥

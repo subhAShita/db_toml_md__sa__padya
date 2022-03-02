@@ -5,7 +5,7 @@ title = "अलियुवा विललास"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलियुवा विललास चिराय यस् त्रिदशशैवलिनीकमलोदरे।  
 विधिवियोगनियोगवशीकृतो गततरौ स मरौ रमते कथम्॥

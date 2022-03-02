@@ -5,7 +5,7 @@ title = "अर्थौचित्यवता सूक्तिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थौचित्यवता सूक्तिर् अलंकारेण शोभते।  
 पीनस्तनस्थितेनेव हारेण हरिणेक्षणा॥

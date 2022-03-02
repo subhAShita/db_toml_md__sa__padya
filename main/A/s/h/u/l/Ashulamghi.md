@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5460", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०३ विहारः// 25",]
-jsonClass = "Subhaashita"
 topics = [ "विहारः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "आशु लङ्घितवतीष्टकराग्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आशु लङ्घितवतीष्टकराग्रे नीविमर्धमुकुलीकृतदृष्ट्या।  
 रक्तवैणिकहताधरतन्त्री- मण्डलक्वणितचारु चुकूजे॥

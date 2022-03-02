@@ -6,7 +6,7 @@ title = "नागदन्ता महान्तोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नागदन्ता महान्तोऽपि निर्विषाः शिल्पिकल्पकाः ।  
 त एवाल्पा विषोदन्ता नरकप्रभुसायकाः ॥

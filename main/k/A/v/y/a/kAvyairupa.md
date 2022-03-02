@@ -5,7 +5,7 @@ title = "काव्यैरुपहता वेदाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यैरुपहता वेदाः पुत्रा जामातृभिर्हताः।  
 अश्वैरुपहता गावः पण्यस्त्रीभिः कुलाङ्गनाः॥

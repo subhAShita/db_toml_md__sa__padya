@@ -6,7 +6,7 @@ title = "प्राप्तार्थग्रहणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राप्तार्थग्रहणं द्रव्यपरिवर्तोऽनुरोधनम्।  
 उपेक्षा बुद्धिहीनत्वं भोगोऽमात्यस्य दूषणम्॥

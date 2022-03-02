@@ -7,7 +7,7 @@ title = "याः पश्यन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 याः पश्यन्ति प्रियं स्वप्ने धन्यास्ताः सखि योषितः।  
 अस्माकं तु गते कान्ते गता निद्रापि वैरिणी॥

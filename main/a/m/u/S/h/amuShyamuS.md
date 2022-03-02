@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2514", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// 65",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "नेत्रे",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अमुष्य मुषिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुष्य मुषिता लक्ष्मीश् चक्षुषेति न नूतनम्।  
 न वेद्मि कथयत्यस्याः कर्णे लग्नं किमुत्पलम्॥

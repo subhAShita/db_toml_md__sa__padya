@@ -6,7 +6,7 @@ title = "मुञ्चन्तश्चापलरसम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुञ्चन्तश्चापलरसं प्रस्तिताः पावने पथि।  
 घना इवार्द्रहृदयाः सन्तो जीवनहेतवः॥

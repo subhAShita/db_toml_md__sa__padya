@@ -5,7 +5,7 @@ title = "अज्ञातभाविचौरादि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञातभाविचौरादि दोषैर्नित्यविनाशिना।  
 हास्यैकहेतुना लोके गणकस्य धनेन किम्॥

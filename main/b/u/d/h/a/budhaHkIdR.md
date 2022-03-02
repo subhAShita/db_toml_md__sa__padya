@@ -6,7 +6,7 @@ title = "बुधः कीदृग्वचो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुधः कीदृग्वचो ब्रूते को रोगी कश्च नास्तिकः।  
 कीदृक्चन्द्रं नमस्यन्ति किं सूत्रं पाणिनेर्वद॥

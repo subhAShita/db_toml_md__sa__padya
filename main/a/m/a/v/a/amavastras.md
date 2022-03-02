@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1722", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०२ कर्तृगुप्तम्// 19",]
-jsonClass = "Subhaashita"
 types = [ "कर्तृगुप्तम्",]
+jsonClass = "Subhaashita"
 title = "अन्नवस्त्रसुवर्णानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नवस्त्रसुवर्णानि रत्नानि विविधानि च।  
 ब्राह्मणेभ्यो नदीतीरे ददाति व्रज सत्वरम्॥

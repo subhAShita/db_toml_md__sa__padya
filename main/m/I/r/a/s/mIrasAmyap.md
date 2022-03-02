@@ -6,7 +6,7 @@ title = "नीरसान्यपि रोचन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नीरसान्यपि रोचन्ते कार्पासस्य फलानि मे।  
 येषां गुणमयं जन्म परेषां गुह्यगुप्तये॥

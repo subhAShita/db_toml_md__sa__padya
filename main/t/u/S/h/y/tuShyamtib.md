@@ -6,7 +6,7 @@ title = "तुष्यन्ति भोजनैर्विप्रा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुष्यन्ति भोजनैर्विप्रा मयूरा घनगर्जितैः।  
 साधवः परसन्तोषैः खलाः परविपत्तिषु॥

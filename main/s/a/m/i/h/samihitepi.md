@@ -6,7 +6,7 @@ title = "सन्निहितेऽपि दुरापे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्निहितेऽपि दुरापे वस्तुनि मनसोऽनवाप्तविषयस्य।  
 भवति न संशयनाशो बहुशोऽप्याश्वास्यमानस्य॥

@@ -6,7 +6,7 @@ title = "परैः सम्भुज्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परैः सम्भुज्यते राज्यं स्वयं पापस्य भाजनम्।  
 धर्मातिक्रमतो राजा सिंहो हस्तिवधादिव॥

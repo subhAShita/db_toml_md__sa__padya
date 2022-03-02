@@ -6,7 +6,7 @@ title = "सुशीलो मातृपुण्येन,"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुशीलो मातृपुण्येन,  
 पितृपुण्येन चातुरः।  

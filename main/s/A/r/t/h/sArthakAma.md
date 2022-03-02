@@ -7,7 +7,7 @@ title = "सार्थकानर्थकपदं ब्रुवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सार्थकानर्थकपदं ब्रुवती मन्थराक्षरम्।  
 निद्रार्धमीलिताक्षी सा लिखितेवास्ति मे हृदि॥

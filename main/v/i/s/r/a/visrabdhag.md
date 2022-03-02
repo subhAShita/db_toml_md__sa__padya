@@ -6,7 +6,7 @@ title = "विस्रब्धघातदोषः स्ववधाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विस्रब्धघातदोषः स्ववधाय खलस्य वीरकोपकरः।  
 नवतरुभङ्गध्वनिरिव हरिनिद्रातस्करः करिणः॥

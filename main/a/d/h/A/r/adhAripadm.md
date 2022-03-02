@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1090", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०३ युववर्णनम्// 1",]
-jsonClass = "Subhaashita"
 topics = [ "युवा", "यौवनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधारि पद्मेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधारि पद्मेषु तदङ्घ्रिणा घृणा क्व तच्छयच्छायलवोऽपि पल्लवे।  
 तदास्यदास्येऽपि गतोऽधिकारितां न शारदः पार्विकशर्वरीश्वरः॥

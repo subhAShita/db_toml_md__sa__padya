@@ -6,7 +6,7 @@ title = "विकसामि रवावुदिते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विकसामि रवावुदिते संकोचमुपैमि चास्तमुपयाते।  
 दारिद्र्यसरसि मग्नः पङ्कजलीलामनुभवामि॥

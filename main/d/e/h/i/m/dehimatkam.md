@@ -6,7 +6,7 @@ title = "देहि मत्कन्दुकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देहि मत्कन्दुकं राधे परिधाननिगूहितम्।  
 इति विस्रंसयन्नीवीं तस्याः कृष्णो मुदेऽस्तु नः॥

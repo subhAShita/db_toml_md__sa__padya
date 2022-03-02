@@ -5,7 +5,7 @@ title = "कर्मणो ह्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।  
 अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः॥

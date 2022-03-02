@@ -6,7 +6,7 @@ title = "यद्यपि खदिरारण्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि खदिरारण्ये गुप्तौ वस्ते हि चम्पको वृक्षः।  
 तदपि च परिमलमतुलं दिशि दिशि कथयेत्समीरणस्तस्य॥

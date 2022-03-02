@@ -5,7 +5,7 @@ title = "उत्पल्लव इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पल्लव इव किरणैः कुसुमित इव तारकाभिरयमिन्दुः।  
 उदयत्युदयतटान्ते सुरतरुरिव शीतलच्छायः॥

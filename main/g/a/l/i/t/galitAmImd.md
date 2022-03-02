@@ -6,7 +6,7 @@ title = "गलितानीन्द्रलक्षाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गलितानीन्द्रलक्षाणि बुद्बुदानीव वारिणि।  
 मां जीवितनिबद्धाशं विहसिष्यन्ति साधवः॥

@@ -7,7 +7,7 @@ title = "तव विरहे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव विरहे विधुवदना मदनाधिक का न सीदन्ति।  
 सीदसि विरहे यस्याः साधु तपस्याफलं तस्याः॥

@@ -5,7 +5,7 @@ title = "उत्पथेन क्वचिद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्पथेन क्वचिद् याति क्वचिन् मार्गेण गच्छति।  
 मुहुरुष्णो मुहुः शीतश् चपलश्चपलायते॥

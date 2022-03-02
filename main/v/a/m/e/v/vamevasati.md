@@ -6,7 +6,7 @@ title = "वने वसति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वने वसति को वीरो योऽस्थिमांसविवर्जितः।  
 असिवत्कुरुते कार्यं कार्यं कृत्वा वनं गतः॥

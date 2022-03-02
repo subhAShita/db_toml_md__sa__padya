@@ -5,7 +5,7 @@ title = "अपूर्णे नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूर्णे नैव मर्तव्यं संपूर्णे नैव जीवति।  
 तस्माद्धैर्यं विधातव्यं हन्तव्या परवाहिनी॥

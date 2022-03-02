@@ -5,7 +5,7 @@ title = "कलिकलुषसङ्कटाकुल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलिकलुषसङ्कटाकुल- कुटुम्बसंवलनखेदविकलस्य प्रतिनिधिरिव प्रवासः संसारविरागसुखसमुद्रस्य॥
 </details>

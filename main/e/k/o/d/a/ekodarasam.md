@@ -5,7 +5,7 @@ title = "एकोदरसमुद्भूता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोदरसमुद्भूता एकनक्षत्रजातकाः।  
 न भवन्ति समाः शीले यथा बदरकण्टकाः॥

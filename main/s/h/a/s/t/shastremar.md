@@ -6,7 +6,7 @@ title = "शस्त्रेण रक्षिते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शस्त्रेण रक्षिते राष्ट्रे शास्त्रचिन्ता प्रवर्तते
 </details>

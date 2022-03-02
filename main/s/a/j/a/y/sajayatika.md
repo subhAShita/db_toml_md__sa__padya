@@ -6,7 +6,7 @@ title = "स जयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स जयति कविजन एको रसिकानन्दाश्रुसन्ततार्द्राणि ।  
 दुर्जनमात्सर्यशिखी स्पृशति न यस्याक्षराणि मनाक् ॥

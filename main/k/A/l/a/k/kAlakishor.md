@@ -7,7 +7,7 @@ title = "कालकिशोरक्षिप्तो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालकिशोरक्षिप्तो भ्राम्यति यत्कर्पराङ्गणे विपुले ।  
 भ्रमरक इव भूगोलस्तस्मै छलकच्छपाय नमः ॥

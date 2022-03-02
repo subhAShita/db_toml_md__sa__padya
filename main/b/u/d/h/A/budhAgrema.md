@@ -6,7 +6,7 @@ title = "बुधाग्रे न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुधाग्रे न गुणान्ब्रूयात्साधु वेत्ति यतः स्वयम्।  
 मूर्खाग्रेऽपि च न ब्रूयाद्बुधप्रोक्तं न वेत्ति सः॥

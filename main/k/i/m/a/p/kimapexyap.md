@@ -6,7 +6,7 @@ title = "किमपेक्ष्य फलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमपेक्ष्य फलं पयोधरान्ध्वनतः प्रार्थयते मृगाधिपः।  
 प्रकृतिः खलु सा महीयसः सहते नान्यसमुन्नतिं यया॥

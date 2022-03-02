@@ -6,7 +6,7 @@ title = "कौशेयं कृमिजम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौशेयं कृमिजं सुवर्णमुपलाद दूर्वाऽपि गोरोमतः,  
 पङ्कात्तामरसं शशाङ्क उदधेरिन्दीवरं गोमयात् ।  

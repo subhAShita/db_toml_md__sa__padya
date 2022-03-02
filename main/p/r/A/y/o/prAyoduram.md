@@ -6,7 +6,7 @@ title = "प्रायो दुरन्तपर्यन्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायो दुरन्तपर्यन्ताः सम्पदोऽपि दुरात्मनाम्।  
 भवन्ति हि सुखोदर्का विपदोऽपि महात्मनाम्॥

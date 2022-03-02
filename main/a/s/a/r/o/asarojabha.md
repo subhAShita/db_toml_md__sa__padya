@@ -7,7 +7,7 @@ title = "असरोजभवो ब्रह्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 असरोजभवो ब्रह्मा जयत्यसमसायकः ।  
 सृजत्या द्व्यणुकाल्लोके सर्वाणि मिथुनानि यः ॥

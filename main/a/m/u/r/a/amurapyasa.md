@@ -5,7 +5,7 @@ title = "अणुरप्यसतां सङ्गः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अणुरप्यसतां सङ्गः सद्गुणं हन्ति विस्तृतम्।  
 गुणरुपान्तरं याति तक्रयोगाद्यथा पयः॥

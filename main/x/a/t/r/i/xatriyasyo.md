@@ -6,7 +6,7 @@ title = "क्षत्रियस्योरसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षत्रियस्योरसि क्षत्त्रं पृष्ठे ब्रह्म व्यवस्थितम्।  
 तेन पृष्ठं न दातव्यं पृष्ठदो ब्रह्महा भवेत्॥

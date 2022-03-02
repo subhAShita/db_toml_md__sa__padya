@@ -7,7 +7,7 @@ title = "न लोकवृत्तम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न लोकवृत्तं वर्त्तेत वृत्तिहेतोः कथञ्चन ।  
 अजिह्मामशठां शुद्धां जीवेद् ब्राह्मणजीविकाम्॥

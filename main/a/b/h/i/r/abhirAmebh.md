@@ -5,7 +5,7 @@ title = "अभिरामेऽभिनिवेशं विदधाना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिरामेऽभिनिवेशं विदधाना विविधलाभनिरपेक्षा।  
 उपहस्यसे सुमध्ये विदग्धवाराङ्गनावारैः॥

@@ -6,7 +6,7 @@ title = "विवेक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विवेक एव व्यसनं पुंसां क्षपयितुं क्षमः।  
 अपहर्तुं समर्थोऽसौ रविरेव निशातमः॥

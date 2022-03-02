@@ -7,7 +7,7 @@ title = "स्वकीयं हृदयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वकीयं हृदयं भित्त्वा निर्गतौ यौ पयोधरौ।  
 हृदयस्यान्यदीयस्य भेदने का कृपा तयोः॥

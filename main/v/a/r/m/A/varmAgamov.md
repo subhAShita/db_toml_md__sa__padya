@@ -6,7 +6,7 @@ title = "वर्णागमो वर्णविपर्ययश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वर्णागमो वर्णविपर्ययश्च  
 द्वौ चापरौ वर्णविकारनाशौ।  

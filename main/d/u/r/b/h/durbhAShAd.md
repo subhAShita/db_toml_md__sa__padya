@@ -6,7 +6,7 @@ title = "दुर्भाषा देवभाषापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्भाषा देवभाषापि त्वत्तो वैमुख्यमाश्रिता ।  
 गृणन्ती कंसशत्रो त्वामतुच्छा म्लेच्छवागपि ॥

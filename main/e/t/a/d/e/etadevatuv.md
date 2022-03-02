@@ -5,7 +5,7 @@ title = "एतदेव तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदेव तु विज्ञेयं स्वार्थधर्मविघातजे।  
 विषयध्वंसजे शत्रोर् विषयप्रतिपीडनम्॥

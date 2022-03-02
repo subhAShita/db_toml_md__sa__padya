@@ -7,7 +7,7 @@ title = "मान्धाता स"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मान्धाता स महीपतिः कृतयुगालङ्कारभूतो गतः  
 सेतुर्येन महोदधौ विरचितः क्वासौ दशास्यान्तकः  

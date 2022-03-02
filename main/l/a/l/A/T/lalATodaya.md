@@ -7,7 +7,7 @@ title = "ललाटोदयमाभुग्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ललाटोदयमाभुग्नं पल्लवस्निग्धपाटला ।  
 बिभ्रती श्वेतरोमाङ्कं सन्ध्येव शशिनं नवम् ॥

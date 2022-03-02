@@ -6,7 +6,7 @@ title = "स्वभावसुन्दरं वस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वभावसुन्दरं वस्तु न संस्कारमपेक्षते।  
 मुक्तारत्नस्य शाणाश्मघर्षणं नोपयुज्यते॥

@@ -5,7 +5,7 @@ title = "काल एवात्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काल एवात्र कालेन निग्रहानुग्रहौ ददत्।  
 बुद्धिमाविश्य भूतानां धर्मार्थेषु प्रवर्तते॥

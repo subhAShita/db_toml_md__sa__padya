@@ -6,7 +6,7 @@ title = "चातक धूमसमूहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चातक धूमसमूहं दृष्ट्वा मा धाव वारिधरबुद्ध्या।  
 इह हि भविष्यति भवतो नयनयुगादेव वारिणां पूरः॥

@@ -5,7 +5,7 @@ title = "कामतन्त्रेषु निपुणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामतन्त्रेषु निपुणः क्रुद्धानुनयकोविदः।  
 स्फुरितेऽनादरे किंचिद् दयिताया विरज्यति॥

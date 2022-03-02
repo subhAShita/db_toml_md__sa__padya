@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2999", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३१ दानप्रशंसा// 21",]
-jsonClass = "Subhaashita"
 topics = [ "दानम्",]
+jsonClass = "Subhaashita"
 title = "अर्थिने न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थिने न तृणवद्धनमात्रं किं तु जीवनमपि प्रतिपाद्यम्।  
 एवमाह कुशवज्जलदापी द्रव्यदानविधिरुक्तिविदग्धः॥

@@ -7,7 +7,7 @@ title = "त्वया मम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वया मम समेतस्य कल्पा अपि समासमाः।  
 भवत्या विप्रयुक्तस्य कल्पकल्पः क्षणोऽपि मे॥

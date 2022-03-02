@@ -6,7 +6,7 @@ title = "सरसापि कवेर्वाणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरसापि कवेर्वाणी हरिनामाङ्गिता यदि।  
 सादरं गृह्यते तज्ज्ञैः शुक्तिर्मुक्तन्विता यथा॥

@@ -5,7 +5,7 @@ title = "अधीत्य नीतिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधीत्य नीतिं यस्माच्च नीतियुक्तो न दृश्यते।  
 अनभिज्ञश्च साचिव्यं गमितः केन हेतुना॥

@@ -5,7 +5,7 @@ title = "अन्तःकटु सदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःकटु सदा प्रेम मानुषं परिलक्ष्यते।  
 हताशान् न करोत्यस्मान् दैवप्रेमैव केवलम्॥

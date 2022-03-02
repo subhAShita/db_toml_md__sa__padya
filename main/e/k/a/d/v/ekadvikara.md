@@ -5,7 +5,7 @@ title = "एकद्विकरणे हेतू"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकद्विकरणे हेतू महापातकपञ्चके।  
 न तृणे मन्यते कोपकामौ यः पञ्च कारयन्॥

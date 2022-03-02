@@ -5,7 +5,7 @@ title = "कर्मानुभावदुःखित एवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्मानुभावदुःखित एवं मोहान्धकारगहनवति।  
 अन्ध इव दुर्गमार्गे भ्रमति हि संसारकान्तारे॥

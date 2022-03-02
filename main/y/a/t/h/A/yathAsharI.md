@@ -6,7 +6,7 @@ title = "यथा शरीरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा शरीरं किल जीवितेन विनाकृतं काष्ठमिवावभाति।  
 तथैव तज्जीवितमप्यवैमि लोकोत्तरेण स्फुरितेन शून्यम्॥

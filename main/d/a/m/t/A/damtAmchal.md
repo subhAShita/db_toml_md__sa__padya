@@ -6,7 +6,7 @@ title = "दन्ताञ्चलेन धरणीतलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दन्ताञ्चलेन धरणी-तलम् उन्नमय्य  
 पातालकेलिषु धृतादिवराहलीलम्।  

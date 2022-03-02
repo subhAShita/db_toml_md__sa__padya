@@ -6,7 +6,7 @@ title = "तरुण्या नीयमानोऽसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरुण्या नीयमानोऽसौ दीपोऽञ्चलपटावृतः।  
 न दत्तौ विधिना हस्तौ धुनोतीति मुहुः शिरः॥

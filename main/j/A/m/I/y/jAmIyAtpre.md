@@ -6,7 +6,7 @@ title = "जानीयात् प्रेषणे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जानीयात् प्रेषणे भृत्यान् बान्धवान् व्यसनागमे ।  
 मित्रं चापदि काले च भार्यां च विभवक्षये ॥

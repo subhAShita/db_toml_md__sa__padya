@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8642", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०८ कर्णौ// 124",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "कर्णौ",]
 rasas = [ "शृङ्गारः",]
-title = "कमनीयतानिवासः"
+jsonClass = "Subhaashita"
+title = "कमनीयतानिवासः कर्णस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमनीयतानिवासः कर्णस् तस्या विचित्रमणिभूषः।  
 सविधप्रसूतरत्नं शङ्खनिधिं दूरतरमकरोत्॥

@@ -5,7 +5,7 @@ title = "अहह कर्मकरीयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहह कर्मकरीयति भूपतिं नरपतीयति कर्मकरं नरः।  
 जलनिधीयति कूपमपां निधिं गतजलीयति मद्यमदाकुलः॥

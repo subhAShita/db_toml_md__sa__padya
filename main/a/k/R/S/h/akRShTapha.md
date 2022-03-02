@@ -5,7 +5,7 @@ title = "अकृष्टफलमूलेन वनवासरतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अकृष्टफलमूलेन वनवासरतः सदा।  
 कुरुतेऽहरहः श्राद्धम् ऋषिर्विप्रः स उच्यते॥

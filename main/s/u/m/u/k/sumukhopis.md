@@ -6,7 +6,7 @@ title = "सुमुखोऽपि सुवृत्तोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुमुखोऽपि सुवृत्तोऽपि सन्मार्गपतितोऽपि सन्।  
 सतां वै पादलग्नोऽपि व्यथयत्येव कण्टकः॥

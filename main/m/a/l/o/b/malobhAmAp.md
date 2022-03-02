@@ -6,7 +6,7 @@ title = "न लोभान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न लोभान् नाप्यविज्ञानाद्        
 आहारमुपयोजयेत् ।  

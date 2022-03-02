@@ -6,7 +6,7 @@ title = "त्रयी साङ्ख्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रयी साङ्ख्यं योगः पशुपतिमतं वैष्णवमिति    
 प्रभिन्ने प्रस्थाने परमिदमदः पथ्यमिति च॥    

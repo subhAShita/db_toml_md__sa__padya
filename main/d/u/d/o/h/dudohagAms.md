@@ -6,7 +6,7 @@ title = "दुदोह गाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुदोह गां स यज्ञाय सस्याय मघवा दिवम् ।  
 सम्पद्विनियमेनोभौ दधतुर्भुवनद्वयम् ॥

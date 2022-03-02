@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5623", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 29",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
-title = "आस्तां तावत्किमन्येन"
+jsonClass = "Subhaashita"
+title = "आस्तां तावत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आस्तां तावत् किमन्येन दौरात्म्येनेह योषिताम्।  
 विधृतं स्वोदरेणापि घ्नन्ति पुत्रमपि स्वकम्॥

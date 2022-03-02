@@ -6,7 +6,7 @@ title = "मधुकर तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुकर तव करनिकरैः किं किं क्रान्तं वनं न कुसुमानाम्।  
 तद्वद सरसिजकमले लब्धं किञ्चिद्यदन्यतस्तत्किम्॥

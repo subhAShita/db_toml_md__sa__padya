@@ -5,7 +5,7 @@ title = "अपमेघोदयं वर्षम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपमेघोदयं वर्षम् अदृष्टकुसुमं फलम्।  
 अतर्कितोपपन्नं वो दर्शनं प्रतिभाति मे॥

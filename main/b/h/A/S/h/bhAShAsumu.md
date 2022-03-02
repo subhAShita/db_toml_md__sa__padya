@@ -1,13 +1,13 @@
 +++
 topics = [ "सुभाषितम्", "संस्कृतम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०१ सुभाषितप्रशंसा// 1",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "भाषासु मुख्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भाषासु मुख्या मधुरा दिव्या गीर्वाणभारती।  
 तस्माद्धि काव्यं मधुरं तस्मादपि सुभाषितम्॥

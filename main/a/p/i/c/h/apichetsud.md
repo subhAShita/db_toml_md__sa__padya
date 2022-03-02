@@ -5,7 +5,7 @@ title = "अपि चेत्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि चेत् सुदुराचारो भजते मामनन्यभाक्।  
 साधुरेव स मन्तव्यः सम्यग् व्यवसितो हि सः॥

@@ -6,7 +6,7 @@ title = "मुखेन नोद्गिरत्यूर्ध्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखेन नोद्गिरत्यूर्ध्वं हृदये न नयत्यधः।  
 जरयत्यन्तरे साधुर्दोषं विषमिवेश्वरः॥

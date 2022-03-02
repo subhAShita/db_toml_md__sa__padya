@@ -6,7 +6,7 @@ title = "प्रस्तावसदृशं वाक्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रस्तावसदृशं वाक्यं   
 सद्भावसदृशं प्रियम् ।  

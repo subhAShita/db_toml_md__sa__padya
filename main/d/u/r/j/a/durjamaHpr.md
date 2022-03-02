@@ -7,7 +7,7 @@ title = "दुर्जनः प्रियवादी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनः प्रियवादी च नैतद्विश्वासकारणम्।  
 मधु तिष्ठति जिह्वाग्रे हृदि हालाहलं विषम्॥

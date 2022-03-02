@@ -7,7 +7,7 @@ title = "दिवि सान्ध्यरागरेखा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दिवि सान्ध्यरागरेखा   
 विलसति कलशकुनिघण्टिकाश्रेणी ।  

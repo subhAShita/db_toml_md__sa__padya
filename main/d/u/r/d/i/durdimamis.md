@@ -6,7 +6,7 @@ title = "दुर्दिननिशीथपवने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्दिननिशीथपवने निःसंचारासु नगरवीथीषु ।  
 पत्यौ विदेशयाते परं सुखं जघनचपलायाः

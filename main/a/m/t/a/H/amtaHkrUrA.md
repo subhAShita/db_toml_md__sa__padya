@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1587", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 7",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः", "स्त्रीः - निन्दा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अन्तःक्रूराः सौम्यमुखा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःक्रूराः सौम्यमुखा अगाधहृदयाः स्त्रियः।  
 अन्तर्विषा बहिःसौम्या भक्ष्या विषकृता इव॥

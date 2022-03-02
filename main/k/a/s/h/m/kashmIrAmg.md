@@ -5,7 +5,7 @@ title = "कश्मीरान् गन्तुकामस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कश्मीरान् गन्तुकामस्य मीरशाहाख्यभूपतेः।  
 शाहाबुद्दीनभूमीन्द्रः प्राहिणोदिति लेखकम्॥

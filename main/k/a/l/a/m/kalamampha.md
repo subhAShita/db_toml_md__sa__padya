@@ -5,7 +5,7 @@ title = "कलमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलमं फलभारातिगुरुमूर्धतया शनैः।  
 विनामान्तिकोद्भूतं समाघ्रातुमिवोत्पलम्॥

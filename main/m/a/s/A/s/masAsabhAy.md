@@ -6,7 +6,7 @@ title = "न सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न सा सभा यत्र न सन्ति वृद्धा वृद्धा न ते ये न वदन्ति धर्मम्।  
 धर्मो न वै यत्र च नास्ति सत्यं सत्यं न तद्यच्छलनानुविद्धम्॥

@@ -6,7 +6,7 @@ title = "यथा काष्ठमयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा काष्ठमयो हस्ती यथा चर्ममयो मृगः।  
 तथा वेदं विना विप्रस्त्रयस्ते नामधारकाः॥

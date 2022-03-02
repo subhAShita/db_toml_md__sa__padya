@@ -6,7 +6,7 @@ title = "स्वस्थानादपि विलचति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वस्थानादपि विलचति मज्जति जलधौ च नीचमपि भजते।  
 निजपक्षरक्षणमनाः सुजनो मैनाकशैल इव॥

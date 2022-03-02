@@ -6,7 +6,7 @@ title = "प्रवीणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रवीणो वाक्पटुर्धीमान्स्वामिभक्तश्च नित्यशः।  
 अलुब्धः सत्यवादी च भाण्डागारी स इष्यते॥

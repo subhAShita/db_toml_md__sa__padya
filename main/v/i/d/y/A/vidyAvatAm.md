@@ -6,7 +6,7 @@ title = "विद्यावतां महेच्छानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विद्यावतां महेच्छानां शिल्पविक्रमशालिनाम्।  
 सेवावृत्तिविदां चैव नाश्रयः पार्थिवं विना॥

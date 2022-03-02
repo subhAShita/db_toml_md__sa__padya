@@ -5,7 +5,7 @@ title = "एतद्धि परमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतद्धि परमं नार्याः कार्यं लोके सनातनम्।  
 प्राणानपि परित्यज्य यद् भर्तृहितमाचरेत्॥

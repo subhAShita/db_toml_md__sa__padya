@@ -4,11 +4,11 @@ topics = [ "क्रियाशीलता", "शुष्क-पाण्ड
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "अज्ञेभ्यो ग्रन्थिन"
+title = "अज्ञेभ्यो ग्रन्थिनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञेभ्यो ग्रन्थिनः श्रेष्ठा ग्रन्थिभ्यो धारिणो वराः।  
 धारिभ्यो ज्ञानिनः श्रेष्ठा ज्ञानिभ्यो व्यवसायिनः॥

@@ -6,7 +6,7 @@ title = "रोमावली मुरारेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रोमावली मुरारेः श्रीवत्सनिवेशिताग्रभागा वः।  
 उन्नालनाभिनलिनच्छायेवोत्तापमपहरतु॥

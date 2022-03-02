@@ -6,7 +6,7 @@ title = "निर्माय खलजिह्वाग्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्माय खलजिह्वाग्रं सर्वप्राणहरं नृणाम्।  
 चकार किं वृथा शस्त्रविषवह्नीन्प्रजापतिः॥

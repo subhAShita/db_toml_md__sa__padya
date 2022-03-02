@@ -6,7 +6,7 @@ title = "भूषणाद्युपभोगेन प्रभुर्न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूषणाद्युपभोगेन प्रभुर्न भवति प्रभुः।  
 परैरपरिभूताज्ञस्त्वमिव प्रभुरुच्यते॥

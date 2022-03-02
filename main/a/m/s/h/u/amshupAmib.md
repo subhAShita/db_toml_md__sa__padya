@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0005", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 23",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यास्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अंशुपाणिभिरतीव पिपासुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अंशुपाणिभिरतीव पिपासुः पद्मजं मधु भृशं रसयित्वा।  
 क्षीबतामिव गतः क्षितिमेष्यंल् लोहितं वपुरुवाह पतङ्गः॥

@@ -6,7 +6,7 @@ title = "शम्भोर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शम्भोर् अदभ्र-शरद्-अभ्र-तुषार-शुभ्रं   
 भ्राजिष्णु-भूतिभर-शीभर-भास्वराभम् ।  

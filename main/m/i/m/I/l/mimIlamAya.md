@@ -6,7 +6,7 @@ title = "निमीलनाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निमीलनाय पद्मानामुदयायाल्पतेजसाम्।  
 तमसामवकाशाय व्रजत्यस्तमसौ रविः॥

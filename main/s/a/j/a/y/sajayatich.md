@@ -6,7 +6,7 @@ title = "स जयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स जयति चित्रचरित्रो यस्य हि वरचरणपुष्करकरेणुः।  
 महिषीमृषिसिंहस्य प्राजीजनदपि वृषोदये हेतुः॥

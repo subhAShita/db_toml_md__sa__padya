@@ -6,7 +6,7 @@ title = "क्षन्तव्यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षन्तव्यो मन्दबुद्धीनामपराधो मनीषिणा।  
 नहि सर्वत्र पाण्डित्यं सुलभं पुरुषे क्वचित्॥

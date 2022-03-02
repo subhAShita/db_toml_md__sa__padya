@@ -6,7 +6,7 @@ title = "अगाधजलसञ्चारी न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगाधजलसञ्चारी न गर्वं याति रोहितः।  
 अङ्गुष्ठोदकमात्रेण शफरी फुर्फुरायते॥

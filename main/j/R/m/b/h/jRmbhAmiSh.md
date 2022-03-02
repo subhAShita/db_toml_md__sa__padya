@@ -6,7 +6,7 @@ title = "जृम्भां निष्ठीवनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जृम्भां निष्ठीवनं क्रौर्यं कोपं पर्यङ्किकां श्रमम्।  
 भ्रुकुटिं वातमुद्रां च तत्समीपे विवर्जयेत्॥

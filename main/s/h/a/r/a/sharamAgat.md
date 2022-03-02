@@ -6,7 +6,7 @@ title = "शरणागतरक्षार्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरणागतरक्षार्थं स्त्रीगोद्विजहिताय च।  
 स्वाम्यर्थं यस्त्यजेत्प्राणांस्तस्य लोकाः सनातनाः॥

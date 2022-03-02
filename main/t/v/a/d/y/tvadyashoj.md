@@ -6,7 +6,7 @@ title = "त्वद्यशोजलधौ भोज"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वद्यशोजलधौ भोज निमज्जनभयादिव।  
 सूर्येन्दुबिम्बमिषतो धत्ते कुम्भद्वयं नभः॥

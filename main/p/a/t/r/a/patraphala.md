@@ -6,7 +6,7 @@ title = "पत्त्रफलपुष्पलक्ष्म्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पत्त्रफलपुष्पलक्ष्म्या कदाप्यदृष्टं वृतं च खलु शूकैः।  
 उपसर्पेण भवन्तं बब्बुल वद कस्य लोभेन॥

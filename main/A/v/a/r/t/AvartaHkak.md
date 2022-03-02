@@ -5,7 +5,7 @@ title = "आवर्तः ककुदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवर्तः ककुदे यस्य ककुदी स उदाहृतः।  
 मुष्केणैकेन युक्तस्तु हयस् त्वेकाण्डसंज्ञितः॥

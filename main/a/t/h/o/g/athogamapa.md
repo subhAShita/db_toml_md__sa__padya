@@ -5,7 +5,7 @@ title = "अथो गणपतिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथो गणपतिं वन्दे महामोदविधायिनम्।  
 विद्याधरगणैर्यस्य पूज्यते कण्ठगर्जितम्॥

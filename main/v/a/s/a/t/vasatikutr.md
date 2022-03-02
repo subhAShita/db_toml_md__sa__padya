@@ -6,7 +6,7 @@ title = "वसति कुत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वसति कुत्र सरोरुहसन्ततिर्दिनकृतो ननु के तिमिरच्छिदः।  
 पवनभक्षसपत्नरणोत्सुकं पुरुषमाह्वय को जगति प्रियः॥

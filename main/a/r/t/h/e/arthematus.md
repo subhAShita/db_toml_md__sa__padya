@@ -6,7 +6,7 @@ title = "अर्थेन तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थेन तु समॊऽनर्थो यत्र लभ्येत नोदयः।  
 न तत्र विपणः कार्यः खरकण्डूयितं हि तत्॥

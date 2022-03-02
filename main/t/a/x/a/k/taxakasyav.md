@@ -6,7 +6,7 @@ title = "तक्षकस्य विषम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तक्षकस्य विषं दन्ते मक्षिकाया विषं शिरः।  
 वृश्चिकस्य विषं पुच्छं सर्वाङ्गे दुर्जनो विषम्॥

@@ -6,7 +6,7 @@ title = "घटनं विघटनमथवा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 घटनं विघटनमथवा कार्याणां भवति विधिनियोगेन।  
 उचितेऽनुचिते कर्मणि वृत्तिनिवृत्ती ममादत्ते॥

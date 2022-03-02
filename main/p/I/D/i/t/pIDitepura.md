@@ -7,7 +7,7 @@ title = "पीडिते पुर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पीडिते पुर उरः प्रतिपेषं भर्तरि स्तनयुगेन युवत्याः।  
 स्पष्टमेव दलतः प्रतिनार्यास्तन्मयत्वमभवद्धृदयस्य॥

@@ -6,7 +6,7 @@ title = "सुशीलः स्वर्णगौराङ्गः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुशीलः स्वर्णगौराङ्गः पूर्णचन्द्रनिभाननः।  
 सुगतः कस्य न प्रीतिं तनोति हृदि सम्स्थितः॥

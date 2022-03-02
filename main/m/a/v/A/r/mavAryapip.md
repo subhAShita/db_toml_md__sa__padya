@@ -7,7 +7,7 @@ title = "न वार्यपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न वार्यपि प्रयच्छेत् तु बैडालव्रतिके द्विजे ।  
 न बकव्रतिके पापे नावेदविदि धर्मवित् ॥  

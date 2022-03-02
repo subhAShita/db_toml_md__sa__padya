@@ -5,7 +5,7 @@ title = "उत्थानहीनो राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थानहीनो राजा हि बुद्धिमानपि नित्यशः।  
 धर्षणीयो रिपूणां स्याद् भुजंग इव निर्विषः॥

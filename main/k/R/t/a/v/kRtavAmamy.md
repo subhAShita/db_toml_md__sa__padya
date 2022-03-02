@@ -6,7 +6,7 @@ title = "कृतवानन्यदेहेषु कर्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतवानन्यदेहेषु कर्ता च विधुरं मनः।  
 अप्रियैरिव संयोगो विप्रयोगः प्रियैः सह॥

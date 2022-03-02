@@ -5,7 +5,7 @@ title = "अपि पञ्चशतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि पञ्चशतं दण्ड्यान् दण्डयेत् पृथिवीपतिः।  
 अभावे पञ्च कायस्थान् एकं वा स्वर्णकारकम्॥

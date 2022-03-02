@@ -5,7 +5,7 @@ title = "आहिते तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहिते तव निःशाने स्फुटितं रिपुहृद्घटैः।  
 गलिते तत्प्रियानेत्रे राजंश् चित्रमिदं महत्॥

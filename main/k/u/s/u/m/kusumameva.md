@@ -7,7 +7,7 @@ title = "कुसुममेव न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुसुममेव न केवलमार्तवं नवमशोकतरोः स्मरदीपनम्।  
 किसलयप्रसवोऽपि विलासिनां मदयिता दयिताश्रवणार्पितः॥

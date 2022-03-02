@@ -6,7 +6,7 @@ title = "मधुना सिञ्चयेन्निम्बम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मधुना सिञ्चयेन्निम्बं निम्बः किं मधुरायते।  
 जातिस्वभावदोषोऽयं कटुकत्वं न मुञ्चति॥

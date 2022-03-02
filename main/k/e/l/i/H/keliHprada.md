@@ -7,7 +7,7 @@ title = "केलिः प्रदहति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 केलिः प्रदहति मज्जां शृङ्गारोऽस्थीनि चाटवः कटवः।  
 बन्धक्याः परितोषो न स्यादनभीष्टदम्पत्योः॥

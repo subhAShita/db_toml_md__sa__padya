@@ -6,7 +6,7 @@ title = "महतस्तरसा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतस्तरसा विलङ्घयन्निजदोषेण कुधीर्विनश्यति।  
 कुरुते न खलु स्वयेच्छया शलभानिन्धनमिद्धदीधितिः॥

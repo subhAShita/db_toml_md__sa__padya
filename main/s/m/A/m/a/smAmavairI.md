@@ -7,7 +7,7 @@ title = "स्नानवैरीणि गात्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नानवैरीणि गात्राणि श्मश्रुकाननमाननम् ।  
 सुरागन्धि वचश्चेति कवेर्नव्यस्य लक्षणम् ॥

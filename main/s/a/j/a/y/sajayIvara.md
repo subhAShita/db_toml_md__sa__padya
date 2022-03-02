@@ -6,7 +6,7 @@ title = "स जयी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स जयी वरमातङ्गा यस्य तस्यास्ति मेदिनी।  
 कोशो यस्य सुदुर्धर्षो दुर्गस्तस्य सुदुर्जयः॥

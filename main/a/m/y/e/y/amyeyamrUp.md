@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1825", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
-title = "अन्येयं रूपसम्पत्तिरन्या"
+jsonClass = "Subhaashita"
+title = "अन्येयं रूपसम्पत्तिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्येयं रूपसंपत्तिर् अन्या वैदग्ध्यधोरणी।  
 नैषा नलिनपत्राक्षी सृष्टिः साधारणी विधेः॥

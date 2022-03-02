@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7116", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// ०१ कञ्चुकी// 299",]
-jsonClass = "Subhaashita"
 topics = [ "कञ्चुकी",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपरि पीनपयोधरपातिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरि पीनपयोधरपातिता पटकुटीव मनोभवभूपतेः।  
 विजयिनस्त्रिपुरारिजिगीषया तव विराजति भामिनि कञ्चुकी॥

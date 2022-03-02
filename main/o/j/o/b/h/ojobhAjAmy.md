@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8231", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 104",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
-title = "ओजोभाजां यद्रणे"
+jsonClass = "Subhaashita"
+title = "ओजोभाजां यद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ओजोभाजां यद् रणे संस्थितानाम् आदत् तीव्रं सार्धमङ्गेन नूनम्।  
 ज्वालाव्याजादुद्वमन्ती तदन्तस्- तेजस्तारं दीप्तजिह्वा ववाशे॥

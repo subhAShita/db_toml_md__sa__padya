@@ -6,7 +6,7 @@ title = "हृदयं कौस्तुभोद्भासि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हृदयं कौस्तुभोद्भासि हरेः पुष्णातु वः श्रियम्।  
 राधाप्रवेशरोधाय दत्तमुद्रमिव श्रिया॥

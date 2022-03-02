@@ -5,7 +5,7 @@ title = "अग्न्याधानेन यज्ञेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्न्याधानेन यज्ञेन काषायेण जटाजिनैः।  
 लोकान् विश्वासयित्वैव ततो लुम्पेद्यथा वृकः॥

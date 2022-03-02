@@ -6,7 +6,7 @@ title = "काकाल्लौल्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकाल्लौल्यं यमात्क्रौर्यं स्थपतेर्दृढघातिताम्।  
 आद्याक्षराणि सङ्गृह्य कायस्थः केन निर्मितः॥

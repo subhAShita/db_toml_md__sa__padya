@@ -5,7 +5,7 @@ title = "क्षमा यशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षमा यशः क्षमा धर्मः क्षमायां विष्ठितं जगत्॥
 </details>

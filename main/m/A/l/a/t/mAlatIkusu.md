@@ -6,7 +6,7 @@ title = "मालतीकुसुमे भाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मालतीकुसुमे भाति गुञ्जन्मत्तमधुव्रतः।  
 प्रयाणे पञ्चबाणस्य शङ्खमापूरयन्निव॥

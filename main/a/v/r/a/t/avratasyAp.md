@@ -5,7 +5,7 @@ title = "अव्रतस्यापि ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्रतस्यापि ते धर्मः कार्य एवान्तरान्तरा।  
 मेधीभूतोऽपि हि भ्राम्यन् घासग्रासं करोति गौः॥

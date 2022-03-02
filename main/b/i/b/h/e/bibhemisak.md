@@ -7,7 +7,7 @@ title = "बिभेमि सखि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिभेमि सखि संवीक्ष्य भ्रमरीभूतकीटकम्।  
 यद्ध्यानादागते पुंस्त्वे तेन सार्धं रतिः कथम्॥

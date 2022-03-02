@@ -6,7 +6,7 @@ title = "धृतधनुषि शौर्यशालिनि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धृतधनुषि शौर्यशालिनि शैला न नमन्ति यत्तदाश्चर्यम्।  
 रिपुसंज्ञकेषु गणना कैव वराकेषु काकेषु॥

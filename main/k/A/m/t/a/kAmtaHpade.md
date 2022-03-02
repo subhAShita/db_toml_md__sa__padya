@@ -5,7 +5,7 @@ title = "कान्तः पदेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कान्तः पदेन हत इति सरलामपराध्य किं प्रसादयथ।  
 सोऽप्येवमेव सुलभः पदप्रहारः प्रसादः किम्॥

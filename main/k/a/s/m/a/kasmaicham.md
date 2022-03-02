@@ -7,7 +7,7 @@ title = "कस्मैचन प्रणमते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्मैचन प्रणमते मुदितो विभुर्मां  
 विश्राणयेदिति शिरःशशिनोऽस्तु शङ्का ।  

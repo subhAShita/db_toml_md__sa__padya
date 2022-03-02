@@ -6,7 +6,7 @@ title = "सर्वतो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वतो जयमन्विच्छेत्पुत्राच्छिष्यात्पराजयम्
 </details>

@@ -6,7 +6,7 @@ title = "किं विद्यया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं विद्यया किं तपसा किं योगेन श्रुतेन च।  
 किं विविक्तेन मौनेन स्त्रीभिर्यस्य मनो हृतम्॥

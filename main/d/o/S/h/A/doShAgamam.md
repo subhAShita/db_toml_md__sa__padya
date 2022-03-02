@@ -7,7 +7,7 @@ title = "दोषागमनमाशङ्क्य रविरेष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषागमनमाशङ्क्य रविरेष तिरोहितः।  
 कथमिन्दुः समायाति कुतः शङ्का कलङ्किनः॥

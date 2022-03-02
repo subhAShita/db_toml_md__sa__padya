@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0135", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 53",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "अक्षमालापवृत्तिज्ञा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अक्षमालापवृत्तिज्ञा कुशासनपरिग्रहा।  
 ब्राह्मीव दौर्जनी संसद् वन्दनीया समेखला॥

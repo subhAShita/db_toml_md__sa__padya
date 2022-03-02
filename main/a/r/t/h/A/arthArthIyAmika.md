@@ -5,7 +5,7 @@ title = "अर्थार्थी यानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थार्थी यानि कष्टानि सहते कृपणो जनः।  
 तान्येव यदि धर्मार्थी न भूयः क्लेशभाजनम्॥

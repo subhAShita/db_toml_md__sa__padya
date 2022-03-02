@@ -6,7 +6,7 @@ title = "दीर्घशृङ्गमनड्वाहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दीर्घशृङ्गमनड्वाहं रण्डां च बहुभाषिणीम्।  
 शूद्रमक्षरसंयुक्तं दूरतः परिवर्जयेत्॥

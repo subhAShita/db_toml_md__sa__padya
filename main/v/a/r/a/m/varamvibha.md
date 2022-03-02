@@ -6,7 +6,7 @@ title = "वरं विभवहीनेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वरं विभवहीनेन प्राणैः संतर्पितोऽनलः।  
 नोपचारपरिभ्रष्टः कृपणः प्रार्थितो जनः॥

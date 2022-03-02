@@ -5,7 +5,7 @@ title = "कठिनकुचौ तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कठिनकुचौ तव बाले तरलसरोजाक्षि तावकं चक्षुः।  
 कुटिलसुकेशि कचास् ते मिथ्या भणितं कृशाङ्गि तव मध्यम्॥

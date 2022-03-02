@@ -6,7 +6,7 @@ title = "परदारं परद्रव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परदारं परद्रव्यं परीवादं परस्य च।  
 परीहासं गुरोः स्थाने चापल्यं च विवर्जयेत्॥

@@ -6,7 +6,7 @@ title = "खलः सत्त्रियमाणोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खलः सत्त्रियमाणोऽपि ददाति कलहं सताम्।  
 दुग्धधौतोऽपि किं याति वायसः कलहंसताम्॥

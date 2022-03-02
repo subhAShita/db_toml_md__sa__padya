@@ -6,7 +6,7 @@ title = "राघवस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राघवस्य शरैर्घोरैर्घोररावणमाहवे।  
 अत्र क्रियापदं गुप्तं मर्यादा दशवार्षिकी॥

@@ -5,7 +5,7 @@ title = "अनाद्यन्ता तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनाद्यन्ता तु सा तृष्णा अन्तर्देहगता नृणाम्।  
 विनाशयति संभूता अयोनिज इवानलः॥

@@ -7,7 +7,7 @@ title = "तव सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव सा कथासु परिघट्टयति श्रवणं यदङ्गुलिमुखेन मुहुः।  
 घनतां ध्रुवं नयति तेन भवद्गुणपूगपूरितमतृप्ततया॥

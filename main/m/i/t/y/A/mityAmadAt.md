@@ -6,7 +6,7 @@ title = "नित्यान्नदाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नित्यान्नदाता तरुणाग्निहोत्री  
 वेदान्तविच्चन्द्रसहस्रदर्शी।  

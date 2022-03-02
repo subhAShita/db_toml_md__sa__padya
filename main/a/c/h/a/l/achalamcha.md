@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0344", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "वयःसन्धिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अचलं चलदिव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचलं चलदिव चक्षुः प्रकृतमपीदं समुद्यदिव वक्षः।  
 अतदिव तदपि शरीरं संप्रति वामभ्रुवो जयति॥

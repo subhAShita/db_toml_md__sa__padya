@@ -7,7 +7,7 @@ title = "अदिदेहलि हन्त"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदिदेहलि हन्त हेमवल्ली शरदिन्दुः सरसीरुहे शयानः।  
 उपखञ्जनचञ्चु मौक्तिकाली फलितं कस्य सुजन्मनस्तपोभिः॥

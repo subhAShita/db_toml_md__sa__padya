@@ -7,7 +7,7 @@ title = "चारुता वपुरभूषयदासाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चारुता वपुरभूषयदासां तामनूननवयौवनयोगः।  
 तं पुनर्मकरकेतनलक्ष्मीस्तां मदो दयितसङ्गमभूषः॥

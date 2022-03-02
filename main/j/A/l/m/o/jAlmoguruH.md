@@ -6,7 +6,7 @@ title = "जाल्मो गुरुः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जाल्मो गुरुः सुघृष्टो वामेतरचरणभेद उपदेशः।  
 ख्यातिर्गुणधवल इति भ्रमसि सुखं वृषभ रथ्यासु॥

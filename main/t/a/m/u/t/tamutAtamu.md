@@ -6,7 +6,7 @@ title = "तनुता तनुताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तनुता तनुतां नीता तेन ते नीतनीतिना।  
 नाता नूतनता तान्तिं तनौ तेनातनोति नः॥

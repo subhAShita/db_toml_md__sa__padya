@@ -5,7 +5,7 @@ title = "अभोगसुभगा भूतिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभोगसुभगा भूतिर् अदैन्यधवलं कुलम्।  
 अदर्पविशदा विद्या भवत्युन्नतचेतसाम्॥

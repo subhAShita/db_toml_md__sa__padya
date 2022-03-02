@@ -5,7 +5,7 @@ title = "अहिते हितमिच्छन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहिते हितमिच्छन्ति निसर्गात् सरसास्तु ये।  
 पीडितोऽपीक्षुदण्डो हि रसमेव ददात्यरम्॥

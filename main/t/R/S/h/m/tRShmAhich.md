@@ -6,7 +6,7 @@ title = "तृष्णा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णा हि चेत्परित्यक्ता को दरिद्रः क ईश्वरः।  
 तस्याश्चेत्प्रसरो दत्तो दास्यं च शिरसि स्थितम्॥

@@ -7,7 +7,7 @@ title = "निगृहीतेन्द्रियग्रामो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निगृहीतेन्द्रियग्रामो यत्र यत्र वसेन्नरः ।  
 तत्र तत्र कुरुक्षेत्रं नैमिशं पुष्करं तथा ॥

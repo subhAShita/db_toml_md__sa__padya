@@ -5,7 +5,7 @@ title = "अपि कापुरुषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि कापुरुषो मार्गे द्वितीयः क्षेमकारकः।  
 कर्कटेन द्वितीयेन जीवितं परिरक्षितम्॥

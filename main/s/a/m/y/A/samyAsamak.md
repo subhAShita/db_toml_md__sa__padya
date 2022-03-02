@@ -7,7 +7,7 @@ title = "सन्यासमकृत काञ्ची"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्यासमकृत काञ्ची जहौ कलत्रं दुकूलमबलायाः।  
 तत्याज रागमधरो मुक्तिमुरीचक्रिरे चिकुराः॥

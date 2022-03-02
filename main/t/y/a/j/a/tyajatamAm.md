@@ -7,7 +7,7 @@ title = "त्यजत मानमलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यजत मानमलं बत विग्रहैर्न पुनरेति गतं चतुरं वयः।  
 परभृताभिरितीव निवेदिते स्मरमते रमते स्म वधूजनः॥

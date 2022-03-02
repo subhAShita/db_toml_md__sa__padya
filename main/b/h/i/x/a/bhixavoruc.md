@@ -6,7 +6,7 @@ title = "भिक्षवो रुचिराः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भिक्षवो रुचिराः सर्वे रसाः सर्वजनप्रियाः।  
 क्षमायामभिसम्पन्ना दृश्यन्ते मगधे परम्॥

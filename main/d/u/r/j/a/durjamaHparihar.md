@@ -6,7 +6,7 @@ title = "दुर्जनः परिहर्तव्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनः परिहर्तव्यः प्रत्यक्षो द्विपदः पशुः।  
 विध्यते वा कुशल्येन अदृष्टः कण्टको यथा॥

@@ -5,7 +5,7 @@ title = "अनन्तख्यातिसम्पन्नः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनन्तख्यातिसंपन्नः शुद्धसत्त्वः सधीबलः।  
 धत्ते बहुमुखं भोगं श्रुतिदृष्टिस्थिराशयः॥

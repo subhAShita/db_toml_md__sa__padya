@@ -5,7 +5,7 @@ title = "तस्मात् परविरुद्धेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मात् परविरुद्धेषु नोत्सहन्ते महाशयाः।  
 एतदुत्तमसत्त्वानां विधिसिद्धं हि सद्व्रतम्॥

@@ -6,7 +6,7 @@ title = "उपाध्यायश्च वैद्यश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपाध्यायश्च वैद्यश्च ऋतुकाले वरस्त्रियः।  
 सूतिका दूतिका नौका कार्यान्ते ते च शष्पवत्॥

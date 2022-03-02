@@ -6,7 +6,7 @@ title = "यथा परोपकारेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा परोपकारेषु नित्यं जागर्ति सज्जनः।  
 तथा परापकारेषु जागर्ति सततं खलः॥

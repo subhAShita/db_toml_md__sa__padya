@@ -5,7 +5,7 @@ title = "अङ्गानि दत्त्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गानि दत्त्वा हेमाङ्गि प्राणान् क्रीणासि चेन् नृणाम्।  
 युक्तमेतन् न तु पुनः कोणं नयनपद्मयोः॥

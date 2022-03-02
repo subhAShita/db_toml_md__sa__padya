@@ -6,7 +6,7 @@ title = "कौस्तुभमुरसि मुरारेः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कौस्तुभमुरसि मुरारेः शिरसि शशी द्योतते पुरञ्जयिनः।  
 ननु जन्मना नु जलधेर्जग्मतुरियतीं गतिं पश्य॥

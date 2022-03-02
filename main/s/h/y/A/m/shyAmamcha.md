@@ -6,7 +6,7 @@ title = "श्यामं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामं च वर्तुलाकारं पुन्नाम चतुरक्षरम्।  
 शकारादि मकारान्तं यो जानाति स पण्डितः॥

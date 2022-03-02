@@ -5,7 +5,7 @@ title = "काम एष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 (श्रीभगवानुवाच) काम एष क्रोध एष रजोगुणसमुद्भवः।  
 महाशनो महापाप्मा विद्ध्येनमिह वैरिणम्॥

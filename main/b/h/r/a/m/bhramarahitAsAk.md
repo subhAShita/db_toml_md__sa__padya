@@ -6,7 +6,7 @@ title = "भ्रमरहिता सा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भ्रमरहिता सा कचवत्स्त्रीणां कुचवच्च सरसहिता।  
 लसदक्षरपीयूषाधरवत्कविता महात्मनां जीयात्॥

@@ -5,7 +5,7 @@ title = "इह भोगम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह भोगं यशः प्रीतिं सभासु बहुमान्यताम्।  
 दद्यात् परत्र सुगतिं विद्याधनमनुत्तमम्॥

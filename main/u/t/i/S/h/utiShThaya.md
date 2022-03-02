@@ -5,7 +5,7 @@ title = "उत्तिष्ठ यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तिष्ठ यदि जीवन्तीं मामिच्छसि तमानय।  
 अहं नेतुमशक्यापि सुदूरमिदमन्तरम्॥

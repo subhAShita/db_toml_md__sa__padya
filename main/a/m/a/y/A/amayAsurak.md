@@ -5,7 +5,7 @@ title = "अनया सुरकाम्यमानया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनया सुरकाम्यमानया सह योगः सुलभस्तु न त्वया।  
 घनसंवृतयाम्बुदागमे कुमुदेनेव निशाकरत्विषा॥

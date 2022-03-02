@@ -5,7 +5,7 @@ title = "कामिन्याः कुचयोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिन्याः कुचयोः कान्तिः पीनत्वेन पुरस्कृता।  
 सुवर्णाचलशृङ्गाभां विनिर्जेतुं समुद्यता॥

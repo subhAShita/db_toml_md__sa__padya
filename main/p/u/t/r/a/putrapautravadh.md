@@ -6,7 +6,7 @@ title = "पुत्रपौत्रवधूभृत्यैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुत्रपौत्रवधूभृत्यैः सम्पूर्णमपि सर्वदा।  
 भार्याहीनगृहस्थस्य शून्यमेव गृहं मतम्॥

@@ -7,7 +7,7 @@ title = "कुर्यादहरहः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्यादहरहः श्राद्धमन्नाद्येनोदकेन वा ।  
 पयोमूलफलैर्वापि पितृभ्यः प्रीतिमावहन्

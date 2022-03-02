@@ -7,7 +7,7 @@ title = "लिखन्त्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लिखन्त्याः कामसाम्राज्यशासनं यौवनश्रियः।  
 गलितेव मषीधारा रोमाली नाभिगोलकात्॥

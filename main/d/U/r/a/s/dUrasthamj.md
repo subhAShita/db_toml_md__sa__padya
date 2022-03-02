@@ -6,7 +6,7 @@ title = "दूरस्थं जलमध्यस्थम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दूरस्थं जलमध्यस्थं धावन्तं धनगर्वितम्।  
 क्रोधवन्तं मदोन्मत्तं नमस्कारेऽपि वर्जयेत्॥

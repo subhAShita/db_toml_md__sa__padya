@@ -6,7 +6,7 @@ title = "अन्नं ब्रह्मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्नं ब्रह्मा रसो विष्णुर्  
 भोक्ता देवो महेश्वरः ॥  

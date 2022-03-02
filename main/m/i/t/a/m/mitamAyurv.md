@@ -6,7 +6,7 @@ title = "मितमायुर्वयोऽनित्यं नैति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मितमायुर्वयोऽनित्यं नैति यातं कदाचन।  
 परामृशन्ति तदपि न भवं भोगलोलुपाः॥

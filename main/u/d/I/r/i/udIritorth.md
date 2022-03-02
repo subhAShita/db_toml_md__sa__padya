@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_6767", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 911",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "उदीरितोऽर्थः पशुनापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदीरितोऽर्थः पशुनापि गृह्यते हयाश्च नागाश्च वहन्ति चोदिताः।  
 अनुक्तमप्यूहति पण्डितो जनः परे गितज्ञान फला हि बुद्धयः॥

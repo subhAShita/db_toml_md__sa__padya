@@ -6,7 +6,7 @@ title = "पण्डिते चैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पण्डिते चैव मूर्खे च बलवत्यदि दुर्जने।  
 ईश्वरे च दरिद्रे च मृत्योः सर्वत्र तुल्यता॥

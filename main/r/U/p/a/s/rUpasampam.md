@@ -7,7 +7,7 @@ title = "रूपसम्पन्नमग्राम्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रूपसम्पन्नमग्राम्यं प्रेमप्रायं प्रियंवदम्।  
 कुलीनमनुकूलं च कलत्रं कुत्र लभ्यते॥

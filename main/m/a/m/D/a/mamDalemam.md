@@ -6,7 +6,7 @@ title = "मण्डले मण्डलाकारो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मण्डले मण्डलाकारो रेखा वाजीमयी जवे।  
 सव्यापसव्ये द्विमुखो नकुलाधिष्ठितो हयः॥

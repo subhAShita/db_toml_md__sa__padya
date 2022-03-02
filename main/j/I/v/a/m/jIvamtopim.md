@@ -6,7 +6,7 @@ title = "जीवन्तोऽपि मृताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवन्तोऽपि मृताः पञ्च व्यासेन परिकीर्तिताः।  
 दरिद्रो व्याधितो मूर्खः प्रवासी नित्यसेवकः॥

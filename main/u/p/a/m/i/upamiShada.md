@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7080", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 24",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्रीः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उपनिषदः परिपीता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपनिषदः परिपीता गीतापि न हन्त मतिपथं नीता।  
 तदपि न हा विधुवदना मानससदनाद् बहिर्याति॥

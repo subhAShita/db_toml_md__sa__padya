@@ -6,7 +6,7 @@ title = "विविनक्ति न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विविनक्ति न बुद्धिदुर्विधः स्वयमेव स्वहितं पृथग्जनः।  
 यदुदीरितमप्यदः परैर्न विजानाति तदद्भुतं महत्॥

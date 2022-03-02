@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1897", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 49",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपतुषारतया विशदप्रभैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपतुषारतया विशदप्रभैः सुरतसङ्गपरिश्रमनोदिभिः।  
 कुसुमचापमतेजयदंशुभिर् हिमकरो मकरोर्जितकेतनम्॥

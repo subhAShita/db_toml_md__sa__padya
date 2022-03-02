@@ -2,13 +2,13 @@
 secondary_sources = [ "MSS_0316", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 27",]
 topics = [ "+चन्द्रोदयवर्णनम्", "रात्रिः", "चन्द्रः",]
 rasas = [ "शृङ्गारः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अङ्गुलीभिरिव केशसञ्चयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गुलीभिरिव केशसंचयं संनिगृह्य तिमिरं मरीचिभिः।  
 कुड्मलीकृतसरोजलोचनं चुम्बतीव रजनीमुखं शशी॥

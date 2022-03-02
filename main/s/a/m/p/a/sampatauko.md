@@ -6,7 +6,7 @@ title = "सम्पत्तौ कोमलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्पत्तौ कोमलं चित्तं साधोरापदि कर्कशम्।  
 सुकुमारं मधौ पत्रं तरोः स्यात् कठिनं शुचौ॥

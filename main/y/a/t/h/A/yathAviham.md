@@ -6,7 +6,7 @@ title = "यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा विहङ्गास्तरुमाश्रयन्ति नद्यो यथा सागरमाश्रयन्ति।  
 यथा तरुण्यः पतिमाश्रयन्ति सर्वे गुणाः काञ्चनमाश्रयन्ति॥

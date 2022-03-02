@@ -6,7 +6,7 @@ title = "वित्ते त्यागः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वित्ते त्यागः क्षमा शक्तौ दुःखे दैन्यविहीनता।  
 निर्दम्भता सदाचारे स्वभावोऽयं महात्मनाम्॥

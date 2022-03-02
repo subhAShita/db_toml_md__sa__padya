@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2787", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 228",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अयुक्तं स्वामिनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयुक्तं स्वामिनो युक्तं युक्तं नीचस्य दूषणम्।  
 अमृतं राहवे मृत्युर् विषं शंकरभूषणम्॥

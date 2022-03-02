@@ -7,7 +7,7 @@ title = "युवत्वे मम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युवत्वे मम संजाता वार्धक्ये युवतां गता ।  
 कवितां पुत्रिकामेव कथं न कथयेऽपराम्?॥  

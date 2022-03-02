@@ -6,7 +6,7 @@ title = "निःसारस्य पदार्थस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निःसारस्य पदार्थस्य प्रायेणाडम्बरो महान्।  
 न सुवर्णे ध्वनिस्तादृग्यादृक्कांस्ये प्रजायते॥

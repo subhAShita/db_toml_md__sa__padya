@@ -5,7 +5,7 @@ title = "इदमेव महद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमेव महद् धैर्यं धीराणां सुतपस्विनाम्।  
 विघ्नवन्त्यपि संप्राप्य यद् विघ्नैर्न विहन्यते॥

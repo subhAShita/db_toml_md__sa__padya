@@ -6,7 +6,7 @@ title = "मक्षिका व्रणमिच्छन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः।  
 नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः॥

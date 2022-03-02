@@ -6,7 +6,7 @@ title = "यजनं याजनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यजनं याजनं चाऽध्ययनमध्यापनं तथा।  
 दानं प्रतिग्रहश्चेति षट् कर्माण्यग्रजन्मनाम्॥

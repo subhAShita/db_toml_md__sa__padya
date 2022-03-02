@@ -6,7 +6,7 @@ title = "शिलार्पितपदद्वन्द्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिलार्पितपदद्वन्द्वा नासार्पितकरद्वया।  
 अभूद्व्यक्तस्तनी नारी कथमेतद्भविष्यति॥

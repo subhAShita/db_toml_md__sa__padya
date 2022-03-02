@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2227", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 169",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अबुद्धिमाश्रितानां च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अबुद्धिमाश्रितानां च क्षन्तव्यमपराधिनाम्।  
 न हि सर्वत्र पाण्डित्यं सुलभं पुरुषेण वै॥

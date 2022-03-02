@@ -5,7 +5,7 @@ title = "अनेकदोषदुष्टस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेकदोषदुष्टस्य मधुनोऽपास्तदोषताम्।  
 यो ब्रूते तद्रसासक्तः सोऽसत्याम्बुधिरस्तधीः॥

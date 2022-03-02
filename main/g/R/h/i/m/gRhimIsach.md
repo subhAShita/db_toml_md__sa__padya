@@ -6,7 +6,7 @@ title = "गृहिणीसचिवः सखी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गृहिणीसचिवः सखी मिथः प्रियशिष्या ललिते कलाविधौ।  
 करुणाविमुखेन मृत्युना हरता त्वां वद किं न मे हृतम्॥

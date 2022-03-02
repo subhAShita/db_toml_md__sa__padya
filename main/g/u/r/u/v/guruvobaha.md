@@ -6,7 +6,7 @@ title = "गुरुवो बहवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुवो बहवः सन्ति  
 शिष्यवित्तापहारकाः ।  

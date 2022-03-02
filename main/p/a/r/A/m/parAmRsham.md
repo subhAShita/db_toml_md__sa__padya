@@ -6,7 +6,7 @@ title = "परामृशन्तो लिङ्गानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परामृशन्तो लिङ्गानि व्यलभिचारविचारकाः।  
 तार्किका यदि विद्वांसो विटैः किमपराघ्यते॥

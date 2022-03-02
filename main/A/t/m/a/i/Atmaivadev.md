@@ -5,7 +5,7 @@ title = "आत्मैव देवताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मैव देवताः सर्वाः सर्वमात्मन्यवस्थितम्।  
 आत्मा हि जनयत्येषां कर्मयोगं शरीरिणाम्॥

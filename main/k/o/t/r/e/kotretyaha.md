@@ -6,7 +6,7 @@ title = "कोऽत्रेत्यहमिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कोऽत्रेत्यहमिति ब्रूयात्सम्यगादेशयेति च।  
 आज्ञामवितथां कुर्याद्यथाशक्ति महीपतेः॥

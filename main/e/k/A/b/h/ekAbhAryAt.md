@@ -5,7 +5,7 @@ title = "एका भार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एका भार्या त्रयः पुत्रा द्वौ हलौ दश धेनवः।  
 कल्पकालावसानेऽपि न ते यास्यन्ति विक्रियाम्॥

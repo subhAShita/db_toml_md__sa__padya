@@ -5,7 +5,7 @@ title = "अङ्गीकृततितिक्षः सेड्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गीकृततितिक्षः सेड् गुणी निष्ठापरो यथा।  
 मृषिस्तथा विजयते श्रीरामो राजसत्तमः॥

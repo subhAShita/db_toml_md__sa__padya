@@ -7,7 +7,7 @@ title = "दधति स्फुटम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दधति स्फुटं रतिपतेरिषवः शिततां यदुत्पलपलाशदृशः।  
 हृदयं निरन्तरबृहत्कठिनस्तनमण्डलावरणमप्यभिदन्॥

@@ -5,7 +5,7 @@ title = "काले काले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काले काले विरेच्यं स्यात् पात्रं पूरयितुं पुनः।  
 सज्जीकुर्मो यदावाप्तुं गुर्वीं ग्रहणशीलताम्।  

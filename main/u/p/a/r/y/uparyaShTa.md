@@ -5,7 +5,7 @@ title = "उपर्यष्टौ शतान्याहुस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपर्यष्टौ शतान्याहुस् तथा भूयश्च सप्ततिः।  
 गजानां तु परीमाणम् एतदेव विनिर्दिशेत्॥

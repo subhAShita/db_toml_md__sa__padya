@@ -6,7 +6,7 @@ title = "जीर्णोऽपि क्रमहीनोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीर्णोऽपि क्रमहीनोऽपि कृशोऽपि यदि केसरी।  
 तथापि यूथनाथस्य शङ्कातङ्काय कल्पते॥

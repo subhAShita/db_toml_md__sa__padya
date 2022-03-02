@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_5404", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 28",]
-jsonClass = "Subhaashita"
 topics = [ "युद्धम्",]
+jsonClass = "Subhaashita"
 title = "आवृण्वतो लोचनमार्गमाजौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवृण्वतो लोचनमार्गमाजौ रजोऽन्धकारस्य विजृम्भितस्य।  
 शस्त्रक्षताश्वद्विपवीरजन्मा बालारुणोऽभूद् रुधिरप्रवाहः॥

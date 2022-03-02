@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3174", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 750",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अलिरनुसरति परिमलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलिरनुसरति परिमलं लक्ष्मीरनुसरति नयगुणसमृद्धिम्।  
 निम्नमनुसरति सलिलं विधिलिखितं बुद्धिरनुसरति॥

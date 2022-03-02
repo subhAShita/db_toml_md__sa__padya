@@ -5,7 +5,7 @@ title = "आपोशनमकृत्वा तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपोशनमकृत्वा तु यश्चान्नं परिमर्दयेत्।  
 मर्दितं चापि तच्चान्नम् अमेध्यं मनुरब्रवीत्॥

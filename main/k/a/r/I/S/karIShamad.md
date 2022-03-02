@@ -5,7 +5,7 @@ title = "करीषमध्ये निहितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करीषमध्ये निहितं तत् सर्वं पञ्चमासकम्।  
 द्रवीभूतं ततः सर्वम् उद्धरेत् तेन लेपयेत्॥

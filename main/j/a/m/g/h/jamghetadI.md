@@ -7,7 +7,7 @@ title = "जङ्घे तदीये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जङ्घे तदीये सन्तापं यज्जनस्यानुरागिणः।  
 जनयाञ्चक्रतुस्तीव्रं तत्र हेतुर्विलोमता॥

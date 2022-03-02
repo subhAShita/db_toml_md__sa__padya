@@ -6,7 +6,7 @@ title = "ते धन्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ते धन्याः पुण्यभाजस्ते तैस्तीर्णः क्लेशसागरः।  
 जगत्संमोहजननी यैराशाशीविषी जिता॥

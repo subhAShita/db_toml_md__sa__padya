@@ -7,7 +7,7 @@ title = "नास्य श्लाघाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नास्य श्लाघाम् अकलितगुणः पोषयन् प्रतीये नः   
 कोन्धैश् चित्रस्तुतिशतविधौ शिल्पिनः स्यात्प्रकर्षः ।  

@@ -6,7 +6,7 @@ title = "रागे द्वेषे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रागे द्वेषे च माने च द्रोहे पापे च कर्मणि।  
 अप्रिये चैव कर्तव्ये चिरकारी प्रशस्यते॥

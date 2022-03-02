@@ -6,7 +6,7 @@ title = "त्यज निजगुणाभिमानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्यज निजगुणाभिमानं मरकत पतितोऽसि पामरे वणिजि।  
 काचमणेरपि मौल्यं लभसे यत्तदपि ते श्रेयः॥

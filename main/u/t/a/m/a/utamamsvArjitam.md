@@ -6,7 +6,7 @@ title = "उत्तमं स्वार्जितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमं स्वार्जितं भुक्तं मध्यमं पितुरार्जितम्।  
 कनिष्ठं भ्रातृवित्तं च स्त्रीवित्तमधमाधमम्॥

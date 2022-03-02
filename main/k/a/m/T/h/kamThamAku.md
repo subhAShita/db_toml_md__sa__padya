@@ -5,7 +5,7 @@ title = "कण्ठमाकुञ्च्य हृदये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कण्ठमाकुञ्च्य हृदये स्थापयेद् दृढमिच्छया।  
 जालंधरो बन्ध एष सुधाव्ययनिवारणः॥

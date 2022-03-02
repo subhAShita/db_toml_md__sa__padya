@@ -6,7 +6,7 @@ title = "लोक एष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोक एष परलोकमुपेता हा विधाय निधने धनमेकः।  
 इत्यमुं खलु तदस्य निनीषत्यर्थिबन्धुरुदयद्दयचित्तः॥

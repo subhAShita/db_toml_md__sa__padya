@@ -5,7 +5,7 @@ title = "आनृशंस्यं क्षमा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आनृशंस्यं क्षमा सत्यम् अहिंसा दम आर्जवम्।  
 प्रीतिः प्रसादो माधुर्यं मार्दवं च यमा दश॥

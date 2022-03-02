@@ -6,7 +6,7 @@ title = "यथा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा हि शृङ्गं गोः काले वर्धमानस्य वर्धते।  
 एवं तृष्णापि चित्तेन वर्धमानेन वर्धते॥

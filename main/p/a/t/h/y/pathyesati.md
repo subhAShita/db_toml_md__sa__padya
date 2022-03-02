@@ -6,7 +6,7 @@ title = "पथ्ये सति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पथ्ये सति गदार्तस्य किमौषधनिषेवणैः ।  
 पथ्येऽसति गदार्तस्य किमौषधनिषेवणैः ॥

@@ -5,7 +5,7 @@ title = "अविजित्य य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविजित्य य आत्मानम् अमात्यान् विजिगीषते।  
 अमित्रान् वाजितामात्यः सोऽवशः परिहीयते॥

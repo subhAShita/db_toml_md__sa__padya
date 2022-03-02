@@ -6,7 +6,7 @@ title = "किमव्ययतया ख्यातम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किमव्ययतया ख्यातं कस्य लोपो विधीयते।  
 ब्रूत शब्दविदो ज्ञात्वा समाहारः क उच्यते॥

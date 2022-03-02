@@ -6,10 +6,9 @@ title = "आवयोः सङ्गमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आवयोः सङ्गमो नाथ पुनः कुत्र भविष्यति ।  
 धर्मशास्त्रं प्रमाणं चेत् कुम्भीपाके भविष्यति ।  
-।  
-
+।
 </details>

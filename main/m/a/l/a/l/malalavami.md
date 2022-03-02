@@ -6,7 +6,7 @@ title = "मललवनिभसज्जत्कज्जलः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मललवनिभसज्जत्कज्जलः सान्द्रसान्ध्य-  
 द्युतिशिखिखचिताभ्रभ्राष्ट्रगश्चन्द्रबिम्बः ।  

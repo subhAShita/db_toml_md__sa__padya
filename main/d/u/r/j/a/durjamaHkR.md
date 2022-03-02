@@ -6,7 +6,7 @@ title = "दुर्जनः कृतशिक्षोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुर्जनः कृतशिक्षोऽपि सज्जनो नैव जायते।  
 अपि गङ्गाजलस्नानान्नाधः केशः कुशायते॥

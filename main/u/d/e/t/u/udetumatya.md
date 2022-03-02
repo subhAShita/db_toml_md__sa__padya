@@ -5,7 +5,7 @@ title = "उदेतुमत्यजन्नीहां राजसु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदेतुमत्यजन्नीहां राजसु द्वादशस्वपि।  
 जिगीषुरेको दिनकृद् आदित्येष्विव कल्पते॥

@@ -6,7 +6,7 @@ title = "त्वच्चित्ते भोज"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वच्चित्ते भोज निर्व्याजं द्वयं तृणकणायते।  
 क्रोधे विरोधिनां सैन्यं प्रसादे कनकोच्चयः॥

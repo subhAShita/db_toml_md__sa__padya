@@ -5,7 +5,7 @@ title = "उदेति सविता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदेति सविता ताम्रस् ताम्र एवास्तमेति च।  
 संपत्तौ च विपत्तौ च महतामेकरूपता॥

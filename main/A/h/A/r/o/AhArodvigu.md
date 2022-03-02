@@ -6,7 +6,7 @@ title = "आहारो द्विगुणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहारो द्विगुणः स्त्रीणां बुद्धिस्तासां चतुर्गुणा।  
 षड्गुणो व्यवसायश्च कामश्चाष्टगुणः स्मृतः॥

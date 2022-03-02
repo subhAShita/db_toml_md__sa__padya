@@ -6,7 +6,7 @@ title = "लाभस्तेषां जयस्तेषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लाभस्तेषां जयस्तेषां कुतस्तेषां पराजयः।  
 येषां हृदिस्थो भगवान्मङ्गलायतनो हरिः॥

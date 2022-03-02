@@ -5,7 +5,7 @@ title = "अपानप्राणयोरैक्यं क्षयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपानप्राणयोरैक्यं क्षयो मूत्रपुरीषयोः।  
 युवा भवति वृद्धोऽपि सततं मूलबन्धनात्॥

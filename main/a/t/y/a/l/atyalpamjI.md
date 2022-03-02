@@ -5,7 +5,7 @@ title = "अत्यल्पं जीवितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यल्पं जीवितं पापान्य् आपातमधुराण्यलम्।  
 तदाचर चिरस्थेयपरलोकावलोकनम्॥

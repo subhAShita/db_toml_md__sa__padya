@@ -6,7 +6,7 @@ title = "पराभवं परिच्छेतुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पराभवं परिच्छेतुं योग्यायोग्यं न वेत्ति यः।  
 अस्तीह यस्य विज्ञानं स कृच्छ्रेऽपि न सीदति॥

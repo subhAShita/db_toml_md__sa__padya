@@ -7,7 +7,7 @@ title = "तरङ्गस्तनुको ब्रूते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरङ्गस्तनुको ब्रूते महान्तमपरं पुरः ।  
 "त्वत्तोऽभ्रावधि वर्धिष्णोर्लीये प्रागेव सागरे" ॥

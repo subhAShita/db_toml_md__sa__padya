@@ -5,7 +5,7 @@ title = "कबन्धः परिघाभासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कबन्धः परिघाभासो दृश्यते भास्करान्तिके।  
 जग्रास सूर्यं स्वर्भानुर् अपर्वणि महाग्रहः॥

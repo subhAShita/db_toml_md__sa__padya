@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8641", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०६ मन्त्री// 23",]
-jsonClass = "Subhaashita"
 topics = [ "मन्त्री",]
-title = "कमण्डलूपमोऽमात्यस्तनुत्यागो"
+jsonClass = "Subhaashita"
+title = "कमण्डलूपमोऽमात्यस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमण्डलूपमोऽमात्यस् तनुत्यागी बहुग्रहः।  
 नृपते किङ्क्षणो मूर्खो दरिद्रः किंवराटकः॥

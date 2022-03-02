@@ -6,7 +6,7 @@ title = "इदम् इह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदम् इह पदं मा भूद् एवं भवत्व् इदम् अन्यथा   
 कृतम् इदम् अयं ग्रन्थेनार्थो महान् उपपादितः   

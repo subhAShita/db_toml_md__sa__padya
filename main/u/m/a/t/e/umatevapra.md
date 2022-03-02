@@ -5,7 +5,7 @@ title = "उन्मत्तेव प्रमत्तेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्मत्तेव प्रमत्तेव प्रहृष्टेवातुरेव च।  
 न शक्योपासितुं रामा प्रौढं यौवनमाश्रिता॥

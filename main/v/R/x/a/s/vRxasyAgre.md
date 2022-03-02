@@ -6,7 +6,7 @@ title = "वृक्षस्याग्रे फलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृक्षस्याग्रे फलं दृष्टं फलाग्रे वृक्ष एव च।  
 अकारादि सकारान्तं यो जानाति स पण्डितः॥

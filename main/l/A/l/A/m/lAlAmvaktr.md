@@ -6,7 +6,7 @@ title = "लालां वक्त्रासवम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लालां वक्त्रासवं वेत्ति मांसपिण्डौ पयोधरौ।  
 मांसास्थिकूटं जघनं जनः कामग्रहातुरः॥

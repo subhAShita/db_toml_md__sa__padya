@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2696", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//०८ तडागान्योक्तयः// 2",]
-jsonClass = "Subhaashita"
 types = [ "अन्योक्तिः", "अन्योक्तिः - तडागः",]
+jsonClass = "Subhaashita"
 title = "अयमवसरः सरस्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयमवसरः सरस्ते सलिलैरुपकर्तुमर्थिनामनिशम्।  
 इदमपि च सुलभमम्भो भवति पुरा जलधराभ्युदये॥

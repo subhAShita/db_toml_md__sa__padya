@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0274", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 09 प्रश्नोत्तराणि// 6",]
-jsonClass = "Subhaashita"
 types = [ "प्रश्नोत्तरम्",]
-title = "अङ्गणम्"
+jsonClass = "Subhaashita"
+title = "अङ्गणं तदिदमुन्मदद्विप"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गणं तदिदमुन्मदद्विप- श्रेणिशोणितविहारिणो हरेः।  
 उल्लसत्तरुणकेलिपल्लवां सल्लकीं त्यजति किं मतङ्गजः॥

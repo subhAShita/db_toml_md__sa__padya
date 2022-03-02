@@ -5,7 +5,7 @@ title = "उत्तानौ चरणौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तानौ चरणौ कृत्वा ऊरुसंस्थौ प्रयत्नतः।  
 ऊरुमध्ये तथोत्तानौ पाणी पद्मासनं त्विदम्॥

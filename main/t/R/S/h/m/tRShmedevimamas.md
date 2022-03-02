@@ -6,7 +6,7 @@ title = "तृष्णे देवि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णे देवि मनस्तुभ्यं या त्वं सर्वस्य सर्वदा।  
 उत्पादयस्य यत्नेन गोष्पदे सागरभ्रमम्॥

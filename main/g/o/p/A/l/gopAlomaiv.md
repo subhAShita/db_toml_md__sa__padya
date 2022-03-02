@@ -6,7 +6,7 @@ title = "गोपालो नैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गोपालो नैव गोपालस्त्रिशूली नैव शङ्करः।  
 चक्रपाणिः स नो विष्णुर्यो जानाति स पण्डितः॥

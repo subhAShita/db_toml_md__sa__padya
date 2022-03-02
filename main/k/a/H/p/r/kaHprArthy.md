@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8302", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 31",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
+jsonClass = "Subhaashita"
 title = "कः प्रार्थ्यते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कः प्रार्थ्यते मदनविह्वलया युवत्या भाति क्व पुण्ड्रकमुपैति कथं बतायुः।  
 क्वानादरो भवति, केन च राजतेऽब्जं बाह्यास्थि किं फलमुदाहर नालिकेरम्॥

@@ -5,7 +5,7 @@ title = "आर्जवं प्रतिपद्यस्व"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्जवं प्रतिपद्यस्व पुत्रेषु सततं विभो।  
 इह कीर्तिं परां प्राप्य प्रेत्य स्वर्गमवाप्स्यसि॥

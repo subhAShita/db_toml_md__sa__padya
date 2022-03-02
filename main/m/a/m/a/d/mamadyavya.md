@@ -6,7 +6,7 @@ title = "न मद्यव्यसनी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न मद्यव्यसनी क्षीबः कुर्याद्वेतालचेष्टितम्।  
 वृष्णयो हि ययुः क्षीबास्तृणैः प्रहरणैः क्षयम्॥

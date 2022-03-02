@@ -5,7 +5,7 @@ title = "अतो यतेत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतो यतेत धर्मेण धनमर्जयितुं पुमान्।  
 राजा तु सुतरां येन मूलं राज्यतरोर्धनम्॥

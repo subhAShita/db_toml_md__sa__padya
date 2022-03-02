@@ -6,7 +6,7 @@ title = "सुजनं व्यजनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुजनं व्यजनं मन्ये चारुवंशसमुद्भवम्।  
 आत्मानं च परिभ्राम्य परतापनिवारणम्॥

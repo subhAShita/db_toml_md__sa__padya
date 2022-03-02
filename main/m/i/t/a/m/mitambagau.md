@@ -7,7 +7,7 @@ title = "नितम्बगौरवेणासौ गौराङ्गी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नितम्बगौरवेणासौ गौराङ्गी खिद्यते दृढम्।  
 हारयत्यपरिस्पन्दा कन्दुकं क्रीडितेषु यत्॥

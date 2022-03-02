@@ -5,7 +5,7 @@ title = "कर्षति वपति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्षति वपति लुनीते दीव्यति सीव्यति पुनाति वयते च।  
 विदधाति किं न कृत्यं जठरानलशान्तये तनुमान्॥

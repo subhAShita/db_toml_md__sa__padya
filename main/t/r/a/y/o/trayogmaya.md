@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०९ दण्डी// 20",]
-jsonClass = "Subhaashita"
 topics = [ "दण्डी",]
+jsonClass = "Subhaashita"
 title = "त्रयोऽग्नयस्त्रयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रयोऽग्नयस्त्रयो वेदास्त्रयो देवास्त्रयो गुणाः।  
 त्रयो दण्डिप्रबन्धाश्च त्रिषु लोकेषु विश्रुताः॥

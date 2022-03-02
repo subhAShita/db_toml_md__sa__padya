@@ -7,7 +7,7 @@ title = "न वदेद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न वदेद् यावनीं भाषां प्राणैः कण्ठगतैरपि।  
 गजैरापीड्यमानोऽपि न गच्छेद् जैनमन्दिरम्॥

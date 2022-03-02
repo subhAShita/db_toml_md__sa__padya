@@ -6,7 +6,7 @@ title = "पराधीनं वृथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पराधीनं वृथा जन्म परस्त्रीषु वृथा सुखम्।  
 परगेहे वृथा लक्ष्मीर्विद्या या पुस्तके वृथा॥

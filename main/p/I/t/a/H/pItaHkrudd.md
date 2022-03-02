@@ -6,7 +6,7 @@ title = "पीतः क्रुद्धेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पीतः क्रुद्धेन तातश्चरणतलहतो वल्लभो येन रोषाद्  
 आबाल्याद् विप्रवर्यैः स्ववदनविवरे धार्यते वैरिणी मे।  

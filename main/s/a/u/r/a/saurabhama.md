@@ -7,7 +7,7 @@ title = "सौरभमम्भोरुहवन्मुखस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौरभमम्भोरुहवन्मुखस्य कुम्भाविव स्तनौ पीनौ।  
 हृदयं मदयति वदनं तव शरदिन्दुर्यथा बाले॥

@@ -6,7 +6,7 @@ title = "एवं ए"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं ए भय्या खडा.)  
 

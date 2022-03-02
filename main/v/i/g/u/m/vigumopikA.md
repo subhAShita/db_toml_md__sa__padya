@@ -6,7 +6,7 @@ title = "विगुणोऽपि काव्यबन्दः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विगुणोऽपि काव्यबन्दः साधूनामाननं गतः स्वदते।  
 फूत्कारोऽपि सुवंशैरनूद्यमानः श्रुतिं हरति॥

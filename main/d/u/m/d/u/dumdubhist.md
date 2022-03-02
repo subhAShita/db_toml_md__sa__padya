@@ -6,7 +6,7 @@ title = "दुन्दुभिस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुन्दुभिस्तु सुतरामचेतनस्तन्मुखादपि धनं धनं धनम्।  
 इत्थमेव निनदः प्रवर्तते किं पुनर्यदि जनः स चेतनः॥

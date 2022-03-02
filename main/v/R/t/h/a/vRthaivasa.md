@@ -8,7 +8,7 @@ title = "वृथैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वृथैव सङ्कल्पशतैरजस्रमनङ्ग नीतोऽसि मयातिवृद्धिम्।  
 आकृष्य चापं श्रवणोपकण्ढे मय्येव युक्तस्तव बाणमोक्षः॥

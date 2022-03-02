@@ -6,7 +6,7 @@ title = "स्वमस्तकसमारूढं मृत्युम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वमस्तकसमारूढं मृत्युं पश्येज्जनो यदि।  
 आहारोऽपि न रोचेत किमुतान्या विभूतयः॥

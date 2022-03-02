@@ -5,7 +5,7 @@ title = "आयुःसारं युअवनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयुःसारं युअवनम् ऋतुसारः कुसुमसायकवयस्यः।  
 सुन्दरि जीवितसारो रतिभोगरसामृतस्वादः॥

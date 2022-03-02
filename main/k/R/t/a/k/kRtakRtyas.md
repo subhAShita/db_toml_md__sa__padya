@@ -6,7 +6,7 @@ title = "कृतकृत्यस्य भृत्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतकृत्यस्य भृत्यस्य कृतं नैव प्रणाशयेत्।  
 फलेन मनसा वाचा दृष्ट्या चैनं प्रहर्षयेत्॥

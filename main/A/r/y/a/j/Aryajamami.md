@@ -5,7 +5,7 @@ title = "आर्यजननिन्दितानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आर्यजननिन्दितानां पापैकरसप्रकाशनारीणाम्।  
 एतावानेव गुणो यदभीष्टसमागमो निरावरणः॥

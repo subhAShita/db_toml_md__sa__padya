@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6945", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०२ दोलाकेलिः// 75",]
-jsonClass = "Subhaashita"
 topics = [ "दोलाकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "उन्नम्य दूरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्नम्य दूरं मुहुरानमन्त्यः कान्ताः श्लथीभूतनितम्बजाड्याः।  
 दोलाविलासेन जितश्रमत्वात् प्रकर्षमापुः पुरुषायितेषु॥

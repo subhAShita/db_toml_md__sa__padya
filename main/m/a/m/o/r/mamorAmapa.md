@@ -6,7 +6,7 @@ title = "नमो रामपदाम्भोजम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमो रामपदाम्भोजं रेणवो यत्र संततम्।  
 कुर्वन्ति कुमुदप्रीतिमरण्यगृहमेधिनः॥

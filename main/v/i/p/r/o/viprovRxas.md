@@ -6,7 +6,7 @@ title = "विप्रो वृक्षस्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विप्रो वृक्षस्तस्य मूलं च सन्ध्या  
 वेदः शाखा धर्मकर्माणि पत्रम् ।  

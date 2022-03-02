@@ -6,7 +6,7 @@ title = "पाटीर तव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पाटीर तव पटीयान्कः परिपाटीमिमामुरीकर्तुम्।  
 यत्पिंषतामपि नृणां पिष्टोऽपि तनोषि परिमलैः पुष्टिम्॥

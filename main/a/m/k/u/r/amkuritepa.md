@@ -5,7 +5,7 @@ title = "अङ्कुरिते पल्लविते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्कुरिते पल्लविते कोरकिते विकसिते च सहकारे।  
 अङ्कुरितः पल्लवितः कोरकितो विकसितश्च मदनः॥

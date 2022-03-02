@@ -7,7 +7,7 @@ title = "त्वामयमाबद्धाञ्जलि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वामयमाबद्धाञ्जलि दासजनस्तमिममर्थमर्थयते।  
 स्वपिहि मया सह सुरतव्यतिकरखिन्नैव मा मैवम्॥

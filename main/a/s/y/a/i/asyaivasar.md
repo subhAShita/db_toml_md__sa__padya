@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_4018", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१६ करौ// 234",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "करौ",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अस्यैव सर्गाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्यैव सर्गाय भवत्करस्य सरोजसृष्टिर्मम हस्तलेखः।  
 इत्याह धाता हरिणेक्षणायां किं हस्तलेखीकृतया तयास्याम्॥

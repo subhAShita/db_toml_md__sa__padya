@@ -5,7 +5,7 @@ title = "अनभ्यासहता विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनभ्यासहता विद्या हतो राजविरोधकृत्।  
 जीवनार्थं हतं तीर्थं जीवनार्थं हतं व्रतम्॥

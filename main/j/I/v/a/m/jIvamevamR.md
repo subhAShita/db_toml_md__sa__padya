@@ -6,7 +6,7 @@ title = "जीवन्नेव मृतोऽसौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवन्नेव मृतोऽसौ यस्य जनो वीक्ष्य वदनमन्योन्यम्।  
 कृतमुखभङ्गो दूरात्करोति निर्देशमङ्गुल्या॥

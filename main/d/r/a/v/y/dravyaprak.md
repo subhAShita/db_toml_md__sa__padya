@@ -6,7 +6,7 @@ title = "द्रव्यप्रकृतिहीनोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्रव्यप्रकृतिहीनोऽपि सेव्यः सेव्यगुणान्वितः।  
 भवत्याजीवनं तस्मात्फलं कालान्तरादपि॥

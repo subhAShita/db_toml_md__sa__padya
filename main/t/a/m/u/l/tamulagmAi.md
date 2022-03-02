@@ -7,7 +7,7 @@ title = "तनुलग्ना इव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तनुलग्ना इव ककुभः क्ष्मावलयं चरणचारपात्रमिव।  
 वियदपि चालिकदघ्नं मुष्टिग्राह्यं तमः कुरुते॥

@@ -5,7 +5,7 @@ title = "कं योजयन्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कं योजयन् मनुजोऽर्थं लभेत निपातयन् नष्टदृशं हि गर्ते।  
 एवं नराणां विषयस्पृहा च निपातयन् निरये त्वन्धकूपे॥

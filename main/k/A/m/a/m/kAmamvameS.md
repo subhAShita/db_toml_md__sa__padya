@@ -5,7 +5,7 @@ title = "कामं वनेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामं वनेषु हरिणास् तृणेन जीवन्त्ययत्नसुलभेन।  
 विदधति धनिषु न दैन्यं ते किल पशवो वयं सुधियः॥

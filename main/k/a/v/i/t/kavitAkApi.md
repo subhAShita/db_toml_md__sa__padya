@@ -7,7 +7,7 @@ title = "कविता कापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कविता कापि गङ्गा नः प्रवहन्ती पदे पदे ।  
 नित्यावगाहनाद्यस्यां शुद्धिमेति जगत्त्रयी ॥

@@ -7,7 +7,7 @@ title = "हिमलवसदृशः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हिमलवसदृशः श्रमोदबिन्दूनपनयता किल नूतनोढवध्वाः।  
 कुचकलशकिशोरकौ कथञ्चित्तरलतया तरुणेन पस्पृशाते॥

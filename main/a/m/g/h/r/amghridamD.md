@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0340", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 61",]
-jsonClass = "Subhaashita"
 topics = [ "दशावताराः",]
+jsonClass = "Subhaashita"
 title = "अङ्घ्रिदण्डो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्घ्रिदण्डो हरेरूर्ध्वम् उत्क्षिप्तो बलिनिग्रहे।  
 विधिविष्टरपद्मस्य नालदण्डो मुदेऽस्तु वः॥

@@ -6,7 +6,7 @@ title = "ये ह्याहवेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ये ह्याहवेषु वध्यन्ते स्वाम्यर्थमपराङ्मुखाः।  
 विकटैरायुधैर्यान्ति ते स्वर्गं योगिनो यथा॥

@@ -5,7 +5,7 @@ title = "आचार्यः सर्वचेष्टासु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचार्यः सर्वचेष्टासु लोक एव हि धीमतः।  
 अनुकुर्यात् तमेवातो लौकिकार्थे परीक्षकः॥

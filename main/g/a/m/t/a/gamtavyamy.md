@@ -6,7 +6,7 @@ title = "गन्तव्यं यदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गन्तव्यं यदि नाम निश्चितमहो गन्तासि केयं त्वरा   
 द्वित्राण्येव पदानि तिष्ठतु भवान् पश्यामि यावन् मुखं   

@@ -6,7 +6,7 @@ title = "तूणेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तूणेव मधुमासेऽस्मिन्सहकारद्रुमञ्जरी।  
 इयमुन्निद्रमुकुलैर्भाति न्यस्तशिलीमुखा॥

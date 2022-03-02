@@ -6,7 +6,7 @@ title = "नियोगिभिर्विना राज्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नियोगिभिर्विना राज्यं नास्ति भूपे हि केवले।  
 तस्मादमी विधातव्या रक्षितव्याः प्रयत्नतः॥

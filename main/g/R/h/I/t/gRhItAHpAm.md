@@ -6,7 +6,7 @@ title = "गृहीताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गृहीताः पाणिभिर्वीरैर्विकोशाः खड्गराजयः।  
 कान्तिजालच्छलादाजौ व्यहसन्समदा इव॥

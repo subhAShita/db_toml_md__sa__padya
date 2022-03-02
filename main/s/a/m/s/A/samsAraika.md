@@ -6,7 +6,7 @@ title = "संसारैकनिमित्ताय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संसारैकनिमित्ताय संसारैकविरोधिने।  
 नमः सम्साररूपाय निःसम्साराय सम्भवे॥

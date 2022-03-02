@@ -6,7 +6,7 @@ title = "द्विजा अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विजा अपि न गच्छन्ति यां गतिं नैव योगिनः।  
 स्वाम्यर्थं सन्त्यजन्प्राणान्स्तां गतिं याति सेवकः॥

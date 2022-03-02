@@ -6,7 +6,7 @@ title = "फलार्थी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 फलार्थी नृपतिर्लोकान्पालयेद्यत्नामास्थितः।  
 दानमानादितोयेन मालाकारोऽङ्कुरानिव॥

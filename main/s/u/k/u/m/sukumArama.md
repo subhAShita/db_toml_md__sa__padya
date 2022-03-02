@@ -6,7 +6,7 @@ title = "सुकुमारमहो लघीयसाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुकुमारमहो लघीयसां हृदयं तद्गतमप्रियं यतः।  
 सहसैव समुद्गिरन्त्यमी क्षपयन्त्येव हि तन्मनीषिणः॥

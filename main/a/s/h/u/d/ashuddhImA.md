@@ -5,7 +5,7 @@ title = "अशुद्धीनां तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशुद्धीनां तु सर्वासाम् आलयाः कुत्सिताः स्त्रियः।  
 सदा शौचं न कुर्वन्ति भुञ्जतेऽन्नं तथाविधाः॥

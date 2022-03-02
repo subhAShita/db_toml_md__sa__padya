@@ -5,7 +5,7 @@ title = "अद्यापि हरिहरादिभिर्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्यापि हरिहरादिभिर् अमरैरपि तत्त्वतो न विज्ञाताः।  
 भ्रमविभ्रमबहुमोहा वेश्याः संसारमायाश्च॥

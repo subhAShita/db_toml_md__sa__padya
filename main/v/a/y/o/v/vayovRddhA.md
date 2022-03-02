@@ -6,7 +6,7 @@ title = "वयोवृद्धास्तपोवृद्धा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वयोवृद्धास्तपोवृद्धा ज्ञानवृद्धाश्च ये परे।  
 ते सर्वे धनवृद्धस्य द्वारे तिष्ठन्ति किङ्कराः॥

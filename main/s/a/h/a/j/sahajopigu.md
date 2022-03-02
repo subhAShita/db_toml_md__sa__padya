@@ -6,7 +6,7 @@ title = "सहजोऽपि गुणः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहजोऽपि गुणः पुंसां साधुवादेन वर्धते।  
 कामं सुरसलेपेन कान्तिं वहति काञ्चनम्॥

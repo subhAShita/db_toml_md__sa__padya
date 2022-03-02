@@ -6,7 +6,7 @@ title = "तावकाः कति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावकाः कति न सन्ति मादृशा मादृशस्तु भवदेकजीविनः।  
 अम्बुदस्य कति वा न चातकाश्चातकस्य पुनरेक एव सः॥

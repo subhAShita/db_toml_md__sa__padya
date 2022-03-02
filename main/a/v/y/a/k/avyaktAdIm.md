@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_3430", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 158",]
 topics = [ "अनित्यता", "मृत्युः", "नाशः", "कालः", "विस्मृतिः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अव्यक्तादीनि भूतानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत।  
 अव्यक्तनिधनान्येव तत्र का परिदेवना॥

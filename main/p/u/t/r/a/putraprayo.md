@@ -6,7 +6,7 @@ title = "पुत्रप्रयोजना दाराः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पुत्रप्रयोजना दाराः पुत्रः पिण्डप्रयोजनः।  
 हितप्रयोजनं मित्त्रं धनं सर्वप्रयोजनम्॥

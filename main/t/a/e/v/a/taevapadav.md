@@ -6,7 +6,7 @@ title = "त एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त एव पदविन्यासास्ता एवार्थविभूतयः।  
 तथापि नव्यं भवति काव्यं ग्रथनकौशलात्॥

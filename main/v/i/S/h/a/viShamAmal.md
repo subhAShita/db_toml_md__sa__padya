@@ -6,7 +6,7 @@ title = "विषमा मलिनात्मानो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषमा मलिनात्मानो द्विजिह्वा जिह्मगा इव।  
 जगत्प्राणहरा नित्यं कस्य नोद्वेजकाः खलाः॥

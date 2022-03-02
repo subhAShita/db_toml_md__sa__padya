@@ -6,7 +6,7 @@ title = "परोपदेशवेलायां शिष्टाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परोपदेशवेलायां शिष्टाः सर्वे भवन्ति वै।  
 विस्मरन्तीह शिष्टत्वं स्वकार्ये समुपस्थिते॥

@@ -6,7 +6,7 @@ title = "अप्रियस्यापि पथ्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रियस्यापि पथ्यस्य परिणामः सुखावहः।  
 वक्ता श्रोता च यत्रास्ति रमन्ते तत्र सम्पदः॥

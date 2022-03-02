@@ -5,7 +5,7 @@ title = "एकमप्यक्षरं यस्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकमप्यक्षरं यस्तु गुरुः शिष्यं प्रबोधयेत्।  
 पृथिव्यां नास्ति तद् द्रव्यं यद् दत्वा सोऽनृणी भवेत्॥

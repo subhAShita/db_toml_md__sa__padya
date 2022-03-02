@@ -6,7 +6,7 @@ title = "जलनिधौ जननम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जलनिधौ जननं धवलं वपुर्मुररिपोरपि पाणितले स्थितिः।  
 इति समस्तगुणान्वित शङ्ख भो कुटिलता हृदये न निवारिता॥

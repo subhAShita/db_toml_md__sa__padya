@@ -6,7 +6,7 @@ title = "वाक्यक्षुःश्रोत्रलयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाक्यक्षुःश्रोत्रलयं लक्ष्मीः कुरुते नरस्य को दोषः।  
 गरलसहोदरजाता तच्चित्रं यन्न मारयति॥

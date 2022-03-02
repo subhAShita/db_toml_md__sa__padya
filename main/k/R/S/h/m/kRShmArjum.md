@@ -7,7 +7,7 @@ title = "कृष्णार्जुनानुरक्तापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृष्णार्जुनानुरक्तापि दृष्टिः कर्णावलम्बिनी।  
 याति विश्वसनीयत्वं कस्य ते कलभाषिणि॥

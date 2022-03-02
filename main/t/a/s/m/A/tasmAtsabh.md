@@ -6,7 +6,7 @@ title = "तस्मात्सभ्यः सभाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मात्सभ्यः सभां गत्वा रागद्वेषविवर्जितः।  
 वचस्तथाविधं ब्रूयाद्यथा न नरकं व्रजेत्॥

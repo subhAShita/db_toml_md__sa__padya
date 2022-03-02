@@ -6,7 +6,7 @@ title = "निर्विषोऽपि यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निर्विषोऽपि यथा सर्पः फटाटोपैर्भयङ्करः।  
 तथाडम्बरवान्राजा न परैः परिभूयते॥

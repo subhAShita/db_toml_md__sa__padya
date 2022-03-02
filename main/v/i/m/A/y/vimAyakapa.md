@@ -6,7 +6,7 @@ title = "विनायकपतेः शत्रुस्तस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विनायकपतेः शत्रुस्तस्य नाम षडक्षरम्।  
 पूर्वार्धं तव राजेन्द्र उत्तरार्धं तु वैरिणाम्॥

@@ -5,7 +5,7 @@ title = "उत्थिता एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थिता एव पूज्यन्ते जनाः कार्यार्थिभिर्नरैः।  
 शत्रुवत् पतितं को नु वन्दते मानवं पुनः॥

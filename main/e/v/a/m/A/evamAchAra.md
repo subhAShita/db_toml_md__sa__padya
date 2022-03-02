@@ -5,7 +5,7 @@ title = "एवमाचारतो दृष्ट्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवमाचारतो दृष्ट्वा धर्मस्य मुनयो गतिम्।  
 सर्वस्य तपसो मूलम् आचारं जगृहुः परम्॥

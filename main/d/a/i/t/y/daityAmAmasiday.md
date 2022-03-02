@@ -6,7 +6,7 @@ title = "दैत्यानां मनसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दैत्यानां मनसि दया जाता कृष्णं हि रक्षितुं कस्मात्।  
 द्रष्टुं देवमजस्रं दैत्यस्त्रीणामपि प्रीतिः॥

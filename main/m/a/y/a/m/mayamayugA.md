@@ -7,7 +7,7 @@ title = "नयनयुगासेचनकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नयनयुगासेचनकं मानसवृत्त्यापि दुष्प्रापम्।  
 रूपमिदं मदिराक्ष्या मदयति हृदयं दुनोत्यपि च॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1610", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 165",]
-jsonClass = "Subhaashita"
 topics = [ "अनित्यता",]
+jsonClass = "Subhaashita"
 title = "अन्तकः पर्यवस्थाता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तकः पर्यवस्थाता जन्मिनः संततापदः।  
 इति त्याज्ये भवे भव्यो मुक्ताव्रुत्तिष्ठते जनः॥

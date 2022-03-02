@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2583", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०४ अद्भुतरसनिर्देशः// 8",]
-jsonClass = "Subhaashita"
 rasas = [ "अद्भुतः",]
+jsonClass = "Subhaashita"
 title = "अम्बुजमम्बुनि जातम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्बुजमम्बुनि जातं नहि दृष्टं जातमम्बुजादम्बु।  
 अधुना तद्विपरीतं चरणसरोजाद्विनिर्गता गङ्गा॥

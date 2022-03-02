@@ -5,7 +5,7 @@ title = "ऊनषोडशवर्षायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊनषोडशवर्षायाम् अप्राप्तः पञ्चविंशतिम्।  
 यद्याधत्ते पुमान् गर्भः कुक्षिस्थः स विपद्यते॥

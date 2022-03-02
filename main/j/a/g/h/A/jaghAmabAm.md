@@ -7,7 +7,7 @@ title = "जघान"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जघान बाणैर्दशभिर्दशास्यशिरांसि सीताहरणे स रामः।  
 त्वदङ्गसङ्गाय सदानुरक्ते प्रयातु मे मस्तकमेकमेव॥

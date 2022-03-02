@@ -7,7 +7,7 @@ title = "नलिनं मलिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नलिनं मलिनं विवृण्वती पृषतीमस्पृशती तदीक्षणे।  
 अपि ख़ञ्जनमञ्जनाञ्जिते विदधाते रुचिगर्वदुर्विधम्॥

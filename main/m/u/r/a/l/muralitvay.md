@@ -7,7 +7,7 @@ title = "मुरलि त्वयि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुरलि त्वयि निश्श्वासास्त्वयि कालिन्दि नीलिमा ।  
 निकुञ्ज त्वयि पादाङ्का अस्मासु स्मृतयो हरेः ॥

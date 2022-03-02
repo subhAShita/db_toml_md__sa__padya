@@ -5,7 +5,7 @@ title = "आयातो वनमाली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयातो वनमाली गृहपतिरालि समायातः।  
 स्मर सखि पाणिनिसूत्रं विप्रतिषेधे परं कार्यम्॥

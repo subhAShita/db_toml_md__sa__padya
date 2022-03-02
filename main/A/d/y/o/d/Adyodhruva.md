@@ -5,7 +5,7 @@ title = "आद्योऽध्रुवस् ततो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आद्योऽध्रुवस् ततो मण्ठः प्रतिमण्ठो निसारुकः।  
 अडतालस् ततो राग एकताली च संमता॥

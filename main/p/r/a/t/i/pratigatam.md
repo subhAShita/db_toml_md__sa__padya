@@ -7,7 +7,7 @@ title = "प्रतिगतमर्थिजनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रतिगतमर्थिजनानां विच्छिन्नाशं समूहमवलोक्य।  
 स्फुटितमपयसस्तापादिव हृदयमलं तडागस्य॥

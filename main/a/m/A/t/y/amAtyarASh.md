@@ -5,7 +5,7 @@ title = "अमात्यराष्ट्रदुर्गाणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमात्यराष्ट्रदुर्गाणि कोशो दण्डश्च पञ्चमः।  
 एताः प्रकृतयस्तज्ज्ञैर् विजिगीषोरुदाहृताः॥

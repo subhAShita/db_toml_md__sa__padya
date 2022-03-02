@@ -6,7 +6,7 @@ title = "लोभाविष्टो नरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोभाविष्टो नरो वित्तं वीक्षते न स चापदम्।  
 दुग्धं पश्यति मार्जारो यथा न लगुडाहतिम्॥

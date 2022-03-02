@@ -6,7 +6,7 @@ title = "वपुर्विषमसंस्थानम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वपुर्विषमसंस्थानं कर्णज्वरकरो रवः।  
 करभस्याशुगत्यैव छादिता दोषसंहितः॥

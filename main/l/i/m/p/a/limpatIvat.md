@@ -7,7 +7,7 @@ title = "लिम्पतीव तमोऽङ्गानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लिम्पतीव तमोऽङ्गानि वर्षतीवाञ्जनं नभः।  
 असत्पुरुषसेवेव दृष्टिर्निष्फलतां गता॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4731", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 159",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "आदिमध्यनिधनेषु सौहृदम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदिमध्यनिधनेषु सौहृदं सज्जने भवति नेतरे जने।  
 छेदतापननिघर्षताडनैर् नान्यभावमुपयाति काञ्चनम्॥

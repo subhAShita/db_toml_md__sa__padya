@@ -7,7 +7,7 @@ title = "यदि कुप्यसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदि कुप्यसि नास्ति रतिः कोपेन विनाथवा कुतः कामः।  
 कुप्य च कोपय च त्वं प्रसीद च त्वं प्रसादय च कान्तम्॥

@@ -5,7 +5,7 @@ title = "करोति विरतिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करोति विरतिं धन्यो यः सदा निशिभोजनात्।  
 सोऽर्धं पुरुषायुषस्य स्यादवश्यमुपोषितः॥

@@ -6,7 +6,7 @@ title = "सन्तुष्यत्युत्तमः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्तुष्यत्युत्तमः स्तुत्या धनेन महताधमः।  
 प्रसीदन्ति जपैर्देवा बलिभिर्भूतविग्रहाः॥

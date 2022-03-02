@@ -6,7 +6,7 @@ title = "पानीयं पातुमिच्छामि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पानीयं पातुमिच्छामि त्वत्तः कमललोचने।  
 यदि दास्यसि नेच्छामि नो दास्यसि पिबाम्यहम्॥

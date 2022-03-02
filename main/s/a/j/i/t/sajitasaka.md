@@ -7,7 +7,7 @@ title = "सज्जितसकलशरीरा क्षणे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सज्जितसकलशरीरा क्षणे क्षणे मनसि किमपि गणयन्ती।  
 उत्सवमिव तं दिवसं मनुते मुग्धा प्रियागमने॥

@@ -7,7 +7,7 @@ title = "वक्रेण शिरसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वक्रेण शिरसि पतता नित्यं रुधिरारुणेन दुर्वारः।  
 मत्तद्विप इव पथिकः किंशुककुसुमाङ्कुशेन भृतः॥

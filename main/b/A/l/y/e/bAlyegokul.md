@@ -7,7 +7,7 @@ title = "बाल्ये गोकुलबालकैरत"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बाल्ये गोकुलबालकैरत इतः पिस्पर्धिषोर्धावने  
 कौमारे नवनीतनीतमनसो गोपीकुलोत्सर्पणे।  

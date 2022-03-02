@@ -6,7 +6,7 @@ title = "धनधान्यप्रयोगेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनधान्यप्रयोगेषु विद्यासङ्ग्रहणेषु च।  
 आहारे व्यवहारे च त्यक्तलज्जः सुखी भवेत्॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9802", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 970",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "कालक्रमेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कालक्रमेण परिणामवशादनव्या भावा भवन्ति खलु पूर्वमतीव तुच्छाः।  
 मुक्तामणिर्जलदतोयकणोऽप्यणीयान् सम्पद्यते च चिरकीचकरन्ध्रमध्ये॥

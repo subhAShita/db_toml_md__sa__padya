@@ -6,7 +6,7 @@ title = "साधनं सुमहद्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 साधनं सुमहद्यस्य यन्नान्यस्य विलोक्यते।  
 तस्य धीशालिनः कोऽन्यः सहेतारालितां भ्रुवम्॥

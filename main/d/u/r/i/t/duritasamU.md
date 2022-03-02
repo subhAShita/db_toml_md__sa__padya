@@ -6,7 +6,7 @@ title = "दुरितसमूहबलाहक"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दुरित-समूह-बलाहक-  
 पटली-संहरण-पवमानम्।  

@@ -6,7 +6,7 @@ title = "पूर्वदत्तेषु या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पूर्वदत्तेषु या विद्या पूर्वदत्तेषु यद्धनम्।  
 पूर्वदत्तेषु या भार्या अग्रे धावति धावति॥

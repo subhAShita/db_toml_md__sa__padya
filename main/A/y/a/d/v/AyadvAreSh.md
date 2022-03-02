@@ -5,7 +5,7 @@ title = "आयद्वारेषु सर्वेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आयद्वारेषु सर्वेषु कुर्यादाप्तान् परीक्षितान्।  
 आददीत धनं तैस्तु भास्वानुस्रैरिवोदकम्॥

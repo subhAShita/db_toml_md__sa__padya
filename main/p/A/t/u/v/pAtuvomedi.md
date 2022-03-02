@@ -6,7 +6,7 @@ title = "पातु वो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातु वो मेदिनीदोला बालेन्दुद्युतितस्करी।  
 दंष्ट्रा महावराहस्य पातालगृहदीपिका॥

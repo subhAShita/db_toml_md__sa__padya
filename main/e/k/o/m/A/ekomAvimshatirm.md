@@ -5,7 +5,7 @@ title = "एकोना विंशतिर्नार्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकोना विंशतिर्नार्यः क्रीडां कर्तुं वने गताः।  
 विंशतिर्गृहमायाताः शेषो व्याघ्रेण भक्षितः॥

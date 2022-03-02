@@ -6,7 +6,7 @@ title = "लेखनी पुस्तकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लेखनी पुस्तकं रामा परहस्ते गता गता।  
 कदाचित्पुनरायाता भ्रष्टा मुष्टा च चुम्बिता॥

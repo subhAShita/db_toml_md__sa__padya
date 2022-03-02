@@ -7,7 +7,7 @@ title = "अनेन रम्भोरु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेन रम्भोरु तवाननेन पीयूषभानोस्तुलया धृतस्य।  
 ऊनस्य नूनं परिपूरणाय ताराः स्फुरन्ति प्रतिमानखण्डाः॥

@@ -6,7 +6,7 @@ title = "सुपूरा स्यात्कुनदिका"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुपूरा स्यात्कुनदिका सुपूरो मूषकाञ्जलिः।  
 सुसन्तुष्टः कापुरुषः स्वल्पकेनापि तुष्यति॥

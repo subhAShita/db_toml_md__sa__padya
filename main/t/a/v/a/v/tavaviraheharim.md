@@ -7,7 +7,7 @@ title = "तव विरहे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तव विरहे हरिणाक्षी निरीक्ष्य नवमालिकां दलिताम्।  
 हन्त नितान्तमिदानीमाः किं हतजल्पितैरथवा॥

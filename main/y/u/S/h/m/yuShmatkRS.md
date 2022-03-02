@@ -7,7 +7,7 @@ title = "युष्मत्कृष्णस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युष्मत्कृष्णस्य पर्याप्तं पत्रं पुष्पं फलं जलम् ।  
 अस्मत्कृष्णस्य नो तृप्त्यै सर्पिर्मस्तु पयो दधि ॥

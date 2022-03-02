@@ -6,7 +6,7 @@ title = "स्वभावेनैव निशितः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वभावेनैव निशितः कृतपक्षग्रहोऽपि सन्।  
 शरवद्गुणनिर्मुक्तः खलः कस्य न भेदकः॥

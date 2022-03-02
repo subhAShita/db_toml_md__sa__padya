@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3386", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 10",]
-jsonClass = "Subhaashita"
 topics = [ "गणेशः",]
+jsonClass = "Subhaashita"
 title = "अविरलविगलन्मदजल"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविरलविगलन्मदजल- कपोलपालीनिलीनमधुपकुलः।  
 उद्भिन्ननवश्मश्रु- श्रेणिरिव द्विपमुखो जयति॥

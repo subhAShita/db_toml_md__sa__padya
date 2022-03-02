@@ -6,7 +6,7 @@ title = "शत्रुवाक्यामृतं श्रुत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शत्रुवाक्यामृतं श्रुत्वा तेन सौहार्दमार्जवम्।  
 नहि धीरेण कर्तव्यमात्मनः शुभमिच्छता॥

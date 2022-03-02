@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5187", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 826",]
 topics = [ "नीतिः", "स्नेहः", "खलः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "आरम्भगुर्वी क्षयिणी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरम्भगुर्वी क्षयिणी क्रमेण लघ्वी पुरा वृद्धिमती च पश्चात्।  
 दिनस्य पूर्वार्धपरार्धभिन्ना छायेव मैत्री खलसज्जनानाम्॥

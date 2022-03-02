@@ -6,7 +6,7 @@ title = "शरणं किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरणं किं प्रपन्नानि विषवन्मारयन्ति किम्।  
 न त्यज्यन्ते न भुज्यन्ते कृपणेन धनानि यत्॥

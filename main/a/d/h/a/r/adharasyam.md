@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1054", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 799",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अधरस्य मधुरिमाणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरस्य मधुरिमाणं कुचकाठिन्यं दृशोस्तथा तैक्ष्ण्यम्।  
 कवितायाः परिपाकान् अनुभवरसिको विजानाति॥

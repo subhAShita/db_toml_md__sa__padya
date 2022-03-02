@@ -6,7 +6,7 @@ title = "महतां प्रार्थनेनैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 महतां प्रार्थनेनैव विपत्तिरपि शोभते।  
 दन्तभङ्गो हि नागानां श्लाघ्यो गिरिविदारणे॥

@@ -5,7 +5,7 @@ title = "उपाया युक्तयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपाया युक्तयो मायाः कालयापनमुच्यते।  
 निरपायो जयस्तूर्णम् एक एव पराक्रमः॥

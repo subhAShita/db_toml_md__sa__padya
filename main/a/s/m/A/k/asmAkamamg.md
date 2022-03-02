@@ -5,7 +5,7 @@ title = "अस्माकमङ्गमङ्गम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अस्माकमङ्गमङ्गं पण्योपनतं महाधननिधानम्।  
 दासीसुताः किमेते स्वादन्ति विटाः प्रसङ्गेन॥

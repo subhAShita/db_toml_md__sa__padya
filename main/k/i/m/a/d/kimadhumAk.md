@@ -6,7 +6,7 @@ title = "किं मधुना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं मधुना किं विधिना किं सुधया किं च वसुधयाखिलया।  
 यदि हृदयहारिचरितः पुरुषः पुनरेति नयनयोरयनम्॥

@@ -6,7 +6,7 @@ title = "अतिपरिचयादवज्ञा इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिपरिचयादवज्ञा इति यद्वाक्यं मृषैव तद्भाति।  
 अतिपरिचितेऽप्यनादौ संसारेऽस्मिन्न जायतेऽवज्ञा॥

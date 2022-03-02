@@ -7,7 +7,7 @@ title = "शक्तिं व्याकरणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शक्तिं व्याकरणं कोशमुत्तमो मध्यमोऽधमः ।  
 कविः क्रमादाश्रयते कविर्नव्यः किमाश्रितः ॥

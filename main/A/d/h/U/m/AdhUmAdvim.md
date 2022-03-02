@@ -5,7 +5,7 @@ title = "आ धूमाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आ धूमाद् विनिवर्तन्ते सुहृदो बान्धवैः सह।  
 येन तत् सह गन्तव्यं तत् कर्म सुकृतं कुरु॥

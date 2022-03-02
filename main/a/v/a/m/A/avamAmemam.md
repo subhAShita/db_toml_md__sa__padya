@@ -5,7 +5,7 @@ title = "अवमानेन महताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवमानेन महतां प्रहर्षक्रोधविस्मयैः।  
 तपांसि क्षयमायान्ति यशांसीव सुदुर्नयैः॥

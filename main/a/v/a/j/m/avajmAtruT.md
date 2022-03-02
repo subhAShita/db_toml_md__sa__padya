@@ -6,7 +6,7 @@ title = "अवज्ञात्रुटितं प्रेम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अवज्ञात्रुटितं प्रेम नवीकर्तुं क ईश्वरः।  
 सन्धिं न याति स्फुटितं लाक्षालेपेन मौक्तिकम्॥

@@ -5,7 +5,7 @@ title = "कार्यकाले तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्यकाले तु संप्राप्ते नावज्ञेयं त्रयं सदा।  
 बीजमौषधमाहारो यथा लाभस् तथा क्रयः॥

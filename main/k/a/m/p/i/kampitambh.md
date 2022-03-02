@@ -5,7 +5,7 @@ title = "कम्पितं भीतमुद्घृष्टम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कम्पितं भीतमुद्घृष्टम् अव्यक्तमनुनासिकम्।  
 काकस्वरं शिरःस्थं च तथा स्थानविवर्जितम्॥

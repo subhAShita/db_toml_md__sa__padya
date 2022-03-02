@@ -8,7 +8,7 @@ title = "क्व रुजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्व रुजा हृदयप्रमाथिनी क्व च ते विश्वसनीयमायुधम्।  
 मृदुतीक्ष्मतरं यदुच्यते तदिदं मन्मथ दृश्यते त्वयि॥

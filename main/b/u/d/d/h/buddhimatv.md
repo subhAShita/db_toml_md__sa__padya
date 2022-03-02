@@ -6,7 +6,7 @@ title = "बुद्धिमत्त्वाभिमानः को"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुद्धिमत्त्वाभिमानः को भवेत्प्रज्ञोपजीविनाम्।  
 अन्यदीयैरलङ्कारैर्नाहङ्कारो विभूषणे॥

@@ -6,7 +6,7 @@ title = "शमार्थं सर्वशास्त्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शमार्थं सर्वशास्त्राणि विहितानि मनीषिभिः I  
 स एव सर्वशास्त्रज्ञः यस्य शान्तं मनः सदा II

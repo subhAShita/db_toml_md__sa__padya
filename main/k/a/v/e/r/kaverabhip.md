@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9129", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 35",]
-jsonClass = "Subhaashita"
 topics = [ "कविः",]
+jsonClass = "Subhaashita"
 title = "कवेरभिप्रायमशब्दगोचरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कवेरभिप्रायमशब्दगोचरं स्फुरन्तमार्द्रेषु पदेषु केवलम्।  
 वदद्भिरङ्गैः कृतरोमविक्रियैर् जनस्य तूष्णीं भवतोऽयमञ्जलिः॥

@@ -6,7 +6,7 @@ title = "सन्त एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सन्त एव सतां नित्यमापदुद्धरणक्षमाः।  
 गजानां पङ्कमग्नानां गजा एव धुरन्धराः॥

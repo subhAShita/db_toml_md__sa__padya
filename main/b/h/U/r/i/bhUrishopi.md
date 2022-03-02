@@ -6,7 +6,7 @@ title = "भूरिशोऽपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भूरिशोऽपि च वसन्ति कानने शाखिनो फलविशेषशालिनः।  
 कोकिलस्य तदपीह मानसं नो रसालमपहाय तुष्यति॥

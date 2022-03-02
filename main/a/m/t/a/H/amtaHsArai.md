@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1605", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०६ मन्त्री// 27",]
-jsonClass = "Subhaashita"
 topics = [ "मन्त्री",]
-title = "अन्तःसारैरकुटिलैरच्छिद्रैः"
+jsonClass = "Subhaashita"
+title = "अन्तःसारैरकुटिलैस्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तःसारैरकुटिलैस् सुस्निग्धैः सुपरीक्षितैः।  
 मन्त्रिभिर्धार्यते राज्यं सुस्तम्भैरिव मन्दिरम्॥

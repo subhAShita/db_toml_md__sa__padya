@@ -6,7 +6,7 @@ title = "मूर्खाणां पण्डिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खाणां पण्डिता द्वेष्या निर्धनानां महाधनाः।  
 व्रतिनः पापशीलानामसतीनां कुलस्त्रियः॥

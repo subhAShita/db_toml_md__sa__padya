@@ -6,7 +6,7 @@ title = "जग्ध्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जग्ध्वा चक्रसमानमाषवटकान् आध्मायमानोदरे  
 फट् फट् फाडिति पायवीयपवनान् योगीश्वरे मुञ्चति ।  

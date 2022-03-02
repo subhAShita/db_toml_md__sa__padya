@@ -7,7 +7,7 @@ title = "नमिताः फलभारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नमिताः फलभारेण न मिताः शालमञ्जरीः।  
 केदारेषु हि पश्यन्तः के दारेषु विनिस्पृहाः॥

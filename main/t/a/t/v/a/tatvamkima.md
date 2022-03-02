@@ -6,7 +6,7 @@ title = "तत्त्वं किमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्त्वं किमपि काव्यानां जानाति विरलो भुवि।  
 मार्मिकः को मरन्दानामन्तरेण मधुव्रतम्॥

@@ -6,7 +6,7 @@ title = "सत्यभामासमाश्लिष्टः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यभामासमाश्लिष्टः साधुवृन्दावने रतः।  
 यशोदयासमायुक्तस्त्वां पायात्त्वादृशो हरिः॥

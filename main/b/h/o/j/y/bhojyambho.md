@@ -6,7 +6,7 @@ title = "भोज्यं भोजनशक्तिश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भोज्यं भोजनशक्तिश्च रतिशक्तिर्वरस्त्रियः।  
 विभवो दानशक्तिश्च नाल्पस्य तपसः फलम्॥

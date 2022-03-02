@@ -7,7 +7,7 @@ title = "पिनष्टीव तरङ्गाग्रैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पिनष्टीव तरङ्गाग्रैः समुद्रः फेनचन्दनम्।  
 तदादाय करैरिन्दुर्लिम्पतीव दिगङ्गनाः॥

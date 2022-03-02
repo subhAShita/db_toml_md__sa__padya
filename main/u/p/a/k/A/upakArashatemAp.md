@@ -5,7 +5,7 @@ title = "उपकारशतेनापि दानैश्चापि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकारशतेनापि दानैश्चापि सुविस्तरैः।  
 लालनात् प्रीतिपूर्वाच्च न ग्राह्यो भगिनीसुतः॥

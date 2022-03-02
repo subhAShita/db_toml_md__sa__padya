@@ -5,7 +5,7 @@ title = "अशठहृदयः कृतज्ञः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अशठहृदयः कृतज्ञः सानुक्रोशः स्थितः सतां मार्गे।  
 अपरापवादकर्मा शुचिकर्मरतः स खल्वार्यः॥

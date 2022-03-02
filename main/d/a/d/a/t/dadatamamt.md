@@ -7,7 +7,7 @@ title = "ददतमन्तरिताहिमदीधितिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ददतमन्तरिताहिमदीधितिं खगकुलाय कुलायनिलायिताम्।  
 जलदकालमबोधकृतं दिशामपरथाप रथावयवायुधः॥

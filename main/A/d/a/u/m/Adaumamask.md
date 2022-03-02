@@ -5,7 +5,7 @@ title = "आदौ नमस्कृतिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आदौ नमस्कृतिः पश्चाद् आशंसावचनानि च।  
 सुभाषितप्रशंसा च कविकाव्यस्तुतिस् ततः॥

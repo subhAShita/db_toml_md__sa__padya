@@ -7,7 +7,7 @@ title = "अपि प्रसन्नेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि प्रसन्नेन महर्षिणा त्वम्  
 सम्यग्विनीयानुगतो गृहाय ।  

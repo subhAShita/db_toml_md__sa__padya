@@ -7,7 +7,7 @@ title = "अलाभात् पुरुषाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलाभात् पुरुषाणां हि भयात् परिजनस्य च।  
 वधबन्धभयाच्चापि स्वयं गुप्ता भवन्ति ताः॥

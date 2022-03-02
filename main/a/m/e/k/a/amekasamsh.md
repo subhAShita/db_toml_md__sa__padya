@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1547", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०२ विद्याप्रशंसा// 2",]
 topics = [ "विद्या", "शास्त्रम्", "प्रत्यक्षम्", "परोक्षम्",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "अनेकसंशयोच्छेदि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेकसंशयोच्छेदि परोक्षार्थस्य दर्शकम्।  
 सर्वस्य लोचनं शास्त्रं यस्य नास्त्यन्ध एव सः॥

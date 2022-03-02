@@ -5,7 +5,7 @@ title = "बिभेत्यङ्गार्पणे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बिभेत्यङ्गार्पणे वाच्छत्यालिख्यातां रतिं प्रिये।  
 उक्तप्रत्युक्तसंमूढा संमुखं न निरीक्षते॥

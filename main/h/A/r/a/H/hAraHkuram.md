@@ -7,7 +7,7 @@ title = "हारः कुरङ्गशावाक्ष्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हारः कुरङ्गशावाक्ष्या राजति स्थूलमौक्तिकः।  
 नाभिलावण्यपानीयघटीयन्त्रगुणोपमः॥

@@ -5,7 +5,7 @@ title = "अधर्मादर्जितं द्रव्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधर्मादर्जितं द्रव्यम् अल्पकालं तु तिष्ठति।  
 ततः सपत्नमयते समूलं तेन नश्यति॥

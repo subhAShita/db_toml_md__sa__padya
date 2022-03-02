@@ -6,7 +6,7 @@ title = "म्रियमाणं मृतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 म्रियमाणं मृतं बन्धुं शोचन्ति परिदेविनः।  
 आत्मानं नानुशोचन्ति कालेन कवलीकृतम्॥

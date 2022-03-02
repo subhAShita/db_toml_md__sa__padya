@@ -7,7 +7,7 @@ title = "प्रवसतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रवसतः सुतरामुदकम्पयद्विदलकन्दलकम्पनलालितः।  
 नमयति स्म वनानि मनस्विनीजनमनोनमनो घनमारुतः॥

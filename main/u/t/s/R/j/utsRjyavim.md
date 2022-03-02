@@ -5,7 +5,7 @@ title = "उत्सृज्य विनिवर्तन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्सृज्य विनिवर्तन्ते ज्ञातयः सुहृदः सुताः।  
 अपुष्पानफलान् वृक्षान् यथा तात पतत्रिणः॥

@@ -6,7 +6,7 @@ title = "सभाकल्पतरुं वन्दे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सभाकल्पतरुं वन्दे वेदशाखोपशोभितम्।  
 शास्त्रपुष्पसमाकीर्णं विद्वद्भ्रमरमण्डितम्॥

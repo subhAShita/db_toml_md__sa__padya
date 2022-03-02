@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4129", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २७ धनप्रशंसा// 1",]
-jsonClass = "Subhaashita"
 topics = [ "धनम्",]
+jsonClass = "Subhaashita"
 title = "अहो कनकमाहात्म्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो कनकमाहात्म्यं वक्तुं केनापि शक्यते।  
 नामसाम्यादहो चित्रं धत्तूरोऽपि मदप्रदः॥

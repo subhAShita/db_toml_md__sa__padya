@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1546", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 878",]
 topics = [ "नीतिः", "सारग्राहिता",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
-title = "अनेकशास्त्रम्"
+jsonClass = "Subhaashita"
+title = "अनेकशास्त्रं बहु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेकशास्त्रं बहु वेदितव्यम् अल्पश्च कालो बहवश्च विघ्नाः।  
 यत् सारभूतं तदुपासितव्यं हंसो यथा क्षीरमिवाम्बुमध्यात्॥

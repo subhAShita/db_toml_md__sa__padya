@@ -5,7 +5,7 @@ title = "औदासीन्यं दयालूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 औदासीन्यं दयालूनाम् अर्थिनां भाग्यहीनता।  
 नहि स्वमुखवैरूप्यं दर्पणस्यापराधतः॥

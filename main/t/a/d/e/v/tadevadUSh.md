@@ -5,7 +5,7 @@ title = "तदेव दूषितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तदेव दूषितं देवि दुष्टसंकल्पपाथसा।  
 फलत्यनिष्टम् ... ... ... ...॥

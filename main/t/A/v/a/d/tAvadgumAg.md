@@ -6,7 +6,7 @@ title = "तावद्गुणा गुरुत्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावद्गुणा गुरुत्वं च यावन्नार्थयते परम्।  
 अर्थित्वे वर्तमानस्य न गुणा न च गौरवम्॥

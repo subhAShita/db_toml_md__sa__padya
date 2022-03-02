@@ -7,7 +7,7 @@ title = "काव्यसरो लब्ध्वासौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काव्यसरो लब्ध्वासौ  
 खलस्तटस्थोऽनुशीलयति मौनम् ।  

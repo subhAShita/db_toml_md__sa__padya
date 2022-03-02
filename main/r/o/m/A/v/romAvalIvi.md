@@ -7,7 +7,7 @@ title = "रोमावली विलासिन्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रोमावली विलासिन्याः प्रविष्टा नाभिमण्डलम्।  
 कियद्गाम्भीर्यमत्रेति तात्पर्यमिव बिभ्रती॥

@@ -6,7 +6,7 @@ title = "मञ्जुलघौ सम्भावितगुणे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मञ्जुलघौ सम्भावितगुणे क्वचिन्नापदाधारे।  
 अयि सखि तत्रोपपतौ मम चेतो न त्वनीदृशे पत्यौ॥

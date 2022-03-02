@@ -5,7 +5,7 @@ title = "आरोप्यतेऽश्मा शैलाग्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरोप्यतेऽश्मा शैलाग्रं यथा यत्नेन भूयसा।  
 निपात्यते सुखेनाधस् तथात्मा गुणदोषयोः॥

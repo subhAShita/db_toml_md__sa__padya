@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7261", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १३ प्रतापवर्णनम्// 10",]
-jsonClass = "Subhaashita"
 topics = [ "प्रतापः",]
+jsonClass = "Subhaashita"
 title = "उल्लास्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उल्लास्य कालकरवालमहाम्बुवाहं देवेन येन जरठोर्जितगर्जितेन।  
 निर्वापितः सकल एव रणे रिपूणां धारा जलैस् त्रिजगति ज्वलितः प्रतापः॥

@@ -5,7 +5,7 @@ title = "अनुरागं जनो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुरागं जनो याति परोक्षे गुणकीर्तनम्।  
 न बिभ्यति च सत्त्वानि सिद्धेर्लक्षणमुत्तमम्॥

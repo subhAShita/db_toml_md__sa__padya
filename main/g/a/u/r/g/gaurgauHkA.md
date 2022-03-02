@@ -6,7 +6,7 @@ title = "गौर्गौः कामदुघा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गौर्गौः कामदुघा सम्यक्प्रयुक्ता स्मर्यते बुधैः।  
 दुःप्रयुक्ता पुनर्गोत्वं प्रयोक्तुः सैव शंसति॥

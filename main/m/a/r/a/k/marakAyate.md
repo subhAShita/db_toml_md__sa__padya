@@ -6,7 +6,7 @@ title = "नरकाय ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नरकाय ते मतिश्चेत् पौरोहित्यं समाचर ।  
 वर्षं यावत् किमन्येन मठचिन्तां दिनत्रयम्॥

@@ -5,7 +5,7 @@ title = "एकेन चूर्णकुन्तलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकेन चूर्णकुन्तलम् अपरेण करेण चिबुकमुन्नमयन्।  
 पश्यामि बाष्पधौत- श्रुति नगरद्वारि तद्वदनम्॥

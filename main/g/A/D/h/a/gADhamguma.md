@@ -6,7 +6,7 @@ title = "गाढं गुणवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गाढं गुणवती विद्या न मुदे विनयं विना।  
 मूर्खतापि मुदे भूयान्महत्सु विनयान्विता॥

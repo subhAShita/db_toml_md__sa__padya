@@ -7,7 +7,7 @@ title = "विशालाक्षीकटाक्षस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विशालाक्षीकटाक्षस्य साक्षी त्र्यक्षो महेश्वरः।  
 नाद्यापि प्रकृतिं याति येन विद्धो दिगम्बरः॥

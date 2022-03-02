@@ -6,7 +6,7 @@ title = "दातुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दातुं परोपकृतिनिर्भरचित्तवृत्तेः  
 आसन्नदूरगणना नहि संश्रितेषु ।  

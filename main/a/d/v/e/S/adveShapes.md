@@ -5,7 +5,7 @@ title = "अद्वेषपेशलं कुर्यान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अद्वेषपेशलं कुर्यान् मनः कुसुमकोमलम्।  
 बभूव द्वेषदोषेण देवदानवसंक्षयः॥

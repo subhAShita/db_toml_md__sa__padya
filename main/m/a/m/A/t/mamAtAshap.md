@@ -6,7 +6,7 @@ title = "न माता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न माता शपते पुत्रं न दोषं लभते मही।  
 न हिंसां कुरुते साधुर्न देवः सृष्टिनाशकः॥

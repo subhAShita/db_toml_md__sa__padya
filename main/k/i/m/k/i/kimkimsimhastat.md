@@ -6,7 +6,7 @@ title = "किं किं,"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं किं, सिंहस्, ततः किं, नरसदृशवपुर्देव, चित्रं गृहीतो   
 नैवं, तत्कोऽत्र, जीव, द्रुतमपनय तं, नन्वयं प्राप्त एव ।  

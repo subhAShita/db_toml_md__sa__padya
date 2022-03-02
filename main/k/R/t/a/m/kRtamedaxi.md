@@ -6,7 +6,7 @@ title = "कृतं मे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतं मे दक्षिणे हस्ते जयो मे सव्य आहितः ।  
 गोजिद्भूयासमश्वजिद्धनंजयो हिरण्यजित्॥

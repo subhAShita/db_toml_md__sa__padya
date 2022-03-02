@@ -5,7 +5,7 @@ title = "अपि कुञ्जरकर्णाग्राद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि कुञ्जरकर्णाग्राद् अपि पिप्पलपल्लवात्।  
 अपि विद्युद्विलसिताद् विलोलं ललनामनः॥

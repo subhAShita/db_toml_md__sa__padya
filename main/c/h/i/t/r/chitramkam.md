@@ -6,7 +6,7 @@ title = "चित्रं कनकलतायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चित्रं कनकलतायां पल्लव एवामृतं सूते।  
 कुसुमसमुद्गमसमयो नो जाने किं परं भावि॥

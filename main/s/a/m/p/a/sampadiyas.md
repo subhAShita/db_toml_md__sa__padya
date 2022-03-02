@@ -6,7 +6,7 @@ title = "सम्पदि यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सम्पदि यस्य न हर्षो विपदि विषादो रणे च धीरत्वम्।  
 तं भुवनत्रयतिलकं जनयति जननी सुतं विरलम्॥

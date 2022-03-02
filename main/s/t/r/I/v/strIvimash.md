@@ -6,7 +6,7 @@ title = "स्त्री विनश्यति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्री विनश्यति रूपेण ब्राह्मणो राजसेवया।  
 गावो दूरप्रचारेण हिरण्यं लोभलिप्सया॥

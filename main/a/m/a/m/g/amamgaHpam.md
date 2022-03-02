@@ -5,7 +5,7 @@ title = "अनङ्गः पञ्चभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनङ्गः पञ्चभिः पुष्पैर् विश्वं व्यजयतेषुभिः।  
 इत्यसंभाव्यमथवा विचित्रा वस्तुशक्तयः॥

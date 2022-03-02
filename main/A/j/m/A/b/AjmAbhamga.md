@@ -5,7 +5,7 @@ title = "आज्ञाभङ्गकरान् राजा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आज्ञाभङ्गकरान् राजा न क्षमेत सुतानपि।  
 विशेषः को नु राज्ञश्च राज्ञश्चित्रगतस्य च॥

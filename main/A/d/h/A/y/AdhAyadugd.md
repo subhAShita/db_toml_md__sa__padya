@@ -5,7 +5,7 @@ title = "आधाय दुग्धकलशे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आधाय दुग्धकलशे मन्थानं श्रान्तदोर्लता गोपी।  
 अप्राप्तपारिजाता दैवे दोषं निवेशयति॥

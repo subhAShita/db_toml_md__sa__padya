@@ -5,7 +5,7 @@ title = "आत्मनः प्रतिकूलानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मनः प्रतिकूलानि परेभ्यो यदि नेच्छसि।  
 परेषां प्रतिकूलेभ्यो निवर्तय ततो मनः॥

@@ -5,7 +5,7 @@ title = "आघ्राय पुस्तकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आघ्राय पुस्तकं धन्याः सर्वं विद्म इति स्थिताः।  
 शतकृत्वोऽपि शृण्वन्तो हा न विद्मो जडा वयम्॥

@@ -5,7 +5,7 @@ title = "अगूढविभवा यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगूढविभवा यस्य पौरा राष्ट्रवासिनः।  
 नयापनयवेत्तायः स राजा राजसत्तमः॥

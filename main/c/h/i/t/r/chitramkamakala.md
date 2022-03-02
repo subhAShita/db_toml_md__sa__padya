@@ -6,7 +6,7 @@ title = "चित्रं कनकलतायाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चित्रं कनकलतायां शरदिन्दुस्तत्र खञ्जनद्वितयम्।  
 तत्र च मनोजधनुषी तदुपरि गाढान्धकाराणि॥

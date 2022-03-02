@@ -7,7 +7,7 @@ title = "नाभीवलयसम्बद्धा रोमाली"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाभीवलयसम्बद्धा रोमाली भाति सुभ्रुवः।  
 सहिता निगडेनेव शृङ्खला स्मरदन्तिनः॥

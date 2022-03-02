@@ -6,7 +6,7 @@ title = "वयसि गते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वयसि गते कः कामविकारः क्षीणे वित्ते कः परिवारः।  
 शुष्के नीरे कः कासारो ज्ञाते तत्त्वे कः सम्सारः॥

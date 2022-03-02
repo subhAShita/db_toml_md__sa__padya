@@ -6,7 +6,7 @@ title = "योऽनधीत्य द्विजो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 योऽनधीत्य द्विजो वेद-  
 मन्यत्र कुरुते श्रमम्  ।  

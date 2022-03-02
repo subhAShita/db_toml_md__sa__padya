@@ -5,7 +5,7 @@ title = "अविदित्वात्मनः शक्तिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविदित्वात्मनः शक्तिं परस्य न समुत्सुकः।  
 गच्छन्नभिमुखो वह्नौ नाशं याति पतङ्गवत्॥

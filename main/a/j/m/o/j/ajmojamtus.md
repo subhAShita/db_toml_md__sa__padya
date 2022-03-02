@@ -5,7 +5,7 @@ title = "अज्ञो जन्तुश्च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अज्ञो जन्तुश्च नीचोऽयम् आत्मनः सुखदुःखयोः।  
 ईश्वरप्रेरितो गच्छेत् स्वर्गं वा श्वभ्रमेव वा॥

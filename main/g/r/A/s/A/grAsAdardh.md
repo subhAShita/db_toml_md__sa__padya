@@ -6,7 +6,7 @@ title = "ग्रासादर्धमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ग्रासादर्धमपि ग्रासमर्थिभ्यः किं न यच्छसि।  
 इच्छानुरूपो विभवः कदा कस्य भविष्यति॥

@@ -6,7 +6,7 @@ title = "समायाति यदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समायाति यदा लक्ष्मीर्नारिकेलफलाम्बुवत्।  
 विनिर्याति यदा लक्ष्मीर्गजभुक्तकपित्थवत्॥

@@ -7,7 +7,7 @@ title = "रामो नासौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रामो नासौ न स जनपदः सास्ति नो राजधानी  
 तन्नारण्यं न तदुपवनं सा न सारस्वती भूः।  

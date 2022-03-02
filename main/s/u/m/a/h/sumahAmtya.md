@@ -6,7 +6,7 @@ title = "सुमहान्त्यपि शास्त्राणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुमहान्त्यपि शास्त्राणि धारयन्तो बहुश्रुताः।  
 छेत्तारः संशयानां च क्लिश्यन्ते लोभमोहिताः॥

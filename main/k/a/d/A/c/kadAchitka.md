@@ -5,7 +5,7 @@ title = "कदाचित् कवचम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कदाचित् कवचं भेद्यं नाराचेन शरेण वा।  
 अपि वर्षशताघाते ब्राह्मणाशीर्न भिद्यते॥

@@ -6,7 +6,7 @@ title = "अपि दिवसमनैषीः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि दिवसमनैषीः पद्मिनीसद्मनिस्थो  
 रजनिषु निरतोऽभूः कैरविण्यां रमण्याम्।  

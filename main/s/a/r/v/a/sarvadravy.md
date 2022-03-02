@@ -6,7 +6,7 @@ title = "सर्वद्रव्येषु विद्यैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वद्रव्येषु विद्यैव द्रव्यमाहुरनुत्तमम्।  
 अहार्यत्वादनर्घ्यत्वादक्षयत्वाच्च सर्वदा॥

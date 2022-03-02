@@ -7,7 +7,7 @@ title = "मनः प्रकृत्यैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनः प्रकृत्यैव चलं दुर्लक्ष्यं च तथापि मे।  
 कामेनैतत्कथं विद्धं समं सर्वैः शिलीमुखैः॥

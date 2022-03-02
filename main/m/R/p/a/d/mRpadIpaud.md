@@ -6,7 +6,7 @@ title = "नृपदीपौ धनस्नेहम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नृपदीपौ धनस्नेहं प्रजाभ्यः संहरन्नपि।  
 अन्तरस्थैर्गुणैः शुभ्रैर्लक्ष्यते नैव केनचित्॥

@@ -6,7 +6,7 @@ title = "जडे प्रभवति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जडे प्रभवति प्रायो दुःखं बिभ्रति साधवः।  
 शीतांशावुदिते पद्माः सङ्कोचं यान्ति वारिणि॥

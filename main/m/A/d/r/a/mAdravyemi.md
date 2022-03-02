@@ -6,7 +6,7 @@ title = "नाद्रव्ये निहिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नाद्रव्ये निहिता काचित्क्रिया फलवती भवेत्।  
 न व्यापारशतेनापि शुकवत्पाठ्यते बकः॥

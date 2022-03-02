@@ -6,7 +6,7 @@ title = "नदेभ्योऽपि ह्रदेभ्योऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नदेभ्योऽपि ह्रदेभ्योऽपि पिबन्त्यन्ये सदा पयः।  
 चातकस्य तु जीमूत भवानेवावलम्बनम्॥

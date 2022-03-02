@@ -5,7 +5,7 @@ title = "अचिरेण रोचते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचिरेण रोचते मे दिवसानेवं वृथातिवाहयते।  
 श्रितकृष्णपक्षगतये वयस्य काम्यस्तनीविरहः॥

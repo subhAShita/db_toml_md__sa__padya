@@ -5,7 +5,7 @@ title = "अरिणा सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरिणा सह संवासाद् विषेण सह भोजनात्।  
 पाप्मना सह सौहार्दान् मरणं प्रतिपद्यते॥

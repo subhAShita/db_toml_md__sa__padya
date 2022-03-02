@@ -6,7 +6,7 @@ title = "सुजनानामपि हृदयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुजनानामपि हृदयं पिशुनपरिष्वङ्गलिप्तमिह भवति।  
 पवनः परागवाही रथ्यासु वहन्रजस्वलो भवति॥

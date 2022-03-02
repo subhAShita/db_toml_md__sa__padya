@@ -6,7 +6,7 @@ title = "स्फुरिते जठरे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्फुरिते जठरे विष्णोर्नवनीतभुजः शिशोः।  
 मक्षिकापादघातेन कम्पितं भुवनत्रयम्॥

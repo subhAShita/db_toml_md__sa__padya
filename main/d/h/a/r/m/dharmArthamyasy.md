@@ -6,7 +6,7 @@ title = "धर्मार्थं यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धर्मार्थं यस्य वित्तेहा वरं तस्य निरीहता।  
 प्रक्षालनाद्धि पङ्कस्य दूरादस्पर्शनं वरम्॥

@@ -5,7 +5,7 @@ title = "अपूर्वदेशाधिगमे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपूर्वदेशाधिगमे युवराजाभिषेचने।  
 पुत्रजन्मनि वा मोक्षो बन्धनस्य विधीयते॥

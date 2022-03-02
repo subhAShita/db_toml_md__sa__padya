@@ -6,7 +6,7 @@ title = "देव त्वमेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 देव त्वमेव पातालमाशानां त्वं निबन्धनम्।  
 त्वं चामरमरुद्भूमिरेको लोकत्रयात्मकः॥

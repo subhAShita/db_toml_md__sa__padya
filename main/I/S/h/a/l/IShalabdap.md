@@ -6,7 +6,7 @@ title = "ईषल्लब्दप्रवेशोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईषल्लब्दप्रवेशोऽपि स्नेहविच्छेदकारकः।  
 कृतक्षोभो नरीनर्ति खलो मन्थानदण्डवत्॥

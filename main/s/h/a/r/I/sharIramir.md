@@ -6,7 +6,7 @@ title = "शरीरनिरपेक्षस्य दक्षस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शरीरनिरपेक्षस्य दक्षस्य व्यवसायिनः।  
 बुद्धिप्रारब्धकार्यस्य नास्ति किञ्चन दुष्करम्॥

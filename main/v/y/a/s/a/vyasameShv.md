@@ -6,7 +6,7 @@ title = "व्यसनेष्वेव सर्वेषु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 व्यसनेष्वेव सर्वेषु यस्य बुद्धिर्न हीयते।  
 स तेषां पारमभ्येति तत्प्रभावादसंशयम्॥

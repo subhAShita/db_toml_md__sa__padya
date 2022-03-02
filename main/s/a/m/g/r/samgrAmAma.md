@@ -6,7 +6,7 @@ title = "सङ्ग्रामानन्दवर्धिष्णौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सङ्ग्रामानन्दवर्धिष्णौ विग्रहे पुलकाङ्किते।  
 आसीत्कवचविच्छेदो वीराणां मिलतां मिथः॥

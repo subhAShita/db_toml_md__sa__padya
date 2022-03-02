@@ -6,7 +6,7 @@ title = "सुरमन्दिरतरुमूलनिवासः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुरमन्दिरतरुमूलनिवासः शय्या भूतलमजिनं वासः।  
 सर्वपरिग्रहभोगत्यागः कस्य सुखं न करोति विरागः॥

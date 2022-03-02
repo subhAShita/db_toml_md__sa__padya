@@ -6,7 +6,7 @@ title = "पृच्छति पुरुषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पृच्छति पुरुषः केऽस्यां समभूवन्वज्रकृत्तपक्षतयः।  
 बहुभयदेशं जिगमिषुरेकाकी वार्यते स कथम्॥

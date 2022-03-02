@@ -5,7 +5,7 @@ title = "कल्याणहितवान् भूपो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्याणहितवान् भूपो गुरूणां दोषगुप्तकः।  
 सममतिः सुखे दुःखे समरे चापलायितः॥

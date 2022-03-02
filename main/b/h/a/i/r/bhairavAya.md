@@ -7,15 +7,15 @@ title = "भैरवाय नमस्तस्मै"
 
 +++
 
-<details><summary>अज्ञात-विवरणम्</summary>
+<details open><summary>Text</summary>
 
-ज्ञानयोः = between thoughts.
+भैरवाय नमस्तस्मै येन चैतन्यमूर्तिना ।  
+स्थीयते स्थास्नुना मध्ये ज्ञानयोरिव सर्गयोः ॥
 </details>
 
 
 
-<details><summary>Text</summary>
+<details><summary>अज्ञात-विवरणम्</summary>
 
-भैरवाय नमस्तस्मै येन चैतन्यमूर्तिना ।  
-स्थीयते स्थास्नुना मध्ये ज्ञानयोरिव सर्गयोः ॥
+ज्ञानयोः = between thoughts.
 </details>

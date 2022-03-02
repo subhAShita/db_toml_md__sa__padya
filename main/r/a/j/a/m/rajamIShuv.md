@@ -6,7 +6,7 @@ title = "रजनीषु विमलभानोः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रजनीषु विमलभानोः करजालेन प्रकाशितं वीर।  
 धवलयति भुवनमण्डलमखिलं तव कीर्तिसन्ततिः सततम्॥

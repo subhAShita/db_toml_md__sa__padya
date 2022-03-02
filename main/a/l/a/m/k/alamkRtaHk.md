@@ -5,7 +5,7 @@ title = "अलङ्कृतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलंकृतः काञ्चनकोटिमूल्यैर् महार्हरत्नैर्गजवाजिवाहैः।  
 निमेषमात्रं लभते न जीवं कालेन काले शिखया गृहीतः॥

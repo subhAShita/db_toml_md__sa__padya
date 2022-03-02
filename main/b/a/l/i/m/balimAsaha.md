@@ -6,7 +6,7 @@ title = "बलिना सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलिना सह योद्धव्यमिति नास्ति निदर्शनम्।  
 यद्युद्धं हस्तिना सार्धं नराणां मृत्युमावहेत्॥

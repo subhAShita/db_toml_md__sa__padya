@@ -5,7 +5,7 @@ title = "कस्यामोदं कमलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्यामोदं कमलं वदनमिदं ते प्रिये न संतनुयात्।  
 अवलम्ब्य मित्रमेकं विकसति न यदन्यथा जातु॥

@@ -5,7 +5,7 @@ title = "कामकारो महाप्राज्ञ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामकारो महाप्राज्ञ गुरूणां सर्वदानघ।  
 उपपन्नेषु दारेषु पुत्रेषु च विधीयते॥

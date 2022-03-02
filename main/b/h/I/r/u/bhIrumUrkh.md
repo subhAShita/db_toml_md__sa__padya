@@ -5,7 +5,7 @@ title = "भीरुं मूर्खम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भीरुं मूर्खं स्त्रियं बालं धार्मिकं दुर्जनं पशुम्।  
 मैत्रीप्रधानं कल्याणबुद्धिं सान्त्वेन साधयेत्॥

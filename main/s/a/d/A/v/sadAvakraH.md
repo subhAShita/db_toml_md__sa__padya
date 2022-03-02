@@ -6,7 +6,7 @@ title = "सदा वक्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सदा वक्रः सदा क्रूरः सदा पूजामपेक्षते।  
 कन्याराशिस्थितो नित्यं जामाता दशमो ग्रहः॥

@@ -7,7 +7,7 @@ title = "कर्ता कारयिता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कर्ता कारयिता चैव यश्चैवमनुमन्यते।  
 शुभं वा यदि वा पापं तेषामपि समं फलम्॥

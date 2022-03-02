@@ -7,7 +7,7 @@ title = "नयनस्य तुलाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नयनस्य तुलां चक्रे नलिनेन नतभ्रुवः।  
 ऊनेन चलिते भृङ्गं मामरम्भाद्विधिर्दधौ॥

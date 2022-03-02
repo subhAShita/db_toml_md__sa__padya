@@ -6,7 +6,7 @@ title = "विदग्धे सुमुखे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विदग्धे सुमुखे रक्ते नितम्बोपरि संस्थिते।  
 कामिन्याश्लिष्टसुगले कूजितं रतिकूजितम्॥

@@ -5,7 +5,7 @@ title = "कलत्रं पृष्ठतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलत्रं पृष्ठतः कृत्वा रमते यः परस्त्रियः।  
 अधर्मश्चापदस्तस्य सद्यः फलति नित्यशः॥

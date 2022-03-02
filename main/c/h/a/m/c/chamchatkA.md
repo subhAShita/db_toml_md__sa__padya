@@ -7,7 +7,7 @@ title = "चञ्चत्काञ्चनशैलावस्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चञ्चत्काञ्चनशैलावस्या वक्षोरुहौ तन्व्याः।  
 नो चेत्तावधिरूढा कथमनिमिषतां भजेत मे दृष्टिः॥

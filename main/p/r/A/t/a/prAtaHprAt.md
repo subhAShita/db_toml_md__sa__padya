@@ -6,7 +6,7 @@ title = "प्रातः प्रातः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रातः प्रातः समुत्थाय द्वौ मुनी च कमण्डलू।  
 अत्र क्रियापदं वक्तुमवधिर्ब्रह्मणो वयः॥

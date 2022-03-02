@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1064", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// १० अधरः// 140",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "अधरः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अधरोऽयमधीराक्ष्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अधरोऽयमधीराक्ष्या बन्धुजीवप्रभाहरः।  
 अन्यजीवप्रभां हन्त हरतीति किमद्भुतम्॥

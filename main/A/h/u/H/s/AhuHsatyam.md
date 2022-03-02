@@ -5,7 +5,7 @@ title = "आहुः सत्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आहुः सत्यं हि परमं धर्मं धर्मविदो जनाः।  
 ... ... ... ... ... ...॥

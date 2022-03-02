@@ -6,7 +6,7 @@ title = "हेतुर्नैसर्गिकः कोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हेतुर्नैसर्गिकः कोऽपि प्रतेर्यद्धि न वर्तते।  
 मालती मधुरास्तीति मधुपः केन शिक्ष्यते॥

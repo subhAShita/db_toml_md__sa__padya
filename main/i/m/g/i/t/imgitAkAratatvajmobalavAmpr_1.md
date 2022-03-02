@@ -6,7 +6,7 @@ title = "इङ्गिताकारतत्त्वज्ञो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इङ्गिताकारतत्त्वज्ञो बलवान्प्रियदर्शनः।  
 समयज्ञः स्वामिभक्तः प्रतीहारी स इष्यते॥

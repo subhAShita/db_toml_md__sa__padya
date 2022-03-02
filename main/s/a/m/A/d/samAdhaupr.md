@@ -7,7 +7,7 @@ title = "समाधौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समाधौ प्रातिभोन्मेषव्यक्तवक्रोक्तिवैभवे ।  
 लौकिकव्यवहारैकप्रवणत्वादमज्जताम् ॥  

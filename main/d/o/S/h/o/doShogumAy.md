@@ -6,7 +6,7 @@ title = "दोषो गुणाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दोषो गुणाय गुणिनां महदपि दोषाय दोषिणां सुकृतम्।  
 तृणमिव दुग्धाय गवां दुग्धमिव विषाय सर्पाणाम्॥

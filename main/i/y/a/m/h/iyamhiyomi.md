@@ -5,7 +5,7 @@ title = "इयं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं हि योनिः प्रथमा यां प्राप्य जगतीपते।  
 आत्मा वै शक्यते त्रातुं कर्मभिः शुभलक्षणैः॥

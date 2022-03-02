@@ -6,7 +6,7 @@ title = "शीतमध्वा कदन्नम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शीतमध्वा कदन्नं च वयोतीताश्च योषितः।  
 मनसः प्रातिकूल्यं च जरायाः पञ्च हेतवः॥

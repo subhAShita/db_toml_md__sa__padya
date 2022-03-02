@@ -6,7 +6,7 @@ title = "गिरयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गिरयो गुरवस्तेभ्योऽप्युर्वी गुर्वी ततोऽपि जगदण्डम्।  
 तस्मादप्यतिगुरवः प्रलयेऽप्यचला महात्मनः॥

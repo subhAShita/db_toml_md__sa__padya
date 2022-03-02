@@ -6,7 +6,7 @@ title = "द्विः शरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 द्विः शरं नाभिसन्धत्ते द्विः स्थापयति नाश्रितान्।  
 द्विर्ददाति न चार्थिभ्यो रामो द्विर्नैव भाषते॥

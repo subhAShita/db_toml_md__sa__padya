@@ -5,7 +5,7 @@ title = "उदर एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उदर एव धृतः किमुदन्वता न विषमो वडवानलवद् विधुः।  
 विषवदुज्झितमप्यमुना न स स्मरहरः किममुं बुभुजे विभुः॥

@@ -6,7 +6,7 @@ title = "तुरङ्गसादिनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तुरङ्गसादिनं शस्त्रहृतप्राणं गतं भुवि।  
 आन्त्राढ्योऽपि महावाजी नात्रस्तनयनोऽत्यजत्॥

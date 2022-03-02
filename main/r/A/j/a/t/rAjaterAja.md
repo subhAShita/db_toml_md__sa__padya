@@ -7,7 +7,7 @@ title = "राजते राजरामाया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजते राजरामाया एष बिम्बाधरव्रणः।  
 सुधां पीत्वेव कान्तेन तच्छेषोऽयं समुद्रितः॥

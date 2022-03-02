@@ -5,7 +5,7 @@ title = "अभिलषिताधिकवरदे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिलषिताधिकवरदे प्रणिपतितजनार्तिहारिणि शरण्ये।  
 चरणौ नमाम्यहं ते विद्याधरदेवते गौरि॥

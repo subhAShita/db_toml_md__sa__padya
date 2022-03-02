@@ -5,7 +5,7 @@ title = "कारणैः सदृशम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कारणैः सदृशं कार्यम् इति मिथ्या प्रसिद्धयः।  
 मानिनो भवतो जातं यदमानं यशो भुवि॥

@@ -6,7 +6,7 @@ title = "मार्जारो महिषो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मार्जारो महिषो मेषः काकः कापुरुषस्तथा।  
 विश्वासात्प्रभवन्त्येते विश्वासस्तत्र नो हितः॥

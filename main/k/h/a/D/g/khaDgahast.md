@@ -6,7 +6,7 @@ title = "खड्गहस्तोऽरिमालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 खड्गहस्तोऽरिमालोक्य हर्षामर्षसमन्वितः।  
 शूरः पुलकितो रक्तनेत्रो हसति जृम्भते॥

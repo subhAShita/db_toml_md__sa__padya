@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ३२ कविवृन्दम्// 65",]
 topics = [ "कविवृन्दम्", "बृहत्कथा", "रामायणम्", "महाभारतम्",]
-jsonClass = "Subhaashita"
 sources = [ "गोवर्धनः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "श्रीरामायणभारतबृहत्कथानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रीरामायणभारतबृहत्कथानां कवीन्नमस्कुर्मः।  
 त्रिस्रोता इव सरसा सरस्वती स्फुरति यैर्भिन्ना॥

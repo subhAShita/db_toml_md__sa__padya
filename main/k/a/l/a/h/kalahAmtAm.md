@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_9000", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 545",]
 topics = [ "नीतिः", "कलहः", "सौहार्दम्", "मैत्री", "वाग्यमः", "दुष्कर्म",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "कलहान्तानि हर्म्याणि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कलहान्तानि हर्म्याणि कुवाक्यान्तं च सौहृदम्।  
 कुराजान्तानि राष्ट्राणि कुकर्मान्तं यशो नृणाम्॥

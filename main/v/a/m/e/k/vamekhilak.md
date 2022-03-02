@@ -6,7 +6,7 @@ title = "वनेऽखिलकलासक्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वनेऽखिलकलासक्ताः परिहृत्य निजस्त्रियः।  
 त्वद्वैरिवनितावृन्दे पुलिन्दाः कुर्वते रतिम्॥

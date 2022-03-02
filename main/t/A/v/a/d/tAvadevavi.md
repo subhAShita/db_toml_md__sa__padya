@@ -7,7 +7,7 @@ title = "तावदेव विदुषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तावदेव विदुषां विवेकिनी बुद्धिरस्ति भवबन्धभेदिनी।  
 यावदिन्दुवदना न कामिनी वीक्षिता रहसि हंसगामिनी॥

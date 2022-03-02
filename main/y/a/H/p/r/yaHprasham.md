@@ -6,7 +6,7 @@ title = "यः प्रशंसति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः प्रशंसति नरो नरमन्यं देवतासु वरदासु सतीषु।  
 मुग्धधीर्धनलवस्पृहयालुस्तं नृशंसमहमाद्यमवैमि॥

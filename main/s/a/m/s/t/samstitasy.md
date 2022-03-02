@@ -6,7 +6,7 @@ title = "संस्तितस्य गुणोत्कर्षः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 संस्तितस्य गुणोत्कर्षः प्रायः प्रस्फुरति स्फुटम्।  
 दग्धस्यागुरुखण्डस्य स्फारीभवति सौरभम्॥

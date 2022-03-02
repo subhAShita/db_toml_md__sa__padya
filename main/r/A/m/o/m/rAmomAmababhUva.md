@@ -6,7 +6,7 @@ title = "रामो नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रामो नाम बभूव हुं तदबला सीतेति हुं तां पितुर्  
 वाचा पञ्चवटीतटे विहरतस्तस्याहरद्रावणः ।  

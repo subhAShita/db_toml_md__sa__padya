@@ -6,7 +6,7 @@ title = "प्रदोषे दीपकश्चन्द्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रदोषे दीपकश्चन्द्रः प्रभाते दीपको रविः।  
 त्रैलोक्ये दीपको धर्मः सुपुत्रः कुलदीपकः॥

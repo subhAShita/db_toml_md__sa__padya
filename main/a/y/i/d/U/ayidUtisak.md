@@ -5,7 +5,7 @@ title = "अयि दूति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयि दूति सखी त्वमेव मे मदनो हन्ति शितैः शिलीमुखैः।  
 दयितं तमुपानयाशु तत् सुशको जीवितनिर्गमोऽन्यथा॥

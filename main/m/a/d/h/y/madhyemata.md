@@ -7,7 +7,7 @@ title = "मध्येन तनुमध्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मध्येन तनुमध्या मे मध्यं जितवतीत्ययम्।  
 इभकुम्भौ भिनत्त्यस्याः कुचकुम्भनिभौ हरिः॥

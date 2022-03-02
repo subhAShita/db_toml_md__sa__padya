@@ -6,7 +6,7 @@ title = "शक्यते येन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शक्यते येन केनापि जीवनेनैव जीवितुम्।  
 किन्न्तु कौलव्रतोद्भङ्गप्रसङ्गः परदुःसहः॥

@@ -7,7 +7,7 @@ title = "या हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 या हि शश्वद्बहुमता रक्ष्यन्ते दयिताः स्त्रियः।  
 अपि ताः सम्प्रसज्जन्ते कुब्जान्धजडवामनैः॥

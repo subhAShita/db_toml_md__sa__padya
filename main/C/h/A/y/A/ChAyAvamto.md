@@ -6,7 +6,7 @@ title = "छायावन्तो गतव्यालाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 छायावन्तो गतव्यालाः स्वारोहाः फलदायिनः।  
 मार्गद्रुमा महान्तश्च परेषामेव भूतये॥

@@ -7,7 +7,7 @@ title = "भातु नाम"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भातु नाम सुदृशां दशनाङ्कः पाटलो धवलगण्डतलेषु।  
 दन्तवाससि समानगुणश्रीः सम्मुखोऽपि परभागमवाप॥

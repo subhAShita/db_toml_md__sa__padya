@@ -7,7 +7,7 @@ title = "मदनाय नमस्तस्मै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मदनाय नमस्तस्मै शरतां च शरव्यताम् ।  
 धन्विना येन नीयन्ते सुमनांसि मनांसि च ॥

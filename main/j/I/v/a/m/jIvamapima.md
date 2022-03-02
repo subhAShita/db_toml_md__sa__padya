@@ -6,7 +6,7 @@ title = "जीवन्नपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवन्नपि न तत्कर्तुं शक्नोति सुजनस्तथा।  
 दुर्जनो यन्मृतः कुर्यात्परेभ्योऽहितमुत्तरम्॥

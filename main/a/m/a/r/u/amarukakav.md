@@ -5,7 +5,7 @@ title = "अमरुककवित्वडमरुक नादेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमरुककवित्वडमरुक- नादेन विनुह्नुता न संचरति।  
 शृङ्गारभणितिरन्या धन्यानां श्रवणविवरेषु॥

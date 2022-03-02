@@ -6,7 +6,7 @@ title = "हृदयानि सतामेव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हृदयानि सतामेव कठिनानीति मे मतिः।  
 खलवाग्विशिखैस्तीक्ष्णैर्भिद्यन्ते न मनाग्यतः॥

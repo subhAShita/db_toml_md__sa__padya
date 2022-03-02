@@ -5,7 +5,7 @@ title = "उत्कृष्टबलवीर्यस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्कृष्टबलवीर्यस्य विजिगीषोर्जयैषिणः।  
 गुणानुरक्तप्रकृतेर् यात्रा यानमिति स्मृतम्॥

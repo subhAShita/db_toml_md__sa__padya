@@ -6,7 +6,7 @@ title = "ग्रन्थानभ्यस्य मेघावी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ग्रन्थानभ्यस्य मेघावी ज्ञान-विज्ञानतत्परः ।  
 पलालमिव धान्यार्थी त्यजेत् सर्वमशेषतः ॥

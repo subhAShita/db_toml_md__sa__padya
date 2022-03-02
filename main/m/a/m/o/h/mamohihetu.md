@@ -5,7 +5,7 @@ title = "मनो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मनो हि हेतुः सर्वेषाम् इन्द्रियाणां प्रवर्तने।  
 शुभाशुभास्ववस्थासु तच्च मे सुव्यवस्थितम्॥

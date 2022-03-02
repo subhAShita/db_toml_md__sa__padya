@@ -6,7 +6,7 @@ title = "प्रकटमपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकटमपि न संवृणोति दोषं गुणलवलम्पट एव साधुवर्गः।  
 अतिपरुषरुषं विनापि दोषैः पिशुनशुनां रुषतां प्रयाति कालः॥

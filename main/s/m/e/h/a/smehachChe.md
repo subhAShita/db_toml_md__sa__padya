@@ -6,7 +6,7 @@ title = "स्नेहच्छेदेऽपि साधूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्नेहच्छेदेऽपि साधूनां गुणा नायान्ति विक्रियाम्।  
 भङ्गेनापि मृणालानामनुबध्नन्ति तन्तवः॥

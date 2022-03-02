@@ -5,7 +5,7 @@ title = "आत्मवित् सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मवित् सह तया दिवानिशं भोगभागपि न पापमाप सः।  
 आहृता हि विषयैकतानता ज्ञानधौतमनसं न लिम्पति॥

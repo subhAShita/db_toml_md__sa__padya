@@ -5,7 +5,7 @@ title = "ईर्ष्यारोषज्वलितो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईर्ष्यारोषज्वलितो निजपतिसङ्गं विचिन्तयंस् तस्याः।  
 च्युतवसनजघनभावन- सान्द्रानन्देन निर्वामि॥

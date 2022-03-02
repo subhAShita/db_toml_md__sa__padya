@@ -6,7 +6,7 @@ title = "सहस्रशीर्षा पुरुषः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सहस्रशीर्षा पुरुषः  
 सहस्राक्षः सहस्रपात्।  

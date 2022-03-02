@@ -5,7 +5,7 @@ title = "एतच्च तपसो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतच्च तपसो मूलं तपसो मूलमेव च।  
 सर्वदा कामविजयः संकल्पविजयस् तथा॥

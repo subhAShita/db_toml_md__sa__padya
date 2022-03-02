@@ -5,7 +5,7 @@ title = "अलं स्थित्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलं स्थित्वा श्मशानेऽस्मिन् गृध्रगोमायुसंकुले।  
 कङ्कालबहुले घोरे सर्वप्राणिभयंकरे॥

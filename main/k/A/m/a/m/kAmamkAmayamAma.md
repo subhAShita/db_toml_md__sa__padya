@@ -5,7 +5,7 @@ title = "कामं कामयमानस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामं कामयमानस्य यदा कामः समृद्ध्यते।  
 अथैनमपरः कामस् तृष्णा विध्यति बाणवत्॥

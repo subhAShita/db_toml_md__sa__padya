@@ -6,7 +6,7 @@ title = "प्रायः कार्ये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रायः कार्ये न मुह्यन्ति नराः सर्वत्र कीदृशाः।  
 नाधा इति भवेच्छब्दो नौवाची वद कीदृशः॥

@@ -5,7 +5,7 @@ title = "आपातरमणीयानां संयोगानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आपातरमणीयानां संयोगानां प्रियैः सह।  
 अपथ्यानामिवान्नानां परिणामो हि दारुणः॥

@@ -6,7 +6,7 @@ title = "सकृदुक्तगृहीतार्थो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सकृदुक्तगृहीतार्थो लघुहस्तो जितेन्द्रियः।  
 शब्दशास्त्रपरिज्ञाता एष लेखक इष्यते॥

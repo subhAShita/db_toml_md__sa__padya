@@ -7,7 +7,7 @@ title = "यामीति प्रियपृष्टायाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यामीति प्रियपृष्टायाः कान्तायाः कण्ठवर्त्मनि।  
 वचोजीवितयोरासीद्बहिर्निस्सरणे रणः॥

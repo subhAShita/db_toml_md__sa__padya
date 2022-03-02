@@ -5,7 +5,7 @@ title = "कन्थां वहसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कन्थां वहसि दुर्बुद्धे गर्दभैरपि दुर्वहाम्।  
 शिखायज्ञोपवीताभ्यां भारः कस्ते भविष्यति॥

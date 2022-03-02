@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_8706", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 13 सूर्यः// 17",]
-jsonClass = "Subhaashita"
 topics = [ "सूर्यः",]
+jsonClass = "Subhaashita"
 title = "करजालमपूर्वचेष्टितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करजालमपूर्वचेष्टितं वस्तदभीष्टप्रदमस्तु तिग्मभासः।  
 क्रियते भवबन्धनाद्विमुक्तिः प्रणतानामुपसेवितेन येन॥

@@ -5,7 +5,7 @@ title = "अभयस्यैव यो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभयस्यैव यो दाता तस्यैव सुमहत्फलम्।  
 न हि प्राणसमं दानं त्रिषु लोकेषु विद्यते॥

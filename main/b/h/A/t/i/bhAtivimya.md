@@ -7,7 +7,7 @@ title = "भाति विन्यस्तकह्लारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भाति विन्यस्तकह्लारं सुकेश्याः केशसञ्चयम्।  
 शोणितार्द्रैः शरैः पूर्णं तूणीरमिव मान्मथम्॥

@@ -7,7 +7,7 @@ title = "निदधिरे दयितोरसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निदधिरे दयितोरसि तत्क्षणस्नपनवारितुषारभृतास्तनाः।  
 सरसचन्दनरेणुरनुक्षणं विचकरे च करेण वरोरुभिः॥

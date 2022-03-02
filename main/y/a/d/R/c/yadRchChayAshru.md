@@ -7,7 +7,7 @@ title = "यदृच्छया श्रुतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यदृच्छया श्रुतं मन्त्रं छद्मनापि बलेन वा ।  
 परेरितं वा गाथावा तज्जपेद्यद्यनर्थकृत् ॥  

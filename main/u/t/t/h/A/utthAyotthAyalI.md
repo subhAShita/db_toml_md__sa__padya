@@ -5,7 +5,7 @@ title = "उत्थायोत्थाय लीयन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्थायोत्थाय लीयन्ते दरिद्राणां मनोरथाः।  
 बालवैधव्यदग्धानां कुलस्त्रीणां कुचा इव॥

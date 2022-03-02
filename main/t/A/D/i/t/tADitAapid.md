@@ -7,7 +7,7 @@ title = "ताडिता अपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ताडिता अपि दण्डेन शस्त्रैरपि विखण्डिताः।  
 न वशं योषितो यान्ति न दानैर्न च संस्तवैः॥

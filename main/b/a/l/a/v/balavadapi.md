@@ -7,7 +7,7 @@ title = "बलवदपि बलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बलवदपि बलं मिथोविरोधि प्रभवति नैव विपक्षनिर्जयाय।  
 भुवनपरिभवी न यत्तदानीं तमृतुगणः क्षणमुन्मनीचकार॥

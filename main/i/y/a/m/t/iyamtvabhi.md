@@ -5,7 +5,7 @@ title = "इयं त्वभिन्नमर्यादैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं त्वभिन्नमर्यादैः स्वनुशिष्टैः कृतात्मभिः।  
 सर्वंसहैरुपायज्ञैर् अमूढैरेव धार्यते॥

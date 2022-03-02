@@ -6,7 +6,7 @@ title = "युधिष्ठिरोऽसि भीमोऽसि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युधिष्ठिरोऽसि भीमोऽसि चरितैरर्जुनो भवान्।  
 प्रज्ञया सहदेवोऽसि वाच्यता न कुलस्य ते॥

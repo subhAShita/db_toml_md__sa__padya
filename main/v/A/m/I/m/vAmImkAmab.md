@@ -6,7 +6,7 @@ title = "वाणीम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाणीं काणभुजीमजीगणदवाशासीच्च वैयासिकी-  
 मन्तस्तन्त्रमरंस्त पन्नगगवीगुम्फेषु चाजागरीत्।  

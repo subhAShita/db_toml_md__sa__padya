@@ -6,7 +6,7 @@ title = "बुद्धिशस्त्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बुद्धिशस्त्रः प्रकृत्यङ्गो धनसंवृतिकञ्चुकः।  
 चारेक्षणो दूतमुखः पुरुषः कोऽपि पार्थिवः॥

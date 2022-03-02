@@ -5,7 +5,7 @@ title = "अपहरसि सदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपहरसि सदा मनांसि पुंसाम् अतिमहता गुणसंपरिग्रहेण।  
 न च भवसि तथाप्यनेकचित्तो हृतमथवा विवृणोति कः परस्वम्॥

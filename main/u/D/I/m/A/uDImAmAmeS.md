@@ -5,7 +5,7 @@ title = "उड्डीनानामेषाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उड्डीनानामेषां प्रासादात् तरुणि पक्षिणां प क्तिः।  
 विस्फुरति वैजयन्ती पवनच्छिन्नापविद्धेव॥

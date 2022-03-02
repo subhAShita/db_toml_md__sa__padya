@@ -5,7 +5,7 @@ title = "कासे श्वासे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कासे श्वासे तथा शोषे मन्दाग्नौ विषमज्वरे।  
 प्रमेहे मूत्रकृच्छ्रे च सेवयेन्मधुपिप्पलीम्॥

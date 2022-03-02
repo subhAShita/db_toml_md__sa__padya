@@ -7,7 +7,7 @@ title = "उन्मत्तं पतितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उन्मत्तं पतितं क्लीबमबीजं पापरोगिणम् ।  
 न त्यागोऽस्ति द्विषन्त्याश्च न च दायापवर्तनम् ॥

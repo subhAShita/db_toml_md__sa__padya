@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_5981", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३८ प्रणयकलहे नायिकानुनयः// 25",]
-jsonClass = "Subhaashita"
 topics = [ "प्रणयकलहः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इन्दीवरेण नयनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इन्दीवरेण नयनं मुखमम्बुजेन कुन्देन दन्तमधरं नवपल्लवेन।  
 अङ्गानि चम्पकदलैः स विधाय वेधाः कान्ते कथं घटितवानुपलेन चेतः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9070", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 91",]
-jsonClass = "Subhaashita"
 types = [ "बहिरालापः",]
+jsonClass = "Subhaashita"
 title = "कल्याणवाक्त्वमिव किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्याणवाक्त्वमिव किं पदमत्र कान्तं सद्भूपतेस् त्वमिव कः परितोषकारी।  
 कः सर्वदा वृषगतिस् त्वमिवातिमात्रं भूत्याश्रितः कथय पालितसर्वभूतः॥

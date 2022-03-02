@@ -7,7 +7,7 @@ title = "अभ्यासपरवशतया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यासपरवशतया मातुर्दत्तं पिचण्डसात्कृत्वा ।  
 मुखकमलमाग्रजीनं जयति स नवनीतयन् मुरारातिः ॥

@@ -6,7 +6,7 @@ title = "विषादी भैक्ष्यमश्नाति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विषादी भैक्ष्यमश्नाति सदा रोगं न मुञ्चति।  
 रुष्टेनापि त्वया वीरं शम्भुनारिः समः कृतः॥

@@ -7,7 +7,7 @@ title = "पातालमिव ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पातालमिव ते नाभिः स्तनौ क्षितिधरोपमौ।  
 वेणीदण्डः पुनरयं कालिन्दीपातसन्निभिः॥

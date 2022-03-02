@@ -5,7 +5,7 @@ title = "अनुकूला सदा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनुकूला सदा तुष्टा दक्षा साध्वी विचक्षणा।  
 एभिरेव गुणैर्युक्ता श्रीरिव स्त्री न संशयः॥

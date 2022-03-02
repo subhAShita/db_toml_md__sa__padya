@@ -7,7 +7,7 @@ title = "ऋषयः पितरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऋषयः पितरो देवा भूतान्यतिथयस्तथा ।  
 आशासते कुटुम्बिभ्यस्तेभ्यः कार्यं विजानता ॥

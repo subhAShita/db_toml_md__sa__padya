@@ -6,7 +6,7 @@ title = "तरुमूलादिषु निहितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तरुमूलादिषु निहितं जलमाविर्भवति पल्लवाग्रेषु।  
 निभृतं यदुपक्रियते तदपि महान्तो वहन्त्युच्चैः॥

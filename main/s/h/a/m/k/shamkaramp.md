@@ -6,7 +6,7 @@ title = "शङ्करं पतितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शङ्करं पतितं दृष्ट्वा पार्वती हर्षनिर्भरा।  
 रुरुदुः पन्नगाः सर्वे हा हा शङ्कर शङ्कर॥

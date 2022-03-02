@@ -6,7 +6,7 @@ title = "एतदर्थं कुलीनानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतदर्थं कुलीनानां नृपाः कुर्वन्ति सङ्ग्रहम्।  
 आदिमध्यावसानेषु न ते यास्यन्ति विक्रियाम्॥

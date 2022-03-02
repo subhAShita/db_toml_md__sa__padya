@@ -7,7 +7,7 @@ title = "श्लेष्मागारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्लेष्मागारे वसतिर्जातास्माकं तदत्र मा यात।  
 आन्दोलनच्छलादिह निवारयन्तीव मौक्तिकानि विटान्॥

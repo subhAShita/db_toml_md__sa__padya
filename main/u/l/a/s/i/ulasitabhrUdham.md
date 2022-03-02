@@ -5,7 +5,7 @@ title = "उल्लसितभ्रूधनुषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उल्लसितभ्रूधनुषा तवपृथुना लोचनेन रुचिराङ्गि।  
 अचला अपि न महान्तः के चञ्चलभावमानीताः॥

@@ -7,7 +7,7 @@ title = "सरले साहसरागम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सरले साहसरागं परिहर रम्भोरु मुञ्च सम्रम्भम्।  
 विरसं विरहायासं वोढुं तव चित्तमसहं मे॥

@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6111", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 3",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "इयं व्याधायते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयं व्याधायते बाला भ्रूरस्याः कार्मुकायते।  
 कटाक्षाश् च शरायन्ते मनो मे हरिणायते॥

@@ -6,7 +6,7 @@ title = "किंशुक किम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किंशुक किं शुकमुखवत्कुसुमानि विकासयस्यनिशम्।  
 यस्यां जनोऽनुरागी सा गीरेतैः कदापि नोच्चार्या॥

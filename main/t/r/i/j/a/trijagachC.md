@@ -7,7 +7,7 @@ title = "त्रिजगच्छाखिबीजाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्रिजगच्छाखिबीजाय त्रिजगत्पुष्पशाखिने ।  
 त्रिजगत्फलपुष्पाय त्रिनेत्राय नमो नमः ॥

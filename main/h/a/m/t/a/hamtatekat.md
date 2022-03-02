@@ -7,7 +7,7 @@ title = "हन्त ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः।  
 प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे॥  

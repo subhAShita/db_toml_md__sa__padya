@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2198", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 486",]
 topics = [ "नीतिः", "स्नेहः", "स्नेहितदोषः",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
-title = "अप्रियाण्य् अपि"
+jsonClass = "Subhaashita"
+title = "अप्रियाण्यपि कुर्वाणो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अप्रियाण्यपि कुर्वाणो यः प्रियः प्रिय एव सः।  
 दग्धमन्दिरसारेऽपि कस्य वह्नावनादरः॥

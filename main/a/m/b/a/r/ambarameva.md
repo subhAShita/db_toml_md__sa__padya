@@ -7,7 +7,7 @@ title = "अम्बरमेव रमण्यै"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अम्बरमेव रमण्यै यामिन्यै वासरः प्रेयान्।  
 अधिकं ददौ निजाङ्गादथ सङ्कुचितः स्वयं तस्थौ॥

@@ -7,7 +7,7 @@ title = "पदप्रणतमालोक्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पदप्रणतमालोक्य कान्तमेकान्तकातरम्।  
 मुञ्चन्ती बाष्पसन्तानं सुमुखी तेन चुम्बिता॥

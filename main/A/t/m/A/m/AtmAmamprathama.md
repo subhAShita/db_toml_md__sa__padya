@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4631", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 118",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "आत्मानं प्रथमम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मानं प्रथमं राजा विनयेनोपपादयेत्।  
 ततोऽमात्यांस् ततो भृत्यांस् ततः पुत्रांस् ततः प्रजाः॥

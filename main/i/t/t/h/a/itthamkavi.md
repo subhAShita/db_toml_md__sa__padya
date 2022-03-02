@@ -5,7 +5,7 @@ title = "इत्थं कविकुटुम्बस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इत्थं कविकुटुम्बस्य वचांसि विचिनोति यः।  
 अनिद्धवचनस्यापि तस्य वश्या सरस्वती॥

@@ -6,7 +6,7 @@ title = "कैलसे नवनीतति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कैलसे नवनीतति क्षितितले प्राग्जग्धमृल्लोष्टति  
 क्षीरोदेऽपि निपीतदुग्धति लसत्स्मेरप्रफुल्लेमुखे ।  

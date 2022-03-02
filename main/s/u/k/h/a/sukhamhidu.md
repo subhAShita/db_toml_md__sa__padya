@@ -6,7 +6,7 @@ title = "सुखं हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुखं हि दुःखान्यनुभूय शोभते घनान्धकारेष्विव दीपदर्शनम्।  
 सुखाच्च यो याति नरो दरिद्रतां धृतः शरीरेण मृतः स जीवति॥

@@ -6,7 +6,7 @@ title = "वीरे सरुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वीरे सरुषि रिपूणां नियतं का हृदयशायिनी भवति।  
 नभसि प्रस्थितजलदे का राजति हन्त वद तारा॥

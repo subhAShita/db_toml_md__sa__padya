@@ -6,7 +6,7 @@ title = "समस्तलक्षणायोग एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समस्तलक्षणायोग एव यस्योपलक्षणम्।  
 तस्मै नमोऽस्तु देवाय कस्मैचिदपि शम्भवे॥

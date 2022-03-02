@@ -6,7 +6,7 @@ title = "यं यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यं यं नृपोऽनुरागेण सम्मानयति संसदि।  
 तस्य तस्योत्सारणाय यतन्ते राजवल्लभाः॥

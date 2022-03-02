@@ -7,7 +7,7 @@ title = "पटविघटितमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पटविघटितमपि कुचतटमकपटमनसः कुरङ्गनयनायाः।  
 मणिभवमूखपटलीपटलीनतया न सम्यगालोचि॥

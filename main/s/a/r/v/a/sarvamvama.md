@@ -6,7 +6,7 @@ title = "सर्वं वनम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वं वनं तृणाल्या पिहितं पीताः सितांशुरविताराः।  
 प्रध्वस्ताः पन्थानो मलिनेनोद्गम्य मेघेन॥

@@ -5,7 +5,7 @@ title = "उपशोभैव सहायाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपशोभैव सहायाः सिद्धिर्वीरस्य साहसे वसति।  
 दलयति कुलानि करिणां किल हरिणपरिग्रहः सिंहः॥

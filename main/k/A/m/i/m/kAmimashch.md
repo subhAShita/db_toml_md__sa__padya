@@ -5,7 +5,7 @@ title = "कामिनश् चरितैरेभिः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामिनश् चरितैरेभिः कुर्वन्तो निशि जागरम्।  
 कुर्वन्त्यप्रियमात्मानं केचिन्मूढाः प्रिया अपि॥

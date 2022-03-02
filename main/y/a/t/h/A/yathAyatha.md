@@ -6,7 +6,7 @@ title = "यथा यथैव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा यथैव स्नेहेन भूयिष्ठमुपचर्यते।  
 धत्ते तथा तथा तापं महावैश्वानरः खलः॥

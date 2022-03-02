@@ -5,7 +5,7 @@ title = "अथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अथ संसारसंहारवामनाबन्धवासितः।  
 अजायत वृषारूढो भैरवो महसां निधिः॥

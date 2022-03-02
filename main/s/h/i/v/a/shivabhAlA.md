@@ -7,7 +7,7 @@ title = "शिवभालानलोत्थेन धूमयोगेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिवभालानलोत्थेन धूमयोगेन कालिमा।  
 विधौ शुक्लतरे किं वा इति मन्मानसाशयः॥

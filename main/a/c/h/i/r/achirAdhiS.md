@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0353", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 366",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अचिराधिष्ठितराज्यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अचिराधिष्ठितराज्यः शत्रुः प्रकृतिष्वरूढमूलत्वात्।  
 नवसंरोपणशिथिलस् तरुरिव सुकरः समुद्धर्तुम्॥

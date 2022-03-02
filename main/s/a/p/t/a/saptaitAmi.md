@@ -6,7 +6,7 @@ title = "सप्तैतानि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सप्तैतानि न पूर्यन्ते पूर्यमाणान्यनेकशः।  
 ब्राह्मणोऽग्निर्यमो राजा पयोधिरुदरं गृहम्॥

@@ -6,7 +6,7 @@ title = "प्रकृतिखलत्वादसतां दोष"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रकृतिखलत्वादसतां दोष इव गुणोऽपि बाधते लोकान्।  
 विषकुसुमानां गन्धः सुरभिरपि मनांसि मोहयति॥

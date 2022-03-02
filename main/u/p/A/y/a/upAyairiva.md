@@ -5,7 +5,7 @@ title = "उपायैरिव तैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपायैरिव तैः काले चतुर्भिः सुप्रयोजितैः।  
 मैलुगिक्षोणिपालस्य राज्यं जातं सदोन्नतम्॥

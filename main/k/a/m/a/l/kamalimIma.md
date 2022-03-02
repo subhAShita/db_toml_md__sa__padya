@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8669", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 70",]
-jsonClass = "Subhaashita"
 topics = [ "वसन्तः",]
 rasas = [ "शृङ्गारः",]
-title = "कमलिनी मलिनी"
+jsonClass = "Subhaashita"
+title = "कमलिनीमलिनी दयितम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कमलिनीमलिनी दयितं विना न सहते सह तेन निषेविताम्।  
 तमधुना मधुना निहितं हृदि स्मरति सा रतिसारमहर्निशम्॥

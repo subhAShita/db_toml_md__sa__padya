@@ -1,13 +1,13 @@
 +++
 topics = [ "सज्जनः", "पुरुषकारः", "उपकरणम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 251",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "रथस्यैकं चक्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 रथस्यैकं चक्रं भुजगयमिताः सप्त तुरगा निरालम्भो मार्गश्चरणरहितः सारथिरपि।  
 रविर्गच्छत्यन्तं प्रतिदिनमपारस्य नभसः क्रियासिद्धिः सत्त्वे वसति महतां नोपकरणे॥

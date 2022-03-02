@@ -6,7 +6,7 @@ title = "गुणिनामपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुणिनामपि निजरूपप्रतिपत्तिः परत एव सम्भवति।  
 स्वमहिमदर्शनमक्ष्णोर्मुकुरतले जायते यस्मात्॥

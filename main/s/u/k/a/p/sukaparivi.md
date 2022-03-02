@@ -6,7 +6,7 @@ title = "सुकपरिविन्दः शब्दः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सुकपरिविन्दः शब्दः सुब्रह्मण्यस्य वाचकः केन।  
 स्तनभरनमिता नारी केनोपायेन रञ्जयेत्कान्तम्॥

@@ -5,7 +5,7 @@ title = "अर्थेनापि हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्थेनापि हि किं तेन यस्यानर्थे तु संगतिः।  
 को हि नाम शिखाजातं पन्नगस्य मणिं हरेत्॥

@@ -6,7 +6,7 @@ title = "न योजनशतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न योजनशतं दूरं बाध्यमानस्य तृष्णया।  
 संतुष्टस्य करप्राप्तेऽप्यर्थे भवति नादरः॥

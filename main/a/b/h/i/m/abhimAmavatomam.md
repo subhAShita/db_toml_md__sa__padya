@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2310", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 391",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अभिमानवतो मनस्विनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभिमानवतो मनस्विनः प्रियमुच्चैः पदमारुरुक्षतः।  
 विनिपातनिवर्तनक्षमं मतमालम्बनमात्मपौरुषम्॥

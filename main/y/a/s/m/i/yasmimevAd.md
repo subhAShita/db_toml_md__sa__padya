@@ -6,7 +6,7 @@ title = "यस्मिन्नेवाधिकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिन्नेवाधिकं चक्षुरारोपयति पार्थिवः।  
 कुलीनो वाकुलीनो वा स श्रियो भाजनं भवेत्॥

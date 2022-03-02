@@ -6,7 +6,7 @@ title = "परिच्छेदो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 परिच्छेदो हि पाण्डित्यं यदापन्ना विपत्तयः।  
 अपरिच्छेदकर्तॄणां विपदः स्युः पदे पदे॥

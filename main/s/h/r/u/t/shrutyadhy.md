@@ -6,7 +6,7 @@ title = "श्रुत्यध्ययनसम्पन्ना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्रुत्यध्ययनसम्पन्ना धर्मज्ञाः सत्यवादिनः।  
 राज्ञा सभासदः कार्या रिपौ मित्त्रे च ये समाः॥

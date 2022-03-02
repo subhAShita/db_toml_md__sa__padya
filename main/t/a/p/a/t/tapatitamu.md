@@ -7,7 +7,7 @@ title = "तपति तनुगात्रि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तपति तनुगात्रि मदनस्त्वामनिशं मां पुनर्दहत्येव।  
 ग्लपयति यथा शशाङ्कं न तथा हि कुमुद्वतीं दिवसः॥

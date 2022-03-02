@@ -7,7 +7,7 @@ title = "पदक्रमविशेषज्ञो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पदक्रमविशेषज्ञो वर्णक्रमविचक्षणः ।  
 स्वरमात्राविभागज्ञो गच्छेदाचार्यसंसदम् ॥

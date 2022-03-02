@@ -6,7 +6,7 @@ title = "उमामिमां समुद्वीक्ष्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उमामिमां समुद्वीक्ष्य शीतदीधितिशेखर।  
 एषापि भारती भानुयुतं सीत्कृत्य नर्तति॥

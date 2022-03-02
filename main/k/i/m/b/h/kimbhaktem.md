@@ -6,7 +6,7 @@ title = "किं भक्तेनासमर्थेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं भक्तेनासमर्थेन किं शक्तेनापकारिणा।  
 भक्तं शक्तं च मां राजन्नावज्ञातुं त्वमर्हसि॥

@@ -6,7 +6,7 @@ title = "लोकानुग्रहकर्तारः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोकानुग्रहकर्तारः प्रवर्धन्ते नरेश्वराः।  
 लोकानां सङ्क्षयाच्चैव क्षयं यान्ति न संशयः॥

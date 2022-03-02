@@ -5,7 +5,7 @@ title = "अनेन वीतरागेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनेन वीतरागेण बुद्धेनेवाधरेण ते।  
 दूति निर्व्याजमाख्याता सर्ववस्तुषु शून्यता॥

@@ -5,7 +5,7 @@ title = "ईर्ष्या कलहमूलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईर्ष्या कलहमूलं स्यात् क्षमा मूलं हि संपदाम्।  
 ईर्ष्यादोषाद् विप्रशापम् अवाप जनमेजयः॥

@@ -6,7 +6,7 @@ title = "विशाखान्ता गता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विशाखान्ता गता मेघाः प्रसूतान्तं च यौवनम्।  
 प्रणामान्तः सतां कोपो याचनान्तं हि गौरवम्॥

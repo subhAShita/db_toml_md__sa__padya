@@ -6,7 +6,7 @@ title = "सूक्ष्मेभ्योऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सूक्ष्मेभ्योऽपि प्रसङ्गेभ्यो रक्ष्या नार्यो हि सर्वदा।  
 द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः॥

@@ -6,7 +6,7 @@ title = "तृष्णे त्वमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तृष्णे त्वमपि तृष्णान्धा त्रिषु स्थानेषु वर्तसे।  
 व्याधितेष्वनपत्येषु जरापरिणतेषु च॥

@@ -6,7 +6,7 @@ title = "शनैः पन्थाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शनैः पन्थाः शनैः कन्था शनैः पर्वतमस्तके।  
 शनैर्विद्या शनैर्वित्तं पञ्चैतानि शनैः शनैः॥

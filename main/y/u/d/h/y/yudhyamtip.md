@@ -6,7 +6,7 @@ title = "युध्यन्ति पशवः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युध्यन्ति पशवः सर्वे पठन्ति शुकसारिकाः।  
 दातुं जानाति यो वित्तं स शूरः स च पण्डितः॥

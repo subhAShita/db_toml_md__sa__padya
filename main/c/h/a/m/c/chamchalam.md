@@ -6,7 +6,7 @@ title = "चञ्चलं वसु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चञ्चलं वसु नितान्तमुन्नता मेदिनीमपि हरन्त्यरातयः।  
 भूधरस्थिरमुपेयमागतं मावमंस्त सुहृदं महीपतिम्॥

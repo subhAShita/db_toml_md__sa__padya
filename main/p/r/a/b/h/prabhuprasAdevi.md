@@ -6,7 +6,7 @@ title = "प्रभुप्रसादे विश्वासम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रभुप्रसादे विश्वासं न कुर्यात्स्वप्नसन्निभे।  
 नन्देन मन्त्री निक्षिप्तः शकटारोपि बन्धने॥

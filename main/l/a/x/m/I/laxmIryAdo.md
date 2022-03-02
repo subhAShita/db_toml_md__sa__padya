@@ -6,7 +6,7 @@ title = "लक्ष्मी र्यादोनिधेर्यादो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लक्ष्मी र्यादोनिधेर्यादो नादो वादोचितं वचः।  
 बिभ्यती धीवरेभ्यो या जडेष्वेव निमज्जति॥

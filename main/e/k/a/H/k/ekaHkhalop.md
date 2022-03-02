@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7422", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 232",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "एकः खलोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकः खलोऽपि यदि नाम भवेत् सभायां व्यर्थीकरोति विदुषामखिलं प्रयासम्।  
 एकापि पूर्णमुदरं मधुरैः पदार्थैर् आलोड्य रेचयति हन्त न मक्षिका किम्॥

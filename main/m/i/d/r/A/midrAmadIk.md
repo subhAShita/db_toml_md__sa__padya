@@ -7,7 +7,7 @@ title = "निद्रानदीकूलतमालवीथी"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 निद्रानदीकूलतमालवीथी  
 प्रदोषदावानलमेघमाला ।  

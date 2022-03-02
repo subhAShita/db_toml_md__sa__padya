@@ -7,7 +7,7 @@ title = "यथा यथा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यथा यथा विशत्यस्या हृदये हृदयेश्वरः।  
 तथा तथा बहिर्यातौ मन्ये सङ्कोचतः कुचौ॥

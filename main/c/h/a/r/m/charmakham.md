@@ -6,7 +6,7 @@ title = "चर्मखण्डम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 चर्मखण्डं द्विधाभिन्नमपानोद्गारधूपितम्।  
 ये रमन्ते नरास्तत्र कृमितुल्याः कथं न ते॥

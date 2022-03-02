@@ -7,7 +7,7 @@ title = "मुखं तस्याः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखं तस्याः स्मितस्मेरं किञ्चिदञ्चलसंवृतम्।  
 मदालोकनलोलाक्षं स्मृत्वा मन्ये सुधां मुधा।॥

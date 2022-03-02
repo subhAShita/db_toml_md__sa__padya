@@ -6,7 +6,7 @@ title = "क्षिपसि शुकम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षिपसि शुकं वृषदंशकरदने मृगमर्पयसि मृगादनवदने।  
 वितरसि तुरगं महिषविषाणे विदधच्चेतो भोगविताने॥

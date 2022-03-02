@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1369", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 16",]
-jsonClass = "Subhaashita"
 topics = [ "कीर्तिः",]
-title = "अनिःसरन्तीमपि"
+jsonClass = "Subhaashita"
+title = "अनिःसरन्तीमपि गेहगर्भात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिःसरन्तीमपि गेहगर्भात् कीर्तिं परेषामसतीं वदन्ति।  
 स्वैरं भ्रमन्तीमपि च त्रिलोक्यां त्वत्कीर्तिमाहुः कवयः सतीं तु॥

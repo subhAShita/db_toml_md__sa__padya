@@ -7,7 +7,7 @@ title = "मुखेन चन्द्रकान्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मुखेन चन्द्रकान्तेन महानीलैः शिरोरुहैः।  
 पदाभ्यां पद्मरागाभ्यां रेजे रत्नमयीव सा॥

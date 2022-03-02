@@ -5,7 +5,7 @@ title = "कायक्लेशेन महता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कायक्लेशेन महता पुरुषः प्राप्नुयात् फलम्।  
 तत् सर्वं लभते नारी सुखेन पतिपूजया॥

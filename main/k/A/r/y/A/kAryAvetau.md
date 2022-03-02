@@ -5,7 +5,7 @@ title = "कार्यावेतौ हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्यावेतौ हि कालेन धर्मो हि विजयावहः।  
 त्रयाणामपि लोकानाम् आलोककरणो भवेत्॥

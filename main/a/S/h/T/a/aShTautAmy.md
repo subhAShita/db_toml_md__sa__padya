@@ -5,7 +5,7 @@ title = "अष्टौ तान्यव्रतघ्नानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टौ तान्यव्रतघ्नानि आपो मूलं फलं पयः।  
 हविर्भ्राह्मणकाम्या च गुरोर्वचनमौषधम्॥

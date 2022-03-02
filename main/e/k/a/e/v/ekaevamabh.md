@@ -5,7 +5,7 @@ title = "एक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एक एव न भुञ्जीयाद् यदिच्छेच् शुभमात्मनः।  
 द्वित्रिभिर्बन्धुभिः सार्धं भोजनं कारयेन् नरः॥

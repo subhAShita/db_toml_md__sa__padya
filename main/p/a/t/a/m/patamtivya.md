@@ -6,7 +6,7 @@ title = "पतन्ति व्यसने"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतन्ति व्यसने दैवाद्दारुणे दारुणात्मनि।  
 सम्वर्णयति वज्रेण धैर्येण महतां मनः॥

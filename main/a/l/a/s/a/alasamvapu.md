@@ -5,7 +5,7 @@ title = "अलसं वपुषि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अलसं वपुषि श्लथं दुकूले चपलं चेतसि धूसरं कपोले।  
 चकितं नयने स्तने विलोलं तव नामश्रवणं तनूदरीणाम्॥

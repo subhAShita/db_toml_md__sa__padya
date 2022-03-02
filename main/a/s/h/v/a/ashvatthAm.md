@@ -5,7 +5,7 @@ title = "अश्वत्थामा बलिर्व्यासो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अश्वत्थामा बलिर्व्यासो हनूमांश्च विभीषणः।  
 कृपः परशुरामश्च सप्तैते चिरजीविनः॥

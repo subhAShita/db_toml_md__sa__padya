@@ -1,14 +1,14 @@
 +++
 secondary_sources = [ "MSS_9283", "सुभाषितरत्नभाण्डागारः// 05 अन्योक्तिप्रकरणम्//१२ व्योमचरान्योक्तयः// ०४ कोकिलः// 120",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - कोकिलः",]
-jsonClass = "Subhaashita"
 topics = [ "माहत्य-विवेकः",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "काकः कृष्णः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 काकः कृष्णः पिकः कृष्णः को भेदः पिककाकयोः।  
 वसन्तसमये प्राप्ते काकः काकः पिकः पिकः॥

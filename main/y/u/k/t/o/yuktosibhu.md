@@ -6,7 +6,7 @@ title = "युक्तोऽसि भुवनभारे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 युक्तोऽसि भुवनभारे मा वक्रां वितनु कन्धरां शेष।  
 त्वय्येकस्मिन्दुःखिनि सुखितानि भवन्ति भुवनानि॥

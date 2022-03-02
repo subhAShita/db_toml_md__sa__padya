@@ -6,10 +6,9 @@ title = "भाले तिलकलेखेयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भाले तिलकलेखेयं बाले भल्लीव राजते ।  
 भ्रूलताचापमाकृष्य न जाने कं हनिष्यसि ।  
-।  
-
+।
 </details>

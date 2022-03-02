@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_2637", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१४ कण्ठः// 214",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "कण्ठः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अयं त्रयाणाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयं त्रयाणां ग्रामाणां निधानं मधुरध्वनिः।  
 रेखात्रयमितीवास्याः सूत्रितं कण्ठकन्दले॥

@@ -5,7 +5,7 @@ title = "उज्ज्वलचम्पकमुकुला श"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उज्ज्वलचम्पकमुकुला- श कितया यः प्रदीपकं स्पृशति।  
 कज्जलकल कदाहं मुक्त्वान्यत् तस्य किं घटताम्॥

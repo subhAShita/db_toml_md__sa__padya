@@ -6,7 +6,7 @@ title = "ज्यायाम्समपि शीलेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ज्यायाम्समपि शीलेन विहीनं नैव पूजयेत्।  
 अपि शूद्रं च धर्मज्ञं सद्वृत्तमभिपूजयेत्॥

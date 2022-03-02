@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9179", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 1",]
-jsonClass = "Subhaashita"
 types = [ "अन्तरालापः",]
+jsonClass = "Subhaashita"
 title = "कस्तूरी जायते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कस्तूरी जायते कस्मात् को हन्ति करिणां शतम्।  
 किं कुर्यात् कातरो युद्धे मृगात् सिंहः पलायनम्॥

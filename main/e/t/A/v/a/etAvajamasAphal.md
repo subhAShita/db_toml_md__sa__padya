@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7925", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 470",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "एतावज्जन्मसाफल्यम्"
+jsonClass = "Subhaashita"
+title = "एतावज् जन्मसाफल्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एतावज् जन्मसाफल्यं यदनायत्तवृत्तिता।  
 ये पराधीनतां यातास् ते वै जीवन्ति के मृताः॥

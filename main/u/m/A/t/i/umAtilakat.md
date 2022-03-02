@@ -5,7 +5,7 @@ title = "उमा तिलकताले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उमा तिलकताले तु द्रुतौ लघुगुरू स्मृतौ।  
 चाराख्यस्त्वडतालः स्याद् विद्वद्भिस् तेन गीयते॥

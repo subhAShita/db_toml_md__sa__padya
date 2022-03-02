@@ -5,7 +5,7 @@ title = "अन्तः किञ्चित्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्तः किंचित् किंचिन् मुक्तानामहह विभ्रमं वहसि।  
 दूराद्दर्शयसि पुनः क्षारोद्गारं जडाधीशः॥

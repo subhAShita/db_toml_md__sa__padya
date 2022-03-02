@@ -5,7 +5,7 @@ title = "आत्मवर्गं परित्यज्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मवर्गं परित्यज्य परवर्गेषु ये रताः।  
 सर्वे तेऽपि विनश्यन्ति यथा राजा कुकर्दमः॥

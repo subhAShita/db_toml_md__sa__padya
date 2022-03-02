@@ -6,7 +6,7 @@ title = "अपि सम्मानसंयुक्ताः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि सम्मानसंयुक्ताः कुलीना भक्तितत्पराः।  
 वृत्तिभङ्गान्महीपालं त्यक्त्वा यान्ति सुसेवकाः॥

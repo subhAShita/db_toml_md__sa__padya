@@ -5,7 +5,7 @@ title = "अगम्यानि पुमान्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अगम्यानि पुमान् याति योऽसेव्यांश्च निषेवते।  
 स मृत्युमुपगृह्णाति गर्भमश्वतरी यथा॥

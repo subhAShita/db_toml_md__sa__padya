@@ -6,7 +6,7 @@ title = "सर्वे यत्र"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वे यत्र विनेतारः सर्वे यत्राभिमानिनः।  
 सर्वे महत्त्वमिच्छन्ति कुलं तदवसीदति॥

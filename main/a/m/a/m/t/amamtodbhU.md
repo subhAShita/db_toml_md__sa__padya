@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_1222", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४१ वीरप्रशंसा// 3",]
-jsonClass = "Subhaashita"
 topics = [ "वीरः",]
+jsonClass = "Subhaashita"
 title = "अनन्तोद्भूतभूतौघसङ्कुले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनन्तोद्भूतभूतौघसंकुले भूतलेऽखिले।  
 शस्त्रे शास्त्रे त्रिचतुराश् चतुरा यदि मादृशाः॥

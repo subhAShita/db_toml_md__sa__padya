@@ -5,7 +5,7 @@ title = "इह दुःखम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इह दुःखं नृपादिभ्यः परत्र नरकादितः।  
 प्राप्नोति स्तेयतस् तेन स्तेयं त्याज्यं सदा बुधैः॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_2830", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 990",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अरण्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अरण्यं सारङ्गैर्गिरिकुहरगर्भाश्च हरिभिर् दिशो दिङ्मातङ्गैः सलिलमुषितं पङ्कजवनैः।  
 प्रियाचक्षुर्मध्यस्तनवदनसौन्दर्यविजितैः सतां माने म्लाने मरणमथवा दूरगमनम्॥

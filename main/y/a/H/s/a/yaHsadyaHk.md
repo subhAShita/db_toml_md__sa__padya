@@ -7,7 +7,7 @@ title = "यः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः सद्यःकार्तवीर्योर्जितभुजविटपिच्छेदनोद्यत्कुठारो  
 यः सम्यक्क्षात्रवंशप्रवरधरणिभृद्ध्वंसनाजस्रवज्रः ।  

@@ -5,7 +5,7 @@ title = "आलापाद् गात्रसंस्पर्शात्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलापाद् गात्रसंस्पर्शात् संसर्गात् सहभोजनात्।  
 आसनाच् शयनाद् यानात् पापं संक्रमते नृणाम्॥

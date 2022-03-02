@@ -6,7 +6,7 @@ title = "न दातुम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न दातुं नोपभोक्तुं च शक्नोति कृपणः श्रियम्।  
 किं तु स्पृशति हस्तेन नपुंसक इव स्त्रियम्॥

@@ -7,7 +7,7 @@ title = "प्राप्तं मया"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राप्तं मया पदमिह त्रिपुरारिमौला-  
 वित्युन्मदा शशिकले किमु यासि गर्वम् ।  

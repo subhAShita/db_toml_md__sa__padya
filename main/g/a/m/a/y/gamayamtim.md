@@ -6,7 +6,7 @@ title = "गणयन्ति नापशब्दम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गणयन्ति नापशब्दं न वृत्तभङ्गं क्षयं न चार्थस्य।  
 रसिकत्वेनाकुलिता वेश्यापतयः कुकवयश्च॥

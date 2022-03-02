@@ -6,7 +6,7 @@ title = "यं विद्म"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यं विद्म इति यद्ग्रन्थानभ्यस्यामोऽखिलानिति ।  
 यस्य शिष्यास्म इति च श्लाघन्ते स्म विपश्चितः ॥

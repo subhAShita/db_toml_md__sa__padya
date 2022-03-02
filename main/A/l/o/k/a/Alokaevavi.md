@@ -5,7 +5,7 @@ title = "आलोक एव"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आलोक एव विमुखी क्वचिदपि दिवसे न दक्षिणा भवसि।  
 छायेव तदपि तापं त्वमेव मे हरसि मानवति॥

@@ -5,7 +5,7 @@ title = "इदमेव हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इदमेव हि निर्णीतं पैशुन्याद् दुःखसंगमः।  
 अन्यार्थं खनतो गर्तं कूपे पातः सुनिश्चितः॥

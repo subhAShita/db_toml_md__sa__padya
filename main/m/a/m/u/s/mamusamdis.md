@@ -7,7 +7,7 @@ title = "ननु सन्दिशेति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ननु सन्दिशेति सदृशोदितया त्रपया न किञ्चन किलाभिदधे।  
 निजमैक्षि मन्दमनिशं निशितैः कृशितं शरीरमशरीरशरैः॥

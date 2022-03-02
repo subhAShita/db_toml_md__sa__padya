@@ -6,7 +6,7 @@ title = "मूर्खशिष्योपदेशेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मूर्खशिष्योपदेशेन दुष्टस्त्रीभरणेन च।  
 द्विषतां सम्प्रयोगेण पण्डितोऽप्यवसीदति॥

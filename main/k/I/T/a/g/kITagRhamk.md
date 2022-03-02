@@ -6,7 +6,7 @@ title = "कीटगृहं कुटिलोऽन्तः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कीटगृहं कुटिलोऽन्तः कठिनः क्षाराम्बुसम्भवः शून्यः।  
 शङ्खः श्रीपतिनिकटे केन गुणेन स्थितिं लेभे॥

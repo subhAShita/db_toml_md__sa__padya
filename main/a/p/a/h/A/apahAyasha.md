@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_1971", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५९ प्रभातवायुवर्णनम्// 7",]
-jsonClass = "Subhaashita"
 topics = [ "प्रभातम्", "प्रभात-वायुः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अपहाय शनैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपहाय शनैः पटीरवाटीर् इह लाटीजनमानलुण्ठनाय।  
 समुदेति मनोजराजधाटी- परिपाटीपटुरेष गन्धवाहः॥

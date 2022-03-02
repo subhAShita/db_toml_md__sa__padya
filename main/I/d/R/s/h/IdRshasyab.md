@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_6234", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 20",]
-jsonClass = "Subhaashita"
 topics = [ "सुरतम्", "सुरतकेलिः",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "ईदृशस्य भवतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईदृशस्य भवतः कथमेतल् लाघवं मुहुरतीव रतेषु।  
 क्षिप्तमायतमदर्शयदुर्व्यां काञ्चिदाम जघनस्य महत्त्वम्॥

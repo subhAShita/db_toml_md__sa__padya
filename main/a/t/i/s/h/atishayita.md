@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0616", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 13",]
-jsonClass = "Subhaashita"
 topics = [ "वर्षा",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अतिशयितकदम्बोऽयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिशयितकदम्बोऽयं मोदकदम्बानिलो वहति।  
 वियदम्बुदमेदुरितं मे दुरितं पश्य नागतो दयितः॥

@@ -6,7 +6,7 @@ title = "एवं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एवं वा अरेऽस्य महतो भूतस्य निःश्वसितमेतद्ऋग्वेदोयजुर्वेदः सामवेदोऽथर्व्वाङ्गिरस इतिहासः पुराणम्
 </details>

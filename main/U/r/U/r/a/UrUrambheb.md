@@ -5,7 +5,7 @@ title = "ऊरू रम्भे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ऊरू रम्भे बाहू लते विधात्रा कुचौ पुनः कमले।  
 यौवनमुपवनमस्यां मदनविलासाय किं रचितम्॥

@@ -5,7 +5,7 @@ title = "आरम्भरमणीयानि विमर्दे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आरम्भरमणीयानि विमर्दे विरसानि च।  
 प्रायो वैरावसानानि संगतानि खलैः सह॥

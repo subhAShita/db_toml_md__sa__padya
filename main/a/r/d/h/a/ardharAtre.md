@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_3060", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 04 कूटानि// 25",]
-jsonClass = "Subhaashita"
 types = [ "कूटम्",]
+jsonClass = "Subhaashita"
 title = "अर्धरात्रे दिनस्यार्धे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अर्धरात्रे दिनस्यार्धे त्वर्धचन्द्रेऽर्धभास्करे।  
 रावणेन हृता सीता कृष्णपक्षे सिताष्टमी॥

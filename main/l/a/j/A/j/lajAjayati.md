@@ -7,7 +7,7 @@ title = "लज्जा जयति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लज्जा जयति सज्जायाः कज्जलासिर्यया,स्त्यधः।  
 ब्राह्मणस्य स्थितं यस्माद् ब्रह्मसूत्रमखण्डितम्\॥

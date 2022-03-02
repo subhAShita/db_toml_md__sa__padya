@@ -7,7 +7,7 @@ title = "मा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मा पुनस्तमभिसीसरमागस्कारिणं मदविमोहितचित्ता।  
 योषिदित्यभिललाष न हालां दुस्त्यजः खलु सुखादपि मानः॥

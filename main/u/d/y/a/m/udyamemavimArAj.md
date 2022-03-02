@@ -5,7 +5,7 @@ title = "उद्यमेन विना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उद्यमेन विना राजन् न सिध्यन्ति मनोरथाः।  
 नहि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥

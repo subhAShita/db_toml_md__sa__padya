@@ -6,7 +6,7 @@ title = "तिष्ठार्जुनाद्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तिष्ठार्जुनाद्य सङ्ग्रामे  
 त्वां हनिष्याम्य् अहं शरैः।  

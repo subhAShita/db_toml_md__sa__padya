@@ -6,7 +6,7 @@ title = "मत्वा लोकमदातारम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मत्वा लोकमदातारं सन्तोषे यैः कृता मतिः।  
 त्वयि राजनि ते राजन्न तथा व्यवसायिनः॥

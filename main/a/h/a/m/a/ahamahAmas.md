@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4041", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ०४ करणगुप्तम्// 30",]
-jsonClass = "Subhaashita"
 types = [ "करणगुप्तम्",]
+jsonClass = "Subhaashita"
 title = "अहं महानसायातः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहं महानसायातः कल्पितो नरकस्तव।  
 मया मांसादिकं भुक्तं भीमं जानीहि मां बक॥

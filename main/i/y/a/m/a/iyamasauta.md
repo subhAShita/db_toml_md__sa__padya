@@ -5,7 +5,7 @@ title = "इयमसौ तरलायतलोचना"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इयमसौ तरलायतलोचना गुरुसमुन्नतपीनपयोधरा।  
 पृथुनितम्बभरालसगामिनी प्रियतमा मम जीवितहारिणी॥

@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0615", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 143",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
-title = "अतिव्ययोऽनवेक्षा च"
+jsonClass = "Subhaashita"
+title = "अतिव्ययोऽनपेक्षा च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतिव्ययोऽनपेक्षा च तथार्जनमधर्मतः।  
 मोषणं दूरसंस्थानां कोषव्यसनमुच्यते॥

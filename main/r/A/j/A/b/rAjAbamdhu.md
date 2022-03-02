@@ -6,7 +6,7 @@ title = "राजा बन्धुरबन्धूनाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 राजा बन्धुरबन्धूनां राजा चक्षुरचक्षुषाम्।  
 राजा पिता च माता च सर्वेषां न्यायवर्तिनाम्॥

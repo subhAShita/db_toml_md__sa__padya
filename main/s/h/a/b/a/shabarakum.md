@@ -6,7 +6,7 @@ title = "शबरकुमारिलगुरवो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शबरकुमारिलगुरवो मण्डनभवदेवपार्थसारथयः।  
 अन्ये च विश्वमान्या जयन्ति सन्त्रायमाणतन्त्रास्ते॥

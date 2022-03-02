@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7041", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 188",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
+jsonClass = "Subhaashita"
 title = "उपकृतिरेव खलानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकृतिरेव खलानां दोषस्य गरीयसो भवति हेतुः।  
 अनुकूलाचरणेन हि कुप्यन्ति व्याधयोऽत्यर्थम्॥

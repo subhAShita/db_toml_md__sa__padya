@@ -7,7 +7,7 @@ title = "गुरुणा स्तनभारेण"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुणा स्तनभारेण मुखचन्द्रेण भास्वता।  
 शनैश्चराभ्यां पादाभ्यां रेजे ग्रहमयीव सा॥

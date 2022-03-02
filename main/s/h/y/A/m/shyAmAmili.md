@@ -7,7 +7,7 @@ title = "श्यामा मिलिन्दमाला"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 श्यामा मिलिन्दमाला बालाया वदनपद्ममकरन्दम्।  
 आस्वादितुमिव मिलिता ललिता वेणीमिषादेषा॥

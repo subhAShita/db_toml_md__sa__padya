@@ -6,7 +6,7 @@ title = "न व्याप्तिरेषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न व्याप्तिरेषा गुणिनो गुणवाञ्जायते ध्रुवम्।  
 चन्दनोऽनलसन्दग्धो न भस्म सुरभि क्वचित्॥

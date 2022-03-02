@@ -7,7 +7,7 @@ title = "जीवँल्लिखामि कवितामिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जीवँल्लिखामि कवितामिति विश्वसतां हि जीवानाम्।  
 पठनं पाठनमथवा व्याख्यानं वेति शब्दकुतुकानि॥

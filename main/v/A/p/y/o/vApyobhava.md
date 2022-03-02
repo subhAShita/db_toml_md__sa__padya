@@ -6,7 +6,7 @@ title = "वाप्यो भवन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाप्यो भवन्ति विमलाः स्फुटन्ति कमलानि वापीषु।  
 कमलेषु पतन्त्यलयः करोति सङ्गीतमलिषु पदम्॥

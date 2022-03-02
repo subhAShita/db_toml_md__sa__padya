@@ -5,7 +5,7 @@ title = "आ विवाहसमयाद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आ विवाहसमयाद् गृहे वने शैशवे तदनु यौवने पुनः।  
 स्वापहेतुरनुपाश्रितोऽन्यया रामबाहुरुपधानमेष ते॥

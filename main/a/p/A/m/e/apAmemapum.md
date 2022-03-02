@@ -5,7 +5,7 @@ title = "अपानेन पुनः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपानेन पुनः कश्चित् प्रेरितः कालरूपिणा।  
 निःश्वासोच्छ्वासकृद्वाति जपन् हंसेत्यहर्निशम्॥

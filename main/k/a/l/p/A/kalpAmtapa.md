@@ -5,7 +5,7 @@ title = "कल्पान्तपवना वान्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कल्पान्तपवना वान्तु यान्तु चैकत्वमर्णवाः।  
 तपन्तु द्वादशादित्या नास्ति निर्मनसः क्षतिः॥

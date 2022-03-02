@@ -5,7 +5,7 @@ title = "अभ्यस्य पवनविजयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अभ्यस्य पवनविजयं व्याख्याय च शैवसंहिताः सकलाः।  
 मरणसमये गुरूणां पर्दवदसवो विनिष्क्रान्ताः॥

@@ -7,7 +7,7 @@ title = "आचारात्लभते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आचारात्लभते ह्यायुराचारादीप्सिताः प्रजाः ।  
 आचाराद् धनमक्षय्यमाचारो हन्त्यलक्षणम् ॥   

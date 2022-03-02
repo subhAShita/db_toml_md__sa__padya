@@ -5,7 +5,7 @@ title = "एरण्डपत्त्रशयना जनयन्ती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एरण्डपत्त्रशयना जनयन्ती स्वेदमलघुजघनतटा।  
 धूलिपुटीव मिलन्ती स्मरज्वरं हरति हलिकवधूः॥

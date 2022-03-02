@@ -6,7 +6,7 @@ title = "क्षयक्षयिणि सापाये"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्षयक्षयिणि सापाये भोगे रज्यन्ति नोत्तमाः।  
 सन्त्यज्याम्भोजकिञ्जल्कं न प्रार्थयति शैवलम्॥

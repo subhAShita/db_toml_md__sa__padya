@@ -5,7 +5,7 @@ title = "कार्पण्यं दर्पमानौ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कार्पण्यं दर्पमानौ च भयमुद्वेग एव च।  
 अर्थजानि विदुः प्राज्ञा दुःखान्येतानि देहिनाम्॥

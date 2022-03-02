@@ -7,7 +7,7 @@ title = "अष्टौ व्याकरणानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अष्टौ व्याकरणानि षट् च भिषजां व्याचष्ट ताः संहिताः    
 षट् तर्कान् गणितानि पंच चतुरो वेदान् अधीते स्म यः।  

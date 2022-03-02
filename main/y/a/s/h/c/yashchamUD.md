@@ -6,7 +6,7 @@ title = "यश्च मूढतमो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यश्च मूढतमो लोके यश्च बुद्धेः परं गतः।  
 तावुभौ सुखमेधेते क्लिश्यत्यन्तरितो जनः॥

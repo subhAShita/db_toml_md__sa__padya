@@ -6,7 +6,7 @@ title = "दासेरकस्य दासीयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 दासेरकस्य दासीयं बदरी यदि रोचते।  
 एतावतैव किं द्राक्षा न साक्षादमृतप्रदा॥

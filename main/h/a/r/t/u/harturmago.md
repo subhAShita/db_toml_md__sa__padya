@@ -6,7 +6,7 @@ title = "हर्तुर्न गोचरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हर्तुर्न गोचरं याति दत्ता भवति विस्तृता।  
 कल्पान्तेऽपि न या नश्येत्किमन्यद्विद्यया समम्॥

@@ -6,7 +6,7 @@ title = "नालेनेव स्थित्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 नालेनेव स्थित्वा पादेनैकेन कुञ्चितग्रीवम्।  
 जनयति कुमुदभ्रान्तिं वृद्धबको बालमत्स्यानाम्॥

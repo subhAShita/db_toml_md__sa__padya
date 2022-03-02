@@ -7,7 +7,7 @@ title = "त्वं दूरमपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वं दूरमपि गच्छन्ती हृदयं न जहासि मे।  
 दिनावसाने छायेव पुरो मूलं वनस्पतेः॥

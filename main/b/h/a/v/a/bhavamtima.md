@@ -6,7 +6,7 @@ title = "भवन्ति नरकाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भवन्ति नरकाः पापात्पापं दारिद्र्यसंभवम्।  
 दारिद्र्यमप्रदानेन तस्माद्दानपरो भवेत्॥

@@ -7,7 +7,7 @@ title = "सत्यं तपः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सत्यं तपः सुगत्यै यत्तप्त्वाम्बुषु रविप्रतीक्षं सत्।  
 अनुभवति सुगतिमब्जं त्वत्पदजन्मनि समस्तकमनीयम्॥

@@ -6,7 +6,7 @@ title = "अनारम्भो हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनारम्भो हि कार्याणां प्रथमं बुद्धिलक्षणम् ।  
 प्रारब्धस्य अन्तगमनं द्वितीयं बुद्धिलक्षणम् ॥

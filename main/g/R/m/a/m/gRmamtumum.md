@@ -7,7 +7,7 @@ title = "गृणन्तु मुनयो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गृणन्तु मुनयो मौनं वयं वाचि प्रतिष्ठिताः ।  
 वाचा सिद्ध्यति यत्किञ्चित्तत्तु वाचैव सिद्ध्यति ॥

@@ -6,7 +6,7 @@ title = "न प्राप्तानि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 न प्राप्तानि पुरा न सम्प्रति न च प्राप्तौ दृढप्रत्ययो वाञ्छामात्रपरिग्रहाण्यपि परित्यक्तुं न शक्ता वयम्॥
 </details>

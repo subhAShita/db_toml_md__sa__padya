@@ -5,7 +5,7 @@ title = "ईषदायच्छमानोऽपि सिंहो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ईषदायच्छमानोऽपि सिंहो मत्तानपि द्विपान्।  
 निहन्ति बलवांस् तस्मात् संधेयः शिवमिच्छता॥

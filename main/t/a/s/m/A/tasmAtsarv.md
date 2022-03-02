@@ -7,7 +7,7 @@ title = "तस्मात् सर्वप्रयत्नेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तस्मात् सर्वप्रयत्नेन नामापि परिवर्जयेत्।  
 स्त्रीणामिह हि सर्वासां य इच्छेत् सुखमात्मनः॥

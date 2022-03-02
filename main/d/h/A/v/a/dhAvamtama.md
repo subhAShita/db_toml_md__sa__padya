@@ -6,7 +6,7 @@ title = "धावन्तमनुधावन्ति हरिणम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धावन्तमनुधावन्ति हरिणं तव वाजिनः।  
 नाभिनिर्मुक्तकस्तूरीलुब्धा इव समीरणाः॥

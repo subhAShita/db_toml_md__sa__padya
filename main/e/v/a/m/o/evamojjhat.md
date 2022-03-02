@@ -5,7 +5,7 @@ title = "एवं नोज्झति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ... ... ... ... ... ...।  
 एवं नोज्झति मूढोऽर्थान् यावदर्थैः स नोज्झितः॥

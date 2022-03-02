@@ -6,7 +6,7 @@ title = "कृतघ्नस्य शिशुघ्नस्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कृतघ्नस्य शिशुघ्नस्य स्त्रीघ्नस्य पिशुनस्य च।  
 चतुर्णामपि चैतेषां निष्कृतिं नैव शुश्रुम॥

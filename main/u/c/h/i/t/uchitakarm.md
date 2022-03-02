@@ -5,7 +5,7 @@ title = "उचितकर्म तनोति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उचितकर्म तनोति न संपदाम् इतरदप्यसदेव विवेकिनाम्।  
 इति निरस्तसमस्तसुखान्वयः कथमतो न विषीदतु पण्डितः॥

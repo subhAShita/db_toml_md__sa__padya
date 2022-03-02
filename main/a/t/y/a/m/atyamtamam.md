@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0659", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 955",]
-jsonClass = "Subhaashita"
 topics = [ "नीतिः",]
+jsonClass = "Subhaashita"
 title = "अत्यन्तमन्थनकदर्थनमुत्सहन्ते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अत्यन्तमन्थनकदर्थनमुत्सहन्ते मर्यादया नियमिताः किमु साधवोऽपि।  
 लक्ष्मीसुधाकरसुधाद्युपनीय शेषे रत्नाकरोऽपि गरलं किमु नोज्जगार॥

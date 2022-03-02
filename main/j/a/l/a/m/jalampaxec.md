@@ -6,7 +6,7 @@ title = "जलम्) चन्द्रः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जलम्.)  
 [पक्षे] चन्द्रः.

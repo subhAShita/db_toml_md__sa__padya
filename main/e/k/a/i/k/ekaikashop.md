@@ -5,7 +5,7 @@ title = "एकैकशोऽपि निघ्नन्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकैकशोऽपि निघ्नन्ति विषया विषसंनिभाः।  
 क्षेमी तु स कथं नु स्याद् यः समं पञ्च सेवते॥

@@ -6,7 +6,7 @@ title = "लोभेन बुद्धिश्चलति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 लोभेन बुद्धिश्चलति लोभो जनयते तृषाम्।  
 तृषार्तो दुःखमाप्नोति परत्रेह च मानवः॥

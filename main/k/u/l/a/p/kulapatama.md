@@ -7,7 +7,7 @@ title = "कुलपतनं जनगर्हाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुलपतनं जनगर्हां बन्धनमपि जीवितस्य सन्देहम्।  
 अङ्गीकरोति सकलं वनिता परपुरुषसंसक्ता॥

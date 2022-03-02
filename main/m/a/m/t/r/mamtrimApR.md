@@ -6,7 +6,7 @@ title = "मन्त्रिणा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्त्रिणा पृथिवीपालचित्तं विघटितं क्वचित्।  
 वलयं स्फटिकस्येव को हि सन्धातुमीश्वरः॥

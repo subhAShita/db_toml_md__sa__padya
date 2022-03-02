@@ -6,7 +6,7 @@ title = "तत्र मित्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्र मित्रं न वस्तव्यं यत्र नास्ति चतुष्टयम्।  
 ऋणदाता च वैद्यश्च श्रोत्रियः सजला नदी॥

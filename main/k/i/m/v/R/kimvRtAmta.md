@@ -1,14 +1,14 @@
 +++
 topics = [ "कीर्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 33",]
-jsonClass = "Subhaashita"
 sources = [ "विद्या",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
 title = "किं वृत्तान्तैः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं वृत्तान्तैः परगृहगतैः किन्तु नाहं समर्थस्तूष्णीं स्थातुं प्रकृतिमुखरो दाक्षिणात्यस्वभावः।  
 गेहे गेहे विपणिषु तथा चत्वरे पानगोष्ठ्यामुन्मत्तेव भ्रमति भवतो वल्लभा देव कीर्तिः॥

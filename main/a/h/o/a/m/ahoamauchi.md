@@ -5,7 +5,7 @@ title = "अहो अनौचितीयम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो अनौचितीयं ते हृदि शुद्धेऽप्यशुद्धवत्।  
 अङ्कः खलैरिवाकल्पि नखैस्तीक्ष्णमुखैर्मम॥

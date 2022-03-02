@@ -5,7 +5,7 @@ title = "अनिर्जयेन द्विषताम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनिर्जयेन द्विषतां यस्यामर्षः प्रशाम्यति।  
 पुरुषोक्तिः कथं तस्मिन् ब्रूहि त्वं हि तपोधन॥

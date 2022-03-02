@@ -5,7 +5,7 @@ title = "अनवद्यमवद्यं स्याद्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनवद्यमवद्यं स्याद् वारुणीलेशमात्रतः।  
 तद्वच्छिष्यो विरुद्धार्थाद् विगुरोरेव नश्यति॥

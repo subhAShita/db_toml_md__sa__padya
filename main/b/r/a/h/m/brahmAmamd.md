@@ -7,7 +7,7 @@ title = "ब्रह्मानन्दप्रचुरम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्मानन्दप्रचुरं किमपीदं नेति रतिषु वचनेन।  
 श्रुतिसीमसङ्गताक्षी मुग्धे सारङ्गमादिशसि॥

@@ -6,7 +6,7 @@ title = "शेषबाष्यं तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शेषबाष्यं तु काव्येन काव्यं गीतेन हन्यते।  
 गीतं तु स्त्रीविलासेन स्त्रीविलासो बुभुक्षया॥

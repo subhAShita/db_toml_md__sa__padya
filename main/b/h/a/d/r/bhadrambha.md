@@ -6,7 +6,7 @@ title = "भद्रं भद्रम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भद्रं भद्रं कृतं मौनं कोकिलैर्जलदागमे।  
 वक्तारो दर्दुरा यत्र तत्र मौनं हि शोभते॥

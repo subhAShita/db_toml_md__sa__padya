@@ -7,7 +7,7 @@ title = "गजपतिद्वयसीरपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गजपतिद्वयसीरपि हैमनस्तुहिनयन्सरितः पृषतां पतिः।  
 सलिलसन्ततिमध्वगयोषितामतनुतातनुतापकृतं दृशाम्॥

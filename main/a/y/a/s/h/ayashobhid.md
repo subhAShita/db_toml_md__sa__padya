@@ -5,7 +5,7 @@ title = "अयशोभिदुरालोके"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अयशोभिदुरालोके कोपधामरणादृते।  
 अयशोभिदुरा लोके कोपधा मरणादृते॥

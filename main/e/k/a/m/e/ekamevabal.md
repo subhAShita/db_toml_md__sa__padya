@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_7529", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २२ वलित्रयम्// 328",]
-jsonClass = "Subhaashita"
 topics = [ "स्त्री-शरीरम्", "वलित्रयम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "एकमेव बलिम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 एकमेव बलिं बद्ध्वा जगाम हरिरुन्नतिम्।  
 अस्यास्त्रिबलिबन्धेन सैव मध्यस्य नम्रता॥

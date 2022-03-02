@@ -6,7 +6,7 @@ title = "क्वापि गतः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 क्वापि गतः पतिरह्नां जलदान्तरितः शशी सनक्षत्रः।  
 शून्ये तमसि भवानपि खद्योत द्योततां नाम॥

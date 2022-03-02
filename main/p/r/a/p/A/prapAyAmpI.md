@@ -6,7 +6,7 @@ title = "प्रपायां पीयते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्रपायां पीयते वारि सत्त्रागारेऽपि भुज्यते।  
 सुप्यते देवसदने यभ्यते यत्र लभ्यते॥

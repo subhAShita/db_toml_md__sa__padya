@@ -7,7 +7,7 @@ title = "इच्छथां सह"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 इच्छथां सह वधूभिरभेदं यामिनीविरहिणां विहगानाम्।  
 आपुरेव मिथुनानि वियोगं लङ्घ्यते न खलु कालनियोगः॥

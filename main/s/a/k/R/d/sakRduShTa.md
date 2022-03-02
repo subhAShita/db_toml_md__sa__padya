@@ -6,7 +6,7 @@ title = "सकृद्दुष्टं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सकृद्दुष्टं च मित्त्रं यः पुनः सन्धातुमिच्छति।  
 स मृत्युमुपगृह्णाति गर्भमश्वतरी यथा॥

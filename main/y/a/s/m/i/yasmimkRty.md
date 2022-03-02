@@ -6,7 +6,7 @@ title = "यस्मिन्कृत्यं समावेश्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यस्मिन्कृत्यं समावेश्य निर्विशङ्केन चेतसा।  
 आस्यते सेवकः स स्यात्कलत्रमिव चापरम्॥

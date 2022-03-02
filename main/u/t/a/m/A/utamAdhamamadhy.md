@@ -5,7 +5,7 @@ title = "उत्तमाधममध्यानि बुद्ध्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उत्तमाधममध्यानि बुद्ध्वा कार्याणि पार्थिवः।  
 उत्तमाधममध्येषु पुरुषेषु नियोजयेत्॥

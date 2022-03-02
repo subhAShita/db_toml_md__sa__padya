@@ -7,7 +7,7 @@ title = "बहुनात्र किमुक्तेन"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 बहुनात्र किमुक्तेन दूति मत्कार्यसिद्धये।  
 स्वमांसान्यपि दत्तानि वक्तव्येषु तु का कथा॥

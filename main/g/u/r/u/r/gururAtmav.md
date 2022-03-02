@@ -6,7 +6,7 @@ title = "गुरुरात्मवतां शास्ता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 गुरुरात्मवतां शास्ता राजा शास्ता दुरात्मनाम् ।  
 इह प्रच्छन्नपापानां शास्ता वैवस्वतो यमः ॥

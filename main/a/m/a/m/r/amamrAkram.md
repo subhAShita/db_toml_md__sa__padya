@@ -5,7 +5,7 @@ title = "अनम्राक्रमणं शौर्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अनम्राक्रमणं शौर्यं धनं निजभुजार्जितम् भार्या रूपानुरूपा च पुरुषस्येह युज्यते॥ अन्यथा तु किमेतेन रूपेणापि . . .
 </details>

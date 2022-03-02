@@ -5,7 +5,7 @@ title = "अग्निहोत्रमधीतं वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अग्निहोत्रमधीतं वा दानाद्याश्चाखिलाः क्रियाः।  
 भजन्ते तस्य वैफल्यं यस्य वाक्यमकारणम्॥

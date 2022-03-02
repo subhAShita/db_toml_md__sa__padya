@@ -5,7 +5,7 @@ title = "अन्यवर्णं शिरो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अन्यवर्णं शिरो यस्य पुच्छं वा यस्य वाजिनः।  
 पुच्छेन शिरसा वापि नानावर्णः स निन्दितः॥

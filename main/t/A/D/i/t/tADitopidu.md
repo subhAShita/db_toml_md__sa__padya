@@ -6,7 +6,7 @@ title = "ताडितोऽपि दुरुक्तोऽपि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ताडितोऽपि दुरुक्तोऽपि दण्डितोऽपि महीभुजा।  
 न चिन्तयति यः पापं स भृत्योऽर्हो महीभुजाम्॥

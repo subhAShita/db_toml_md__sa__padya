@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_0815", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 17",]
-jsonClass = "Subhaashita"
 topics = [ "बाला",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "अदम्भा हि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अदम्भा हि रम्भा विलक्षा च लक्ष्मीर् घृताची ह्रिया चीरसंच्छादितास्या।  
 अहो जायते मन्दवर्णाप्यपर्णा समाकर्ण्य तस्या गुणस्यैकदेशम्॥

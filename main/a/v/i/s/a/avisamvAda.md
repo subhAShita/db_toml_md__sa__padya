@@ -5,7 +5,7 @@ title = "अविसंवादको दक्षः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अविसंवादको दक्षः कृतज्ञो मतिमानृजुः।  
 अपि संक्षीणकोशोऽपि लभते परिवारणम्॥

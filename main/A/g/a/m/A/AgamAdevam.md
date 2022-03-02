@@ -5,7 +5,7 @@ title = "आगमादेव नरकाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आगमादेव नरकाः श्रूयन्ते रौरवादयः।  
 विषयित्वं दरिद्राणां प्रत्यक्षं नरकं विदुः॥

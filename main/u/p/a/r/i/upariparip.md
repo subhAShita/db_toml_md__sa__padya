@@ -5,7 +5,7 @@ title = "उपरि परिप्लवते"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपरि परिप्लवते मम बालेयं गृहिणि हंसमालेव।  
 सरस इव नलिननाला त्वमाशयं प्राप्य वससि पुनः॥

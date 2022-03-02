@@ -6,7 +6,7 @@ title = "किं नु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 किं नु मे स्यादिदं कृत्वा किं नु मे स्यादकुर्वतः।  
 इति सन्चिन्त्य मनसा प्राज्ञः कुर्वीत वा न वा॥

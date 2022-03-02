@@ -6,7 +6,7 @@ title = "सर्वज्ञ इति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्वज्ञ इति लोकोऽयं भवन्तं भाषते मृषा।  
 परमेकं न जानासि वक्तुं नास्तीति याचके॥

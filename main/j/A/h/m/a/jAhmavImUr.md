@@ -6,7 +6,7 @@ title = "जाह्नवी मूर्ध्नि"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 जाह्नवी मूर्ध्नि पादे वा कालः कण्ठे वपुष्यथ।  
 कामारिं कामतातं वा कञ्चिद्देवं भजामहे॥

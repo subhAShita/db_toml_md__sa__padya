@@ -6,7 +6,7 @@ title = "सूते सूकरयुवती"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सूते सूकरयुवती सुतशतमत्यन्तदुर्भगं झटिति ।  
 करिणी चिराय सूते सकलमहीपाललालितं कलभम् ॥

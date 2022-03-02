@@ -5,7 +5,7 @@ title = "तत्र पूर्वश्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तत्र पूर्वश् चतुर्वर्गो दम्भार्थमपि सेव्यते।  
 उत्तरस् तु चतुर्वर्गो महात्मन्येव तिष्ठति॥

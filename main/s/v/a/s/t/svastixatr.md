@@ -6,7 +6,7 @@ title = "स्वस्ति क्षत्रियदेवाय"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्वस्ति क्षत्रियदेवाय जगद्देवाय भूभुजे।  
 यद्यशःपुण्डरीकान्तर्गगनं भ्रमरायते॥

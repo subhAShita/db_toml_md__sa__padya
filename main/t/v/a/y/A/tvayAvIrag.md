@@ -6,7 +6,7 @@ title = "त्वया वीर"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 त्वया वीर गुणाकृष्टा ऋजुदृष्ट्या विलोकिताः।  
 लक्षं लब्ध्वैव गच्छन्ति मार्गणा इव मार्गणाः॥

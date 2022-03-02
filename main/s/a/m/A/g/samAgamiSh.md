@@ -6,7 +6,7 @@ title = "समागमिष्यतोऽम्भोद वेत्ति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 समागमिष्यतोऽम्भोद वेत्ति कः समयं तव।  
 रौति नो यदि सारङ्गस्तदोच्चैः खे पुरःसरः॥

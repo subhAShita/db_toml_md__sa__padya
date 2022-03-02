@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0383", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 130",]
-jsonClass = "Subhaashita"
 topics = [ "राजा",]
+jsonClass = "Subhaashita"
 title = "अजस्रमभ्यासमुपेयुषा समम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अजस्रमभ्यासमुपेयुषा समं मुदैव देवः कविना बुधेन च।  
 दधौ पटीयान् समयं नयन्नयं दिनेश्वरश्रीरुदयं दिने दिने॥

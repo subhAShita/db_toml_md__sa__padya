@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_9057", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 111",]
-jsonClass = "Subhaashita"
 topics = [ "शिवः",]
-title = "May the"
+jsonClass = "Subhaashita"
+title = "कल्पान्ते क्रोधनस्य"
 
 +++
 
-<details><summary>MT</summary>
+<details open><summary>MT</summary>
 
 May the drawings of the string-creeper of the Tripura-destroying bow by him engaged in [aiming at] the conjunction of the wandering (citadels],  
 ornamented by the fresh floral wreaths from the celestial tree crossing the snake-garlands placed by the divine and serpentine ladies stationed on the string-notch,  

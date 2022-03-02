@@ -6,7 +6,7 @@ title = "यद्वीक्ष्यते खलानाम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्वीक्ष्यते खलानां माहात्म्यं क्वापि दैवयोगेन।  
 काकानामिव शौक्ल्यं तदपि हि न चिरादनर्थाय॥

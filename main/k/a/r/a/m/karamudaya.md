@@ -1,13 +1,13 @@
 +++
 secondary_sources = [ "MSS_8723", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 20",]
-jsonClass = "Subhaashita"
 topics = [ "+चन्द्रोदयवर्णनम्",]
 rasas = [ "शृङ्गारः",]
+jsonClass = "Subhaashita"
 title = "करमुदयमहीधरस्तनाग्रे"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 करमुदयमहीधरस्तनाग्रे गलिततमःपटलांशुके निवेश्य।  
 विकसितकुमुदेक्षणं विचुम्ब- त्ययममरेशदिशो मुखं सुधांशुः॥

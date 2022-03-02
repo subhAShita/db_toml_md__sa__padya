@@ -6,7 +6,7 @@ title = "पर्वताग्रे रथारूढो"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पर्वताग्रे रथारूढो भूमौ तिष्ठति सारथिः।  
 चक्रवद्भ्रमते पृथ्वी तस्याहं कुलबालिका॥

@@ -7,7 +7,7 @@ title = "विरम नाथ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 विरम नाथ विमुञ्च ममाञ्चलं शमय दीपमिमं समया सखी।  
 इति नवोढवधूवचनैर्युवा मुदमगादधिकां सुरतादपि॥

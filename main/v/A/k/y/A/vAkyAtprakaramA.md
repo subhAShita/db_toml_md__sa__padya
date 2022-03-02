@@ -6,7 +6,7 @@ title = "वाक्यात् प्रकरणादर्था"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वाक्यात् प्रकरणादर्था-  
 दौचित्याद् देशकालतः।  

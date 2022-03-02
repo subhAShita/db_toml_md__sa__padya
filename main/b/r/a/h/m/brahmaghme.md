@@ -6,7 +6,7 @@ title = "ब्रह्मघ्ने च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा।  
 निष्कृतिर्विहिता लोके कृतघ्ने नास्ति निष्कृतिः॥

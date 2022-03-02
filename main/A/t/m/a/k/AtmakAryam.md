@@ -5,7 +5,7 @@ title = "आत्मकार्यं महाकार्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आत्मकार्यं महाकार्यं परकार्यं न केवलम्।  
 आत्मकार्यस्य दोषेण कूपे पतति मानवः॥

@@ -7,7 +7,7 @@ title = "यद्वदहल्याहेतोर्मृषा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्वदहल्याहेतोर्मृषा वदसि शक्र गौतमोऽस्मीति।  
 तद्वन्ममापि दुःखं निरवेक्ष्य निवार्यतां जलदः॥

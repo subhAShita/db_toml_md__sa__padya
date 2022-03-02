@@ -5,7 +5,7 @@ title = "अपि निपुणतरमधीतम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपि निपुणतरमधीतं दुर्विनयारूढचेतसः पुंसः।  
 मणिरिव फणिफणवर्ती प्रभवति शोकाय लोकानाम्॥

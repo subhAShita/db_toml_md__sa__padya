@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_7038", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 128",]
-jsonClass = "Subhaashita"
 topics = [ "दुर्जनः",]
-title = "उपकृतमनेन"
+jsonClass = "Subhaashita"
+title = "उपकृतमनेन सुतराम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 उपकृतमनेन सुतराम् इत्यसतामस्ति न क्वचिदपेक्षा।  
 होतुः स्वहस्तमाश्रित उद्वहतोऽग्निर् दहत्येव॥

@@ -6,7 +6,7 @@ title = "प्राप्तानपि न"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 प्राप्तानपि न लभते भोगान्भोक्तुं स्वकर्मभिः कृपणाः।  
 मुखपाकः किल भवति द्राक्षापाके बलिभुजां हि॥

@@ -6,7 +6,7 @@ title = "तजोहीने महीपाले"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 तजोहीने महीपाले स्वे परे च विकुर्वते।  
 निःशङ्को हि जनो धत्ते पदं भस्मन्यनूष्मपि॥

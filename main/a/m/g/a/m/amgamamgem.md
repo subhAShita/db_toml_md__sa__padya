@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_0282", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०२ विषयोपहासः// 118",]
-jsonClass = "Subhaashita"
 topics = [ "वैराग्यम्",]
+jsonClass = "Subhaashita"
 title = "अङ्गमङ्गेन सम्पीड्य"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अङ्गमङ्गेन संपीड्य मांसं मांसेन तु स्त्रियः।  
 पुराहमभवं प्रीतो यत्तन्मोहविजृम्भितम्॥

@@ -6,7 +6,7 @@ title = "स्त्रियश्चापुरुषाः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 स्त्रियश्चापुरुषाः मार्गे सर्वालङ्कारभूषिताः।  
 निर्भयाः प्रतिपद्यन्ते यदि रक्षति भूमिपः॥

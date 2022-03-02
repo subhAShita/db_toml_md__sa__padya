@@ -5,7 +5,7 @@ title = "कामधेनुगुणा विद्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कामधेनुगुणा विद्या ह्यकाले फलदायिनी।  
 प्रवासे मातृसदृशी विद्या गुप्तं धनं स्मृतम्॥

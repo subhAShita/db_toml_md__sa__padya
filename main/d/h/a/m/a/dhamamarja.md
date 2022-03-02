@@ -6,7 +6,7 @@ title = "धनमर्जय काकुत्स्थ"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 धनमर्जय काकुत्स्थ धनमूलमिदं जगत्।  
 अन्तरं नैव पश्यामि निर्धनस्य मृतस्य च॥

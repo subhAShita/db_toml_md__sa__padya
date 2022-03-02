@@ -6,7 +6,7 @@ title = "यद्यपि च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यद्यपि च दैवयोगात्सिंहः पतितोऽतिदुस्तरे कूपे।  
 तदपि च वाञ्छति सततं करिकुम्भविदारणं मनसि॥

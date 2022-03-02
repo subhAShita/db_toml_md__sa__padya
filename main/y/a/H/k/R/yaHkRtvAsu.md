@@ -6,7 +6,7 @@ title = "यः कृत्वा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यः कृत्वा सुकृतं राज्ञो दुष्करं हितमुत्तमम्।  
 लज्जया वक्ति नो किञ्चित्तेन राजा सहायवान्॥

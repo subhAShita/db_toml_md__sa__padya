@@ -1,12 +1,12 @@
 +++
 secondary_sources = [ "MSS_4175", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 169",]
-jsonClass = "Subhaashita"
 topics = [ "सज्जनः",]
+jsonClass = "Subhaashita"
 title = "अहो महत्त्वम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अहो महत्त्वं महतामपूर्वं विपत्तिकालेऽपि परोपकारः।  
 यथास्यमध्ये पतितोऽपि राहोः कलानिधिः पुण्यचयं ददाति॥

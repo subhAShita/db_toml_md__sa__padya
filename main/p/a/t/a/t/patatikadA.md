@@ -6,7 +6,7 @@ title = "पतति कदाचिन्नभसः"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 पतति कदाचिन्नभसः   
 खाते पातालतोऽपि जलमेति॥  

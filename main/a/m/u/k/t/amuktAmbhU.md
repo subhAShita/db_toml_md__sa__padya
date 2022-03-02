@@ -5,7 +5,7 @@ title = "अमुक्तां भूषयन्तु"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अमुक्तां भूषयन्तु स्वां तनुं संसारसिन्धुगैः।  
 मणिकर्णी ताम्रपर्णी मुक्तिमुक्ताफलैर्जनाः॥

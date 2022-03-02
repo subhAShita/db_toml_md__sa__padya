@@ -5,7 +5,7 @@ title = "अतस्करकरग्राह्यम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अतस्करकरग्राह्यम् अराजाज्ञावशंवदम्।  
 अदायादविभागार्हं धनमार्जयतस्थिरम्॥

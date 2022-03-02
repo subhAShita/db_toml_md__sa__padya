@@ -6,7 +6,7 @@ title = "सा भार्या"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सा भार्या या प्रियं ब्रूते स पुत्रो यत्र निर्वृतिः।  
 तन्मित्त्रं यत्र विश्वासः स देशो यत्र जीव्यते॥

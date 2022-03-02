@@ -5,7 +5,7 @@ title = "अपनेयमुदेतुमिच्छता"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 अपनेयमुदेतुमिच्छता तिमिरं रोषमयं धिया पुरः।  
 अविभिद्य निशाकृतं तमः प्रभया नांशुमताप्युदीयते॥

@@ -7,7 +7,7 @@ title = "वेणी श्यामा"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 वेणी श्यामा भुजङ्गीयं नितम्बान्मस्तकं गता।  
 वक्त्रचन्द्रसुधां लेढुं सान्द्रसिन्दूरजिह्वया॥

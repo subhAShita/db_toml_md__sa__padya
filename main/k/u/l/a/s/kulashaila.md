@@ -6,7 +6,7 @@ title = "कुलशैलदलम्"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुलशैलदलं पूर्णसुवर्णगिरिकर्णिकम्।  
 नमोऽधितिष्ठतेऽनन्तनालं कमलविष्टरम्॥

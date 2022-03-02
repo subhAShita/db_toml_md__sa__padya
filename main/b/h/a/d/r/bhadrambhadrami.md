@@ -7,7 +7,7 @@ title = "भद्रं भद्रमिति"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 भद्रं भद्रमिति ब्रूयाद् भद्रमित्येव वा वदेत् ।  
 शुष्कवैरं विवादं च न कुर्यात् केन चित् सह ॥

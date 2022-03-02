@@ -5,7 +5,7 @@ title = "कपटं च"
 
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कपटं च बहुतरं न जानाति हि कश्चन।  
 कौलिको विष्णुरूपेण भुञ्जति राजकन्यकाम्॥
