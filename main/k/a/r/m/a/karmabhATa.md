@@ -2,6 +2,7 @@
 topics = [ "कर्म", "कालः", "सम्बन्धः", "अधिकारः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "कर्मभाटकलब्धानाम्"
 

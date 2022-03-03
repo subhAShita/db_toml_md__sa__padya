@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_3560",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अश्वस्य लक्षणम्"
 

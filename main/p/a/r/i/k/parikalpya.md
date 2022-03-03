@@ -2,6 +2,7 @@
 topics = [ "स्त्रीसौन्दर्यम्", "रतिः",]
 sources = [ "सुहासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "परिकल्प्य करसहस्रम्"
 

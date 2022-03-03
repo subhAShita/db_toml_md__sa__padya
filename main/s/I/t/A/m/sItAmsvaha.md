@@ -2,6 +2,7 @@
 topics = [ "सीता-परित्यागः",]
 sources = [ "लक्ष्मणः",]
 ratings = [ "vvasuki:5",]
+meters = [ "रामा",]
 jsonClass = "Subhaashita"
 title = "सीतां स्वहस्तेन"
 

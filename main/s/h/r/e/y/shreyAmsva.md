@@ -2,6 +2,7 @@
 topics = [ "स्वधर्मः", "दोषः", "गुणः", "पापम्", "शुद्धिः",]
 sources = [ "कृष्णः - भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "श्रेयान्स्वधर्मो विगुणः"
 

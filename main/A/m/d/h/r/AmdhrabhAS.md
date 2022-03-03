@@ -2,6 +2,7 @@
 topics = [ "आन्ध्रभाषा", "समस्यापूरणम्",]
 sources = [ "तॆनालिरामः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "आन्ध्रभाषामयं काव्यम्"
 

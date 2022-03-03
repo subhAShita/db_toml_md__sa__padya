@@ -1,6 +1,7 @@
 +++
 topics = [ "दारिद्र्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "हेतुप्रमाणयुक्तं वाक्यम्"
 

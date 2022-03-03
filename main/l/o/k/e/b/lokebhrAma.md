@@ -2,6 +2,7 @@
 topics = [ "दाम्भिकः", "भ्रामकगुरुः",]
 sources = [ "काञ्चीपुर-पञ्चाक्षर-योगी",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "लोके भ्रामकमुद्रया"
 

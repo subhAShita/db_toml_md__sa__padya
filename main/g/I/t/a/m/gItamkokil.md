@@ -1,6 +1,7 @@
 +++
 topics = [ "सहजम् अन्याय्यम्", "स्नेहे अविवेकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "गीतं कोकिल"
 

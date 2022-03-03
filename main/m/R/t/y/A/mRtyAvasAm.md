@@ -1,6 +1,7 @@
 +++
 topics = [ "शिवसूत्राणि", "व्याकरणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वाणी",]
 jsonClass = "Subhaashita"
 title = "नृत्यावसाने नटराजराजो"
 

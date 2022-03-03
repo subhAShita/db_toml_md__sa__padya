@@ -1,6 +1,7 @@
 +++
 topics = [ "गणेशः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 29",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "विघ्नेशो वः"
 

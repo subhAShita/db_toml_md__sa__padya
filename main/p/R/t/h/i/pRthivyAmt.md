@@ -2,6 +2,7 @@
 topics = [ "सुभाषितम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०१ सुभाषितप्रशंसा// 6",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "पृथिव्यां त्रीणि"
 

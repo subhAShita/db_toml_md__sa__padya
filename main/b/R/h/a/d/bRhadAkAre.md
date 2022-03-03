@@ -2,6 +2,7 @@
 topics = [ "सत्त्वम्", "प्रस्तुतिः",]
 sources = [ "गणेशोऽवधानी",]
 ratings = [ "vvasuki:5",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "बृहदाकारे लिखिताऽप्यवरा"
 

@@ -2,6 +2,7 @@
 topics = [ "कृष्णः",]
 sources = [ "श्रीधरस्वामी",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "शेषाशेषमुखव्याख्याचातुर्यम्"
 

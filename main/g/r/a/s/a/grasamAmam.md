@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_1399", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 4",]
 topics = [ "धीरः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "ग्रसमानमिवौजांसि सदसा"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "राजा", "नृसिंहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २१ नृसिंहः// 58",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "द्विर्भावः"
 

@@ -2,6 +2,7 @@
 topics = [ "खलः", "द्रोहः",]
 sources = [ "सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "लब्धोदयः खलजनः"
 

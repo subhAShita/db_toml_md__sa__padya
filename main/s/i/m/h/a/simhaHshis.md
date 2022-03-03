@@ -2,6 +2,7 @@
 topics = [ "तेजः", "तारुण्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४२ तेजस्विप्रशंसा// 14",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "सिंहः शिशुरपि"
 

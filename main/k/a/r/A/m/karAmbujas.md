@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_8738",]
+meters = [ "जलोद्धतगति",]
 jsonClass = "Subhaashita"
 title = "कराम्बुजसजत्समाक्षवलया"
 

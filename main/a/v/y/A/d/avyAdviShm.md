@@ -2,6 +2,7 @@
 topics = [ "विष्णुः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "मन्दाक्रान्ता",]
 jsonClass = "Subhaashita"
 title = "अव्याद्विष्णोरनघमघवग्रावनीलोऽङ्घ्रिरस्मा"
 

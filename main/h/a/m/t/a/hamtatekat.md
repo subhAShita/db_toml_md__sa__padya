@@ -2,6 +2,7 @@
 topics = [ "ब्रह्म", "विभूतयः", "विश्वरूपम्",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "हन्त ते"
 

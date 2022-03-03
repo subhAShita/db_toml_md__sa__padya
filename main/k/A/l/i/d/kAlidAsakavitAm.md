@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_9839",]
 topics = [ "कामः",]
 ratings = [ "vvasuki:5",]
+meters = [ "रथोद्धता",]
 jsonClass = "Subhaashita"
 title = "कालिदासकविता नवम्"
 

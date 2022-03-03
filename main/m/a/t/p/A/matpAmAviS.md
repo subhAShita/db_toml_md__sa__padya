@@ -2,6 +2,7 @@
 topics = [ "उन्मादः", "राममन्दिरम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "मत्पाणाविष्टिके भूया"
 

@@ -2,6 +2,7 @@
 topics = [ "विवेकः", "धर्मः", "रामः",]
 sources = [ "हॆब्बललु-राघवेन्द्रः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "प्रेयः श्रेय"
 

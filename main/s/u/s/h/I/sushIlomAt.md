@@ -1,6 +1,7 @@
 +++
 topics = [ "पुण्यम्", "शीलम्", "चातुर्यम्", "औदार्यम्", "वंशः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "सुशीलो मातृपुण्येन,"
 

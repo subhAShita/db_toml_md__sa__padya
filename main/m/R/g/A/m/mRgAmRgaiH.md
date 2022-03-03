@@ -2,6 +2,7 @@
 topics = [ "नीतिः", "सङ्गः", "स्नेहः", "गुणाः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 840",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपजाति",]
 jsonClass = "Subhaashita"
 title = "मृगा मृगैः"
 

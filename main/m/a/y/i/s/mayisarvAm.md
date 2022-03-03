@@ -1,6 +1,7 @@
 +++
 topics = [ "कर्म-योगः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "मयि सर्वाणि"
 

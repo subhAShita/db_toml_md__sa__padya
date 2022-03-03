@@ -2,6 +2,7 @@
 topics = [ "कर्मप्रेरणा",]
 sources = [ "सुरेश्वरः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "न ख्यातिलाभपूजार्थम्"
 

@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_2016",]
 topics = [ "तपः", "शरीरम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वंशस्थ (वंशस्थविल)",]
 jsonClass = "Subhaashita"
 title = "अपि क्रियार्थम्"
 

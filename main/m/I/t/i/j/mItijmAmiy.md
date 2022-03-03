@@ -1,6 +1,7 @@
 +++
 topics = [ "आत्मज्ञानम्", "आत्म-ज्ञानम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "नीतिज्ञा नियतिज्ञा"
 

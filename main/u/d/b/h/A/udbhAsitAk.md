@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_6837", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 238",]
 topics = [ "दुर्जनः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उद्भासिताखिलखलस्य विशृ"
 

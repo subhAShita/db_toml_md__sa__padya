@@ -2,6 +2,7 @@
 topics = [ "शस्त्रशिक्षा", "शस्त्राणि",]
 sources = [ "धनुर्वेदः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "ब्राह्मणाय धनुर्देयम्"
 

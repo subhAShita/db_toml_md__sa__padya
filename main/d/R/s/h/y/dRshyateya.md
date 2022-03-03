@@ -2,6 +2,7 @@
 topics = [ "वेदः", "मोक्षः", "धर्मः",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "दृश्यते यद्"
 

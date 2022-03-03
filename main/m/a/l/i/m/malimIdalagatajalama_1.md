@@ -1,6 +1,7 @@
 +++
 topics = [ "कालः", "नाशः", "लयः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "नलिनीदलगतजलमतितरलम्"
 

@@ -3,6 +3,7 @@ topics = [ "गणेशः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 22",]
 sources = [ "भोजः",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "लक्ष्मीं तनोतु"
 

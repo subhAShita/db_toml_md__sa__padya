@@ -2,6 +2,7 @@
 topics = [ "शिवः", "शिवौ",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 161",]
 ratings = [ "vvasuki:5",]
+meters = [ "आख्यानिकी",]
 jsonClass = "Subhaashita"
 title = "मन्दारमालालुलितालकायै"
 

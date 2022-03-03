@@ -2,6 +2,7 @@
 topics = [ "मिथ्या-प्रतिज्ञा",]
 sources = [ "रामायणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अर्थीनाम् उपपन्नानाम्"
 

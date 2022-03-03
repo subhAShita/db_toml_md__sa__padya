@@ -2,6 +2,7 @@
 topics = [ "ब्रह्म", "विभूतयः", "विश्वरूपम्", "जगत्",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अथवा बहुनैतेन"
 

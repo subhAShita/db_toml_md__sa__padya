@@ -1,6 +1,7 @@
 +++
 topics = [ "मृत्युः", "सुजीवनम्", "जीवनम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अनायासेन मरणम्"
 

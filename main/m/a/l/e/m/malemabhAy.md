@@ -2,6 +2,7 @@
 topics = [ "दाम्पत्यम्", "अन्योऽन्ययोग्यता",]
 sources = [ "नैषदीयचरितम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "माया",]
 jsonClass = "Subhaashita"
 title = "नलेन भायाश्शशिना"
 

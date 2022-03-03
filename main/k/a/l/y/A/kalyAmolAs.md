@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_9081", "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 89",]
 topics = [ "दशावताराः", "रामः",]
 ratings = [ "vvasuki:5",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "कल्याणोल्लाससीमा कलयतु"
 

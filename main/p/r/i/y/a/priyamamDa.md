@@ -2,6 +2,7 @@
 topics = [ "बालविधवा", "विधवा", "बालविवाहः",]
 sources = [ "गणेशोऽवधानी",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्यागीति",]
 jsonClass = "Subhaashita"
 title = "प्रियमण्डनां निशायाम्"
 

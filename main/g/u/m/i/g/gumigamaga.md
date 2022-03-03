@@ -2,6 +2,7 @@
 topics = [ "कुपण्डितः", "सुजीवनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 26",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "गुणिगणगणनारम्भे न"
 

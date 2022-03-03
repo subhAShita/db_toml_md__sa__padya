@@ -1,6 +1,7 @@
 +++
 topics = [ "युद्धम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 124",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "जीवाकृष्टिं स"
 

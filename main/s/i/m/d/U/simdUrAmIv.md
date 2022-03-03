@@ -1,6 +1,7 @@
 +++
 topics = [ "सूर्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 13 सूर्यः// 19",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "सिन्दूराणीव"
 

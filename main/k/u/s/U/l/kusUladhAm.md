@@ -2,6 +2,7 @@
 topics = [ "धन-सञ्चयः", "लोभः", "कुम्भीधान्यः", "ब्राह्मणः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "कुसूलधान्यको वा"
 

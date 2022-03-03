@@ -2,6 +2,7 @@
 topics = [ "ब्रह्म",]
 sources = [ "केनोपनिषत्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "यच्चक्षुषा न"
 

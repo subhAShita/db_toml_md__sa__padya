@@ -2,6 +2,7 @@
 topics = [ "वेदः", "धर्मः", "स्मृतिः", "शिष्टाचारः", "सन्तोषः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "वेदोऽखिलो धर्ममूलम्"
 

@@ -2,6 +2,7 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "कुकविः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "नास्ति चोराद्भयम्"
 

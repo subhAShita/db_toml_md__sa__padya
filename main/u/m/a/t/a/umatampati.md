@@ -2,6 +2,7 @@
 topics = [ "पत्नी", "दाम्पत्यम्", "विवाह-च्छेदः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "उन्मत्तं पतितम्"
 

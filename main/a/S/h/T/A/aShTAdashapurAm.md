@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_3587",]
 topics = [ "परोपकारः", "परपीडनम्", "पापम्", "पुण्यम्", "धर्मः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अष्टादशपुराणेषु व्यासस्य"
 

@@ -2,6 +2,7 @@
 topics = [ "तार्किकः", "कविः", "रसिकता",]
 sources = [ "पण्डितराजजगन्नाथः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "काव्येषु कोमलधियो"
 

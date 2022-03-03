@@ -2,6 +2,7 @@
 topics = [ "पाण्डवक्रोधः",]
 sources = [ "हॆब्बललु-राघवेन्द्रः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "बाल्ये"
 

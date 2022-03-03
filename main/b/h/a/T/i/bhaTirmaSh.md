@@ -1,6 +1,7 @@
 +++
 topics = [ "कालः", "मृत्युः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "भट्टिर् नष्टो"
 

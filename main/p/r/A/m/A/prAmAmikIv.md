@@ -2,6 +2,7 @@
 topics = [ "धर्मः", "वेदाः", "प्रमाणम्", "शिवः",]
 sources = [ "संविदुल्लासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "प्रामाणिकी विधिनिषेधकथा"
 

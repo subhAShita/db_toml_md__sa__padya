@@ -3,6 +3,7 @@ topics = [ "नीतिः", "स्वधर्मः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 621",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "यत्कर्म कुर्वतोऽस्य"
 

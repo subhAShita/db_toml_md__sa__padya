@@ -2,6 +2,7 @@
 topics = [ "पुनर्जन्म",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपजाति",]
 jsonClass = "Subhaashita"
 title = "वासांसि जीर्णानि"
 

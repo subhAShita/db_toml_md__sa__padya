@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_2526", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 125",]
 topics = [ "नीतिः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अमृतं दुर्लभम्"
 

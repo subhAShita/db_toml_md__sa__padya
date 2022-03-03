@@ -4,6 +4,7 @@ topics = [ "बाला", "शृङ्गारः",]
 rasas = [ "शृङ्गारः",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "अस्याः सर्गविधौ"
 

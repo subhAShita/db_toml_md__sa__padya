@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_1140",]
 topics = [ "दम्भः", "शठः", "स्वार्थः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अधोदृष्टिनैर्कृतिकः"
 

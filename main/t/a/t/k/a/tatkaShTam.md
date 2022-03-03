@@ -2,6 +2,7 @@
 topics = [ "विद्वत्ता",]
 sources = [ "सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "तत् कष्टम्"
 

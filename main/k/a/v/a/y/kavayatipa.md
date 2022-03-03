@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_9094", "सुभाषितरत्नभाण्
 topics = [ "जगन्नाथः", "प्रौढोक्तिः", "पाण्डित्यम्", "प्रेरणा",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
+meters = [ "उद्गीति",]
 jsonClass = "Subhaashita"
 title = "कवयति पण्डितराजे"
 

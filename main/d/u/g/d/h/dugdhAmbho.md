@@ -1,6 +1,7 @@
 +++
 topics = [ "कीर्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 86",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "दुग्धाम्भोधावगाधे विहरति"
 

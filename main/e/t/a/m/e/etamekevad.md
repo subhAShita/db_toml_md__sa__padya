@@ -2,6 +2,7 @@
 topics = [ "ब्रह्म",]
 sources = [ "मनुः (भृगुः)",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "एतमेके वदन्त्यग्निम्"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "लोभः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३२ लोभनिन्दा// 8",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "लोभः सदा"
 

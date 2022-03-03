@@ -2,6 +2,7 @@
 topics = [ "शिवः", "दाम्पत्य-कलहः",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "निरुद्योगतया शङ्के"
 

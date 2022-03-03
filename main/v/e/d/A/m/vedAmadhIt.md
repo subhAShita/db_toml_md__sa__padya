@@ -2,6 +2,7 @@
 topics = [ "ब्रह्मचर्यम्", "गृहस्थः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "वेदानधीत्य वेदौ"
 

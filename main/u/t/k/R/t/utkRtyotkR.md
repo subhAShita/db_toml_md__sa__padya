@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_6427", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्// ०७ बीभत्सरसनिर्देशः// 7",]
 rasas = [ "बीभत्सः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उत्कृत्योत्कृत्य कृत्तिम्"
 

@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_6982", "सुभाषितरत्नभाण्
 topics = [ "पवनं प्रत्युक्तयः",]
 types = [ "विलापः - पवनं प्रति",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उन्मीलन्मुकुलकरालकुन्दकोश"
 

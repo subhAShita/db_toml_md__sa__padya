@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_2103", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ०२ विद्याप्रशंसा// 1",]
 topics = [ "विद्या", "विद्यादानम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अपूर्वः कोऽपि"
 

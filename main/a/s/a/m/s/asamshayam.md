@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_3643",]
 topics = [ "अन्तःसाक्षी",]
 sources = [ "कालिदासः - अभिज्ञानशाकुन्तलम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वंशस्थ (वंशस्थविल)",]
 jsonClass = "Subhaashita"
 title = "असंशयम्"
 

@@ -2,6 +2,7 @@
 topics = [ "धर्म-प्रभावः",]
 sources = [ "लक्ष्मणः - रामायणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "धर्मात्मा सत्यसन्धश्च"
 

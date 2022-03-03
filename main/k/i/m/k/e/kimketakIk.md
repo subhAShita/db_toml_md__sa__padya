@@ -1,6 +1,7 @@
 +++
 topics = [ "लज्जाभासः",]
 types = [ "अन्योक्तिः",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "किं केतकीकुसुम"
 

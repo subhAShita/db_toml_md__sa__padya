@@ -2,6 +2,7 @@
 topics = [ "नीतिः", "विवादः", "मूर्खः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 720",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "भूमिपतावर्थपतौ बाले"
 

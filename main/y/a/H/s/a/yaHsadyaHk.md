@@ -2,6 +2,7 @@
 topics = [ "परशुरामः",]
 sources = [ "केशवः\u200c षडङ्गी",]
 ratings = [ "vvasuki:5",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "यः"
 

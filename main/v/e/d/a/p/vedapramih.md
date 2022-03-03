@@ -2,6 +2,7 @@
 topics = [ "धर्मः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "वेदप्रणिहितं कर्म"
 

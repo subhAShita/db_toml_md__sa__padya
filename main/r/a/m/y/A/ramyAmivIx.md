@@ -1,6 +1,7 @@
 +++
 topics = [ "पुनर्जन्म", "वासना", "पूर्व-जन्म",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "रम्याणि वीक्ष्य"
 

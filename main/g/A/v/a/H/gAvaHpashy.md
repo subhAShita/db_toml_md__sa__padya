@@ -2,6 +2,7 @@
 topics = [ "वेदाः", "चारः",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "गावः पश्यन्ति"
 

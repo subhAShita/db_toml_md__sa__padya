@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_1546", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 878",]
 topics = [ "नीतिः", "सारग्राहिता",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपजाति",]
 jsonClass = "Subhaashita"
 title = "अनेकशास्त्रं बहु"
 

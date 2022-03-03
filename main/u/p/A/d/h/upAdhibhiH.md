@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_7156", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 887",]
 topics = [ "नीतिः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उपाधिभिः सततसङ्गतोऽपि"
 

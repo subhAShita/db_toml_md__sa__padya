@@ -2,6 +2,7 @@
 topics = [ "नीतिः", "क्रोधः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 880",]
 ratings = [ "vvasuki:5",]
+meters = [ "रामा",]
 jsonClass = "Subhaashita"
 title = "क्रोधो हि"
 

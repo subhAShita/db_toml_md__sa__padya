@@ -1,6 +1,7 @@
 +++
 topics = [ "ब्राह्मणः", "इतिहासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "सर्वस्तरतु दुर्गाणि"
 

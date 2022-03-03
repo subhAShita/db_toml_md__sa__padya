@@ -2,6 +2,7 @@
 topics = [ "लोभः", "सर्वकारः", "राजा", "राजाधिकारी", "भ्रष्टाचारः",]
 sources = [ "कौटिल्यः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "यथा ह्यनास्वादयितुम्"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "धर्मः", "सौराज्यम्", "रक्षणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "परचक्रैर्नाक्रान्ता"
 

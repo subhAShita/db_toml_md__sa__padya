@@ -2,6 +2,7 @@
 topics = [ "परशुरामः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपगीति",]
 jsonClass = "Subhaashita"
 title = "दूरमुदस्यति यस्य"
 

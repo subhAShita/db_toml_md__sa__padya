@@ -1,8 +1,9 @@
 +++
 topics = [ "दशावताराः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 203",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
-title = "षट्चक्रे"
+title = "षट्चक्रे क्रमभावनापरिगतम्"
 
 +++
 

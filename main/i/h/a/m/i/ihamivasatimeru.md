@@ -2,6 +2,7 @@
 topics = [ "भूम्युपवेशनम्",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "मालिनी",]
 jsonClass = "Subhaashita"
 title = "इह निवसति"
 

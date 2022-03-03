@@ -1,6 +1,7 @@
 +++
 topics = [ "मूर्खः", "प्रतिनिविष्ट-बुद्धिः", "आगम-बद्धता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "मूर्खस्य पञ्च"
 

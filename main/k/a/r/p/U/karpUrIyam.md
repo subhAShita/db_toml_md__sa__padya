@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_8895",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "कर्पूरीयन्ति भूमौ"
 

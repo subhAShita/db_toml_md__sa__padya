@@ -2,6 +2,7 @@
 topics = [ "वितण्डा",]
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "यत्र सूक्तम्"
 

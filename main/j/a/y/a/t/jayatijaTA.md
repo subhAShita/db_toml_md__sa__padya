@@ -1,6 +1,7 @@
 +++
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 22",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "जयति जटाकिञ्जल्कम्"
 

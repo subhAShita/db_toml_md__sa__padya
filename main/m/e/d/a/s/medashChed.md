@@ -1,6 +1,7 @@
 +++
 topics = [ "मृगया",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// २९ मृगया// 109",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "मेदश्छेदकृशोदरं लघु"
 

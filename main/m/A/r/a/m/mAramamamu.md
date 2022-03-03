@@ -1,6 +1,7 @@
 +++
 topics = [ "हरिहरौ",]
 ratings = [ "vvasuki:5",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "मारमणमुमारमणं फणधरतल्पम्"
 

@@ -2,6 +2,7 @@
 topics = [ "शिष्टः", "शिष्टाचारः", "धर्मः", "शिष्टाः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अनाम्नातेषु धर्मेषु"
 

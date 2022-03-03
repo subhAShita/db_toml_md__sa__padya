@@ -1,6 +1,7 @@
 +++
 topics = [ "पित्रतिशायी पुत्रः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "सुपुत्रः खलु"
 

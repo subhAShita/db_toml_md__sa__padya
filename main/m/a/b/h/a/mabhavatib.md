@@ -2,6 +2,7 @@
 topics = [ "सज्जनः", "सज्जन-कोपः", "दुर्जन-स्नेहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 107",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "न भवति"
 

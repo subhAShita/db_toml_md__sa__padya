@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_2232",]
+meters = [ "उपजाति",]
 jsonClass = "Subhaashita"
 title = "अब्दायनर्तुष्वथ मासपक्ष"
 

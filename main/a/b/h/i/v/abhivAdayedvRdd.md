@@ -2,6 +2,7 @@
 topics = [ "आतिथ्यम्", "वृद्ध-शुश्रूषा",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अभिवादयेद् वृद्धांश्च"
 

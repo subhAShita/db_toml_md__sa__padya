@@ -1,6 +1,7 @@
 +++
 topics = [ "वैराग्यम्", "वैराग्य-बाधाः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "स्वामी"
 

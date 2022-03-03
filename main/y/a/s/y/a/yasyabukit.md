@@ -1,6 +1,7 @@
 +++
 topics = [ "वेदाः", "दत्तात्रेयः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "यस्य बुक्कितमोङ्कारो"
 

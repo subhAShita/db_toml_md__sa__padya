@@ -3,6 +3,7 @@ topics = [ "व्यभिचारिणी",]
 secondary_sources = [ "MSS_2797", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 38",]
 rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शिखरिणी",]
 jsonClass = "Subhaashita"
 title = "अये को"
 

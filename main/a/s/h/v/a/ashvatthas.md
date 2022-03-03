@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_3545",]
+meters = [ "उपगीति",]
 jsonClass = "Subhaashita"
 title = "अश्वत्थस्य महत्त्वम्"
 

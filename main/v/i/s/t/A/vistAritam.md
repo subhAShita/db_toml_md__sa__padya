@@ -2,6 +2,7 @@
 topics = [ "कामः",]
 sources = [ "भर्तृहरिः - शृङ्गारशतकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "विस्तारितं मकरकेतनधीवरेण"
 

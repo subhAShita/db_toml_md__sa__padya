@@ -2,6 +2,7 @@
 topics = [ "विवाहः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "खर्वेयं प्रांशुरसावसिता"
 

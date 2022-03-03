@@ -1,6 +1,7 @@
 +++
 topics = [ "हिंसा",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "नाघ्नतः कीर्तिरस्तीह"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "राजधर्मः", "अधिकारः", "आपत्",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपेन्द्रवज्रा",]
 jsonClass = "Subhaashita"
 title = "यदैव राज्ये"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "महानगराः", "दिल्ली",]
 ratings = [ "vvasuki:5",]
+meters = [ "वाणी",]
 jsonClass = "Subhaashita"
 title = "बालोऽपि चोरः"
 

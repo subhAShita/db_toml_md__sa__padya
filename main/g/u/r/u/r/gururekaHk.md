@@ -1,6 +1,7 @@
 +++
 topics = [ "राजसभा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०१ राजसभावर्णनम्// 6",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "गुरुरेकः कविरेकः"
 

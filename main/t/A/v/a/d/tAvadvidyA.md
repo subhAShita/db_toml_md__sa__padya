@@ -1,6 +1,7 @@
 +++
 topics = [ "दारिद्र्यम्", "व्यवहारः", "जीवन-यात्रा",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "तावद्विद्यानवद्या"
 

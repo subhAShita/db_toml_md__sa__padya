@@ -2,6 +2,7 @@
 topics = [ "वाक्पटुता", "प्रौढोक्तिः",]
 sources = [ "वामनभट्टबाणः - वेमभूपालचरितम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "बाणादन्ये कवयः"
 

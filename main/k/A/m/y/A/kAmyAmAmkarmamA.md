@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_9684",]
 topics = [ "सन्न्यासः", "सात्त्विक-त्यागः", "काम्य-कर्म",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "काम्यानां कर्मणाम्"
 

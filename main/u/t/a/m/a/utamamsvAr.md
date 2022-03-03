@@ -1,6 +1,7 @@
 +++
 topics = [ "नीतिः",]
 secondary_sources = [ "MSS_6464",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "उत्तमं स्वार्जितम्"
 

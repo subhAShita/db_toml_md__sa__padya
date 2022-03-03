@@ -2,6 +2,7 @@
 topics = [ "काव्य-चोरः",]
 sources = [ "राघव-पञ्चानन-भट्टाचार्यः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "परवाक्यं गृहीत्वा"
 

@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_8277", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 08 बहिरालापाः// 73",]
 types = [ "बहिरालापः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "कंसारातेर्वद गमनम्"
 

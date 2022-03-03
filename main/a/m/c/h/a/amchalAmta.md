@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_0465",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अञ्चलान्तरितगुर्जराङ्गना"
 

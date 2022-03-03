@@ -2,6 +2,7 @@
 topics = [ "स्त्री-सौन्दर्यम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "नन्दिनी",]
 jsonClass = "Subhaashita"
 title = "अनुयाति कामिनि"
 

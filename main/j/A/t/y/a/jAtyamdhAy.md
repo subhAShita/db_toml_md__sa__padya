@@ -2,6 +2,7 @@
 topics = [ "वेश्या",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७९ वेश्यागर्हणम्// 9",]
 rasas = [ "शृङ्गारः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "जात्यन्धाय च"
 

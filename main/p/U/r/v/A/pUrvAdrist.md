@@ -2,6 +2,7 @@
 topics = [ "सूर्यः", "नृसिंहः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "पूर्वाद्रिस्तम्भगर्भोत्थो"
 

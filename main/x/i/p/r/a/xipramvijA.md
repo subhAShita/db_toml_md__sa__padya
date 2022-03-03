@@ -2,6 +2,7 @@
 topics = [ "श्रवणम्", "बुद्धिमान्", "हस्तक्षेपः",]
 sources = [ "महाभारतम् (विदुरनीतिः)",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "क्षिप्रं विजानाति"
 

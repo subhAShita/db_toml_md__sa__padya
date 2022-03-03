@@ -1,6 +1,7 @@
 +++
 topics = [ "त्रिमूर्तयः", "विष्णुः शिवः", "ब्रह्मा",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "श्रीवाणीगिरिजाश् चिराय"
 

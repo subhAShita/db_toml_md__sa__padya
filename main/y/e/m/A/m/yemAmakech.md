@@ -2,6 +2,7 @@
 topics = [ "परप्रीताव् उदासीनता", "रसिकप्रशंसा",]
 sources = [ "भवभूतिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "ये नाम"
 

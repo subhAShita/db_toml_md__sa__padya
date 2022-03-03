@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_0480",]
 topics = [ "कलियुगः", "पाशण्डः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अट्टशूला जनपदाः"
 

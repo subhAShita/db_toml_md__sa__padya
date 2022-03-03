@@ -1,4 +1,5 @@
 +++
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अत्यासन्ना विनाशाय"
 

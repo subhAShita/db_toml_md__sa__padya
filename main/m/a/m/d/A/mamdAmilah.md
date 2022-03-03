@@ -1,6 +1,7 @@
 +++
 topics = [ "स्त्री-सौन्दर्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "मन्दानिलहतविलोलशिखः"
 

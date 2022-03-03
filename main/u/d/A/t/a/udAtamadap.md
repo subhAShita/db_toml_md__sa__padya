@@ -1,6 +1,7 @@
 +++
 topics = [ "मूर्खैस् सह वादः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उदात्तमदपित्तलद्विरदराजगण्डस्थली"
 

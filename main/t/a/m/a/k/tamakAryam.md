@@ -2,6 +2,7 @@
 topics = [ "सत्कार्यम्", "कुकार्यम्",]
 sources = [ "तिवारि-अरविन्दः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "तन्न कार्यम्"
 

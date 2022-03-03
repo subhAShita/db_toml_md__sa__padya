@@ -2,6 +2,7 @@
 topics = [ "क्षात्रम्", "ब्राह्मम्",]
 sources = [ "शुक्लयजुर्वेदः (याज्ञवल्क्यः)",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "यत्र ब्रह्म"
 

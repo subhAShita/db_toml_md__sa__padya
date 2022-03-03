@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_5445", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 28",]
 topics = [ "तृष्णा",]
+meters = [ "उपगीति",]
 jsonClass = "Subhaashita"
 title = "आशाया ये"
 

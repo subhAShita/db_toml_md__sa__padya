@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_4266",]
 topics = [ "सुजीवनम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "आकारसदृशप्रज्ञः प्रज्ञया"
 

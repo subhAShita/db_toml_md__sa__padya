@@ -2,6 +2,7 @@
 topics = [ "युद्धकौशलम्", "वीर्यम्",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
+meters = [ "शिखरिणी",]
 jsonClass = "Subhaashita"
 title = "यशःपुत्रं देव"
 

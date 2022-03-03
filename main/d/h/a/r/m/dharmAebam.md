@@ -1,6 +1,7 @@
 +++
 topics = [ "धर्मः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "धर्माे बन्धुरबान्धवे"
 

@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_3376", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 94",]
 topics = [ "राजा",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अविरलकरवालकम्पनैर्"
 

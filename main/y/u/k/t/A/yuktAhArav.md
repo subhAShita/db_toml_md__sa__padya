@@ -2,6 +2,7 @@
 topics = [ "योगः", "आहारः", "नियमः", "निद्रा", "आरोग्यम्", "विहारः",]
 sources = [ "कृष्णः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "युक्ताहारविहारस्य"
 

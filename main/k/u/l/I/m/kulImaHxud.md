@@ -2,6 +2,7 @@
 topics = [ "राष्ट्र-नाशः", "म्लेच्छाक्रमः",]
 sources = [ "काव्यकण्ठ-गणपतिमुनिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शिखरिणी",]
 jsonClass = "Subhaashita"
 title = "कुलीनः क्षुद्राय"
 

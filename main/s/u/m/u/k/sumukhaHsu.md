@@ -2,6 +2,7 @@
 topics = [ "गुरुः", "मूर्खः", "गतानुगतिकता",]
 sources = [ "कुलार्णवतन्त्रम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "सुमुखः सुलभः"
 

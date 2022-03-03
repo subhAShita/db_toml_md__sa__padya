@@ -1,6 +1,7 @@
 +++
 topics = [ "अरिपलायनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १२ अरिपलायनम्// 23",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "पश्येत्कश्चिच्चलचपले रे"
 

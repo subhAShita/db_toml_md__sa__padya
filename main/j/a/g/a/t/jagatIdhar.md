@@ -1,6 +1,7 @@
 +++
 topics = [ "शिवः", "पार्वती", "स्कन्दः", "गणेशः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "जगतीधरजामाता भवताम्"
 

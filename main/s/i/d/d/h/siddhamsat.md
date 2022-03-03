@@ -2,6 +2,7 @@
 topics = [ "आचार्यः",]
 sources = [ "वेङ्कटनाथार्यः",]
 ratings = [ "vvasuki:5",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "सिद्धं सत्सम्प्रदाये"
 

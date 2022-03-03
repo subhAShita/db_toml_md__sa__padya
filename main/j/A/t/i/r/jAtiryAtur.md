@@ -1,6 +1,7 @@
 +++
 topics = [ "धनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २७ धनप्रशंसा// 15",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "जातिर्यातु रसातलम्"
 

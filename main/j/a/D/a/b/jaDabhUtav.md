@@ -1,6 +1,7 @@
 +++
 topics = [ "चैतन्यम्", "चैतन्योद्भवः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "जडभूतविकारेषु चैतन्यम्"
 

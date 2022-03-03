@@ -2,6 +2,7 @@
 topics = [ "नीतिः", "वैराग्यम्", "रोगः", "लोभः", "पापम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 214",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "लोभमूलानि पापानि"
 

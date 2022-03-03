@@ -2,6 +2,7 @@
 topics = [ "कीर्तिः", "श्रीः", "वाक्", "स्मृतिः", "मेधा", "धृतिः", "क्षमा",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "मृत्युः"
 

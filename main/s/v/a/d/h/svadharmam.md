@@ -2,6 +2,7 @@
 topics = [ "धर्मयुद्धम्", "क्षात्रम्", "स्वर्गः",]
 sources = [ "कृष्णः - भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "स्वधर्ममपि चावेक्ष्य"
 

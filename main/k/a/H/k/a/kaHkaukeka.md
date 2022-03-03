@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_8290", "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 07 अन्तरालापाः// 16",]
 types = [ "अन्तरालापः",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "कः कौ"
 

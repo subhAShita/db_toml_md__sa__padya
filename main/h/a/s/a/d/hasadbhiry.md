@@ -2,6 +2,7 @@
 topics = [ "शक्तिमदः",]
 sources = [ "अश्वघोषः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "हसद्भिर्यत्कृतं कर्म"
 

@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_6748", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 147",]
 topics = [ "नीतिः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उदारस्य तृणम्"
 

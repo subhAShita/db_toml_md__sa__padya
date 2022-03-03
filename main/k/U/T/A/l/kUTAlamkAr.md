@@ -2,6 +2,7 @@
 topics = [ "जीवकाव्यम्", "जीवनम्",]
 sources = [ "गणेशोऽवधानी",]
 ratings = [ "vvasuki:5",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "कूटालङ्कार दूरम्"
 

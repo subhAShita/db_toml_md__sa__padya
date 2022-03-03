@@ -1,6 +1,7 @@
 +++
 topics = [ "दुर्नगरम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "विप्रास्मिन्नगरे महान्"
 

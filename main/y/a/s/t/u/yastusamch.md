@@ -1,6 +1,7 @@
 +++
 topics = [ "यात्रा", "जिज्ञासा", "अध्ययनम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "यस्तु सञ्चरते"
 

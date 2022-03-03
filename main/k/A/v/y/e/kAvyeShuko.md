@@ -2,6 +2,7 @@
 topics = [ "वाक्पटुता", "प्रौढोक्तिः",]
 sources = [ "वेदान्तदेशिकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "काव्येषु कोमलधियो"
 

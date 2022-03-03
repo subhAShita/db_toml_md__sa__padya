@@ -2,6 +2,7 @@
 topics = [ "कुकविः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "शिखरिणी",]
 jsonClass = "Subhaashita"
 title = "अलङ्कारा दूरम्"
 

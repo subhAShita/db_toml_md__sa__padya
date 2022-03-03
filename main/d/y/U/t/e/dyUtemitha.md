@@ -2,6 +2,7 @@
 topics = [ "शिवौ",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
+meters = [ "वाणी",]
 jsonClass = "Subhaashita"
 title = "द्यूते मिथः"
 

@@ -2,6 +2,7 @@
 topics = [ "पञ्च-महा-यज्ञाः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "स्वाध्यायेनार्चयेतऋषीन्"
 

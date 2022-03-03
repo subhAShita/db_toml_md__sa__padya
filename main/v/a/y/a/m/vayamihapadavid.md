@@ -2,6 +2,7 @@
 topics = [ "पाण्डित्यम्", "प्रौढोक्तिः",]
 sources = [ "लोल्ललक्ष्मीधरः",]
 ratings = [ "vvasuki:5",]
+meters = [ "मालिनी",]
 jsonClass = "Subhaashita"
 title = "वयमिह पदविद्याम्"
 

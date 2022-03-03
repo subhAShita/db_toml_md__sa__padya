@@ -1,5 +1,6 @@
 +++
 topics = [ "अश्वः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "किं स्यन्दनैः"
 

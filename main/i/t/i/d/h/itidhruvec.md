@@ -2,6 +2,7 @@
 topics = [ "स्थैर्यम्", "निष्ठा",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "वंशस्थ (वंशस्थविल)",]
 jsonClass = "Subhaashita"
 title = "इति ध्रुवेच्छामनुशासती"
 

@@ -2,6 +2,7 @@
 topics = [ "तार्किकः", "कविः", "रसिकता",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "योषिद्वसन्तकोकिलशरदिन्दुषु"
 

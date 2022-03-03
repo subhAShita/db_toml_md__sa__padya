@@ -3,6 +3,7 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 types = [ "अन्योक्तिः", "अन्योक्तिः - खगः", "अन्योक्तिः - मधुकरः",]
 topics = [ "विधि-वैषम्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "रात्रिर्गमिष्यति"
 

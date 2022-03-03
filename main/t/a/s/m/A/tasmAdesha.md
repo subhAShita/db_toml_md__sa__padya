@@ -2,6 +2,7 @@
 topics = [ "शास्त्र-प्रयोगः",]
 sources = [ "वात्स्यायनः - कामसूत्रम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "तस्माद् देशम्"
 

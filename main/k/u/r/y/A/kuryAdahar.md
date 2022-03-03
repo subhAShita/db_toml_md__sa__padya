@@ -2,6 +2,7 @@
 topics = [ "पितृ-ऋणम्", "पितृ-तर्पणम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "कुर्यादहरहः"
 

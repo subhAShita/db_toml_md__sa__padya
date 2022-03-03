@@ -2,6 +2,7 @@
 topics = [ "स्वरच्युतिः", "वाजसनेयशाखा",]
 sources = [ "भविष्यपुराणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "सर्वे ब्रह्म"
 

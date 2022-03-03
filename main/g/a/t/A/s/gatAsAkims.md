@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 04 चित्रप्रकरणम्// 04 कूटानि// 82",]
 types = [ "कूटम्",]
+meters = [ "शिखरिणी",]
 jsonClass = "Subhaashita"
 title = "गता सा"
 

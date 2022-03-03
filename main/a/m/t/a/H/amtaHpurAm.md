@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_1592", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// १७ राजसेवकः// 3",]
 topics = [ "राजसेवकः",]
+meters = [ "जाया",]
 jsonClass = "Subhaashita"
 title = "अन्तःपुराणाम्"
 

@@ -2,6 +2,7 @@
 topics = [ "सत्सङ्गः",]
 sources = [ "किरातार्जुनीयम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वंशस्थ (वंशस्थविल)",]
 jsonClass = "Subhaashita"
 title = "तथापि जिह्मः"
 

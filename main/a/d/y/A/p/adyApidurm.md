@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_0966", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 123",]
 topics = [ "सज्जनः", "स्तुतिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपगीति",]
 jsonClass = "Subhaashita"
 title = "अद्यापि दुर्निवारम्"
 

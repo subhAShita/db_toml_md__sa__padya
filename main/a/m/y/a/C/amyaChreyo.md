@@ -2,6 +2,7 @@
 topics = [ "श्रेयः", "प्रेयः",]
 sources = [ "कठोपनिषत्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अन्यच्छ्रेयोऽन्यदुतैव"
 

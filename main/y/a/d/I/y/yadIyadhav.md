@@ -2,6 +2,7 @@
 topics = [ "पिता",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "पृथ्वी",]
 jsonClass = "Subhaashita"
 title = "यदीयधवलालकैर्मम"
 

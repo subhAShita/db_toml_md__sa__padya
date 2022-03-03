@@ -2,6 +2,7 @@
 topics = [ "बहुशास्त्रविद्", "पण्डितः", "भास्करः",]
 sources = [ "लीलावती",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "अष्टौ व्याकरणानि"
 

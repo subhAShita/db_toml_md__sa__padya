@@ -2,6 +2,7 @@
 topics = [ "मूर्खः", "विद्वान्", "बहुभाषिता", "अल्पभाषिता",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "निजमाशयमपि मूर्खो"
 

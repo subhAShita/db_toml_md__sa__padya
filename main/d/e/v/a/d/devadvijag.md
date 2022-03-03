@@ -2,6 +2,7 @@
 topics = [ "तपः", "पूजा", "शौचम्", "आर्जवम्", "सद्भावाः", "मौनम्", "सौम्यता",]
 sources = [ "कृष्णः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "देवद्विजगुरुप्राज्ञपूजनम्"
 

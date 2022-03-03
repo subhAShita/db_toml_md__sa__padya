@@ -1,6 +1,7 @@
 +++
 topics = [ "कलियुगः", "म्लेच्छः", "वर्णसङ्घर्षः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "विरोधमथ यास्यनति"
 

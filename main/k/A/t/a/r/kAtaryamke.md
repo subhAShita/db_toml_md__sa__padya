@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_9380",]
 topics = [ "नीतिः", "शौर्यम्", "बुद्धिः", "युद्ध-कौशलम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "कातर्यं केवला"
 

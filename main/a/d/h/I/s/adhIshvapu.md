@@ -1,6 +1,7 @@
 +++
 topics = [ "साम-दान-भेद-दण्डाः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अधीश्व पुत्रकाधीश्व,"
 

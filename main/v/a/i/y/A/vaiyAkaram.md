@@ -1,6 +1,7 @@
 +++
 topics = [ "वैयाकरणः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// १२ वैयाकरणप्रशंसा// 1",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "वैयाकरणकिरातादपशब्दमृगाः"
 

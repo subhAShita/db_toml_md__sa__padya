@@ -2,6 +2,7 @@
 topics = [ "प्रौढोक्तिः", "प्रतिभा",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "निर्माणे यदि"
 

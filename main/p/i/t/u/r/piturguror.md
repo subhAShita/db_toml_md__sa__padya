@@ -1,6 +1,7 @@
 +++
 topics = [ "मिथ्य-प्रशंसा",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "पितुर्गुरोर्नरेन्द्रस्य"
 

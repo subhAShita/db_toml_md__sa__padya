@@ -2,6 +2,7 @@
 topics = [ "बहुशास्त्रविद्", "पण्डितः", "भास्करः",]
 sources = [ "छङ्गदेवो भास्करपौत्रः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उद्भटबुद्धिर् भाट्टे"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "गजः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ०८ गजाः// 44",]
+meters = [ "बाला",]
 jsonClass = "Subhaashita"
 title = "रक्षन्ति पक्षम्"
 

@@ -2,6 +2,7 @@
 topics = [ "युद्धम्",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अथ चेत्त्वमिमम्"
 

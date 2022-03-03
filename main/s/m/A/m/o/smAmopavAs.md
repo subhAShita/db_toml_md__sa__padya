@@ -2,6 +2,7 @@
 topics = [ "पुण्यम्", "तीर्थयात्रा", "पुण्यबीज-पापम्",]
 sources = [ "विष्णुरहस्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "स्नानोपवासयात्रादौ"
 

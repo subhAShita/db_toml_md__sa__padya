@@ -1,6 +1,7 @@
 +++
 topics = [ "सुजीवनम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "सोऽहमाजन्मशुद्धानामाफलोदयकर्मणाम्"
 

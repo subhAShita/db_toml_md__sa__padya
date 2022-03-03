@@ -2,6 +2,7 @@
 topics = [ "कर्णाटोच्चारणम्", "कर्णाट-संस्कृत-विरोधिनः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "विनाकृता"
 

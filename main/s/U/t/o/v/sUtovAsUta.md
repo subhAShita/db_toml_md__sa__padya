@@ -2,6 +2,7 @@
 topics = [ "कुलम्",]
 sources = [ "कर्णा - भासः\u200c कर्णभारम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "सूतो वा"
 

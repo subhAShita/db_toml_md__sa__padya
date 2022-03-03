@@ -1,6 +1,7 @@
 +++
 topics = [ "प्रत्युपकारः", "कृतज्ञता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "कृतप्रत्युपकारो हि"
 

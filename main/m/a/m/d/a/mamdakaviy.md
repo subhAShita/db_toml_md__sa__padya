@@ -1,6 +1,7 @@
 +++
 topics = [ "विनयः", "कवित्वम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "मन्दः कवियशः"
 

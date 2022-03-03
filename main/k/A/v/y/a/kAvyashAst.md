@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_9921",]
 topics = [ "विद्वत्ता", "काल-यापनम्", "निद्रा",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "काव्यशास्त्रविनोदेन कालो"
 

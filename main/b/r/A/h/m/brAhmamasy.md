@@ -2,6 +2,7 @@
 topics = [ "स्त्री-सौन्दर्यम्",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "ब्राह्मणस्य हि"
 

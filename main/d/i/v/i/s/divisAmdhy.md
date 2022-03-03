@@ -2,6 +2,7 @@
 topics = [ "सन्ध्या",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "दिवि सान्ध्यरागरेखा"
 

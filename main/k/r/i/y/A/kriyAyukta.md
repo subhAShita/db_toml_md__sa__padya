@@ -1,6 +1,7 @@
 +++
 topics = [ "क्रियाशीलता", "अनुष्ठानम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "क्रियायुक्तस्य सिद्धिः"
 

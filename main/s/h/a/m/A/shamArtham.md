@@ -1,6 +1,7 @@
 +++
 topics = [ "शास्त्रम्", "शान्तिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "शमार्थं सर्वशास्त्राणि"
 

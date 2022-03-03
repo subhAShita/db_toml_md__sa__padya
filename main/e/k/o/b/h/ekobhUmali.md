@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_7741",]
 topics = [ "प्रौढोक्तिः",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "एकोऽभून्नलिनात् ततश्च"
 

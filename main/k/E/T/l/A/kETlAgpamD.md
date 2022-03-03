@@ -1,6 +1,7 @@
 +++
 topics = [ "कुपण्डितः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "कॆट्लाग्पण्डिताः केचित्"
 

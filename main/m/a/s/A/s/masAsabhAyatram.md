@@ -2,6 +2,7 @@
 topics = [ "वृद्धः", "धर्मः", "सत्यम्", "सभा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 884",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपजाति",]
 jsonClass = "Subhaashita"
 title = "न सा"
 

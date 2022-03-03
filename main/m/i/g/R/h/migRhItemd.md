@@ -2,6 +2,7 @@
 topics = [ "सन्तोषः", "इन्द्रियनिग्रहः", "तीर्थयात्रा",]
 sources = [ "वेदान्तदेशिकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "निगृहीतेन्द्रियग्रामो"
 

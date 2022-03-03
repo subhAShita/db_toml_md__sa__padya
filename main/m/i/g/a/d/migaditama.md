@@ -2,6 +2,7 @@
 topics = [ "भूगोलज्ञानम्",]
 sources = [ "राजशेखरः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "निगदितनयविपरीतम्"
 

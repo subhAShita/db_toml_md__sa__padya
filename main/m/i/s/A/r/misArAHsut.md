@@ -1,6 +1,7 @@
 +++
 topics = [ "पात्रता-विवेकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "निस्साराः सुतराम्"
 

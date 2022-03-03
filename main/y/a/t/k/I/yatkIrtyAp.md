@@ -2,6 +2,7 @@
 topics = [ "कालिदासः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "यत्कीर्त्या प्रसरन्त्या"
 

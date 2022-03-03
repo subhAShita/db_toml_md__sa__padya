@@ -2,6 +2,7 @@
 topics = [ "प्रह्लादः", "कालः", "सिंहः", "गरुडः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "प्रह्लादश्चास्मि"
 

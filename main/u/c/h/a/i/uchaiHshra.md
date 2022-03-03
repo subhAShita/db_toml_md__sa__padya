@@ -2,6 +2,7 @@
 topics = [ "उच्चैःश्रवाः", "ऐरावतः", "राजा",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "उच्चैःश्रवसमश्वानाम्"
 

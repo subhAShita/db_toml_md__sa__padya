@@ -2,6 +2,7 @@
 topics = [ "नीतिः", "शाठ्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 398",]
 ratings = [ "vvasuki:5",]
+meters = [ "वंशस्थ (वंशस्थविल)",]
 jsonClass = "Subhaashita"
 title = "व्रजन्ति ते"
 

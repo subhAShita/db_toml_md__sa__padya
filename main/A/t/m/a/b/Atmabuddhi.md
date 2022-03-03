@@ -1,6 +1,7 @@
 +++
 topics = [ "नीतिः",]
 secondary_sources = [ "MSS_4594", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 94",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "आत्मबुद्धिः सुखम्"
 

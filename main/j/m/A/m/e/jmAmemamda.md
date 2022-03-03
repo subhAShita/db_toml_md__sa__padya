@@ -2,6 +2,7 @@
 topics = [ "ज्ञानम्", "उपाधिः",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "ज्ञाने नन्दति"
 

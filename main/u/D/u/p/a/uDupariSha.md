@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_6394",]
+meters = [ "हरिणी",]
 jsonClass = "Subhaashita"
 title = "उडुपरिषदः किम्"
 

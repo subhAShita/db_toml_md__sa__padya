@@ -2,6 +2,7 @@
 topics = [ "आत्मा", "ब्रह्म", "कर्म", "कर्मफलम्",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "नैनं छिन्दन्ति"
 

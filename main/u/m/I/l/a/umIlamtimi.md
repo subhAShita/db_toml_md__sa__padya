@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_6977", "सुभाषितरत्नभाण्डागारः// 06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५८ प्रभातवर्णनम्// 52",]
 topics = [ "प्रभातम्",]
 rasas = [ "शृङ्गारः",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उन्मीलन्ति"
 

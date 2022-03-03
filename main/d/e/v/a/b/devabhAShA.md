@@ -2,6 +2,7 @@
 topics = [ "संस्कृतम्", "कुकविः",]
 sources = [ "अरविन्द-तिवारी",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "देवभाषां वदन्"
 

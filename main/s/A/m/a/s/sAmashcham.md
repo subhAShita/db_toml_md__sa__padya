@@ -2,6 +2,7 @@
 topics = [ "दुर्गा",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "सा नश्चण्डी"
 

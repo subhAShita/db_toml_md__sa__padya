@@ -2,6 +2,7 @@
 topics = [ "पुराणानि", "वेदाः", "ग्रन्थ+अपूर्णता",]
 sources = [ "वायवीयसंहिता (१.२३-२४)", "शिवपुराणम् (७.१.१.३७-३८)",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "सङ्क्षिप्य चतुरो"
 

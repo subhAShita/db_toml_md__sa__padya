@@ -2,6 +2,7 @@
 topics = [ "सूर्यास्तम्",]
 sources = [ "मधुराविजयम् (७.१३)",]
 ratings = [ "vvasuki:5",]
+meters = [ "वियोगिनी",]
 jsonClass = "Subhaashita"
 title = "गतदीप्तिगभस्तिमालिनो"
 

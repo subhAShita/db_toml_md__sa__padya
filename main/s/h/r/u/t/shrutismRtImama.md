@@ -2,6 +2,7 @@
 topics = [ "कर्म", "तामसिकत्यागः",]
 sources = [ "विष्णुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "श्रुतिस्मृती ममैवाज्ञा"
 

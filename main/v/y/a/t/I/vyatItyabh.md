@@ -2,6 +2,7 @@
 topics = [ "रसः", "भावः", "चमत्कारः",]
 sources = [ "श्रीमद्रूपगोस्वामिप्रभुपादैः - भक्तिरसामृतसिन्धौ २.५.१३२-१३३",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "व्यतीत्य भावनावर्त्म"
 

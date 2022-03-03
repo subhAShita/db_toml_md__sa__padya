@@ -1,6 +1,7 @@
 +++
 topics = [ "अर्जुनः", "अदैन्यम्", "वीर्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अर्जुनस्य प्रतिज्ञे"
 

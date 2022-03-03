@@ -2,6 +2,7 @@
 topics = [ "नमस्कारः",]
 sources = [ "वेदान्तदेशिकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "प्रायः प्रपदने"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "स्त्रीसौन्दर्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "लीलालेखः",]
 jsonClass = "Subhaashita"
 title = "मा कान्ते"
 

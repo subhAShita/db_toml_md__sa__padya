@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_9132", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 94",]
 topics = [ "युद्धम्",]
+meters = [ "शालिनी",]
 jsonClass = "Subhaashita"
 title = "कश्चिच्"
 

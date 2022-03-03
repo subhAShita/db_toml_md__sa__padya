@@ -1,6 +1,7 @@
 +++
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 94",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "मार्जीव किमेतदङ्गुलिपुटे"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "कृपणः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 47",]
+meters = [ "स्वागता",]
 jsonClass = "Subhaashita"
 title = "मा धनानि"
 

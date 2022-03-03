@@ -1,6 +1,7 @@
 +++
 topics = [ "धर्मः", "कर्म-पावित्र्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "यज्ञार्थात्कर्मणोऽन्यत्र"
 

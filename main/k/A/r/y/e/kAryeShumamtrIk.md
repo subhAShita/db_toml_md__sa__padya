@@ -1,5 +1,6 @@
 +++
 secondary_sources = [ "MSS_9771",]
+meters = [ "इन्द्रवज्रा",]
 jsonClass = "Subhaashita"
 title = "कार्येषु मन्त्री"
 

@@ -1,6 +1,7 @@
 +++
 topics = [ "ब्राह्मण-दारिद्र्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "पीतः क्रुद्धेन"
 

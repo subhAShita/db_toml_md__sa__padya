@@ -2,6 +2,7 @@
 topics = [ "रोगः", "चिकित्सा", "सद्भावना", "सदाचारः",]
 sources = [ "चरकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "भक्त्या मातुः"
 

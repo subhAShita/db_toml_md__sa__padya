@@ -2,6 +2,7 @@
 topics = [ "मन्त्रः", "पुस्तकम्", "गुरुः",]
 sources = [ "महाकालसंहिता",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "न शास्त्रमालोक्य"
 

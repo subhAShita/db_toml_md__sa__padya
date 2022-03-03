@@ -1,6 +1,7 @@
 +++
 topics = [ "सदाचारः", "मतसहिष्णुता",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अविच्छिन्ना येषाम्"
 

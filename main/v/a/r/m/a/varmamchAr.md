@@ -2,6 +2,7 @@
 topics = [ "ब्रह्मा",]
 sources = [ "शशिकिरणः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "वर्णं चारु"
 

@@ -3,6 +3,7 @@ topics = [ "सन्तोषः", "तृप्तिः", "धनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 17",]
 sources = [ "भर्तृहरिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "मालिनी",]
 jsonClass = "Subhaashita"
 title = "वयमिह परितुष्टा"
 

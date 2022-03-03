@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_4133", "सुभाषितरत्नभाण्
 types = [ "प्रश्नोत्तरम्",]
 topics = [ "बुद्धिः", "चाटु",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अहो केनेदृशी"
 

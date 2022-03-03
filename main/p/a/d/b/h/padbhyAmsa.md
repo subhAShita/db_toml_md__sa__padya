@@ -2,6 +2,7 @@
 topics = [ "कलिङ्गदेशः",]
 sources = [ "बोधायनः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "पद्भ्यां स"
 

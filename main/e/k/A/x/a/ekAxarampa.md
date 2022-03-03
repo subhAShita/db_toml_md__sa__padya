@@ -2,6 +2,7 @@
 topics = [ "ॐकारः", "प्राणायामः", "सावित्री", "यमः", "सत्यम्",]
 sources = [ "भगवद्गीता (१६.२४)",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "एकाक्षरम् परम्"
 

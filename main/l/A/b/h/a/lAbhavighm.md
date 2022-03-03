@@ -2,6 +2,7 @@
 topics = [ "दैवम्",]
 sources = [ "चाणक्यः - अर्थशास्त्रम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "लाभविघ्नाः कामः"
 

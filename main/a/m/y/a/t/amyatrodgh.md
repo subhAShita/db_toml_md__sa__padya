@@ -2,6 +2,7 @@
 topics = [ "दोषदर्शनम्", "क्षमा",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अन्यत्रोद्घाटिते दोषे"
 

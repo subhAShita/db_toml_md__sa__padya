@@ -2,6 +2,7 @@
 topics = [ "रामः", "मकरः", "गङ्गा",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "पवनः पवतामस्मि"
 

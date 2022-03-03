@@ -2,6 +2,7 @@
 topics = [ "प्रीतिः", "दाम्पत्यम्",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपगीति",]
 jsonClass = "Subhaashita"
 title = "गच्छन् बहिरपि"
 

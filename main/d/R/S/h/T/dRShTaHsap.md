@@ -1,19 +1,22 @@
 +++
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 108",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
-title = "he who"
+title = "दृष्टः सप्रेम"
 
 +++
 
 <details open><summary>Text</summary>
 
-
 दृष्टः सप्रेम देव्या किमिदमिति भयात्सम्भ्रमाच्चासुरीभिः शान्तान्तस्तत्त्वसारैः सकरुणमृषिभिर्विष्णुना सस्मितेन।  
 आदायास्त्रं सगर्वैरुपशमितवधूसम्भ्रमैर्दैत्यवीरैः सानन्दं देवताभिर्मयपुरदहने धूर्जटिः पातु युष्मान्॥
 </details>
 
-<details open><summary>MT</summary>
+
+
+<details><summary>MT</summary>
+
 He who engages in the cruel game of destruction at the end of the eon,  
 the destroyer of [Dakşa's] ritual,  
 with camphor- and jasmine-hued luster,  

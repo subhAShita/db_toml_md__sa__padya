@@ -2,6 +2,7 @@
 topics = [ "भावपूर्णता", "रसिकता",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "आर्यागीति",]
 jsonClass = "Subhaashita"
 title = "बहवस्ते"
 

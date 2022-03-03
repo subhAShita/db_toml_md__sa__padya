@@ -1,6 +1,7 @@
 +++
 topics = [ "गुणभेदः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "उत्पलस्यारविन्दस्य"
 

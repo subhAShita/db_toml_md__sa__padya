@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_0560", "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// २७ सामान्यनीतिः// 383",]
 topics = [ "नीतिः", "मध्यमता", "अतिशयः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "अतिदर्पे हता"
 

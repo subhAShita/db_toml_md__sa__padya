@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_7287",]
 topics = [ "जरा",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "ऊढा येन"
 

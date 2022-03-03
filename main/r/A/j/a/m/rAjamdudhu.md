@@ -2,6 +2,7 @@
 topics = [ "नीतिः", "सौराज्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 405",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
 title = "राजन्दुधुक्षसि यदि"
 

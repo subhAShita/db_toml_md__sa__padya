@@ -1,6 +1,7 @@
 +++
 topics = [ "जलधारया विद्युज्जननम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "हरिणी",]
 jsonClass = "Subhaashita"
 title = "इह सरभस"
 

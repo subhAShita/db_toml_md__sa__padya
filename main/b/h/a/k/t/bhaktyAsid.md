@@ -2,6 +2,7 @@
 topics = [ "भक्तिः", "ज्ञानम्", "कर्म", "योगः",]
 sources = [ "नारदपुराणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "भक्त्या सिद्ध्यन्ति"
 

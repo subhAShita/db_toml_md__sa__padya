@@ -1,6 +1,7 @@
 +++
 topics = [ "युद्धम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 03 राजप्रकरणम्// ११ रणवर्णनम्// 25",]
+meters = [ "वाणी",]
 jsonClass = "Subhaashita"
 title = "पत्तिः पदातिम्"
 

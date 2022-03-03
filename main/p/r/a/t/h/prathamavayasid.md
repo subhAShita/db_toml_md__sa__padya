@@ -1,6 +1,7 @@
 +++
 topics = [ "कृतज्ञता",]
 ratings = [ "vvasuki:5",]
+meters = [ "मालिनी",]
 jsonClass = "Subhaashita"
 title = "प्रथमवयसि दत्तम्"
 

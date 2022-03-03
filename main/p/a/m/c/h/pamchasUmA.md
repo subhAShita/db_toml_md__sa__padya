@@ -2,6 +2,7 @@
 topics = [ "हिंसा", "अहि\u200cंसा", "गृहस्थः", "पञ्च-सूणा",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "पञ्च सूना"
 

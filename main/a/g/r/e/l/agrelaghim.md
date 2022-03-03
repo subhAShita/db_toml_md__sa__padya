@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "MSS_0240", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ३५ याचकनिन्दा// 24",]
 topics = [ "याचकः",]
+meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "अग्रे लघिमा"
 

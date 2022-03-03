@@ -2,6 +2,7 @@
 topics = [ "देवर्षिः", "ऋषिः", "महर्षिः", "तपः",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "प्राणानामनिलेन"
 

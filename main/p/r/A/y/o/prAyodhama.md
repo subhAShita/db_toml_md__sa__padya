@@ -2,6 +2,7 @@
 topics = [ "लोभः",]
 sources = [ "भोजप्रबन्धः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "प्रायो धनवतामेव"
 

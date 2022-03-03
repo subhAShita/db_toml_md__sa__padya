@@ -2,6 +2,7 @@
 secondary_sources = [ "MSS_9320", "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// ४१ वीरप्रशंसा// 13",]
 topics = [ "वीरः", "वैरम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
 title = "काकुत्स्थस्य दशाननो"
 

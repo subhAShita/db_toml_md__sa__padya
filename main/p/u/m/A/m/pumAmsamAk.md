@@ -1,6 +1,7 @@
 +++
 topics = [ "सत्पत्नी", "कुपत्नी", "पत्नी",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "पुमांसमाकुलं क्रूरा"
 

@@ -2,6 +2,7 @@
 topics = [ "पूजा", "कर्म",]
 sources = [ "राघवेन्द्रः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "भक्तिश्रद्धारसो गुप्तो"
 

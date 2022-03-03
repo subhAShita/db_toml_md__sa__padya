@@ -1,6 +1,7 @@
 +++
 topics = [ "शास्त्रम्", "ईश्वरकर्तृत्वम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "एवं वा"
 

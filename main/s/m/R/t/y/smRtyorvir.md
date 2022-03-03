@@ -2,6 +2,7 @@
 topics = [ "स्मृतिः", "न्यायः", "अर्थः", "धर्मः",]
 sources = [ "याज्ञवल्क्यस्मृतिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "स्मृत्योर्विरोधे"
 

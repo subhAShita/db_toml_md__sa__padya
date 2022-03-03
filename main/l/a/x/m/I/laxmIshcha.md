@@ -2,6 +2,7 @@
 topics = [ "विष्णुः", "निरातङ्कः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "गीति",]
 jsonClass = "Subhaashita"
 title = "लक्ष्मीश्चपला भार्या"
 

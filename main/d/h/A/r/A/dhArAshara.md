@@ -2,6 +2,7 @@
 topics = [ "मेघः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "धाराशरशतप्रोतो गगने"
 

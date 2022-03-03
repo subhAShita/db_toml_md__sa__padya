@@ -2,6 +2,7 @@
 topics = [ "ब्रह्मद्विट्",]
 sources = [ "वाग् आम्भृणी",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अहं रुद्राय"
 

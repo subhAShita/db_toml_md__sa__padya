@@ -2,6 +2,7 @@
 topics = [ "दुर्गुणाः",]
 sources = [ "क्षेमेन्द्रः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "गुरुर्गर्वात्"
 

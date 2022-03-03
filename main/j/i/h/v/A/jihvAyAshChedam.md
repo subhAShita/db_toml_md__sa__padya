@@ -2,6 +2,7 @@
 topics = [ "कुपण्डितः", "पाण्डित्य-दम्भः",]
 ratings = [ "vvasuki:5",]
 rasas = [ "हास्यम्",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "जिह्वायाश्छेदनं नास्ति"
 

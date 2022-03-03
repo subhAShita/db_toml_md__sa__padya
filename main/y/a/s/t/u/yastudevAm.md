@@ -2,6 +2,7 @@
 topics = [ "वेदनिन्दा", "ब्राह्मणनिन्दा",]
 sources = [ "कूर्मपुराणम् ",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "यस्तु देवानृषीन्"
 

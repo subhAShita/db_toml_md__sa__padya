@@ -2,6 +2,7 @@
 topics = [ "उन्मादः", "बुद्धः", "बौद्धम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपगीति",]
 jsonClass = "Subhaashita"
 title = "बुद्धस्य नाशयद्भिः"
 

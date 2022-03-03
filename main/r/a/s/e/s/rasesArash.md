@@ -2,6 +2,7 @@
 topics = [ "रसः", "चमत्कारः",]
 sources = [ "अलङ्कारकौस्तुभे",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "रसे सारश्चमत्कारो"
 

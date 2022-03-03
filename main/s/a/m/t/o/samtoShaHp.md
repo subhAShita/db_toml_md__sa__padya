@@ -2,6 +2,7 @@
 topics = [ "सन्तोषः", "सत्सङ्गः", "विचारः", "तर्कः",]
 sources = [ "योग-वासिष्ठम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "सन्तोषः परमो"
 

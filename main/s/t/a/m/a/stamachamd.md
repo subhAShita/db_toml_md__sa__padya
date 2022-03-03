@@ -1,6 +1,7 @@
 +++
 topics = [ "मरून्मादः", "गोहत्या",]
 ratings = [ "vvasuki:5",]
+meters = [ "औपच्छन्दसिकम्",]
 jsonClass = "Subhaashita"
 title = "स्तनचन्दनपाण्डु"
 

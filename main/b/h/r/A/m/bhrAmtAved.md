@@ -1,6 +1,7 @@
 +++
 topics = [ "वैद्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 02 सामान्यप्रकरणम्// १८ वैद्यप्रशंसा// 6",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "भ्रान्ता वेदान्तिनः"
 

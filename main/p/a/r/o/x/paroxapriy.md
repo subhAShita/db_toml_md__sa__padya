@@ -2,6 +2,7 @@
 topics = [ "वक्रता",]
 sources = [ "गोपथब्राह्मणवचनात् (१.१.१.१५)",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "परोक्षप्रिया इव"
 

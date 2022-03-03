@@ -3,6 +3,7 @@ secondary_sources = [ "MSS_5973",]
 topics = [ "वसन्तः", "चम्पकपुष्पम्", "पुष्पम्", "शृङ्गारः",]
 sources = [ "मङ्खः",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपजाति",]
 jsonClass = "Subhaashita"
 title = "इन्दिन्दिरैर्निर्भरगर्भमीषद्"
 

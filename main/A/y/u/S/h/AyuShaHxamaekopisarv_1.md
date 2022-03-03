@@ -2,6 +2,7 @@
 topics = [ "कालः", "आयुः",]
 ratings = [ "vvasuki:5",]
 secondary_sources = [ "MSS_5160",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "आयुषः क्षण"
 

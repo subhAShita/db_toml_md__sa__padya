@@ -2,6 +2,7 @@
 topics = [ "भृगुः", "जपयज्ञः", "प्रणवः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "महर्षीणां भृगुरहम्"
 

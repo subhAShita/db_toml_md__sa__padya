@@ -1,6 +1,7 @@
 +++
 topics = [ "अभिवादनम्", "प्रत्यभिवादनम्", "व्याकरणम्", "उच्चारणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "अविद्वांसः प्रत्यभिवादे"
 
