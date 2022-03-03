@@ -1,6 +1,6 @@
 +++
 topics = [ "प्रौढोक्तिः", "प्रतिभा",]
-sources = [ "जगन्नाथपण्डितः",]
+sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "निर्माणे यदि"

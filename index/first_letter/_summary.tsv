@@ -1,40 +1,41 @@
-अ	a	4409
-आ	A	1593
-इ	i	512
-ई	I	57
-उ	u	1061
-ऊ	U	48
-ऋ	R	67
-ए	e	832
-ऐ	ai	34
-ओ	o	16
-औ	au	29
-क	ka	2559
-ख	kha	51
-ग	ga	282
-घ	gha	32
-च	cha	188
-छ	Cha	20
-ज	ja	215
-झ	jha	3
-ट	Ta	3
-ड	Da	1
-ढ	Dha	1
-ण	Na	1
-त	ta	478
-द	da	543
-ध	dha	165
-न	na	754
-प	pa	820
-फ	pha	11
-ब	ba	163
-भ	bha	282
-म	ma	563
-य	ya	665
-र	ra	290
-ल	la	160
-व	va	743
-श	sha	368
-ष	Sha	5
-स	sa	1110
-ह	ha	188
+value	file_key	quote_count	quote_keys
+अ	4409		
+आ	1593		
+इ	512		
+ई	57		
+उ	1061		
+ऊ	48		
+ऋ	67		
+ए	832		
+ऐ	34		
+ओ	16		
+औ	29		
+क	2559		
+ख	51		
+ग	282		
+घ	32		
+च	188		
+छ	20		
+ज	215		
+झ	3	jha	jhagitijag, jhamajjham, jhamjhAmil
+ट	3	Ta	TapaxeviTa, TiDDhAmamd, TiDhAmamdv
+ड	1	Da	Dimbhomamd
+ढ	1	Dha	DhakAmAhat
+ण	1	Na	meramAviti
+त	478		
+द	543		
+ध	165		
+न	754		
+प	820		
+फ	11		
+ब	163		
+भ	282		
+म	563		
+य	665		
+र	290		
+ल	160		
+व	743		
+श	368		
+ष	5		
+स	1110		
+ह	188		

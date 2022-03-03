@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "MSS_1341",]
 topics = [ "प्रौढोक्तिः", "प्रतिभा",]
-sources = [ "जगन्नाथपण्डितः",]
+sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "अनाराध्य कालीमनास्वाद्य"
