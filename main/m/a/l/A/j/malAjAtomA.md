@@ -1,6 +1,6 @@
 +++
 topics = [ "गणेशः",]
-sources = [ "हॆब्बललु-राघवेन्द्रः",]
+sources = [ "हॆब्बललु-राघवेन्द्रः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
 jsonClass = "Subhaashita"
