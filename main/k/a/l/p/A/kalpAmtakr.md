@@ -19,15 +19,15 @@ title = "कल्पान्तक्रूरकेलिः,"
 
 <details><summary>Text</summary>
 
-कल्पान्त-क्रूर-केलिः, क्रतु-कदन-करः, कुन्द-कर्पूर-कान्तिः  
-क्रीडन् कैलास-कूटे, कलित--कुमुदिनी-कामुकः कान्त-कायः।  
-कङ्काल-क्रीडनोत्कः कलित-कल-कलः काल-काली-कलत्रः  
-कालिन्दी-काल-कण्ठः कलयतु कुशलं कोऽपि कापालिको नः॥
+कल्पान्तक्रूरकेलिः, क्रतुकदनकरः, कुन्दकर्पूरकान्तिः  
+क्रीडन् कैलास-कूटे, कलितकुमुदिनीकामुकः कान्तकायः।  
+कङ्कालक्रीडनोत्कः कलितकलकलः कालकालीकलत्रः  
+कालिन्दीकालकण्ठः कलयतु कुशलं कोऽपि कापालिको नः॥
 </details>
 
 
 
-<details><summary>English</summary>
+<details><summary>MT</summary>
 
 He who engages in the cruel game of destruction at the end of the eon, the destroyer of [Dakşa's] ritual, with camphor- and jasmine-hued luster, who sports on the peak of Kailasa, who wearing the crescent moon, is the ardent lover sharing shalf of his body with his wife, who enjoys playing with skeletons, who manifests in the many arts, who has the black goddess of time (Kālī) as his wife, who has a throat as black as the Kālindī river (Yamunā), verily may that skull-bearer send forth benevolence to us.
 </details>
