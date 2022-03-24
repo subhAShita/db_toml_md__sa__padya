@@ -1,9 +1,10 @@
 +++
+topics = [ "हयग्रीवः", "पण्डित-विनयः",]
+sources = [ "वादीराजतीर्थः - युक्तिमालिका",]
+ratings = [ "vvasuki:3",]
 jsonClass = "Subhaashita"
-title = "न"
-topics = ["हयग्रीवः", "पण्डित-विनयः"]
-sources = [ "वादीराजतीर्थः - युक्तिमालिका"]
-ratings = ["vvasuki:3",]
+title = "न वित्तैरुन्मत्ता"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -25,6 +26,7 @@ ratings = ["vvasuki:3",]
 </details>
 
 
+
 <details><summary>अनूषा</summary>
 
 I'm not intoxicated by wealth, nor strengthened by evil, deceitful incantations.  
@@ -32,4 +34,3 @@ I'm not mixed up with those mixed up in these, nor am I counselled by the wicked
 I do not live by a distasteful, evil system of thought and wield it as a weapon, so, my mind is not clouded by arrogance.  
 I have composed this work only by worshipping lord Hayagrīva.
 </details>
-

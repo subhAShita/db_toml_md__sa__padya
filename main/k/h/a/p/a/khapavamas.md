@@ -1,9 +1,10 @@
 +++
+topics = [ "जीवः",]
+sources = [ "भगवदज्जुकम्",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["जीवः"]
-sources = ["भगवदज्जुकम्"]
-ratings = ["vvasuki:5"]
+title = "खपवनसलिलानाम्"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -24,8 +25,9 @@ ratings = ["vvasuki:5"]
 नर इति कृतसंज्ञः कोऽप्यहं प्राणिधर्मा ॥
 </details>
 
+
+
 <details><summary>Raghavendra GS</summary>
 
 Comprising of five primordial elements, sky, air, water, fire and earth is this dynamic but mortal body, perceiving the world through the five senses I’m some animate object called as man
 </details>
-

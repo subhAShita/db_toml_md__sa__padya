@@ -2,6 +2,7 @@
 jsonClass = "Subhaashita"
 title = "कविः करोति"
 topics = ["asdfa"]
+ratings = ["vvasuki:3",]
 +++
 
 <details><summary>Text</summary>

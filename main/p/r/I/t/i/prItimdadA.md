@@ -1,11 +1,13 @@
 +++
+topics = [ "काव्यम्",]
+sources = [ "काव्यकण्ठ-गणपतिः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["काव्यम्"]
-sources = [ "काव्यकण्ठ-गणपतिः"]
-ratings = ["vvasuki:4",]+++
+title = "प्रीतिं ददाति"
 
-<details><summary>Text</summary>
++++
+
+<details open><summary>Text</summary>
 
 प्रीतिं ददाति विपुलां श्रियमातनोति  
 निर्माति नूत्नसमयं दुरितं धुनोति।  

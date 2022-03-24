@@ -1,9 +1,10 @@
 +++
+topics = [ "शिवः", "ताण्डवम्",]
+sources = [ "महेन्द्रवर्मा - मत्त-विलास-प्रहसनम्",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["शिवः", "ताण्डवम्"]
-sources = ["महेन्द्रवर्मा - मत्त-विलास-प्रहसनम्"]
-ratings = ["vvasuki:5"]
+title = "भाषावेशवपुःक्रियागुणकृतान्"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +16,7 @@ ratings = ["vvasuki:5"]
 </details>
 
 
+
 <details><summary>Text</summary>
 
 भाषा-वेश-वपुः-क्रिया-गुण-कृतान् आश्रित्य भेदान् गतं  
@@ -22,6 +24,8 @@ ratings = ["vvasuki:5"]
 नृत्तं निष्प्रतिबद्ध-बोध-महिमा यः प्रेक्षकश् च स्वयं  
 स व्याप्तावनि-भाजनं दिशतु वो दिव्यः कपाली यशः॥
 </details>
+
+
 
 <details><summary>Unni NP</summary>
 
@@ -33,4 +37,3 @@ Comprising the course of the three worlds
 By speech and dress by actions and feelings  
 Grant thee glory that fills the bowl of the universe
 </details>
-

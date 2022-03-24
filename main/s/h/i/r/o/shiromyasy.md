@@ -1,11 +1,12 @@
 +++
+sources = [ "हॆब्बललु-राघवेन्द्रः - मुक्तकम्",]
+topics = [ "शिवः", "वैराग्यम्",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-sources = ["हॆब्बललु-राघवेन्द्रः - मुक्तकम्"]
-topics = ["शिवः", "वैराग्यम्"]
+title = "शिरोऽन्यस्या हृदन्यस्या"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 शिरोऽन्यस्या हृदन्यस्या  
 लोकाटात्याशिनौ सुतौ।  
@@ -13,8 +14,9 @@ topics = ["शिवः", "वैराग्यम्"]
 किं वा याचे तपस्विनम्?
 </details>
 
+
+
 <details><summary>हॆब्बललु-राघवेन्द्रः</summary>
 
 His head belongs to one, heart to another. His sons? A roamer & a glutton. With poison in his throat & fire in his eye, what can I ask this tapasvi (poor|ascetic)?
 </details>
-

@@ -1,12 +1,13 @@
 +++
-jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["स्त्रीः"]
-sources = ["हॆब्बललु-राघवेन्द्रः - मुक्तकम्"]
+topics = [ "स्त्रीः",]
+sources = [ "हॆब्बललु-राघवेन्द्रः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+jsonClass = "Subhaashita"
+title = "यत्प्रीतिधृतिसौन्दर्य"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 यत्प्रीतिधृतिसौन्दर्य-  
 -लोकनाय द्विधाऽभवत् ।  

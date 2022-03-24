@@ -1,9 +1,10 @@
 +++
+topics = [ "गुरु-नुतिः", "पण्डित-विनयः",]
+sources = [ "जयतीर्थः - न्यायसुधा",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न"
-topics = ["गुरु-नुतिः", "पण्डित-विनयः"]
-sources = [ "जयतीर्थः - न्यायसुधा"]
-ratings = ["vvasuki:4",]
+title = "न शब्दाब्धौ"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

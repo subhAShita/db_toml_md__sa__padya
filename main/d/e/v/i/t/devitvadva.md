@@ -1,9 +1,10 @@
 +++
+topics = [ "पार्वती",]
+secondary_sources = [ "शृङ्गार-प्रकाशः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["पार्वती"]
-secondary_sources = ["शृङ्गार-प्रकाशः"]
-ratings = ["vvasuki:5"]
+title = "देवि"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +14,7 @@ ratings = ["vvasuki:5"]
 इत्थं सङ्कुचद्-अम्बुजानुकरण-व्याजोपनीताञ्जलेः  
 शम्भोर् वञ्चित-पार्वतीकम् उचितं सन्ध्यार्चितं पातु वः ॥
 </details>
+
 
 
 <details><summary>Text</summary>

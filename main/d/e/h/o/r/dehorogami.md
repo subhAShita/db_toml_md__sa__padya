@@ -1,9 +1,10 @@
 +++
+topics = [ "अनित्यता", "मोहः",]
+sources = [ "भगवदज्जुकम्",]
+ratings = [ "vvasuki:3",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["अनित्यता", "मोहः"]
-sources = ["भगवदज्जुकम्"]
-ratings = ["vvasuki:3"]
+title = "देहो रोगनिधिर्जरावशगतो"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -24,6 +25,8 @@ ratings = ["vvasuki:3"]
 मत्तो यो बलरूपयौवनगुणैर्देीषान्न तान् पश्यति ॥
 </details>
 
+
+
 <details><summary>English</summary>
 
 The body is indeed the treasure of maladies, slave to the old age, on the brink of death which lies hidden.  
@@ -31,4 +34,3 @@ It is battered continuously like the tree which stands on the river bank about t
 Even though it is earned by great amount of good deeds, mesmerised and  
 intoxicated by strength, looks and youth, one doesn’t realise it’s flaws
 </details>
-

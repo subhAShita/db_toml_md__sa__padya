@@ -1,9 +1,10 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "कीर्तिः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["कीर्तिः"]
-ratings = ["vvasuki:4",]
+title = "चिराज्जातप्ररोहाया"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -22,8 +23,9 @@ ratings = ["vvasuki:4",]
 स कोऽप्यचाटुलब्धायाः कीर्तेरभिनवः क्रमः ॥
 </details>
 
+
+
 <details><summary>राजारामज-शङ्करः (Eng)</summary>
 
 Fame that puts forth its first sprout after a long time but remains eternally unbeaten; fame that is not the result of sucking up to power - such fame belongs to a different league altogether.
 </details>
-
