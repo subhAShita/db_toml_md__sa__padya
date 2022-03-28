@@ -1,0 +1,19 @@
++++
+jsonClass = "Subhaashita"
+title = "न वर्ण्यवस्तु"
+sources = ["राजारामज-शङ्करः - मुक्तकम्"]
+topics = ["कालः", "यशः"]
+ratings = ["vvasuki:5",]
++++
+
+<details><summary>Text</summary>
+
+सञ्जायते कालविशेषयोगात्स्तोकोद्यमस्यापि  यशो जनस्य ।  
+ग्रीष्मे यथा शीकरकृत्प्रशस्यो नासारकृत्प्रावृषि तद्वदभ्रः ॥
+</details>
+
+<details><summary>राजारामज-शङ्करः</summary>
+
+Even though some people put in very little effort, they attain fame because of the context in which they put in that (little) effort. A cloud that drizzles lightly in sweltering summer attains greater praise than that which pours down heavily in monsoon.
+</details>
+
