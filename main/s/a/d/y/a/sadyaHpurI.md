@@ -3,7 +3,9 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 rasas = [ "करुणः",]
 meters = [ "वसन्ततिलका",]
 jsonClass = "Subhaashita"
-title = "सद्यः पुरीपरिसरेऽपि"
+topics = [ "सीता", "रामः", "पतित्वम्", "वनवासः",]
+ratings = [ "vvasuki:5",]
+title = "सद्यः पुरीपरिसरे"
 
 +++
 
