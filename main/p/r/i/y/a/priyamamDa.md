@@ -1,6 +1,6 @@
 +++
 topics = [ "बालविधवा", "विधवा", "बालविवाहः",]
-sources = [ "गणेशोऽवधानी",]
+sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्यागीति",]
 jsonClass = "Subhaashita"

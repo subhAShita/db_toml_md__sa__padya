@@ -1,6 +1,6 @@
 +++
 topics = [ "नृसिंहः",]
-sources = [ "गणेशोऽवधानी",]
+sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"
