@@ -1,7 +1,7 @@
 +++
 jsonClass = "Subhaashita"
 title = "कविः करोति"
-topics = ["नरसिंहः"]
+topics = ["नृसिंहः"]
 ratings = ["vvasuki:3",]
 sources = ["हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 +++
