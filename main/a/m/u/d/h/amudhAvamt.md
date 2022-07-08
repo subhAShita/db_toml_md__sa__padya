@@ -1,9 +1,10 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "कामदेवः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["कामदेवः"]
-ratings = ["vvasuki:5",]
+title = "अनुधावन्तु न"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -25,8 +26,8 @@ ratings = ["vvasuki:5",]
 </details>
 
 
+
 <details><summary>English</summary>
 
 Hail the Lord of love, Rati's beloved. He has fashioned even his bow from flowers so that the bees that form his bowstring do not run behind the flowers that are his arrows (thereby leaving him with a bow that has no string).
 </details>
-

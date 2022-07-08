@@ -1,9 +1,10 @@
 +++
+sources = [ "पॆजत्ताय-रामकृष्णः - मुक्तकम्",]
+topics = [ "प्रणय-कोपः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["पॆजत्ताय-रामकृष्णः - मुक्तकम्"]
-topics = ["प्रणय-कोपः"]
-ratings = ["vvasuki:5",]
+title = "द्वारं नोद्घाटयेयम्"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

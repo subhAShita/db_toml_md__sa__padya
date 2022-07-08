@@ -1,12 +1,13 @@
 +++
+topics = [ "नृसिंहः",]
+ratings = [ "vvasuki:3",]
+sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["नृसिंहः"]
-ratings = ["vvasuki:3",]
-sources = ["हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
+title = "मदीये मानसारण्ये"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मदीये मानसारण्ये  
 हरे विहरताच्चिरम् ।  

@@ -1,12 +1,13 @@
 +++
+sources = [ "प्रतिवादिभयङ्कराण्णः - सप्ततिरत्नमालिका",]
+topics = [ "वेङ्कटनाथः", "दुष्टः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["प्रतिवादिभयङ्कराण्णः - सप्ततिरत्नमालिका"]
-topics = ["वेङ्कटनाथः", "दुष्टः"]
-ratings = ["vvasuki:4",]
+title = "सर्वतन्त्रधूर्वहस्य"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सर्व-तन्त्र-धूर्-वहस्य वेङ्कटेश-धीमतः  
 कुर्वते ऽवमाननां तु केचनाधुनोद्भवाः ।

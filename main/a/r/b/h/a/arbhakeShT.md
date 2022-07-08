@@ -1,9 +1,10 @@
 +++
+sources = [ "हॆब्बललु-राघवेन्द्रः - मुक्तकम्",]
+topics = [ "नरसिंहः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["हॆब्बललु-राघवेन्द्रः - मुक्तकम्"]
-topics = ["नरसिंहः"]
-ratings = ["vvasuki:4",]
+title = "अर्भकेष्टपरिपूर्तये मुदा"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -24,6 +25,8 @@ ratings = ["vvasuki:4",]
 स्तम्भजोऽभवदनादिमान्हरिः ।।
 </details>
 
+
+
 <details><summary>English</summary>
 
 To fulfill the wishes of a child,  
@@ -32,4 +35,3 @@ The lion to mad elephant-husband of the daughter of Jambha (Hiranyakashipu),
 The one without a beginning,  
 Hari (Lord Narasimha), was happily *born* in a pillar,
 </details>
-

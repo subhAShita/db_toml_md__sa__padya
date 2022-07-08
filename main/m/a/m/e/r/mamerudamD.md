@@ -1,12 +1,13 @@
 +++
+sources = [ "वासुकिज-विश्वासः - मुक्तकम्",]
+topics = [ "नृसिंहः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["वासुकिज-विश्वासः - मुक्तकम्"]
-topics = ["नृसिंहः"]
-ratings = ["vvasuki:4",]
+title = "मन्मेरुदण्डं प्रविभज्य"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 मन्-मेरुदण्डं प्रविभज्य तूर्णम्   
 आविर् भवत्व् अद्य नृसिंह-शक्तिः।  

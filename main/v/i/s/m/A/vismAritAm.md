@@ -1,10 +1,11 @@
 +++
-jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["प्रोषितपतिका"]
+topics = [ "प्रोषितपतिका",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
-ratings = ["vvasuki:5",]
+ratings = [ "vvasuki:5",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
+jsonClass = "Subhaashita"
+title = "विस्मारिता मनागिव"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

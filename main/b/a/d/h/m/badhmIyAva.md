@@ -1,9 +1,10 @@
 +++
+sources = [ "सुहासः - मुक्तकम्",]
+topics = [ "शिवौ", "स्नेहः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["सुहासः - मुक्तकम्"]
-topics = ["शिवौ", "स्नेहः"]
-ratings = ["vvasuki:5",]
+title = "बध्नीयाव"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +16,7 @@ ratings = ["vvasuki:5",]
 </details>
 
 
+
 <details><summary>Text</summary>
 
 बध्नीयाव निबध्नतोर्निजनिजान्यङ्गान्यनङ्गद्रुहो  
@@ -22,6 +24,8 @@ ratings = ["vvasuki:5",]
 भुक्तान्यत्र परत्र येन शिवयोर्लीनौ शरीरार्धयो  
 र्मर्मच्छन्दि हृदिन्धि पावकशिखावृन्दानि रुन्धीवहि ॥
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -36,6 +40,5 @@ and by doing this,
 we too shall melt into them  
 (me into Shiva and you into Parvati)  
 and atleast curtail in the next world  
-the fire we endure in this one.  
+the fire we endure in this one.
 </details>
-

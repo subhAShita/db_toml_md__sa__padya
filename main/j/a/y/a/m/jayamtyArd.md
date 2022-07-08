@@ -1,9 +1,10 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "कामः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["कामः"]
-ratings = ["vvasuki:4",]
+title = "जयन्त्यार्द्रीकृतास्तैस्तैः"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +14,8 @@ ratings = ["vvasuki:4",]
 कामस्य पञ्च बाणास् ते  
 जगन्-नाटक-सन्धयः ॥
 </details>
+
+
 
 <details><summary>Text</summary>
 

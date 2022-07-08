@@ -1,12 +1,13 @@
 +++
+topics = [ "कामदेवः",]
+sources = [ "सुधीरः - मुक्तकम्",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["कामदेवः"]
-sources = ["सुधीरः - मुक्तकम्"]
-ratings = ["vvasuki:5",]
+title = "कुर्वन् शिलीमुखान्"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 कुर्वन् शिलीमुखान् मौर्वीं ,  
 पुष्पं चापे शिलीमुखम्।  

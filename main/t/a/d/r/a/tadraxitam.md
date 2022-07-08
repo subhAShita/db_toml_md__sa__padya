@@ -1,9 +1,10 @@
 +++
+sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
+topics = [ "शङ्करः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "न वर्ण्यवस्तु"
-sources = ["राजारामज-शङ्करः - मुक्तकम्"]
-topics = ["शङ्करः"]
-ratings = ["vvasuki:4",]
+title = "तद्रक्षितं रहस्ताव"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +16,7 @@ ratings = ["vvasuki:4",]
 </details>
 
 
+
 <details><summary>Text</summary>
 
 तद्रक्षितं रहस्ताव-  
@@ -24,8 +26,8 @@ ratings = ["vvasuki:4",]
 </details>
 
 
+
 <details><summary>English</summary>
 
 The secret that passed from श्रुति to श्रुति (from one Veda to another/from one ear to another; the secret itself is the secret of Brahman) remained a secret as long as one Shankara, appearing out of the blue, decided to spread it in all the directions.
 </details>
-
