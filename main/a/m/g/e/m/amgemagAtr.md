@@ -7,7 +7,7 @@ topics = [ "न्यायम्", "धर्मः"]
 ratings = ["vvasuki:5"]
 +++
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गेन गात्रं नयनेन वक्त्रं  
 न्यायेन राज्यं लवणेन भोज्यम् । 

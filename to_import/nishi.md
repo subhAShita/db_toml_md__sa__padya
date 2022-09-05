@@ -5,7 +5,7 @@ topics = ["गणेशः"]
 ratings = ["vvasuki:5",]
 +++
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशि विघ्नजितो वो ऽव्यात्  
 ताण्डवोद्दण्डितः करः ।  

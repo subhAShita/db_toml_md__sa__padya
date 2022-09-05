@@ -6,7 +6,7 @@ topics = ["गणेशः"]
 ratings = ["vvasuki:5",]
 +++
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽव्याद् दिव्य-सरिद्-वर्तेर्  
 विवृण्वन् भास्वद्-अर्चिषः ।  
