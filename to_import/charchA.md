@@ -24,14 +24,6 @@ Kūṣmāṇḍa daily nourishes the growing satisfaction of his belly’s corpu
 
 
 
-<details><summary>मूलम्</summary>
-
-चर्चायाः कथम् एष रक्षति सदा सद्यो नृ-मुण्ड-स्रजं  
-चण्डी-केशरिणो वृषं च भुजगान् सूनोर् मयूराद् अपि ।  
-इत्य् अन्तः परिभावयन् भगवतो दीर्घं धियः कौशलं  
-कूष्माण्डो धृति-संभृताम् अनुदिनं पुष्णाति तुन्द-श्रियम् ॥
-</details>
-
 
 <details><summary>Text</summary>
 
