@@ -3,6 +3,7 @@ jsonClass = "Subhaashita"
 title = "कः खे"
 topics = ["लङ्का"]
 ratings = ["vvasuki:3",]
+sources = ["जल्हणः"]
 +++
 
 <details><summary>Text</summary>
