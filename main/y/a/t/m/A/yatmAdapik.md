@@ -7,6 +7,26 @@ title = "यत्नादपि कः"
 
 +++
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्नाद् अपि कः पश्येच्  
+छिखिनाम् आहार-निःसरण-मार्गम् ।  
+यदि जलद-निनद-मुदिताः  
+त एव मूढा न नृत्येयुः? ॥
+</details>
+
+
+
+<details><summary>English</summary>
+
+Look as hard as you want  
+but you can’t see the peacock’s butt.  
+But then the fool dances   
+hearing the clouds  
+and reveals all himself.
+</details>
+
 <details open><summary>Text</summary>
 
 यत्नादपि कः पश्यति शिखिनामाहारनिर्गमस्थानम्।  

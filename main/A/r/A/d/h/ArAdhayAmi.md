@@ -1,11 +1,12 @@
 +++
+topics = [ "मानसपूजा",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "आराधयामि"
-topics = ["मानसपूजा"]
-ratings = ["vvasuki:4",]
+title = "आराधयामि हृदि"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 आराधयामि हृदि केशवात्म-गेहे  
 मायापुरे हृदयपङ्कज-सन्निविष्टं ।  

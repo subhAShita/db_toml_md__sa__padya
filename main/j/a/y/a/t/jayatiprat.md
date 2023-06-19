@@ -1,9 +1,10 @@
 +++
+topics = [ "ब्रह्म", "शिवः", "सृष्टिः",]
+sources = [ "भट्टगोपालः - साहित्यचूडामणिः",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["ब्रह्म", "शिवः", "सृष्टिः"]
-sources = ["भट्टगोपालः - साहित्यचूडामणिः"]
-ratings = ["vvasuki:5",]
+title = "जयति प्रतिभोल्लेखरूपिका"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +14,7 @@ ratings = ["vvasuki:5",]
 चराचर-चरित्रस्य  
 चित्रभित्तिः सरस्वती॥
 </details>
+
 
 
 <details><summary>Text</summary>

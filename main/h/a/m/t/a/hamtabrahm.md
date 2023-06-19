@@ -1,12 +1,13 @@
 +++
+topics = [ "युक्तिः",]
+sources = [ "यामुनः - संवित्सिद्धिः",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "कविः करोति"
-topics = ["युक्तिः"]
-sources = ["यामुनः - संवित्सिद्धिः"]
-ratings = ["vvasuki:4",]
+title = "हन्त ब्रह्मोपदेशोऽयम्"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 हन्त ब्रह्मोपदेशोऽयं  
 श्रद्धधानेषु शोभते।  

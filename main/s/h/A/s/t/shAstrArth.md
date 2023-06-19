@@ -1,9 +1,9 @@
 +++
-topics = [ "तर्कः", "वितण्डा",]
-ratings = [ "vvasuki:5",]
+topics = [ "तर्कः", "वितण्डा", "asdfa",]
+ratings = [ "vvasuki:5", "vvasuki:3",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
-title = "शास्त्रार्थान् तत्त्वतो"
+title = "शास्त्रार्थं तत्त्वतो"
 
 +++
 

@@ -2,6 +2,7 @@
 title = "README"
 +++
 
+परिचयः - [Motivation](https://subhashita.github.io/motivation/) । 
 
 ## अन्तर्भावितग्रन्थावलिः
 - महासुभाषीतसङ्ग्रहः - 1 - MSS_9979

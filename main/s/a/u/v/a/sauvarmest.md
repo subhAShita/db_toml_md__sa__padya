@@ -1,11 +1,12 @@
 +++
+topics = [ "मानसपूजा",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "सौवर्णे"
-topics = ["मानसपूजा"]
-ratings = ["vvasuki:4",]
+title = "सौवर्णे स्थालिवर्ये"
+
 +++
 
-<details><summary>Text</summary>
+<details open><summary>Text</summary>
 
 सौवर्णे स्थालि-वर्ये मणि-गण-खचिते गो-घृताक्तान् सु-पक्वान्  
 भक्ष्यान् भोज्यांश् च लेह्यान् परमम् अथ हविश् चोष्यम् अन्नं निधाय।  
