@@ -22,7 +22,7 @@ ratings = ["vvasuki:5",]
 “रब्दोऽस्मी”ति न मेघ! नश्छलयसे, दृष्टोऽसि रे गम्यताम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Suhas - English</summary>
 
 Each day, the ocean provides  
 a hundred lakes worth of water,  
