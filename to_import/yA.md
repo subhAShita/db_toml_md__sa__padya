@@ -1,7 +1,7 @@
 +++
 jsonClass = "Subhaashita"
 title = "कविः करोति"
-topics = ["गणपतिः"]
+topics = ["गणेशः"]
 sources = ["Copper plate, Srirangam (Epigraphia Indica Vol 14 p. 89)"]
 ratings = ["vvasuki:5",]
 +++
