@@ -1,5 +1,5 @@
 +++
-topics = [ "वाक्पारुषम्",]
+topics = [ "वाक्पारुषम्", "जिह्वा", "वाक्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"

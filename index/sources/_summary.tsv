@@ -1,14 +1,19 @@
-value	file_key	quote_count	quote_keys
+value	quote_count	file_key	quote_keys
+Copper plate, Srirangam	1	Copper_plate_Srirangam	yAdyUtakel
 अच्चान्दीक्षितः	1	achchAndIxitaH	kAmchitkAm
+अथर्वपरिशिष्टम्	1	atharvaparishiShTam	ghmamtidai
 अथर्ववेदः	1	atharvavedaH	mAbhrAtAbh
 अनन्तभट्टः	1	anantabhaTTaH	umIladambu
 अमोघः	3	amoghaH	ahorasikat, hIyatehisa, smRtImAmvi
 अरविन्द-तिवारी	1	aravinda-tivArI	devabhAShA
 अलङ्कारकौस्तुभे	1	alankArakaustubhe	rasesArash
 अश्वघोषः	1	ashvaghoShaH	hasadbhiry
+अश्वघोषः - सौन्दरनन्दम्	2	ashvaghoShaH_-_saundaranandam	ityeShAvyu, prAyemAlok
+आनन्दवर्धनः - ध्वन्यालोकः	1	AnandavardhanaH_-_dhvanyAlokaH	samdhisamd
 आर्यासप्तशती	1	AryAsaptashatI	ativatsalA
 उत्तररामचरितम्	2	uttararAmacharitam	amtaHkaram, priyaprAyA
 उदयनः	1	udayanaH	mAsyashlAg
+उदयनः - लक्षणावली	1	udayanaH_-_laxaNAvalI	pramamyapA
 उद्दण्डशास्त्री	1	uddaNDashAstrI	mAgAHpraty
 उपदेशपञ्चकम्	1	upadeshapanchakam	xudvyAdhis
 ऋग्वेदः	1	RgvedaH	mAtArudrAm
@@ -21,14 +26,23 @@ value	file_key	quote_count	quote_keys
 कात्यायनः	1	kAtyAyanaH	yamAmAtams
 कामसूत्रम्	1	kAmasUtram	mAtyamtams
 कालिदासः	10		
-कालिदासः - अभिज्ञानशाकुन्तलम्	1	kAlidAsaH_-_abhijnAnashAkuntal	asamshayam
+कालिदासः - अभिज्ञानशाकुन्तलम्	2	kAlidAsaH_-_abhijnAnashAkuntalam	asamshayam, prAmAmAmam
+कालिदासः - कुमारसम्भवम्	1	kAlidAsaH_-_kumArasambhavam	dvayamgata
+कालिदासः - मालवीकाग्निमित्रम्	1	kAlidAsaH_-_mAlavIkAgnimitram	purAmamity
+कालिदासः - मेघदूतम्	1	kAlidAsaH_-_meghadUtam	bharturmit
+कालिदासः - रघुवंशम्	1	kAlidAsaH_-_raghuvaMsham	tAmabhyaga
+काव्यकण्ठ-गणपतिः	1	kAvyakaNTha-gaNapatiH	prItimdadA
 काव्यकण्ठ-गणपतिमुनिः	1	kAvyakaNTha-gaNapatimuniH	kulImaHxud
 किरातार्जुनीयम्	1	kirAtArjunIyam	tathApijih
+कुन्तकः - वक्रोक्तिजीवितम्	1	kuntakaH_-_vakroktijIvitam	kaTukauSha
 कुमारीलभट्टः	1	kumArIlabhaTTaH	sUtreShvev
+कुलकरणि-नीलकण्ठः - मुक्तकम्	1	kulakaraNi-nIlakaNThaH_-_muktakam	dharmayajm
 कुलार्णवतन्त्रम्	1	kulArNavatantram	sumukhaHsu
+कुशाग्रः - मुक्तकम्	6		
 कूर्मपुराणम्	4	kUrmapurANam	dharmemAdh, itihAsapurAmAmA, vedamimdAr, yastudevAm
 कूर्मपुराणे	1	kUrmapurANe	pUrvAparAv
 कृपारामत्रिपाठी	1	kRpArAmatripAThI	samapyajAt
+कृष्ण-तातार्यः - परमुखचपेटिका	1	kRShNa-tAtAryaH_-_paramukhachapeTikA	raghuvamsh
 कृष्णः	4	kRShNaH	devadvijag, vyavasAyAt, yadyadAcha, yuktAhArav
 कृष्णः - भगवद्गीता	3	kRShNaH_-_bhagavadgItA	mamepArthA, shreyAmsva, svadharmam
 केनोपनिषत्	1	kenopaniShat	yachaxuShA
@@ -37,9 +51,9 @@ value	file_key	quote_count	quote_keys
 कौटिल्यः	1	kauTilyaH	yathAhyamA
 क्षेमेन्द्रः	3	xemendraH	atrAmtareb, gururgarvA, mAsAthUtkR
 क्षेमेन्द्रः - दर्पदलनम्?	1	xemendraH_-_darpadalanam	amuShThAme
+क्षेमेन्द्रः - सुवृत्ततिलकम्	1	xemendraH_-_suvRttatilakam	tatrakeval
 गङ्गादेवी	1	gangAdevI	jamamImupa
 गणेशभट्टः	1	gaNeshabhaTTaH	roditivarS
-गणेशोऽशोवधानी	7		
 गणोशोऽवधानी	1	gaNosho-vadhAnI	dUyedurmed
 गुण्डः	1	guNDaH	vidyuchChU
 गुण्डप्पः	1	guNDappaH	meyamvirau
@@ -48,22 +62,32 @@ value	file_key	quote_count	quote_keys
 गोवर्धनाचार्य	1	govardhanAchArya	dalitepalA
 चरकः	1	charakaH	bhaktyAmAt
 चरकसंहिता	1	charakasaMhitA	atashchapr
+चरकसंहिता - सिद्धिस्थानम्	1	charakasaMhitA_-_siddhisthAnam	durgRhItam
 चाणक्यः	3	chANakyaH	dravyashau, kaHkAlaHkA, mAtAyasyag
 चाणक्यः - अर्थशास्त्रम्	1	chANakyaH_-_arthashAstram	lAbhavighm
 चाणक्यनीतिः	1	chANakyanItiH	hastIhasta
 छङ्गदेवो भास्करपौत्रः	1	Changadevo_bhAskarapautraH	udbhaTabud
 जगन्नाथः	10		
+जयतीर्थः - न्यायसुधा	1	jayatIrthaH_-_nyAyasudhA	mashabdAbd
 जयदेवः	1	jayadevaH	sAdhvImAdh
+जयन्तभट्टः	1	jayantabhaTTaH	apeyamkimt
+जयमङ्गलः - यशोधरा	1	jayamangalaH_-_yashodharA	yadavijmAt
+जल्हणः	1	jalhaNaH	kaHkhegach
+जागु-वकुल-भूषणः - अद्भुतदूतम्	1	jAgu-vakula-bhUShaNaH_-_adbhutadUtam	shArademdu
 झा-परमानन्दः	1	jhA-paramAnandaH	dUremalayo
+डि-ताताचार्यः - मुक्तकम्	1	Di-tAtAchAryaH_-_muktakam	vedAHsamjA
 डिण्डिमः	1	DiNDimaH	prAjmAmAme
 तन्त्रवार्तिकम्	1	tantravArtikam	sarvavyAkh
 तम्पुरट्टि-मनोरमा	1	tampuraTTi-manoramA	yasyaShaSh
 तिवारि-अरविन्दः	1	tivAri-aravindaH	tamakAryam
+तुङ्गः	1	tungaH	kAlikAmAst
 तॆनालिरामः	1	tEnAlirAmaH	AmdhrabhAS
 तैत्तिरीयप्रातिशाख्यम्	1	taittirIyaprAtishAkhyam	padakramav
+दक्षस्मृतिः	1	daxasmRtiH	sajIvatiya
 दामोदरभट्टः	4	dAmodarabhaTTaH	kurvegarvo, machChatra, shabdavyAk, vedambahvR
 देवीभागवतम्	1	devIbhAgavatam	AchArahIma
 धनञ्जयः	1	dhananjayaH	ramyamjugu
+धनञ्जयः - दशरूपकम्	2	dhananjayaH_-_dasharUpakam	AmamdamiSh, Amamdamisy
 धनुर्वेदः	1	dhanurvedaH	brAhmamAya
 धर्मकीर्तिः	1	dharmakIrtiH	amamgapali
 नारदपुराणम्	1	nAradapurANam	bhaktyAsid
@@ -71,7 +95,7 @@ value	file_key	quote_count	quote_keys
 नारायणो भिषक्	1	nArAyaNo_bhiShak	tamchauram
 नित्यानन्दः	1	nityAnandaH	pATIkuTaka
 निरुक्तम्	1	niruktam	yadadhItam
-नीलकण्ठः - शिवोत्कर्षणमञ्जरी	1	nIlakaNThaH_-_shivotkarShaNama	archAmItid
+नीलकण्ठः - शिवोत्कर्षणमञ्जरी	1	nIlakaNThaH_-_shivotkarShaNamanjarI	archAmItid
 नैषदीयचरितम्	1	naiShadIyacharitam	malemabhAy
 पञ्चतन्त्रम्	2	panchatantram	aprAptakAlamvac, yasyadharm
 पञ्चतन्त्रम् मित्रभेदः	1	panchatantram_mitrabhedaH	ashvaHshas
@@ -80,6 +104,9 @@ value	file_key	quote_count	quote_keys
 पराशरस्मृतिः	1	parAsharasmRtiH	deshabhamg
 पाणिनि	1	pANini	tamvamgImA
 पॆजत्ताय-रामकृष्णः	2	pEjattAya-rAmakRShNaH	dhikuryAHs, mApexeshab
+पॆजत्ताय-रामकृष्णः - मुक्तकम्	1	pEjattAya-rAmakRShNaH_-_muktakam	dvAramodgh
+प्रतिवादिभयङ्कराण्णः - सप्ततिरत्नमालिका	2	prativAdibhayankarANNaH_-_saptatiratnamAlikA	gurauvAdih, sarvatamtr
+प्रतिवादिभयङ्कराण्णङ्गराचार्यः	1	prativAdibhayankarANNangarAchAryaH	amabhyasta
 प्रबंधचिन्तामणि	1	prabaMdhachintAmaNi	yuktiyuktamvach
 बत्रा-नरेशः	1	batrA-nareshaH	dhvamyAlok
 बलराम-शुक्लः - मुक्तकम्	27		
@@ -88,61 +115,85 @@ value	file_key	quote_count	quote_keys
 बृहदारण्योपनिषत्	1	bRhadAraNyopaniShat	kAmamayaev
 बोधायनः	1	bodhAyanaH	padbhyAmsa
 भक्तिरसामृतसिन्धुः	1	bhaktirasAmRtasindhuH	shrutismRtipurA
-भगवद्गीता	28		
+भगवदज्जुकम्	4	bhagavadajjukam	amAgatampr, dehorogami, khapavamas, tvAmpAtula
+भगवद्गीता	30		
+भट्टगोपालः - साहित्यचूडामणिः	1	bhaTTagopAlaH_-_sAhityachUDAmaNiH	jayatiprat
+भट्टनारायणः - वेणीसंहारम्	1	bhaTTanArAyaNaH_-_veNIsaMhAram	chatvArova
 भर्तृहरिः	5		
 भर्तृहरिः - वाक्यपदीयम्	2	bhartRhariH_-_vAkyapadIyam	prajmAvive, vyAghrAdiv
 भर्तृहरिः - शृङ्गारशतकम्	1	bhartRhariH_-_shRngArashatakam	vistAritam
 भल्लटः	1	bhallaTaH	kasyAmimeS
 भवभूतिः	1	bhavabhUtiH	yemAmakech
+भवभूतिः - मुक्तकम्	1	bhavabhUtiH_-_muktakam	sAvaShTamb
 भविष्यपुराणम्	2	bhaviShyapurANam	mavadedyAv, sarvebrahm
 भागवत-पुराणम्	1	bhAgavata-purANam	chatvArims
+भामहः - काव्यालङ्कारः	1	bhAmahaH_-_kAvyAlankAraH	svAdukAvya
 भामिनीविलासः	1	bhAminIvilAsaH	davadahama
+भारविः	1	bhAraviH	amurapyupa
 भीमः	6		
 भोजः	4	bhojaH	durbodhamy, laxmImtamo, mAmdhAtAsamahIp, uchChairga
-भोजप्रबन्धः	1	bhojaprabandhaH	prAyodhama
+भोजः - शृङ्गारप्रकाशः	1	bhojaH_-_shRngAraprakAshaH	pipipriyas
+भोजप्रबन्धः	2	bhojaprabandhaH	ambhodhiHs, prAyodhama
 मङ्खः	1	mankhaH	imdimdirai
 मधुराविजयम्	1	madhurAvijayam	gatadIptig
 मध्वः	1	madhvaH	dAmatIrtha
 मनुः	91		
+मनोरमा - मुक्तकम्	1	manoramA_-_muktakam	yasyaShaSh
 मल्लिनाथः	1	mallinAthaH	ihAmvayamu
 महाकालसंहिता	1	mahAkAlasaMhitA	mashAstramAloky
 महाभारतम्	15		
 महार्थमञ्जरी	1	mahArthamanjarI	yatraruchi
+महेन्द्रवर्मा - मत्त-विलास-प्रहसनम्	2	mahendravarmA_-_matta-vilAsa-prahasanam	bhAShAvesh, peyAsurApr
 महेशभट्टः	2	maheshabhaTTaH	apUparAsha, gopAlamAmA
 माघः	1	mAghaH	Arabhamtel
 मुण्डकोपनिषदि	1	muNDakopaniShadi	dvAsuparmA
+मुरलीधर-सुदर्शनः	1	muralIdhara-sudarshanaH	shashvatkA
+मूर्तिशिवः - वनगृह-शासनम्	2	mUrtishivaH_-_vanagRha-shAsanam	damShTrAsamdhim, surAsurashiraHs
 मेण्ठः	1	meNThaH	tyaktovimdhyagi
 मेरुतन्त्रम्	1	merutantram	yadRchChayAshru
 याज्ञवल्क्यः	2	yAjnavalkyaH	dauhRdasyA, japashchad
 याज्ञवल्क्यस्मृतिः	1	yAjnavalkyasmRtiH	smRtyorvir
+यामुनः - मुक्तकम्	1	yAmunaH_-_muktakam	AshailAdad
+यामुनः - संवित्सिद्धिः	1	yAmunaH_-_saMvitsiddhiH	hamtabrahm
 यायावरः	1	yAyAvaraH	dRshAdagdh
 योग-वासिष्ठम्	4	yoga-vAsiShTham	apipauruSh, bhArovivek, samtoShaHp, yombhastAt
+योगेश्वरः - मुक्तकम्	1	yogeshvaraH_-_muktakam	devIsUmuma
 रङ्गनाथशर्मा	1	ranganAthasharmA	hariharayo
-राघव-पञ्चानन-भट्टाचार्यः	1	rAghava-panchAnana-bhaTTAchAry	paravAkyam
+राघव-पञ्चानन-भट्टाचार्यः	1	rAghava-panchAnana-bhaTTAchAryaH	paravAkyam
 राघवेन्द्रः	3	rAghavendraH	bhaktishra, chorAmatAl, gameshogir
+राघवेन्द्रः - मुक्तकम्	2	rAghavendraH_-_muktakam	mAbhaiShIr, tyAgarAgab
 राघवेन्द्रभट्टः	1	rAghavendrabhaTTaH	vishAmItya
 राजराजेश्वरतीर्थः	1	rAjarAjeshvaratIrthaH	shrImerurh
 राजशेखरः	2	rAjashekharaH	migaditama, muktakekav
-राजारामज-शङ्करः - मुक्तकम्	213		
+राजशेखरः - काव्यमीमांसा	2	rAjashekharaH_-_kAvyamImAMsA	gItasUktir, pumsaHkAlA
+राजारामज-शङ्करः - मुक्तकम्	255		
 रामकृष्णः	3	rAmakRShNaH	AhUtAmAyAs, mishAkAmtA, yatrAmodom
 रामायणम्	5		
-राळ्ळ्पल्लि अनन्तकृष्णशर्मणः	1	rALLpalli_anantakRShNasharmaNa	amirvedama
+राल्लपल्ल्य्-अनन्तकृष्णशर्मा - मुक्तकम्	1	rAllapally-anantakRShNasharmA_-_muktakam	amirvedama
+रुय्यकालङ्कारसर्वस्य जयरथ-तीका	1	ruyyakAlankArasarvasya_jayaratha-tIkA	bhImabhrUk
 रौरवागमः	1	rauravAgamaH	mamImAmsyA
+लक्षणसङ्ग्रहः	1	laxaNasangrahaH	ichChAtUli
 लक्ष्मणः	1	laxmaNaH	sItAmsvaha
 लक्ष्मणः - रामायणम्	1	laxmaNaH_-_rAmAyaNam	dharmAtmAs
+लक्ष्मणः - सूक्तिरत्नकोशः	6		
 लक्ष्मीधरः	2	laxmIdharaH	gatoyamsha, mikaShAyit
 लीलावती	1	lIlAvatI	aShTauvyAk
+लोलिम्बराजः - मुक्तकम्	1	lolimbarAjaH_-_muktakam	kimkAmtAma
 लोल्ललक्ष्मीधरः	1	lollalaxmIdharaH	vayamihapadavid
 वरदभट्टः - गीर्वाणमञ्जरी	1	varadabhaTTaH_-_gIrvANamanjarI	shixAghrAm
 वसिष्ठस्मृतिः	1	vasiShThasmRtiH	AchArahIma
 वाग् आम्भृणी	1	vAg_AmbhRNI	ahamrudrAy
 वाग्भटः	1	vAgbhaTaH	smigdhavRd
 वात्स्यायनः - कामसूत्रम्	2	vAtsyAyanaH_-_kAmasUtram	mashAstram, tasmAdesha
-वामनभट्टबाणः - वेमभूपालचरितम्	1	vAmanabhaTTabANaH_-_vemabhUpAl	bAmAdamyek
+वादीराजतीर्थः - युक्तिमालिका	1	vAdIrAjatIrthaH_-_yuktimAlikA	mavitairum
+वामनभट्टबाणः - वेमभूपालचरितम्	1	vAmanabhaTTabANaH_-_vemabhUpAlacharitam	bAmAdamyek
 वायवीयसंहिता	1	vAyavIyasaMhitA	samxipyach
 वायुपुराणम्	1	vAyupurANam	itihAsapurAmAmA
 वाल्मीकिः	1	vAlmIkiH	chamchachamdrak
+वाल्मीकिः - रामायणम् - अयोध्याकाण्डः	1	vAlmIkiH_-_rAmAyaNam_-_ayodhyAkANDaH	maivAyodhy
 वाल्मीकीयरामायणम्	1	vAlmIkIyarAmAyaNam	yadamtaram
+वासुकिः - मुक्तकम्	2	vAsukiH_-_muktakam	mahAmadIya, sayaxapreS
+वासुकिज-विश्वासः - मुक्तकम्	2	vAsukija-vishvAsaH_-_muktakam	mamerudamD, vicheShTit
 विकटनितम्बा	1	vikaTanitambA	kAlemASham
 विक्रमोर्वशीयम्	1	vikramorvashIyam	parasparav
 विजय-जयानन्दः	1	vijaya-jayAnandaH	jIvamtipIt
@@ -154,6 +205,10 @@ value	file_key	quote_count	quote_keys
 विष्णुपुराणम्	1	viShNupurANam	virodhamot
 विष्णुरहस्यम्	2	viShNurahasyam	smAmopavAs, tadetatriv
 वीणा	1	vINA	pratimisha
+वीणा - मुक्तकम्	1	vINA_-_muktakam	athamixipy
+वीणोदयनपत्नी - मुक्तकम्	1	vINodayanapatnI_-_muktakam	sthAmakast
+वेङ्कटनाथः - रहस्यत्रयसारः	1	venkaTanAthaH_-_rahasyatrayasAraH	kalakamTha
+वेङ्कटनाथः - शतदूषणी	1	venkaTanAthaH_-_shatadUShaNI	idampratha
 वेङ्कटनाथार्यः	2	venkaTanAthAryaH	sadbuddhiH, siddhamsat
 वेङ्कटाध्वरी	1	venkaTAdhvarI	avemavyApA
 वेणीसंहारम्	1	veNIsaMhAram	grahAmAmch
@@ -161,28 +216,43 @@ value	file_key	quote_count	quote_keys
 वेदान्तदेशिकः	5		
 व्यासः	1	vyAsaH	atikrAmtas
 शङ्करः	3	shankaraH	adyApyatya, avijmAtepa, samyagvich
+शङ्करः - निर्वाण-षट्कम्	1	shankaraH_-_nirvANa-ShaTkam	mamobudhya
+शङ्करमिश्रः - कणादरहस्यम्	1	shankaramishraH_-_kaNAdarahasyam	jayatirati
 शतानन्दस्य	1	shatAnandasya	kopastvayA
+शतावधानी गणेशः - मुक्तकम्	10		
 शशिकिरणः	5		
+शशिकिरणः - मुक्तकम्	2	shashikiraNaH_-_muktakam	devAdaityA, prakrIyasm
 शार्ङ्गधरपद्धतिः	1	shArngadharapaddhatiH	shIlAvijAm
 शिवपुराणम्	1	shivapurANam	samxipyach
+शिवादित्यमिश्रः - सप्तपदार्थी	1	shivAdityamishraH_-_saptapadArthI	hetavejaga
+शीला	2	shIlA	dUtitvamta, yaHkaumAra
 शुक्लयजुर्वेदः	1	shuklayajurvedaH	yatrabrahm
+शूद्रकः - मृच्छकटिकम्	1	shUdrakaH_-_mRchChakaTikam	tayoridams
+श्यामलिकः - पादताडितकम्	1	shyAmalikaH_-_pAdatADitakam	maprApmuva
 श्रीधरस्वामी	1	shrIdharasvAmI	sheShAsheS
-श्रीमद्रूपगोस्वामिप्रभुपादैः - भक्तिरसामृतसिन्धौ २.५.१३२-१३३	1	shrImadrUpagosvAmiprabhupAdaiH	vyatItyabh
+श्रीमद्रूपगोस्वामिप्रभुपादैः - भक्तिरसामृतसिन्धौ २.५.१३२-१३३	1	shrImadrUpagosvAmiprabhupAdaiH_-_bhaktirasAmRtasin	vyatItyabh
+श्रीललिता - मुक्तकम्	2	shrIlalitA_-_muktakam	dhyAtAprIt, yasyapAdam
 श्रीहर्षः	1	shrIharShaH	sAhityesuk
+श्रीहर्षः - नैषधीयचरितम्	1	shrIharShaH_-_naiShadhIyacharitam	IrShyayAra
 श्वेताश्वतरोपनिषत्	1	shvetAshvataropaniShat	yasyadevep
 संविदुल्लासः	1	saMvidullAsaH	prAmAmikIv
 सतीशः	2	satIshaH	AtmAmamkav, jIvamlikhA
 सिल्हणस्य	1	silhaNasya	yadvaktram
 सुदीप्तः	3	sudIptaH	agadArkama, vidvAmvasa, vyomAvadhi
 सुधीरः	2	sudhIraH	alpasatvop, mirgumamsa
+सुधीरः - मुक्तकम्	6		
 सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका	12		
 सुरेश्वरः	1	sureshvaraH	makhyAtilA
 सुश्रुतः	2	sushrutaH	ekamshAstr, prasamgAdg
 सुश्रुतसंहिता	1	sushrutasaMhitA	ekamshAstr
 सुहासः	12		
+सुहासः - मुक्तकम्	8		
 सौन्दर्यलहरी	1	saundaryalaharI	amkolamija
 स्कन्दपुराणम्	3	skandapurANam	jarArogAbh, yamadRShTa, yovedochat
 स्थानेश्वरः	1	sthAneshvaraH	miguhyAmal
 स्वप्नवासवदत्तः	1	svapnavAsavadattaH	kAtarAyepy
-हितोपदेशः	3	hitopadeshaH	AdAmasyapr, aurasamkRt, yamavebhAj
-हॆब्बललु-राघवेन्द्रः	6		
+हितोपदेशः	4	hitopadeshaH	AdAmasyapr, atathyAmya, aurasamkRt, yamavebhAj
+हॆब्बललु-राघवेन्द्रः - मुक्तकम्	12		
+हॆब्बळलु-राघवेन्द्रः - मुक्तकम्	1	hEbbaLalu-rAghavendraH_-_muktakam	madIyemAma
+हेब्बललु-राघवेन्द्रः - मुक्तकम्	1	hebbalalu-rAghavendraH_-_muktakam	yadbhaktih
+हेब्बळलु-राघवेन्द्रः - मुक्तकम्	1	hebbaLalu-rAghavendraH_-_muktakam	svAjmAyAmv

@@ -1,10 +1,10 @@
 +++
-topics = [ "बहुशास्त्रविद्", "पण्डितः", "भास्करः",]
+topics = [ "बहुशास्त्रविद्", "पण्डितः", "भास्करः", "भास्कराचर्यः",]
 sources = [ "छङ्गदेवो भास्करपौत्रः",]
-ratings = [ "vvasuki:5",]
+ratings = [ "vvasuki:5", "vvasuki:4",]
 meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
-title = "उद्भटबुद्धिर् भाट्टे"
+title = "उद्भटबुद्धिर् भाट्टे,"
 
 +++
 

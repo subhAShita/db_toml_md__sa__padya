@@ -1,5 +1,9 @@
-value	file_key	quote_count	quote_keys
+value	quote_count	file_key	quote_keys
+	1		muktAmayam
 +चन्द्रोदयवर्णनम्	1	chandrodayavarNanam	upoDharAge
+Middle management	1	Middle_management	vArAmpuShk
+asdfa	1	asdfa	shAstrArth
+wabi	1	wabi	ramyAmivIx
 अकबरः	4	akabaraH	gAjIjalAlu, hastAmbhoj, karmATamde, vIratvamkA
 अकारः	1	akAraH	axarAmAmakArosm
 अकौशलम्	1	akaushalam	samsArayat
@@ -16,11 +20,12 @@ value	file_key	quote_count	quote_keys
 अदीनता	3	adInatA	ajarAmarav, amAyAsemamarama, ekohamasah
 अदैन्यम्	2	adainyam	arjumasyapratij, yadvaktram
 अद्भुतम्	1	adbhutam	yadyadvibh
-अद्वैतम्	1	advaitam	dvaitambam
+अद्वैतम्	2	advaitam	dvaitambam, idampratha
 अधरः	18		
 अधर्मः	5		
 अधर्मफलम्	1	adharmaphalam	yadimAtmam
 अधिकारः	3	adhikAraH	adhikArAbh, karmabhATa, yadaivarAj
+अधृतिः	1	adhRtiH	maivAyodhy
 अध्ययनम	1	adhyayanama	arthAturAmAmagu
 अध्ययनम्	5		
 अनङ्गभीमः	1	anangabhImaH	pRthvIshrI
@@ -29,7 +34,7 @@ value	file_key	quote_count	quote_keys
 अनारम्भः	2	anArambhaH	amArambhoh, doShabhIte
 अनालस्यम्	1	anAlasyam	amirvedama
 अनाश्रमी	1	anAshramI	chatvArims
-अनित्यता	45		
+अनित्यता	46		
 अनिर्वेदः	2	anirvedaH	amirvedama, amirvedamc
 अनुकम्पा	2	anukampA	laxmIvamto, mAtRvatparadArA
 अनुपजीवी	1	anupajIvI	apathyamAy
@@ -48,6 +53,7 @@ value	file_key	quote_count	quote_keys
 अपाय-दर्शनम्	1	apAya-darshanam	ardhArdhAd
 अपायः	2	apAyaH	magamasyAg, samapyajAt
 अपूर्वकथा	1	apUrvakathA	Adityasyod
+अपौरुषेयत्वम्	2	apauruSheyatvam	kartAyaeva, mImAmsakAy
 अप्पय्यः	1	appayyaH	sphuratkuv
 अप्रमाणिकता	1	apramANikatA	yamvadamti
 अप्रयुक्तज्ञानम्	1	aprayuktajnAnam	yathAkhara
@@ -56,10 +62,11 @@ value	file_key	quote_count	quote_keys
 अप्रामाणिक-प्रशंसा	1	aprAmANika-prashaMsA	palAshakus
 अबोधनम्	1	abodhanam	ahimRpamch
 अभक्ष्य-प्रायश्चित्तम्	1	abhaxya-prAyashchittam	bhuktvAtom
-अभाव-वैराग्यम्	3	abhAva-vairAgyam	ashaktaHsa, ashaktasta, ashaktastu
+अभाव-वैराग्यम्	6		
 अभिनयः	1	abhinayaH	dUrAdutsuk
 अभिनिम्रुक्तः	1	abhinimruktaH	kuchelimam
 अभिवादनम्	1	abhivAdanam	avidvAmsaH
+अभिषेकः	1	abhiShekaH	alamkArapr
 अभिसारिका	19		
 अभिसारिकासञ्चारः	23		
 अभ्यासः	2	abhyAsaH	sahasragum, satyAmusAr
@@ -69,6 +76,8 @@ value	file_key	quote_count	quote_keys
 अमौनम्	1	amaunam	gRmamtumum
 अयाचकता	1	ayAchakatA	yadvaktram
 अयोग्य-नियोगः	1	ayogya-niyogaH	AbaddhakRtrimas
+अयोध्या	1	ayodhyA	mahAmadIya
+अरसिकः	1	arasikaH	itarakarma
 अरिपलायनम्	47		
 अर्चकः	2	archakaH	archakasyaprabh, devatAxetr
 अर्जुनः	2	arjunaH	arjumasyapratij, vRShmImAmv
@@ -80,7 +89,7 @@ value	file_key	quote_count	quote_keys
 अर्थवादः	1	arthavAdaH	vyAghrAdiv
 अर्थावगतिः	1	arthAvagatiH	yadadhItam
 अर्धनारीश्वरः	5		
-अलङ्कारः	3	alankAraH	arthAlamkA, kimvAsasAt, sumamovara
+अलङ्कारः	4	alankAraH	alamkArapr, arthAlamkA, kimvAsasAt, sumamovara
 अलोभः	5		
 अल्प-शत्रुः	1	alpa-shatruH	simhamakra
 अल्पज्ञः	3	alpajnaH	itihAsapurAmAbh, tatsarvamy, yatravidva
@@ -101,10 +110,12 @@ value	file_key	quote_count	quote_keys
 अश्रूणि	1	ashrUNi	ashruchCha
 अश्वः	9		
 अश्वत्थः	1	ashvatthaH	ashvatthaH
+असत्यम्	1	asatyam	satyamsuSh
+असहृदयः	1	asahRdayaH	itarakarma
 असारग्राहिता	5		
 असूया	1	asUyA	dahyamAmAH
 अस्थाने मानम्	1	asthAne_mAnam	yatravidva
-अहङ्कारः	2	ahankAraH	amirvedama, taramgasta
+अहङ्कारः	3	ahankAraH	amirvedama, satyamsuSh, taramgasta
 अहिंसा	1	ahiMsA	adrohemaiv
 अहि‌ंसा	1	ahiMsA	pamchasUmA
 आकर्षकता	1	AkarShakatA	xamayAdaya
@@ -120,37 +131,39 @@ value	file_key	quote_count	quote_keys
 आटोपः	1	ATopaH	sharadimav
 आतिथ्यम्	4	Atithyam	AgachCheti, abhivAdayedvRdd, shvashurag, suvAsimIHk
 आत्म-ज्ञानम्	1	Atma-jnAnam	mItijmAmiy
+आत्म-नियन्त्रणम्	1	Atma-niyantraNam	mobhAvAmiy
 आत्म-स्तुतिः	1	Atma-stutiH	stotAraHke
 आत्मज्ञानम्	4	AtmajnAnam	bhArovivek, chatvAromb, mItijmAmiy, mahijmAmem
 आत्मरक्षा	1	AtmaraxA	AtmAmamham
 आत्मसाक्षी	1	AtmasAxI	dhamasyaya
 आत्मस्तुतिः	1	AtmastutiH	dAmetapasi
-आत्मा	4	AtmA	AtmAmamara, dvAsuparmA, maimamChim, masvargomA
+आत्मा	5		
 आत्मावलोकनम्	1	AtmAvalokanam	viShamAmhi
 आदरः	2	AdaraH	aprakaTIkR, bahvetatkA
 आदि-प्रणयः	1	Adi-praNayaH	yadbhagmam
 आधुनिकविद्यालयः	1	AdhunikavidyAlayaH	vidyAlayas
+आधुनिकशिक्षा	1	AdhunikashixA	vedAHsamjA
 आध्यात्मम्	1	AdhyAtmam	sargAmAmAd
-आनन्दः	2	AnandaH	palAmDupat, phUtkArais
+आनन्दः	6		
 आन्ध्रभाषा	1	AndhrabhAShA	AmdhrabhAS
 आपत्	12		
 आपद्धर्मः	1	ApaddharmaH	deshabhamg
 आपद्धर्मो होमे	1	Apaddharmo_home	sAyamprAta
 आप्तवचनम्	1	Aptavachanam	purAmamity
 आयति	1	Ayati	prAkpAdayo
-आयुः	1	AyuH	AyuShaHxamaekopisarv_1
+आयुः	2	AyuH	AyuShaHxamaekopisarv_1, brahmAmDab
 आरोग्यम्	5		
 आर्जवम्	4	Arjavam	devadvijag, jmAmamtatv, sarvatIrth, yamovaivas
 आर्यमा	1	AryamA	amamtashch
 आलस्यम्	1	Alasyam	Alasyamhim
 आलिङ्गनम्	11		
-आशा	5		
+आशा	6		
 आश्रमः	14		
 आश्रमाः	1	AshramAH	yasmAtrayo
 आहारः	2	AhAraH	dIpobhaxay, yuktAhArav
 इङ्गितम्	1	ingitam	akAramemai
 इच्छापूर्तिः	1	ichChApUrtiH	rerechAtak
-इतिहासः	3	itihAsaH	dharmArthakAmamoxAmA_1, itihAsapurAmajm, sarvastara
+इतिहासः	4	itihAsaH	dharmArthakAmamoxAmA_1, itihAsapurAmajm, kurvamtukI, sarvastara
 इन्द्रियजयः	1	indriyajayaH	kolAbhogum
 इन्द्रियनिग्रहः	1	indriyanigrahaH	migRhItemd
 इन्द्रियाणि	1	indriyANi	vedAmAmsAm
@@ -165,6 +178,7 @@ value	file_key	quote_count	quote_keys
 उज्जयिनी	1	ujjayinI	prApyAvamt
 उत्का	7		
 उत्कोचः	1	utkochaH	draShTavyo
+उत्तमजनः	1	uttamajanaH	yatrAmulik
 उत्तरम्	2	uttaram	AdarAdamuy, mApRShTaHk
 उत्साहः	5		
 उदरपूरणम्	1	udarapUraNam	asyadagdho
@@ -184,10 +198,12 @@ value	file_key	quote_count	quote_keys
 उपवासः	1	upavAsaH	mityAmadAt
 उपांशुजपः	2	upAMshujapaH	japashchad, shamairuch
 उपाधिः	1	upAdhiH	jmAmemamda
+उमा	1	umA	rudrovRxau
 उर्वरता	1	urvaratA	reregrAmak
 उल्लासः	1	ullAsaH	umIlametra
 ऊरू	11		
 ऋजुता	3	RjutA	amityAmish, chApaHsvab, prAyaHsara
+ऋणम्	1	RNam	pitAchaRma
 ऋतम्	1	Rtam	astodayAdrimami
 ऋतवः	1	RtavaH	roditivarS
 ऋषिः	2	RShiH	chirAbhipa, prAmAmAmam
@@ -241,7 +257,7 @@ value	file_key	quote_count	quote_keys
 कल्पना	2	kalpanA	amkamkepis, mRgatRShmA
 कल्याणदासः	1	kalyANadAsaH	kIrtisvarg
 कवयित्री	1	kavayitrI	shIlAvijAm
-कविः	111		
+कविः	113		
 कविता	3	kavitA	kimtayAdam, midrAmvidU, rasajmaras
 कवित्वम्	12		
 कविवृन्दम्	9		
@@ -252,9 +268,10 @@ value	file_key	quote_count	quote_keys
 कान्तिः	2	kAntiH	avayaveShuparas, sumdarIsAb
 काबिलेन्द्रः	2	kAbilendraH	velAmulamg, visphAryav
 काम-दहनम्	2	kAma-dahanam	axmorbAmac, krodhampra
+काम-प्रतिबन्धः	1	kAma-pratibandhaH	IrShyayAra
 काम-वैफल्यम्	1	kAma-vaiphalyam	amurAgavat
-कामः	69		
-कामदेवः	23		
+कामः	70		
+कामदेवः	25		
 कामधेनुः	1	kAmadhenuH	AyudhAmAma
 कामप्रधानः	1	kAmapradhAnaH	mamadyomad
 कामुकी	1	kAmukI	durdimamis
@@ -271,25 +288,27 @@ value	file_key	quote_count	quote_keys
 कार्यम्	2	kAryam	amArambhoh, doShabhIte
 कार्यशेषः	1	kAryasheShaH	AyatyAmgumadoSh
 काल-यापनम्	1	kAla-yApanam	kAvyashAst
-कालः	42		
+कालः	44		
 कालहरणम्	1	kAlaharaNam	kolAbhogum
 कालिदासः	11		
 काली	2	kAlI	bhujaviTap, yatrAmekek
 काव्य-चोरः	1	kAvya-choraH	paravAkyam
-काव्य-प्रयोजनम्	2	kAvya-prayojanam	AmamdamiHs, AtmamaHpar
-काव्यम्	58		
+काव्य-प्रयोजनम्	9		
+काव्यप्रयोजनम्	1	kAvyaprayojanam	Amamdamisy
+काव्यम्	61		
 कितवाः	1	kitavAH	abhimukham
 किर्ति-प्रचारः	1	kirti-prachAraH	ayidaladar
-कीर्तिः	96		
+कीर्तिः	98		
 कीर्तिप्रतापौ	9		
 कु+आतिथ्यम्	1	kuAtithyam	atumambata
-कुकविः	59		
+कुकविः	61		
 कुकार्यम्	1	kukAryam	tamakAryam
 कुकालः	1	kukAlaH	atikrAmtas
 कुक्कुटः	2	kukkuTaH	myamchacha, paxAvutxip
 कुख्यातिः	1	kukhyAtiH	ghaTambhim
 कुटुम्बकलहः	1	kuTumbakalahaH	atumvAmChativAh
-कुपण्डितः	94		
+कुनिन्दा	1	kunindA	kalakamTha
+कुपण्डितः	95		
 कुपत्निः	1	kupatniH	amAdebhrUmahAmA
 कुपत्नी	2	kupatnI	madyapAsAd, pumAmsamAk
 कुपत्‍नी	1	kupatnI	prativAdim
@@ -300,6 +319,7 @@ value	file_key	quote_count	quote_keys
 कुभार्या	1	kubhAryA	mAtAyasyag
 कुमन्त्रणम्	1	kumantraNam	apathyamAy
 कुमारः	1	kumAraH	akUrchAram
+कुमारवरदः	1	kumAravaradaH	amabhyasta
 कुमित्रम्	1	kumitram	paroxekAry
 कुम्भीधान्यः	1	kumbhIdhAnyaH	kusUladhAm
 कुयजमानः	1	kuyajamAnaH	paurohitya
@@ -322,7 +342,7 @@ value	file_key	quote_count	quote_keys
 कृतिचौर्यम्	1	kRtichauryam	parasUktAp
 कृतिमान्	1	kRtimAn	likhamtuka
 कृपणः	66		
-कृष्णः	54		
+कृष्णः	60		
 कृष्णता	1	kRShNatA	mIlotpalad
 कृष्णदेवरायः	1	kRShNadevarAyaH	vIrAgresar
 कृष्णलीला	1	kRShNalIlA	ratmasthal
@@ -336,7 +356,7 @@ value	file_key	quote_count	quote_keys
 कौशलम्	3	kaushalam	amirvedamc, buddhiyukt, utsAhasamp
 क्रिकेट्	1	krikeT	AmglabhASh
 क्रिया	1	kriyA	paxadvamdv
-क्रियाशीलता	8		
+क्रियाशीलता	9		
 क्रीडा	1	krIDA	ahorasikat
 क्रोधः	8		
 क्षत्रियः	1	xatriyaH	xatriyamch
@@ -353,7 +373,7 @@ value	file_key	quote_count	quote_keys
 खल-नाशः	1	khala-nAshaH	yasyakopot
 खल-प्रतिक्रिया	1	khala-pratikriyA	khalAmAmka
 खल-सान्त्वनम्	1	khala-sAntvanam	apUrvaHkop
-खलः	32		
+खलः	33		
 खलसख्यम्	1	khalasakhyam	paurohitya
 खलाः	1	khalAH	satsamgAtb
 गङ्गा	4	gangA	ambAkupyatitAta, atumvAmChativAh, pavamaHpav, vibhUShitA
@@ -361,7 +381,7 @@ value	file_key	quote_count	quote_keys
 गजप्रशंसा	4	gajaprashaMsA	etadgamdha, mItAkumbha, simdUradyu, svIyodAmap
 गणपति-स्तुतिः	1	gaNapati-stutiH	agajAmamap
 गणपतिः	1	gaNapatiH	agajAmamap
-गणेशः	43		
+गणेशः	49		
 गणेश्वरः	1	gaNeshvaraH	gameshvara
 गतानुगतिकता	2	gatAnugatikatA	sumukhaHsu, suvijmashc
 गते शोकः	2	gate_shokaH	gateshokom, kRtasyakar
@@ -370,7 +390,7 @@ value	file_key	quote_count	quote_keys
 गर्भः	1	garbhaH	sphItoyamj
 गर्भवासः	6		
 गर्भिणी	1	garbhiNI	dauhRdasyA
-गर्वः	3	garvaH	prAptamayA, vAkyArthas, yadAkimchi
+गर्वः	4	garvaH	brahmAmDab, prAptamayA, vAkyArthas, yadAkimchi
 गवाक्षविलोकनम्	12		
 गायत्री	2	gAyatrI	agmihotramukhAv, bRhatsAmat
 गार्हस्थ्यम्	2	gArhasthyam	vRxamUlepidayit, yatratuShy
@@ -382,17 +402,21 @@ value	file_key	quote_count	quote_keys
 गुणाः	10		
 गुणाढ्यः	3	guNADhyaH	atidIrghaj, samudIpita, shashvadbA
 गुणोद्भवः	1	guNodbhavaH	kausheyamk
-गुरुः	20		
+गुण्डप्पः	1	guNDappaH	shashvatkA
+गुरु-नुतिः	1	guru-nutiH	mashabdAbd
+गुरुः	21		
 गुरुभक्तिः	1	gurubhaktiH	agatitvama
 गुर्जराधीशः	1	gurjarAdhIshaH	kAlimdibrU
 गुल्फौ	1	gulphau	arumdhatIk
 गृहस्थः	8		
 गृहस्थाश्रमः	1	gRhasthAshramaH	chatvArims
 गोदा	1	godA	ArdrAparAd
+गोम्मटेश्वरः	1	gommaTeshvaraH	rohadvalIg
 गोविन्दराजः	1	govindarAjaH	imduprabhA
 गोसौन्दर्यम्	1	gosaundaryam	lalATodaya
 गोहत्या	1	gohatyA	stamachamd
 गौः	4	gauH	goShuprama, gobhirvipr, mAtArudrAm, mamAturmAm
+गौडः	1	gauDaH	gauDAdyAHs
 गौरखरकृकलासौ	1	gaurakharakRkalAsau	grIShmAdit
 गौरवम्	2	gauravam	jyeShThatv, shishutvam
 गौरी	1	gaurI	axmorbAmac
@@ -418,16 +442,18 @@ value	file_key	quote_count	quote_keys
 चन्द्रगुप्तः	1	chandraguptaH	vArAhImAtm
 चन्द्रास्तः	14		
 चन्द्रोदयवर्णनम्	121		
-चमत्कारः	2	chamatkAraH	rasesArash, vyatItyabh
+चमत्कारः	3	chamatkAraH	rasesArash, vyatItyabh, yatrayatraparis
 चम्पकपुष्पम्	1	champakapuShpam	imdimdirai
 चरणौ	14		
 चरित्रम्	2	charitram	dravatvAts, yathAhimal
+चर्चिका	3	charchikA	damShTrAsamdhim, kAlikAmAst, surAsurashiraHs
 चाञ्चल्यम्	1	chAnchalyam	mamomadhukarome
 चाटु	8		
 चाटुवचनम्	79		
 चातकः	1	chAtakaH	dambholisp
 चातुर्यम्	2	chAturyam	sushIlomAt, yArAkAshas
 चामरम्	1	chAmaram	chAmaramsh
+चामुण्डा	5		
 चारः	2	chAraH	bhavetsvap, gAvaHpashy
 चारित्र्यम्	1	chAritryam	gAyatrImAt
 चार्वाकाः	10		
@@ -445,7 +471,7 @@ value	file_key	quote_count	quote_keys
 छत्रम्	1	Chatram	varShAmila
 छात्रः	1	ChAtraH	agatitvama
 छिन्नमस्ता	1	ChinnamastA	umIlametra
-जगत्	2	jagat	athavAbahu, shivochChi
+जगत्	3	jagat	athavAbahu, mamastrail, shivochChi
 जगत्-सृष्टिः	1	jagat-sRShTiH	yAtAlocham
 जगदम्बा	1	jagadambA	samapyajAt
 जगदानन्दः	1	jagadAnandaH	giraukalAp
@@ -457,11 +483,11 @@ value	file_key	quote_count	quote_keys
 जनकः	1	janakaH	jyAghAtaHk
 जनप्रियता	1	janapriyatA	xamayAdaya
 जन्म	6		
-जपः	9		
+जपः	10		
 जपयज्ञः	1	japayajnaH	maharShImA
 जयः	2	jayaH	damDodamay, kRtamedaxi
 जयदेवः	1	jayadevaH	sAdhvImAdh
-जरा	9		
+जरा	10		
 जल-दानम्	1	jala-dAnam	vAridastRp
 जलकेलिः	58		
 जलधारया विद्युज्जननम्	1	jaladhArayA_vidyujjananam	ihasarabha
@@ -474,12 +500,16 @@ value	file_key	quote_count	quote_keys
 जामिता	1	jAmitA	midrApriyo
 जारता	14		
 जिज्ञासा	2	jijnAsA	shiShyAshr, yastusamch
+जिह्वा	2	jihvA	damtAvadam, dvAtrimsha
 जिह्वा-लौल्यम्	1	jihvA-laulyam	ramkasyamRpater
+जीवः	1	jIvaH	khapavamas
 जीवकाव्यम्	1	jIvakAvyam	kUTAlamkAr
+जीवन-काव्यम्	1	jIvana-kAvyam	kAmArthayorvyav
 जीवन-यात्रा	2	jIvana-yAtrA	prativAdim, tAvadvidyA
 जीवनम्	5		
 जीवनरङ्गम्	1	jIvanarangam	xamambAlob
 जीवनस्य काव्यत्वम्	1	jIvanasya_kAvyatvam	apArekAvya
+जीवन्मुक्तिः	1	jIvanmuktiH	kAmArthayorvyav
 जीविका	3	jIvikA	mashyativi, parasyapID, ramkasyamR
 जीवितम्	1	jIvitam	atikruddha
 जृम्भा	2	jRmbhA	AsyemdoHpa, chakrIkRta
@@ -505,10 +535,11 @@ value	file_key	quote_count	quote_keys
 तमालं प्रत्युक्तिः	1	tamAlaM_pratyuktiH	dhamyastva
 तरक्षुः	1	taraxuH	lAmgUlemAb
 तर्कः	8		
+तर्कदोषः	1	tarkadoShaH	shatambudh
 तर्कशास्त्रम्	1	tarkashAstram	mohamrumad
 ताटस्थ्यम्	2	tATasthyam	apashyamiv, rAgadveSha
 ताडनम्	1	tADanam	parasyadam
-ताण्डवम्	3	tANDavam	bhobhodikp, chyutashch, mirvRtyaiv
+ताण्डवम्	4	tANDavam	bhAShAvesh, bhobhodikp, chyutashch, mirvRtyaiv
 तापः	1	tApaH	duHsahasam
 तामसिकत्यागः	1	tAmasikatyAgaH	shrutismRtImama
 ताम्बूलम्	3	tAmbUlam	pamArdhakr, rAtrausupt, tAmbUlamuk
@@ -542,15 +573,15 @@ value	file_key	quote_count	quote_keys
 दण्डी	2	daNDI	jAtejagati, trayogmaya
 दत्तात्रेयः	1	dattAtreyaH	yasyabukit
 दन्ताः	4	dantAH	chamdrAdhi, dvidhAvidh, rAjaudvijA, yAvadyAvat
-दमः	10		
-दम्भः	31		
+दमः	13		
+दम्भः	34		
 दया	1	dayA	jmAmamtatv
 दरिद्रः	88		
 दर्प-निग्रहः	1	darpa-nigrahaH	bhogerogab
 दर्पः	1	darpaH	ajmaHsukha
 दलपतिरायः	1	dalapatirAyaH	chamdramch
 दशरथः	2	dasharathaH	chirAdaxmo, yasyodyadbujada
-दशावताराः	212		
+दशावताराः	211		
 दस्युः	1	dasyuH	rAvamasyap
 दाता	44		
 दानफलम्	1	dAnaphalam	sahasrasha
@@ -558,10 +589,10 @@ value	file_key	quote_count	quote_keys
 दाम्पत्य-कलहः	4	dAmpatya-kalahaH	dArapIDAma, mirudyogat, patmIdvaya, shamkegaur
 दाम्पत्यम्	12		
 दाम्भिकः	1	dAmbhikaH	lokebhrAma
-दारिद्र्यम्	15		
+दारिद्र्यम्	16		
 दासः	1	dAsaH	AchAryobrahmalokaish_1
 दास्यम्	1	dAsyam	asyadagdho
-दिगम्बरः	1	digambaraH	duHsahatAp
+दिगम्बरः	2	digambaraH	duHsahatAp, yadgumairghaTit
 दिल्ली	1	dillI	bAlopichor
 दिल्लीन्द्रचूडामणिः	1	dillIndrachUDAmaNiH	rAjetixama
 दीक्षागुरुः	1	dIxAguruH	paxadvamdv
@@ -572,16 +603,17 @@ value	file_key	quote_count	quote_keys
 दुरभिमानः	1	durabhimAnaH	yombhastAt
 दुरहङ्कारः	1	durahankAraH	tatsarvamy
 दुर्गः	6		
-दुर्गा	7		
+दुर्गा	20		
+दुर्गा-सिंहः	1	durgA-siMhaH	samrambhaH
 दुर्गुणाः	2	durguNAH	gururgarvA, xAmtishche
 दुर्जन-स्नेहः	1	durjana-snehaH	mabhavatib
-दुर्जनः	283		
+दुर्जनः	284		
 दुर्जनाः	1	durjanAH	ekesatpuru
 दुर्जीवनम्	4	durjIvanam	mAbhyastAp, madhyAtamp, momeghAyit, shaishaved
 दुर्दानम्	1	durdAnam	pItodakAja
 दुर्नगरम्	1	durnagaram	viprAsmima
 दुष्कर्म	1	duShkarma	kalahAmtAm
-दुष्टः	1	duShTaH	dUrjamaHpa
+दुष्टः	3	duShTaH	dUrjamaHpa, gurauvAdih, sarvatamtr
 दुष्टता	1	duShTatA	yathAhambh
 दूतः	5		
 दूतीं प्रति नायिकाप्रश्नाः	3	dUtIM_prati_nAyikAprashnAH	alamalamag, kathayamip, ulApayamty
@@ -589,9 +621,10 @@ value	file_key	quote_count	quote_keys
 दूत्युपहासप्रश्नः	12		
 दूरता	1	dUratA	atyAsamAvimAshA
 दूरवाणीक्रीडा	1	dUravANIkrIDA	ahorasikat
+दूरस्थ-मित्रम्	1	dUrastha-mitram	smehasyatA
 दृङ्मीलनक्रीडा	2	dR~NmIlanakrIDA	maitasyAHp, mapAmiprac
 दृढ-साहाय्यम्	1	dRDha-sAhAyyam	ekodevakes
-देवः	3	devaH	adyaivasha, goShuprama, mamImAmsyA
+देवः	4	devaH	adyaivasha, goShuprama, mamImAmsyA, sthAmakast
 देवताः	1	devatAH	gameshogir
 देवतात्वम्	1	devatAtvam	hariharayo
 देवभक्तिः	1	devabhaktiH	agredIrgha
@@ -599,10 +632,12 @@ value	file_key	quote_count	quote_keys
 देवर्षिः	1	devarShiH	prAmAmAmam
 देवसाहाय्यम्	1	devasAhAyyam	madevAdamD
 देवाः	2	devAH	kamalekama, mamyematku
+देवापचारः	1	devApachAraH	shirasivit
 देवालयः	2	devAlayaH	archakasyaprabh, devatAxetr
 देश-भक्तिः	1	desha-bhaktiH	yasyAstisa
-देशः	1	deshaH	mUrkhAyatr
+देशः	2	deshaH	gauDAdyAHs, mUrkhAyatr
 देशभक्तिः	1	deshabhaktiH	satyemabra
+देशभाषा	1	deshabhAShA	gauDAdyAHs
 दैन्यम्	1	dainyam	amabhUtAhi
 दैवम्	3	daivam	lAbhavighm, patatikadA, viShamAmhi
 दोलाकेलिः	5		
@@ -636,7 +671,8 @@ value	file_key	quote_count	quote_keys
 धर्म-कर्तव्यता	1	dharma-kartavyatA	arthAHpAda
 धर्म-तारतम्यम्	3	dharma-tAratamyam	dharmalesh, evamevamamuShye, karshitArt
 धर्म-प्रभावः	1	dharma-prabhAvaH	dharmAtmAs
-धर्मः	51		
+धर्म-सङ्कटम्	1	dharma-sankaTam	kAmArthayo
+धर्मः	52		
 धर्मयुद्धम्	1	dharmayuddham	svadharmam
 धर्माध्यक्षः	1	dharmAdhyaxaH	kulashIlag
 धीरः	14		
@@ -646,7 +682,7 @@ value	file_key	quote_count	quote_keys
 धृतिः	9		
 धेनुः	1	dhenuH	AhatyAhaty
 धैर्यम्	10		
-ध्यानम्	3	dhyAnam	amarthitar, japashchad, yathAsumva
+ध्यानम्	4	dhyAnam	amarthitar, japashchad, sthAmakast, yathAsumva
 ध्येय-सीमा	1	dhyeya-sImA	akRtvApara
 ध्येयम्	1	dhyeyam	sthAmesham
 नक्षत्राणि	1	naxatrANi	pratimisha
@@ -654,13 +690,16 @@ value	file_key	quote_count	quote_keys
 नखः	2	nakhaH	ArtamAdama, amamtachar
 नखाः	3	nakhAH	tadvaktram, tasyAHpAda, tatpAdamak
 नटनम्	1	naTanam	vikramemav
-नटराजः	1	naTarAjaH	samahAmaTo
+नटराजः	2	naTarAjaH	jIyAchalam, samahAmaTo
 नमस्कारः	1	namaskAraH	prAyaHprap
 नयः	3	nayaH	avamAmAram, virodhamot, yadAtvamchamdro
-नरसिंहः	3	narasiMhaH	kimkimsimhastat, laxmIkAmta, svechChAke
+नरसिंहः	4	narasiMhaH	arbhakeShT, kimkimsimhastat, laxmIkAmta, svechChAke
 नरहरिः	1	narahariH	yashodhama
 नर्तकी	1	nartakI	svedakledi
+नवम्	1	navam	purAmamity
 नववधूसङ्गमः	23		
+नव्य-मोहः	1	navya-mohaH	shrAvamshrAvama
+नाटकम्	1	nATakam	mamastrail
 नाट्यम्	5		
 नाना	1	nAnA	jayashriya
 नापितः	1	nApitaH	ArtamAdama
@@ -695,6 +734,7 @@ value	file_key	quote_count	quote_keys
 निदिध्यासा	1	nididhyAsA	amarthitar
 निद्रा	9		
 निन्दा	7		
+नियतिः	1	niyatiH	gumotkarSh
 नियमः	2	niyamaH	yamAmsevet, yuktAhArav
 नियोगः	1	niyogaH	shvashrUshvashr
 निरातङ्कः	1	nirAtankaH	laxmIshcha
@@ -710,15 +750,17 @@ value	file_key	quote_count	quote_keys
 निष्पक्षता	2	niShpaxatA	amjalisthA, iyamiShTag
 नीचः	1	nIchaH	sthitepisA
 नीचता	2	nIchatA	damtAmtaku, tRmAmimomUlayat
-नीतिः	1373		
+नीचसंसर्गः	1	nIchasaMsargaH	dvayamgata
+नीतिः	1372		
 नीलकण्ठ-दीक्षितः	1	nIlakaNTha-dIxitaH	yamvidmait
 नीलपटः	1	nIlapaTaH	mamadyomad
-नृसिंहः	25		
+नृसिंहः	28		
 नेतृत्वम्	1	netRtvam	magamasyAg
 नेत्रम्	1	netram	dUrAdutsuk
 नेत्रे	37		
-नैयायिकः	15		
+नैयायिकः	17		
 न्यायः	2	nyAyaH	itihAsapurAmajm, smRtyorvir
+न्यायम्	1	nyAyam	amgemagAtr
 न्यायशास्त्रम्	2	nyAyashAstram	mohamrumad, upAdhistum
 न्याय्यम्	1	nyAyyam	chArvAkAst
 न्यासः	1	nyAsaH	sukhamarth
@@ -727,11 +769,13 @@ value	file_key	quote_count	quote_keys
 पञ्च-महा-यज्ञाः	2	pancha-mahA-yajnAH	adhyApamam, svAdhyAyem
 पञ्च-सूणा	1	pancha-sUNA	pamchasUmA
 पठनम्	1	paThanam	paThatomAs
-पण्डितः	31		
+पण्डित-विनयः	2	paNDita-vinayaH	mashabdAbd, mavitairum
+पण्डितः	34		
 पतम्	1	patam	shiraHshAr
 पताका	1	patAkA	bhayemakRS
 पति-चितिः	1	pati-chitiH	trImivarSh
 पतिः	1	patiH	shvashrUshvashr
+पतित्वम्	1	patitvam	sadyaHpurI
 पतिव्रता	2	pativratA	mityAmadAt, yArAkAshas
 पत्नी	7		
 पथिकः	4	pathikaH	bhadramtes, deshairamt, gAyatihasa, mAtardharm
@@ -793,11 +837,12 @@ value	file_key	quote_count	quote_keys
 पापि-सम्पर्कः	1	pApi-samparkaH	amAdebhrUmahAmA
 पारसीकक्षितीशः	1	pArasIkaxitIshaH	yadapikaTa
 पारावतः	1	pArAvataH	kalakvamit
-पार्वती	58		
+पार्वती	60		
 पावित्र्यम्	1	pAvitryam	AtmAtvamgi
 पाशण्डः	2	pAshaNDaH	aTashUlAja, satyamsamx
+पाशुपतः	1	pAshupataH	peyAsurApr
 पितरः	1	pitaraH	sAmadhvamA
-पिता	2	pitA	AchAryobrahmalokaish_1, yadIyadhav
+पिता	3	pitA	AchAryobrahmalokaish_1, pitAchaRma, yadIyadhav
 पितृ-ऋणम्	1	pitR-RNam	kuryAdahar
 पितृ-तर्पणम्	1	pitR-tarpaNam	kuryAdahar
 पित्रतिशायी पुत्रः	2	pitratishAyI_putraH	atirichyat, suputraHkh
@@ -806,7 +851,7 @@ value	file_key	quote_count	quote_keys
 पुण्यबीज-पापम्	1	puNyabIja-pApam	smAmopavAs
 पुण्यम्	7		
 पुत्र-माता	1	putra-mAtA	tasmAdbhAr
-पुत्रः	2	putraH	smRtImAmvi, tasmAdbhAr
+पुत्रः	3	putraH	pitAchaRma, smRtImAmvi, tasmAdbhAr
 पुत्रजन्म	1	putrajanma	smRtImAmvi
 पुत्रवर्धनम्	1	putravardhanam	lAlayetpam
 पुत्री	1	putrI	AchAryobrahmalokaish_1
@@ -814,7 +859,8 @@ value	file_key	quote_count	quote_keys
 पुराणानि	6		
 पुरुषकारः	26		
 पुरुषकारिता	1	puruShakAritA	kvachidbhU
-पुरोहितः	3	purohitaH	purIShasya, purodhasAm, vedavedAmg
+पुरुषार्थाः	1	puruShArthAH	dharmayajm
+पुरोहितः	4	purohitaH	ghmamtidai, purIShasya, purodhasAm, vedavedAmg
 पुलिन्दः	1	pulindaH	vAmaskamdh
 पुष्प-सङ्ग्रहः	17		
 पुष्पम्	18		
@@ -833,6 +879,7 @@ value	file_key	quote_count	quote_keys
 पौराणिकः	1	paurANikaH	paurAmikAm
 पौराणिकम्	1	paurANikam	chArvAkAst
 पौरुषम्	1	pauruSham	hastIsthUlatara
+पौरुषेयत्वम्	2	pauruSheyatvam	kartAyaeva, mImAmsakAy
 पौरोहित्यम्	2	paurohityam	marakAyate, paurohitya
 प्रकृतिः	4	prakRtiH	giraukalAp, gulaparvat, svabhAvamajahAt, svabhAvomo
 प्रजननम्	2	prajananam	amgemakemA, gauramugdh
@@ -840,6 +887,7 @@ value	file_key	quote_count	quote_keys
 प्रज्ञा	1	prajnA	dhAtastuSh
 प्रणय-कलहः	8		
 प्रणय-कलहम्	2	praNaya-kalaham	ekasmimsha, kopastvayA
+प्रणय-कोपः	1	praNaya-kopaH	dvAramodgh
 प्रणयः	5		
 प्रणयकलहः	89		
 प्रणवः	2	praNavaH	AtmAmamara, maharShImA
@@ -863,7 +911,7 @@ value	file_key	quote_count	quote_keys
 प्रयत्नः	1	prayatnaH	amugamtums
 प्रयाणम्	1	prayANam	gamtavyams
 प्रयोजनम्	1	prayojanam	prayojamam
-प्रलयः	1	pralayaH	kAlaxayAda
+प्रलयः	2	pralayaH	bhadramAru, kAlaxayAda
 प्रलोभः	2	pralobhaH	AvayoHsamg, amekairmAy
 प्रवरसेनः	1	pravarasenaH	kIrtiHprav
 प्रवासः	1	pravAsaH	vidyAmitra
@@ -875,9 +923,10 @@ value	file_key	quote_count	quote_keys
 प्रसिद्धिः	1	prasiddhiH	ghaTambhim
 प्रस्तावः	1	prastAvaH	prastAvasadRsha
 प्रस्तुतिः	1	prastutiH	bRhadAkAre
-प्रह्लादः	1	prahlAdaH	prahlAdash
+प्रह्लादः	2	prahlAdaH	prahlAdash, yadbhaktih
 प्राकृतिक-सौन्दर्यम्	1	prAkRtika-saundaryam	shashimAch
 प्राचीनता	1	prAchInatA	purAmamity
+प्राचीनम्	1	prAchInam	purAmamity
 प्राज्ञः	1	prAjnaH	amAkRShTas
 प्राज्ञता	1	prAjnatA	udamvachCh
 प्राणत्यागः	1	prANatyAgaH	jarArogAbh
@@ -898,8 +947,9 @@ value	file_key	quote_count	quote_keys
 प्रेयस्त्वम्	2	preyastvam	apidivasam, tvampIyUSh
 प्रेरणा	2	preraNA	kavayatipa, kiyadvAram
 प्रोषित-पथिकः	1	proShita-pathikaH	bhojadhama
+प्रोषितपतिका	1	proShitapatikA	vismAritAm
 प्रोषितभर्तृका	8		
-प्रौढोक्तिः	18		
+प्रौढोक्तिः	22		
 फलम्	1	phalam	kAmamayaev
 बकः	2	bakaH	mAlemevast, sthitvAdha
 बङ्गालिदासः	1	bangAlidAsaH	bamgAlidAs
@@ -908,8 +958,9 @@ value	file_key	quote_count	quote_keys
 बल-प्रदर्शनम्	1	bala-pradarshanam	akasmAduma
 बलम्	10		
 बलरामः	2	balarAmaH	abhyAsapar, kAlimdItaT
-बलिः	3	baliH	aghamsakev, ashvamaiva, shUmAmchap
+बलिः	5		
 बल्लालः	1	ballAlaH	balAlaxomi
+बहुत्वम्	1	bahutvam	mayAchatva
 बहुपुत्रता	1	bahuputratA	eShTavyAbahavaHputrAyadyeko_1
 बहुभाषिता	3	bahubhAShitA	maurkhyama, mijamAshay, sharadimav
 बहुशास्त्रवित्	1	bahushAstravit	pATIkuTaka
@@ -940,6 +991,7 @@ value	file_key	quote_count	quote_keys
 बुद्धि-विकासः	1	buddhi-vikAsaH	yaHpaThati
 बुद्धिः	6		
 बुद्धिनाशः	4	buddhinAshaH	asambhavam, lubdhasyam, mabhUtapUr, pratixamem
+बुद्धिपूर्वकता	1	buddhipUrvakatA	yadavijmAt
 बुद्धिमान्	1	buddhimAn	xipramvijA
 बृहत्कथा	1	bRhatkathA	shrIrAmAya
 बृहत्साम	1	bRhatsAma	bRhatsAmat
@@ -947,28 +999,29 @@ value	file_key	quote_count	quote_keys
 बौद्ध-मतम्	1	bauddha-matam	yAtAlocham
 बौद्धम्	2	bauddham	buddhasyam, chArvAkAst
 बौद्धाः	1	bauddhAH	sugatoyadi
-ब्रह्म	17		
+ब्रह्म	22		
 ब्रह्मचर्यम्	4	brahmacharyam	chaturtham, kAkadRShTi, satyemabra, vedAmadhIt
 ब्रह्मद्विट्	1	brahmadviT	ahamrudrAy
 ब्रह्मद्वेषः	1	brahmadveShaH	paurohitya
-ब्रह्मा	7		
+ब्रह्मा	8		
 ब्राह्मण-दारिद्र्यम्	1	brAhmaNa-dAridryam	pItaHkrudd
-ब्राह्मणः	13		
+ब्राह्मणः	14		
 ब्राह्मणनिन्दा	2	brAhmaNanindA	vedamimdAr, yastudevAm
 ब्राह्मण्यम्	8		
 ब्राह्मम्	1	brAhmam	yatrabrahm
-भक्तिः	13		
+भक्तिः	14		
 भगवन्-नाम	1	bhagavan-nAma	harirharat
 भट्टारहरिचन्द्रः	1	bhaTTAraharichandraH	padabamdho
-भयम्	2	bhayam	atikruddha, shokasthAm
+भयम्	3	bhayam	atikruddha, satyasyadu, shokasthAm
 भल्लः	1	bhallaH	mayamapath
 भवभूतिः	3	bhavabhUtiH	bhavabhUte, ratmAvalIp, sukavidvit
+भागवतापचारः	1	bhAgavatApachAraH	gurauvAdih
 भाग्यम्	6		
 भाण्डागारी	1	bhANDAgArI	pravImovAk
 भायनम्	1	bhAyanam	matatsamku
 भारविः	2	bhAraviH	arthAmAmga, tAvatbhAbh
-भार्या	2	bhAryA	ardhambhAryAmam, tasmAdbhAr
-भावः	4	bhAvaH	gamgAditIr, kavitAkAmi, madevovidy, vyatItyabh
+भार्या	3	bhAryA	ardhambhAryAmam, pitAchaRma, tasmAdbhAr
+भावः	5		
 भावपूर्णता	2	bhAvapUrNatA	bahavastey, yadadhItam
 भावप्रधानता	1	bhAvapradhAnatA	archAmItid
 भावसिंहः	1	bhAvasiMhaH	yasyAgmiHk
@@ -977,6 +1030,7 @@ value	file_key	quote_count	quote_keys
 भाष्यम्	1	bhAShyam	atashchapr
 भासः	1	bhAsaH	sUtradhAra
 भास्करः	2	bhAskaraH	aShTauvyAk, udbhaTabud
+भास्कराचर्यः	1	bhAskarAcharyaH	udbhaTabud
 भिक्षा	2	bhixA	karamprasA, yatpumyaph
 भिक्षुकः	2	bhixukaH	bodhayamti, dvAramdvAramaTa
 भीमः	1	bhImaH	rudhiravis
@@ -993,7 +1047,7 @@ value	file_key	quote_count	quote_keys
 भैरवः	2	bhairavaH	bhairavAya, dhamAmivid
 भोग-मार्गाः	1	bhoga-mArgAH	kRShigorax
 भोजः	27		
-भोजनम्	8		
+भोजनम्	9		
 भोज्यता	1	bhojyatA	matakruddh
 भ्रमरक्रीडा	7		
 भ्रष्टाचारः	1	bhraShTAchAraH	yathAhyamA
@@ -1011,14 +1065,15 @@ value	file_key	quote_count	quote_keys
 मति-वैविध्यम्	1	mati-vaividhyam	mumDemumDe
 मतिः	1	matiH	chalatyeke
 मत्कुणः	3	matkuNaH	kamalekama, mamyematku, rAgIbhimat
-मदः	3	madaH	amyayAmyav, samAdhaupr, xamamAtram
+मदः	4	madaH	amyayAmyav, pipipriyas, samAdhaupr, xamamAtram
 मदनं प्रत्युक्तयः	24		
+मद्यम्	1	madyam	pipipriyas
 मधुकरं प्रत्युक्तयः	4	madhukaraM_pratyuktayaH	bhrAtardvi, chalApAmgA, umIlamayam, vadamamida
 मधुपर्कः	1	madhuparkaH	mAtArudrAm
 मधुपाः	1	madhupAH	meyamvirau
 मधुमेहः	1	madhumehaH	AsyAsukham
 मधुसूदनसरस्वती	1	madhusUdanasarasvatI	madhusUdam
-मध्यदेशः	12		
+मध्यदेशः	13		
 मध्यमता	1	madhyamatA	atidarpeha
 मध्यरात्रक्रीडा	5		
 मध्याह्नः	26		
@@ -1041,22 +1096,23 @@ value	file_key	quote_count	quote_keys
 महत्त्वम् अल्पस्यापि	1	mahattvam_alpasyApi	jAtasyamad
 महर्षिः	1	maharShiH	prAmAmAmam
 महानगराः	1	mahAnagarAH	bAlopichor
-महाभारतम्	3	mahAbhAratam	dharmechaa, gagamamgag, shrIrAmAya
+महाभारतम्	4	mahAbhAratam	chatvArova, dharmechaa, gagamamgag, shrIrAmAya
 महोक्षः	1	mahoxaH	garjitvAme
 मांसम्	1	mAMsam	kechidvadamtyam
 माघः	1	mAghaH	tAvatbhAbh
 माणिकः	5		
 मातङ्गदिवाकरः	1	mAtangadivAkaraH	ahoprabhAv
-माता	4	mAtA	bhUpradaxi, mAtAyasyag, muktAmamit, upAdhyAyAm
+माता	5		
 मातृत्वम्	1	mAtRtvam	imAmtvamim
 मात्सर्यम्	2	mAtsaryam	mAgumIgumi, sajayatika
 माधवः	1	mAdhavaH	satyAsaktamamAg
 मान-नटनम्	2	mAna-naTanam	bhrUbhamge, bhrUbhamgo
-मानम्	16		
+मानम्	17		
+मानसपूजा	2	mAnasapUjA	ArAdhayAmi, sauvarmest
 मानसिंहः	1	mAnasiMhaH	kAmchImkAm
 मानसिकजपः	2	mAnasikajapaH	dhiyAyadax, japashchad
-मानी	1	mAnI	xutxAmopij
-माया	1	mAyA	dhUmemAvri
+मानी	2	mAnI	samrambhaH, xutxAmopij
+माया	3	mAyA	atathyAmya, dhUmemAvri, mukhAlamkR
 मार्गसीर्षः	1	mArgasIrShaH	bRhatsAmat
 मालवाखण्डलः	1	mAlavAkhaNDalaH	paryamkorA
 माहत्य-विवेकः	3	mAhatya-vivekaH	kAkaHkRShm, kAkasyacha, kavayaHkAlidAsA
@@ -1064,11 +1120,12 @@ value	file_key	quote_count	quote_keys
 मितभाषिता	1	mitabhAShitA	aShTaugumA
 मित्र	1	mitra	ApatkAletu
 मित्रता	2	mitratA	jADyamdhiy, pradAmampr
-मित्रम्	3	mitram	aurasamkRt, paropihita, shIlamshau
+मित्रम्	4	mitram	aurasamkRt, paropihita, shIlamshau, tyajemAlAs
 मिथ्य-प्रशंसा	1	mithya-prashaMsA	piturguror
+मिथ्या-कीर्तिः	1	mithyA-kIrtiH	vArAmpuShk
 मिथ्या-प्रतिज्ञा	1	mithyA-pratijnA	arthImAmup
 मीनाक्षी	1	mInAxI	amviShyakh
-मीमांसकः	7		
+मीमांसकः	8		
 मुकुन्ददेवः	1	mukundadevaH	karavAriru
 मुक्ताकलापं प्रत्युक्तिः	1	muktAkalApaM_pratyuktiH	sUchImukhe
 मुक्तिः	1	muktiH	mAtarmedim
@@ -1080,8 +1137,9 @@ value	file_key	quote_count	quote_keys
 मुद्दाफरशाहः	1	muddApharashAhaH	AkAshapras
 मुद्रिका	1	mudrikA	amgulIShuk
 मुनिः	1	muniH	mapAmipAda
+मुमूर्षा	1	mumUrShA	yatvayAshi
 मुरारिः	3	murAriH	bhavabhUti, devImvAcha, murAripada
-मूर्खः	22		
+मूर्खः	23		
 मूर्खाः	2	mUrkhAH	mUrkheShuk, vidvatAmpr
 मूर्खैस् सह वादः	1	mUrkhais_saha_vAdaH	udAtamadap
 मूल्यम्	1	mUlyam	kAmchameya
@@ -1089,16 +1147,18 @@ value	file_key	quote_count	quote_keys
 मृगया	8		
 मृगयानिवृत्तिः	1	mRgayAnivRttiH	gAhamtAmah
 मृणालहारं प्रत्युक्तिः	1	mRNAlahAraM_pratyuktiH	parichyuta
+मृत-भाषा	1	mRta-bhAShA	svarvAmIte
 मृत्युः	13		
 मेघं प्रत्युक्तयः	3	meghaM_pratyuktayaH	bhomeghaga, bhramayaja, malayamaru
-मेघः	2	meghaH	dhArAshara, pibativyom
+मेघः	4	meghaH	bharturmit, dhArAshara, meyampayod, pibativyom
+मेघदूतम्	1	meghadUtam	sayaxapreS
 मेधा	1	medhA	mRtyuHsarv
 मेरुः	1	meruH	rudrAmAmsh
 मेषः	1	meShaH	pArshvAsph
 मैत्री	5		
 मोक्षः	5		
 मोदः	1	modaH	maprApmuva
-मोहः	3	mohaH	Adityasyag, krodhAdbha, samyagvich
+मोहः	4	mohaH	Adityasyag, dehorogami, krodhAdbha, samyagvich
 मोहिनी	1	mohinI	sadambhash
 मौक्तिकम्	1	mauktikam	pItvAbhRsh
 मौनम्	10		
@@ -1111,11 +1171,13 @@ value	file_key	quote_count	quote_keys
 यज्ञः	4	yajnaH	amadhItyad, dAmatIrtha, goShuprama, sahayajmAH
 यथार्थज्ञानम्	1	yathArthajnAnam	mamirlumTh
 यमः	3	yamaH	amamtashch, ekAxarampa, yamAmsevet
+यशः	1	yashaH	samjAyatek
 याचकः	48		
 याचनम्	2	yAchanam	rAjamkamak, rAjamkamakavarS
 यात्रा	2	yAtrA	kolAbhogum, yastusamch
 यात्री	28		
-युक्तिः	2	yuktiH	kevalamshA, tApAchChed
+यामुनः	1	yAmunaH	yatpadAmbh
+युक्तिः	3	yuktiH	hamtabrahm, kevalamshA, tApAchChed
 युद्ध-कौशलम्	1	yuddha-kaushalam	kAtaryamke
 युद्धकौशलम्	1	yuddhakaushalam	yashaHputr
 युद्धम्	126		
@@ -1123,7 +1185,7 @@ value	file_key	quote_count	quote_keys
 युवा	9		
 योगः	4	yogaH	bhaktyAsid, buddhiyukt, yogasthaHk, yuktAhArav
 योजना	1	yojanA	sumamtritesuvik
-यौवनम्	10		
+यौवनम्	11		
 रक्षणम्	1	raxaNam	parachakra
 रजः	1	rajaH	kAmaHkrodholobh
 रणसामग्री	24		
@@ -1134,7 +1196,7 @@ value	file_key	quote_count	quote_keys
 रथवेगः	6		
 रम्यता	1	ramyatA	ramyAshcha
 रसः	5		
-रसिकः	16		
+रसिकः	17		
 रसिकता	15		
 रसिकप्रशंसा	1	rasikaprashaMsA	yemAmakech
 रागः	2	rAgaH	gatepivaya, mAstividyA
@@ -1157,12 +1219,14 @@ value	file_key	quote_count	quote_keys
 रात्रिः	13		
 राधा	2	rAdhA	bhUShamIya, stUyatestU
 राम-मन्दिर-इष्टिका	1	rAma-mandira-iShTikA	amgIkurumi
-रामः	9		
+रामः	20		
 रामचन्द्रः	53		
 रामजामः	1	rAmajAmaH	xubhyatpra
 रामनाथः	1	rAmanAthaH	karakampit
+रामनाम	5		
 राममन्दिरम्	3	rAmamandiram	matpAmAviS, sarvasyamu, vardhatAmv
 रामशोकः	1	rAmashokaH	hAromAropitaHka
+रामानुजः	4	rAmAnujaH	gurauvAdih, idampratha, tasmairAmA, vamdevedAm
 रामायणम्	1	rAmAyaNam	shrIrAmAya
 रामौ	1	rAmau	rerexatrak
 रावणः	3	rAvaNaH	bhavitrIra, vishAmItya, yadamtaram
@@ -1174,32 +1238,35 @@ value	file_key	quote_count	quote_keys
 रुक्मिणीहरणम्	1	rukmiNIharaNam	jIyAdevasy
 रुचिः	1	ruchiH	yatraruchi
 रुद्रः	5		
+रुद्रगणः	2	rudragaNaH	devIsUmuma, sAvaShTamb
 रुद्रगणाः	1	rudragaNAH	baddhAsrak
 रूपनारायणः	1	rUpanArAyaNaH	ayeyadisam
 रूपमणिः	1	rUpamaNiH	shrImadrUp
-रूपम्	1	rUpam	gumampRchC
+रूपम्	2	rUpam	gumampRchC, pitAchaRma
 रोगः	4	rogaH	bhaktyAmAt, dharmArthakAmamoxAmAmArogya_1, lobhamUlAm, smigdhavRd
 रोगसङ्क्रामः	1	rogasankrAmaH	prasamgAdg
 रोमावली	31		
 रोहिणीं प्रत्युक्तिः	1	rohiNIM_pratyuktiH	bhorohimit
 लक्ष्मी	1	laxmI	ArdrAparAd
 लक्ष्मी-चाञ्चल्यम्	1	laxmI-chAnchalyam	yAsvasadma
-लक्ष्मीः	60		
+लक्ष्मीः	61		
 लक्ष्मीप्रभावः	1	laxmIprabhAvaH	Alasyamsth
+लङ्का	1	lankA	kaHkhegach
 लज्जाभासः	1	lajjAbhAsaH	kimketakIk
 लयः	13		
 ललाटः	1	lalATaH	keshAmdhak
 लिङ्गम्	2	lingam	bhrAmtashc, chamdamava
 लिङ्गायताः	1	lingAyatAH	yostishivo
 लिपिः	1	lipiH	jmAtAmabho
-लीला	1	lIlA	svemasvame
+लीला	2	lIlA	ambhodhiHs, svemasvame
 लेखकः	1	lekhakaH	sakRduktag
 लेखनकर्त्री	2	lekhanakartrI	umitaikabh, yadbhUlate
 लेखनम्	1	lekhanam	bhagmapRSh
 लोक-फल्गुता	1	loka-phalgutA	yakRtvAvis
+लोकः	1	lokaH	adyaprabhRtihel
 लोकतापः	1	lokatApaH	imdriyauri
 लोकभाषाः	1	lokabhAShAH	chAmarIvAm
-लोकसङ्ग्रहः	1	lokasangrahaH	kevAmagUhi
+लोकसङ्ग्रहः	2	lokasangrahaH	kevAmagUhi, sajIvatiya
 लोकहितम्	1	lokahitam	durjamaHsa
 लोभः	28		
 वंशः	2	vaMshaH	chamdamAda, sushIlomAt
@@ -1211,15 +1278,16 @@ value	file_key	quote_count	quote_keys
 वञ्चनम्	1	vanchanam	atumambata
 वणिक्	1	vaNik	Adaumamras
 वनम्	1	vanam	mirvamovad
+वनवासः	1	vanavAsaH	sadyaHpurI
 वनश्रीम्	7		
 वयः	3	vayaH	bAlasyApir, shishutvam, vitambamdh
 वयःसन्धिः	60		
-वराहः	1	varAhaH	vedAmgapAd
+वराहः	2	varAhaH	simdhuShva, vedAmgapAd
 वरुणः	1	varuNaH	amamtashch
 वर्ण-च्युतिः	1	varNa-chyutiH	shamakaist
 वर्णः	2	varNaH	lokAmAmtuv, sarvasyAsy
 वर्णसङ्घर्षः	1	varNasangharShaH	virodhamat
-वर्तमान-कालः	1	vartamAna-kAlaH	gateshokom
+वर्तमान-कालः	3	vartamAna-kAlaH	gatArthAmA, gateshokam, gateshokom
 वर्षा	104		
 वर्षाकालः	1	varShAkAlaH	mashikhamD
 वर्षायात्री	29		
@@ -1231,7 +1299,8 @@ value	file_key	quote_count	quote_keys
 वसन्तर्तुः	1	vasantartuH	adyApyudya
 वसन्तवर्णनम्	3	vasantavarNanam	madhuparAj, ramatkamka, vikasitasahakAr
 वस्त्रम्	3	vastram	kimvAsasAt, kimvAsaset, kuchelimam
-वाक्	4	vAk	gRmamtumum, keyUrAmima, mRtyuHsarv, machChatra
+वाक्	6		
+वाक्-चौर्यम्	2	vAk-chauryam	akAlajaladashlo, pumsaHkAlA
 वाक्-पाटवम्	1	vAk-pATavam	machChatra
 वाक्पटुता	9		
 वाक्पाटवम्	1	vAkpATavam	vadamampra
@@ -1248,10 +1317,11 @@ value	file_key	quote_count	quote_keys
 वात्सल्यम्	1	vAtsalyam	muktAmamit
 वादः	12		
 वामनः	2	vAmanaH	brahmAmDac, jagadamDak
+वामाचारः	1	vAmAchAraH	apeyamkimt
 वायुः	1	vAyuH	dIrghIkurv
 वार्त्ताहरः	1	vArttAharaH	vArtAharam
 वार्धक्यम्	1	vArdhakyam	adyaivakuruyaCh
-वाल्मीकिः	10		
+वाल्मीकिः	11		
 वास-योग्यता	1	vAsa-yogyatA	mUrkhAyatr
 वासकसज्जा	15		
 वासना	1	vAsanA	ramyAmivIx
@@ -1277,6 +1347,7 @@ value	file_key	quote_count	quote_keys
 विदेशः	1	videshaH	yasyAstisa
 विद्या	32		
 विद्या-प्रयोगः	1	vidyA-prayogaH	apUrvakopi
+विद्यात्यागः	1	vidyAtyAgaH	vedAHsamjA
 विद्यादानम्	1	vidyAdAnam	apUrvaHkopikosh
 विद्याप्रभावः	1	vidyAprabhAvaH	sarvasvamg
 विद्यार्थी	1	vidyArthI	pamchavidy
@@ -1288,7 +1359,8 @@ value	file_key	quote_count	quote_keys
 विधि-विषम्यम्	1	vidhi-viShamyam	priyAduhit
 विधि-वैषम्यम्	1	vidhi-vaiShamyam	rAtrirgami
 विधिः	12		
-विनयः	9		
+विनयः	10		
+विपरीत-मानम्	1	viparIta-mAnam	ambhodhiHs
 विपर्ययः	1	viparyayaH	dhUmemAvri
 विप्रयोग-शृङ्गारः	1	viprayoga-shRngAraH	mAyAhItyap
 विप्रलब्धा	11		
@@ -1297,7 +1369,8 @@ value	file_key	quote_count	quote_keys
 विप्रलम्भशृङ्गारः	2	vipralambhashRngAraH	hAromAropitaHka, tvayAmadam
 विभूतयः	2	vibhUtayaH	athavAbahu, hamtatekat
 विमृश्यकारिता	1	vimRshyakAritA	bhayevAyad
-वियोगः	83		
+वियोगः	84		
+विरक्तिः	1	viraktiH	adyaprabhRtihel
 विरलता	2	viralatA	kAmchameya, shaileshai
 विरहः	1	virahaH	samAmakula
 विरहदिनावधिरेखा	1	virahadinAvadhirekhA	promChatid
@@ -1307,15 +1380,17 @@ value	file_key	quote_count	quote_keys
 विवादः	3	vivAdaH	bhUmipatAv, prajmAvive, vratevivAd
 विवाह-च्छेदः	1	vivAha-chChedaH	umatampati
 विवाहः	8		
-विवेकः	5		
+विवेकः	7		
+विशिष्टाद्वैतम्	1	vishiShTAdvaitam	idampratha
 विश्वरूपम्	2	vishvarUpam	athavAbahu, hamtatekat
 विश्वासः	2	vishvAsaH	chorAmatAl, durjamadUS
-विष्णुः	58		
+विष्णुः	59		
 विष्णुः शिवः	1	viShNuH_shivaH	shrIvAmIgi
 विष्णुभक्तिः	1	viShNubhaktiH	vipadomaiv
 विस्मयः	1	vismayaH	pradIpajvA
 विस्मृतिः	1	vismRtiH	avyaktAdIm
 विहारः	13		
+वीचिः	1	vIchiH	devAdaityA
 वीरः	17		
 वीरभानः	2	vIrabhAnaH	bherIjhAmk, lamkAdhAma
 वीरवरः	2	vIravaraH	jambudvIpa, kAmovAmadR
@@ -1328,10 +1403,11 @@ value	file_key	quote_count	quote_keys
 वृद्धाः	1	vRddhAH	shishutvam
 वृषाः	1	vRShAH	aShTAgavam
 वृष्टिः	1	vRShTiH	mukharayat
+वेङ्कटनाथः	2	venkaTanAthaH	gurauvAdih, sarvatamtr
 वेङ्कटपतिः	1	venkaTapatiH	atramamath
 वेदः	6		
 वेदनिन्दा	3	vedanindA	mAstikyamv, vedamimdAr, yastudevAm
-वेदाः	18		
+वेदाः	20		
 वेदाङ्गाः	1	vedAngAH	ChamdapAda
 वेदाङ्गानि	1	vedAngAni	shixAghrAm
 वेदान्तः	1	vedAntaH	mityAmadAt
@@ -1341,11 +1417,12 @@ value	file_key	quote_count	quote_keys
 वैदिकः	2	vaidikaH	AHkaShTama, mAdhyApayi
 वैद्य-शास्त्रम्	1	vaidya-shAstram	amyAmishAs
 वैद्यः	28		
+वैधर्म्यम्	1	vaidharmyam	gatirvyomA
 वैयाकरणः	14		
 वैरम्	3	vairam	bhadrambhadrami, kAkutsthas, vairimamop
 वैराग्य-दम्भः	2	vairAgya-dambhaH	smAmamsimd, smAyamsmAy
 वैराग्य-बाधाः	1	vairAgya-bAdhAH	svAmImishv
-वैराग्यम्	174		
+वैराग्यम्	176		
 वैशेषिकम्	1	vaisheShikam	chArvAkAst
 वैश्वदेवम्	1	vaishvadevam	aghamsakev
 व्यक्ति-निन्दा	1	vyakti-nindA	dhigastuyo
@@ -1357,21 +1434,25 @@ value	file_key	quote_count	quote_keys
 व्याकरणम्	12		
 व्याख्या	4	vyAkhyA	durbodhamy, ihAmvayamu, sarvavyAkh, shabdAmvic
 व्याघ्रः	1	vyAghraH	mirvamovad
-व्यासः	5		
+व्यासः	6		
 व्रतम्	1	vratam	vratevivAd
 व्रीडा	1	vrIDA	AstAmvishv
 व्रीढा	1	vrIDhA	yadrAtraur
 शक्ति-प्रदर्शनम्	1	shakti-pradarshanam	aprakaTIkR
 शक्तिः	10		
 शक्तिमदः	1	shaktimadaH	hasadbhiry
-शङ्करः	2	shankaraH	ArogyambhA, yasyavAcha
+शङ्करः	3	shankaraH	ArogyambhA, tadraxitam, yasyavAcha
+शङ्कराचार्यः	1	shankarAchAryaH	mimamxushc
 शठः	1	shaThaH	adhodRShTi
+शतदूषणी	1	shatadUShaNI	idampratha
 शत्रुः	3	shatruH	bhadrambhadrami, paropihita, vairimamop
+शत्रुशल्यः	1	shatrushalyaH	chApamshma
 शपथः	1	shapathaH	matatsamku
 शब्दः	1	shabdaH	chatvArish
 शब्दप्रमाणम्	1	shabdapramANam	AjamaHshAT
 शब्दालङ्कारः	1	shabdAlankAraH	kartavyAch
 शमः	1	shamaH	jmAmamtatv
+शरणागतिः	1	sharaNAgatiH	yatvayAshi
 शरत्	48		
 शरद्-यात्री	2	sharad-yAtrI	ihamichulamikum, pamkAmuSha
 शरद्-वायुः	2	sharad-vAyuH	vAmtikahlA, vAmtirAtra
@@ -1385,22 +1466,25 @@ value	file_key	quote_count	quote_keys
 शाठ्यम्	5		
 शान्तिः	6		
 शाब्दबोधः	1	shAbdabodhaH	vAkyAtprakaramA
+शास्त्र-ज्ञानम्	1	shAstra-jnAnam	yadavijmAt
 शास्त्र-प्रयोगः	2	shAstra-prayogaH	mashAstram, tasmAdesha
 शास्त्र-बोधः	1	shAstra-bodhaH	devImvAcha
 शास्त्र-भायनम्	1	shAstra-bhAyanam	vyAghrAdiv
 शास्त्र-वचनम्	1	shAstra-vachanam	vyAghrAdiv
 शास्त्रं	1	shAstraM	paxadvamdv
-शास्त्रम्	19		
+शास्त्रम्	22		
 शास्त्राणि	1	shAstrANi	shrutismRtipurA
+शास्स्त्राभ्यासः	1	shAsstrAbhyAsaH	durgRhItam
 शाहिजहानः	1	shAhijahAnaH	bhUbhRmaul
 शिक्षकः	1	shixakaH	dhvamyAlok
 शिक्षणम्	6		
 शिक्षा	5		
-शिव-परिवारः	1	shiva-parivAraH	yadambAtAt
-शिवः	221		
+शिव-परिवारः	2	shiva-parivAraH	simchatyag, yadambAtAt
+शिव-पूजा	1	shiva-pUjA	uchChiShTamshiv
+शिवः	238		
 शिवपरिवारः	1	shivaparivAraH	svechChAra
 शिवसूत्राणि	1	shivasUtrANi	mRtyAvasAm
-शिवौ	22		
+शिवौ	27		
 शिशिर-यात्री	3	shishira-yAtrI	ArAtkArISh, pumyAgmaup, samviShTog
 शिशिर-वायुः	2	shishira-vAyuH	chumbamtog, keshAmAkul
 शिशिरः	19		
@@ -1451,12 +1535,12 @@ value	file_key	quote_count	quote_keys
 श्वशुरः	1	shvashuraH	shvashurag
 षण्मुखः	3	ShaNmukhaH	archiShmamtivid, shailarAja, vikasadama
 संख्याबलम्	2	saMkhyAbalam	alpamAmapi, jAlamAdAya
-संयमः	2	saMyamaH	maprahRShy, samtoShamp
-संवित्	2	saMvit	atikruddha, jIyAdbhaga
+संयमः	3	saMyamaH	maprahRShy, mobhAvAmiy, samtoShamp
+संवित्	3	saMvit	atikruddha, jIyAdbhaga, umiShamimi
 संशय-दम्भः	1	saMshaya-dambhaH	prAmAmyamA
 संशयः	1	saMshayaH	amyayAmyav
 संस्कारः	5		
-संस्कृतम्	11		
+संस्कृतम्	12		
 सकलङ्कचन्द्रः	26		
 सखायं प्रति नायकोक्तिः	1	sakhAyaM_prati_nAyakoktiH	sheteshIta
 सखीं प्रति नायिकावाक्यम्	3	sakhIM_prati_nAyikAvAkyam	AyAtAjalad, kAmtoyAsya, vayomavyam
@@ -1478,7 +1562,7 @@ value	file_key	quote_count	quote_keys
 सत्त्वम्	3	sattvam	bRhadAkAre, ghRShTamgh, hastIsthUlatara
 सत्त्वेन हानिः	1	sattvena_hAniH	kimjAtosic
 सत्पत्नी	1	satpatnI	pumAmsamAk
-सत्यम्	16		
+सत्यम्	17		
 सत्सङ्गः	10		
 सदाचारः	5		
 सद्गुणः	1	sadguNaH	aishvaryasyavib
@@ -1489,7 +1573,7 @@ value	file_key	quote_count	quote_keys
 सद्भावाः	1	sadbhAvAH	devadvijag
 सद्वृत्तिः	1	sadvRttiH	malokavRta
 सनातन-स्थितिः	1	sanAtana-sthitiH	kutovAmUta
-सन्तोषः	28		
+सन्तोषः	31		
 सन्देशः	38		
 सन्देशः - नायकं प्रति	4	sandeshaH_-_nAyakaM_prati	AlIbhiHsah, adRShTedar, imdumkairavimIv, mityambrah
 सन्देशः - नायिकां प्रति	37		
@@ -1509,9 +1593,12 @@ value	file_key	quote_count	quote_keys
 समस्यापूरणम्	1	samasyApUraNam	AmdhrabhAS
 समात्वम्	1	samAtvam	dveShyopis
 समाधिः	1	samAdhiH	murArimura
+समानताभासः	1	samAnatAbhAsaH	gatirvyomA
 समुद्रः	7		
 सम्बन्धः	1	sambandhaH	karmabhATa
+सम्बन्धाभासः	1	sambandhAbhAsaH	shatambudh
 सम्भावना	1	sambhAvanA	yadashakya
+सम्भोग-शृङ्गारः	1	sambhoga-shRngAraH	bhrAtarvAr
 सम्भोगशृङ्गारः	1	sambhogashRngAraH	kachakucha
 सम्मानः	1	sammAnaH	xatriyamch
 सम्मानम्	1	sammAnam	asamAmetap
@@ -1526,7 +1613,7 @@ value	file_key	quote_count	quote_keys
 सहकारः	2	sahakAraH	alpamAmapi, jAlamAdAya
 सहजम् अन्याय्यम्	2	sahajam_anyAyyam	gItamkokil, yemItemuku
 सहनशीलता	1	sahanashIlatA	labdhAspad
-सहृदयः	2	sahRdayaH	gamgAditIr, sAxarAvipa
+सहृदयः	3	sahRdayaH	gamgAditIr, itarakarma, sAxarAvipa
 सहृदयता	1	sahRdayatA	kiyadvAram
 साक्षात्कारः	1	sAxAtkAraH	sugatoyadisarva
 साक्षिवादः	1	sAxivAdaH	paurohitya
@@ -1534,6 +1621,7 @@ value	file_key	quote_count	quote_keys
 साङ्ख्यम्	1	sAnkhyam	chArvAkAst
 सातवाहनः	1	sAtavAhanaH	avimAshima
 सात्त्विक-त्यागः	1	sAttvika-tyAgaH	kAmyAmAmkarmamA
+साफल्यम्	1	sAphalyam	gumotkarSh
 साम-दान-भेद-दण्डाः	1	sAma-dAna-bheda-daNDAH	adhIshvapu
 सामः	1	sAmaH	sAmaivahip
 सामरस्यम्	2	sAmarasyam	AchAryobrahmalokaish_1, parasparavivAde
@@ -1548,10 +1636,11 @@ value	file_key	quote_count	quote_keys
 साहसम्	1	sAhasam	mahibhixuk
 सिंहः	7		
 सिंहासनम्	1	siMhAsanam	chAmaramsh
+सिद्धः	1	siddhaH	yadavijmAt
 सिद्धिः	1	siddhiH	gumampRchC
 सिन्दूरम्	2	sindUram	ayemAtardR, vahamtIsim
 सिन्धुराधीश्वरः	1	sindhurAdhIshvaraH	asharmadah
-सीता	1	sItA	vishAmItya
+सीता	3	sItA	sadyaHpurI, tAmabhyaga, vishAmItya
 सीता-त्यागः	1	sItA-tyAgaH	sItAmiShkA
 सीता-परित्यागः	1	sItA-parityAgaH	sItAmsvaha
 सीतापहरणम्	1	sItApaharaNam	vishAmItya
@@ -1559,9 +1648,10 @@ value	file_key	quote_count	quote_keys
 सुकृतम्	1	sukRtam	muhUrtamap
 सुखदुःखे	1	sukhaduHkhe	kvachidvIm
 सुखम्	15		
+सुखस्थ-पर्युत्सुकता	1	sukhastha-paryutsukatA	ramyAmivIx
 सुचरित्रम्	2	sucharitram	vadamampra, xamayAdaya
 सुचिन्तित-कर्म	1	suchintita-karma	gumavadagu
-सुजनः	1	sujanaH	yamvidmait
+सुजनः	2	sujanaH	lajAvataHk, yamvidmait
 सुजीवनम्	14		
 सुजीवितम्	1	sujIvitam	jIviteyasy
 सुदर्शनः	1	sudarshanaH	mamugdhada
@@ -1571,7 +1661,7 @@ value	file_key	quote_count	quote_keys
 सुबन्धुः	1	subandhuH	kavImAmaga
 सुबुद्धिः	1	subuddhiH	shushrUShAshrav
 सुब्रह्मण्यः	4	subrahmaNyaH	ambAkupyatitAta, archiShmam, atumvAmChativAh, svechChAra
-सुभाषितम्	22		
+सुभाषितम्	23		
 सुमृत्युः	1	sumRtyuH	jarArogAbh
 सुरतकेलिः	51		
 सुरतनिवृत्तिः	34		
@@ -1588,10 +1678,10 @@ value	file_key	quote_count	quote_keys
 सूर्य-स्तुतिः	1	sUrya-stutiH	muShTirvAs
 सूर्यः	23		
 सूर्यास्तः	73		
-सूर्यास्तम्	2	sUryAstam	gatadIptig, paripatati
-सूर्योदयः	2	sUryodayaH	arumakiram, timirArist
+सूर्यास्तम्	3	sUryAstam	gatadIptig, myadhitadi, paripatati
+सूर्योदयः	3	sUryodayaH	arumakiram, prakrIyasm, timirArist
 सूर्योदयवर्णनम्	25		
-सृष्टिः	2	sRShTiH	sargAmAmAd, sarvatrasarvadA
+सृष्टिः	6		
 सेनापतिः	2	senApatiH	samastamIt, shUrorthas
 सेवकः	3	sevakaH	adhikArAbh, jAmIyAtpre, komayAtiva
 सैन्यम्	3	sainyam	prathamamy, svabhAvash, varamalpab
@@ -1601,7 +1691,7 @@ value	file_key	quote_count	quote_keys
 सौराज्यम्	13		
 सौहार्दम्	2	sauhArdam	kalahAmtAm, mAbhrAtAbh
 स्कदः	1	skadaH	kosaumAtar
-स्कन्दः	5		
+स्कन्दः	9		
 स्खलनम्	1	skhalanam	gachChataH
 स्तनौ	52		
 स्तुति-वैमुख्यम्	1	stuti-vaimukhyam	magamdhika
@@ -1609,9 +1699,10 @@ value	file_key	quote_count	quote_keys
 स्त्री	2	strI	devImAtAsu, kRtAbhiShe
 स्त्री-केशः	10		
 स्त्री-चित्तम्	1	strI-chittam	audumbarAm
+स्त्री-मोहः	1	strI-mohaH	girImdrash
 स्त्री-शरीरम्	325		
 स्त्री-सौन्दर्यम्	26		
-स्त्रीः	148		
+स्त्रीः	149		
 स्त्रीः - निन्दा	83		
 स्त्रीलोभः	1	strIlobhaH	tyaktovimdhyagi
 स्त्रीशोषण-वादः	1	strIshoShaNa-vAdaH	dhikuryAHs
@@ -1624,8 +1715,8 @@ value	file_key	quote_count	quote_keys
 स्नानम्	5		
 स्नुषा	1	snuShA	yasyAjamAm
 स्नेह-नटनम्	1	sneha-naTanam	mugdhemugd
-स्नेहः	32		
-स्नेहितः	1	snehitaH	jIviteyasy
+स्नेहः	35		
+स्नेहितः	2	snehitaH	jIviteyasy, tyajemAlAs
 स्नेहितदोषः	1	snehitadoShaH	apriyAmyapikurvAmoya_1
 स्नेहे अविवेकः	3	snehe_avivekaH	gItamkokil, gamdhADhyAsaubh, yemItemuku
 स्पन्दः	1	spandaH	atikruddha
@@ -1637,7 +1728,7 @@ value	file_key	quote_count	quote_keys
 स्वतुष्टिः	1	svatuShTiH	pareShAmch
 स्वदेशः	1	svadeshaH	yasyAstisa
 स्वधर्मः	7		
-स्वभावः	8		
+स्वभावः	9		
 स्वभावोक्तिः	1	svabhAvoktiH	grIvAbhamg
 स्वयंवरः	1	svayaMvaraH	trImivarSh
 स्वरः	1	svaraH	yadadhItam
@@ -1660,6 +1751,7 @@ value	file_key	quote_count	quote_keys
 हनूमान्	1	hanUmAn	parAkramot
 हम्मीरः	2	hammIraH	mAchakrach, mumchatimu
 हयः	5		
+हयग्रीवः	2	hayagrIvaH	mavitairum, shArademdu
 हरिणः	1	hariNaH	grIvAbhamg
 हरित्त्वम्	1	harittvam	bAlemdrago
 हरिहरौ	13		
@@ -1669,6 +1761,7 @@ value	file_key	quote_count	quote_keys
 हस्तक्षेपः	1	hastaxepaH	xipramvijA
 हस्तरेखा	1	hastarekhA	AyUrekhAmc
 हारः	12		
+हासः	1	hAsaH	maprApmuva
 हास्यम्	3	hAsyam	Adaumamras, ambAkupyatitAta, atumvAmChativAh
 हिंसा	6		
 हित-वचन-ग्राहिता	1	hita-vachana-grAhitA	tuShTosmit
