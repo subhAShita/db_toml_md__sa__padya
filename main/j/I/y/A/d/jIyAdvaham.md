@@ -1,7 +1,7 @@
 +++
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "शिवः",]
-ratings = [ "vvasuki: 5",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "जीयाद्वहन्निजे भाले"
 
