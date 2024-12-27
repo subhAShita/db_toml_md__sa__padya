@@ -1,6 +1,6 @@
 +++
 sources = [ "सुहासः - मुक्तकम्",]
-topics = [ "",]
+topics = [ "काली",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "मुक्तामयमञ्जीरो"

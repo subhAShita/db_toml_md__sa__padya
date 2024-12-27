@@ -1,5 +1,4 @@
 value	quote_count	file_key	quote_keys
-	1		
 +चन्द्रोदयवर्णनम्	1	chandrodayavarNanam	
 Middle management	1	Middle_management	
 asdfa	1	asdfa	
@@ -291,7 +290,7 @@ wabi	1	wabi
 कालः	44	kAlaH	
 कालहरणम्	1	kAlaharaNam	
 कालिदासः	11	kAlidAsaH	
-काली	2	kAlI	
+काली	3	kAlI	
 काव्य-चोरः	1	kAvya-choraH	
 काव्य-प्रयोजनम्	9	kAvya-prayojanam	
 काव्यप्रयोजनम्	1	kAvyaprayojanam	
@@ -813,7 +812,7 @@ wabi	1	wabi
 पर्वतपूजा	1	parvatapUjA	
 पवनं प्रत्युक्तयः	2	pavanaM_pratyuktayaH	
 पशुयागः	2	pashuyAgaH	
-पश्चात्तापः - जीवने	26	pashchAttApaH_-_jIvane	
+पश्चात्तापः	26	pashchAttApaH	
 पाकः	1	pAkaH	
 पाण्डवक्रोधः	1	pANDavakrodhaH	
 पाण्डित्य-दम्भः	5	pANDitya-dambhaH	
@@ -1376,7 +1375,7 @@ wabi	1	wabi
 विरहदिनावधिरेखा	1	virahadinAvadhirekhA	
 विरोधः	1	virodhaH	
 विलम्बः	3	vilambaH	
-विलापः - वियोगे	164	vilApaH_-_viyoge	
+विलापः	164	vilApaH	
 विवादः	3	vivAdaH	
 विवाह-च्छेदः	1	vivAha-chChedaH	
 विवाहः	8	vivAhaH	
@@ -1575,8 +1574,8 @@ wabi	1	wabi
 सनातन-स्थितिः	1	sanAtana-sthitiH	
 सन्तोषः	31	santoShaH	
 सन्देशः	38	sandeshaH	
-सन्देशः - नायकं प्रति	4	sandeshaH_-_nAyakaM_prati	
-सन्देशः - नायिकां प्रति	37	sandeshaH_-_nAyikAM_prati	
+सन्देशः	4	sandeshaH	
+सन्देशः	37	sandeshaH	
 सन्ध्या	9	sandhyA	
 सन्ध्या-वन्दनम्	2	sandhyA-vandanam	
 सन्ध्यावन्दनम्	1	sandhyAvandanam	
@@ -1703,7 +1702,7 @@ wabi	1	wabi
 स्त्री-शरीरम्	325	strI-sharIram	
 स्त्री-सौन्दर्यम्	26	strI-saundaryam	
 स्त्रीः	149	strIH	
-स्त्रीः - निन्दा	83	strIH_-_nindA	
+स्त्रीः	83	strIH	
 स्त्रीलोभः	1	strIlobhaH	
 स्त्रीशोषण-वादः	1	strIshoShaNa-vAdaH	
 स्त्रीसौन्दर्यम्	6	strIsaundaryam	
