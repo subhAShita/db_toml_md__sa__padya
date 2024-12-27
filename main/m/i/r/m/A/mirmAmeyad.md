@@ -3,7 +3,7 @@ topics = [ "प्रौढोक्तिः", "प्रतिभा",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "थ", "क",]
+pratimaalaa_letters = [ "थ", "क",]
 jsonClass = "Subhaashita"
 title = "निर्माणे यदि"
 

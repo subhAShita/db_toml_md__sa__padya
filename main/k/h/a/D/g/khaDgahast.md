@@ -2,7 +2,7 @@
 topics = [ "शूरः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// २२ शूरः// 34",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "श", "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "खड्गहस्तोऽरिमालोक्य"
 

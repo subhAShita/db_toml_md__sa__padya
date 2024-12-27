@@ -3,7 +3,7 @@ topics = [ "वसन्तः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "पृथ्वी",]
-pratimaala_letters = [ "न", "इ",]
+pratimaalaa_letters = [ "न", "इ",]
 jsonClass = "Subhaashita"
 title = "किमत्र मधु"
 

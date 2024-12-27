@@ -3,7 +3,7 @@ sources = [ "पॆजत्ताय-रामकृष्णः - मुक्
 topics = [ "प्रणय-कोपः",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "ब", "ग",]
+pratimaalaa_letters = [ "ब", "ग",]
 jsonClass = "Subhaashita"
 title = "द्वारं नोद्घाटयेयम्"
 

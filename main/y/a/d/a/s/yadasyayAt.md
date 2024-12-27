@@ -2,7 +2,7 @@
 topics = [ "राजयात्रा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०९ राजयात्रावर्णनम्// 6",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ध", "त",]
+pratimaalaa_letters = [ "ध", "त",]
 jsonClass = "Subhaashita"
 title = "यदस्य यात्रासु"
 

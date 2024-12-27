@@ -3,7 +3,7 @@ sources = [ "वासुकिज-विश्वासः - मुक्तक
 topics = [ "कुकविः",]
 ratings = [ "vvasuki:5",]
 meters = [ "उपेन्द्रवज्रा",]
-pratimaala_letters = [ "र",]
+pratimaalaa_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "विचेष्टितानाम्"
 

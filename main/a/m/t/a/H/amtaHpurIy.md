@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1593", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 145",]
 topics = [ "राजा",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "श", "द",]
+pratimaalaa_letters = [ "श", "द",]
 jsonClass = "Subhaashita"
 title = "अन्तःपुरीयसि रणेषु"
 

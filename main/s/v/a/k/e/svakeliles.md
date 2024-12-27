@@ -3,7 +3,7 @@ topics = [ "युवा", "यौवनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०३ युववर्णनम्// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaala_letters = [ "र", "अ",]
+pratimaalaa_letters = [ "र", "अ",]
 jsonClass = "Subhaashita"
 title = "स्वकेलिलेशस्मितनिन्दितेन्दुनो"
 

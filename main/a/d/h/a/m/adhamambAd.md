@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1039", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 698",]
 topics = [ "नीतिः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ष", "प",]
+pratimaalaa_letters = [ "ष", "प",]
 jsonClass = "Subhaashita"
 title = "अधमं बाधते"
 

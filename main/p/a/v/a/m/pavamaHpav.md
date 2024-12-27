@@ -3,7 +3,7 @@ topics = [ "रामः", "मकरः", "गङ्गा",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "व", "झ",]
+pratimaalaa_letters = [ "व", "झ",]
 jsonClass = "Subhaashita"
 title = "पवनः पवतामस्मि"
 

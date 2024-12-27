@@ -3,7 +3,7 @@ topics = [ "दूत्युपहासप्रश्नः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २४ दूत्युपहासप्रश्नाः// 6",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "ण", "त",]
+pratimaalaa_letters = [ "ण", "त",]
 jsonClass = "Subhaashita"
 title = "रजन्यामन्यस्याम्"
 

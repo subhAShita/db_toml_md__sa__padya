@@ -3,7 +3,7 @@ sources = [ "वीणोदयनपत्नी - मुक्तकम्",]
 topics = [ "देवः", "ध्यानम्",]
 ratings = [ "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "प",]
+pratimaalaa_letters = [ "न", "प",]
 jsonClass = "Subhaashita"
 title = "स्थानकस्थितपान्थाः किम्"
 

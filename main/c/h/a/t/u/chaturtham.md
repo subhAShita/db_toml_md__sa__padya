@@ -3,7 +3,7 @@ topics = [ "ब्रह्मचर्यम्", "गृहस्थः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "चतुर्थमायुषो"
 

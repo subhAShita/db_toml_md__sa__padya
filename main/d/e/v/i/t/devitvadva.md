@@ -3,7 +3,7 @@ topics = [ "पार्वती",]
 secondary_sources = [ "शृङ्गार-प्रकाशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "इ", "व",]
+pratimaalaa_letters = [ "इ", "व",]
 jsonClass = "Subhaashita"
 title = "देवि"
 

@@ -3,7 +3,7 @@ topics = [ "चन्द्रोदयवर्णनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//३३ चन्द्रोदयवर्णनम्// 105",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "र", "य",]
+pratimaalaa_letters = [ "र", "य",]
 jsonClass = "Subhaashita"
 title = "ये पूर्वम्"
 

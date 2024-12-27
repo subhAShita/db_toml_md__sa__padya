@@ -3,7 +3,7 @@ topics = [ "समग्रस्त्रीस्वरूपम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 31",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "ष", "ब",]
+pratimaalaa_letters = [ "ष", "ब",]
 jsonClass = "Subhaashita"
 title = "वेणी विडम्बयति"
 

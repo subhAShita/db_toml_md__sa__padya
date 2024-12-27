@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9851", "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 184",]
 topics = [ "दशावताराः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "इ", "र",]
+pratimaalaa_letters = [ "इ", "र",]
 jsonClass = "Subhaashita"
 title = "कालिन्दीपुलिनोदरेषु"
 

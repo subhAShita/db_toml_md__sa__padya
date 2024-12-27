@@ -2,7 +2,7 @@
 topics = [ "कालः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 197",]
 meters = [ "माया",]
-pratimaala_letters = [ "र", "य",]
+pratimaalaa_letters = [ "र", "य",]
 jsonClass = "Subhaashita"
 title = "भगीरथाद्याः सगरः"
 

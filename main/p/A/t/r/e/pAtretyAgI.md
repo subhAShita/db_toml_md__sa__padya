@@ -2,7 +2,7 @@
 topics = [ "राजा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ०१ राजा// 12",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "भ", "त",]
+pratimaalaa_letters = [ "भ", "त",]
 jsonClass = "Subhaashita"
 title = "पात्रे त्यागी"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8850A",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "श", "क",]
+pratimaalaa_letters = [ "श", "क",]
 jsonClass = "Subhaashita"
 title = "कर्तव्यं जिनवन्दनम्"
 

@@ -3,7 +3,7 @@ topics = [ "नीतिः", "भावः", "भक्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 596",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "भ", "म",]
+pratimaalaa_letters = [ "भ", "म",]
 jsonClass = "Subhaashita"
 title = "न देवो"
 

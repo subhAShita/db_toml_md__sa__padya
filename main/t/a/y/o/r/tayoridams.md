@@ -3,7 +3,7 @@ topics = [ "काव्य-प्रयोजनम्",]
 sources = [ "शूद्रकः - मृच्छकटिकम्",]
 ratings = [ "vvasuki:4",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaala_letters = [ "ख", "प",]
+pratimaalaa_letters = [ "ख", "प",]
 jsonClass = "Subhaashita"
 title = "तयोरिदम्"
 

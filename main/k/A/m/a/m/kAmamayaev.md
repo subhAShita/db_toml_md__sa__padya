@@ -3,7 +3,7 @@ topics = [ "कामः", "कर्म", "फलम्",]
 sources = [ "बृहदारण्योपनिषत्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "य", "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "काममय एवायम्"
 

@@ -3,7 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "गुणग्राहिता", "पक्षपातः", "निष्पक्षता", "प्रामाणिकता", "हितवचन-ग्राहकता",]
 ratings = [ "vvasuki:5",]
 meters = [ "वियोगिनी",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "इयमिष्टगुणाय रोचताम्"
 

@@ -4,7 +4,7 @@ types = [ "प्रहेलिका",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 topics = [ "शिव-पूजा",]
 ratings = [ "vvasuki:5",]
-pratimaala_letters = [ "क",]
+pratimaalaa_letters = [ "क",]
 jsonClass = "Subhaashita"
 title = "उच्छिष्टं शिवनिर्माल्यम्"
 

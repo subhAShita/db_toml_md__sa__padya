@@ -3,7 +3,7 @@ topics = [ "काञ्ची",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//२५ नितम्बः// ०१ काञ्ची// 380",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
-pratimaala_letters = [ "प", "ग",]
+pratimaalaa_letters = [ "प", "ग",]
 jsonClass = "Subhaashita"
 title = "बद्धा मणिमयकाञ्ची"
 

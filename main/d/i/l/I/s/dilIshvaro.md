@@ -3,7 +3,7 @@ topics = [ "दानम्",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वाणी",]
-pratimaala_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "दिल्लीश्वरो वा"
 

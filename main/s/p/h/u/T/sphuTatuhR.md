@@ -3,7 +3,7 @@ topics = [ "नायिका", "कलहान्तरिता",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०४ कलहान्तरिता// 51",]
 rasas = [ "शृङ्गारः",]
 meters = [ "हरिणी",]
-pratimaala_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "इ", "त",]
 jsonClass = "Subhaashita"
 title = "स्फुटतु हृदयम्"
 

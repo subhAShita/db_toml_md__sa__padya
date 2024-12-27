@@ -2,7 +2,7 @@
 topics = [ "गवाक्षविलोकनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०९ राजयात्रावर्णनम्// ०३ गवाक्षविलोकनम्// 43",]
 meters = [ "मञ्जुभाषिणी",]
-pratimaala_letters = [ "र", "स",]
+pratimaalaa_letters = [ "र", "स",]
 jsonClass = "Subhaashita"
 title = "नलिनान्तिकोपहितपल्लवश्रिया"
 

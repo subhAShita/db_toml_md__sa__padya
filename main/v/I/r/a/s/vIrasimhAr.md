@@ -2,7 +2,7 @@
 topics = [ "राजा", "वीरसिंहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५५ वीरसिंहः// 187",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "उ", "व",]
+pratimaalaa_letters = [ "उ", "व",]
 jsonClass = "Subhaashita"
 title = "वीरसिंहारिनारीणामञ्जनाक्ताश्रुबिन्दवः"
 

@@ -4,7 +4,7 @@ meters = [ "अनुष्टुप् (श्लोक)",]
 sources = [ "श्रीहर्षः - नैषधीयचरितम्",]
 topics = [ "काम-प्रतिबन्धः",]
 ratings = [ "vvasuki:4",]
-pratimaala_letters = [ "स", "त",]
+pratimaalaa_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "ईर्ष्यया रक्षतो"
 

@@ -3,7 +3,7 @@ topics = [ "पार्वती",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "क",]
+pratimaalaa_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "दशोपनिषदो यस्या"
 

@@ -3,7 +3,7 @@ topics = [ "कुकविः",]
 sources = [ "पॆजत्ताय-रामकृष्णः",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "नापेक्षे शब्दजालम्"
 

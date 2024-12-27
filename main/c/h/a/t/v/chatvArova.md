@@ -5,7 +5,7 @@ meters = [ "शार्दूलविक्रीडितम्",]
 topics = [ "महाभारतम्",]
 sources = [ "भट्टनारायणः - वेणीसंहारम्",]
 ratings = [ "vvasuki:3",]
-pratimaala_letters = [ "भ", "क",]
+pratimaalaa_letters = [ "भ", "क",]
 jsonClass = "Subhaashita"
 title = "चत्वारो वयमृत्विजः"
 

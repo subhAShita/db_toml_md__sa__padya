@@ -4,7 +4,7 @@ rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "नेयं पयोदपटली,"
 

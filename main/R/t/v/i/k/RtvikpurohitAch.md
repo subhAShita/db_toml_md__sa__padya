@@ -3,7 +3,7 @@ topics = [ "वादः", "परिवार-सामरस्यम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ह", "ए",]
+pratimaalaa_letters = [ "ह", "ए",]
 jsonClass = "Subhaashita"
 title = "ऋत्विक्पुरोहिताचार्यैर्मातुलातिथिसंश्रितैः"
 

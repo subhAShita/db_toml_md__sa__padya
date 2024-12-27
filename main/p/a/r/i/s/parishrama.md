@@ -2,7 +2,7 @@
 topics = [ "कुकविः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 21",]
 meters = [ "उपजाति",]
-pratimaala_letters = [ "व", "प",]
+pratimaalaa_letters = [ "व", "प",]
 jsonClass = "Subhaashita"
 title = "परिश्रमज्ञं जनमन्तरेण"
 

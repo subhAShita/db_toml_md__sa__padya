@@ -4,7 +4,7 @@ topics = [ "व्यभिचारिणी", "व्रीडा", "प्र
 rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "ल",]
+pratimaalaa_letters = [ "ल",]
 jsonClass = "Subhaashita"
 title = "आस्तां विश्वसनम्"
 

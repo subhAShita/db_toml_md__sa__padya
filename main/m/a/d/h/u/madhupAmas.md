@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "रतिश्रान्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५४ विपरीतरतक्रिया// 10",]
 rasas = [ "शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "म", "व",]
+pratimaalaa_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "मधुपानसमुल्लसत्प्रवालम्"
 

@@ -2,7 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6248", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 295",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "प", "त",]
+pratimaalaa_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "ईर्ष्यी घृणी"
 

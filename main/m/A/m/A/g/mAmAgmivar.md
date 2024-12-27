@@ -3,7 +3,7 @@ topics = [ "सती",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७७ सतीवर्णनम्// 31",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "अ",]
 jsonClass = "Subhaashita"
 title = "मानाग्निवर्धनमहौषधमेतदेव"
 

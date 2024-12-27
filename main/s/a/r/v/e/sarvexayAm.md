@@ -3,7 +3,7 @@ topics = [ "अनित्यता", "मृत्युः", "अन्त्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 162",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "सर्वे क्षयान्ता"
 

@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "रतिश्रान्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५४ विपरीतरतक्रिया// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपगीति",]
-pratimaala_letters = [ "ध", "प",]
+pratimaalaa_letters = [ "ध", "प",]
 jsonClass = "Subhaashita"
 title = "साक्षादभूत्स्वयम्भूरथ"
 

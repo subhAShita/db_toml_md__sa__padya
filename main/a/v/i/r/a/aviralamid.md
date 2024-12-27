@@ -3,7 +3,7 @@ topics = [ "जलकेलिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०३ जलकेलिः// 114",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "य", "प",]
+pratimaalaa_letters = [ "य", "प",]
 jsonClass = "Subhaashita"
 title = "अविरलमिदमम्भः"
 

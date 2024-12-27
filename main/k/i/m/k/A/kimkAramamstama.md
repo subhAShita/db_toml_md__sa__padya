@@ -2,7 +2,7 @@
 topics = [ "स्त्री-सौन्दर्यम्", "रतिः", "जरा",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ह", "प",]
+pratimaalaa_letters = [ "ह", "प",]
 jsonClass = "Subhaashita"
 title = "किं कारणम्"
 

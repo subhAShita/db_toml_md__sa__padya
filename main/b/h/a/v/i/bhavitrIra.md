@@ -4,7 +4,7 @@ types = [ "प्रश्नोत्तरम्",]
 topics = [ "चाटु", "रावणः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "न", "इ",]
+pratimaalaa_letters = [ "न", "इ",]
 jsonClass = "Subhaashita"
 title = "भवित्री रम्भोरु"
 

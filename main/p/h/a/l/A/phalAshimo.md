@@ -2,7 +2,7 @@
 topics = [ "दरिद्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३० दरिद्रनिन्दा// 49",]
 meters = [ "उपजाति",]
-pratimaala_letters = [ "म", "ग",]
+pratimaalaa_letters = [ "म", "ग",]
 jsonClass = "Subhaashita"
 title = "फलाशिनो मूलतृणाम्बुभक्षा"
 

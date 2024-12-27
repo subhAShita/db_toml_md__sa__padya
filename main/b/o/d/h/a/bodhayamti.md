@@ -3,7 +3,7 @@ topics = [ "कृपणः", "दानम्", "भिक्षुकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 9",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "द", "म",]
+pratimaalaa_letters = [ "द", "म",]
 jsonClass = "Subhaashita"
 title = "बोधयन्ति न"
 

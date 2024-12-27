@@ -4,7 +4,7 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 sources = [ "शार्ङ्गधरपद्धतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शालिनी",]
-pratimaala_letters = [ "य", "व",]
+pratimaalaa_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "शीलाविज्जामारुलामोरिकाद्याः"
 

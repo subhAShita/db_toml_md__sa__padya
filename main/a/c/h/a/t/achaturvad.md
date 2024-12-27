@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0343", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २७ व्यासः// 56",]
 topics = [ "व्यासः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ण", "अ",]
+pratimaalaa_letters = [ "ण", "अ",]
 jsonClass = "Subhaashita"
 title = "अचतुर्वदनो ब्रह्मा"
 

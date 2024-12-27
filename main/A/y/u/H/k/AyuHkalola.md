@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5132", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 188",]
 topics = [ "अनित्यता",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "म", "क",]
+pratimaalaa_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "आयुः कल्लोललोलम्"
 

@@ -2,7 +2,7 @@
 topics = [ "रथवेगः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १८ रथवेगवर्णनम्// 3",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "य", "व",]
+pratimaalaa_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "मुक्तेषु रश्मिषु"
 

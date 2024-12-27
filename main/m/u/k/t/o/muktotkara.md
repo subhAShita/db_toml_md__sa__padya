@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "कण्ठः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१४ कण्ठः// 217",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वाणी",]
-pratimaala_letters = [ "ज", "प",]
+pratimaalaa_letters = [ "ज", "प",]
 jsonClass = "Subhaashita"
 title = "मुक्तोत्करः"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8730", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 17",]
 topics = [ "कीर्तिः",]
 meters = [ "औपच्छन्दसिकम्",]
-pratimaala_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "करवालकरालवारिधारा यमुना"
 

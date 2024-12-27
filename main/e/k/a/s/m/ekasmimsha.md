@@ -4,7 +4,7 @@ topics = [ "परस्परप्रसादः", "शृङ्गारः"
 rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "ह", "द",]
+pratimaalaa_letters = [ "ह", "द",]
 jsonClass = "Subhaashita"
 title = "एकस्मिञ् शयने"
 

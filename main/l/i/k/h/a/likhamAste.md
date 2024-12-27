@@ -3,7 +3,7 @@ topics = [ "सख्यनुनयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३९ सख्यनुनयः// 12",]
 rasas = [ "शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "न", "प",]
+pratimaalaa_letters = [ "न", "प",]
 jsonClass = "Subhaashita"
 title = "लिखन्नास्ते भूमिम्"
 

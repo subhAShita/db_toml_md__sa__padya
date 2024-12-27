@@ -3,7 +3,7 @@ topics = [ "रसः", "काव्यम्",]
 sources = [ "धनञ्जयः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "क", "य",]
+pratimaalaa_letters = [ "क", "य",]
 jsonClass = "Subhaashita"
 title = "रम्यम्"
 

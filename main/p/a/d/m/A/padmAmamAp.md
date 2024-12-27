@@ -2,7 +2,7 @@
 topics = [ "राजसभा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०१ राजसभावर्णनम्// 10",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "भ", "प",]
+pratimaalaa_letters = [ "भ", "प",]
 jsonClass = "Subhaashita"
 title = "पद्मानना पद्मपलाशनेत्रा"
 

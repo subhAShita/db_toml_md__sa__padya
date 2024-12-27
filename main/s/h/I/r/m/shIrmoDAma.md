@@ -3,7 +3,7 @@ topics = [ "धूमवती",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "व",]
+pratimaalaa_letters = [ "व",]
 jsonClass = "Subhaashita"
 title = "शीर्णोड्डामरकेतुकाकरटितप्रख्यापिताभ्यागमा"
 

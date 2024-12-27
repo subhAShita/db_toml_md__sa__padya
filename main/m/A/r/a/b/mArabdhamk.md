@@ -3,7 +3,7 @@ topics = [ "नायक-संलापः", "चाटुवचनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४६ प्रियचाटूक्तयः// 47",]
 rasas = [ "शृङ्गारः",]
 meters = [ "प्रहर्षिणी",]
-pratimaala_letters = [ "द", "क",]
+pratimaalaa_letters = [ "द", "क",]
 jsonClass = "Subhaashita"
 title = "नारब्धं कुचपरिरम्भणेषु"
 

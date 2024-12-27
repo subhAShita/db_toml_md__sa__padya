@@ -3,7 +3,7 @@ topics = [ "कालिदासः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "उ", "त",]
+pratimaalaa_letters = [ "उ", "त",]
 jsonClass = "Subhaashita"
 title = "उपमा कालिदासस्य"
 

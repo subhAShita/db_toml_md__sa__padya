@@ -2,7 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 837",]
 meters = [ "रामा",]
-pratimaala_letters = [ "ण", "त",]
+pratimaalaa_letters = [ "ण", "त",]
 jsonClass = "Subhaashita"
 title = "दन्तस्य निर्घर्षणकेन"
 

@@ -3,7 +3,7 @@ topics = [ "प्रिय-वियोगः", "विरहदिनावध
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
-pratimaala_letters = [ "व",]
+pratimaalaa_letters = [ "व",]
 jsonClass = "Subhaashita"
 title = "प्रोञ्छति"
 

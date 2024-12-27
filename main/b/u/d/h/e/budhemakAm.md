@@ -3,7 +3,7 @@ topics = [ "रतिः", "व्याकरणम्",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "स", "य",]
+pratimaalaa_letters = [ "स", "य",]
 jsonClass = "Subhaashita"
 title = "बुधेन कामदेवेन"
 

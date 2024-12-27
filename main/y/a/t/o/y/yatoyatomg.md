@@ -3,7 +3,7 @@ topics = [ "समग्रस्त्रीस्वरूपम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 28",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaala_letters = [ "य",]
+pratimaalaa_letters = [ "य",]
 jsonClass = "Subhaashita"
 title = "यतो यतोऽङ्गादपयाति"
 

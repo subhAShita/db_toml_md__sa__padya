@@ -3,7 +3,7 @@ topics = [ "तर्कः", "वितण्डा", "शुष्कतर्
 sources = [ "कूर्मपुराणे",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "इ", "त",]
 jsonClass = "Subhaashita"
 title = "पूर्वापराविरोधेन"
 

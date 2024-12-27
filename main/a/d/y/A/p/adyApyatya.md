@@ -3,7 +3,7 @@ topics = [ "दुर्गा",]
 sources = [ "शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "अद्याप्यत्यक्तदैत्यासृक्सम्पर्कमिव"
 

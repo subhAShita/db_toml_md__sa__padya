@@ -3,7 +3,7 @@ topics = [ "व्यभिचारिणी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 25",]
 rasas = [ "शृङ्गारः",]
 meters = [ "पुष्पिताग्रा",]
-pratimaala_letters = [ "म", "ग",]
+pratimaalaa_letters = [ "म", "ग",]
 jsonClass = "Subhaashita"
 title = "शिरशि शिरसिजम्"
 

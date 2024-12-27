@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "मुखम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// 193",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "य", "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "प्रविश झटिति"
 

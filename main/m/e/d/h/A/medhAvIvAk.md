@@ -2,7 +2,7 @@
 topics = [ "दूतः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// १३ दूतः// 69",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ध", "त",]
+pratimaalaa_letters = [ "ध", "त",]
 jsonClass = "Subhaashita"
 title = "मेधावी वाक्पटुः"
 

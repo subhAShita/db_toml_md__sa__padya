@@ -3,7 +3,7 @@ topics = [ "नीतिः", "वस्त्रम्", "अलङ्कार
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 888",]
 ratings = [ "vvasuki:5",]
 meters = [ "इन्द्रवज्रा",]
-pratimaala_letters = [ "र", "प",]
+pratimaalaa_letters = [ "र", "प",]
 jsonClass = "Subhaashita"
 title = "किं वाससा"
 

@@ -3,7 +3,7 @@ topics = [ "धर्मः", "अर्थः",]
 sources = [ "भीमः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "इ", "थ",]
+pratimaalaa_letters = [ "इ", "थ",]
 jsonClass = "Subhaashita"
 title = "सर्वथा धर्ममूलोऽर्थो"
 

@@ -3,7 +3,7 @@ topics = [ "आनन्दः",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "पलाण्डुपत्रनिर्मोकप्रयास"
 

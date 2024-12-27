@@ -3,7 +3,7 @@ topics = [ "प्रियस्य निर्गमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ६१ नायिकानिर्गमनम्// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "श", "प",]
+pratimaalaa_letters = [ "श", "प",]
 jsonClass = "Subhaashita"
 title = "प्रबुद्धायाः"
 

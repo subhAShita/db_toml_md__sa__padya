@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4387", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १६ मीमांसकप्रशंसा// 2",]
 topics = [ "मीमांसकः",]
 meters = [ "गीति",]
-pratimaala_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "आगमरूपविचारिण्य्"
 

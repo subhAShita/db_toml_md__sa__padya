@@ -2,7 +2,7 @@
 topics = [ "सज्जनः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 58",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "च", "स",]
+pratimaalaa_letters = [ "च", "स",]
 jsonClass = "Subhaashita"
 title = "सम्पत्तौ कोमलम्"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  05 अन्योक्तिप्रकरणम्// ०३ मेघान्योक्तयः// 65",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - मेघः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "त",]
+pratimaalaa_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "भेकैः कोटरशायिभिर्मृतमिव"
 

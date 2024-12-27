@@ -3,7 +3,7 @@ topics = [ "नायिकां प्रति सखीवचनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १६ नायिकां प्रति सखीवचनम्// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
-pratimaala_letters = [ "श", "म",]
+pratimaalaa_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "सखि पतिविरहहुताशः"
 

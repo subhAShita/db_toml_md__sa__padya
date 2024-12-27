@@ -3,7 +3,7 @@ topics = [ "भोज्यता", "भ्रूण-हत्या",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "श", "च",]
+pratimaalaa_letters = [ "श", "च",]
 jsonClass = "Subhaashita"
 title = "मत्तक्रुद्धातुराणां च"
 

@@ -4,7 +4,7 @@ topics = [ "आचारः", "अनुष्ठानम्",]
 sources = [ "वसिष्ठस्मृतिः", "देवीभागवतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ष", "छ",]
+pratimaalaa_letters = [ "ष", "छ",]
 jsonClass = "Subhaashita"
 title = "आचारहीनं न"
 

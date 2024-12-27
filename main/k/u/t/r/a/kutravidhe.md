@@ -2,7 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 764",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "ष", "अ",]
+pratimaalaa_letters = [ "ष", "अ",]
 jsonClass = "Subhaashita"
 title = "कुत्र विधेयो"
 

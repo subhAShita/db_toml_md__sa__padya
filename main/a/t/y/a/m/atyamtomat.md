@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0667",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "न", "भ",]
+pratimaalaa_letters = [ "न", "भ",]
 jsonClass = "Subhaashita"
 title = "अत्यन्तोन्नतपूर्वपर्वतमहापीठे"
 

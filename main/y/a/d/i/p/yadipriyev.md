@@ -3,7 +3,7 @@ topics = [ "प्रणयकलहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३८ प्रणयकलहे नायिकानुनयः// 15",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपेन्द्रवज्रा",]
-pratimaala_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "यदि प्रिये"
 

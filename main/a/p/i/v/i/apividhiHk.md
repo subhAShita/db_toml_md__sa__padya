@@ -4,7 +4,7 @@ topics = [ "मदनं प्रत्युक्तयः",]
 types = [ "विलापः - मदनं प्रति",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 meters = [ "द्रुतविलम्बितम्",]
-pratimaala_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "अपि विधिः"
 

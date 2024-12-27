@@ -3,7 +3,7 @@ topics = [ "चक्रवाकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २७ चक्रवाकावस्थाख्यानम्// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaala_letters = [ "आ", "प",]
+pratimaalaa_letters = [ "आ", "प",]
 jsonClass = "Subhaashita"
 title = "गम्यतामुपगते नयनानाम्"
 

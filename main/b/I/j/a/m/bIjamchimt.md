@@ -2,7 +2,7 @@
 topics = [ "राजा", "रामचन्द्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ४५ रामचन्द्रः// 167",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "ष", "व",]
+pratimaalaa_letters = [ "ष", "व",]
 jsonClass = "Subhaashita"
 title = "बीजम्"
 

@@ -3,7 +3,7 @@ topics = [ "प्रणयकलहः", "वाग्रोधः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४० कलहान्तरिताप्रलापाख्यानम्// 6",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "नवनखपदभङ्गम्"
 

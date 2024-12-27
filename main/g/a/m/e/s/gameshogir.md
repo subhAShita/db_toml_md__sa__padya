@@ -3,7 +3,7 @@ topics = [ "देवताः",]
 sources = [ "राघवेन्द्रः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "य", "ग",]
+pratimaalaa_letters = [ "य", "ग",]
 jsonClass = "Subhaashita"
 title = "गणेशो गिरिशो"
 

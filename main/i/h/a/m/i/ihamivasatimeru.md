@@ -3,7 +3,7 @@ topics = [ "भूम्युपवेशनम्",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "इ", "म",]
+pratimaalaa_letters = [ "इ", "म",]
 jsonClass = "Subhaashita"
 title = "इह निवसति"
 

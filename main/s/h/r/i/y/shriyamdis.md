@@ -3,7 +3,7 @@ sources = [ "लक्ष्मणः - सूक्तिरत्नकोश�
 topics = [ "खलः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "य", "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "श्रियं दिशतु"
 

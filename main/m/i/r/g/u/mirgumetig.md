@@ -3,7 +3,7 @@ topics = [ "कृष्णः",]
 sources = [ "सुहासः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "क", "प",]
+pratimaalaa_letters = [ "क", "प",]
 jsonClass = "Subhaashita"
 title = "\"निर्गुणे!\"ति गिरा"
 

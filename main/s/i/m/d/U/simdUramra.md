@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "सुरतकेलिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 45",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "च", "र",]
+pratimaalaa_letters = [ "च", "र",]
 jsonClass = "Subhaashita"
 title = "सिन्दूरं रविमिन्दमाननमसौ"
 

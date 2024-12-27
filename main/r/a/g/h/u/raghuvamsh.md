@@ -3,7 +3,7 @@ topics = [ "रामः",]
 sources = [ "कृष्ण-तातार्यः - परमुखचपेटिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
-pratimaala_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "अ",]
 jsonClass = "Subhaashita"
 title = "रघुवंशदुग्धजलधौ जातम्"
 

@@ -3,7 +3,7 @@ topics = [ "धीरः", "विघ्नः", "पुरुषकारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 7",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या", "आर्या (लोओसे स्छेम)",]
-pratimaala_letters = [ "य", "व",]
+pratimaalaa_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "अङ्गणवेदी वसुधा"
 

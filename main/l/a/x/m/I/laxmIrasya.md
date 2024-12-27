@@ -2,7 +2,7 @@
 topics = [ "समुद्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १९ समुद्रवर्णनम्// 2",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "इ", "र",]
+pratimaalaa_letters = [ "इ", "र",]
 jsonClass = "Subhaashita"
 title = "लक्ष्मीरस्य हि"
 

@@ -3,7 +3,7 @@ topics = [ "वसन्तः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 27",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपजाति",]
-pratimaala_letters = [ "र",]
+pratimaalaa_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "लग्नद्विरेफाञ्जनभक्तिचित्रम्"
 

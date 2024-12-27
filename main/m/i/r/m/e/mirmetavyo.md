@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "रोमावली",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २३ रोमावली// 365",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaala_letters = [ "र",]
+pratimaalaa_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "निर्णेतव्यो"
 

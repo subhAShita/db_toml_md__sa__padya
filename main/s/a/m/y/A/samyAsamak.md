@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "सुरतनिवृत्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५५ सुरतनिवृत्तिः// 1",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "र", "त",]
+pratimaalaa_letters = [ "र", "त",]
 jsonClass = "Subhaashita"
 title = "सन्यासमकृत काञ्ची"
 

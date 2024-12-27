@@ -2,7 +2,7 @@
 topics = [ "हयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०६ हयः// 11",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "ह", "त",]
+pratimaalaa_letters = [ "ह", "त",]
 jsonClass = "Subhaashita"
 title = "पुरो नुन्नः"
 

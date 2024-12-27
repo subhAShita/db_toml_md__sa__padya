@@ -3,7 +3,7 @@ topics = [ "आत्मज्ञानम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "भ", "क",]
+pratimaalaa_letters = [ "भ", "क",]
 jsonClass = "Subhaashita"
 title = "चत्वारोऽम्बुधयस्तरङ्गमुखरास्ते"
 

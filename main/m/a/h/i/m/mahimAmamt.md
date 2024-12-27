@@ -2,7 +2,7 @@
 topics = [ "वीरः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ४१ वीरप्रशंसा// 4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "भ", "फ",]
+pratimaalaa_letters = [ "भ", "फ",]
 jsonClass = "Subhaashita"
 title = "महिम्नामन्तरं पश्य"
 

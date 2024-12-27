@@ -2,7 +2,7 @@
 topics = [ "दुर्नगरम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "म", "क",]
+pratimaalaa_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "विप्रास्मिन्नगरे महान्"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1555",]
 meters = [ "उपजाति",]
-pratimaala_letters = [ "स", "अ",]
+pratimaalaa_letters = [ "स", "अ",]
 jsonClass = "Subhaashita"
 title = "अनेन कुम्भद्वयसन्निवेश"
 

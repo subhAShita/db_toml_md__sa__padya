@@ -3,7 +3,7 @@ topics = [ "रोगः", "चिकित्सा", "सद्भावना
 sources = [ "चरकः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ज", "च",]
+pratimaalaa_letters = [ "ज", "च",]
 jsonClass = "Subhaashita"
 title = "भक्त्या मातुः"
 

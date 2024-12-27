@@ -3,7 +3,7 @@ sources = [ "शशिकिरणः - मुक्तकम्",]
 topics = [ "सूर्योदयः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "म",]
+pratimaalaa_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "प्रक्रीय स्मरशासनस्य"
 

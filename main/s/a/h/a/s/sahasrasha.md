@@ -3,7 +3,7 @@ topics = [ "दानम्", "शक्तिः", "दानफलम्",]
 ratings = [ "vvasuki:5",]
 sources = [ "महाभारतम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "सहस्रशक्तिश् च"
 

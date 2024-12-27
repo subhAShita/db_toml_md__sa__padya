@@ -3,7 +3,7 @@ topics = [ "वाक्पटुता", "प्रौढोक्तिः",]
 sources = [ "वामनभट्टबाणः - वेमभूपालचरितम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
-pratimaala_letters = [ "ल", "इ",]
+pratimaalaa_letters = [ "ल", "इ",]
 jsonClass = "Subhaashita"
 title = "बाणादन्ये कवयः"
 

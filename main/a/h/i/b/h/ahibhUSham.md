@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4107", "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 21",]
 topics = [ "शिवः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "द",]
+pratimaalaa_letters = [ "द",]
 jsonClass = "Subhaashita"
 title = "अहिभूषणोऽप्यभयदः"
 

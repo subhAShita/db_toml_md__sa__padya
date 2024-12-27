@@ -3,7 +3,7 @@ topics = [ "नायिका", "वासकसज्जा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०७ वासकसज्जा// 94",]
 rasas = [ "शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ए", "य",]
+pratimaalaa_letters = [ "ए", "य",]
 jsonClass = "Subhaashita"
 title = "दृष्ट्वा दर्पणमण्डले"
 

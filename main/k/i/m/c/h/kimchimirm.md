@@ -2,7 +2,7 @@
 topics = [ "विष्णुः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 09 विष्णुः// 41",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "किञ्चिन्निर्मुच्यमाने"
 

@@ -3,7 +3,7 @@ topics = [ "विहारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०३ विहारः// 27",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaala_letters = [ "न", "क",]
+pratimaalaa_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "चक्रुरेव ललनोरुषु"
 

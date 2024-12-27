@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4159", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 63",]
 topics = [ "दुर्जनः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "अहो प्रकृतिसादृश्यम्"
 

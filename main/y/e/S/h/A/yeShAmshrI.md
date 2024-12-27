@@ -2,7 +2,7 @@
 topics = [ "तत्त्वज्ञानम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०७ विचारः// 263",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "य", "ग",]
+pratimaalaa_letters = [ "य", "ग",]
 jsonClass = "Subhaashita"
 title = "येषाम्"
 

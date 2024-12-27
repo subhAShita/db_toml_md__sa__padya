@@ -4,7 +4,7 @@ topics = [ "जयदेवः", "वाक्पटुता", "प्रौढ
 sources = [ "जयदेवः",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "साध्वी माध्वीक"
 

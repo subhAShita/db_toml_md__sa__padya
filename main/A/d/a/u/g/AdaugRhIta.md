@@ -4,7 +4,7 @@ types = [ "अपह्नुतिः",]
 topics = [ "रतिः", "कण्डूयनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या (लोओसे स्छेम)", "गीति",]
-pratimaala_letters = [ "न", "म",]
+pratimaalaa_letters = [ "न", "म",]
 jsonClass = "Subhaashita"
 title = "आदौ गृहीतपाणिः"
 

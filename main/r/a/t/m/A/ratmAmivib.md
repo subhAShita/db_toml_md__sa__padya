@@ -3,7 +3,7 @@ topics = [ "स्त्रीः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 30",]
 rasas = [ "शृङ्गारः",]
 meters = [ "समुद्रकान्ता",]
-pratimaala_letters = [ "च", "त",]
+pratimaalaa_letters = [ "च", "त",]
 jsonClass = "Subhaashita"
 title = "रत्नानि विभूषयन्ति"
 

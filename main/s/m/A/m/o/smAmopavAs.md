@@ -3,7 +3,7 @@ topics = [ "पुण्यम्", "तीर्थयात्रा", "पु
 sources = [ "विष्णुरहस्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "स्नानोपवासयात्रादौ"
 

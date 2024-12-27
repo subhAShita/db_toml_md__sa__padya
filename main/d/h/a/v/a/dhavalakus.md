@@ -2,7 +2,7 @@
 topics = [ "राजविभूषा", "राजा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०५ राजविभूषावर्णनम्// 7",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "श", "ल",]
+pratimaalaa_letters = [ "श", "ल",]
 jsonClass = "Subhaashita"
 title = "धवलकुसुमभास्वत्कञ्चुकस्योपरिष्टात्कनकपरिकरेण"
 

@@ -2,7 +2,7 @@
 topics = [ "राजा", "भैरवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ३२ भैरवः// 73",]
 meters = [ "उपजाति",]
-pratimaala_letters = [ "ष", "व",]
+pratimaalaa_letters = [ "ष", "व",]
 jsonClass = "Subhaashita"
 title = "धनानि विद्वत्कविमण्डलीषु"
 

@@ -3,7 +3,7 @@ topics = [ "शिवौ",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वाणी",]
-pratimaala_letters = [ "उ", "म",]
+pratimaalaa_letters = [ "उ", "म",]
 jsonClass = "Subhaashita"
 title = "द्यूते मिथः"
 

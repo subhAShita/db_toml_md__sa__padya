@@ -3,7 +3,7 @@ topics = [ "आचार्यः",]
 sources = [ "वेङ्कटनाथार्यः",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "सिद्धं सत्सम्प्रदाये"
 

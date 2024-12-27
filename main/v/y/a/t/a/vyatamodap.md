@@ -2,7 +2,7 @@
 topics = [ "गवाक्षविलोकनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०९ राजयात्रावर्णनम्// ०३ गवाक्षविलोकनम्// 40",]
 meters = [ "मञ्जुभाषिणी",]
-pratimaala_letters = [ "द", "म",]
+pratimaalaa_letters = [ "द", "म",]
 jsonClass = "Subhaashita"
 title = "व्यतनोदपास्य चरणम्"
 

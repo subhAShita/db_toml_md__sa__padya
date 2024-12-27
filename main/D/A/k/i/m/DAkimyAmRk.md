@@ -3,7 +3,7 @@ sources = [ "कुशाग्रः - मुक्तकम्",]
 topics = [ "दुर्गा",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "र", "प",]
+pratimaalaa_letters = [ "र", "प",]
 jsonClass = "Subhaashita"
 title = "डाकिन्या"
 

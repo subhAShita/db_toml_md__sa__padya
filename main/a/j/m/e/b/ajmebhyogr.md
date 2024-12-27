@@ -4,7 +4,7 @@ topics = [ "क्रियाशीलता", "शुष्क-पाण्ड
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "ध",]
+pratimaalaa_letters = [ "न", "ध",]
 jsonClass = "Subhaashita"
 title = "अज्ञेभ्यो ग्रन्थिनः"
 

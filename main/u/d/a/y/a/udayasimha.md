@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6730",]
 meters = [ "द्रुतविलम्बितम्",]
-pratimaala_letters = [ "स", "प",]
+pratimaalaa_letters = [ "स", "प",]
 jsonClass = "Subhaashita"
 title = "उदयसिंह धराधिपतौ"
 

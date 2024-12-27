@@ -3,7 +3,7 @@ topics = [ "स्त्रीः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०२ स्त्रीप्रशंसा// 49",]
 rasas = [ "शृङ्गारः",]
 meters = [ "पृथ्वी",]
-pratimaala_letters = [ "व",]
+pratimaalaa_letters = [ "व",]
 jsonClass = "Subhaashita"
 title = "विमुञ्चति बुधो"
 

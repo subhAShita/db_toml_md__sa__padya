@@ -4,7 +4,7 @@ topics = [ "पत्नी", "दाम्पत्यम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ह", "द",]
+pratimaalaa_letters = [ "ह", "द",]
 jsonClass = "Subhaashita"
 title = "अपत्यं धर्मकार्याणि"
 

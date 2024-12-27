@@ -2,7 +2,7 @@
 topics = [ "राजमिलनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०२ राजमिलनम्// 1",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "प", "त",]
+pratimaalaa_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "क्षुत्क्षामार्भकसम्भ्रमोक्तिनिगडैः"
 

@@ -2,7 +2,7 @@
 topics = [ "स्त्री-मोहः",]
 ratings = [ "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "क", "ण",]
+pratimaalaa_letters = [ "क", "ण",]
 jsonClass = "Subhaashita"
 title = "गिरीन्द्रशिखराकारो"
 

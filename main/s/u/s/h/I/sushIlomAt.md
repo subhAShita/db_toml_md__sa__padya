@@ -2,7 +2,7 @@
 topics = [ "पुण्यम्", "शीलम्", "चातुर्यम्", "औदार्यम्", "वंशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "न", "औ",]
+pratimaalaa_letters = [ "न", "औ",]
 jsonClass = "Subhaashita"
 title = "सुशीलो मातृपुण्येन,"
 

@@ -2,7 +2,7 @@
 topics = [ "वैयाकरणः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १२ वैयाकरणप्रशंसा// 7",]
 meters = [ "वाणी",]
-pratimaala_letters = [ "च", "क",]
+pratimaalaa_letters = [ "च", "क",]
 jsonClass = "Subhaashita"
 title = "नाङ्गीकृतव्याकरणौषधानामपाटवम्"
 

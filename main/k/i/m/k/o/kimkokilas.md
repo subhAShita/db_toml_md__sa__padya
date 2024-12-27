@@ -2,7 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 966",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "म", "ण",]
+pratimaalaa_letters = [ "म", "ण",]
 jsonClass = "Subhaashita"
 title = "किं कोकिलस्य"
 

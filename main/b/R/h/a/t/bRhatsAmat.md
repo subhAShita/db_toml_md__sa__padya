@@ -3,7 +3,7 @@ topics = [ "बृहत्साम", "गायत्री", "मार्ग
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "र", "म",]
+pratimaalaa_letters = [ "र", "म",]
 jsonClass = "Subhaashita"
 title = "बृहत्साम तथा"
 

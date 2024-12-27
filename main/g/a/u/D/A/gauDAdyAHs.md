@@ -2,7 +2,7 @@
 topics = [ "देशः", "देशभाषा", "गौडः", "मध्यदेशः",]
 ratings = [ "vvasuki:3",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ण", "अ",]
+pratimaalaa_letters = [ "ण", "अ",]
 jsonClass = "Subhaashita"
 title = "गौडाद्याः संस्कृतस्थाः"
 

@@ -3,7 +3,7 @@ topics = [ "शिक्षकः", "विद्याविक्रयः",]
 sources = [ "बत्रा-नरेशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ध", "क",]
+pratimaalaa_letters = [ "ध", "क",]
 jsonClass = "Subhaashita"
 title = "ध्वन्यालोकं पुरस्कृत्य"
 

@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "सुरतनिवृत्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५५ सुरतनिवृत्तिः// 5",]
 rasas = [ "शृङ्गारः",]
 meters = [ "विपरीताख्यानिकी",]
-pratimaala_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "पपात गङ्गा"
 

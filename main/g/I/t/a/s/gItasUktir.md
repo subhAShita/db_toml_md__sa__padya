@@ -3,7 +3,7 @@ topics = [ "कविः", "कीर्तिः",]
 sources = [ "राजशेखरः - काव्यमीमांसा",]
 ratings = [ "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "प",]
+pratimaalaa_letters = [ "प",]
 jsonClass = "Subhaashita"
 title = "गीतसूक्तिरतिक्रान्ते"
 

@@ -2,7 +2,7 @@
 topics = [ "सिंहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०१ सिंहः// 1",]
 meters = [ "बुद्धिः",]
-pratimaala_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "गर्जन्हरिः साम्भसि"
 

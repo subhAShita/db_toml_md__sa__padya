@@ -2,7 +2,7 @@
 topics = [ "राज्याधिकारगर्हणम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १६ राज्याधिकारगर्हणम्// 3",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "ष", "प",]
+pratimaalaa_letters = [ "ष", "प",]
 jsonClass = "Subhaashita"
 title = "परार्थानुष्ठाने जडयति"
 

@@ -3,7 +3,7 @@ topics = [ "वसन्तः", "वसन्त-वायुः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०४ वसन्तवायवः// 129",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "श", "म",]
+pratimaalaa_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "लताकुञ्जम्"
 

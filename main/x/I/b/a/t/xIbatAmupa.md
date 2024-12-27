@@ -3,7 +3,7 @@ topics = [ "पानगोष्ठी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 37",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaala_letters = [ "अ", "ग",]
+pratimaalaa_letters = [ "अ", "ग",]
 jsonClass = "Subhaashita"
 title = "क्षीबतामुपगतास्वनुवेलम्"
 

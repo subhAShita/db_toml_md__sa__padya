@@ -3,7 +3,7 @@ topics = [ "कवित्वम्",]
 sources = [ "राजशेखरः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "म", "य",]
+pratimaalaa_letters = [ "म", "य",]
 jsonClass = "Subhaashita"
 title = "मुक्तके कवयो'नन्ताः"
 

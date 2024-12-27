@@ -3,7 +3,7 @@ topics = [ "मध्यरात्रक्रीडा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५७ मध्यरात्रक्रीडावर्णनम्// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "हरिणी",]
-pratimaala_letters = [ "ज", "त",]
+pratimaalaa_letters = [ "ज", "त",]
 jsonClass = "Subhaashita"
 title = "वदनशशिनः स्पर्शे"
 

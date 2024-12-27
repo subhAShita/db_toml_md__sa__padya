@@ -3,7 +3,7 @@ topics = [ "गुरुः", "पिता", "अतिथिः", "बाध�
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "आचार्यो ब्रह्मलोकैशः"
 

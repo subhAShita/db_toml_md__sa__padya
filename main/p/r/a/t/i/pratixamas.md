@@ -3,7 +3,7 @@ topics = [ "सुरतम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५० सुरतप्रशंसा// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "पृथ्वी",]
-pratimaala_letters = [ "ण", "व",]
+pratimaalaa_letters = [ "ण", "व",]
 jsonClass = "Subhaashita"
 title = "प्रतिक्षणसमुल्लसन्नवकलाकलापान्वितक्षपाकरविलोकने"
 

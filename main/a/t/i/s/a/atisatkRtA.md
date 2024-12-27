@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0623", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 179",]
 topics = [ "दुर्जनः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "श",]
+pratimaalaa_letters = [ "श",]
 jsonClass = "Subhaashita"
 title = "अतिसत्कृता अपि"
 

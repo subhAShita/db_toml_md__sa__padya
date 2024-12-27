@@ -3,7 +3,7 @@ topics = [ "वराहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 39", "वक्रोक्तिजीवितम्",]
 meters = [ "स्रग्धरा",]
 ratings = [ "vvasuki:5",]
-pratimaala_letters = [ "ह", "द",]
+pratimaalaa_letters = [ "ह", "द",]
 jsonClass = "Subhaashita"
 title = "सिन्धुष्वङ्गावगाहः"
 

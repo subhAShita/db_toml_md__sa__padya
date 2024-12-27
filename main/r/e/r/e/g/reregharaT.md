@@ -3,7 +3,7 @@ topics = [ "कटाक्षः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// ०१ कटाक्षः// 101",]
 rasas = [ "शृङ्गारः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "थ", "क",]
+pratimaalaa_letters = [ "थ", "क",]
 jsonClass = "Subhaashita"
 title = "रे रे"
 

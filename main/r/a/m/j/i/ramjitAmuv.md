@@ -3,7 +3,7 @@ topics = [ "तमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३० तमोवर्णनम्// 9",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaala_letters = [ "ण", "प",]
+pratimaalaa_letters = [ "ण", "प",]
 jsonClass = "Subhaashita"
 title = "रञ्जिता नु"
 

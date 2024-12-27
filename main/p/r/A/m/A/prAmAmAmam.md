@@ -3,7 +3,7 @@ topics = [ "देवर्षिः", "ऋषिः", "महर्षिः", 
 sources = [ "कालिदासः", "कालिदासः - अभिज्ञानशाकुन्तलम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "ध", "म",]
+pratimaalaa_letters = [ "ध", "म",]
 jsonClass = "Subhaashita"
 title = "प्राणानामनिलेन"
 

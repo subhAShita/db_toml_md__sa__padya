@@ -3,7 +3,7 @@ topics = [ "गणेशः",]
 sources = [ "Copper plate, Srirangam (Epigraphia Indica Vol 14 p. 89)",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "च", "प",]
+pratimaalaa_letters = [ "च", "प",]
 jsonClass = "Subhaashita"
 title = "या"
 

@@ -3,7 +3,7 @@ topics = [ "भ्रमरक्रीडा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७३ शरद्वर्णनम्// ०२ भ्रमरक्रीडा// 49",]
 rasas = [ "शृङ्गारः",]
 meters = [ "ऋद्धिः",]
-pratimaala_letters = [ "क", "ण",]
+pratimaalaa_letters = [ "क", "ण",]
 jsonClass = "Subhaashita"
 title = "भ्रमात्प्रकीर्णे"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २४ वाल्मीकिः// 50",]
 topics = [ "वाल्मीकिः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "श", "म",]
+pratimaalaa_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "विहितघनालङ्कारम्"
 

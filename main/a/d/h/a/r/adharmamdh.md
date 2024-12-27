@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1067",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "स",]
+pratimaalaa_letters = [ "स",]
 jsonClass = "Subhaashita"
 title = "अधर्मं धर्ममिति"
 

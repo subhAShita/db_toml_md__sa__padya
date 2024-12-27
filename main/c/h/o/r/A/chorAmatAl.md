@@ -3,7 +3,7 @@ topics = [ "विश्वासः", "नीतिः",]
 sources = [ "राघवेन्द्रः",]
 ratings = [ "vvasuki:5",]
 meters = [ "इन्द्रवज्रा",]
-pratimaala_letters = [ "र", "त",]
+pratimaalaa_letters = [ "र", "त",]
 jsonClass = "Subhaashita"
 title = "चोरान्न तालम्"
 

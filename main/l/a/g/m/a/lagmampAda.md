@@ -3,7 +3,7 @@ topics = [ "नायिकादर्शनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १० नायिकादर्शनम्// 27",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "श", "क",]
+pratimaalaa_letters = [ "श", "क",]
 jsonClass = "Subhaashita"
 title = "लग्नं पादतले"
 

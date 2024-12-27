@@ -3,7 +3,7 @@ topics = [ "क्षत्रियः", "सम्मानः", "ब्रा
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न",]
+pratimaalaa_letters = [ "न",]
 jsonClass = "Subhaashita"
 title = "क्षत्रियं चैव"
 

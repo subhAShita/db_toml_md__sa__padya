@@ -3,7 +3,7 @@ topics = [ "वितण्डा",]
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न",]
+pratimaalaa_letters = [ "न",]
 jsonClass = "Subhaashita"
 title = "यत्र सूक्तम्"
 

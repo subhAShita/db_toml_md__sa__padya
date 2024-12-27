@@ -3,7 +3,7 @@ topics = [ "दुर्गा-सिंहः", "मानी",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - स्थलचरः", "अन्योक्तिः - सिंहः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "इ", "र",]
+pratimaalaa_letters = [ "इ", "र",]
 jsonClass = "Subhaashita"
 title = "संरम्भः"
 

@@ -4,7 +4,7 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 sources = [ "चाणक्यनीतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "श",]
+pratimaalaa_letters = [ "न", "श",]
 jsonClass = "Subhaashita"
 title = "हस्ती हस्तसहस्रेण"
 

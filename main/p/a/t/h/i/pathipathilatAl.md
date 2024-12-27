@@ -3,7 +3,7 @@ topics = [ "वसन्तः", "वसन्त-वायुः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०४ वसन्तवायवः// 131",]
 rasas = [ "शृङ्गारः",]
 meters = [ "हरिणी",]
-pratimaala_letters = [ "म", "ण",]
+pratimaalaa_letters = [ "म", "ण",]
 jsonClass = "Subhaashita"
 title = "पथि पथि"
 

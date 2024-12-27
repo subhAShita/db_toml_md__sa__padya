@@ -3,7 +3,7 @@ topics = [ "दृङ्मीलनक्रीडा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७५ शिशिरवर्णनम्// ०२ दृङ्मीलनक्रीडा// 16",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "न", "अ",]
+pratimaalaa_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "न पाणिप्रच्छाद्यम्"
 

@@ -2,7 +2,7 @@
 topics = [ "तुरगप्रशंसा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०७ तुरगप्रशंसा// 4",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaala_letters = [ "ज", "इ",]
+pratimaalaa_letters = [ "ज", "इ",]
 jsonClass = "Subhaashita"
 title = "प्रयातुमस्माकमिदम्"
 

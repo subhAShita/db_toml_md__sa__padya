@@ -3,7 +3,7 @@ topics = [ "भिक्षा", "दानम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ह", "त",]
+pratimaalaa_letters = [ "ह", "त",]
 jsonClass = "Subhaashita"
 title = "यत् पुण्यफलमाप्नोति"
 

@@ -3,7 +3,7 @@ topics = [ "शिष्टः",]
 sources = [ "कूर्मपुराणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "त",]
+pratimaalaa_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "धर्मेणाधिगतो यैस्तु"
 

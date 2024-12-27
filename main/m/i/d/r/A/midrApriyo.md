@@ -2,7 +2,7 @@
 topics = [ "निद्रा", "कथा", "जामिता",]
 ratings = [ "vvasuki:5",]
 meters = [ "वाणी",]
-pratimaala_letters = [ "म", "व",]
+pratimaalaa_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "निद्राप्रियो यः"
 

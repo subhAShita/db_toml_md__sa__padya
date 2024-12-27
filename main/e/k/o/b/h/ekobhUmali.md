@@ -4,7 +4,7 @@ topics = [ "प्रौढोक्तिः",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "य", "अ",]
+pratimaalaa_letters = [ "य", "अ",]
 jsonClass = "Subhaashita"
 title = "एकोऽभून्नलिनात् ततश्च"
 

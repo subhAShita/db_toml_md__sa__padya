@@ -1,7 +1,7 @@
 +++
 topics = [ "अश्वः",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "क", "त",]
+pratimaalaa_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "किं स्यन्दनैः"
 

@@ -3,7 +3,7 @@ topics = [ "ब्रह्म",]
 sources = [ "केनोपनिषत्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "त",]
+pratimaalaa_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "यच्चक्षुषा न"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1910",]
 meters = [ "हरिणी",]
-pratimaala_letters = [ "श", "य",]
+pratimaalaa_letters = [ "श", "य",]
 jsonClass = "Subhaashita"
 title = "अपनय महामोहम्"
 

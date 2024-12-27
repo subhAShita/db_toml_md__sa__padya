@@ -3,7 +3,7 @@ topics = [ "स्कन्दः", "रुद्रगणः", "चामुण
 sources = [ "भवभूतिः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "सावष्टम्भनिशुम्भसम्भ्रमणमद्भूगोलनिष्पीडन"
 

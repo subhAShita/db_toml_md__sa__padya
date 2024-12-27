@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5438", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 22",]
 topics = [ "तृष्णा",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ल", "आ",]
+pratimaalaa_letters = [ "ल", "आ",]
 jsonClass = "Subhaashita"
 title = "आशा बलवती"
 

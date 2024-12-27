@@ -3,7 +3,7 @@ topics = [ "नीतिः", "अनारम्भः", "कार्यम्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 479",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "क", "त",]
+pratimaalaa_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "दोषभीतेरनारम्भस्तत्कापुरुषलक्षणम्"
 

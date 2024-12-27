@@ -3,7 +3,7 @@ topics = [ "सती",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७७ सतीवर्णनम्// 23",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "ग", "ड",]
+pratimaalaa_letters = [ "ग", "ड",]
 jsonClass = "Subhaashita"
 title = "तल्पे प्रभुरिव"
 

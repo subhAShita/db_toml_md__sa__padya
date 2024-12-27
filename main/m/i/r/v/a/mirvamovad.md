@@ -3,7 +3,7 @@ topics = [ "वनम्", "व्याघ्रः",]
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "त",]
+pratimaalaa_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "निर्वनो वध्यते"
 

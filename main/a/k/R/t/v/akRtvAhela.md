@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0111", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ४२ तेजस्विप्रशंसा// 7",]
 topics = [ "तेजः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "क", "त",]
+pratimaalaa_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "अकृत्वा हेलया"
 

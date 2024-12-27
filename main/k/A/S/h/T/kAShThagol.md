@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9957",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ह", "अ",]
+pratimaalaa_letters = [ "ह", "अ",]
 jsonClass = "Subhaashita"
 title = "काष्ठगोलयुगं क्षिप्तम्"
 

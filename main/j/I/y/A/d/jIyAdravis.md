@@ -3,7 +3,7 @@ topics = [ "शृङ्गारः", "कृष्णः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "स",]
+pratimaalaa_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "जीयाद्रविसुतारोधःक्रीडारङ्गनटो"
 

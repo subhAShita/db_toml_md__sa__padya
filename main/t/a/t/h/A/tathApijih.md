@@ -3,7 +3,7 @@ topics = [ "सत्सङ्गः",]
 sources = [ "किरातार्जुनीयम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaala_letters = [ "भ", "स",]
+pratimaalaa_letters = [ "भ", "स",]
 jsonClass = "Subhaashita"
 title = "तथापि जिह्मः"
 

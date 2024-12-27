@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6168", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०८ पण्डितप्रशंसा// 23",]
 topics = [ "पण्डितः",]
 meters = [ "पुष्पिताग्रा",]
-pratimaala_letters = [ "स", "ग",]
+pratimaalaa_letters = [ "स", "ग",]
 jsonClass = "Subhaashita"
 title = "इह तुरगशतैः"
 

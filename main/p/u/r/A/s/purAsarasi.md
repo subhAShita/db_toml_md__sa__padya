@@ -5,7 +5,7 @@ topics = [ "पातः", "मानम्",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "पृथ्वी",]
-pratimaala_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "पुरा सरसि"
 

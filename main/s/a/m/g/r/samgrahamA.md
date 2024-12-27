@@ -2,7 +2,7 @@
 topics = [ "मन्त्री",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ०६ मन्त्री// 28",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "थ", "स",]
+pratimaalaa_letters = [ "थ", "स",]
 jsonClass = "Subhaashita"
 title = "सङ्ग्रहं नाकुलीनस्य"
 

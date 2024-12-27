@@ -2,7 +2,7 @@
 topics = [ "पौराणिकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २१ पौराणिकनिन्दा// 1",]
 meters = [ "शाला",]
-pratimaala_letters = [ "प", "त",]
+pratimaalaa_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "पौराणिकानां व्यभिचारदोषो"
 

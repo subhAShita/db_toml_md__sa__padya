@@ -3,7 +3,7 @@ topics = [ "हारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// १९ हारः// 306",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आख्यानिकी",]
-pratimaala_letters = [ "आ", "य",]
+pratimaalaa_letters = [ "आ", "य",]
 jsonClass = "Subhaashita"
 title = "ग्रीवाद्भुतैवावटुशोभितापि"
 

@@ -2,7 +2,7 @@
 topics = [ "हरिहरौ",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 07 हरिहरौ// 1",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ह", "क",]
+pratimaalaa_letters = [ "ह", "क",]
 jsonClass = "Subhaashita"
 title = "जाह्नवी मूर्ध्नि"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4834", "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 12 दशावताराः// 125",]
 topics = [ "दशावताराः",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "न", "आ",]
+pratimaalaa_letters = [ "न", "आ",]
 jsonClass = "Subhaashita"
 title = "आनन्दमादधतमायतलोचनानाम्"
 

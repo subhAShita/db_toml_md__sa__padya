@@ -3,7 +3,7 @@ topics = [ "कन्दुकक्रीडा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७४ हेमन्तवर्णनम्// ०२ कन्दुकक्रीडा// 37",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "य", "व",]
+pratimaalaa_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "स्मरशरधिनिकाशं कर्णपाशम्"
 

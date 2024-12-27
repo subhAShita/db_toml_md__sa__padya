@@ -3,7 +3,7 @@ secondary_sources = [ "शालिकनाथः - सदुक्तिकर
 topics = [ "पण्डितः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "स", "त",]
+pratimaalaa_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "यन्नेत्रैस्त्रिभिरीक्षते"
 

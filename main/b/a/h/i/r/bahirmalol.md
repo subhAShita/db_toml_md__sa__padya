@@ -3,7 +3,7 @@ topics = [ "सती",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७७ सतीवर्णनम्// 28",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपेन्द्रवज्रा",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "बहिर्न लोला"
 

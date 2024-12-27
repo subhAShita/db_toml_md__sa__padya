@@ -4,7 +4,7 @@ meters = [ "अनुष्टुप् (श्लोक)",]
 topics = [ "कुपण्डितः", "माया",]
 sources = [ "हितोपदेशः",]
 ratings = [ "vvasuki:5",]
-pratimaala_letters = [ "न", "स",]
+pratimaalaa_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "अतथ्यान्यपि तथ्यानि"
 

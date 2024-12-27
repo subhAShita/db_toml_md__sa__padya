@@ -2,7 +2,7 @@
 topics = [ "वनश्रीम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २२ वनश्रीवर्णनम्// 3",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "उ", "त",]
+pratimaalaa_letters = [ "उ", "त",]
 jsonClass = "Subhaashita"
 title = "वानीरप्रसवैर्निकुञ्जसरितामासक्तवासम्"
 

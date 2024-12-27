@@ -3,7 +3,7 @@ topics = [ "वाङ्गाः", "द्राविडाः",]
 sources = [ "विश्वासः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ल", "त",]
+pratimaalaa_letters = [ "ल", "त",]
 jsonClass = "Subhaashita"
 title = "द्राविडा वाङ्गतुल्याश्च"
 

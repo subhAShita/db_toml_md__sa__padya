@@ -3,7 +3,7 @@ topics = [ "वाणी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१४ कण्ठः// ०१ वाणी// 220",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आर्द्रा",]
-pratimaala_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "शिरीषकोषादपि कोमलाया"
 

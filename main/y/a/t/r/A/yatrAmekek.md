@@ -3,7 +3,7 @@ topics = [ "कालः", "काली", "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 199",]
 ratings = [ "vvasuki:5",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaala_letters = [ "इ", "र",]
+pratimaalaa_letters = [ "इ", "र",]
 jsonClass = "Subhaashita"
 title = "यत्रानेके क्वचिदपि"
 

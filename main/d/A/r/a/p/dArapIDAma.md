@@ -3,7 +3,7 @@ topics = [ "शिवः", "दाम्पत्य-कलहः",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "श", "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "दारपीडां नतानाञ्च"
 

@@ -2,7 +2,7 @@
 topics = [ "शास्त्रम्", "विधिः", "कामः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ज", "स",]
+pratimaalaa_letters = [ "ज", "स",]
 jsonClass = "Subhaashita"
 title = "यः शास्त्रविधिमुत्सृज्य"
 

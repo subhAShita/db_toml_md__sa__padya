@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// ११ कर्तृकर्मक्रियागुप्तम्// 45",]
 types = [ "कर्तृकर्मक्रियागुप्तम्",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "क", "त",]
+pratimaalaa_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "भवानिशङ्करोमेशं प्रति"
 

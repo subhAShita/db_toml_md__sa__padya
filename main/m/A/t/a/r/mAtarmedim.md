@@ -3,7 +3,7 @@ topics = [ "वैराग्यम्", "मृत्युः", "मुक्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 75",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "य", "ण",]
+pratimaalaa_letters = [ "य", "ण",]
 jsonClass = "Subhaashita"
 title = "मातर्मेदिनि तात"
 

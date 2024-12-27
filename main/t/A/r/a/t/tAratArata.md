@@ -4,7 +4,7 @@ types = [ "चित्रम्",]
 topics = [ "रतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "र",]
+pratimaalaa_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "तारतारतरैरेतैरुत्तरोत्तरतो"
 

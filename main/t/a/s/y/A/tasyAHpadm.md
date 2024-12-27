@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "जघनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २६ जघनम्// 382",]
 rasas = [ "शृङ्गारः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "द", "य",]
+pratimaalaa_letters = [ "द", "य",]
 jsonClass = "Subhaashita"
 title = "तस्याः"
 

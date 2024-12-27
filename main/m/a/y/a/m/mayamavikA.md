@@ -3,7 +3,7 @@ topics = [ "स्त्रीः", "स्त्रीः - निन्दा"
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७६ स्त्रीस्वभावनिन्दा// 57",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "र", "य",]
+pratimaalaa_letters = [ "र", "य",]
 jsonClass = "Subhaashita"
 title = "नयनविकारैरन्यं वचनैरन्यम्"
 

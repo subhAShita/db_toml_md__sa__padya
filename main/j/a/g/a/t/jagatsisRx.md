@@ -3,7 +3,7 @@ topics = [ "शिवः", "ब्रह्मा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 32",]
 ratings = [ "vvasuki:5",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaala_letters = [ "म", "व",]
+pratimaalaa_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "जगत्सिसृक्षाप्रलयक्रियाविधौ"
 

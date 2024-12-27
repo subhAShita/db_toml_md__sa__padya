@@ -2,7 +2,7 @@
 topics = [ "राजा", "नृसिंहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २१ नृसिंहः// 42",]
 meters = [ "वियोगिनी",]
-pratimaala_letters = [ "ण", "अ",]
+pratimaalaa_letters = [ "ण", "अ",]
 jsonClass = "Subhaashita"
 title = "त्वयि लोचनगोचरम्"
 

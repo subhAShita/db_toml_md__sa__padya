@@ -2,7 +2,7 @@
 topics = [ "राजा", "शाहिजहानः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५७ शाहिजहानः// 191",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "श", "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "भूभृन्मौलितटीषु वर्षति"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6858", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// १३ दूतः// 70",]
 topics = [ "दूतः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "क", "स",]
+pratimaalaa_letters = [ "क", "स",]
 jsonClass = "Subhaashita"
 title = "उद्यतेष्वपि शस्त्रेषु"
 

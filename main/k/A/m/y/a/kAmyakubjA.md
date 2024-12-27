@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9504",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ग", "व",]
+pratimaalaa_letters = [ "ग", "व",]
 jsonClass = "Subhaashita"
 title = "कान्यकुब्जा द्विजाः"
 

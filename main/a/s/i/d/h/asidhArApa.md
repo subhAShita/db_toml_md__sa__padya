@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3768", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 13",]
 topics = [ "राजा",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "श", "आ",]
+pratimaalaa_letters = [ "श", "आ",]
 jsonClass = "Subhaashita"
 title = "असिधारापथे नाथ"
 

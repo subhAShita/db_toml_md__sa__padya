@@ -4,7 +4,7 @@ topics = [ "विज्जका", "कृष्णता",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "त",]
 jsonClass = "Subhaashita"
 title = "नीलोत्पलदलश्यामाम्"
 

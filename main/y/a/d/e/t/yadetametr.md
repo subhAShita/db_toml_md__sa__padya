@@ -3,7 +3,7 @@ topics = [ "सज्जनः", "स्त्री-सौन्दर्यम
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 234",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "त",]
+pratimaalaa_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "यदेतन्नेत्राम्भः पतदपि"
 

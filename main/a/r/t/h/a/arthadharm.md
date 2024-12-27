@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2919",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ए", "थ",]
+pratimaalaa_letters = [ "ए", "थ",]
 jsonClass = "Subhaashita"
 title = "अर्थधर्मौ परित्यज्य"
 

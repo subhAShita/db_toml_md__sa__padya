@@ -2,7 +2,7 @@
 topics = [ "प्रतापः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १३ प्रतापवर्णनम्// 2",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "प", "त",]
+pratimaalaa_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "राजन्सप्ताप्यकूपारास्त्वत्प्रतापाग्निशोषिताः"
 

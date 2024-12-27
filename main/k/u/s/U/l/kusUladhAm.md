@@ -3,7 +3,7 @@ topics = [ "धन-सञ्चयः", "लोभः", "कुम्भीध�
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ज", "म",]
+pratimaalaa_letters = [ "ज", "म",]
 jsonClass = "Subhaashita"
 title = "कुसूलधान्यको वा"
 

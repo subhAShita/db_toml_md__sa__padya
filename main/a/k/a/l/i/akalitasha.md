@@ -2,7 +2,7 @@
 topics = [ "सुभाषितम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०१ सुभाषितप्रशंसा// 13",]
 meters = [ "आर्या", "आर्या (लोओसे स्छेम)",]
-pratimaala_letters = [ "र", "अ",]
+pratimaalaa_letters = [ "र", "अ",]
 jsonClass = "Subhaashita"
 title = "अकलितशब्दालङ्कृतिरनुकूला"
 

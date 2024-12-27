@@ -2,7 +2,7 @@
 topics = [ "वैराग्यम्", "पश्चात्तापः - जीवने",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०६ पश्चात्तापः// 205",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "य",]
+pratimaalaa_letters = [ "य",]
 jsonClass = "Subhaashita"
 title = "जन्मैव व्यर्थथाम्"
 

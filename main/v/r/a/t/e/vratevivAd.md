@@ -3,7 +3,7 @@ topics = [ "सज्जनः", "आक्षेपः", "व्रतम्", 
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 182",]
 ratings = [ "vvasuki:5",]
 meters = [ "विपरीताख्यानिकी",]
-pratimaala_letters = [ "ध", "ग",]
+pratimaalaa_letters = [ "ध", "ग",]
 jsonClass = "Subhaashita"
 title = "व्रते विवादम्"
 

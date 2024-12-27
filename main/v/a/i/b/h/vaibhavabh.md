@@ -2,7 +2,7 @@
 topics = [ "धनिकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २९ धनिप्रशंसा// 9",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "द", "ग",]
+pratimaalaa_letters = [ "द", "ग",]
 jsonClass = "Subhaashita"
 title = "वैभवभाजां दूषणमपि"
 

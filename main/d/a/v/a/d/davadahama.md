@@ -5,7 +5,7 @@ topics = [ "दानम्", "पात्रम्",]
 sources = [ "भामिनीविलासः (शोधितम्)",]
 ratings = [ "vvasuki:5",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "न", "अ",]
+pratimaalaa_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "दवदहनजटालज्वालजालाहतानाम्"
 

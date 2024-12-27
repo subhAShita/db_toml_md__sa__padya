@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9024", "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//05 क्रियागुप्तादयः// १४ लिङ्गगुप्तम्// 51",]
 types = [ "लिङ्गगुप्तम्",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "म", "ण",]
+pratimaalaa_letters = [ "म", "ण",]
 jsonClass = "Subhaashita"
 title = "कलिकालमियं यावद्"
 

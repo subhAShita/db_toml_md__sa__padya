@@ -3,7 +3,7 @@ topics = [ "नायकं प्रति दूतीप्रेषणम्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १८ नायकं प्रति दूतीप्रेषणम्// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "क", "स",]
+pratimaalaa_letters = [ "क", "स",]
 jsonClass = "Subhaashita"
 title = "दिशि दिशि"
 

@@ -2,7 +2,7 @@
 topics = [ "राजा",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8886", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 188",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "न", "स",]
+pratimaalaa_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "कर्पूरप्रतिपन्थिनो"
 

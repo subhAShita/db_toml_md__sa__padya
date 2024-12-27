@@ -2,7 +2,7 @@
 topics = [ "भाषा", "संस्कृतम्", "म्लेच्छभाषा",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ग", "प",]
+pratimaalaa_letters = [ "ग", "प",]
 jsonClass = "Subhaashita"
 title = "दुर्भाषा देवभाषापि"
 

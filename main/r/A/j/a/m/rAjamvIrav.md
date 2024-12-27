@@ -2,7 +2,7 @@
 topics = [ "खड्गप्रशंसा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०८ खड्गप्रशंसा// 10",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "र", "प",]
+pratimaalaa_letters = [ "र", "प",]
 jsonClass = "Subhaashita"
 title = "राजन्वीर"
 

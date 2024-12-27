@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 07 अन्तरालापाः// 28",]
 types = [ "अन्तरालापः",]
 meters = [ "भुजङ्गप्रयातम्",]
-pratimaala_letters = [ "र", "घ",]
+pratimaalaa_letters = [ "र", "घ",]
 jsonClass = "Subhaashita"
 title = "विवाहे"
 

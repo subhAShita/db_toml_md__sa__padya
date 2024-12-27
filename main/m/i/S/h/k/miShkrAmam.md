@@ -2,7 +2,7 @@
 topics = [ "जन्म", "गर्भवासः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०३ गर्भवासप्रयुक्तं दुःखम्// 143",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "थ", "य",]
+pratimaalaa_letters = [ "थ", "य",]
 jsonClass = "Subhaashita"
 title = "निष्क्रामन्भृशदुःखार्तो"
 

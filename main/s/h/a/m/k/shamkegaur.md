@@ -3,7 +3,7 @@ topics = [ "शिवः", "दाम्पत्य-कलहः",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ग", "त",]
+pratimaalaa_letters = [ "ग", "त",]
 jsonClass = "Subhaashita"
 title = "शङ्के गौरीपदाघातचिह्नितम्"
 

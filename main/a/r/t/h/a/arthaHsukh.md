@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2914", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 9",]
 topics = [ "धीरः",]
 meters = [ "बुद्धिः",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "अर्थः सुखम्"
 

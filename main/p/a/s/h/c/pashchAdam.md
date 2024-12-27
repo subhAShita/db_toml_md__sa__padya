@@ -2,7 +2,7 @@
 topics = [ "हयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०६ हयः// 13",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "घ", "ण",]
+pratimaalaa_letters = [ "घ", "ण",]
 jsonClass = "Subhaashita"
 title = "पश्चादङ्घ्री प्रसार्य"
 

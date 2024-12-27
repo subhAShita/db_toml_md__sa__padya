@@ -3,7 +3,7 @@ topics = [ "सूर्यास्तम्",]
 sources = [ "मधुराविजयम् (७.१३)",]
 ratings = [ "vvasuki:5",]
 meters = [ "वियोगिनी",]
-pratimaala_letters = [ "ह", "श",]
+pratimaalaa_letters = [ "ह", "श",]
 jsonClass = "Subhaashita"
 title = "गतदीप्तिगभस्तिमालिनो"
 

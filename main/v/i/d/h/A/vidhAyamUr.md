@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "ऊरू",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २८ ऊरू// 393",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आर्द्रा",]
-pratimaala_letters = [ "ज", "र",]
+pratimaalaa_letters = [ "ज", "र",]
 jsonClass = "Subhaashita"
 title = "विधाय मूर्धानमधश्चरम्"
 

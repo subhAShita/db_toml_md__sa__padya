@@ -4,7 +4,7 @@ topics = [ "अपत्यम्", "प्रजाः",]
 sources = [ "उत्तररामचरितम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "आ", "त",]
 jsonClass = "Subhaashita"
 title = "अन्तःकरणतत्त्वस्य"
 

@@ -4,7 +4,7 @@ topics = [ "दुर्जनः", "दुर्जनाः",]
 sources = [ "भर्तृहरिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "ह", "त",]
+pratimaalaa_letters = [ "ह", "त",]
 jsonClass = "Subhaashita"
 title = "एके सत्पुरुषाः"
 

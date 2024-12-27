@@ -2,7 +2,7 @@
 topics = [ "राजा", "विक्रमार्कः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५१ विक्रमार्कः// 180",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaala_letters = [ "द", "क",]
+pratimaalaa_letters = [ "द", "क",]
 jsonClass = "Subhaashita"
 title = "हस्ती वन्यः"
 

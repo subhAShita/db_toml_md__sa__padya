@@ -3,7 +3,7 @@ sources = [ "मूर्तिशिवः - वनगृह-शासनम्
 topics = [ "चामुण्डा", "चर्चिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "द", "क",]
+pratimaalaa_letters = [ "द", "क",]
 jsonClass = "Subhaashita"
 title = "दंष्ट्रासन्धिनिलीनम्"
 

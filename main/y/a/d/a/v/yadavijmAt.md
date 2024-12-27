@@ -3,7 +3,7 @@ topics = [ "शास्त्र-ज्ञानम्", "बुद्धिप
 sources = [ "जयमङ्गलः - यशोधरा",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "म",]
+pratimaalaa_letters = [ "न", "म",]
 jsonClass = "Subhaashita"
 title = "यदविज्ञातशास्त्रेण"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०२ कालिदासः// 6",]
 topics = [ "कालिदासः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "श", "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "साकूतमधुरकोमलविलासिनीकण्ठकूजितप्राये"
 

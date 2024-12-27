@@ -3,7 +3,7 @@ topics = [ "वेदनिन्दा", "ब्राह्मणनिन्�
 sources = [ "कूर्मपुराणम् ",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "र", "क",]
+pratimaalaa_letters = [ "र", "क",]
 jsonClass = "Subhaashita"
 title = "यस्तु देवानृषीन्"
 

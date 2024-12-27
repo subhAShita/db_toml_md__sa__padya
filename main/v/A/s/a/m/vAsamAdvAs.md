@@ -2,7 +2,7 @@
 topics = [ "वासुदेवः", "विष्णुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "स", "त",]
+pratimaalaa_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "वासनाद्वासुदेवस्य वासितम्"
 

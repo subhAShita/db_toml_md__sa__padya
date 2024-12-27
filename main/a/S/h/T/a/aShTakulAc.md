@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3577", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 173",]
 topics = [ "अनित्यता",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "न", "क",]
+pratimaalaa_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "अष्टकुलाचलसप्तसमुद्रा"
 

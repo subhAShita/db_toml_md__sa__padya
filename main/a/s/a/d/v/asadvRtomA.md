@@ -3,7 +3,7 @@ topics = [ "सख्यनुनयः",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3696", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३९ सख्यनुनयः// 13",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "न", "ग",]
+pratimaalaa_letters = [ "न", "ग",]
 jsonClass = "Subhaashita"
 title = "असद्वृत्तो नायम्"
 

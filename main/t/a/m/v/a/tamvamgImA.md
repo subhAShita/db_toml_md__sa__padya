@@ -3,7 +3,7 @@ topics = [ "स्त्री-सौन्दर्यम्",]
 sources = [ "पाणिनि",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "त", "व",]
+pratimaalaa_letters = [ "त", "व",]
 jsonClass = "Subhaashita"
 title = "तन्वङ्गीनां स्तनौ"
 

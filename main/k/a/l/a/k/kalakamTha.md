@@ -4,7 +4,7 @@ meters = [ "UNKNOWN",]
 sources = [ "वेङ्कटनाथः - रहस्यत्रयसारः",]
 topics = [ "कुनिन्दा",]
 ratings = [ "vvasuki:3",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "कलकण्ठ गणास्वाद्ये"
 

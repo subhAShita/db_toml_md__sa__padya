@@ -2,7 +2,7 @@
 topics = [ "खड्गप्रशंसा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०८ खड्गप्रशंसा// 6",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "ण", "व",]
+pratimaalaa_letters = [ "ण", "व",]
 jsonClass = "Subhaashita"
 title = "दर्पान्धगन्धगजकुम्भकपाटकूटसङ्क्रान्तनिघ्नघनशोणितशोणशोचिः"
 

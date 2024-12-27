@@ -3,7 +3,7 @@ topics = [ "समग्रस्त्रीस्वरूपम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 35",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "य", "अ",]
+pratimaalaa_letters = [ "य", "अ",]
 jsonClass = "Subhaashita"
 title = "राजीव जीवसि"
 

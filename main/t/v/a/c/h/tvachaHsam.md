@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "नेत्रे",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०५ नेत्रे// 84",]
 rasas = [ "शृङ्गारः",]
 meters = [ "कीर्तिः",]
-pratimaala_letters = [ "स", "प",]
+pratimaalaa_letters = [ "स", "प",]
 jsonClass = "Subhaashita"
 title = "त्वचः समुत्तार्य"
 

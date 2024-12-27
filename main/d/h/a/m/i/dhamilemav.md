@@ -2,7 +2,7 @@
 topics = [ "राजा", "कलिङ्गेश्वरः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ०६ कलिङ्गेश्वरः// 13",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "ह", "ए",]
+pratimaalaa_letters = [ "ह", "ए",]
 jsonClass = "Subhaashita"
 title = "धम्मिल्ले"
 

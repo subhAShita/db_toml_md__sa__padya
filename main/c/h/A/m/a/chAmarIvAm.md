@@ -2,7 +2,7 @@
 topics = [ "संस्कृतम्", "लोकभाषाः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ह", "र",]
+pratimaalaa_letters = [ "ह", "र",]
 jsonClass = "Subhaashita"
 title = "चामरीवामरीभाषा क्वचिदेव"
 

@@ -2,7 +2,7 @@
 topics = [ "वैराग्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 23",]
 meters = [ "बाला",]
-pratimaala_letters = [ "ल", "प",]
+pratimaalaa_letters = [ "ल", "प",]
 jsonClass = "Subhaashita"
 title = "पाषाणखण्डेष्वपि"
 

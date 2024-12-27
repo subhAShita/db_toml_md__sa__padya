@@ -3,7 +3,7 @@ topics = [ "प्राणत्यागः", "सुमृत्युः",]
 sources = [ "स्कन्दपुराणम् (काशीखण्ड २८।११३)",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "ध", "म",]
+pratimaalaa_letters = [ "ध", "म",]
 jsonClass = "Subhaashita"
 title = "जरारोगाभिपन्नं तु"
 

@@ -3,7 +3,7 @@ topics = [ "युद्धम्",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "न", "र",]
+pratimaalaa_letters = [ "न", "र",]
 jsonClass = "Subhaashita"
 title = "अथ चेत्त्वमिमम्"
 

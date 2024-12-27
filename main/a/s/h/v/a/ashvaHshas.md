@@ -4,7 +4,7 @@ ratings = [ "vvasuki:5",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3540",]
 sources = [ "पञ्चतन्त्रम् मित्रभेदः",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "च", "प",]
+pratimaalaa_letters = [ "च", "प",]
 jsonClass = "Subhaashita"
 title = "अश्वः शस्त्रम्"
 

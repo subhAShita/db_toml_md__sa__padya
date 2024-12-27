@@ -3,7 +3,7 @@ topics = [ "नृसिंहः",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "द", "म",]
+pratimaalaa_letters = [ "द", "म",]
 jsonClass = "Subhaashita"
 title = "स्थूणायामतिसङ्कटेन"
 

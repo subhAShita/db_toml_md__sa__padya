@@ -3,7 +3,7 @@ topics = [ "शक्तिः", "जगदम्बा", "अपायः",]
 sources = [ "कृपारामत्रिपाठी",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "सन्नप्यजातपक्षो यो"
 

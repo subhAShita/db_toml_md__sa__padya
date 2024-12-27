@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8716", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 191",]
 topics = [ "नीतिः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "प",]
+pratimaalaa_letters = [ "प",]
 jsonClass = "Subhaashita"
 title = "करप्रचेयामुत्तुङ्गप्रभुशक्तिम्"
 

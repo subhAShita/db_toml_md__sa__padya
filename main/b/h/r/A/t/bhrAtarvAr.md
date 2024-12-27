@@ -3,7 +3,7 @@ sources = [ "राजारामज-शङ्करः - मुक्तकम
 topics = [ "सम्भोग-शृङ्गारः",]
 ratings = [ "vvasuki:4",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "म", "व",]
+pratimaalaa_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "भ्रातर्वारिद वर्ष"
 

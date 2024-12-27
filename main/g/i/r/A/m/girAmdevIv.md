@@ -4,7 +4,7 @@ topics = [ "जगन्नाथः", "प्रौढोक्तिः", "प
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "त",]
 jsonClass = "Subhaashita"
 title = "गिरां देवी"
 

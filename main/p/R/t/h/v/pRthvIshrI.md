@@ -2,7 +2,7 @@
 topics = [ "राजा", "अनङ्गभीमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ०२ अनङ्गभीमः// 5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "र", "त",]
+pratimaalaa_letters = [ "र", "त",]
 jsonClass = "Subhaashita"
 title = "पृथ्वी श्रीमदनङ्गभीम"
 

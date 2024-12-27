@@ -2,7 +2,7 @@
 topics = [ "जलधारया विद्युज्जननम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "हरिणी",]
-pratimaala_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "इह सरभस"
 

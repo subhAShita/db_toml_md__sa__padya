@@ -3,7 +3,7 @@ topics = [ "कुलम्",]
 sources = [ "कर्णा - भासः\u200c कर्णभारम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "द", "म",]
+pratimaalaa_letters = [ "द", "म",]
 jsonClass = "Subhaashita"
 title = "सूतो वा"
 

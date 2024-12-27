@@ -3,7 +3,7 @@ topics = [ "बहुशास्त्रविद्", "पण्डितः"
 sources = [ "छङ्गदेवो भास्करपौत्रः",]
 ratings = [ "vvasuki:5", "vvasuki:4",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "य",]
+pratimaalaa_letters = [ "य",]
 jsonClass = "Subhaashita"
 title = "उद्भटबुद्धिर् भाट्टे"
 

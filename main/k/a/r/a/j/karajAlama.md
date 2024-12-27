@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8706", "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 13 सूर्यः// 17",]
 topics = [ "सूर्यः",]
 meters = [ "औपच्छन्दसिकम्",]
-pratimaala_letters = [ "न", "क",]
+pratimaalaa_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "करजालमपूर्वचेष्टितम्"
 

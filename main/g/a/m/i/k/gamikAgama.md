@@ -2,7 +2,7 @@
 topics = [ "ज्योतिषिकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २० कुगणकनिन्दा// 2",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ज", "त",]
+pratimaalaa_letters = [ "ज", "त",]
 jsonClass = "Subhaashita"
 title = "गणिकागणकौ समानधर्मौ"
 

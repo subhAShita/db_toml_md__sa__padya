@@ -3,7 +3,7 @@ topics = [ "ऋतवः",]
 sources = [ "गणेशभट्टः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "रोदिति वर्षाकालः"
 

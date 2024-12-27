@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1859",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaala_letters = [ "ल", "स",]
+pratimaalaa_letters = [ "ल", "स",]
 jsonClass = "Subhaashita"
 title = "अन्योन्याक्षिनिपातजातमदयोरन्योन्यचेष्टाशत"
 

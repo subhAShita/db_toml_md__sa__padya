@@ -3,7 +3,7 @@ topics = [ "नायिका", "अभिसारिका",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०३ अभिसारिका// 26",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "थ", "अ",]
+pratimaalaa_letters = [ "थ", "अ",]
 jsonClass = "Subhaashita"
 title = "जनो दुर्लक्ष्योऽयम्"
 

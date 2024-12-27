@@ -3,7 +3,7 @@ topics = [ "वाल्मीकिः", "सीता",]
 sources = [ "कालिदासः - रघुवंशम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "जाया",]
-pratimaala_letters = [ "न", "क",]
+pratimaalaa_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "तामभ्यगच्छद्रुदितानुसारी"
 

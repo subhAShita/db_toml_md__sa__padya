@@ -2,7 +2,7 @@
 topics = [ "राजा", "पारसीकक्षितीशः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २४ पारसीकक्षितीशः// 65",]
 meters = [ "मालिनी",]
-pratimaala_letters = [ "त", "ग",]
+pratimaalaa_letters = [ "त", "ग",]
 jsonClass = "Subhaashita"
 title = "यदपि कटकयात्रारोधि"
 

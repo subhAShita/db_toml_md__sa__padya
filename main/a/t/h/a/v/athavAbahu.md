@@ -3,7 +3,7 @@ topics = [ "ब्रह्म", "विभूतयः", "विश्वरू
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "त",]
 jsonClass = "Subhaashita"
 title = "अथवा बहुनैतेन"
 

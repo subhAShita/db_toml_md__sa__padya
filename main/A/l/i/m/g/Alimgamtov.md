@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5318", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १८ रथवेगवर्णनम्// 1",]
 topics = [ "रथवेगः",]
 meters = [ "आर्या", "आर्या (लोओसे स्छेम)",]
-pratimaala_letters = [ "व",]
+pratimaalaa_letters = [ "व",]
 jsonClass = "Subhaashita"
 title = "आलिङ्गन्तो वसुधाम्"
 

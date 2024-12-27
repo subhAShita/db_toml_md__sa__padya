@@ -3,7 +3,7 @@ topics = [ "विलापः - वियोगे",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//१४ वियोगिनो विप्रलापाः// 51",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaala_letters = [ "ष", "द",]
+pratimaalaa_letters = [ "ष", "द",]
 jsonClass = "Subhaashita"
 title = "यान्त्या"
 

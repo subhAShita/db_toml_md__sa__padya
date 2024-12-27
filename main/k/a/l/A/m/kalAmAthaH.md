@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9010",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "श", "न",]
+pratimaalaa_letters = [ "श", "न",]
 jsonClass = "Subhaashita"
 title = "कलानाथः कामम्"
 

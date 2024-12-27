@@ -3,7 +3,7 @@ topics = [ "रात्रिः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आख्यानिकी",]
-pratimaala_letters = [ "च", "म",]
+pratimaalaa_letters = [ "च", "म",]
 jsonClass = "Subhaashita"
 title = "निद्रानदीकूलतमालवीथी"
 

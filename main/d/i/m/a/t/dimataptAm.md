@@ -3,7 +3,7 @@ topics = [ "चन्द्रः",]
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "म", "ओ",]
+pratimaalaa_letters = [ "म", "ओ",]
 jsonClass = "Subhaashita"
 title = "दिनतप्तां सुताम्"
 

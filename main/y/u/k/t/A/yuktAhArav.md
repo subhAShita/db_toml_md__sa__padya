@@ -3,7 +3,7 @@ topics = [ "योगः", "आहारः", "नियमः", "निद्�
 sources = [ "कृष्णः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "ह", "य",]
+pratimaalaa_letters = [ "ह", "य",]
 jsonClass = "Subhaashita"
 title = "युक्ताहारविहारस्य"
 

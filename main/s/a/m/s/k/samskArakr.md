@@ -3,7 +3,7 @@ topics = [ "उच्चारणम्",]
 sources = [ "रामायणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "उ", "म",]
+pratimaalaa_letters = [ "उ", "म",]
 jsonClass = "Subhaashita"
 title = "संस्कारक्रमसम्पन्नाम्"
 

@@ -3,7 +3,7 @@ topics = [ "युद्धकौशलम्", "वीर्यम्",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaala_letters = [ "श", "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "यशःपुत्रं देव"
 

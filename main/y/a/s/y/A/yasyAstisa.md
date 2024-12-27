@@ -2,7 +2,7 @@
 topics = [ "देश-भक्तिः", "स्वदेशः", "विदेशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वाणी",]
-pratimaala_letters = [ "य", "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "यस्यास्ति सर्वत्र"
 

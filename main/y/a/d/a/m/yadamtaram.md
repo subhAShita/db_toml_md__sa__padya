@@ -3,7 +3,7 @@ topics = [ "रामः", "रावणः",]
 sources = [ "वाल्मीकीयरामायणम् (३.४७/४५–४७ सीता)",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "च", "य",]
+pratimaalaa_letters = [ "च", "य",]
 jsonClass = "Subhaashita"
 title = "यदन्तरं सिंहशृगालयोर्वने"
 

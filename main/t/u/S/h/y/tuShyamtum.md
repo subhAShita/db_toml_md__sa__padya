@@ -3,7 +3,7 @@ topics = [ "दूतीं प्रति स्वावस्थाकथन
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १७ दूतीं प्रति स्वावस्थाकथनम्// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "कुमारी",]
-pratimaala_letters = [ "म", "य",]
+pratimaalaa_letters = [ "म", "य",]
 jsonClass = "Subhaashita"
 title = "तुष्यन्तु मे"
 

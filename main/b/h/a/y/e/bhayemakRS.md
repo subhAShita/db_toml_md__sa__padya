@@ -2,7 +2,7 @@
 topics = [ "पताका",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०९ राजयात्रावर्णनम्// ०१ पताका// 28",]
 meters = [ "विपरीताख्यानिकी",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "भयेन कृष्णान्यरुणानि"
 

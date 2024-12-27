@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4716", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// २४ वाल्मीकिः// 48",]
 topics = [ "वाल्मीकिः",]
 meters = [ "उपगीति",]
-pratimaala_letters = [ "ल", "ण",]
+pratimaalaa_letters = [ "ल", "ण",]
 jsonClass = "Subhaashita"
 title = "आदिकवी चतुरास्यौ"
 

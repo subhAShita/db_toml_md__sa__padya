@@ -2,7 +2,7 @@
 topics = [ "नीतिः", "अवधानकला",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3297", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 758",]
 meters = [ "गीति",]
-pratimaala_letters = [ "र", "त",]
+pratimaalaa_letters = [ "र", "त",]
 jsonClass = "Subhaashita"
 title = "अवसरपठिता वाणी"
 

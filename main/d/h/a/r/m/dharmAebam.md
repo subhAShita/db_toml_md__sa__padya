@@ -2,7 +2,7 @@
 topics = [ "धर्मः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaala_letters = [ "र",]
+pratimaalaa_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "धर्माे बन्धुरबान्धवे"
 

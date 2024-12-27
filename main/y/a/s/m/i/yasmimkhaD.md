@@ -2,7 +2,7 @@
 topics = [ "खड्गः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// १० खड्गः// 59",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "यस्मिन्खड्गे शरीरम्"
 

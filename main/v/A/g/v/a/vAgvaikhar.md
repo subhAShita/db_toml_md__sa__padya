@@ -2,7 +2,7 @@
 topics = [ "मोक्षः", "पाण्डित्यम्", "कुपाण्डित्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "य", "व",]
+pratimaalaa_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "वाग्वैखरी शब्दझरी"
 

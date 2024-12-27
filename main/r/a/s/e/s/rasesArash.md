@@ -3,7 +3,7 @@ topics = [ "रसः", "चमत्कारः",]
 sources = [ "अलङ्कारकौस्तुभे",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "स", "त",]
+pratimaalaa_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "रसे सारश्चमत्कारो"
 

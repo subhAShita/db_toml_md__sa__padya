@@ -3,7 +3,7 @@ topics = [ "गर्भिणी", "दोहदम्",]
 sources = [ "याज्ञवल्क्यः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "य", "व",]
+pratimaalaa_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "दौहृदस्याप्रदानेन गर्भो"
 

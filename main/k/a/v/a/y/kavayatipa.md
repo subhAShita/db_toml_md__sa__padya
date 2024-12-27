@@ -4,7 +4,7 @@ topics = [ "जगन्नाथः", "प्रौढोक्तिः", "प
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "उद्गीति",]
-pratimaala_letters = [ "न", "ल",]
+pratimaalaa_letters = [ "न", "ल",]
 jsonClass = "Subhaashita"
 title = "कवयति पण्डितराजे"
 

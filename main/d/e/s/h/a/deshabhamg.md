@@ -3,7 +3,7 @@ topics = [ "धर्मः", "आपद्धर्मः",]
 sources = [ "पराशरस्मृतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "र", "त",]
+pratimaalaa_letters = [ "र", "त",]
 jsonClass = "Subhaashita"
 title = "देशभङ्गे प्रवासे"
 

@@ -2,7 +2,7 @@
 topics = [ "तृष्णा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 30",]
 meters = [ "आर्या",]
-pratimaala_letters = [ "न", "ह",]
+pratimaalaa_letters = [ "न", "ह",]
 jsonClass = "Subhaashita"
 title = "त्वामुदर साधु"
 

@@ -3,7 +3,7 @@ topics = [ "मृगः", "हरिणः", "स्वभावोक्ति
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०४ मृगः// 7",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaala_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "ग्रीवाभङ्गाभिरामम्"
 

@@ -3,7 +3,7 @@ topics = [ "कुपण्डितः", "पाण्डित्य-दम्
 ratings = [ "vvasuki:5",]
 rasas = [ "हास्यम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaala_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "जिह्वायाश्छेदनं नास्ति"
 

@@ -3,7 +3,7 @@ topics = [ "हेमन्तः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७४ हेमन्तवर्णनम्// ०१ हेमन्तसमयस्वभावाख्यानम्// 10",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपगीति",]
-pratimaala_letters = [ "श", "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "विकसति सूर्ये"
 

@@ -1,7 +1,7 @@
 +++
 topics = [ "मानसपूजा",]
 ratings = [ "vvasuki:4",]
-pratimaala_letters = [ "श", "य",]
+pratimaalaa_letters = [ "श", "य",]
 meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "आराधयामि हृदि"

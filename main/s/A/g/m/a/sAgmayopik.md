@@ -2,7 +2,7 @@
 topics = [ "राजसभा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०१ राजसभावर्णनम्// 11",]
 meters = [ "स्वागता",]
-pratimaala_letters = [ "प", "त",]
+pratimaalaa_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "साग्नयोऽपि किल"
 
