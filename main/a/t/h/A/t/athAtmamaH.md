@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0786",]
 meters = [ "माला",]
-pratimaalaa_letters = [ "च", "र",]
+pratimaalaa_letters = [ "र", "च",]
 jsonClass = "Subhaashita"
 title = "अथात्मनः शब्दगुणम्"
 

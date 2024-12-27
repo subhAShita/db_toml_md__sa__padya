@@ -3,7 +3,7 @@ topics = [ "पुराणानि", "वेदाः",]
 sources = [ "स्कन्दपुराणम् (प्रभासखण्डे  ५.३.१२१-१२४)",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ण", "प",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "प", "औ", "आ", "ऌ", "इ", "ॡ", "ण", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "यो वेदो"
 

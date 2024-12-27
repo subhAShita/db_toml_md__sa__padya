@@ -3,7 +3,7 @@ topics = [ "परस्परप्रसादः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४५ परस्परप्रसादः// 25",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ज", "त",]
+pratimaalaa_letters = [ "ज", "ध", "त",]
 jsonClass = "Subhaashita"
 title = "चक्षुर्लुप्तमषीकणम्"
 

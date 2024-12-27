@@ -4,7 +4,7 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 types = [ "विलापः - मदनं प्रति",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 meters = [ "द्रुतविलम्बितम्",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "व", "स", "त",]
 jsonClass = "Subhaashita"
 title = "हृदयमाश्रयसे यदि"
 

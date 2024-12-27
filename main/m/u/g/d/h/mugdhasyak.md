@@ -3,7 +3,7 @@ topics = [ "सन्ध्या",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २८ सन्ध्यावर्णनम्// 6",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "र", "व",]
+pratimaalaa_letters = [ "व", "र",]
 jsonClass = "Subhaashita"
 title = "मुग्धस्य"
 

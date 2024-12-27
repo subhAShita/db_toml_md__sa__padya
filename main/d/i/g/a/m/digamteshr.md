@@ -5,7 +5,7 @@ topics = [ "मानम्",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "इ", "प", "त",]
 jsonClass = "Subhaashita"
 title = "दिगन्ते श्रूयन्ते"
 

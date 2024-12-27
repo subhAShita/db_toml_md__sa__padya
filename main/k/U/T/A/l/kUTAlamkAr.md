@@ -3,7 +3,7 @@ topics = [ "जीवकाव्यम्", "जीवनम्",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "श", "य",]
+pratimaalaa_letters = [ "य", "श",]
 jsonClass = "Subhaashita"
 title = "कूटालङ्कार दूरम्"
 

@@ -3,7 +3,7 @@ topics = [ "सूर्यास्तः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २६ सूर्यास्तमनसमयवर्णनम्// 22",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaalaa_letters = [ "द", "म",]
+pratimaalaa_letters = [ "ष", "म", "द",]
 jsonClass = "Subhaashita"
 title = "मध्यमोपलनिभे"
 

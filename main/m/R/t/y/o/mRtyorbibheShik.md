@@ -2,7 +2,7 @@
 topics = [ "मृत्युः", "वीर्यम्", "धैर्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म",]
 jsonClass = "Subhaashita"
 title = "मृत्योर्बिभेषि किम्"
 

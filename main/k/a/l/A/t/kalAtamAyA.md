@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9005",]
 meters = [ "उपेन्द्रवज्रा",]
-pratimaalaa_letters = [ "श", "व",]
+pratimaalaa_letters = [ "व", "श",]
 jsonClass = "Subhaashita"
 title = "कलात्तमायालवकान्तमूर्तिः"
 

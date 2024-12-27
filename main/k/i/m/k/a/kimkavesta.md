@@ -2,7 +2,7 @@
 topics = [ "कुकविः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "क",]
+pratimaalaa_letters = [ "म", "क", "र",]
 jsonClass = "Subhaashita"
 title = "किं कवेस्तस्य"
 

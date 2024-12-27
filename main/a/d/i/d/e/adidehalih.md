@@ -3,7 +3,7 @@ topics = [ "वियोगः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १३ वियोगिन्या अवस्थावर्णनम्// 15",]
 rasas = [ "शृङ्गारः",]
 meters = [ "औपच्छन्दसिकम्",]
-pratimaalaa_letters = [ "उ", "भ",]
+pratimaalaa_letters = [ "भ", "उ",]
 jsonClass = "Subhaashita"
 title = "अदिदेहलि हन्त"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1112",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "अ", "स", "त",]
 jsonClass = "Subhaashita"
 title = "अधिरजनि व्याधगृहे"
 

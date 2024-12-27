@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9874", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 202",]
 topics = [ "कालः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "य", "म", "प",]
 jsonClass = "Subhaashita"
 title = "कालेन"
 

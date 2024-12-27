@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3284", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 42",]
 topics = [ "वैराग्यम्",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "ध", "त",]
 jsonClass = "Subhaashita"
 title = "अवश्यम्"
 

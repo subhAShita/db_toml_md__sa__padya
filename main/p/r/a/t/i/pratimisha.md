@@ -3,7 +3,7 @@ topics = [ "नक्षत्राणि",]
 sources = [ "वीणा - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "पुष्पिताग्रा",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "भ", "प", "त",]
 jsonClass = "Subhaashita"
 title = "प्रतिनिशमिदमन्तरिक्षमल्ली"
 

@@ -3,7 +3,7 @@ topics = [ "मध्याह्नः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०२ मध्याह्नः// 58",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "ब", "त",]
+pratimaalaa_letters = [ "ब", "प", "त",]
 jsonClass = "Subhaashita"
 title = "पत्त्रच्छायासु हंसा"
 

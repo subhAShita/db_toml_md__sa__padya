@@ -2,7 +2,7 @@
 topics = [ "राजा", "काबिलेन्द्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ०८ काबिलेन्द्रः// 15",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "द", "त",]
+pratimaalaa_letters = [ "र", "म", "द", "त",]
 jsonClass = "Subhaashita"
 title = "विस्फार्य"
 

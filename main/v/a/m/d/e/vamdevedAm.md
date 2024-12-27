@@ -2,7 +2,7 @@
 topics = [ "रामानुजः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "र", "म",]
+pratimaalaa_letters = [ "म", "श", "र",]
 jsonClass = "Subhaashita"
 title = "वन्दे वेदान्तकर्पूर"
 

@@ -4,7 +4,7 @@ types = [ "प्रश्नोत्तरम्",]
 topics = [ "बुद्धिः", "चाटु",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "च", "त",]
 jsonClass = "Subhaashita"
 title = "अहो केनेदृशी"
 

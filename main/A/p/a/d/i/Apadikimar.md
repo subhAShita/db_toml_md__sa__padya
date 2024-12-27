@@ -3,7 +3,7 @@ topics = [ "भाग्यम्", "दौर्भाग्यम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "द", "न", "त",]
 jsonClass = "Subhaashita"
 title = "आपदि \"किमर्थमाप"
 

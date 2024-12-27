@@ -3,7 +3,7 @@ topics = [ "नीतिः", "बुद्धि-नाशः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 1024",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "य", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "पौलस्त्यः कथमन्यदारहरणे"
 

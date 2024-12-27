@@ -2,7 +2,7 @@
 topics = [ "अश्वः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ०९ तुरगाः// 51",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "श", "त",]
+pratimaalaa_letters = [ "व", "श", "त",]
 jsonClass = "Subhaashita"
 title = "निपत्य युधि"
 

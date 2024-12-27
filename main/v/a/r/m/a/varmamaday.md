@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्// ०५ हास्यरसनिर्देशः// 33",]
 rasas = [ "हास्यम्",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "र", "य",]
+pratimaalaa_letters = [ "य", "र",]
 jsonClass = "Subhaashita"
 title = "वर्णनदयितः"
 

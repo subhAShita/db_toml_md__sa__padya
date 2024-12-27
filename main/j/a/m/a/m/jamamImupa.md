@@ -3,7 +3,7 @@ topics = [ "दीपः",]
 sources = [ "गङ्गादेवी",]
 ratings = [ "vvasuki:5",]
 meters = [ "वियोगिनी",]
-pratimaalaa_letters = [ "द", "व",]
+pratimaalaa_letters = [ "व", "द",]
 jsonClass = "Subhaashita"
 title = "जननीमुपलभ्य"
 

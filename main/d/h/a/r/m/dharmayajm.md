@@ -3,7 +3,7 @@ sources = [ "कुलकरणि-नीलकण्ठः - मुक्तक
 topics = [ "रामः", "पुरुषार्थाः",]
 ratings = [ "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "भ", "म",]
+pratimaalaa_letters = [ "ष", "म", "भ", "त",]
 jsonClass = "Subhaashita"
 title = "धर्मयज्ञे स्वकीयौ"
 

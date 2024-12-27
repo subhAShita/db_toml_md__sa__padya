@@ -3,7 +3,7 @@ topics = [ "समग्रस्त्रीस्वरूपम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 49",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "श", "त",]
+pratimaalaa_letters = [ "ध", "श", "त",]
 jsonClass = "Subhaashita"
 title = "तन्वी श्यामा"
 

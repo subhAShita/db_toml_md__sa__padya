@@ -3,7 +3,7 @@ topics = [ "नायकः", "नायकातिथ्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३६ नायकातिथ्यवर्णनम्// 2",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "य", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "बाला"
 

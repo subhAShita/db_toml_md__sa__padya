@@ -2,7 +2,7 @@
 topics = [ "कुक्कुटः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// १७ कुक्कुटः// 26",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "ट", "प", "त",]
 jsonClass = "Subhaashita"
 title = "पक्षावुत्क्षिप्य"
 

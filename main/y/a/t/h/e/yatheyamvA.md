@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ११ धनदः// 22",]
 topics = [ "धनदः",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "त", "र",]
 jsonClass = "Subhaashita"
 title = "यथेयं वाग्देवी"
 

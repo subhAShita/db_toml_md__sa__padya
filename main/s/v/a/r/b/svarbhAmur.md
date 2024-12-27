@@ -3,7 +3,7 @@ topics = [ "केशपाशः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//०१ केशपाशः// 22",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "श", "म",]
+pratimaalaa_letters = [ "म", "श",]
 jsonClass = "Subhaashita"
 title = "स्वर्भानुराकलयितुं स"
 

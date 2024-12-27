@@ -3,7 +3,7 @@ topics = [ "सरस्वती",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 03 सरस्वती// 1",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "म",]
+pratimaalaa_letters = [ "व", "म", "न", "त",]
 jsonClass = "Subhaashita"
 title = "धातुश्चतुर्मुखीकण्ठशृङ्गाटकविहारिणीम्"
 

@@ -4,7 +4,7 @@ meters = [ "शार्दूलविक्रीडितम्",]
 topics = [ "लीला", "मानम्", "विपरीत-मानम्",]
 sources = [ "भोजप्रबन्धः",]
 ratings = [ "vvasuki:3",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म", "न",]
 jsonClass = "Subhaashita"
 title = "अम्भोधिः स्थलताम्"
 

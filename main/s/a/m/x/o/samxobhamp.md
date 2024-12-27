@@ -3,7 +3,7 @@ topics = [ "जलकेलिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०३ जलकेलिः// 100",]
 rasas = [ "शृङ्गारः",]
 meters = [ "प्रहर्षिणी",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "ष", "म", "व",]
 jsonClass = "Subhaashita"
 title = "सङ्क्षोभं पयसि"
 

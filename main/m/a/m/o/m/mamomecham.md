@@ -3,7 +3,7 @@ sources = [ "हॆब्बळलु-राघवेन्द्रः - मु
 topics = [ "गणेशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म",]
+pratimaalaa_letters = [ "म", "ख",]
 jsonClass = "Subhaashita"
 title = "मनो मे"
 

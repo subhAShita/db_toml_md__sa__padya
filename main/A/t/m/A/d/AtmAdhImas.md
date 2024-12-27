@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4620", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 7",]
 topics = [ "सन्तोषः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "प", "क", "त",]
 jsonClass = "Subhaashita"
 title = "आत्माधीनशरीराणां स्वपताम्"
 

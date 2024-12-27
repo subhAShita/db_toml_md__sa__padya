@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2302",]
 meters = [ "हरिणी",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म", "न",]
 jsonClass = "Subhaashita"
 title = "अभिमतमहामानग्रन्थिप्रभेदपटीयसी"
 

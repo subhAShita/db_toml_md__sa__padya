@@ -3,7 +3,7 @@ topics = [ "रोगसङ्क्रामः",]
 sources = [ "सुश्रुतः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स", "र",]
 jsonClass = "Subhaashita"
 title = "प्रसङ्गाद्"
 

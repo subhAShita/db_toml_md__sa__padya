@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4586", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 244",]
 topics = [ "राजा",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ज", "भ",]
+pratimaalaa_letters = [ "भ", "ज",]
 jsonClass = "Subhaashita"
 title = "आत्मन्यस्य"
 

@@ -3,7 +3,7 @@ topics = [ "व्यभिचारिणी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 29",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "ज", "त",]
+pratimaalaa_letters = [ "ज", "न", "त",]
 jsonClass = "Subhaashita"
 title = "ब्रह्मैव सत्यमखिलम्"
 

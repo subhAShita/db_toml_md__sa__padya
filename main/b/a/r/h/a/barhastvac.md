@@ -3,7 +3,7 @@ topics = [ "रासलीला", "प्रिय-वियोगः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "ठ", "क", "त",]
 jsonClass = "Subhaashita"
 title = "बर्हस्त्वच्चरणारविन्दजरजोमुद्राधने"
 

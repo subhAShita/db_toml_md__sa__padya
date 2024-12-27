@@ -2,7 +2,7 @@
 topics = [ "कार्य-श्रद्धा", "भक्तिः", "हनुमान्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "आ", "व",]
+pratimaalaa_letters = [ "व", "आ",]
 jsonClass = "Subhaashita"
 title = "पीतो नाम्बुनिधिः"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2834",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "य", "क", "त",]
 jsonClass = "Subhaashita"
 title = "अरण्यानी क्वेयम्"
 

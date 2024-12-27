@@ -2,7 +2,7 @@
 topics = [ "महानगराः", "दिल्ली",]
 ratings = [ "vvasuki:5",]
 meters = [ "वाणी",]
-pratimaalaa_letters = [ "द", "य",]
+pratimaalaa_letters = [ "य", "द",]
 jsonClass = "Subhaashita"
 title = "बालोऽपि चोरः"
 

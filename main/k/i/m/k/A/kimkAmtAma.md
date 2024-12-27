@@ -3,7 +3,7 @@ sources = [ "लोलिम्बराजः - मुक्तकम्",]
 topics = [ "प्रौढोक्तिः",]
 ratings = [ "vvasuki:4",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "द", "य",]
+pratimaalaa_letters = [ "य", "द",]
 jsonClass = "Subhaashita"
 title = "किं कान्तामणिमेखलाकलकलैः"
 

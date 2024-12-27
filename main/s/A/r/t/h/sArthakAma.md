@@ -3,7 +3,7 @@ topics = [ "निद्रा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// ३६ निद्रा// 428",]
 rasas = [ "शृङ्गारः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "द",]
+pratimaalaa_letters = [ "द", "न",]
 jsonClass = "Subhaashita"
 title = "सार्थकानर्थकपदं ब्रुवती"
 

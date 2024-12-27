@@ -3,7 +3,7 @@ topics = [ "शिशिरः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७५ शिशिरवर्णनम्// ०१ शिशिरसमयस्वभावाख्यानम्// 14",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "पीनोत्तुङ्गपयोधराः"
 

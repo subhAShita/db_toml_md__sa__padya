@@ -3,7 +3,7 @@ topics = [ "वषाकालः",]
 sources = [ "गुण्डः",]
 ratings = [ "vvasuki:5",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "र", "झ",]
+pratimaalaa_letters = [ "झ", "र",]
 jsonClass = "Subhaashita"
 title = "विद्युच्छूलैर्विमलनिशितैर्वारणैर्वारिमुग्भिः"
 

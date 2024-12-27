@@ -2,7 +2,7 @@
 topics = [ "उपांशुजपः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "म", "स", "क", "त",]
 jsonClass = "Subhaashita"
 title = "शनैर् उच्चारयेत्"
 

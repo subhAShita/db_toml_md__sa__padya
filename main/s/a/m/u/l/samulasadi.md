@@ -2,7 +2,7 @@
 topics = [ "रणसामग्री",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १० रणसामग्री// 10",]
 meters = [ "रुचिरा",]
-pratimaalaa_letters = [ "द", "य",]
+pratimaalaa_letters = [ "य", "द",]
 jsonClass = "Subhaashita"
 title = "समुल्लसद्दिनकरवक्त्रकान्तयो"
 

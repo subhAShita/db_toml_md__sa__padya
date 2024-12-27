@@ -3,7 +3,7 @@ topics = [ "कुपण्डितः", "पाण्डित्य-दम्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 63",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "ल", "क", "त",]
 jsonClass = "Subhaashita"
 title = "व्यासादीन्कविपुङ्गवाननुचितैर्वाक्यैः"
 

@@ -3,7 +3,7 @@ topics = [ "वयःसन्धिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०५ वयःसन्धिवर्णनम्// 6",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उद्गीति",]
-pratimaalaa_letters = [ "द", "म",]
+pratimaalaa_letters = [ "म", "श", "द",]
 jsonClass = "Subhaashita"
 title = "न्यञ्चति वयसि"
 

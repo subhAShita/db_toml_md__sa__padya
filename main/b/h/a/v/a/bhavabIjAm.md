@@ -2,7 +2,7 @@
 topics = [ "परब्रह्म",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 01 परब्रह्म// 9",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "ब", "म",]
+pratimaalaa_letters = [ "म", "स", "ब",]
 jsonClass = "Subhaashita"
 title = "भवबीजाङ्कुरजलदा"
 

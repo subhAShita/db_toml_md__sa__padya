@@ -3,7 +3,7 @@ topics = [ "कालिदासः",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "द", "म",]
+pratimaalaa_letters = [ "म", "क", "द",]
 jsonClass = "Subhaashita"
 title = "व्यासवाल्मीकिसत्कव्योर्जयन्त्यौ"
 

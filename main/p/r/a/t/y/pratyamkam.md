@@ -2,7 +2,7 @@
 topics = [ "नाट्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०४ नाट्यप्रशंसा// 1",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "म", "घ",]
+pratimaalaa_letters = [ "म", "न", "घ",]
 jsonClass = "Subhaashita"
 title = "प्रत्यङ्कमङ्कुरितसर्वरसावतारनव्योल्लसत्कुसुमराजिविराजिबन्धम्"
 

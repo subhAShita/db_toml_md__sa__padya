@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2721", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 58",]
 topics = [ "कृपणः",]
 meters = [ "पृथ्वी",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "न", "प",]
 jsonClass = "Subhaashita"
 title = "अयश्चणकचर्वणं फणिफणामणेः"
 

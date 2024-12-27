@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8838",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ल", "व",]
+pratimaalaa_letters = [ "व", "ल",]
 jsonClass = "Subhaashita"
 title = "कर्णे तालदलम्"
 

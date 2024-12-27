@@ -2,7 +2,7 @@
 topics = [ "आरोग्यम्", "रोगः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "च", "र",]
+pratimaalaa_letters = [ "र", "च",]
 jsonClass = "Subhaashita"
 title = "धर्मार्थकाममोक्षाणामारोग्यम्"
 

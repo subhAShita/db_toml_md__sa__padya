@@ -3,7 +3,7 @@ topics = [ "वरुणः", "आर्यमा", "यमः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प", "ह",]
 jsonClass = "Subhaashita"
 title = "अनन्तश्चास्मि नागानाम्"
 

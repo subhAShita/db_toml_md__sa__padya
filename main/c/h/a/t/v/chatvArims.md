@@ -3,7 +3,7 @@ topics = [ "अनाश्रमी", "रण्डाश्रमः", "गृ
 sources = [ "भागवत-पुराणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "र", "म", "स", "त",]
 jsonClass = "Subhaashita"
 title = "चत्वारिंशद्वत्सराणाम्"
 

@@ -2,7 +2,7 @@
 topics = [ "पण्डितः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०८ पण्डितप्रशंसा// 18",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "उ", "त",]
+pratimaalaa_letters = [ "न", "उ", "त",]
 jsonClass = "Subhaashita"
 title = "व्याख्यातुमेव"
 

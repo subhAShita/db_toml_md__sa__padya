@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "बाहू",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// १५ बाहू// 228",]
 rasas = [ "शृङ्गारः",]
 meters = [ "इन्द्रवज्रा",]
-pratimaalaa_letters = [ "उ", "त",]
+pratimaalaa_letters = [ "न", "उ", "त",]
 jsonClass = "Subhaashita"
 title = "बाहू प्रियाया"
 

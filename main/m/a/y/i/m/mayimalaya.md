@@ -3,7 +3,7 @@ topics = [ "प्रणयकलहः", "नायकानुनयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४१ नायकानुनयः// 2",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मालिनी",]
-pratimaalaa_letters = [ "क", "य",]
+pratimaalaa_letters = [ "य", "क",]
 jsonClass = "Subhaashita"
 title = "मयि मलयसमीरो"
 

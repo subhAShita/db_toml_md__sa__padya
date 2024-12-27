@@ -3,7 +3,7 @@ topics = [ "काव्य-प्रयोजनम्",]
 sources = [ "अश्वघोषः - सौन्दरनन्दम्",]
 ratings = [ "vvasuki:3",]
 meters = [ "सुवदना",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "र", "म", "त",]
 jsonClass = "Subhaashita"
 title = "प्रायेणालोक्य लोकम्"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1987",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ऋ", "त",]
+pratimaalaa_letters = [ "य", "म", "ऋ", "त",]
 jsonClass = "Subhaashita"
 title = "अपात्रे पात्रताबुद्धिः"
 

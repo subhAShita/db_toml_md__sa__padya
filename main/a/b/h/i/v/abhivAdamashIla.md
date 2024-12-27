@@ -2,7 +2,7 @@
 topics = [ "वृद्ध-पूजा",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "च", "म",]
+pratimaalaa_letters = [ "म", "च", "ल",]
 jsonClass = "Subhaashita"
 title = "अभिवादनशीलस्य नित्यम्"
 

@@ -3,7 +3,7 @@ topics = [ "गमनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// ३४ गमनम्// 424",]
 rasas = [ "शृङ्गारः",]
 meters = [ "जाया",]
-pratimaalaa_letters = [ "न", "व",]
+pratimaalaa_letters = [ "व", "न",]
 jsonClass = "Subhaashita"
 title = "सा राजहंसैरिव"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8895",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "ह", "म",]
+pratimaalaa_letters = [ "म", "श", "ह",]
 jsonClass = "Subhaashita"
 title = "कर्पूरीयन्ति भूमौ"
 

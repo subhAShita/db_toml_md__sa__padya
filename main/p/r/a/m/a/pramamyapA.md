@@ -3,7 +3,7 @@ topics = [ "शिवः",]
 sources = [ "उदयनः - लक्षणावली",]
 ratings = [ "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "द", "म",]
+pratimaalaa_letters = [ "म", "द", "ल",]
 jsonClass = "Subhaashita"
 title = "प्रणम्य पार्वतीनाथम्"
 

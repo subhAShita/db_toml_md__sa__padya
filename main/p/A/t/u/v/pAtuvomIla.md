@@ -2,7 +2,7 @@
 topics = [ "शिवः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 04 शिवः// 143",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ग", "त",]
+pratimaalaa_letters = [ "ज", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "पातु वो"
 

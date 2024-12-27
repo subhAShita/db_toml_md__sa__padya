@@ -3,7 +3,7 @@ topics = [ "शिक्षणम्",]
 sources = [ "हितोपदेशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "य", "क", "त",]
 jsonClass = "Subhaashita"
 title = "यन्नवे भाजने"
 

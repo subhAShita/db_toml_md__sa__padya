@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1523", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०७ तुरगप्रशंसा// 3",]
 topics = [ "तुरगप्रशंसा",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "ख", "त",]
+pratimaalaa_letters = [ "ण", "ख", "त",]
 jsonClass = "Subhaashita"
 title = "अनूनवेगादयमद्वितीयश्"
 

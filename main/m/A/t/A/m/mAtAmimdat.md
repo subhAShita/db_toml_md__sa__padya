@@ -3,7 +3,7 @@ topics = [ "धनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २७ धनप्रशंसा// 16",]
 meters = [ "शार्दूलविक्रीडितम्",]
 ratings = [ "vvasuki:5",]
-pratimaalaa_letters = [ "श", "अ",]
+pratimaalaa_letters = [ "अ", "श",]
 jsonClass = "Subhaashita"
 title = "माता निन्दति"
 

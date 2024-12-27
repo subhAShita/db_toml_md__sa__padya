@@ -3,7 +3,7 @@ topics = [ "नीतिः", "आहारः", "पथ्यम्",]
 ratings = [ "vvasuki:5",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 242",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ज", "य",]
+pratimaalaa_letters = [ "य", "ज",]
 jsonClass = "Subhaashita"
 title = "दीपो भक्षयते"
 

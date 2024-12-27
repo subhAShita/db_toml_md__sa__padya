@@ -3,7 +3,7 @@ topics = [ "कालः", "आयुः",]
 ratings = [ "vvasuki:5",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5160",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "म",]
+pratimaalaa_letters = [ "य", "म", "न",]
 jsonClass = "Subhaashita"
 title = "आयुषः क्षण"
 

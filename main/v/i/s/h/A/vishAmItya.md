@@ -3,7 +3,7 @@ topics = [ "सीता", "रावणः", "सीतापहरणम्",]
 sources = [ "राघवेन्द्रभट्टः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "स", "प", "त",]
 jsonClass = "Subhaashita"
 title = "विशामीत्यविज्ञाय"
 

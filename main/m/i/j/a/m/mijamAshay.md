@@ -3,7 +3,7 @@ topics = [ "मूर्खः", "विद्वान्", "बहुभाष
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "य", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "निजमाशयमपि मूर्खो"
 

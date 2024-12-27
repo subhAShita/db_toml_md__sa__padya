@@ -2,7 +2,7 @@
 topics = [ "राजा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 180",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "ग",]
+pratimaalaa_letters = [ "म", "स", "ग",]
 jsonClass = "Subhaashita"
 title = "दाने कल्पतरुर्नये"
 

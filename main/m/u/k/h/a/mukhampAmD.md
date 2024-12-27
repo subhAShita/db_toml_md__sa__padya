@@ -3,7 +3,7 @@ topics = [ "नायिकां प्रति सखीवचनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १६ नायिकां प्रति सखीवचनम्// 19",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "ह", "त",]
+pratimaalaa_letters = [ "ह", "प", "त",]
 jsonClass = "Subhaashita"
 title = "मुखं पाण्डुच्छायम्"
 

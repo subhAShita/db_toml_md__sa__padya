@@ -3,7 +3,7 @@ sources = [ "शतावधानी गणेशः - मुक्तकम्
 topics = [ "जीवन-काव्यम्", "जीवन्मुक्तिः",]
 ratings = [ "vvasuki:3",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "भ", "त",]
 jsonClass = "Subhaashita"
 title = "कामार्थयोर्व्यवहृतिः किल"
 

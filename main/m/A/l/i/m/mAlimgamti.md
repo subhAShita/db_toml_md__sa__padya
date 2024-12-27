@@ -2,7 +2,7 @@
 topics = [ "राजा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 200",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ल", "भ",]
+pratimaalaa_letters = [ "भ", "ल",]
 jsonClass = "Subhaashita"
 title = "नालिङ्गन्ति कुचद्वयम्"
 

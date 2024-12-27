@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 7389", "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 01 समस्याख्यानम्// 6",]
 types = [ "समस्याख्यानम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "य", "म", "त",]
 jsonClass = "Subhaashita"
 title = "ऋषेरस्याश्रमे पुण्ये"
 

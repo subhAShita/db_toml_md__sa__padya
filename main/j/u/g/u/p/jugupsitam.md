@@ -3,7 +3,7 @@ topics = [ "स्त्री-सौन्दर्यम्",]
 sources = [ "सुहासः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ल", "इ",]
+pratimaalaa_letters = [ "इ", "ल",]
 jsonClass = "Subhaashita"
 title = "जुगुप्सितमधाद्वेधा"
 

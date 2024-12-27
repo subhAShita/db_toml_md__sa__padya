@@ -2,7 +2,7 @@
 topics = [ "मन्त्री",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ०६ मन्त्री// 31",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "क", "त",]
 jsonClass = "Subhaashita"
 title = "दूरादर्थं घटयति"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9119",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "इ", "म",]
+pratimaalaa_letters = [ "ष", "म", "इ",]
 jsonClass = "Subhaashita"
 title = "कविषु दधतमुत्कर्षम्"
 

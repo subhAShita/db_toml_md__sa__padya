@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  05 अन्योक्तिप्रकरणम्//१६ सङ्कीर्णान्योक्तयः// २५ कर्णधारः// 40",]
 types = [ "अन्योक्तिः", "अन्योक्तिः - कर्णधारः",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "आ", "य",]
+pratimaalaa_letters = [ "य", "आ",]
 jsonClass = "Subhaashita"
 title = "दुर्गा नदी"
 

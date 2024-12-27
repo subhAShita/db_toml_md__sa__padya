@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1423",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "ध", "म",]
+pratimaalaa_letters = [ "म", "ध", "ह",]
 jsonClass = "Subhaashita"
 title = "अनीश्वरोऽयं पुरुषो"
 

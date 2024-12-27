@@ -4,7 +4,7 @@ topics = [ "विवाहः", "कन्या",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "च", "त",]
 jsonClass = "Subhaashita"
 title = "काममा मरणात्"
 

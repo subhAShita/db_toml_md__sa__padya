@@ -3,7 +3,7 @@ topics = [ "नीतिः", "गुरुः", "सामीप्यम्", 
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0688", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 124",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "य",]
+pratimaalaa_letters = [ "य", "स",]
 jsonClass = "Subhaashita"
 title = "अत्यासन्ना विनाशाय"
 

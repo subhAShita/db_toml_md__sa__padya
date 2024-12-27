@@ -2,7 +2,7 @@
 topics = [ "धर्मः", "सौराज्यम्", "रक्षणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "भ", "त",]
+pratimaalaa_letters = [ "भ", "ष", "त",]
 jsonClass = "Subhaashita"
 title = "परचक्रैर्नाक्रान्ता"
 

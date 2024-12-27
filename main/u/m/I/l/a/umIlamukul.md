@@ -4,7 +4,7 @@ topics = [ "पवनं प्रत्युक्तयः",]
 types = [ "विलापः - पवनं प्रति",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "उन्मीलन्मुकुलकरालकुन्दकोश"
 

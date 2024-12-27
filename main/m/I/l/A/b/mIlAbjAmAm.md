@@ -3,7 +3,7 @@ topics = [ "समग्रस्त्रीस्वरूपम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०७ समग्रस्त्रीस्वरूपवर्णनम्// 48",]
 rasas = [ "शृङ्गारः",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "भ", "य",]
+pratimaalaa_letters = [ "य", "भ",]
 jsonClass = "Subhaashita"
 title = "नीलाब्जानाम्"
 

@@ -3,7 +3,7 @@ topics = [ "वसन्तः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// ०१ वसन्तसमयस्वभावाख्यानम्// 20",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपजाति",]
-pratimaalaa_letters = [ "उ", "म",]
+pratimaalaa_letters = [ "य", "म", "उ",]
 jsonClass = "Subhaashita"
 title = "रथस्थितानां परिवर्तनाय"
 

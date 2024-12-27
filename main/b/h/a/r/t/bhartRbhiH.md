@@ -3,7 +3,7 @@ topics = [ "पानगोष्ठी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४७ पानगोष्ठीवर्णनम्// 46",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaalaa_letters = [ "ह", "भ",]
+pratimaalaa_letters = [ "भ", "ह",]
 jsonClass = "Subhaashita"
 title = "भर्तृभिः"
 

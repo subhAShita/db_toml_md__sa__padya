@@ -3,7 +3,7 @@ topics = [ "आत्मा", "ब्रह्म", "कर्म", "कर्�
 sources = [ "मुण्डकोपनिषदि",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "द्वा सुपर्णा"
 

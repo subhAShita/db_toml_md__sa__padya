@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2885", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// २२ भृत्याः// 87",]
 topics = [ "भृत्यः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "र", "स", "त",]
 jsonClass = "Subhaashita"
 title = "अरैः सन्धार्यते"
 

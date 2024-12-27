@@ -3,7 +3,7 @@ topics = [ "स्कन्दः", "रुद्रगणः", "चामुण
 sources = [ "योगेश्वरः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "अ", "व",]
+pratimaalaa_letters = [ "व", "अ",]
 jsonClass = "Subhaashita"
 title = "देवी सूनुम्"
 

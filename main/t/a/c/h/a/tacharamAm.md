@@ -3,7 +3,7 @@ topics = [ "दुर्गा",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "उपगीति",]
-pratimaalaa_letters = [ "आ", "व",]
+pratimaalaa_letters = [ "व", "आ",]
 jsonClass = "Subhaashita"
 title = "तच्चरणाम्बुजमेकम्"
 

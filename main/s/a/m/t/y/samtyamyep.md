@@ -4,7 +4,7 @@ types = [ "अन्योक्तिः",]
 topics = [ "पक्षपातः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "क", "त",]
 jsonClass = "Subhaashita"
 title = "सन्त्यन्येऽपि"
 

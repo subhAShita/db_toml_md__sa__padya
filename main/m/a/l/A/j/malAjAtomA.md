@@ -3,7 +3,7 @@ topics = [ "गणेशः",]
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "ण", "त",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "औ", "आ", "त", "ऌ", "इ", "ॡ", "ण", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "मलाज्जातो मातुः"
 

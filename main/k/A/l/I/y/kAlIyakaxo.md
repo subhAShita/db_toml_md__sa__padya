@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9862",]
 meters = [ "शिशिरा",]
-pratimaalaa_letters = [ "ज", "ख",]
+pratimaalaa_letters = [ "ख", "ज",]
 jsonClass = "Subhaashita"
 title = "कालीयकक्षोदविलेपनश्रियम्"
 

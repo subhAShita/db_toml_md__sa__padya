@@ -3,7 +3,7 @@ topics = [ "प्रौढोक्तिः",]
 sources = [ "लक्ष्मीधरः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ष", "म",]
+pratimaalaa_letters = [ "ष", "म", "र",]
 jsonClass = "Subhaashita"
 title = "गतोऽयं शङ्कराचार्यो"
 

@@ -3,7 +3,7 @@ topics = [ "धनम्", "दारिद्र्यम्",]
 ratings = [ "vvasuki:5",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २८ धननिन्दा// 16",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "र", "म", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "तानीन्द्रियाण्यविकलानि"
 

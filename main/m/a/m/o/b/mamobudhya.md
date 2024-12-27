@@ -3,7 +3,7 @@ topics = [ "आत्मा",]
 sources = [ "शङ्करः - निर्वाण-षट्कम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "भुजङ्गप्रयातम्",]
-pratimaalaa_letters = [ "न", "म",]
+pratimaalaa_letters = [ "म", "न", "ह",]
 jsonClass = "Subhaashita"
 title = "मनोबुद्ध्यहङ्कारचित्तानि"
 

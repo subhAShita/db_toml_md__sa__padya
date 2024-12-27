@@ -3,7 +3,7 @@ topics = [ "मन्त्रः", "देवः",]
 sources = [ "रौरवागमः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "श", "त",]
+pratimaalaa_letters = [ "य", "श", "त",]
 jsonClass = "Subhaashita"
 title = "न मीमांस्या"
 

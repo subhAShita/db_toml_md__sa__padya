@@ -2,7 +2,7 @@
 topics = [ "राजा", "निजामशाहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २० निजामशाहः// 36",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "भ", "त",]
+pratimaalaa_letters = [ "भ", "ल", "त",]
 jsonClass = "Subhaashita"
 title = "क्षोणीकाम निजामशाह"
 

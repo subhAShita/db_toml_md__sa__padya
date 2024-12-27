@@ -2,7 +2,7 @@
 topics = [ "कोलाचलमल्लिनाथसूरी", "प्रौढोक्तिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "श", "व",]
+pratimaalaa_letters = [ "व", "श",]
 jsonClass = "Subhaashita"
 title = "वाणीम्"
 

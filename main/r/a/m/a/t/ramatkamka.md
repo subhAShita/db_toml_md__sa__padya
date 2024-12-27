@@ -3,7 +3,7 @@ topics = [ "वसन्तवर्णनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७० वसन्तवर्णनम्// 2",]
 rasas = [ "शृङ्गारः",]
 meters = [ "भुजङ्गप्रयातम्",]
-pratimaalaa_letters = [ "र", "व",]
+pratimaalaa_letters = [ "व", "र",]
 jsonClass = "Subhaashita"
 title = "रणत्कङ्कणानाम्"
 

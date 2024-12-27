@@ -3,7 +3,7 @@ topics = [ "सज्जनः", "धृतिः", "सत्त्वम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 229",]
 ratings = [ "vvasuki:5",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "द", "म",]
+pratimaalaa_letters = [ "म", "न", "द",]
 jsonClass = "Subhaashita"
 title = "घृष्टं घृष्टम्"
 

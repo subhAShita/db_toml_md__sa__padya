@@ -2,7 +2,7 @@
 topics = [ "राजा", "रुद्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ४८ रुद्रः// 175",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ए", "त",]
+pratimaalaa_letters = [ "ए", "प", "त",]
 jsonClass = "Subhaashita"
 title = "रुद्रस्यापि दिगम्बरस्य"
 

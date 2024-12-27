@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1510",]
 meters = [ "मालिनी",]
-pratimaalaa_letters = [ "ग", "व",]
+pratimaalaa_letters = [ "व", "ग",]
 jsonClass = "Subhaashita"
 title = "अनुवनमनुशैलं तामनालोक्य"
 

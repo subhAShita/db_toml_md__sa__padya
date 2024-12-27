@@ -3,7 +3,7 @@ topics = [ "व्यभिचारिणी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 11",]
 rasas = [ "शृङ्गारः",]
 meters = [ "उपगीति",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प", "र",]
 jsonClass = "Subhaashita"
 title = "द्वारि स्तम्भविलग्ना"
 

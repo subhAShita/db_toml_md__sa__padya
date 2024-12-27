@@ -3,7 +3,7 @@ topics = [ "नायकावस्था",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २५ नायिकां प्रति नायकावस्थाकथनम्// 2",]
 rasas = [ "शृङ्गारः",]
 meters = [ "पुष्पिताग्रा",]
-pratimaalaa_letters = [ "इ", "म",]
+pratimaalaa_letters = [ "म", "इ", "र",]
 jsonClass = "Subhaashita"
 title = "परिहरति रतिम्"
 

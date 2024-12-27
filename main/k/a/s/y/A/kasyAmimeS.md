@@ -4,7 +4,7 @@ topics = [ "साहसः",]
 sources = [ "भल्लटः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "न", "प", "त",]
 jsonClass = "Subhaashita"
 title = "कस्यानिमेषवितते नयने"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3205", "सुभाषितरत्नभाण्डागारः -  05 अन्योक्तिप्रकरणम्//०६ समुद्रान्योक्तयः// ०२ अगस्त्यः// 44",]
 types = [ "अगस्त्यः",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "ब", "म",]
+pratimaalaa_letters = [ "म", "ध", "ब",]
 jsonClass = "Subhaashita"
 title = "अल्पीयसैव पयसा"
 

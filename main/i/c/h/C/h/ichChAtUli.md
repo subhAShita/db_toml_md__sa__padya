@@ -3,7 +3,7 @@ topics = [ "ब्रह्म", "सृष्टिः",]
 sources = [ "लक्षणसङ्ग्रहः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "उ", "म",]
+pratimaalaa_letters = [ "म", "न", "उ",]
 jsonClass = "Subhaashita"
 title = "इच्छातूलिकयाकाशे"
 

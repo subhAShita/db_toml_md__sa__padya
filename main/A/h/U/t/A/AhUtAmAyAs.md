@@ -3,7 +3,7 @@ topics = [ "सरस्वती",]
 sources = [ "रामकृष्णः",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्यागीति",]
-pratimaalaa_letters = [ "च", "म",]
+pratimaalaa_letters = [ "म", "च",]
 jsonClass = "Subhaashita"
 title = "आहूता नायासि"
 

@@ -2,7 +2,7 @@
 topics = [ "भृत्यता", "अपवादः",]
 ratings = [ "vvasuki:5",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "क", "य",]
+pratimaalaa_letters = [ "य", "क",]
 jsonClass = "Subhaashita"
 title = "मौनान्मूकः प्रवचनपटुर्"
 

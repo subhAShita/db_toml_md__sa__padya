@@ -3,7 +3,7 @@ topics = [ "बाला",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 13",]
 rasas = [ "शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "न", "म",]
+pratimaalaa_letters = [ "म", "न", "र",]
 jsonClass = "Subhaashita"
 title = "कुङ्कुमपङ्केनाङ्कितदेहा"
 

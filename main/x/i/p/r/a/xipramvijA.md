@@ -3,7 +3,7 @@ topics = [ "श्रवणम्", "बुद्धिमान्", "हस्
 sources = [ "महाभारतम् (विदुरनीतिः)",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "न", "य",]
+pratimaalaa_letters = [ "य", "न",]
 jsonClass = "Subhaashita"
 title = "क्षिप्रं विजानाति"
 

@@ -3,7 +3,7 @@ topics = [ "वाणी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१४ कण्ठः// ०१ वाणी// 222",]
 rasas = [ "शृङ्गारः",]
 meters = [ "बाला",]
-pratimaalaa_letters = [ "आ", "म",]
+pratimaalaa_letters = [ "म", "आ", "क",]
 jsonClass = "Subhaashita"
 title = "पद्माङ्कसद्मानमवेक्ष्य"
 

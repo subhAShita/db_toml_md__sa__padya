@@ -2,7 +2,7 @@
 topics = [ "टीका", "कालिदासः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "श", "च",]
+pratimaalaa_letters = [ "च", "श",]
 jsonClass = "Subhaashita"
 title = "कालिदासगिरां सारम्"
 

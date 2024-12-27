@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "नववधूसङ्गमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५२ नववधूसङ्गमः// 15",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "ह", "न", "त",]
 jsonClass = "Subhaashita"
 title = "अंसाकृष्टदुकूलया सलभसम्"
 

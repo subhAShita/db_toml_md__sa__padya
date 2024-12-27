@@ -4,7 +4,7 @@ topics = [ "अप्रयुक्ता विद्या",]
 sources = [ "क्षेमेन्द्रः - दर्पदलनम्?",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "र", "य",]
+pratimaalaa_letters = [ "य", "र",]
 jsonClass = "Subhaashita"
 title = "अनुष्ठानेन रहिताम्"
 

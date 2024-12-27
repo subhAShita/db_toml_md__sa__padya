@@ -3,7 +3,7 @@ topics = [ "याचकः", "पुरुषकारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३५ याचकनिन्दा// 33",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "ग", "क", "त",]
 jsonClass = "Subhaashita"
 title = "जनस्थाने भ्रान्तम्"
 

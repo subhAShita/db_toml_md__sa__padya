@@ -2,7 +2,7 @@
 topics = [ "राजा", "पाण्ड्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २३ पाण्ड्यः// 63",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म", "र",]
 jsonClass = "Subhaashita"
 title = "विन्ध्याद्रिः करसाधनी"
 

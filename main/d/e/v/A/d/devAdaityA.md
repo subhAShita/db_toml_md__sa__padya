@@ -3,7 +3,7 @@ topics = [ "वीचिः",]
 sources = [ "शशिकिरणः - मुक्तकम्",]
 ratings = [ "vvasuki:4",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "देवा दैत्या"
 

@@ -3,7 +3,7 @@ topics = [ "ब्राह्मण्यम्", "स्वधर्मः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "य", "स", "त",]
 jsonClass = "Subhaashita"
 title = "ऋतामृताभ्यां जीवेत्"
 

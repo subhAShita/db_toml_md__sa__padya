@@ -3,7 +3,7 @@ sources = [ "हॆब्बळलु-राघवेन्द्रः - मु
 topics = [ "दुर्गा",]
 ratings = [ "vvasuki:4",]
 meters = [ "आर्यागीति",]
-pratimaalaa_letters = [ "म",]
+pratimaalaa_letters = [ "म", "न",]
 jsonClass = "Subhaashita"
 title = "जीयाद्रसना देव्या"
 

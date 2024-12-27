@@ -3,7 +3,7 @@ topics = [ "निवृत्तिः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "र", "प", "त",]
 jsonClass = "Subhaashita"
 title = "महर्षिपितृदेवानाम्"
 

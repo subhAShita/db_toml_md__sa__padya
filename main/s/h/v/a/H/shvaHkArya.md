@@ -2,7 +2,7 @@
 topics = [ "शीघ्र-कारिता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "म",]
+pratimaalaa_letters = [ "म", "न", "क", "त",]
 jsonClass = "Subhaashita"
 title = "श्वः कार्यमद्य"
 

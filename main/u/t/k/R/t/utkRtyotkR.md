@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6427", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्// ०७ बीभत्सरसनिर्देशः// 7",]
 rasas = [ "बीभत्सः",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "र", "म", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "उत्कृत्योत्कृत्य कृत्तिम्"
 

@@ -3,7 +3,7 @@ topics = [ "गुरु-नुतिः", "पण्डित-विनयः",
 sources = [ "जयतीर्थः - न्यायसुधा",]
 ratings = [ "vvasuki:4",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "ह", "प", "त",]
 jsonClass = "Subhaashita"
 title = "न शब्दाब्धौ"
 

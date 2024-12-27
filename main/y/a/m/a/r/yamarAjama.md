@@ -4,7 +4,7 @@ topics = [ "रामः", "जपः", "रामनाम",]
 ornaments = [ "वर्ण-व्यत्यासः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "यमराज न"
 

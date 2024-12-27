@@ -3,7 +3,7 @@ topics = [ "नायकं प्रति सखीवाक्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ६६ नायकं प्रति सखीवाक्यम्// 1",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "ल", "व",]
+pratimaalaa_letters = [ "व", "ल",]
 jsonClass = "Subhaashita"
 title = "किमिति सखे"
 

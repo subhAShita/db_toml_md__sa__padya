@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5546", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 24",]
 topics = [ "तृष्णा",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "छ", "य",]
+pratimaalaa_letters = [ "य", "छ",]
 jsonClass = "Subhaashita"
 title = "आसन्नान् पुरतो"
 

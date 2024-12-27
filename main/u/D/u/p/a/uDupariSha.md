@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6394",]
 meters = [ "हरिणी",]
-pratimaalaa_letters = [ "म", "स",]
+pratimaalaa_letters = [ "र", "म", "स", "त",]
 jsonClass = "Subhaashita"
 title = "उडुपरिषदः किम्"
 

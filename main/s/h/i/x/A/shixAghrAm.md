@@ -3,7 +3,7 @@ topics = [ "वेदाङ्गानि",]
 sources = [ "वरदभट्टः - गीर्वाणमञ्जरी",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "ब", "र",]
+pratimaalaa_letters = [ "र", "ब",]
 jsonClass = "Subhaashita"
 title = "शिक्षा घ्राणम्"
 

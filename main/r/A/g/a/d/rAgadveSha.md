@@ -3,7 +3,7 @@ topics = [ "ताटस्थ्यम्", "रसिकता",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "छ", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "रागद्वेषवियुक्तैस्तु"
 

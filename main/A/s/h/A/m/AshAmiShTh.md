@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5430", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 114",]
 topics = [ "वैराग्यम्",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "र", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "आशा निष्ठा"
 

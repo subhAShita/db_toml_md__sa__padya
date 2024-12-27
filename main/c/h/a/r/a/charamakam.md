@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "चरणौ",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// ३० चरणौ// 409",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "ज", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "चरणकमलं तदीयम्"
 

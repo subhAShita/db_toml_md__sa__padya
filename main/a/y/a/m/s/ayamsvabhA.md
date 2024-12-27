@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2675", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 176",]
 topics = [ "सज्जनः",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaalaa_letters = [ "ल", "स",]
+pratimaalaa_letters = [ "स", "ल",]
 jsonClass = "Subhaashita"
 title = "अयं स्वभावः"
 

@@ -4,7 +4,7 @@ topics = [ "प्रमाणम्", "शास्त्रम्",]
 sources = [ "शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ल", "व",]
+pratimaalaa_letters = [ "व", "ल",]
 jsonClass = "Subhaashita"
 title = "अविज्ञाते परे"
 

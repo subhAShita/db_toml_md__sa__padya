@@ -3,7 +3,7 @@ topics = [ "दानम्", "पात्रता",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "व", "त",]
+pratimaalaa_letters = [ "य", "व", "त",]
 jsonClass = "Subhaashita"
 title = "भिक्षामप्युदपात्रं वा"
 

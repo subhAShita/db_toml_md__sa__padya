@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0090", "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// २४ कुमारः// 37",]
 topics = [ "कुमारः",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "न", "क", "त",]
 jsonClass = "Subhaashita"
 title = "अकूर्चारम्भोऽपि"
 

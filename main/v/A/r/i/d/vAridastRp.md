@@ -3,7 +3,7 @@ topics = [ "दानम्", "जल-दानम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "द", "भ",]
+pratimaalaa_letters = [ "भ", "द",]
 jsonClass = "Subhaashita"
 title = "वारिदस्तृप्तिमाप्नोति"
 

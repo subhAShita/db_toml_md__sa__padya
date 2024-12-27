@@ -3,7 +3,7 @@ topics = [ "कृष्णः",]
 sources = [ "शशिकिरणः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "प", "श", "त",]
 jsonClass = "Subhaashita"
 title = "बाल्ये गोकुलबालकैरत"
 

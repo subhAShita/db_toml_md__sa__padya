@@ -3,7 +3,7 @@ topics = [ "स्त्री-सौन्दर्यम्",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ब", "म",]
+pratimaalaa_letters = [ "ड", "म", "ब", "त",]
 jsonClass = "Subhaashita"
 title = "लज्जा जयति"
 

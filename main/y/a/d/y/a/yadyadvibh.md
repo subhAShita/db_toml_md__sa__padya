@@ -3,7 +3,7 @@ topics = [ "अद्भुतम्",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "व", "म", "त",]
 jsonClass = "Subhaashita"
 title = "यद्यद्विभूतिमत् सत्त्वम्"
 

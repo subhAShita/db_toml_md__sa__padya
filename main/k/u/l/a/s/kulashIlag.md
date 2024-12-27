@@ -2,7 +2,7 @@
 topics = [ "धर्माध्यक्षः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ०४ धर्माध्यक्षः// 19",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "य", "प", "त",]
 jsonClass = "Subhaashita"
 title = "कुलशीलगुणोपेतः"
 

@@ -3,7 +3,7 @@ topics = [ "सन्देशः - नायकं प्रति",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// २० नायकं प्रति नायिकासन्देशः// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "ठ", "म", "त",]
 jsonClass = "Subhaashita"
 title = "इन्दुं कैरविणीव"
 

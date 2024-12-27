@@ -2,7 +2,7 @@
 topics = [ "वैराग्यम्", "पश्चात्तापः - जीवने",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०६ पश्चात्तापः// 215",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "चिरं ध्याता"
 

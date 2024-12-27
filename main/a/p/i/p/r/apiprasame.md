@@ -3,7 +3,7 @@ topics = [ "गृहस्थः",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]
 meters = [ "कीर्तिः",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "र", "म", "क", "त",]
 jsonClass = "Subhaashita"
 title = "अपि प्रसन्नेन"
 

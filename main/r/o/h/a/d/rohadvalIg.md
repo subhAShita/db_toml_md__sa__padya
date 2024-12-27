@@ -3,7 +3,7 @@ sources = [ "राजारामज-शङ्करः - मुक्तकम
 topics = [ "गोम्मटेश्वरः",]
 ratings = [ "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ल", "प",]
+pratimaalaa_letters = [ "प", "ल",]
 jsonClass = "Subhaashita"
 title = "रोहद्वल्लीघनाश्लिष्टो"
 

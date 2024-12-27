@@ -3,7 +3,7 @@ topics = [ "काव्य-प्रयोजनम्",]
 sources = [ "भामहः - काव्यालङ्कारः",]
 ratings = [ "vvasuki:3",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प", "ज",]
 jsonClass = "Subhaashita"
 title = "स्वादुकाव्यरसोन्मिश्रम्"
 

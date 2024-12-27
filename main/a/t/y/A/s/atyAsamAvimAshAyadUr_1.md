@@ -1,6 +1,6 @@
 +++
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "य",]
+pratimaalaa_letters = [ "य", "म",]
 jsonClass = "Subhaashita"
 title = "अत्यासन्ना विनाशाय"
 

@@ -3,7 +3,7 @@ topics = [ "शिक्षा", "व्याकरणम्", "अर्थज
 sources = [ "तैत्तिरीयप्रातिशाख्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स", "द",]
 jsonClass = "Subhaashita"
 title = "पदक्रमविशेषज्ञो"
 

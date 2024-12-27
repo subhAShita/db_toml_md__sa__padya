@@ -3,7 +3,7 @@ topics = [ "दम्भः", "खलः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ब", "क",]
+pratimaalaa_letters = [ "क", "ब",]
 jsonClass = "Subhaashita"
 title = "धर्मध्वजी सदा"
 

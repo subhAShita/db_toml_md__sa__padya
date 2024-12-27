@@ -4,7 +4,7 @@ topics = [ "प्रौढोक्तिः", "प्रतिभा",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "भुजङ्गप्रयातम्",]
-pratimaalaa_letters = [ "क", "प",]
+pratimaalaa_letters = [ "प", "क",]
 jsonClass = "Subhaashita"
 title = "अनाराध्य कालीमनास्वाद्य"
 

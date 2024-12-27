@@ -3,7 +3,7 @@ topics = [ "सूत्रम्",]
 sources = [ "कुमारीलभट्टः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "स",]
+pratimaalaa_letters = [ "ठ", "म", "स", "त",]
 jsonClass = "Subhaashita"
 title = "सूत्रेष्वेव हि"
 

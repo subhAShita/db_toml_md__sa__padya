@@ -2,7 +2,7 @@
 topics = [ "धनिकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २९ धनिप्रशंसा// 10",]
 meters = [ "शाला",]
-pratimaalaa_letters = [ "न", "ण",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "न", "औ", "आ", "ऌ", "इ", "ॡ", "ण", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "वाणी दरिद्रस्य"
 

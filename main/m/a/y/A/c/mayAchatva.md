@@ -3,7 +3,7 @@ sources = [ "राजारामज-शङ्करः - मुक्तकम
 topics = [ "शिवः", "ब्रह्म", "बहुत्वम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "य", "व",]
+pratimaalaa_letters = [ "व", "य",]
 jsonClass = "Subhaashita"
 title = "मया च"
 

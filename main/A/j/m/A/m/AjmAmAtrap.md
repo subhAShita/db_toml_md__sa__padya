@@ -2,7 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4508", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 196",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ज", "म",]
+pratimaalaa_letters = [ "म", "न", "ज",]
 jsonClass = "Subhaashita"
 title = "आज्ञामात्रफलं राज्यम्"
 

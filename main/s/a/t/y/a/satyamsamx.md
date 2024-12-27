@@ -2,7 +2,7 @@
 topics = [ "कलियुगः", "पाशण्डः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "य",]
+pratimaalaa_letters = [ "य", "स",]
 jsonClass = "Subhaashita"
 title = "सत्यं सङ्क्षिप्यते"
 

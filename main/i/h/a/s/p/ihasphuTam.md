@@ -3,7 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "परस्परप्रसादः",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaalaa_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "य", "इ", "त",]
 jsonClass = "Subhaashita"
 title = "इह स्फुटम्"
 

@@ -2,7 +2,7 @@
 topics = [ "राजा", "परशुरामः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २२ परशुरामः// 61",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "य", "त",]
+pratimaalaa_letters = [ "य", "ष", "त",]
 jsonClass = "Subhaashita"
 title = "तन्वन्ती तिमिरद्युतिम्"
 

@@ -3,7 +3,7 @@ topics = [ "धर्मः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "र", "प", "त",]
 jsonClass = "Subhaashita"
 title = "वेदप्रणिहितं कर्म"
 

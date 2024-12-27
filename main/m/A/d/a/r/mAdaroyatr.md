@@ -3,7 +3,7 @@ topics = [ "धर्मः", "अधर्मः", "कुराज्यम्
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "थ",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "न", "औ", "आ", "थ", "ऌ", "इ", "ॡ", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "नादरो यत्र"
 

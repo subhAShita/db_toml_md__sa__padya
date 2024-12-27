@@ -3,7 +3,7 @@ topics = [ "हेमन्तवर्णनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७४ हेमन्तवर्णनम्// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "ज", "म", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "हेमन्ते बहुदोषाढ्ये"
 

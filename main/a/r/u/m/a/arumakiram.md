@@ -4,7 +4,7 @@ topics = [ "चन्द्रः", "चन्द्रास्तः", "सू
 rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 meters = [ "मालिनी",]
-pratimaalaa_letters = [ "ब", "य",]
+pratimaalaa_letters = [ "य", "ब",]
 jsonClass = "Subhaashita"
 title = "अरुणकिरणजालैरन्तरिक्षे"
 

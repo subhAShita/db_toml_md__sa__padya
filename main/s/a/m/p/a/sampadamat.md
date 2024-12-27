@@ -3,7 +3,7 @@ topics = [ "कामदेवः", "कामः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०१ मनसिजप्रशंसा// 7",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "भ", "प", "त",]
 jsonClass = "Subhaashita"
 title = "सम्पदमतरललभ्यामनन्यसामान्यबहलदर्पनिधेः"
 

@@ -3,7 +3,7 @@ topics = [ "यजमानः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "च", "स", "त",]
 jsonClass = "Subhaashita"
 title = "नाश्रोत्रियतते यज्ञे"
 

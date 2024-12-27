@@ -3,7 +3,7 @@ topics = [ "व्याख्या",]
 sources = [ "तन्त्रवार्तिकम् (1-3-4)",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "प", "व",]
+pratimaalaa_letters = [ "व", "प",]
 jsonClass = "Subhaashita"
 title = "सर्वव्याख्याविकल्पानाम्"
 

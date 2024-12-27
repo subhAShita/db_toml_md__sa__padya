@@ -4,7 +4,7 @@ topics = [ "श्त्रीः", "कामः", "पुंश्चली",]
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "र", "प", "त",]
 jsonClass = "Subhaashita"
 title = "एकं वै"
 

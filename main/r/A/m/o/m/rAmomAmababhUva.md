@@ -2,7 +2,7 @@
 topics = [ "कृष्णः", "रामः", "पूर्वजन्म",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "न", "व",]
+pratimaalaa_letters = [ "व", "न",]
 jsonClass = "Subhaashita"
 title = "रामो नाम"
 

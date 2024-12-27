@@ -2,7 +2,7 @@
 topics = [ "आश्रमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २५ ऋष्याश्रमवर्णनम्// 1",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "श", "त",]
+pratimaalaa_letters = [ "न", "श", "त",]
 jsonClass = "Subhaashita"
 title = "विष्वक्तपोवनकुमारसमर्प्यमाणश्यामाकतण्डुलहृताम्"
 

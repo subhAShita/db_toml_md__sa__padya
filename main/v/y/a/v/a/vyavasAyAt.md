@@ -3,7 +3,7 @@ topics = [ "पुरुषकारः", "चिन्तनम्", "कर्
 sources = [ "कृष्णः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ब", "म",]
+pratimaalaa_letters = [ "म", "न", "ब",]
 jsonClass = "Subhaashita"
 title = "व्यवसायात्मिका"
 

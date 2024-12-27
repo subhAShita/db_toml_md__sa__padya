@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3560",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "च", "म",]
+pratimaalaa_letters = [ "म", "च", "ण",]
 jsonClass = "Subhaashita"
 title = "अश्वस्य लक्षणम्"
 

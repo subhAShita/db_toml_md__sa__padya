@@ -3,7 +3,7 @@ topics = [ "गुणाः", "वृद्धः", "पूज्यता",]
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "म", "न", "त",]
 jsonClass = "Subhaashita"
 title = "गुणैर्वृद्धानतिक्रम्य"
 

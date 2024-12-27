@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8933", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १५ नैयायिकनिन्दा// 7",]
 topics = [ "नैयायिकः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "ष", "प", "त",]
 jsonClass = "Subhaashita"
 title = "कर्मब्रह्मविचारणाम्"
 

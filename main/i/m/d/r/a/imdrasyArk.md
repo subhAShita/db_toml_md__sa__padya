@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6027",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "च", "त",]
+pratimaalaa_letters = [ "व", "च", "त",]
 jsonClass = "Subhaashita"
 title = "इन्द्रस्यार्कस्य वायोश्"
 

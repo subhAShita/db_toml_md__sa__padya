@@ -3,7 +3,7 @@ topics = [ "प्रणयकलहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३८ प्रणयकलहे नायिकानुनयः// 16",]
 rasas = [ "शृङ्गारः",]
 meters = [ "रथोद्धता",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "अ", "र",]
 jsonClass = "Subhaashita"
 title = "उत्तरङ्गय कुरङ्गलोचने"
 

@@ -2,7 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// १२ नरहरिः// 23",]
 topics = [ "नरहरिः",]
 meters = [ "पृथ्वी",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "य", "न", "त",]
 jsonClass = "Subhaashita"
 title = "यशोधननिधेर्यदा"
 

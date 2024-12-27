@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1864",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "ढ", "स",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "औ", "आ", "ऒ", "स", "ऌ", "इ", "ॡ", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ढ",]
 jsonClass = "Subhaashita"
 title = "अन्योपभोगकलुषा मानवती"
 

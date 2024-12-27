@@ -3,7 +3,7 @@ topics = [ "काम-दहनम्", "गौरी",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "ग",]
+pratimaalaa_letters = [ "म", "स", "ग",]
 jsonClass = "Subhaashita"
 title = "अक्ष्णोर्बाणचयं भ्रुवोः"
 

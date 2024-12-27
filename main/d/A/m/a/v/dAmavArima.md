@@ -3,7 +3,7 @@ sources = [ "सुधीरः - मुक्तकम्",]
 topics = [ "बलिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ब", "ण",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "औ", "आ", "ब", "ऌ", "इ", "ॡ", "ण", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "दानवारिमदोन्मत्ता गजाः"
 

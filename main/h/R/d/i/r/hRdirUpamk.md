@@ -3,7 +3,7 @@ topics = [ "रतिः", "स्नेहः", "प्रीतिः",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ट", "प",]
+pratimaalaa_letters = [ "अ", "ट", "ई", "ए", "प", "औ", "आ", "ऌ", "इ", "ॡ", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "हृदि रूपम्"
 

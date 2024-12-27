@@ -3,7 +3,7 @@ topics = [ "अनिर्वेदः", "कौशलम्", "धैर्य
 sources = [ "रामायणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "क",]
+pratimaalaa_letters = [ "म", "क", "ह",]
 jsonClass = "Subhaashita"
 title = "अनिर्वेदं च"
 

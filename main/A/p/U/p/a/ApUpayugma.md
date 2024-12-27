@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4952",]
 meters = [ "माला", "वाणी",]
-pratimaalaa_letters = [ "ग", "त",]
+pratimaalaa_letters = [ "भ", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "आपूपयुग्मं मदनस्स्य"
 

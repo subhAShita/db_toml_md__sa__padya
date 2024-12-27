@@ -3,7 +3,7 @@ topics = [ "दाम्भिकः", "भ्रामकगुरुः",]
 sources = [ "काञ्चीपुर-पञ्चाक्षर-योगी",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "व", "क", "त",]
 jsonClass = "Subhaashita"
 title = "लोके भ्रामकमुद्रया"
 

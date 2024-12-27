@@ -3,7 +3,7 @@ sources = [ "सुधीरः - मुक्तकम्",]
 topics = [ "रामः", "रामनाम",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "इ", "य",]
+pratimaalaa_letters = [ "य", "इ",]
 jsonClass = "Subhaashita"
 title = "'जय श्रीराम'"
 

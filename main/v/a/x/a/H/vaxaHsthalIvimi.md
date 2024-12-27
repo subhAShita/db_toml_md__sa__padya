@@ -2,7 +2,7 @@
 topics = [ "दुर्गा",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "आ", "म",]
+pratimaalaa_letters = [ "म", "आ", "ण",]
 jsonClass = "Subhaashita"
 title = "वक्षःस्थलीविनिमितामरशैलदण्ड"
 

@@ -2,7 +2,7 @@
 topics = [ "परोपकारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३६ परोपकारप्रशंसा// 8",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "अ", "न",]
 jsonClass = "Subhaashita"
 title = "रागिणि नलिने"
 

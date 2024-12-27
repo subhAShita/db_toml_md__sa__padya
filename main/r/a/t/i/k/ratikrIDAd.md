@@ -3,7 +3,7 @@ topics = [ "द्यूतक्रीडा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ४८ द्यूतक्रीडावर्णनम्// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "म", "क",]
+pratimaalaa_letters = [ "म", "ख", "क",]
 jsonClass = "Subhaashita"
 title = "रतिक्रीडाद्यूते कथमपि"
 

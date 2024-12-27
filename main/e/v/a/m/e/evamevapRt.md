@@ -3,7 +3,7 @@ topics = [ "धर्मः", "अर्थः", "कामः",]
 sources = [ "भीमः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "न", "द",]
+pratimaalaa_letters = [ "द", "न",]
 jsonClass = "Subhaashita"
 title = "एवमेव पृथग्"
 

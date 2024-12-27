@@ -3,7 +3,7 @@ topics = [ "अकारः", "द्वन्द्वसमासः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ख", "अ",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "ख", "औ", "आ", "ऌ", "इ", "ॡ", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "अक्षराणामकारोऽस्मि"
 

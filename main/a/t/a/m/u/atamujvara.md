@@ -4,7 +4,7 @@ types = [ "कूटम्",]
 topics = [ "कामः", "वैद्यः",]
 ratings = [ "vvasuki:5",]
 meters = [ "औपच्छन्दसिकम्",]
-pratimaalaa_letters = [ "र", "थ",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "औ", "आ", "थ", "ऌ", "इ", "ॡ", "ॠ", "र", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "अतनुज्वरपीडितासि बाले"
 

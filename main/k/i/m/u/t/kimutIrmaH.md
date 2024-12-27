@@ -3,7 +3,7 @@ topics = [ "नायिका", "अभिसारिका",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०३ अभिसारिका// 25",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "र", "इ", "त",]
 jsonClass = "Subhaashita"
 title = "किमुत्तीर्णः पन्थाः"
 

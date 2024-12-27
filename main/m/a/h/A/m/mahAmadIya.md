@@ -3,7 +3,7 @@ sources = [ "वासुकिः - मुक्तकम्",]
 topics = [ "रामः", "अयोध्या", "रामनाम",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "य",]
+pratimaalaa_letters = [ "ष", "म", "य", "त",]
 jsonClass = "Subhaashita"
 title = "महामदीयपीडायाः सायोध्या"
 

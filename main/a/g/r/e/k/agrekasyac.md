@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0229", "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०७ विचारः// 262",]
 topics = [ "तत्त्वज्ञानम्",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "ब", "त",]
+pratimaalaa_letters = [ "य", "ब", "त",]
 jsonClass = "Subhaashita"
 title = "अग्रे कस्यचिदस्ति"
 

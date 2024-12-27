@@ -2,7 +2,7 @@
 topics = [ "अभिवादनम्", "प्रत्यभिवादनम्", "व्याकरणम्", "उच्चारणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "स", "अ",]
+pratimaalaa_letters = [ "अ", "स",]
 jsonClass = "Subhaashita"
 title = "अविद्वांसः प्रत्यभिवादे"
 

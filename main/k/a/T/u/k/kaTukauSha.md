@@ -3,7 +3,7 @@ topics = [ "काव्य-प्रयोजनम्",]
 sources = [ "कुन्तकः - वक्रोक्तिजीवितम्",]
 ratings = [ "vvasuki:3",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "आ", "म",]
+pratimaalaa_letters = [ "म", "आ", "ह",]
 jsonClass = "Subhaashita"
 title = "कटुकौषधवच्छास्त्रमविद्याव्याधिनाशनम्"
 

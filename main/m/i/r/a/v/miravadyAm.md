@@ -3,7 +3,7 @@ topics = [ "काव्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०३ काव्यप्रशंसा// 2",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 ratings = [ "vvasuki:5",]
-pratimaalaa_letters = [ "भ", "त",]
+pratimaalaa_letters = [ "व", "भ", "त",]
 jsonClass = "Subhaashita"
 title = "निरवद्यानि पद्यानि"
 

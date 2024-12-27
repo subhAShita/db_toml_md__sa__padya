@@ -3,7 +3,7 @@ topics = [ "रतिः", "जारता",]
 sources = [ "गोवर्धनाचार्य",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "न", "स", "त",]
 jsonClass = "Subhaashita"
 title = "दलिते पलालपुञ्जे"
 

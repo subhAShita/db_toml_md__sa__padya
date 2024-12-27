@@ -3,7 +3,7 @@ topics = [ "सखीं प्रति नायिकावाक्यम्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ६४ सखीं प्रति नायिकावाक्यम्// 1",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "ज", "स",]
+pratimaalaa_letters = [ "स", "ज",]
 jsonClass = "Subhaashita"
 title = "वयो नव्यम्"
 

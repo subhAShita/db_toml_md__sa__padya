@@ -3,7 +3,7 @@ topics = [ "व्याकरणम्", "देवतात्वम्",]
 sources = [ "रङ्गनाथशर्मा",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "व", "प", "त",]
 jsonClass = "Subhaashita"
 title = "हरिहरयोरिह भेदम्"
 

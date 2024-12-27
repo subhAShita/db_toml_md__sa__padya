@@ -3,7 +3,7 @@ sources = [ "राजारामज-शङ्करः - मुक्तकम
 topics = [ "गर्वः", "आयुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "इन्द्रवज्रा",]
-pratimaalaa_letters = [ "ब", "य",]
+pratimaalaa_letters = [ "य", "ब",]
 jsonClass = "Subhaashita"
 title = "ब्रह्माण्डभाण्डोदरकोणकोणकोणाधिकारग्रहगर्वितानाम्"
 

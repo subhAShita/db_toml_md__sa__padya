@@ -2,7 +2,7 @@
 topics = [ "मूर्खाः",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "न", "त",]
 jsonClass = "Subhaashita"
 title = "मूर्खेषु कुशलमानिषु"
 

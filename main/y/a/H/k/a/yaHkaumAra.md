@@ -5,7 +5,7 @@ rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
 sources = [ "शीला",]
 ratings = [ "vvasuki:5",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "ठ", "स", "त",]
 jsonClass = "Subhaashita"
 title = "यः कौमारहरः"
 

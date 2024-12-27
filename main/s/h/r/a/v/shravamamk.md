@@ -2,7 +2,7 @@
 topics = [ "भक्तिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "अ", "न",]
 jsonClass = "Subhaashita"
 title = "श्रवणं कीर्तनम्"
 

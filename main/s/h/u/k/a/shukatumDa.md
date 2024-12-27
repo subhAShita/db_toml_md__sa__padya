@@ -2,7 +2,7 @@
 topics = [ "सूर्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 13 सूर्यः// 2",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "म", "य",]
+pratimaalaa_letters = [ "य", "म",]
 jsonClass = "Subhaashita"
 title = "शुकतुण्डच्छवि"
 

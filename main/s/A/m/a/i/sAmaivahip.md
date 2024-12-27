@@ -3,7 +3,7 @@ topics = [ "नीतिः", "सामः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 312",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "च", "स", "त",]
 jsonClass = "Subhaashita"
 title = "सामैव हि"
 

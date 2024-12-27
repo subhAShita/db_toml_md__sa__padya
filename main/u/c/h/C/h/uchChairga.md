@@ -3,7 +3,7 @@ topics = [ "ब्राह्मणः", "धर्मः", "वेदाः",]
 sources = [ "भोजः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "ण", "त",]
 jsonClass = "Subhaashita"
 title = "उच्छैर्गतिर्जगति सिध्यति"
 

@@ -2,7 +2,7 @@
 topics = [ "हितवचन-ग्राहकता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "ष", "म", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "बोधारो मत्सरग्रस्ताः"
 

@@ -2,7 +2,7 @@
 topics = [ "सिंहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०१ सिंहः// 2",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ए", "र",]
+pratimaalaa_letters = [ "र", "ए",]
 jsonClass = "Subhaashita"
 title = "लीढग्रस्तविपाण्डुराग्रनखयोराकर्णदीर्णम्"
 

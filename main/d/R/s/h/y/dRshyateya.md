@@ -3,7 +3,7 @@ topics = [ "वेदः", "मोक्षः", "धर्मः",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "श", "म",]
+pratimaalaa_letters = [ "म", "न", "श",]
 jsonClass = "Subhaashita"
 title = "दृश्यते यद्"
 

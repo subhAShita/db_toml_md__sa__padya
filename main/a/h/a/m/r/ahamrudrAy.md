@@ -3,7 +3,7 @@ topics = [ "ब्रह्मद्विट्",]
 sources = [ "वाग् आम्भृणी",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "श", "अ",]
+pratimaalaa_letters = [ "अ", "श",]
 jsonClass = "Subhaashita"
 title = "अहं रुद्राय"
 

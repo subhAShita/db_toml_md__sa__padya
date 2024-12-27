@@ -2,7 +2,7 @@
 topics = [ "मातृत्वम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "ध", "द",]
+pratimaalaa_letters = [ "द", "ध",]
 jsonClass = "Subhaashita"
 title = "इमां त्वमिन्द्र"
 

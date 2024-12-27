@@ -3,7 +3,7 @@ topics = [ "वैराग्यम्",]
 sources = [ "उपदेशपञ्चकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "श", "म",]
+pratimaalaa_letters = [ "य", "म", "श", "त",]
 jsonClass = "Subhaashita"
 title = "क्षुद्व्याधिश्च"
 

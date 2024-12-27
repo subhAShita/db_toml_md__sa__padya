@@ -3,7 +3,7 @@ topics = [ "अभिसारिकासञ्चारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३१ अभिसारिकासञ्चारकथनम्// 13",]
 rasas = [ "शृङ्गारः",]
 meters = [ "रथोद्धता",]
-pratimaalaa_letters = [ "प", "व",]
+pratimaalaa_letters = [ "व", "प",]
 jsonClass = "Subhaashita"
 title = "सञ्चरन्ति मृगनाभिचर्चिता"
 

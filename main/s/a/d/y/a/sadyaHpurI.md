@@ -4,7 +4,7 @@ rasas = [ "करुणः",]
 meters = [ "वसन्ततिलका",]
 topics = [ "सीता", "रामः", "पतित्वम्", "वनवासः",]
 ratings = [ "vvasuki:5",]
-pratimaalaa_letters = [ "म", "ग",]
+pratimaalaa_letters = [ "म", "ग", "र",]
 jsonClass = "Subhaashita"
 title = "सद्यः पुरीपरिसरेऽपि"
 

@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "ऊरू",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्// २८ ऊरू// 389",]
 rasas = [ "शृङ्गारः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "ड", "म", "अ",]
 jsonClass = "Subhaashita"
 title = "लम्भिताः"
 

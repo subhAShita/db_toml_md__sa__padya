@@ -3,7 +3,7 @@ topics = [ "चन्द्रः",]
 sources = [ "रामकृष्णः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "उ", "म",]
+pratimaalaa_letters = [ "म", "उ", "र",]
 jsonClass = "Subhaashita"
 title = "निशा कान्ता"
 

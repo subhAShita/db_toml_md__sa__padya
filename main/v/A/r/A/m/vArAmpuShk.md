@@ -3,7 +3,7 @@ sources = [ "सुहासः - मुक्तकम्",]
 topics = [ "मिथ्या-कीर्तिः", "Middle management",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म",]
+pratimaalaa_letters = [ "य", "म", "त",]
 jsonClass = "Subhaashita"
 title = "वाराम्"
 

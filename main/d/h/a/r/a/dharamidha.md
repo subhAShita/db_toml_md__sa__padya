@@ -2,7 +2,7 @@
 topics = [ "राजा", "निजामशाहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २० निजामशाहः// 34",]
 meters = [ "पुष्पिताग्रा",]
-pratimaalaa_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "स", "त",]
 jsonClass = "Subhaashita"
 title = "धरणिधर निजामशाह"
 

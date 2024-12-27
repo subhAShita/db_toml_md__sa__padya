@@ -3,7 +3,7 @@ topics = [ "स्वभावः", "दुष्टता",]
 sources = [ "कलिङ्गः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "य",]
+pratimaalaa_letters = [ "य", "स",]
 jsonClass = "Subhaashita"
 title = "यथाऽहं भवता"
 

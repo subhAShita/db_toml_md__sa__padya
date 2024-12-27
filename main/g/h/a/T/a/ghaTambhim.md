@@ -3,7 +3,7 @@ topics = [ "नीतिः", "कोलाहलम्", "प्रसिद्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 50",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "य", "त",]
+pratimaalaa_letters = [ "व", "य", "त",]
 jsonClass = "Subhaashita"
 title = "घटं भिन्द्यात्पटम्"
 

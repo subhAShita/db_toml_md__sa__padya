@@ -3,7 +3,7 @@ topics = [ "अल्पज्ञः", "दुरहङ्कारः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "इ", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "तत्सर्वं यदहम्"
 

@@ -3,7 +3,7 @@ topics = [ "चुम्बनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//४९ बाह्यरतक्रीडावर्णनम्// ०२ चुम्बनम्// 14",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्वागता",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "अ", "स", "त",]
 jsonClass = "Subhaashita"
 title = "ह्रीभरादवनतं परिरम्भे"
 

@@ -3,7 +3,7 @@ topics = [ "नृसिंहः",]
 sources = [ "शशिकिरणः",]
 ratings = [ "vvasuki:5",]
 meters = [ "रथोद्धता",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "न", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "अर्भकार्तिदमनोद्धुरम्"
 

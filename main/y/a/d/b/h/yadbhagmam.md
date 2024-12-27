@@ -2,7 +2,7 @@
 topics = [ "कालः", "लयः", "विधिः", "कर्म", "दाम्पत्यम्", "आदि-प्रणयः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ए", "म",]
+pratimaalaa_letters = [ "ष", "म", "ए", "त",]
 jsonClass = "Subhaashita"
 title = "यद्भग्नं धनुरीश्वरस्य"
 

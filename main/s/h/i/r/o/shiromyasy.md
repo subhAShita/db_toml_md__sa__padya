@@ -2,7 +2,7 @@
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 topics = [ "शिवः", "वैराग्यम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म", "न",]
 jsonClass = "Subhaashita"
 title = "शिरोऽन्यस्या हृदन्यस्या"
 

@@ -3,7 +3,7 @@ topics = [ "कृष्णः",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "स", "प", "त",]
 jsonClass = "Subhaashita"
 title = "कारागारे"
 

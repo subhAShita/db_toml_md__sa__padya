@@ -5,7 +5,7 @@ rasas = [ "शृङ्गारः",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "य", "म", "त",]
 jsonClass = "Subhaashita"
 title = "गते प्रेमाबन्धे"
 

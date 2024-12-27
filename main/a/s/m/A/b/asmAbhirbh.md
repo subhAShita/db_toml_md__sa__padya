@@ -3,7 +3,7 @@ topics = [ "शिवः", "अर्धनारीश्वरः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्यागीति",]
-pratimaalaa_letters = [ "प", "ग",]
+pratimaalaa_letters = [ "ग", "प",]
 jsonClass = "Subhaashita"
 title = "अस्माभिर्भर्तरिति स्वामी"
 

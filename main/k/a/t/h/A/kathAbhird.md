@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8494A",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "ण", "त",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "औ", "आ", "त", "ऌ", "इ", "ॡ", "ण", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "कथाभिर्देशानां कथमपि"
 

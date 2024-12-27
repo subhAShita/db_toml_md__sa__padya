@@ -2,7 +2,7 @@
 topics = [ "स्वास्थ्यम्", "आरोग्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "व", "स", "त",]
 jsonClass = "Subhaashita"
 title = "नगरी नगरस्येव"
 

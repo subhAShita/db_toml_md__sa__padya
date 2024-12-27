@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "मुखम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// 177",]
 rasas = [ "शृङ्गारः",]
 meters = [ "रथोद्धता",]
-pratimaalaa_letters = [ "ए", "म",]
+pratimaalaa_letters = [ "म", "ए", "ख",]
 jsonClass = "Subhaashita"
 title = "यः ससर्ज"
 

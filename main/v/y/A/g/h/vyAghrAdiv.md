@@ -3,7 +3,7 @@ topics = [ "अर्थवादः", "कर्मफलम्", "शास्
 sources = [ "भर्तृहरिः - वाक्यपदीयम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "अ", "त",]
+pratimaalaa_letters = [ "य", "अ", "त",]
 jsonClass = "Subhaashita"
 title = "व्याघ्रादिव्यपदेशेन यथा"
 

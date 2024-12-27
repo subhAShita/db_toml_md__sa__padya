@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5974",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "र", "म",]
+pratimaalaa_letters = [ "भ", "म", "र",]
 jsonClass = "Subhaashita"
 title = "इन्दिन्दिरो मरन्दे"
 

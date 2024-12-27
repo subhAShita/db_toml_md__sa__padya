@@ -2,7 +2,7 @@
 topics = [ "वैधर्म्यम्", "समानताभासः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "म", "क",]
+pratimaalaa_letters = [ "य", "म", "क",]
 jsonClass = "Subhaashita"
 title = "गतिर्व्योम्ना किम्"
 

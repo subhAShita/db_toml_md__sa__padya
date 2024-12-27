@@ -2,7 +2,7 @@
 topics = [ "भल्लः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०५ भल्लः// 8",]
 meters = [ "मालिनी",]
-pratimaalaa_letters = [ "ल", "क",]
+pratimaalaa_letters = [ "क", "ल",]
 jsonClass = "Subhaashita"
 title = "नयनपथनिरोधाक्रोधनिर्धूतभालभ्रमदविरलरोमस्तोमबद्धान्धकारः"
 

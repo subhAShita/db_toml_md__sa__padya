@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3773", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २० कुगणकनिन्दा// 3",]
 topics = [ "ज्योतिषिकः",]
 meters = [ "मालिनी",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "असुखमथ सुखम्"
 

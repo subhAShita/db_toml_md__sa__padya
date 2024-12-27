@@ -3,7 +3,7 @@ sources = [ "श्रीललिता - मुक्तकम्",]
 topics = [ "रामः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "ष", "म", "प", "त",]
 jsonClass = "Subhaashita"
 title = "यस्य"
 

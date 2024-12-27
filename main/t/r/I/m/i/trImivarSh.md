@@ -3,7 +3,7 @@ topics = [ "स्वयंवरः", "पति-चितिः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "न", "त",]
+pratimaalaa_letters = [ "छ", "न", "त",]
 jsonClass = "Subhaashita"
 title = "त्रीणि वर्षाण्युदीक्षेत"
 

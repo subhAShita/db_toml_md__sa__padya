@@ -3,7 +3,7 @@ topics = [ "रोगः", "चिकित्सा", "सद्भावना
 sources = [ "वाग्भटः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "ह", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "स्निग्धवृद्धद्विजातीनाम्"
 

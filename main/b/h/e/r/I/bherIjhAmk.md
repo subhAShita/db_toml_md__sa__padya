@@ -2,7 +2,7 @@
 topics = [ "राजा", "वीरभानः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५३ वीरभानः// 184",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "आ", "म",]
+pratimaalaa_letters = [ "ज", "म", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "भेरीझाङ्कृतिभिस्तुरङ्गनिनदैः"
 

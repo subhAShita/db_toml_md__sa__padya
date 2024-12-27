@@ -3,7 +3,7 @@ topics = [ "वियोगः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// १२ वियोगिनोऽवस्थावर्णनम्// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "हरिणी",]
-pratimaalaa_letters = [ "भ", "म",]
+pratimaalaa_letters = [ "र", "म", "भ", "त",]
 jsonClass = "Subhaashita"
 title = "गमनमलसं शून्या"
 

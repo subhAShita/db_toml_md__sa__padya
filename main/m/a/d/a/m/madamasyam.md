@@ -3,7 +3,7 @@ topics = [ "स्नेहः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "च", "त",]
+pratimaalaa_letters = [ "ज", "च", "त",]
 jsonClass = "Subhaashita"
 title = "मदनस्य मधुरिव"
 

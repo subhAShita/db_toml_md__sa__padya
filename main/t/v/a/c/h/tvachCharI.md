@@ -3,7 +3,7 @@ topics = [ "प्रशंसा",]
 sources = [ "वेणुगोपालः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "त",]
+pratimaalaa_letters = [ "य", "स", "त",]
 jsonClass = "Subhaashita"
 title = "त्वच्छरीराभिमर्शेन यातो"
 

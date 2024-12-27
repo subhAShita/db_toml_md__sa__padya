@@ -3,7 +3,7 @@ topics = [ "काञ्ची",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//२५ नितम्बः// ०१ काञ्ची// 381",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आख्यानिकी",]
-pratimaalaa_letters = [ "न", "य",]
+pratimaalaa_letters = [ "य", "न",]
 jsonClass = "Subhaashita"
 title = "स्रस्ताम्"
 

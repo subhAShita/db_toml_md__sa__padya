@@ -3,7 +3,7 @@ topics = [ "वेश्या",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ७९ वेश्यागर्हणम्// 4",]
 rasas = [ "शृङ्गारः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "ए", "म",]
+pratimaalaa_letters = [ "य", "म", "ए",]
 jsonClass = "Subhaashita"
 title = "धनाशा कैतवस्नेहो"
 

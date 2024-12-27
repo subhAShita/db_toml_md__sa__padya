@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3374", "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 11 ब्रह्मा// 4",]
 topics = [ "ब्रह्मा",]
 meters = [ "द्रुतविलम्बितम्",]
-pratimaalaa_letters = [ "ल", "त",]
+pratimaalaa_letters = [ "व", "ल", "त",]
 jsonClass = "Subhaashita"
 title = "अविरताम्बुजसङ्गतिसङ्गलद्"
 

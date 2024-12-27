@@ -3,7 +3,7 @@ topics = [ "सत्त्वम्", "प्रस्तुतिः",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "र", "म",]
+pratimaalaa_letters = [ "व", "म", "र",]
 jsonClass = "Subhaashita"
 title = "बृहदाकारे लिखिताऽप्यवरा"
 

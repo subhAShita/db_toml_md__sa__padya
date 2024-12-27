@@ -2,7 +2,7 @@
 topics = [ "दानम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३१ दानप्रशंसा// 20",]
 meters = [ "स्वागता",]
-pratimaalaa_letters = [ "य", "त",]
+pratimaalaa_letters = [ "य", "म", "स", "त",]
 jsonClass = "Subhaashita"
 title = "यत्प्रदेयमुपनीय"
 

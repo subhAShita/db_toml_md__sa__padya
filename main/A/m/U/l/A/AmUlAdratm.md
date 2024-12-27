@@ -5,7 +5,7 @@ bhaava = [ "प्रौढोक्तिः", "गर्वः",]
 topics = [ "कविः", "प्रौढोक्तिः", "प्रतिभा",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "म", "य",]
+pratimaalaa_letters = [ "य", "म",]
 jsonClass = "Subhaashita"
 title = "आ मूलाद्"
 

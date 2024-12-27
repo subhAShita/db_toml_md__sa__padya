@@ -3,7 +3,7 @@ topics = [ "तेजः", "मानम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ४२ तेजस्विप्रशंसा// 22",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स", "ल",]
 jsonClass = "Subhaashita"
 title = "स्वल्पस्नायुवसावशेषमलिनम्"
 

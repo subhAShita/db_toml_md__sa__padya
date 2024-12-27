@@ -2,7 +2,7 @@
 topics = [ "राजा", "भीमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ३१ भीमः// 72",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "म", "झ",]
+pratimaalaa_letters = [ "भ", "म", "झ",]
 jsonClass = "Subhaashita"
 title = "रुधिरविसरप्रसाधितकरालकरवालरुचिरभुजपरिघः"
 

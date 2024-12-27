@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8294",]
 meters = [ "रथोद्धता",]
-pratimaalaa_letters = [ "क", "त",]
+pratimaalaa_letters = [ "च", "क", "त",]
 jsonClass = "Subhaashita"
 title = "कः परेतनगरीपुरन्दरः"
 

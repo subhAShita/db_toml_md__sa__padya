@@ -3,7 +3,7 @@ topics = [ "रतिः", "व्याकरणम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या (लोओसे स्छेम)",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म",]
 jsonClass = "Subhaashita"
 title = "पठति रहस्यचिरोढा"
 

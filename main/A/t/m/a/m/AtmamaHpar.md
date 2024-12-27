@@ -2,7 +2,7 @@
 topics = [ "काव्य-प्रयोजनम्", "रसिकता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "क", "स",]
+pratimaalaa_letters = [ "स", "क",]
 jsonClass = "Subhaashita"
 title = "आत्मनः परितोषाय"
 

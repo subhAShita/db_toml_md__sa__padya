@@ -3,7 +3,7 @@ topics = [ "नायिका", "खण्डिता",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०२ खण्डिता// 11",]
 rasas = [ "शृङ्गारः",]
 meters = [ "रथोद्धता",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "अ", "न", "त",]
 jsonClass = "Subhaashita"
 title = "सत्यमेव गदितम्"
 

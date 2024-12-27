@@ -3,7 +3,7 @@ topics = [ "उत्साहः",]
 sources = [ "स्वप्नवासवदत्तः (६.७)",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "य", "प", "त",]
 jsonClass = "Subhaashita"
 title = "कातरा येऽप्यशक्ता"
 

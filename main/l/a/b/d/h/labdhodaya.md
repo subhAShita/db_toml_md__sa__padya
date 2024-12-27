@@ -3,7 +3,7 @@ topics = [ "खलः", "द्रोहः",]
 sources = [ "सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "उ", "त",]
+pratimaalaa_letters = [ "ह", "उ", "त",]
 jsonClass = "Subhaashita"
 title = "लब्धोदयः खलजनः"
 

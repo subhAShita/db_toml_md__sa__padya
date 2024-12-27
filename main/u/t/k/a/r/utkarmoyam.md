@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6415", "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०१ सिंहः// 4",]
 topics = [ "सिंहः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "च", "र",]
+pratimaalaa_letters = [ "र", "च",]
 jsonClass = "Subhaashita"
 title = "उत्कर्णोऽयमकाण्डचण्डिमपटुः"
 

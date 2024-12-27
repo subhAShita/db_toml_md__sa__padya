@@ -2,7 +2,7 @@
 topics = [ "भावः", "भक्तिः", "तीर्थम्", "सद्भावः", "सहृदयः",]
 ratings = [ "vvasuki:5",]
 meters = [ "इन्द्रवज्रा",]
-pratimaalaa_letters = [ "त", "व",]
+pratimaalaa_letters = [ "व", "त",]
 jsonClass = "Subhaashita"
 title = "गङ्गादितीर्थेषु वसन्ति"
 

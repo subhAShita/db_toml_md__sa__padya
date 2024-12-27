@@ -4,7 +4,7 @@ sources = [ "निरुक्तम्",]
 secondary_sources = [ "महाभाष्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "म",]
+pratimaalaa_letters = [ "म", "ण",]
 jsonClass = "Subhaashita"
 title = "यदधीतमविज्ञातं निगदेनैव"
 

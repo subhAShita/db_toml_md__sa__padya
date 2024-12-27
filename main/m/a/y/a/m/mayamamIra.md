@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 284",]
 rasas = [ "शृङ्गारः",]
 meters = [ "द्रुतविलम्बितम्",]
-pratimaalaa_letters = [ "इ", "भ",]
+pratimaalaa_letters = [ "भ", "इ",]
 jsonClass = "Subhaashita"
 title = "नयननीरज किम्"
 

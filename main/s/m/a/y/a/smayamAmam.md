@@ -3,7 +3,7 @@ topics = [ "स्मितम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१३ मुखम्// ०१ स्मितम्// 208",]
 rasas = [ "शृङ्गारः",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "म", "अ",]
+pratimaalaa_letters = [ "म", "ट", "अ",]
 jsonClass = "Subhaashita"
 title = "स्मयमानमायताक्ष्याः"
 

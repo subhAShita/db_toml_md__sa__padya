@@ -2,7 +2,7 @@
 topics = [ "लज्जाभासः",]
 types = [ "अन्योक्तिः",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "ज", "स",]
+pratimaalaa_letters = [ "स", "ज",]
 jsonClass = "Subhaashita"
 title = "किं केतकीकुसुम"
 

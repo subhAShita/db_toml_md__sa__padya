@@ -4,7 +4,7 @@ rasas = [ "हास्यम्",]
 topics = [ "हास्यम्", "सुब्रह्मण्यः", "शिवः", "गङ्गा", "गणेशः", "कुटुम्बकलहः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "ग",]
+pratimaalaa_letters = [ "म", "ग", "ल",]
 jsonClass = "Subhaashita"
 title = "अत्तुं वाञ्छति"
 

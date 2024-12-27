@@ -3,7 +3,7 @@ topics = [ "स्त्री-शरीरम्", "स्तनौ",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//०६ तरुणीपृथगवयववर्णनम्//१८ स्तनौ// 268",]
 rasas = [ "शृङ्गारः",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "च", "म",]
+pratimaalaa_letters = [ "म", "च",]
 jsonClass = "Subhaashita"
 title = "पटविघटितमपि"
 

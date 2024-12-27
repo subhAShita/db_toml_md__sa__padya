@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1566",]
 meters = [ "उपजाति",]
-pratimaalaa_letters = [ "ऊ", "ड",]
+pratimaalaa_letters = [ "अ", "ई", "ए", "औ", "ड", "आ", "ऌ", "इ", "ॡ", "ॠ", "ऋ", "ऐ", "उ", "ओ", "ऊ", "ऎ", "ऒ",]
 jsonClass = "Subhaashita"
 title = "अनेन रम्भोरु"
 

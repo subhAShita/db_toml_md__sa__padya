@@ -4,7 +4,7 @@ types = [ "अपह्नुतिः",]
 topics = [ "रतिः", "मत्कुणः",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
-pratimaalaa_letters = [ "च", "त",]
+pratimaalaa_letters = [ "र", "च", "त",]
 jsonClass = "Subhaashita"
 title = "रागी भिनत्ति"
 

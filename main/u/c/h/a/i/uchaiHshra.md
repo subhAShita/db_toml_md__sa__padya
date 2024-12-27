@@ -3,7 +3,7 @@ topics = [ "उच्चैःश्रवाः", "ऐरावतः", "रा
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "ऐ",]
+pratimaalaa_letters = [ "ऐ", "म", "प",]
 jsonClass = "Subhaashita"
 title = "उच्चैःश्रवसमश्वानाम्"
 

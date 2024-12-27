@@ -2,7 +2,7 @@
 topics = [ "विनयः", "कवित्वम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "त",]
+pratimaalaa_letters = [ "म", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "अथवा कृतवाग्द्वारे"
 

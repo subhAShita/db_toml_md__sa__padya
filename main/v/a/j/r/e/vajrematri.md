@@ -3,7 +3,7 @@ topics = [ "वर्षा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७२ वर्षावर्णनम्// ०१ वर्षासमयस्वभावाख्यानम्// 61",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "आ", "त",]
+pratimaalaa_letters = [ "व", "आ", "त",]
 jsonClass = "Subhaashita"
 title = "वज्रेण"
 

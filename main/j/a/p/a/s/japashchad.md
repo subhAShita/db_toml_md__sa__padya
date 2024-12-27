@@ -3,7 +3,7 @@ topics = [ "जपः", "मानसिकजपः", "उपांशुजप
 sources = [ "याज्ञवल्क्यः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "त",]
+pratimaalaa_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "जपश्च द्विविधः"
 

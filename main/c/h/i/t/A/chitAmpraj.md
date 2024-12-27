@@ -3,7 +3,7 @@ topics = [ "कुवैद्यः", "वैद्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १९ कुवैद्यनिन्दा// 3",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "न", "म",]
+pratimaalaa_letters = [ "व", "म", "न",]
 jsonClass = "Subhaashita"
 title = "चितां प्रज्वलिताम्"
 

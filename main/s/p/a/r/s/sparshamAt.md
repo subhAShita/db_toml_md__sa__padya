@@ -3,7 +3,7 @@ topics = [ "रसिकः", "अवकाशः", "व्यस्तता",]
 sources = [ "बलराम-शुक्लः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "प", "ख",]
 jsonClass = "Subhaashita"
 title = "स्पर्शमात्रफला ग्रन्थाः"
 

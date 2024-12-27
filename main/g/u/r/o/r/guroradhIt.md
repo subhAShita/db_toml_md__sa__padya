@@ -2,7 +2,7 @@
 topics = [ "वैद्यः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १८ वैद्यप्रशंसा// 1",]
 meters = [ "विपरीताख्यानिकी",]
-pratimaalaa_letters = [ "ग", "त",]
+pratimaalaa_letters = [ "य", "ग", "त",]
 jsonClass = "Subhaashita"
 title = "गुरोरधीताखिलवैद्यविद्यः"
 

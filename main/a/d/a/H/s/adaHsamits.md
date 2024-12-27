@@ -2,7 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0805", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १४ कीर्तिवर्णनम्// 15",]
 topics = [ "कीर्तिः",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
-pratimaalaa_letters = [ "द", "त",]
+pratimaalaa_letters = [ "द", "ल", "त",]
 jsonClass = "Subhaashita"
 title = "अदः समित्सम्मुखवीरयौवत"
 

@@ -1,7 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6993",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "ल", "त",]
 jsonClass = "Subhaashita"
 title = "उन्मुद्रीकृतविश्वविस्मयभरैस्तत्तन्महार्घैर्गुणैर्"
 

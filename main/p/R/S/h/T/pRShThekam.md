@@ -3,7 +3,7 @@ topics = [ "सुरतम्", "सुरतकेलिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ५३ सुरतकेलिकथनम्// 7",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
-pratimaalaa_letters = [ "ह", "त",]
+pratimaalaa_letters = [ "द", "ह", "त",]
 jsonClass = "Subhaashita"
 title = "पृष्ठे कञ्चुकमुक्त्यै"
 

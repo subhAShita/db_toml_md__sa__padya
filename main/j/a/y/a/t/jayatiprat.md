@@ -3,7 +3,7 @@ topics = [ "ब्रह्म", "शिवः", "सृष्टिः",]
 sources = [ "भट्टगोपालः - साहित्यचूडामणिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "च", "त",]
+pratimaalaa_letters = [ "व", "च", "त",]
 jsonClass = "Subhaashita"
 title = "जयति प्रतिभोल्लेखरूपिका"
 

@@ -2,7 +2,7 @@
 topics = [ "मृगया",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २३ मृगयावर्णनम्// 1",]
 meters = [ "मालिनी",]
-pratimaalaa_letters = [ "इ", "त",]
+pratimaalaa_letters = [ "इ", "स", "त",]
 jsonClass = "Subhaashita"
 title = "निहत निहत"
 

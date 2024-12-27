@@ -2,7 +2,7 @@
 topics = [ "हिंसा",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
-pratimaalaa_letters = [ "न", "र",]
+pratimaalaa_letters = [ "र", "न",]
 jsonClass = "Subhaashita"
 title = "नाघ्नतः कीर्तिरस्तीह"
 

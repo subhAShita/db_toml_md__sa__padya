@@ -2,7 +2,7 @@
 topics = [ "राजा", "भोजः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ३३ भोजः// 97",]
 meters = [ "स्रग्धरा",]
-pratimaalaa_letters = [ "श", "म",]
+pratimaalaa_letters = [ "य", "म", "श",]
 jsonClass = "Subhaashita"
 title = "स्वर्गाद्गोपाल कुत्र"
 

@@ -3,7 +3,7 @@ topics = [ "कविः", "प्रसिद्धः", "बिल्हणः
 sources = [ "बिल्हणः",]
 ratings = [ "vvasuki:5",]
 meters = [ "मन्दाक्रान्ता",]
-pratimaalaa_letters = [ "व", "त",]
+pratimaalaa_letters = [ "व", "न", "त",]
 jsonClass = "Subhaashita"
 title = "रामो नासौ"
 

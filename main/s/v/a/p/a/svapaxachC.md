@@ -2,7 +2,7 @@
 topics = [ "दुर्जनः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 252",]
 meters = [ "शिखरिणी",]
-pratimaalaa_letters = [ "श", "म",]
+pratimaalaa_letters = [ "भ", "म", "श",]
 jsonClass = "Subhaashita"
 title = "स्वपक्षच्छेदं वा"
 

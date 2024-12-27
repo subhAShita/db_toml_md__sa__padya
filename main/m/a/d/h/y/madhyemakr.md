@@ -3,7 +3,7 @@ topics = [ "नायिका", "स्वाधीनपतिका",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//८० अष्टनायिकाः// ०१ स्वाधीनपतिका// 9",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "ल", "म",]
+pratimaalaa_letters = [ "म", "ण", "ल",]
 jsonClass = "Subhaashita"
 title = "मध्ये न"
 

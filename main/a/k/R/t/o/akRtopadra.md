@@ -2,7 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0101", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 129",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म", "प",]
+pratimaalaa_letters = [ "म", "न", "प",]
 jsonClass = "Subhaashita"
 title = "अकृतोपद्रवः कश्चिन्"
 

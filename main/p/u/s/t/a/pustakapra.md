@@ -2,7 +2,7 @@
 topics = [ "पुस्तक-ज्ञानम्", "पुस्तकम्", "गुरुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "स", "य",]
+pratimaalaa_letters = [ "य", "स",]
 jsonClass = "Subhaashita"
 title = "पुस्तकप्रत्ययाधीतम्"
 

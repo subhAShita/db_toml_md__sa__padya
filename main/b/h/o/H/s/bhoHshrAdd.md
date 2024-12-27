@@ -2,7 +2,7 @@
 topics = [ "श्राद्धम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "न", "ड",]
+pratimaalaa_letters = [ "ड", "न",]
 jsonClass = "Subhaashita"
 title = "भोः श्राद्धपक्ष"
 

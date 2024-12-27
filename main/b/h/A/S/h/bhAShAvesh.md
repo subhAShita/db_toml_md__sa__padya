@@ -3,7 +3,7 @@ topics = [ "शिवः", "ताण्डवम्",]
 sources = [ "महेन्द्रवर्मा - मत्त-विलास-प्रहसनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "श", "न",]
+pratimaalaa_letters = [ "न", "श",]
 jsonClass = "Subhaashita"
 title = "भाषावेशवपुःक्रियागुणकृतान्"
 

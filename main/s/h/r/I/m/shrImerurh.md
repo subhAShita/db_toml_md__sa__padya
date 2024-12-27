@@ -3,7 +3,7 @@ topics = [ "पर्वतपूजा",]
 sources = [ "राजराजेश्वरतीर्थः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "श", "म",]
+pratimaalaa_letters = [ "म", "श", "ल",]
 jsonClass = "Subhaashita"
 title = "श्रीमेरुर्हिमवांश्च"
 

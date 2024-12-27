@@ -3,7 +3,7 @@ topics = [ "ग्रीष्मः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७१ ग्रीष्मवर्णनम्// ०१ ग्रीष्मसमयस्वभावाख्यानम्// 16",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वसन्ततिलका",]
-pratimaalaa_letters = [ "म", "स",]
+pratimaalaa_letters = [ "म", "स", "ल",]
 jsonClass = "Subhaashita"
 title = "तप्ता मही"
 

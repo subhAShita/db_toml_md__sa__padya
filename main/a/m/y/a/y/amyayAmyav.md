@@ -4,7 +4,7 @@ topics = [ "पानगोष्ठी", "जारता", "संशयः", 
 rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्वागता",]
-pratimaalaa_letters = [ "प", "त",]
+pratimaalaa_letters = [ "ह", "प", "त",]
 jsonClass = "Subhaashita"
 title = "अन्ययान्यवनितागतचित्तम्"
 

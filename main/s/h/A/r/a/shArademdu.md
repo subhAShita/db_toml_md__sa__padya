@@ -3,7 +3,7 @@ topics = [ "हयग्रीवः",]
 ratings = [ "vvasuki:5",]
 sources = [ "जागु-वकुल-भूषणः - अद्भुतदूतम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-pratimaalaa_letters = [ "म",]
+pratimaalaa_letters = [ "म", "र",]
 jsonClass = "Subhaashita"
 title = "शारदेन्दुमयूखाभम्"
 

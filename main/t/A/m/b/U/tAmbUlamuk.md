@@ -2,7 +2,7 @@
 topics = [ "ताम्बूलम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// २४ ताम्बूलम्// 104",]
 meters = [ "शार्दूलविक्रीडितम्",]
-pratimaalaa_letters = [ "म", "व",]
+pratimaalaa_letters = [ "व", "म", "द",]
 jsonClass = "Subhaashita"
 title = "ताम्बूलं मुखरोगनाशि"
 
