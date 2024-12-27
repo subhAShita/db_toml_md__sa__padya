@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_2157",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2157",]
 meters = [ "आर्या",]
 jsonClass = "Subhaashita"
 title = "अप्रतिकृत्यात्मानम्"

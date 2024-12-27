@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_2899",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2899",]
 topics = [ "बाललीला", "सुब्रह्मण्यः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]

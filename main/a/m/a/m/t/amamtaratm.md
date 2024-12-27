@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_1217",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1217",]
 topics = [ "दोषः", "गुणाः", "मानम्",]
 sources = [ "कालिदासः",]
 ratings = [ "vvasuki:5",]

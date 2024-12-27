@@ -1,7 +1,7 @@
 +++
 topics = [ "दम्भः",]
 ratings = [ "vvasuki:5",]
-secondary_sources = [ "MSS_6502",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6502",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "उत्तमो नातिवक्ता"

@@ -1,7 +1,7 @@
 +++
 topics = [ "धर्मः",]
 ratings = [ "vvasuki:5",]
-secondary_sources = [ "MSS_7314",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 7314",]
 meters = [ "UNKNOWN",]
 jsonClass = "Subhaashita"
 title = "ऊर्ध्वबाहुर् विरौम्येष"

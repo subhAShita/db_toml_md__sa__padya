@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_9684",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9684",]
 topics = [ "सन्न्यासः", "सात्त्विक-त्यागः", "काम्य-कर्म",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]

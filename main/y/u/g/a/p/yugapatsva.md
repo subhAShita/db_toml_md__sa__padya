@@ -1,6 +1,6 @@
 +++
 topics = [ "गणेशः", "शिवौ",]
-secondary_sources = [ "सुभाषितरत्नभाण्डागारः// 01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 14",]
+secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 02 गणेशः// 14",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
 jsonClass = "Subhaashita"

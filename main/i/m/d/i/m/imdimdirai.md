@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_5973",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5973",]
 topics = [ "वसन्तः", "चम्पकपुष्पम्", "पुष्पम्", "शृङ्गारः",]
 sources = [ "मङ्खः",]
 ratings = [ "vvasuki:5",]

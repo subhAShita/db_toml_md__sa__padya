@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_7039",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 7039",]
 topics = [ "खलः",]
 sources = [ "सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका",]
 ratings = [ "vvasuki:5",]

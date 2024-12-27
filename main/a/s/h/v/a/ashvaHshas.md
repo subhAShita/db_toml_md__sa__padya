@@ -1,7 +1,7 @@
 +++
 topics = [ "असारग्राहिता", "शास्त्रम्",]
 ratings = [ "vvasuki:5",]
-secondary_sources = [ "MSS_3540",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3540",]
 sources = [ "पञ्चतन्त्रम् मित्रभेदः",]
 meters = [ "आर्या",]
 jsonClass = "Subhaashita"

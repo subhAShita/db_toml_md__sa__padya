@@ -1,7 +1,7 @@
 +++
 topics = [ "कालः", "आयुः",]
 ratings = [ "vvasuki:5",]
-secondary_sources = [ "MSS_5160",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5160",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "आयुषः क्षण"

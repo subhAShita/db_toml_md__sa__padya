@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_3643",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3643",]
 topics = [ "अन्तःसाक्षी",]
 sources = [ "कालिदासः - अभिज्ञानशाकुन्तलम्",]
 ratings = [ "vvasuki:5",]

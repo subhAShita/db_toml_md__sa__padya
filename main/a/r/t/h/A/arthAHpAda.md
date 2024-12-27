@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_2954",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2954",]
 topics = [ "धर्म-कर्तव्यता",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]

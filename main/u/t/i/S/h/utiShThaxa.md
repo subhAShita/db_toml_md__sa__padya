@@ -1,6 +1,6 @@
 +++
 topics = [ "दरिद्रः", "दारिद्र्यम्",]
-secondary_sources = [ "MSS_6528",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6528",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
 jsonClass = "Subhaashita"

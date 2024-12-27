@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_4266",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4266",]
 topics = [ "सुजीवनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]

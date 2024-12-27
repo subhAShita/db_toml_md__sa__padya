@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_2897",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2897",]
 topics = [ "भावप्रधानता",]
 sources = [ "नीलकण्ठः - शिवोत्कर्षणमञ्जरी",]
 ratings = [ "vvasuki:5",]

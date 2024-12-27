@@ -1,7 +1,7 @@
 +++
 topics = [ "सूर्यः", "शङ्करः", "अग्निः", "कृष्णः",]
 ratings = [ "vvasuki:5",]
-secondary_sources = [ "MSS_5230", "MSS_5229",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5230", "महा-सुभाषित-सङ्ग्रहः - 5229",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 jsonClass = "Subhaashita"
 title = "आरोग्यं भास्करादिच्छेद्"

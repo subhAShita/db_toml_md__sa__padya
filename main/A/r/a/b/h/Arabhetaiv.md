@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_5185",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5185",]
 topics = [ "पुरुषकारः", "अर्थः", "राज-नीतिः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]

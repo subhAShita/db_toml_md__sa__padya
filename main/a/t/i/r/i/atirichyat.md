@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_0596",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0596",]
 topics = [ "पित्रतिशायी पुत्रः", "सुपुत्रः",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]

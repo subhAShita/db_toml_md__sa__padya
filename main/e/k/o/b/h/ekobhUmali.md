@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_7741",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 7741",]
 topics = [ "प्रौढोक्तिः",]
 sources = [ "विज्जिका",]
 ratings = [ "vvasuki:5",]

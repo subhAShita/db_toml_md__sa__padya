@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_2192",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 2192",]
 topics = [ "प्रियवादिता",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]

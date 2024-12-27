@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_1579",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1579",]
 topics = [ "अपत्यम्", "प्रजाः",]
 sources = [ "उत्तररामचरितम्",]
 ratings = [ "vvasuki:5",]

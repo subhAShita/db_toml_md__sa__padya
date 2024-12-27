@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_8367",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8367",]
 meters = [ "पृथ्वी",]
 jsonClass = "Subhaashita"
 title = "कठोरनखराहतद्विरदकुम्भपीठस्थली"

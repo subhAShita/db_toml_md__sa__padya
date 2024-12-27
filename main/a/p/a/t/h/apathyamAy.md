@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_1905",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1905",]
 topics = [ "कुमन्त्रणम्", "अनुपजीवी",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]

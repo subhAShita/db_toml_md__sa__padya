@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_9942A",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9942A",]
 sentiments = [ "शृङ्गारः",]
 topics = [ "स्त्रीः", "चोली",]
 meters = [ "वसन्ततिलका",]

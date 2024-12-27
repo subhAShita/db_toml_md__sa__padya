@@ -1,5 +1,5 @@
 +++
-secondary_sources = [ "MSS_1898",]
+secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1898",]
 topics = [ "पत्नी", "दाम्पत्यम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
