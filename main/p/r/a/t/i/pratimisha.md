@@ -1,6 +1,6 @@
 +++
 topics = [ "नक्षत्राणि",]
-sources = [ "वीणा",]
+sources = [ "वीणा - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "पुष्पिताग्रा",]
 jsonClass = "Subhaashita"

@@ -1,5 +1,5 @@
 +++
-sources = [ "हॆब्बललु-राघवेन्द्रः - मुक्तकम्",]
+sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 topics = [ "शिवः", "वैराग्यम्",]
 jsonClass = "Subhaashita"
 title = "शिरोऽन्यस्या हृदन्यस्या"
@@ -16,7 +16,7 @@ title = "शिरोऽन्यस्या हृदन्यस्या"
 
 
 
-<details><summary>हॆब्बललु-राघवेन्द्रः</summary>
+<details><summary>हॆब्बळलु-राघवेन्द्रः</summary>
 
 His head belongs to one, heart to another. His sons? A roamer & a glutton. With poison in his throat & fire in his eye, what can I ask this tapasvi (poor|ascetic)?
 </details>

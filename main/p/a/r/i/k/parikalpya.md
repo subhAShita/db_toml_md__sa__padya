@@ -1,6 +1,6 @@
 +++
 topics = [ "स्त्रीसौन्दर्यम्", "रतिः",]
-sources = [ "सुहासः",]
+sources = [ "सुहासः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
 jsonClass = "Subhaashita"

@@ -1,5 +1,5 @@
 +++
-sources = [ "हेब्बळलु-राघवेन्द्रः - मुक्तकम्",]
+sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 topics = [ "रामः",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"

@@ -1,6 +1,6 @@
 +++
 topics = [ "स्त्रीः",]
-sources = [ "हॆब्बललु-राघवेन्द्रः - मुक्तकम्",]
+sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "यत्प्रीतिधृतिसौन्दर्य"
