@@ -3,6 +3,7 @@ topics = [ "रसिकता", "कुवैराग्यम्",]
 sources = [ "नारायणज-शङ्करः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "दन्तहीनस्य मिष्टान्ने"
 

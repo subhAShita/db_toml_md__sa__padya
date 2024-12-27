@@ -3,6 +3,7 @@ topics = [ "धीरः", "स्थैर्यम्", "धृतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ४० धीरप्रशंसा// 2",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "चलन्ति गिरयः"
 

@@ -3,6 +3,7 @@ topics = [ "ज्यौतिषम्",]
 sources = [ "वेणीसंहारम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "फ", "त",]
 jsonClass = "Subhaashita"
 title = "ग्रहाणां चरितम्"
 

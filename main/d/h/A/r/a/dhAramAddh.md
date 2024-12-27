@@ -3,6 +3,7 @@ topics = [ "धर्मः",]
 sources = [ "महाभारतम् (कर्णपर्व ६९.५८)",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य",]
 jsonClass = "Subhaashita"
 title = "धारणाद् धर्ममित्याहुः"
 

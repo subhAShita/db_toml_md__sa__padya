@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// १४ बाणः// 26",]
 topics = [ "बाणः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "श", "द",]
 jsonClass = "Subhaashita"
 title = "शब्दार्थयोः समो"
 

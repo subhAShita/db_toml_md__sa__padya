@@ -2,6 +2,8 @@
 topics = [ "हयग्रीवः",]
 ratings = [ "vvasuki:5",]
 sources = [ "जागु-वकुल-भूषणः - अद्भुतदूतम्",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "शारदेन्दुमयूखाभम्"
 

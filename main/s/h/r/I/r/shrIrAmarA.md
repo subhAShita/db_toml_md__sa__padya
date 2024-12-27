@@ -1,6 +1,8 @@
 +++
 topics = [ "रामः", "रामनाम",]
 ratings = [ "vvasuki:4",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "श्रीराम राम"
 

@@ -3,6 +3,7 @@ topics = [ "बाला",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ०४ बालावर्णनम्// 29",]
 rasas = [ "शृङ्गारः",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "श", "न",]
 jsonClass = "Subhaashita"
 title = "क्वचित्सभ्रूभङ्गैः"
 

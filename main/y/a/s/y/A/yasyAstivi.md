@@ -3,6 +3,7 @@ topics = [ "धनम्", "वित्तम्", "दारिद्र्य
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २७ धनप्रशंसा// 9",]
 ratings = [ "vvasuki:5",]
 meters = [ "जाया",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "यस्यास्ति वित्तम्"
 

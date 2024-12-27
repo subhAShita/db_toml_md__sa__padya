@@ -2,6 +2,8 @@
 topics = [ "शास्त्रम्", "शास्स्त्राभ्यासः", "विवेकः",]
 sources = [ "चरकसंहिता - सिद्धिस्थानम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "दुर्गृहीतं क्षिणोत्येव"
 

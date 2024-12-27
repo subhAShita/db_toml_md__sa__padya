@@ -2,6 +2,8 @@
 topics = [ "पाशुपतः",]
 sources = [ "महेन्द्रवर्मा - मत्त-विलास-प्रहसनम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "य", "ण",]
 jsonClass = "Subhaashita"
 title = "पेया सुरा"
 

@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6683",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "उत्सृज्याम्बुधिजामुखाम्बुजसुखालोकव्रतम्"
 

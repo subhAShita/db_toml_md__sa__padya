@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// १० द्रोणः// 21",]
 topics = [ "द्रोणः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "व",]
 jsonClass = "Subhaashita"
 title = "सरस्वतीपवित्राणाम्"
 

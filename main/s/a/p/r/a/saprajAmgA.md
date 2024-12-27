@@ -2,6 +2,8 @@
 sources = [ "कुशाग्रः - मुक्तकम्",]
 topics = [ "दुर्गा",]
 ratings = [ "vvasuki:4",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "क",]
 jsonClass = "Subhaashita"
 title = "सप्रजां गाम्"
 

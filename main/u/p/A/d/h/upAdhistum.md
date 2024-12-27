@@ -2,6 +2,7 @@
 topics = [ "न्यायशास्त्रम्", "शुष्क-पाण्डित्यम्", "रसिकता", "तार्किकः", "कविः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "उ", "ण",]
 jsonClass = "Subhaashita"
 title = "उपाधिस्तु महाव्याधि"
 

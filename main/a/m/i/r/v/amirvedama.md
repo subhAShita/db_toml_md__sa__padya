@@ -3,8 +3,9 @@ topics = [ "पुरुषकारः", "अनालस्यम्", "अन
 ratings = [ "vvasuki:5",]
 sources = [ "राल्लपल्ल्य्-अनन्तकृष्णशर्मा - मुक्तकम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
-title = "अनिर्वेदम् असिद्धेषु"
+title = "अनिर्वेदमसिद्धेषु"
 
 +++
 

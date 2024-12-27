@@ -2,9 +2,10 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6360", "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 02 प्रहेलिकाः// 4",]
 types = [ "प्रहेलिका",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-jsonClass = "Subhaashita"
 topics = [ "शिव-पूजा",]
 ratings = [ "vvasuki:5",]
+pratimaala_letters = [ "क",]
+jsonClass = "Subhaashita"
 title = "उच्छिष्टं शिवनिर्माल्यम्"
 
 +++

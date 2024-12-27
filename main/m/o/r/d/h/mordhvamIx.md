@@ -3,6 +3,7 @@ topics = [ "तमः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ३० तमोवर्णनम्// 11",]
 rasas = [ "शृङ्गारः",]
 meters = [ "रथोद्धता",]
+pratimaala_letters = [ "श", "ल",]
 jsonClass = "Subhaashita"
 title = "नोर्ध्वमीक्षणगतिर्न"
 

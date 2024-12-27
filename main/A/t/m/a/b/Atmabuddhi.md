@@ -2,6 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4594", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 94",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "र", "प",]
 jsonClass = "Subhaashita"
 title = "आत्मबुद्धिः सुखम्"
 

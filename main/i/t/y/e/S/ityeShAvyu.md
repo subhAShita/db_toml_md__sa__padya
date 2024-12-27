@@ -2,6 +2,8 @@
 topics = [ "काव्य-प्रयोजनम्",]
 sources = [ "अश्वघोषः - सौन्दरनन्दम्",]
 ratings = [ "vvasuki:3",]
+meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "इत्येषा व्युपशान्तये"
 

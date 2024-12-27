@@ -3,6 +3,7 @@ topics = [ "कर्म-वैविध्यम्",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ह", "न",]
 jsonClass = "Subhaashita"
 title = "क्वचित्पत्रं क्वचिच्छाखा"
 

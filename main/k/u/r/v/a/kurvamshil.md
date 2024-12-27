@@ -2,6 +2,8 @@
 topics = [ "कामदेवः",]
 sources = [ "सुधीरः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "कुर्वन् शिलीमुखान्"
 

@@ -4,6 +4,7 @@ topics = [ "भावप्रधानता",]
 sources = [ "नीलकण्ठः - शिवोत्कर्षणमञ्जरी",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "इ", "त",]
 jsonClass = "Subhaashita"
 title = "अर्चामीति धिया"
 

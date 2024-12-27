@@ -3,6 +3,7 @@ topics = [ "हिंसा", "अहि\u200cंसा", "गृहस्थः
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "पञ्च सूना"
 

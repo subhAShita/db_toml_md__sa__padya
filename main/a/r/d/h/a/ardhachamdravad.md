@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3049", "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 02 प्रहेलिकाः// 21",]
 types = [ "प्रहेलिका",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "अर्धचन्द्रवदाकारम्"
 

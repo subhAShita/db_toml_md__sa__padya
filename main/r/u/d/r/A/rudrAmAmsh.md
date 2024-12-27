@@ -3,6 +3,7 @@ topics = [ "शिवः", "अग्निः", "मेरुः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "रुद्राणां शङ्करश्चास्मि"
 

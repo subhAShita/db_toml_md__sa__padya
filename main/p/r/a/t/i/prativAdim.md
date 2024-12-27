@@ -3,6 +3,7 @@ topics = [ "जीवन-यात्रा", "कुपत्\u200dनी",]
 sources = [ "सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "च", "क",]
 jsonClass = "Subhaashita"
 title = "प्रतिवादिनी च"
 

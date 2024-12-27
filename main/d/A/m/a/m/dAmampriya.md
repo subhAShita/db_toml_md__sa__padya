@@ -3,6 +3,7 @@ topics = [ "नीतिः", "दानम्", "गुणसंयोगः", 
 ratings = [ "vvasuki:5",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 770",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "दानं प्रियवाक्सहितम्"
 

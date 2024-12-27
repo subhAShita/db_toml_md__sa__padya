@@ -3,6 +3,7 @@ topics = [ "दुर्जनः",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "द", "क",]
 jsonClass = "Subhaashita"
 title = "दूये दुर्मेधताम्"
 

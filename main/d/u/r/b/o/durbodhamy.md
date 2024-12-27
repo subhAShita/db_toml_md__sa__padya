@@ -3,6 +3,7 @@ topics = [ "टीका", "टीकाकृत्", "व्याख्या
 sources = [ "भोजः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "दुर्बोधं यदतीव"
 

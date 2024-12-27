@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "नृसिंहः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ह",]
 jsonClass = "Subhaashita"
 title = "दैत्येन्द्रायतनस्थूणा"
 

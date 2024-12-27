@@ -2,6 +2,7 @@
 topics = [ "इतिहासः", "पुराणानि", "न्यायः", "व्याकरणम्", "वेदार्थः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "इतिहासपुराणज्ञः"
 

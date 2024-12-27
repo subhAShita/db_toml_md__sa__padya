@@ -3,6 +3,7 @@ topics = [ "गुरुः", "मूर्खः", "गतानुगतिक
 sources = [ "कुलार्णवतन्त्रम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "सुमुखः सुलभः"
 

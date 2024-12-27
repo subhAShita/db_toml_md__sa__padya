@@ -3,6 +3,7 @@ topics = [ "वैराग्यम्", "कामः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०२ विषयोपहासः// 132",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "न", "क",]
 jsonClass = "Subhaashita"
 title = "कृशः काणः"
 

@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3006", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 12",]
 topics = [ "सन्तोषः",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "ष", "न",]
 jsonClass = "Subhaashita"
 title = "अर्थी करोति"
 

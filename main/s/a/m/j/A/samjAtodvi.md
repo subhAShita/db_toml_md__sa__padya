@@ -3,6 +3,7 @@ topics = [ "कलियुगः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "स", "क",]
 jsonClass = "Subhaashita"
 title = "सञ्जातो द्विजपातः"
 

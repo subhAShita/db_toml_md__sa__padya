@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "विद्वत्ता", "काल-यापनम्", "निद्रा",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "व",]
 jsonClass = "Subhaashita"
 title = "काव्यशास्त्रविनोदेन कालो"
 

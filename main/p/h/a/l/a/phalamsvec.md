@@ -2,6 +2,7 @@
 topics = [ "कृपणः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३४ कृपणनिन्दा// 54",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "म", "ण",]
 jsonClass = "Subhaashita"
 title = "फलं स्वेच्छालभ्यम्"
 

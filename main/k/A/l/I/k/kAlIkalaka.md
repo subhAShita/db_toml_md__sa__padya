@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9859A",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "काली कलकलरूपा"
 

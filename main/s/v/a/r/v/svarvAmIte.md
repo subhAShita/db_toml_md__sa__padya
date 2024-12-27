@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "संस्कृतम्", "मृत-भाषा",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "र", "व",]
 jsonClass = "Subhaashita"
 title = "स्वर्वाणी ते"
 

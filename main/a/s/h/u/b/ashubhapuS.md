@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3505", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १७ राजसेवकः// 4",]
 topics = [ "राजसेवकः",]
 meters = [ "मालिनी",]
+pratimaala_letters = [ "ब", "म",]
 jsonClass = "Subhaashita"
 title = "अशुभपुषि"
 

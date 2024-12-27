@@ -2,6 +2,8 @@
 topics = [ "अधृतिः",]
 sources = [ "वाल्मीकिः - रामायणम् - अयोध्याकाण्डः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "नैवायोध्यां गमिष्यामो"
 

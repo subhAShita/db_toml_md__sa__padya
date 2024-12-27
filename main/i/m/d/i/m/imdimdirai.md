@@ -4,6 +4,7 @@ topics = [ "वसन्तः", "चम्पकपुष्पम्", "पु
 sources = [ "मङ्खः",]
 ratings = [ "vvasuki:5",]
 meters = [ "उपजाति",]
+pratimaala_letters = [ "ह", "य",]
 jsonClass = "Subhaashita"
 title = "इन्दिन्दिरैर्निर्भरगर्भमीषद्"
 

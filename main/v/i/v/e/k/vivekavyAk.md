@@ -2,6 +2,7 @@
 topics = [ "तृष्णा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 47",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "ज", "त",]
 jsonClass = "Subhaashita"
 title = "विवेकव्याकोशे विकसति"
 

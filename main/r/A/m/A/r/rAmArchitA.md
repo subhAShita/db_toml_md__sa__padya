@@ -2,6 +2,7 @@
 topics = [ "पार्वती",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 05 पार्वती// 53",]
 meters = [ "अश्वधाटी",]
+pratimaala_letters = [ "द", "भ",]
 jsonClass = "Subhaashita"
 title = "रामार्चिताङ्घ्रिरभिरामाकृतिः"
 

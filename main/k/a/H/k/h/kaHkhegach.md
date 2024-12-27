@@ -1,10 +1,11 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8291",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-jsonClass = "Subhaashita"
 topics = [ "लङ्का",]
 ratings = [ "vvasuki:3",]
 sources = [ "जल्हणः",]
+pratimaala_letters = [ "क", "त",]
+jsonClass = "Subhaashita"
 title = "कः खे"
 
 +++

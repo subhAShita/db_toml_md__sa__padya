@@ -3,6 +3,7 @@ topics = [ "वैराग्यम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 102",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "ह",]
 jsonClass = "Subhaashita"
 title = "मातर्लक्ष्मि भजस्व"
 

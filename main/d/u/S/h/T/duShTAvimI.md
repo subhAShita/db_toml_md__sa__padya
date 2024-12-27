@@ -2,6 +2,7 @@
 topics = [ "शस्त्रम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// २५ शस्त्रधारणम्// 105",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "दुष्टाविनीतशत्रूणाम्"
 

@@ -3,6 +3,7 @@ topics = [ "धनम्", "अनुकम्पा", "धनिकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २८ धननिन्दा// 2",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "लक्ष्मीवन्तो न"
 

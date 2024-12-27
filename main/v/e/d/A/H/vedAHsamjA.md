@@ -2,6 +2,8 @@
 sources = [ "डि-ताताचार्यः - मुक्तकम्",]
 topics = [ "आधुनिकशिक्षा", "विद्यात्यागः",]
 ratings = [ "vvasuki:5",]
+meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "वेदाः सञ्जातखेदाः"
 

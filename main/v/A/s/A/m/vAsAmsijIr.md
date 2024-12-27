@@ -3,6 +3,7 @@ topics = [ "पुनर्जन्म",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "उपजाति",]
+pratimaala_letters = [ "ह", "त",]
 jsonClass = "Subhaashita"
 title = "वासांसि जीर्णानि"
 

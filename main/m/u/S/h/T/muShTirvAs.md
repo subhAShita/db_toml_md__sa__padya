@@ -3,6 +3,7 @@ topics = [ "सूर्य-स्तुतिः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "आ", "व",]
 jsonClass = "Subhaashita"
 title = "मुष्टिर् वासरमल्लस्य"
 

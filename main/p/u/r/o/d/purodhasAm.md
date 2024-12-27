@@ -3,6 +3,7 @@ topics = [ "बृहस्पतिः", "पुरोहितः", "स्क
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "र", "स",]
 jsonClass = "Subhaashita"
 title = "पुरोधसां च"
 

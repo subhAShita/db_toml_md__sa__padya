@@ -4,6 +4,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 rasas = [ "शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "अये को"
 

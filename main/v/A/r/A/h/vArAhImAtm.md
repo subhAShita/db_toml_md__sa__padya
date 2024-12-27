@@ -2,6 +2,7 @@
 topics = [ "चन्द्रगुप्तः", "हिन्दुत्वम्", "म्लेच्छनिरसनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "वाराहीम् आत्मयोनेस्"
 

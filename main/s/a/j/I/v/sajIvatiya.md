@@ -2,6 +2,8 @@
 topics = [ "लोकसङ्ग्रहः",]
 ratings = [ "vvasuki:4",]
 sources = [ "दक्षस्मृतिः",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "ज",]
 jsonClass = "Subhaashita"
 title = "स जीवति"
 

@@ -3,6 +3,7 @@ topics = [ "परप्रीताव् उदासीनता", "रसि
 sources = [ "भवभूतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "उ", "व",]
 jsonClass = "Subhaashita"
 title = "ये नाम"
 

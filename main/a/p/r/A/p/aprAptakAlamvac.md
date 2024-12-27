@@ -4,6 +4,7 @@ sources = [ "पञ्चतन्त्रम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 139",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ल", "म",]
 jsonClass = "Subhaashita"
 title = "अप्राप्तकालं वचनम्"
 

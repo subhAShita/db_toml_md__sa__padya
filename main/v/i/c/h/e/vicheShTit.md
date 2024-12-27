@@ -2,6 +2,8 @@
 sources = [ "वासुकिज-विश्वासः - मुक्तकम्",]
 topics = [ "कुकविः",]
 ratings = [ "vvasuki:5",]
+meters = [ "उपेन्द्रवज्रा",]
+pratimaala_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "विचेष्टितानाम्"
 

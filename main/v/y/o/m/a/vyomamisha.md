@@ -2,6 +2,7 @@
 topics = [ "कृतघ्नः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३७ कृतघ्ननिन्दा// 3",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "व्योमनि शम्बाकुरुते"
 

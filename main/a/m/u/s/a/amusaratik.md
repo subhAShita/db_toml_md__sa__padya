@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1520", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३५ याचकनिन्दा// 22",]
 topics = [ "याचकः",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "च", "ग",]
 jsonClass = "Subhaashita"
 title = "अनुसरति करिकपोलम्"
 

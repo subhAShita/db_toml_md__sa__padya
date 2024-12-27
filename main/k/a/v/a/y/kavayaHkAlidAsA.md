@@ -3,6 +3,7 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 topics = [ "कालिदासः", "माहत्य-विवेकः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "कवयः कालिदासाद्याः"
 

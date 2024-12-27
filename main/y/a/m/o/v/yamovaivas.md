@@ -3,6 +3,7 @@ topics = [ "आर्जवम्", "सन्तोषः", "तीर्थय
 sources = [ "वेदान्तदेशिकः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "यमो वैवस्वतो"
 

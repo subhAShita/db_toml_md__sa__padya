@@ -1,6 +1,8 @@
 +++
 topics = [ "कविः", "इतिहासः",]
 ratings = [ "vvasuki:4",]
+meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "कुर्वन्तु कीर्तनशतानि"
 

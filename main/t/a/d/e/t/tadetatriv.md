@@ -3,6 +3,7 @@ topics = [ "पुण्यम्", "कर्म", "शाठ्यम्",]
 sources = [ "विष्णुरहस्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "तदेतत्त्रिविधं कर्म"
 

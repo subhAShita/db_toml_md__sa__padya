@@ -3,6 +3,7 @@ topics = [ "बहुशास्त्रविद्", "पण्डितः"
 sources = [ "लीलावती",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "अष्टौ व्याकरणानि"
 

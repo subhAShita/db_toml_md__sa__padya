@@ -1,6 +1,8 @@
 +++
 topics = [ "वैधर्म्यम्", "समानताभासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शिखरिणी",]
+pratimaala_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "गतिर्व्योम्ना किम्"
 

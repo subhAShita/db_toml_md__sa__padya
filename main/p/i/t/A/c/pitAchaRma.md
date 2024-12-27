@@ -1,6 +1,8 @@
 +++
 topics = [ "ऋणम्", "भार्या", "पुत्रः", "पिता", "माता", "रूपम्", "पण्डितः", "मूर्खः",]
 ratings = [ "vvasuki:3",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "भ", "त",]
 jsonClass = "Subhaashita"
 title = "पिता च"
 

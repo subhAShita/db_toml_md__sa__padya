@@ -3,6 +3,7 @@ topics = [ "परशुरामः",]
 sources = [ "केशवः\u200c षडङ्गी",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "य",]
 jsonClass = "Subhaashita"
 title = "यः"
 

@@ -3,6 +3,7 @@ topics = [ "कविः",]
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "वयं नो"
 

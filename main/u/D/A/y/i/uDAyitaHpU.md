@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6396",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ल", "प",]
 jsonClass = "Subhaashita"
 title = "उड्डायितः पूर्वदिशा"
 

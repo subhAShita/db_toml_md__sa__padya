@@ -2,6 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 266",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "न", "इ",]
 jsonClass = "Subhaashita"
 title = "गान्धर्वं गन्धसंयुक्तम्"
 

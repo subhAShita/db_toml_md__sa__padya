@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "असत्यम्", "अहङ्कारः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "सत्यं सुष्ठु"
 

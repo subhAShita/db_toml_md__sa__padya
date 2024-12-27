@@ -3,6 +3,7 @@ topics = [ "सामवेदः", "मनः", "इन्द्रियाण
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "इ",]
 jsonClass = "Subhaashita"
 title = "वेदानां सामवेदोऽस्मि"
 

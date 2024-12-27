@@ -4,6 +4,7 @@ types = [ "कूटम्",]
 topics = [ "चाटु",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "ब",]
 jsonClass = "Subhaashita"
 title = "अहं च"
 

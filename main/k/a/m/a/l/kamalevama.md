@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8676", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०३ सामान्यराजप्रशंसा// 83",]
 topics = [ "राजा",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ध", "य",]
 jsonClass = "Subhaashita"
 title = "कमलेव मतिर्मतिरिव"
 

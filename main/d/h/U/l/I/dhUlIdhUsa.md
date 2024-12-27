@@ -2,6 +2,7 @@
 topics = [ "बालाः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// २३ बालाः// 35",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "ल", "क",]
 jsonClass = "Subhaashita"
 title = "धूलीधूसरतनवो"
 

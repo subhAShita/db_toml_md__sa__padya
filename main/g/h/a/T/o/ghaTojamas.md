@@ -2,6 +2,7 @@
 topics = [ "सज्जनः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 254",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "ण", "त",]
 jsonClass = "Subhaashita"
 title = "घटो जन्मस्थानम्"
 

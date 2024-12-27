@@ -2,6 +2,7 @@
 topics = [ "राजा", "विग्रहराजः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५२ विग्रहराजः// 182",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "व्रते सम्प्रति"
 

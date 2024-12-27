@@ -3,6 +3,7 @@ topics = [ "कुकविः", "दोषग्राहिता",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 17",]
 ratings = [ "vvasuki:5",]
 meters = [ "उपजाति",]
+pratimaala_letters = [ "अ", "व",]
 jsonClass = "Subhaashita"
 title = "कर्णामृतं सूक्तिरसम्"
 

@@ -2,6 +2,8 @@
 sources = [ "प्रतिवादिभयङ्कराण्णः - सप्ततिरत्नमालिका",]
 topics = [ "वेङ्कटनाथः", "दुष्टः",]
 ratings = [ "vvasuki:4",]
+meters = [ "चारुचामरम्",]
+pratimaala_letters = [ "ह", "म",]
 jsonClass = "Subhaashita"
 title = "सर्वतन्त्रधूर्वहस्य"
 

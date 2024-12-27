@@ -1,6 +1,8 @@
 +++
 topics = [ "शिवः", "ब्रह्मा",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "नालीकासनमीश्वरश्शिखरिणाम्"
 

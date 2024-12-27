@@ -2,6 +2,7 @@
 topics = [ "स्वभावः",]
 ratings = [ "vvasuki:5",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
+pratimaala_letters = [ "स", "य",]
 jsonClass = "Subhaashita"
 title = "न धर्मशास्त्रम्"
 

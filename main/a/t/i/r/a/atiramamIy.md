@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0594", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०७ कुकविनिन्दा// 14",]
 topics = [ "कुकविः",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "र", "अ",]
 jsonClass = "Subhaashita"
 title = "अतिरमणीये काव्ये"
 

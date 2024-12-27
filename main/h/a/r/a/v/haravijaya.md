@@ -2,6 +2,7 @@
 topics = [ "कव्याध्ययनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "पुष्पिताग्रा",]
+pratimaala_letters = [ "ण", "अ",]
 jsonClass = "Subhaashita"
 title = "हरविजयमहाकवेः प्रतिज्ञाम्"
 

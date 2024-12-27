@@ -2,6 +2,7 @@
 topics = [ "खड्गप्रशंसा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०८ खड्गप्रशंसा// 16",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "न", "द",]
 jsonClass = "Subhaashita"
 title = "सर्पीवैषा कृपाणी"
 

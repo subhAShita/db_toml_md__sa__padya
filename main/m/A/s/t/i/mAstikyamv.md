@@ -3,6 +3,7 @@ topics = [ "नास्तिक्य", "वेदनिन्दा", "मा
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "नास्तिक्यं वेदनिन्दाम्"
 

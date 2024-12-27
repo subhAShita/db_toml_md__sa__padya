@@ -2,6 +2,7 @@
 topics = [ "राजा", "मालवाखण्डलः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ३९ मालवाखण्डलः// 110",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "भ", "य",]
 jsonClass = "Subhaashita"
 title = "पर्यङ्को राजलक्ष्म्या"
 

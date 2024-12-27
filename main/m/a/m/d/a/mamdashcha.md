@@ -2,6 +2,7 @@
 topics = [ "राजा", "पृथ्वीराजः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २५ पृथ्वीराजः// 66",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "मन्दश्चन्द्रकिरीटपूजनसे"
 

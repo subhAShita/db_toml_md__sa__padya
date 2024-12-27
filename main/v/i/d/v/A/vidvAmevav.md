@@ -3,6 +3,7 @@ topics = [ "पण्डितः", "विद्वत्ता", "परीक
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०८ पण्डितप्रशंसा// 5",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "म",]
 jsonClass = "Subhaashita"
 title = "विद्वानेव विजानाति"
 

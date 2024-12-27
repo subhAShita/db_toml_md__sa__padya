@@ -2,6 +2,7 @@
 topics = [ "मृगया",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २३ मृगयावर्णनम्// 3",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "इ", "त",]
 jsonClass = "Subhaashita"
 title = "मार्गं देहि"
 

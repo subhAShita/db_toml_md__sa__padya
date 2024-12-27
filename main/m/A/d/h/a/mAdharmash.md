@@ -3,6 +3,7 @@ topics = [ "अधर्मः", "कर्म-फलम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "श", "त",]
 jsonClass = "Subhaashita"
 title = "नाधर्मश्चरितो लोके"
 

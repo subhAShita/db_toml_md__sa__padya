@@ -3,6 +3,7 @@ topics = [ "नीतिः", "पुत्रवर्धनम्", "शिक
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 308",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "लालयेत्पञ्च वर्षाणि"
 

@@ -2,6 +2,7 @@
 topics = [ "राजा", "नृसिंहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// २१ नृसिंहः// 54",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ह", "य",]
 jsonClass = "Subhaashita"
 title = "कीर्तिः श्रीनरसिंह"
 

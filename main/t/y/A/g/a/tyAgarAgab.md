@@ -2,6 +2,8 @@
 sources = [ "राघवेन्द्रः - मुक्तकम्",]
 topics = [ "कृष्णः",]
 ratings = [ "vvasuki:4",]
+meters = [ "चारुचामरम्",]
+pratimaala_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "त्यागरागभोगयोगमोघदूरमूर्तये"
 

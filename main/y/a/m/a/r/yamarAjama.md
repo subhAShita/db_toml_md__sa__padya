@@ -3,6 +3,8 @@ sources = [ "राजारामज-शङ्करः - मुक्तकम
 topics = [ "रामः", "जपः", "रामनाम",]
 ornaments = [ "वर्ण-व्यत्यासः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "यमराज न"
 

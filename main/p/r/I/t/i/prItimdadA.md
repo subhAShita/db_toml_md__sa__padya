@@ -2,6 +2,8 @@
 topics = [ "काव्यम्",]
 sources = [ "काव्यकण्ठ-गणपतिः",]
 ratings = [ "vvasuki:4",]
+meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "ष", "आ",]
 jsonClass = "Subhaashita"
 title = "प्रीतिं ददाति"
 

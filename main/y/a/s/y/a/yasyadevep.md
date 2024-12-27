@@ -3,6 +3,7 @@ topics = [ "गुरुः",]
 sources = [ "श्वेताश्वतरोपनिषत्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "यस्य देवे"
 

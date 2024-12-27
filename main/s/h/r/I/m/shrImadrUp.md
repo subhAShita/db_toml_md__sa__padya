@@ -2,6 +2,7 @@
 topics = [ "राजा", "रूपमणिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५० रूपमणिः// 177",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "क", "य",]
 jsonClass = "Subhaashita"
 title = "श्रीमद्रूपमणे गुणेन"
 

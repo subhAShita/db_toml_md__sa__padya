@@ -2,6 +2,7 @@
 topics = [ "राजा", "दशरथः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// १७ दशरथः// 29",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "थ", "त",]
 jsonClass = "Subhaashita"
 title = "चिरादक्ष्णोर्जाड्यम्"
 

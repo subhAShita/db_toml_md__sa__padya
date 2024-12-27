@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6307",]
 meters = [ "औपच्छन्दसिकम्",]
+pratimaala_letters = [ "उ", "य",]
 jsonClass = "Subhaashita"
 title = "उचितः प्रणयो"
 

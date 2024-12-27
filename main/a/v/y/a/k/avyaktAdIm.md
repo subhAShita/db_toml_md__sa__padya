@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "अनित्यता", "मृत्युः", "नाशः", "कालः", "विस्मृतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "अव्यक्तादीनि भूतानि"
 

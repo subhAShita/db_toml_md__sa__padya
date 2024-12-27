@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "नायकस्याग्रे दूत्युक्तयः",]
 rasas = [ "शृङ्गारः",]
 meters = [ "गीति",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "अभिनवनलिनीकिसलय"
 

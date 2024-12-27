@@ -4,6 +4,7 @@ topics = [ "कामः", "जरा",]
 sources = [ "धर्मकीर्तिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "इ", "र",]
 jsonClass = "Subhaashita"
 title = "अनङ्ग पलितम्"
 

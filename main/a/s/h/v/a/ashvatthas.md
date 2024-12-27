@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 3545",]
 meters = [ "उपगीति",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "अश्वत्थस्य महत्त्वम्"
 

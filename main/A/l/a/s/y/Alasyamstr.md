@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5294", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 794",]
 topics = [ "नीतिः",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "स", "य",]
 jsonClass = "Subhaashita"
 title = "आलस्यं स्त्रीसेवा"
 

@@ -5,6 +5,7 @@ types = [ "विलापः - अशोकं प्रति",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "रक्तस्त्वं नवपल्लवैरहमपि"
 

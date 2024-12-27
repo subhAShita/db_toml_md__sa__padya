@@ -2,6 +2,7 @@
 topics = [ "पुरोहितः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ०३ पुरोहितः// 18",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "आ", "त",]
 jsonClass = "Subhaashita"
 title = "वेदवेदाङ्गतत्त्वज्ञो"
 

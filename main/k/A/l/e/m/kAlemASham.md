@@ -3,6 +3,7 @@ topics = [ "उच्चारणम्",]
 sources = [ "विकटनितम्बा",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "उ", "ब",]
 jsonClass = "Subhaashita"
 title = "काले माषम्"
 

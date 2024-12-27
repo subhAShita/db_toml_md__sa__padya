@@ -2,6 +2,7 @@
 topics = [ "शिवः", "दक्षिणामूर्तिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य", "ग",]
 jsonClass = "Subhaashita"
 title = "चित्रं वटतरोर्मूले"
 

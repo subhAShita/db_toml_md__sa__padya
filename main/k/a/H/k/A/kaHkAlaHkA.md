@@ -4,6 +4,7 @@ topics = [ "परिस्थितिः",]
 sources = [ "चाणक्यः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ह", "क",]
 jsonClass = "Subhaashita"
 title = "कः कालः"
 

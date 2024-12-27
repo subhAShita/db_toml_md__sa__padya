@@ -2,6 +2,7 @@
 topics = [ "राजा", "रुद्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ४८ रुद्रः// 173",]
 meters = [ "मन्दाक्रान्ता",]
+pratimaala_letters = [ "स", "य",]
 jsonClass = "Subhaashita"
 title = "भूयो"
 

@@ -3,6 +3,7 @@ topics = [ "कृष्णः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
+pratimaala_letters = [ "आ", "म",]
 jsonClass = "Subhaashita"
 title = "भद्रे मुरलि"
 

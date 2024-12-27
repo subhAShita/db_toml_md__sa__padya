@@ -3,6 +3,7 @@ topics = [ "अभक्ष्य-प्रायश्चित्तम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "च", "म",]
 jsonClass = "Subhaashita"
 title = "भुक्त्वाऽतोऽन्यतमस्यान्नममत्या"
 

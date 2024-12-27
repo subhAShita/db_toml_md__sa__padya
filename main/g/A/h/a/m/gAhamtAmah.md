@@ -2,6 +2,7 @@
 topics = [ "मृगयानिवृत्तिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २४ मृगयानिवृत्तिः// 1",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "न", "व",]
 jsonClass = "Subhaashita"
 title = "गाहन्तां महिषा"
 

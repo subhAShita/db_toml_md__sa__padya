@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9648A",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ख", "म",]
 jsonClass = "Subhaashita"
 title = "कामिनीजनविलोचनपाता"
 

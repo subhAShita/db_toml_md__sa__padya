@@ -2,6 +2,7 @@
 topics = [ "मीमांसकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १६ मीमांसकप्रशंसा// 1",]
 meters = [ "गीति",]
+pratimaala_letters = [ "क", "व",]
 jsonClass = "Subhaashita"
 title = "भगवदनभ्युपगमनम्"
 

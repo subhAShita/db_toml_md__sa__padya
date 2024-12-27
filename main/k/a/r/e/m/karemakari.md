@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8764", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ११ रणवर्णनम्// 18",]
 topics = [ "युद्धम्",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "करेण करिणा"
 

@@ -3,6 +3,7 @@ topics = [ "पण्डितः", "विद्वत्ता",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०८ पण्डितप्रशंसा// 28",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "हर्तुर्याति न"
 

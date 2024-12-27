@@ -3,6 +3,7 @@ topics = [ "गुरुः", "युक्तिः",]
 sources = [ "बुद्धः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "तापाच्छेदाच्च निकषात्"
 

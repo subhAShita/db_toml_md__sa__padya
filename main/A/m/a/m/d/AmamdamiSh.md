@@ -2,6 +2,8 @@
 topics = [ "काव्य-प्रयोजनम्",]
 sources = [ "धनञ्जयः - दशरूपकम्",]
 ratings = [ "vvasuki:4",]
+pratimaala_letters = [ "य",]
+meters = [ "इन्द्रवज्रा",]
 jsonClass = "Subhaashita"
 title = "आनन्दनिष्यन्दिषु रूपकेषु"
 

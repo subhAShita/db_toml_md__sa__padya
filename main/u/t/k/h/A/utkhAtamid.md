@@ -2,9 +2,10 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 6449", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३९ तृष्णानिन्दा// 49",]
 topics = [ "तृष्णा", "दारिद्र्यम्",]
 meters = [ "UNKNOWN",]
-jsonClass = "Subhaashita"
 ratings = [ "vvasuki:3",]
-title = "उत्खातं निधिशङ्कया"
+pratimaala_letters = [ "म", "व",]
+jsonClass = "Subhaashita"
+title = "उत्खातं निधिश"
 
 +++
 

@@ -3,6 +3,7 @@ topics = [ "राष्ट्र-नाशः", "म्लेच्छाक्
 sources = [ "काव्यकण्ठ-गणपतिमुनिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "न", "ब",]
 jsonClass = "Subhaashita"
 title = "कुलीनः क्षुद्राय"
 

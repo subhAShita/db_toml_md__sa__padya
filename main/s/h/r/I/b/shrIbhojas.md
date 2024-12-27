@@ -2,6 +2,7 @@
 topics = [ "राजा", "भोजः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ३३ भोजः// 84",]
 meters = [ "उपजाति",]
+pratimaala_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "श्रीभोज साम्यम्"
 

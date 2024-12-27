@@ -2,6 +2,7 @@
 topics = [ "तडागः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २१ सरोवर्णनम्// 1",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "प", "व",]
 jsonClass = "Subhaashita"
 title = "नेत्रैरिवोत्पलैः"
 

@@ -3,6 +3,7 @@ topics = [ "सज्जनः", "पुरुषकारः", "उपकरण
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 251",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "र", "ण",]
 jsonClass = "Subhaashita"
 title = "रथस्यैकं चक्रम्"
 

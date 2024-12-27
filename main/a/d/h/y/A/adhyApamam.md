@@ -3,6 +3,7 @@ topics = [ "पञ्च-महा-यज्ञाः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ह", "म",]
 jsonClass = "Subhaashita"
 title = "अध्यापनं ब्रह्मयज्ञः"
 

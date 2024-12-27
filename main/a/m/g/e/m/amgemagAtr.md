@@ -1,10 +1,12 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0331",]
 meters = [ "UNKNOWN",]
+topics = [ "न्यायम्", "धर्मः",]
+ratings = [ "vvasuki:5",]
+pratimaala_letters = [ "श", "ध",]
 jsonClass = "Subhaashita"
 title = "अङ्गेन गात्रम्"
-topics = [ "न्यायम्", "धर्मः"]
-ratings = ["vvasuki:5"]
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -17,7 +19,7 @@ ratings = ["vvasuki:5"]
 
 
 
-<details open><summary>Text</summary>
+<details><summary>Text</summary>
 
 अङ्गेन गात्रं नयनेन वक्त्रं न्यायेन राज्यं लवणेन भोज्यं।  
 धर्मेण हीनं खलु जीवितं च न राजते चन्द्रमसा विना निशा॥

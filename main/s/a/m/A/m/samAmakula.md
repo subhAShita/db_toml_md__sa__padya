@@ -3,6 +3,7 @@ topics = [ "विरहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ११ विरहः// 1",]
 rasas = [ "शृङ्गारः",]
 meters = [ "पृथ्वी",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "समानकुलशीलयोः सुवयसोः"
 

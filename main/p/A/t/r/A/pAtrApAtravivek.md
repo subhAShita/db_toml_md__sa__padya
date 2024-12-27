@@ -3,6 +3,7 @@ topics = [ "पात्र-विवेकः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
+pratimaala_letters = [ "प",]
 jsonClass = "Subhaashita"
 title = "पात्रापात्रविवेको रोहण"
 

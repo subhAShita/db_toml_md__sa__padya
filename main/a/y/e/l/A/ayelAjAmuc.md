@@ -2,6 +2,7 @@
 topics = [ "दरिद्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३० दरिद्रनिन्दा// 56",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "अये लाजानुच्चैः"
 

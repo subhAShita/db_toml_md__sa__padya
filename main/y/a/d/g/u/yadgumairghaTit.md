@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "दिगम्बरः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "यद्गुणैर्घटितोऽद्यापि"
 

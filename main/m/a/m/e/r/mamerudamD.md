@@ -2,6 +2,8 @@
 sources = [ "वासुकिज-विश्वासः - मुक्तकम्",]
 topics = [ "नृसिंहः",]
 ratings = [ "vvasuki:4",]
+meters = [ "बाला",]
+pratimaala_letters = [ "म", "य",]
 jsonClass = "Subhaashita"
 title = "मन्मेरुदण्डं प्रविभज्य"
 

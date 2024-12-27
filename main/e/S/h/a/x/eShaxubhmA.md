@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8113", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २३ मृगयावर्णनम्// 5",]
 topics = [ "मृगया",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "ह", "प",]
 jsonClass = "Subhaashita"
 title = "एष क्षुभ्नाति"
 

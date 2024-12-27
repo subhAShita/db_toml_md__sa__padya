@@ -1,10 +1,11 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 0063", "जल्हणः - सूक्तिमुक्तावलिः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
-jsonClass = "Subhaashita"
 topics = [ "वाक्-चौर्यम्",]
 ratings = [ "vvasuki:5",]
-title = "अकालजलदश्लोकैश्चित्रमात्मकृतैरिव"
+pratimaala_letters = [ "ज", "व",]
+jsonClass = "Subhaashita"
+title = "अकालजलदश्लोकैश्"
 
 +++
 

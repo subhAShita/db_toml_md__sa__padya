@@ -3,6 +3,7 @@ topics = [ "छिन्नमस्ता", "वीर्यम्", "उल्
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "ग", "त",]
 jsonClass = "Subhaashita"
 title = "उन्मीलन्नेत्रपत्रोज्ज्वलमलकलतालोलरोलम्बडिम्बम्"
 

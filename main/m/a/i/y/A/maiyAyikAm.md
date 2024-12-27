@@ -3,6 +3,7 @@ topics = [ "नैयायिकः", "तार्किकः", "कविः
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १५ नैयायिकनिन्दा// 4",]
 ratings = [ "vvasuki:5",]
 meters = [ "जाया",]
+pratimaala_letters = [ "त", "व",]
 jsonClass = "Subhaashita"
 title = "नैयायिकानाम्"
 

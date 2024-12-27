@@ -3,6 +3,7 @@ topics = [ "कुब्राह्मणः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ण", "त",]
 jsonClass = "Subhaashita"
 title = "ये बकव्रतिनो"
 

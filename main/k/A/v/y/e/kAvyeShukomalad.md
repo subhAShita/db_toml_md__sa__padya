@@ -3,6 +3,7 @@ topics = [ "तार्किकः", "कविः", "रसिकता",]
 sources = [ "पण्डितराजजगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "काव्येषु कोमलधियो"
 

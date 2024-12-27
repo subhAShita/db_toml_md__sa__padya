@@ -2,6 +2,7 @@
 topics = [ "सामवेदः", "पितरः", "अनध्यायः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "सामध्वनावृग्यजुषी"
 

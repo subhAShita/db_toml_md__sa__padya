@@ -2,6 +2,7 @@
 topics = [ "दम्भः", "वैराग्य-दम्भः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "स्नानं सिन्धुजले"
 

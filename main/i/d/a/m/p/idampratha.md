@@ -2,6 +2,8 @@
 sources = [ "वेङ्कटनाथः - शतदूषणी",]
 topics = [ "विशिष्टाद्वैतम्", "अद्वैतम्", "रामानुजः", "शतदूषणी",]
 ratings = [ "vvasuki:5",]
+meters = [ "पृथ्वी",]
+pratimaala_letters = [ "क",]
 jsonClass = "Subhaashita"
 title = "इदम्प्रथमसम्भवत्कुमतिजालकूलङ्कषा"
 

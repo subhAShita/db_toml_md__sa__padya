@@ -2,6 +2,7 @@
 topics = [ "नर्तकी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// २५ नर्तकी// 38",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "ष", "स",]
 jsonClass = "Subhaashita"
 title = "स्वेदक्लेदितकङ्कणाम्"
 

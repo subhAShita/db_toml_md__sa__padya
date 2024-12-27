@@ -5,6 +5,7 @@ topics = [ "अदैन्यम्", "अयाचकता",]
 sources = [ "सिल्हणस्य",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "क", "प",]
 jsonClass = "Subhaashita"
 title = "यद्वक्त्रं मुहुरीक्षसे"
 

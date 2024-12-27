@@ -2,6 +2,8 @@
 topics = [ "प्रौढोक्तिः",]
 sources = [ "यामुनः - मुक्तकम्",]
 ratings = [ "vvasuki:3",]
+pratimaala_letters = [ "आ", "य",]
+meters = [ "स्रग्धरा",]
 jsonClass = "Subhaashita"
 title = "आशैलादद्रिकन्याचरणकिसलयन्यासधन्योपकण्ठात्"
 

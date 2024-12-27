@@ -3,6 +3,7 @@ topics = [ "वैराग्यम्", "दर्प-निग्रहः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०१ वैराग्यम्// 90",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "भोगे रोगभयम्"
 

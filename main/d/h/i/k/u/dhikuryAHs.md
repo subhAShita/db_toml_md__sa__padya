@@ -3,6 +3,7 @@ topics = [ "स्त्रीशोषण-वादः",]
 sources = [ "पॆजत्ताय-रामकृष्णः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "भ", "य",]
 jsonClass = "Subhaashita"
 title = "धिक्कुर्याः श्वशुरौ"
 

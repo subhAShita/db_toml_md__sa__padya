@@ -3,6 +3,7 @@ topics = [ "शिशिरर्तुः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "औपच्छन्दसिकम्",]
+pratimaala_letters = [ "भ", "म",]
 jsonClass = "Subhaashita"
 title = "दयितानिबिडोपगूहनैकप्रतिषेध्यप्रबलानिलावमर्शम्"
 

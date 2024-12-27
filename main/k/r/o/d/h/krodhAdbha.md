@@ -3,6 +3,7 @@ topics = [ "क्रोधः", "मोहः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "क्रोधाद् भवति"
 

@@ -3,6 +3,7 @@ topics = [ "सज्जनः", "परोपदेशः", "अनुष्ठ
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २४ सज्जनप्रशंसा// 26",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "ध",]
 jsonClass = "Subhaashita"
 title = "परोपदेशे पाण्डित्यम्"
 

@@ -2,6 +2,7 @@
 topics = [ "नीतिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//२६ राजनीतिः// ३३ नीतिः// 389",]
 meters = [ "वियोगिनी",]
+pratimaala_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "क्षययुक्तमपि स्वभावजम्"
 

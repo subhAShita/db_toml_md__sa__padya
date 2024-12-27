@@ -3,6 +3,7 @@ topics = [ "बालविधवा", "विधवा", "बालविवा
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्यागीति",]
+pratimaala_letters = [ "न", "म",]
 jsonClass = "Subhaashita"
 title = "प्रियमण्डनां निशायाम्"
 

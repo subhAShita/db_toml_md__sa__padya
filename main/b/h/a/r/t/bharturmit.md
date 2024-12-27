@@ -2,6 +2,8 @@
 topics = [ "वियोगः", "मेघः",]
 sources = [ "कालिदासः - मेघदूतम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "मन्दाक्रान्ता",]
+pratimaala_letters = [ "न", "य",]
 jsonClass = "Subhaashita"
 title = "भर्तुर्मित्रम्"
 

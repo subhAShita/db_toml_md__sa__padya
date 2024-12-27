@@ -4,6 +4,7 @@ topics = [ "जगन्नाथः", "प्रौढोक्तिः", "प
 sources = [ "जगन्नाथः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "व", "त",]
 jsonClass = "Subhaashita"
 title = "गिरां देवी"
 
@@ -19,7 +20,7 @@ title = "गिरां देवी"
 
 
 
-<details open><summary>Text</summary>
+<details><summary>Text</summary>
 
 गिरां देवी वीणागुणरणनहीनादरकरा यदीयानां वाचाममृतमयमाचामति रसम्।  
 वचस्तस्याकर्ण्य श्रवणसुभगं पण्डितपतेरधुन्वन्मूर्धानं नृपशुरथवायं पशुपतिः॥

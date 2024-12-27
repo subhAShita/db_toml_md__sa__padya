@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "शिवः", "ब्रह्म", "बहुत्वम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य", "व",]
 jsonClass = "Subhaashita"
 title = "मया च"
 

@@ -2,6 +2,7 @@
 topics = [ "अरिपलायनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १२ अरिपलायनम्// 44",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "ए", "य",]
 jsonClass = "Subhaashita"
 title = "प्राप्तास्त्रासात्पिपासातिशयमुपगताः"
 

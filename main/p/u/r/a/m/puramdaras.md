@@ -2,6 +2,7 @@
 topics = [ "कालः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०५ कालचरितम्// 190",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न",]
 jsonClass = "Subhaashita"
 title = "पुरन्दरसहस्राणि"
 

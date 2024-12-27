@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 04 कूटानि// 57",]
 types = [ "कूटम्",]
 meters = [ "उपगीति",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "लम्बोदर तव"
 

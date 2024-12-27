@@ -2,6 +2,7 @@
 topics = [ "गजप्रशंसा",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ०६ गजप्रशंसा// 1",]
 meters = [ "मन्दाक्रान्ता",]
+pratimaala_letters = [ "इ", "त",]
 jsonClass = "Subhaashita"
 title = "नीता कुम्भस्थलकठिनता"
 

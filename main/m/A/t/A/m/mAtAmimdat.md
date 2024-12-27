@@ -2,9 +2,11 @@
 topics = [ "धनम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २७ धनप्रशंसा// 16",]
 meters = [ "शार्दूलविक्रीडितम्",]
+ratings = [ "vvasuki:5",]
+pratimaala_letters = [ "श", "अ",]
 jsonClass = "Subhaashita"
 title = "माता निन्दति"
-ratings = ["vvasuki:5"]
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -17,7 +19,7 @@ ratings = ["vvasuki:5"]
 
 
 
-<details open><summary>Text</summary>
+<details><summary>Text</summary>
 
 माता निन्दति नाभिनन्दति पिता भ्राता न संभाषते भृत्यः कुप्यति नानुगच्छति सुतः कान्ता च नालिङ्गते।  
 अर्थप्रार्थनशङ्कया न कुरुते संभाषणं वै सुहृत्तस्माद्द्रव्यमुपार्जयस्व सुमते द्रव्येण सर्वे वशाः॥

@@ -4,7 +4,8 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
 sources = [ "शीला",]
-ratings = ["vvasuki:5"]
+ratings = [ "vvasuki:5",]
+pratimaala_letters = [ "भ", "त",]
 jsonClass = "Subhaashita"
 title = "दूति त्वम्"
 
@@ -18,12 +19,15 @@ title = "दूति त्वम्"
 गच्छ क्षेम-समागमाय निपुणे, रक्षन्तु ते देवताः॥
 </details>
 
-<details><summary>मूलम्</summary>
+
+
+<details><summary>Text</summary>
 
 दूति त्वं तरुणी युवा स चपलः श्यामास्तमोभिर्दिशः सन्देशः स रहस्य एव विपिने सङ्केतकावासकः।  
 भूयो भूय इमे वसन्तमरुतश्चेतो नयन्त्यन्यथा गच्छ क्षेमसमागमाय निपुणे रक्षन्तु ते देवताः॥
-
 </details>
+
+
 
 <details><summary>English</summary>
 

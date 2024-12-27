@@ -3,6 +3,7 @@ topics = [ "प्रमाणम्",]
 sources = [ "प्रबंधचिन्तामणि",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य", "प",]
 jsonClass = "Subhaashita"
 title = "युक्तियुक्तं वचो"
 

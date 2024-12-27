@@ -3,6 +3,7 @@ topics = [ "राजधर्मः", "दण्डः",]
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ट", "स",]
 jsonClass = "Subhaashita"
 title = "मज्जेत्त्रयी दण्डनीतौ"
 

@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 09 प्रश्नोत्तराणि// 5",]
 types = [ "प्रश्नोत्तरम्",]
 meters = [ "उपजाति",]
+pratimaala_letters = [ "न", "उ",]
 jsonClass = "Subhaashita"
 title = "निरर्थकं जन्म"
 

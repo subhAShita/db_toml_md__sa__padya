@@ -3,6 +3,7 @@ topics = [ "प्रतिग्रहः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "प्रतिग्रहसमर्थोऽपि"
 

@@ -2,6 +2,7 @@
 topics = [ "राजा", "नाना",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// १९ नाना// 32",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "अ", "व",]
 jsonClass = "Subhaashita"
 title = "जयश्रियः कृपाणीयम्"
 

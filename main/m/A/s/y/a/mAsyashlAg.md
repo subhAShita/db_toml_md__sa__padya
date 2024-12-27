@@ -2,7 +2,8 @@
 topics = [ "कुस्तुतिः", "दोषस्वीकारः",]
 sources = [ "उदयनः",]
 ratings = [ "vvasuki:5",]
-meters = [ "UNKNOWN",]
+meters = [ "मन्दाक्रान्ता",]
+pratimaala_letters = [ "न", "य",]
 jsonClass = "Subhaashita"
 title = "नास्य श्लाघाम्"
 
@@ -18,7 +19,7 @@ title = "नास्य श्लाघाम्"
 
 
 
-<details open><summary>Text</summary>
+<details><summary>Text</summary>
 
 नास्य श्लाघाम् अकलितगुणः पोषयन् प्रीतये नः   
 कोन्धैश् चित्रस्तुतिशतविधौ शिल्पिनः स्यात्प्रकर्षः ।  

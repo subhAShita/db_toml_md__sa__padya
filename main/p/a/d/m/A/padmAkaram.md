@@ -3,6 +3,7 @@ topics = [ "परोपकारः", "प्रार्थना", "सज्
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३६ परोपकारप्रशंसा// 13",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "न", "ग",]
 jsonClass = "Subhaashita"
 title = "पद्माकरं दिनकरो"
 

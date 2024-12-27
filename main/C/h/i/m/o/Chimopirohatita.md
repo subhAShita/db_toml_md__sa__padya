@@ -2,6 +2,7 @@
 topics = [ "पराजयः", "स्थैर्यम्", "धृतिः", "धैर्यम्", "क्षमता", "क्षमा",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ष", "इ",]
 jsonClass = "Subhaashita"
 title = "छिन्नोऽपि रोहति"
 

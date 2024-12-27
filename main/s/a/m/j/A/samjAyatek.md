@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "कालः", "यशः",]
 ratings = [ "vvasuki:5",]
+meters = [ "इन्द्रवज्रा",]
+pratimaala_letters = [ "र", "ग",]
 jsonClass = "Subhaashita"
 title = "सञ्जायते"
 

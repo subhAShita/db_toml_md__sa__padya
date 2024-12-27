@@ -2,6 +2,7 @@
 topics = [ "कविः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०५ सामान्यकविप्रशंसा// 28",]
 meters = [ "द्रुतविलम्बितम्",]
+pratimaala_letters = [ "श", "र",]
 jsonClass = "Subhaashita"
 title = "सहृदयाः कविगुम्फनिकासु"
 

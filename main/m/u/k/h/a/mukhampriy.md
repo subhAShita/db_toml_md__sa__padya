@@ -3,6 +3,7 @@ topics = [ "यात्री",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः// ६९ देशान्तरोपगतो नायकः// 3",]
 rasas = [ "शृङ्गारः",]
 meters = [ "ऋद्धिः",]
+pratimaala_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "मुखं प्रियायाः"
 

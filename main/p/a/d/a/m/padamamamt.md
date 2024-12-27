@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 08 बहिरालापाः// 84",]
 types = [ "बहिरालापः",]
 meters = [ "द्रुतविलम्बितम्",]
+pratimaala_letters = [ "न", "प",]
 jsonClass = "Subhaashita"
 title = "पदमनन्तरवाचि किमिष्यते"
 

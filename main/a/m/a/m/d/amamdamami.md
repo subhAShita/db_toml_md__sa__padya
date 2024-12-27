@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "कन्दुकक्रीडा",]
 rasas = [ "शृङ्गारः",]
 meters = [ "पृथ्वी",]
+pratimaala_letters = [ "इ", "म",]
 jsonClass = "Subhaashita"
 title = "अमन्दमणिनूपुरक्वणनचारुचारीक्रमम्"
 

@@ -3,6 +3,7 @@ topics = [ "वेदाः", "ब्राह्मणः",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "एकोऽपि वेदविद्"
 

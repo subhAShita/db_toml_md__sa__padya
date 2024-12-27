@@ -4,7 +4,8 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 rasas = [ "शृङ्गारः",]
 meters = [ "शार्दूलविक्रीडितम्",]
 sources = [ "शीला",]
-ratings = ["vvasuki:5"]
+ratings = [ "vvasuki:5",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "यः कौमारहरः"
 
@@ -18,11 +19,15 @@ title = "यः कौमारहरः"
 रेवा-रोधसि वेतसी-तरु-तले, चेतः समुत्कण्ठते॥
 </details>
 
-<details><summary>मूलम्</summary>
+
+
+<details><summary>Text</summary>
 
 यः कौमारहरः स एव हि वरस्ता एव चैत्रक्षपास्ते चोन्मीलितमालतीसुरभयः प्रौढाः कदम्बानिलाः।  
 सा चैवास्मि तथापि चौर्यसुरतव्यापारलीलाविधौ रेवारोधसि वेतसीतरुतले चेतः समुत्कण्ठते॥
 </details>
+
+
 
 <details><summary>English</summary>
 

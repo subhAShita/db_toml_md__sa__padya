@@ -3,6 +3,7 @@ topics = [ "शिवः", "सृष्टिः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "छ", "व",]
 jsonClass = "Subhaashita"
 title = "सर्वत्र सर्वदा"
 

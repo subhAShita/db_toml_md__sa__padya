@@ -3,6 +3,7 @@ topics = [ "कविः", "कीर्तिः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "य", "प",]
 jsonClass = "Subhaashita"
 title = "कविता नाम"
 

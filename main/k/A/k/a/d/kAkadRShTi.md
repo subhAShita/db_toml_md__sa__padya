@@ -2,6 +2,7 @@
 topics = [ "ब्रह्मचर्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म", "अ",]
 jsonClass = "Subhaashita"
 title = "काकदृष्टिर्बकध्यानम्"
 

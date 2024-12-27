@@ -3,6 +3,7 @@ topics = [ "शास्त्रम्", "अविवेकः", "कुपण
 sources = [ "योग-वासिष्ठम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "अ", "प",]
 jsonClass = "Subhaashita"
 title = "भारो ऽविवेकिनः"
 

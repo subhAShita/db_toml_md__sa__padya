@@ -2,6 +2,8 @@
 topics = [ "जगत्", "काव्यम्", "नाटकम्", "शिवः",]
 source = [ "भट्टनायकः - हृदयदर्पणम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "प",]
 jsonClass = "Subhaashita"
 title = "नमस्त्रैलोक्यनिर्माणकवये"
 

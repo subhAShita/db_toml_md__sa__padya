@@ -3,6 +3,7 @@ topics = [ "पाण्डवक्रोधः",]
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "ध", "प",]
 jsonClass = "Subhaashita"
 title = "बाल्ये"
 

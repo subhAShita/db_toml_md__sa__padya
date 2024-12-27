@@ -3,6 +3,7 @@ topics = [ "धर्मः",]
 sources = [ "पञ्चतन्त्रम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "स", "त",]
 jsonClass = "Subhaashita"
 title = "यस्य धर्मविहीनानि"
 

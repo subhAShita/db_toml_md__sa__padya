@@ -3,6 +3,7 @@ topics = [ "नीतिः", "नेतृत्वम्", "मुखरता
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 33",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "न गणस्याग्रतो"
 

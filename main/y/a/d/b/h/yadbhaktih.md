@@ -2,6 +2,8 @@
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 topics = [ "बलिः", "प्रह्लादः",]
 ratings = [ "vvasuki:5",]
+meters = [ "इन्द्रवंशा",]
+pratimaala_letters = [ "ज", "य",]
 jsonClass = "Subhaashita"
 title = "यद्भक्तिहेतोर्हरितां ययौ"
 

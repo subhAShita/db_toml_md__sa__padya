@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4212", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ११ छान्दसनिन्दा// 1",]
 topics = [ "वैदिकः",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म", "अ",]
 jsonClass = "Subhaashita"
 title = "आः कष्टमप्रःऋष्टाः"
 

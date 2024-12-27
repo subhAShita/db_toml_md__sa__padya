@@ -3,6 +3,7 @@ topics = [ "दुर्जनः", "प्रियवादिता", "खल
 ratings = [ "vvasuki:5",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 49",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "दुर्जनः प्रियवादी"
 

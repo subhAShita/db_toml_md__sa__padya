@@ -3,6 +3,7 @@ topics = [ "दम्भः", "प्रायश्चित्तम्",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "छ", "त",]
 jsonClass = "Subhaashita"
 title = "न धर्मस्यापदेशेन"
 

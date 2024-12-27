@@ -2,6 +2,7 @@
 topics = [ "अर्चकः", "देवालयः",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "देवताक्षेत्रमाहत्म्यमर्चकस्य"
 

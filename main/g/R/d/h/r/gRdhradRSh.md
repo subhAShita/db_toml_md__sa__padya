@@ -3,6 +3,7 @@ topics = [ "नीतिः", "राजनीतिः",]
 sources = [ "कणिङ्को भारद्वाजः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "गृध्रदृष्टिर् बकालीनः"
 

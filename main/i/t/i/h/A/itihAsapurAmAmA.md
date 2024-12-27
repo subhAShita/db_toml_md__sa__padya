@@ -3,6 +3,7 @@ topics = [ "पुराणानि", "वेदाः",]
 sources = [ "वायुपुराणम् (६०.१६-१८, २१-२२)", "कूर्मपुराणम् (१.५२.१६-१७ – किञ्चिद्पाठान्तरेण) ",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "य", "प",]
 jsonClass = "Subhaashita"
 title = "इतिहासपुराणानां वक्तारम्"
 

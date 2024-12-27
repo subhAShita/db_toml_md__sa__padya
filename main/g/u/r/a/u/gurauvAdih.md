@@ -2,6 +2,8 @@
 sources = [ "प्रतिवादिभयङ्कराण्णः - सप्ततिरत्नमालिका",]
 topics = [ "वेङ्कटनाथः", "रामानुजः", "भागवतापचारः", "दुष्टः",]
 ratings = [ "vvasuki:4",]
+meters = [ "भुजङ्गप्रयातम्",]
+pratimaala_letters = [ "म", "य",]
 jsonClass = "Subhaashita"
 title = "गुरौ"
 

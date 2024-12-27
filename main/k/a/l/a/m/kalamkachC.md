@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "कुकविः",]
 ratings = [ "vvasuki:4",]
+meters = [ "शिखरिणी",]
+pratimaala_letters = [ "इ", "म",]
 jsonClass = "Subhaashita"
 title = "कलङ्कच्छद्माविष्कृतमलिनगूढाक्षरलिपिम्"
 

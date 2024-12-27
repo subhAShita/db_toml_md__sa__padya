@@ -1,6 +1,8 @@
 +++
 topics = [ "रसिकः", "अरसिकः", "सहृदयः", "असहृदयः",]
 ratings = [ "vvasuki:5",]
+meters = [ "द्रुतविलम्बितम्",]
+pratimaala_letters = [ "ख", "अ",]
 jsonClass = "Subhaashita"
 title = "इतरकर्मफलानि यदृच्छया"
 

@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्//०६ विशिष्टकविप्रशंसा// ०१ अमरसिंहः// 1",]
 topics = [ "अमरसिंहः",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "अ", "त",]
 jsonClass = "Subhaashita"
 title = "प्रयोगव्युत्पत्तौ"
 

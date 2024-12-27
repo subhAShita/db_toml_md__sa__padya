@@ -2,6 +2,7 @@
 topics = [ "उच्चारणम्", "भाषा", "व्याकरणम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "दुष्टः शब्दः"
 

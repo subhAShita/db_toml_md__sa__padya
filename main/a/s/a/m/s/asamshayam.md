@@ -4,6 +4,7 @@ topics = [ "अन्तःसाक्षी",]
 sources = [ "कालिदासः - अभिज्ञानशाकुन्तलम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
+pratimaala_letters = [ "स", "य",]
 jsonClass = "Subhaashita"
 title = "असंशयम्"
 

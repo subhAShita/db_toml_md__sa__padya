@@ -2,6 +2,7 @@
 topics = [ "वैराग्यम्",]
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5665",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "क",]
 jsonClass = "Subhaashita"
 title = "आस्यं यस्याः"
 

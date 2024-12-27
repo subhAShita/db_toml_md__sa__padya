@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4918", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 755",]
 topics = [ "नीतिः",]
 meters = [ "गीति",]
+pratimaala_letters = [ "स", "व",]
 jsonClass = "Subhaashita"
 title = "आपदि मित्रपरीक्षा"
 

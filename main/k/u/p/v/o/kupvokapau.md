@@ -2,6 +2,7 @@
 topics = [ "वैयाकरणः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// १३ वैयाकरणनिन्दा// 3",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "कुप्वो क"
 

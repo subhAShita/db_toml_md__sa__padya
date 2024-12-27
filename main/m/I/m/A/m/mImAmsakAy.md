@@ -1,5 +1,7 @@
 +++
 topics = [ "मीमांसकः", "नैयायिकः", "अपौरुषेयत्वम्", "पौरुषेयत्वम्", "वेदाः",]
+meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ब", "त",]
 jsonClass = "Subhaashita"
 title = "मीमांसका यशः"
 

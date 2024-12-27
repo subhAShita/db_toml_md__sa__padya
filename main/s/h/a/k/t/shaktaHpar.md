@@ -3,6 +3,7 @@ topics = [ "दानम्", "स्वजनोपेक्षा",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "शक्तः परजने"
 

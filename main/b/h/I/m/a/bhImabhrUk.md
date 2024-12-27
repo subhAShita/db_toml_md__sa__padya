@@ -2,6 +2,8 @@
 topics = [ "शिवः",]
 sources = [ "रुय्यकालङ्कारसर्वस्य जयरथ-तीका",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "न",]
 jsonClass = "Subhaashita"
 title = "भीमभ्रूकुटिपन्नगीफणमणिः"
 

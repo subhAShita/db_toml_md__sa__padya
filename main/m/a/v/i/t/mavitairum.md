@@ -2,6 +2,8 @@
 topics = [ "हयग्रीवः", "पण्डित-विनयः",]
 sources = [ "वादीराजतीर्थः - युक्तिमालिका",]
 ratings = [ "vvasuki:3",]
+meters = [ "शिखरिणी",]
+pratimaala_letters = [ "न",]
 jsonClass = "Subhaashita"
 title = "न वित्तैरुन्मत्ता"
 

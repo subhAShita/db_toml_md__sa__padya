@@ -3,6 +3,7 @@ topics = [ "अग्निहोत्रम्", "गायत्री", "र
 sources = [ "महाभारतम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "अग्निहोत्रमुखा वेदा"
 

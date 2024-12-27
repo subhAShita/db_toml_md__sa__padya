@@ -4,6 +4,7 @@ topics = [ "दशावताराः", "कृष्णः",]
 sources = [ "वेङ्कटाध्वरी",]
 ratings = [ "vvasuki:5",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "न", "व",]
 jsonClass = "Subhaashita"
 title = "अवेमव्यापाराकलनमतुरीस्पर्शमचिराद्"
 

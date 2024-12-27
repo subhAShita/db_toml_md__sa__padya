@@ -3,6 +3,7 @@ topics = [ "नृसिंहः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "कीर्तिः",]
+pratimaala_letters = [ "ह", "स",]
 jsonClass = "Subhaashita"
 title = "समर्पितायामुदधेर्दुहित्रा"
 

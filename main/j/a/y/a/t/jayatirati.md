@@ -2,6 +2,8 @@
 topics = [ "शिवः",]
 sources = [ "शङ्करमिश्रः - कणादरहस्यम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "मालिनी",]
+pratimaala_letters = [ "ल", "ग",]
 jsonClass = "Subhaashita"
 title = "जयति रतिविलासे"
 

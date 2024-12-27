@@ -3,6 +3,7 @@ topics = [ "सत्यम्", "वाग्यमः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "र", "ग",]
 jsonClass = "Subhaashita"
 title = "सत्यम्"
 

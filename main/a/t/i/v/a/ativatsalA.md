@@ -3,6 +3,7 @@ topics = [ "बालविवाहः", "ईर्ष्या",]
 sources = [ "आर्यासप्तशती",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "द", "अ",]
 jsonClass = "Subhaashita"
 title = "अतिवत्सला सुशीला"
 

@@ -3,6 +3,7 @@ topics = [ "भक्तिः", "तीर्थयात्रा", "दान
 sources = [ "मध्वः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य", "अ",]
 jsonClass = "Subhaashita"
 title = "दानतीर्थतपोयज्ञपूर्वाः"
 

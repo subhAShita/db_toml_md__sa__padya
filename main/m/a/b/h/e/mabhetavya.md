@@ -3,6 +3,7 @@ topics = [ "वादः", "वितण्डा",]
 sources = [ "कलिविडम्बनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "ह", "व",]
 jsonClass = "Subhaashita"
 title = "न भेतव्यम्"
 

@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "कामः",]
 ratings = [ "vvasuki:5",]
 meters = [ "रथोद्धता",]
+pratimaala_letters = [ "न", "ए",]
 jsonClass = "Subhaashita"
 title = "कालिदासकविता नवम्"
 

@@ -2,6 +2,7 @@
 topics = [ "हरिहरौ",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 07 हरिहरौ// 5",]
 meters = [ "माला",]
+pratimaala_letters = [ "ल", "व",]
 jsonClass = "Subhaashita"
 title = "गवीशपत्रो नगजार्तिहारी"
 

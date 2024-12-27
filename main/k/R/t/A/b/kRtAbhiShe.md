@@ -2,6 +2,7 @@
 topics = [ "पार्वती", "स्त्री", "तपस्विनी",]
 ratings = [ "vvasuki:5",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
+pratimaala_letters = [ "द", "त",]
 jsonClass = "Subhaashita"
 title = "कृताभिषेकां हुतजातवेदसन्"
 

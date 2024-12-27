@@ -3,8 +3,9 @@ topics = [ "नीतिः", "प्राचीनता", "परीक्ष
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २७ सामान्यनीतिः// 893",]
 ratings = [ "vvasuki:5",]
 meters = [ "माला",]
-jsonClass = "Subhaashita"
 sources = [ "कालिदासः - मालवीकाग्निमित्रम्",]
+pratimaala_letters = [ "ध", "स",]
+jsonClass = "Subhaashita"
 title = "पुराणमित्येव न"
 
 +++

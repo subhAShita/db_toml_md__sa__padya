@@ -2,6 +2,7 @@
 topics = [ "त्रिमूर्तयः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 08 त्रिमूर्तयः// 1",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ष", "ग",]
 jsonClass = "Subhaashita"
 title = "नमस्त्रिमूर्तये तुभ्यम्"
 

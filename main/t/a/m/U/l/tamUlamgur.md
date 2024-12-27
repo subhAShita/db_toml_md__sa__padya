@@ -2,6 +2,7 @@
 topics = [ "सन्तोषः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३८ संतोषप्रशंसा// 13",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "तन्मूलम्"
 

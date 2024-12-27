@@ -2,6 +2,7 @@
 topics = [ "विद्या",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०२ विद्याप्रशंसा// 12",]
 meters = [ "उपजाति",]
+pratimaala_letters = [ "न", "स",]
 jsonClass = "Subhaashita"
 title = "श्रियः प्रदुग्धे"
 

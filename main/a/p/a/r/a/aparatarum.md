@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1925",]
 meters = [ "आर्या (लोओसे स्छेम)",]
+pratimaala_letters = [ "र", "फ",]
 jsonClass = "Subhaashita"
 title = "अपरतरुनिकरमुक्तम्"
 

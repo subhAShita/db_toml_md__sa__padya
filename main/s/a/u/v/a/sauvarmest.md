@@ -1,6 +1,8 @@
 +++
 topics = [ "मानसपूजा",]
 ratings = [ "vvasuki:4",]
+meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "न", "म",]
 jsonClass = "Subhaashita"
 title = "सौवर्णे स्थालिवर्ये"
 

@@ -2,6 +2,7 @@
 topics = [ "विप्रलम्ब-शृङ्गारः", "सन्देशः",]
 ratings = [ "vvasuki:5",]
 meters = [ "मन्दाक्रान्ता",]
+pratimaala_letters = [ "ष", "इ",]
 jsonClass = "Subhaashita"
 title = "धूमज्योतिः सलिलमरुताम्"
 

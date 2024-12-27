@@ -2,6 +2,8 @@
 topics = [ "शिवः", "पार्वती", "नीचसंसर्गः",]
 sources = [ "कालिदासः - कुमारसम्भवम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "वंशस्थ (वंशस्थविल)",]
+pratimaala_letters = [ "द", "क",]
 jsonClass = "Subhaashita"
 title = "द्वयं गतम्"
 

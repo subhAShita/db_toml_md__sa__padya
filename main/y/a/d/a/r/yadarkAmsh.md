@@ -2,6 +2,7 @@
 topics = [ "कपिः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०७ कपिः// 14",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "च", "क",]
 jsonClass = "Subhaashita"
 title = "यदर्कांशुक्लान्तस्फुरदरुणपुष्पोदरधिया"
 

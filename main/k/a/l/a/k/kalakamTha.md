@@ -1,11 +1,12 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 8958",]
 meters = [ "UNKNOWN",]
-jsonClass = "Subhaashita"
 sources = [ "वेङ्कटनाथः - रहस्यत्रयसारः",]
 topics = [ "कुनिन्दा",]
 ratings = [ "vvasuki:3",]
-title = "कलकण्ठगणास्वाद्ये"
+pratimaala_letters = [ "न", "त",]
+jsonClass = "Subhaashita"
+title = "कलकण्ठ गणास्वाद्ये"
 
 +++
 

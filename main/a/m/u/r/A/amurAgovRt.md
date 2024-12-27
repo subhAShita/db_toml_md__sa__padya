@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1503",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "य", "प",]
 jsonClass = "Subhaashita"
 title = "अनुरागो वृथा"
 

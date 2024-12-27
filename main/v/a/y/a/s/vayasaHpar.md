@@ -2,6 +2,8 @@
 sources = [ "लक्ष्मणः - सूक्तिरत्नकोशः",]
 topics = [ "दुर्जनः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "वयसः परिणामे"
 

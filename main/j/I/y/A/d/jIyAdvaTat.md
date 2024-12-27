@@ -3,6 +3,7 @@ topics = [ "श्रुतिः", "दक्षिणामूर्तिः"
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "श", "य",]
 jsonClass = "Subhaashita"
 title = "जीयाद्वटतरुच्छायागोचरो"
 

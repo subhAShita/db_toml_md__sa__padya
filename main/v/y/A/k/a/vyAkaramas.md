@@ -2,6 +2,7 @@
 topics = [ "वैयाकरणः",]
 ratings = [ "vvasuki:5",]
 meters = [ "गीति",]
+pratimaala_letters = [ "श", "म",]
 jsonClass = "Subhaashita"
 title = "व्याकरणसूत्रजालम्"
 

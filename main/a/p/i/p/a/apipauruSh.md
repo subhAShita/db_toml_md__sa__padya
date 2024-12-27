@@ -4,6 +4,7 @@ topics = [ "प्रमाणम्", "शास्त्रम्",]
 sources = [ "योग-वासिष्ठम् (2.18.2 श्रुत्युपेक्षौचित्यं कदाचिद्बोधयन्ती)",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "अ",]
 jsonClass = "Subhaashita"
 title = "अपि पौरुषमादेयम्"
 

@@ -2,6 +2,8 @@
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 topics = [ "भावः", "आत्म-नियन्त्रणम्", "संयमः", "भक्तिः",]
 ratings = [ "vvasuki:5",]
+meters = [ "प्रहर्षिणी",]
+pratimaala_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "नो भावान्नियमयितुम्"
 

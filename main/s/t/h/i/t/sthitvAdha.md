@@ -2,6 +2,7 @@
 topics = [ "बकः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// १६ बकः// 24",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "स्थित्वा धैर्यादुपाम्भः"
 

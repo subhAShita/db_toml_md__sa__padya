@@ -3,6 +3,7 @@ topics = [ "बहुश्रुतः", "पाण्डित्यम्", "
 sources = [ "सुश्रुतः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "एकं शास्त्रमधीयानः"
 

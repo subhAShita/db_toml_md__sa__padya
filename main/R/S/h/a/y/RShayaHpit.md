@@ -3,6 +3,7 @@ topics = [ "पञ्च-ऋणानि",]
 sources = [ "मनुः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "आ", "त",]
 jsonClass = "Subhaashita"
 title = "ऋषयः पितरो"
 

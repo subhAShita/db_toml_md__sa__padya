@@ -2,6 +2,8 @@
 sources = [ "श्रीललिता - मुक्तकम्",]
 topics = [ "कृष्णः",]
 ratings = [ "vvasuki:4",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "र",]
 jsonClass = "Subhaashita"
 title = "ध्याता प्रीत्या"
 

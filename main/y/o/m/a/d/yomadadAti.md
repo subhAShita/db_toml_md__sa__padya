@@ -3,6 +3,7 @@ topics = [ "दानम्", "कृपणः",]
 sources = [ "सुन्दर-पाण्ड्यः - नीतिद्विषष्टिका",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३१ दानप्रशंसा// 16",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "थ", "त",]
 jsonClass = "Subhaashita"
 title = "यो न"
 

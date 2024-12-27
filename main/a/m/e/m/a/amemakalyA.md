@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1552",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
+pratimaala_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "अनेन कल्याणि"
 

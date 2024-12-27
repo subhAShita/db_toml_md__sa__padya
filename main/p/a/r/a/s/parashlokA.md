@@ -2,6 +2,7 @@
 topics = [ "कुपण्डितः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 60",]
 meters = [ "शिखरिणी",]
+pratimaala_letters = [ "र", "अ",]
 jsonClass = "Subhaashita"
 title = "परश्लोकान्स्तोकाननुदिवसमभ्यस्य"
 

@@ -2,6 +2,7 @@
 topics = [ "चन्द्रः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  01 मङ्गलाचरणप्रकरणम्// 14 चन्द्रः// 1",]
 meters = [ "स्वागता",]
+pratimaala_letters = [ "म", "प",]
 jsonClass = "Subhaashita"
 title = "लालयन्तमरविन्दवनानि"
 

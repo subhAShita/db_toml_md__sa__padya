@@ -2,6 +2,7 @@
 topics = [ "शुद्धता", "अभिनिम्रुक्तः", "अभ्युदितः", "वस्त्रम्", "वाक्पारुश्यम्", "अतिभोजनम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "म", "स",]
 jsonClass = "Subhaashita"
 title = "कुचेलिनं दन्तमलोपधारिणम्"
 

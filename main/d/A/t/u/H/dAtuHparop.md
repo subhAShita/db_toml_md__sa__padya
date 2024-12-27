@@ -2,6 +2,7 @@
 topics = [ "परोपकारः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३६ परोपकारप्रशंसा// 14",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "ष", "भ",]
 jsonClass = "Subhaashita"
 title = "दातुः"
 

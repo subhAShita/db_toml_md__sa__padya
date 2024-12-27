@@ -3,6 +3,7 @@ topics = [ "दमः",]
 sources = [ "कठोपनिषत्",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "थ", "त",]
 jsonClass = "Subhaashita"
 title = "आत्मानं रथिनम्"
 

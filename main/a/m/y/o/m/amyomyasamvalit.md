@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 1853",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "ल", "त",]
 jsonClass = "Subhaashita"
 title = "अन्योन्यसंवलितमांसलदन्तकान्ति"
 

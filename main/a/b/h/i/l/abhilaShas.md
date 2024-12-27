@@ -4,6 +4,7 @@ topics = [ "चन्द्रं प्रत्युक्तयः",]
 types = [ "विलापः - चन्द्रं प्रति",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 meters = [ "मालिनी",]
+pratimaala_letters = [ "स", "व",]
 jsonClass = "Subhaashita"
 title = "अभिलषसि यदीन्दो"
 

@@ -3,6 +3,7 @@ topics = [ "शिवः", "अर्धनारीश्वरः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "र", "त",]
 jsonClass = "Subhaashita"
 title = "देहार्धविलसद्गौरीस्नेहान्मृदुपदक्रमः"
 

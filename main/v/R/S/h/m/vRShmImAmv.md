@@ -3,6 +3,7 @@ topics = [ "अर्जुनः", "शुक्रः", "व्यासः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "व",]
 jsonClass = "Subhaashita"
 title = "वृष्णीनां वासुदेवोऽस्मि"
 

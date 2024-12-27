@@ -3,6 +3,7 @@ topics = [ "व्यभिचारिणी",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०१ शृङ्गाररसनिर्देशः//७८ असतीचरितम्// 66",]
 rasas = [ "शृङ्गारः",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "पृथ्वी तावत्त्रिकोणा"
 

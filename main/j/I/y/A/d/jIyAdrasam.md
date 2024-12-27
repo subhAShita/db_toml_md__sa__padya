@@ -2,6 +2,8 @@
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 topics = [ "दुर्गा",]
 ratings = [ "vvasuki:4",]
+meters = [ "आर्यागीति",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "जीयाद्रसना देव्या"
 

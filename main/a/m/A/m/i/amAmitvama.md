@@ -3,6 +3,7 @@ topics = [ "मानम्", "दम्भः",]
 sources = [ "भगवद्गीता",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ह", "आ",]
 jsonClass = "Subhaashita"
 title = "अमानित्वमदम्भित्वमहिंसा"
 

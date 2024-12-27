@@ -2,6 +2,8 @@
 sources = [ "सुहासः - मुक्तकम्",]
 topics = [ "स्वभावः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "न",]
 jsonClass = "Subhaashita"
 title = "राहुस्तर्जतु, हन्तु"
 

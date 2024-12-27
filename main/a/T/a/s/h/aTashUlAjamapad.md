@@ -2,6 +2,7 @@
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्// 04 कूटानि// 15",]
 types = [ "कूटम्",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "प", "ग",]
 jsonClass = "Subhaashita"
 title = "अट्टशूला जनपदाः"
 

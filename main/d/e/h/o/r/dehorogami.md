@@ -2,6 +2,8 @@
 topics = [ "अनित्यता", "मोहः",]
 sources = [ "भगवदज्जुकम्",]
 ratings = [ "vvasuki:3",]
+meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "देहो रोगनिधिर्जरावशगतो"
 

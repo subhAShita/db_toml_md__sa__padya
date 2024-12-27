@@ -3,6 +3,7 @@ secondary_sources = [ "सुभाषितरत्नभाण्डागा
 topics = [ "मुरारिः", "शास्त्र-बोधः", "बुद्धिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "ल", "अ",]
 jsonClass = "Subhaashita"
 title = "देवीं वाचमुपासते"
 

@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "भ्रमरक्रीडा",]
 rasas = [ "शृङ्गारः",]
 meters = [ "वंशस्थ (वंशस्थविल)",]
+pratimaala_letters = [ "उ", "ल",]
 jsonClass = "Subhaashita"
 title = "करौ धुनाना"
 

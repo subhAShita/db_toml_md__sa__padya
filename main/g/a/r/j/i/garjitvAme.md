@@ -2,6 +2,7 @@
 topics = [ "महोक्षः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  04 चित्रप्रकरणम्//12 जातिवर्णनम्// ०८ महोक्षः// 15",]
 meters = [ "स्रग्धरा",]
+pratimaala_letters = [ "ष", "म",]
 jsonClass = "Subhaashita"
 title = "गर्जित्वा मेघधीरम्"
 

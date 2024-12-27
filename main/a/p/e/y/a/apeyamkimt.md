@@ -2,6 +2,8 @@
 sources = [ "जयन्तभट्टः",]
 topics = [ "वामाचारः",]
 ratings = [ "vvasuki:5",]
+meters = [ "शिखरिणी",]
+pratimaala_letters = [ "म", "अ",]
 jsonClass = "Subhaashita"
 title = "अपेयं किम्"
 

@@ -2,6 +2,8 @@
 topics = [ "गुण्डप्पः",]
 sources = [ "मुरलीधर-सुदर्शनः",]
 ratings = [ "vvasuki:4",]
+meters = [ "UNKNOWN",]
+pratimaala_letters = [ "प", "त",]
 jsonClass = "Subhaashita"
 title = "शश्वत्काननसूनवन्नतमतिर्विश्वार्णवाङ्गीकृतिर्"
 

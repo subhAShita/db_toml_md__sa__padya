@@ -2,6 +2,7 @@
 topics = [ "राजा", "हम्मीरः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्//०४ विशिष्टराजप्रशंसा// ५९ हम्मीरः// 194",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "ह", "र",]
 jsonClass = "Subhaashita"
 title = "मा चक्र"
 

@@ -3,6 +3,7 @@ topics = [ "गुरुः", "दीक्षागुरुः", "शास्
 sources = [ "काञ्चीपुर-पञ्चाक्षर-योगी",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "श", "र",]
 jsonClass = "Subhaashita"
 title = "पक्षद्वन्द्वमिहोदितं खलु"
 

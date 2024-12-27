@@ -3,6 +3,7 @@ topics = [ "दुर्जनः", "खलः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 54",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ध", "द",]
 jsonClass = "Subhaashita"
 title = "खलः करोति"
 

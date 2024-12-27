@@ -1,6 +1,8 @@
 +++
 topics = [ "विरक्तिः", "लोकः",]
 ratings = [ "vvasuki:5",]
+meters = [ "UNKNOWN",]
+pratimaala_letters = [ "र", "व",]
 jsonClass = "Subhaashita"
 title = "अद्य प्रभृति"
 

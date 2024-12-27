@@ -2,6 +2,8 @@
 topics = [ "शास्त्रम्", "काव्यम्",]
 sources = [ "आनन्दवर्धनः - ध्वन्यालोकः",]
 ratings = [ "vvasuki:4",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "न", "य",]
 jsonClass = "Subhaashita"
 title = "सन्धिसन्ध्यङ्गघटनम्"
 

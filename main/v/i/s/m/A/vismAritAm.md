@@ -3,6 +3,8 @@ topics = [ "प्रोषितपतिका",]
 rasas = [ "शृङ्गारः", "विप्रलम्भ-शृङ्गारः",]
 ratings = [ "vvasuki:5",]
 sources = [ "शतावधानी गणेशः - मुक्तकम्",]
+meters = [ "आर्यागीति",]
+pratimaala_letters = [ "म",]
 jsonClass = "Subhaashita"
 title = "विस्मारिता मनागिव"
 

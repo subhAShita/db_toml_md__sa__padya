@@ -3,6 +3,7 @@ topics = [ "दुर्जनः", "आयति",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// २५ दुर्जननिन्दा// 235",]
 ratings = [ "vvasuki:5",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "छ", "त",]
 jsonClass = "Subhaashita"
 title = "प्राक्पादयोः पतति"
 

@@ -2,6 +2,7 @@
 topics = [ "शक्तिः", "प्रतिभा", "दोषः", "दोषाभिज्ञानम्", "कुकविः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "अव्युत्पत्तिकृतो दोषः"
 

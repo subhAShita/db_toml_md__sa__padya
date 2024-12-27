@@ -4,6 +4,7 @@ topics = [ "उपकर्ता", "उपकार-शक्तिः",]
 sources = [ "केशटः",]
 ratings = [ "vvasuki:5",]
 meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "ए", "य",]
 jsonClass = "Subhaashita"
 title = "आश्चर्यं वडवानलः"
 

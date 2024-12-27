@@ -2,6 +2,7 @@
 topics = [ "युद्धम्",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// ११ रणवर्णनम्// 101",]
 meters = [ "शालिनी",]
+pratimaala_letters = [ "भ", "स",]
 jsonClass = "Subhaashita"
 title = "पद्माकारैर्योधवक्त्रैरिभानाम्"
 

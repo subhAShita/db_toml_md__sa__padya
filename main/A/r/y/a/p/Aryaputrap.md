@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 5276",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "भ", "स",]
 jsonClass = "Subhaashita"
 title = "आर्यपुत्र पिता"
 

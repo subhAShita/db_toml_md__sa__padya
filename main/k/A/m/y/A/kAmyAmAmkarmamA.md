@@ -3,6 +3,7 @@ secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः 
 topics = [ "सन्न्यासः", "सात्त्विक-त्यागः", "काम्य-कर्म",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "स", "ण",]
 jsonClass = "Subhaashita"
 title = "काम्यानां कर्मणाम्"
 

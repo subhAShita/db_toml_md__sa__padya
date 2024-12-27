@@ -4,6 +4,7 @@ topics = [ "कविवृन्दम्", "बृहत्कथा", "रा
 sources = [ "गोवर्धनः",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्या",]
+pratimaala_letters = [ "न", "त",]
 jsonClass = "Subhaashita"
 title = "श्रीरामायणभारतबृहत्कथानाम्"
 

@@ -3,6 +3,7 @@ topics = [ "विप्रलम्भशृङ्गारः",]
 sources = [ "राजारामज-शङ्करः - मुक्तकम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "आर्द्रा",]
+pratimaala_letters = [ "य", "त",]
 jsonClass = "Subhaashita"
 title = "त्वया मदङ्गेषु"
 

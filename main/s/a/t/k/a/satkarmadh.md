@@ -2,6 +2,8 @@
 sources = [ "हॆब्बळलु-राघवेन्द्रः - मुक्तकम्",]
 topics = [ "व्यासः", "कृष्णः",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "क",]
 jsonClass = "Subhaashita"
 title = "सत्कर्मधर्मयोगज्ञौ"
 

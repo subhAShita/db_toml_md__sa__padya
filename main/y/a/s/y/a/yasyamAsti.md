@@ -3,6 +3,7 @@ topics = [ "कुपण्डितः", "असारग्राहिता"
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ०९ कुपण्डितनिन्दा// 1",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "ल", "त",]
 jsonClass = "Subhaashita"
 title = "यस्य नास्ति"
 
@@ -17,7 +18,8 @@ title = "यस्य नास्ति"
 </details>
 
 
-<details open><summary>Text</summary>
+
+<details><summary>Text</summary>
 
 यस्य नास्ति स्वयं प्रज्ञा शास्त्रं तस्य करोति किम्।  
 लोचनाभ्यां विहीनस्य दर्पणः किं करिष्यति॥

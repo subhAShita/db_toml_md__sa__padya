@@ -2,6 +2,8 @@
 sources = [ "वीणा - मुक्तकम्",]
 topics = [ "रामः", "रामनाम",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "त",]
 jsonClass = "Subhaashita"
 title = "अथ निक्षिप्य"
 

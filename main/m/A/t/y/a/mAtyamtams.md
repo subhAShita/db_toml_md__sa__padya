@@ -3,6 +3,7 @@ topics = [ "भाषा", "संस्कृतम्",]
 sources = [ "कामसूत्रम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "क", "त",]
 jsonClass = "Subhaashita"
 title = "नात्यन्तं संस्कृतेनैव"
 

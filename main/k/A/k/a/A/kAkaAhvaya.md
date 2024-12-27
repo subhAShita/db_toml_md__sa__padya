@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9290", "सुभाषितरत्नभाण्डागारः -  02 सामान्यप्रकरणम्// ३५ याचकनिन्दा// 14",]
 topics = [ "याचकः",]
 meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "क",]
 jsonClass = "Subhaashita"
 title = "काक आह्वयते"
 

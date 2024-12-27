@@ -2,6 +2,8 @@
 sources = [ "लोलिम्बराजः - मुक्तकम्",]
 topics = [ "प्रौढोक्तिः",]
 ratings = [ "vvasuki:4",]
+meters = [ "शार्दूलविक्रीडितम्",]
+pratimaala_letters = [ "द", "य",]
 jsonClass = "Subhaashita"
 title = "किं कान्तामणिमेखलाकलकलैः"
 

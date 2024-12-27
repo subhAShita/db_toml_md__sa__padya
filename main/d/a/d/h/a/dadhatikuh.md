@@ -2,6 +2,7 @@
 topics = [ "पर्वतः",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// २० पर्वतवर्णनम्// 3",]
 meters = [ "मालिनी",]
+pratimaala_letters = [ "ध", "श",]
 jsonClass = "Subhaashita"
 title = "दधति कुहरभाजामत्र"
 

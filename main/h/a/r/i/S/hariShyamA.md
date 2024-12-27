@@ -2,6 +2,7 @@
 topics = [ "अनित्यता",]
 secondary_sources = [ "सुभाषितरत्नभाण्डागारः -  06 नवरसप्रकरणम्//०९ शान्तरसनिर्देशः// ०४ अनित्यतानिरूपणम्// 168",]
 meters = [ "माया",]
+pratimaala_letters = [ "ध", "प",]
 jsonClass = "Subhaashita"
 title = "हरिष्यमाणो बहुधा"
 

@@ -2,6 +2,8 @@
 sources = [ "लक्ष्मणः - सूक्तिरत्नकोशः",]
 topics = [ "सुभाषितम्",]
 ratings = [ "vvasuki:5",]
+meters = [ "अनुष्टुप् (श्लोक)",]
+pratimaala_letters = [ "म", "त",]
 jsonClass = "Subhaashita"
 title = "धरित्र्यां त्रीणि"
 

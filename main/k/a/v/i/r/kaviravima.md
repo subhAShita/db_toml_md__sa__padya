@@ -1,6 +1,7 @@
 +++
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9114",]
 meters = [ "हरिणी",]
+pratimaala_letters = [ "ग", "त",]
 jsonClass = "Subhaashita"
 title = "कविरविमहोत्कर्षान्"
 

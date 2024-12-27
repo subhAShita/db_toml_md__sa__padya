@@ -2,6 +2,7 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 7261", "सुभाषितरत्नभाण्डागारः -  03 राजप्रकरणम्// १३ प्रतापवर्णनम्// 10",]
 topics = [ "प्रतापः",]
 meters = [ "वसन्ततिलका",]
+pratimaala_letters = [ "न", "प",]
 jsonClass = "Subhaashita"
 title = "उल्लास्य"
 

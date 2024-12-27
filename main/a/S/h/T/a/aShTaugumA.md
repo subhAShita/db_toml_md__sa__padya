@@ -4,6 +4,7 @@ topics = [ "मितभाषिता", "दानम्", "कुलम्", 
 sources = [ "महाभारतम् (विदुरनीतिः)",]
 ratings = [ "vvasuki:5",]
 meters = [ "UNKNOWN",]
+pratimaala_letters = [ "च", "प",]
 jsonClass = "Subhaashita"
 title = "अष्टौ गुणाः"
 
