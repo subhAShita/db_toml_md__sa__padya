@@ -3,12 +3,21 @@ topics = [ "वैद्यः", "चिकित्सा",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "म", "न", "त",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
 jsonClass = "Subhaashita"
 title = "नातिधैर्यं प्रदातव्यम्"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नातिधैर्यं प्रदातव्यं  
+नातिभीतिश् च रोगिणि।  
+नैश्चिन्त्यान् नादिमे दानं  
+नैराश्याद् एव नान्तिमे॥ २४ +++(5)+++
+</details>
+
+<details><summary>Text</summary>
 
 नातिधैर्यं प्रदातव्यं  
 नातिभीतिश्च रोगिणि ।  

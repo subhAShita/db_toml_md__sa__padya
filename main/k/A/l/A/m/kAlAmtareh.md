@@ -2,12 +2,23 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 9836",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "म", "न", "ख",]
+topics = [ "पिशुनः", "राजा",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
+ratings = [ "vvasuki:4",]
 jsonClass = "Subhaashita"
-title = "कालान्तरे ह्मनर्थाय"
+title = "कालान्तरे ह्यनर्थाय"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कालान्तरे ह्य् अनर्थाय  
+गृध्रो गेहोपरि **स्थितः**।  
+खलो गृह-समीप-**स्थः**  
+सद्यो ऽनर्थाय देहिनाम्॥ ७४ +++(4)+++
+</details>
+
+<details><summary>Text</summary>
 
 कालान्तरे ह्मनर्थाय गृध्रो गेहोपरि स्थितः।  
 खलो गृहसमीपस्थः सद्योऽनर्थाय देहिनाम्॥

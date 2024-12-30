@@ -1,14 +1,23 @@
 +++
-topics = [ "कर्म", "विधिः",]
+topics = [ "कर्म", "विधिः", "धर्मध्वजः",]
 ratings = [ "vvasuki:5",]
-meters = [ "UNKNOWN",]
+meters = [ "UNKNOWN", "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "म", "द", "र",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
 jsonClass = "Subhaashita"
 title = "मन्त्रभ्रंशे सम्प्रदायः"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्र-**भ्रंशे** संप्रदायः  
+प्रयोगश् **च्युत**-संस्कृतौ।  
+देश-धर्मस् त्व् **अनाचारे**  
+पृच्छतां **सिद्धम्** उत्तरम्॥ ८८ +++(5)+++
+</details>
+
+<details><summary>Text</summary>
 
 मन्त्रभ्रंशे संप्रदायः  
 प्रयोगश्च्युतसंस्कृतौ ।  

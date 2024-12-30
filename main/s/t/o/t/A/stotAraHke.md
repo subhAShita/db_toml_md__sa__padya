@@ -3,12 +3,21 @@ topics = [ "आत्म-स्तुतिः",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "व", "न", "त",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
 jsonClass = "Subhaashita"
 title = "स्तोतारः के"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्तोतारः के **भविष्यन्ति**  
+मूर्खस्य जगती-तले।  
+**न स्तौति** चेत् स्वयं च स्वं  
+कदा तस्यास्तु **निर्वृतिः**॥ ७ +++(5)+++
+</details>
+
+<details><summary>Text</summary>
 
 स्तोतारः के भविष्यन्ति मूर्खस्य जगतीतले ।  
 न स्तौति चेत्स्वयं च स्वं कदा तस्यास्तु निर्वृतिः ॥

@@ -2,12 +2,23 @@
 secondary_sources = [ "महा-सुभाषित-सङ्ग्रहः - 4831",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "व", "क",]
+topics = [ "धर्मध्वजः",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
+ratings = [ "vvasuki:5",]
 jsonClass = "Subhaashita"
 title = "आनन्दबाष्परोमाञ्चौ यस्य"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनन्द-बाष्प--रोमाञ्चौ  
+यस्य स्वेच्छा-वशं-वदौ।  
+किं तस्य साधनैर् अन्यैः  
+किङ्कराः सर्व-पार्थिवाः॥ ९३ +++(5)+++
+</details>
+
+<details><summary>Text</summary>
 
 आनन्दबाष्परोमाञ्चौ यस्य स्वेच्छावशंवदौ।  
 किं तस्य साधनैरन्यैः किंकराः सर्वपार्थिवाः॥

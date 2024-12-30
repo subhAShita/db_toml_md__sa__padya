@@ -1,14 +1,23 @@
 +++
-topics = [ "कविः",]
+topics = [ "कविः", "चाटु", "सत्यम्", "असत्यम्",]
 ratings = [ "vvasuki:5",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "न", "क",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
 jsonClass = "Subhaashita"
 title = "स्तुतं स्तुवन्ति"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्तुतं **स्तुवन्ति** कवयो  
+न स्वतो गुण-दर्शिनः।  
+कीटः कश्चिद् अलिर् नाम  
+कियती तत्र वर्णना॥ ३५ +++(5)+++
+</details>
+
+<details><summary>Text</summary>
 
 स्तुतं स्तुवन्ति कवयो न स्वतो गुणदर्शिणः ।  
 कीटः कश्चिदलिर्नाम कियती तत्र वर्णना  ॥

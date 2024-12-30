@@ -1,5 +1,5 @@
 value	quote_count	file_key	quote_keys
-*	13312	NO_FILE_TOTAL	
+*	13462	NO_FILE_TOTAL	
 Middle management	1	Middle_management	
 wabi	1	wabi	
 अकबरः	4	akabaraH	
@@ -11,7 +11,7 @@ wabi	1	wabi
 अङ्गुल्यः	2	angulyaH	
 अजः	1	ajaH	
 अज्ञानम्	1	ajnAnam	
-अतिथिः	2	atithiH	
+अतिथिः	3	atithiH	
 अतिभोजनम्	1	atibhojanam	
 अतिशयः	1	atishayaH	
 अथः	1	athaH	
@@ -108,7 +108,7 @@ wabi	1	wabi
 अश्रूणि	1	ashrUNi	
 अश्वः	9	ashvaH	
 अश्वत्थः	1	ashvatthaH	
-असत्यम्	1	asatyam	
+असत्यम्	10	asatyam	
 असहृदयः	1	asahRdayaH	
 असारग्राहिता	5	asAragrAhitA	
 असूया	1	asUyA	
@@ -151,7 +151,7 @@ wabi	1	wabi
 आयति	1	Ayati	
 आयुः	2	AyuH	
 आरोग्यम्	5	Arogyam	
-आर्जवम्	4	Arjavam	
+आर्जवम्	5	Arjavam	
 आर्यमा	1	AryamA	
 आलस्यम्	1	Alasyam	
 आलिङ्गनम्	11	Alinganam	
@@ -177,6 +177,7 @@ wabi	1	wabi
 उत्का	7	utkA	
 उत्कोचः	1	utkochaH	
 उत्तमजनः	1	uttamajanaH	
+उत्तमर्णाः	3	uttamarNAH	
 उत्तरम्	2	uttaram	
 उत्साहः	5	utsAhaH	
 उदरपूरणम्	1	udarapUraNam	
@@ -247,7 +248,7 @@ wabi	1	wabi
 कलहम्	2	kalaham	
 कलहान्तरिता	28	kalahAntaritA	
 कला	1	kalA	
-कलिः	1	kaliH	
+कलिः	3	kaliH	
 कलिङ्ग-मर्दनम्	1	kalinga-mardanam	
 कलिङ्गदेशः	1	kalingadeshaH	
 कलिङ्गेश्वरः	2	kalingeshvaraH	
@@ -255,7 +256,7 @@ wabi	1	wabi
 कल्पना	2	kalpanA	
 कल्याणदासः	1	kalyANadAsaH	
 कवयित्री	1	kavayitrI	
-कविः	113	kaviH	
+कविः	121	kaviH	
 कविता	3	kavitA	
 कवित्वम्	12	kavitvam	
 कविवृन्दम्	9	kavivRndam	
@@ -339,7 +340,7 @@ wabi	1	wabi
 कृतज्ञता	5	kRtajnatA	
 कृतिचौर्यम्	1	kRtichauryam	
 कृतिमान्	1	kRtimAn	
-कृपणः	66	kRpaNaH	
+कृपणः	72	kRpaNaH	
 कृष्णः	60	kRShNaH	
 कृष्णता	1	kRShNatA	
 कृष्णदेवरायः	1	kRShNadevarAyaH	
@@ -359,7 +360,7 @@ wabi	1	wabi
 क्रोधः	8	krodhaH	
 क्षत्रियः	1	xatriyaH	
 क्षमता	2	xamatA	
-क्षमा	6	xamA	
+क्षमा	7	xamA	
 क्षात्रम्	3	xAtram	
 क्षिप्रकारिता	1	xiprakAritA	
 खड्गः	2	khaDgaH	
@@ -446,7 +447,7 @@ wabi	1	wabi
 चरित्रम्	2	charitram	
 चर्चिका	3	charchikA	
 चाञ्चल्यम्	1	chAnchalyam	
-चाटु	8	chATu	
+चाटु	17	chATu	
 चाटुवचनम्	79	chATuvachanam	
 चातकः	1	chAtakaH	
 चातुर्यम्	2	chAturyam	
@@ -518,7 +519,7 @@ wabi	1	wabi
 ज्योतिष्ठोमः	1	jyotiShThomaH	
 ज्योत्स्ना	15	jyotsnA	
 ज्यौतिषम्	7	jyautiSham	
-ज्यौतिषिकः	1	jyautiShikaH	
+ज्यौतिषिकः	9	jyautiShikaH	
 ज्यौतिष्यम्	1	jyautiShyam	
 टीका	3	TIkA	
 टीकाः	1	TIkAH	
@@ -573,7 +574,7 @@ wabi	1	wabi
 दन्ताः	4	dantAH	
 दमः	13	damaH	
 दम्भः	34	dambhaH	
-दया	1	dayA	
+दया	2	dayA	
 दरिद्रः	88	daridraH	
 दर्प-निग्रहः	1	darpa-nigrahaH	
 दर्पः	1	darpaH	
@@ -581,13 +582,14 @@ wabi	1	wabi
 दशरथः	2	dasharathaH	
 दशावताराः	211	dashAvatArAH	
 दस्युः	1	dasyuH	
+दाक्षिण्यम्	1	dAxiNyam	
 दाता	44	dAtA	
 दानफलम्	1	dAnaphalam	
 दानम्	97	dAnam	
 दाम्पत्य-कलहः	4	dAmpatya-kalahaH	
 दाम्पत्यम्	12	dAmpatyam	
 दाम्भिकः	1	dAmbhikaH	
-दारिद्र्यम्	16	dAridryam	
+दारिद्र्यम्	21	dAridryam	
 दासः	1	dAsaH	
 दास्यम्	1	dAsyam	
 दिगम्बरः	2	digambaraH	
@@ -605,13 +607,13 @@ wabi	1	wabi
 दुर्गा-सिंहः	1	durgA-siMhaH	
 दुर्गुणाः	2	durguNAH	
 दुर्जन-स्नेहः	1	durjana-snehaH	
-दुर्जनः	284	durjanaH	
+दुर्जनः	286	durjanaH	
 दुर्जनाः	1	durjanAH	
 दुर्जीवनम्	4	durjIvanam	
 दुर्दानम्	1	durdAnam	
 दुर्नगरम्	1	durnagaram	
 दुष्कर्म	1	duShkarma	
-दुष्टः	3	duShTaH	
+दुष्टः	8	duShTaH	
 दुष्टता	1	duShTatA	
 दूतः	5	dUtaH	
 दूतीं प्रति नायिकाप्रश्नाः	3	dUtIM_prati_nAyikAprashnAH	
@@ -662,7 +664,7 @@ wabi	1	wabi
 धन-सञ्चयः	1	dhana-sanchayaH	
 धनदः	1	dhanadaH	
 धनम्	40	dhanam	
-धनिकः	16	dhanikaH	
+धनिकः	29	dhanikaH	
 धनिकता	3	dhanikatA	
 धनुः	1	dhanuH	
 धनुर्भङ्गः	1	dhanurbhangaH	
@@ -671,8 +673,10 @@ wabi	1	wabi
 धर्म-प्रभावः	1	dharma-prabhAvaH	
 धर्म-सङ्कटम्	1	dharma-sankaTam	
 धर्मः	52	dharmaH	
+धर्मध्वजः	11	dharmadhvajaH	
 धर्मयुद्धम्	1	dharmayuddham	
 धर्माध्यक्षः	1	dharmAdhyaxaH	
+धार्ष्ट्यम्	1	dhArShTyam	
 धीरः	14	dhIraH	
 धीरता	1	dhIratA	
 धीरोदात्तः	1	dhIrodAttaH	
@@ -721,6 +725,7 @@ wabi	1	wabi
 नायिकादर्शनम्	34	nAyikAdarshanam	
 नायिकाप्रसादः	5	nAyikAprasAdaH	
 नारदः	1	nAradaH	
+नारी	1	nArI	
 नाशः	4	nAshaH	
 नासा	4	nAsA	
 नासाभूषणम्	5	nAsAbhUShaNam	
@@ -813,6 +818,7 @@ wabi	1	wabi
 पशुयागः	2	pashuyAgaH	
 पश्चात्तापः	26	pashchAttApaH	
 पाकः	1	pAkaH	
+पाठनम्	2	pAThanam	
 पाण्डवक्रोधः	1	pANDavakrodhaH	
 पाण्डित्य-दम्भः	5	pANDitya-dambhaH	
 पाण्डित्यम्	13	pANDityam	
@@ -844,7 +850,7 @@ wabi	1	wabi
 पितृ-ऋणम्	1	pitR-RNam	
 पितृ-तर्पणम्	1	pitR-tarpaNam	
 पित्रतिशायी पुत्रः	2	pitratishAyI_putraH	
-पिशुनः	4	pishunaH	
+पिशुनः	9	pishunaH	
 पुंश्चली	1	puMshchalI	
 पुण्यबीज-पापम्	1	puNyabIja-pApam	
 पुण्यम्	7	puNyam	
@@ -940,7 +946,7 @@ wabi	1	wabi
 प्रियभाषिता	1	priyabhAShitA	
 प्रियवादिता	9	priyavAditA	
 प्रियस्य निर्गमः	29	priyasya_nirgamaH	
-प्रीतिः	5	prItiH	
+प्रीतिः	6	prItiH	
 प्रेयः	1	preyaH	
 प्रेयस्त्वम्	2	preyastvam	
 प्रेरणा	2	preraNA	
@@ -952,7 +958,7 @@ wabi	1	wabi
 बकः	2	bakaH	
 बङ्गालिदासः	1	bangAlidAsaH	
 बन्धः	1	bandhaH	
-बन्धुः	2	bandhuH	
+बन्धुः	11	bandhuH	
 बल-प्रदर्शनम्	1	bala-pradarshanam	
 बलम्	10	balam	
 बलरामः	2	balarAmaH	
@@ -1110,6 +1116,7 @@ wabi	1	wabi
 मानसिंहः	1	mAnasiMhaH	
 मानसिकजपः	2	mAnasikajapaH	
 मानी	2	mAnI	
+मान्त्रिकः	4	mAntrikaH	
 माया	3	mAyA	
 मार्गसीर्षः	1	mArgasIrShaH	
 मालवाखण्डलः	1	mAlavAkhaNDalaH	
@@ -1167,6 +1174,7 @@ wabi	1	wabi
 म्लेच्छाक्रमः	1	mlechChAkramaH	
 यजमानः	1	yajamAnaH	
 यज्ञः	4	yajnaH	
+यतिः	4	yatiH	
 यथार्थज्ञानम्	1	yathArthajnAnam	
 यमः	3	yamaH	
 यशः	1	yashaH	
@@ -1182,6 +1190,7 @@ wabi	1	wabi
 युयुत्सा	1	yuyutsA	
 युवा	9	yuvA	
 योगः	4	yogaH	
+योगी	4	yogI	
 योजना	1	yojanA	
 यौवनम्	11	yauvanam	
 रक्षणम्	1	raxaNam	
@@ -1209,7 +1218,7 @@ wabi	1	wabi
 राजशेखरः	2	rAjashekharaH	
 राजसभा	14	rAjasabhA	
 राजसेवकः	9	rAjasevakaH	
-राजा	527	rAjA	
+राजा	531	rAjA	
 राजाधिकारी	1	rAjAdhikArI	
 राजेन्द्रसिंहः	1	rAjendrasiMhaH	
 राज्ञी	1	rAjnI	
@@ -1313,7 +1322,7 @@ wabi	1	wabi
 वाजसनेयशाखा	1	vAjasaneyashAkhA	
 वाणी	6	vANI	
 वात्सल्यम्	1	vAtsalyam	
-वादः	12	vAdaH	
+वादः	17	vAdaH	
 वामनः	2	vAmanaH	
 वामाचारः	1	vAmAchAraH	
 वायुः	1	vAyuH	
@@ -1337,7 +1346,7 @@ wabi	1	wabi
 विचित्य-कारिता	1	vichitya-kAritA	
 विजया	2	vijayA	
 विज्जका	1	vijjakA	
-वितण्डा	10	vitaNDA	
+वितण्डा	9	vitaNDA	
 वित्त-शुचिः	1	vitta-shuchiH	
 वित्तम्	8	vittam	
 वित्तार्जनम्	1	vittArjanam	
@@ -1352,7 +1361,7 @@ wabi	1	wabi
 विद्यालाभः	1	vidyAlAbhaH	
 विद्याविक्रयः	1	vidyAvikrayaH	
 विद्वत्ता	10	vidvattA	
-विद्वान्	8	vidvAn	
+विद्वान्	9	vidvAn	
 विधवा	1	vidhavA	
 विधि-विषम्यम्	1	vidhi-viShamyam	
 विधि-वैषम्यम्	1	vidhi-vaiShamyam	
@@ -1414,7 +1423,7 @@ wabi	1	wabi
 वेश्या	11	veshyA	
 वैदिकः	2	vaidikaH	
 वैद्य-शास्त्रम्	1	vaidya-shAstram	
-वैद्यः	28	vaidyaH	
+वैद्यः	36	vaidyaH	
 वैधर्म्यम्	1	vaidharmyam	
 वैयाकरणः	14	vaiyAkaraNaH	
 वैरम्	3	vairam	
@@ -1461,7 +1470,7 @@ wabi	1	wabi
 शस्त्रशिक्षा	1	shastrashixA	
 शस्त्राणि	1	shastrANi	
 शाकल्लमल्लः	1	shAkallamallaH	
-शाठ्यम्	5	shAThyam	
+शाठ्यम्	6	shAThyam	
 शान्तिः	6	shAntiH	
 शाब्दबोधः	1	shAbdabodhaH	
 शास्त्र-ज्ञानम्	1	shAstra-jnAnam	
@@ -1476,10 +1485,10 @@ wabi	1	wabi
 शाहिजहानः	1	shAhijahAnaH	
 शिक्षकः	1	shixakaH	
 शिक्षणम्	6	shixaNam	
-शिक्षा	5	shixA	
+शिक्षा	7	shixA	
 शिव-परिवारः	2	shiva-parivAraH	
 शिव-पूजा	1	shiva-pUjA	
-शिवः	238	shivaH	
+शिवः	239	shivaH	
 शिवपरिवारः	1	shivaparivAraH	
 शिवसूत्राणि	1	shivasUtrANi	
 शिवौ	27	shivau	
@@ -1515,7 +1524,7 @@ wabi	1	wabi
 शृङ्गारम्	1	shRngAram	
 शोकः	1	shokaH	
 शौचम्	3	shaucham	
-शौर्यम्	4	shauryam	
+शौर्यम्	5	shauryam	
 श्त्रीः	1	shtrIH	
 श्त्रीसौनर्यम्	1	shtrIsaunaryam	
 श्रद्धा	1	shraddhA	
@@ -1529,7 +1538,7 @@ wabi	1	wabi
 श्रेयः	1	shreyaH	
 श्रोता	1	shrotA	
 श्रोतृत्वम्	1	shrotRtvam	
-श्रोत्रियः	1	shrotriyaH	
+श्रोत्रियः	2	shrotriyaH	
 श्वशुरः	1	shvashuraH	
 षण्मुखः	3	ShaNmukhaH	
 संख्याबलम्	2	saMkhyAbalam	
@@ -1560,7 +1569,7 @@ wabi	1	wabi
 सत्त्वम्	3	sattvam	
 सत्त्वेन हानिः	1	sattvena_hAniH	
 सत्पत्नी	1	satpatnI	
-सत्यम्	17	satyam	
+सत्यम्	26	satyam	
 सत्सङ्गः	10	satsangaH	
 सदाचारः	5	sadAchAraH	
 सद्गुणः	1	sadguNaH	
@@ -1590,6 +1599,7 @@ wabi	1	wabi
 समात्वम्	1	samAtvam	
 समाधिः	1	samAdhiH	
 समानताभासः	1	samAnatAbhAsaH	
+समाप्तिः	1	samAptiH	
 समुद्रः	7	samudraH	
 सम्बन्धः	1	sambandhaH	
 सम्बन्धाभासः	1	sambandhAbhAsaH	

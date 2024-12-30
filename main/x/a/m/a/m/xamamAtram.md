@@ -1,14 +1,23 @@
 +++
-topics = [ "श्री-मदः", "धनिकता", "मदः",]
-ratings = [ "vvasuki:5",]
+topics = [ "श्री-मदः", "धनिकता", "मदः", "धनिकः",]
+ratings = [ "vvasuki:5", "vvasuki:4",]
 meters = [ "अनुष्टुप् (श्लोक)",]
 pratimaalaa_letters = [ "र", "ल", "त",]
+sources = [ "नीलकण्ठ-दीक्षितः - कलिविडम्बनम्",]
 jsonClass = "Subhaashita"
 title = "क्षणमात्रं ग्रहावेशो"
 
 +++
 
-<details open><summary>Text</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षण-मात्रं ग्रहावेशो  
+याम-मात्रं सुरा-मदः ।  
+लक्ष्मी-मदस् तु मूर्खाणाम्  
+आदेहम् **अनुवर्तते**॥ ६४ +++(4)+++
+</details>
+
+<details><summary>Text</summary>
 
 क्षणमात्रं ग्रहावेशो याममात्रं सुरामदः।  
 लक्ष्मीमदस्तु मूर्खाणामादेहमनुवर्तते ॥
