@@ -5,12 +5,12 @@ ratings = [ "vvasuki:5",]
 meters = [ "उद्गीति",]
 pratimaalaa_letters = [ "न", "प",]
 jsonClass = "Subhaashita"
-title = "जीवँल्लिखामि कवितामिति"
+title = "जीवल्ँलिखामि कवितामिति"
 
 +++
 
 <details open><summary>Text</summary>
 
-जीवँल्लिखामि कवितामिति विश्वसतां हि जीवानाम्।  
+जीवल्ँलिखामि कवितामिति विश्वसतां हि जीवानाम्।  
 पठनं पाठनमथवा व्याख्यानं वेति शब्दकुतुकानि॥
 </details>
